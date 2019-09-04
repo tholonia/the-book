@@ -1,16 +1,26 @@
-cat README.md >> THOLONIA_THE_BOOK.md
-cat 00-INTRO.md > THOLONIA_THE_BOOK.md
-cat 01-CHAOS.md >> THOLONIA_THE_BOOK.md
-cat 02-ENERGY.md >> THOLONIA_THE_BOOK.md
-cat 03-ORDER.md >> THOLONIA_THE_BOOK.md
-cat 04-LAWS.md >> THOLONIA_THE_BOOK.md
-cat 05-INFORMATION.md >> THOLONIA_THE_BOOK.md
-cat 06-REASON.md >> THOLONIA_THE_BOOK.md
-cat 07-STRUCTURE.md >> THOLONIA_THE_BOOK.md
-cat 08-CASES.md >> THOLONIA_THE_BOOK.md
-cat 09-PREDETER.md >> THOLONIA_THE_BOOK.md
-cat 10-UNBOUND.md >> THOLONIA_THE_BOOK.md
-cat 11-REFS.md >> THOLONIA_THE_BOOK.md
-cat XA-WATER.md >> THOLONIA_THE_BOOK.md
-cat XB-TMATH.md >> THOLONIA_THE_BOOK.md
+#!/usr/bin/bash
 
+D=`date +%h-%d-%Y_%H:%m`
+DS=`date +%H:%m:%S`
+DR=`date +%c`
+
+BOOK="versions/THOLONIA_THE_BOOK_${DS}.md"
+echo ${DR} > ${BOOK}
+
+cat README.md >> ${BOOK}
+cat 00-INTRO.md >> ${BOOK}
+cat 01-CHAOS.md >> ${BOOK}
+cat 02-ENERGY.md >> ${BOOK}
+cat 03-ORDER.md >> ${BOOK}
+cat 04-LAWS.md >> ${BOOK}
+cat 05-INFORMATION.md >> ${BOOK}
+cat 06-REASON.md >> ${BOOK}
+cat 07-STRUCTURE.md >> ${BOOK}
+cat 08-CASES.md >> ${BOOK}
+cat 09-PREDETER.md >> ${BOOK}
+cat 10-UNBOUND.md >> ${BOOK}
+cat XA-WATER.md >> ${BOOK}
+cat XB-TMATH.md >> ${BOOK}
+cat 11-REFS.md >> ${BOOK}
+
+cp ${BOOK} ./THOLONIA_THE_BOOK.md

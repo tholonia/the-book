@@ -31,7 +31,7 @@ Everyone from scientists to mystics seems to agree that before there was somethi
 
 How big is nothingness? Is there a limit to nothingness? If there is, how is that defined? If there is no limit, then is nothingness infinite? There are a lot of sticky questions around the concept of nothingness, which would explain why it's symbolic representation of the number 0 (zero) is a fairly modern invention.
 
-##### Zero
+## Zero
 
 Zero was first recorded in Mesopotamia around 3 B.C., followed by its appearance in Mesoamerica to the Mayans circa 4 A.D., India in the 5th century, Cambodia in the 7th and China and the Islamic countries in the 8th century. The concept of zero didn't reach Western Europe until the 12th century, and even then, was not fully accepted as a legitimate number concept for hundreds of years.
 
