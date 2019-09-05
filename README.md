@@ -1,19 +1,8 @@
-DRAFT
-
-Version 3 - ????, 2019
+DRAFT - Version 4 {!}
 
 NOT TO BE SHARED
 
-**Tholonia**
-
-The Existential Mechanics of Awareness
-
-by
-
-Duncan Stroud
-
-*Tholonia: the Existential Mechanics of Awareness*
-
+## **Tholonia: The Existential Mechanics of Awareness**
 Copyright © 2019 Duncan Stroud
 
 This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at https://github.com/baardev/tholonia\_the\_book

@@ -4,23 +4,66 @@ D=`date +%h-%d-%Y_%H:%m`
 DS=`date +%H:%m:%S`
 DR=`date +%c`
 
-BOOK="versions/THOLONIA_THE_BOOK_${DS}.md"
-echo ${DR} > ${BOOK}
 
-cat README.md >> ${BOOK}
-cat 00-INTRO.md >> ${BOOK}
-cat 01-CHAOS.md >> ${BOOK}
-cat 02-ENERGY.md >> ${BOOK}
-cat 03-ORDER.md >> ${BOOK}
-cat 04-LAWS.md >> ${BOOK}
-cat 05-INFORMATION.md >> ${BOOK}
-cat 06-REASON.md >> ${BOOK}
-cat 07-STRUCTURE.md >> ${BOOK}
-cat 08-CASES.md >> ${BOOK}
-cat 09-PREDETER.md >> ${BOOK}
-cat 10-UNBOUND.md >> ${BOOK}
-cat XA-WATER.md >> ${BOOK}
-cat XB-TMATH.md >> ${BOOK}
-cat 11-REFS.md >> ${BOOK}
+# This makes one large markdown file, but there is really no reason to use this as the edits are made in the chapters.
+# this does not generate a time stamp
 
-cp ${BOOK} ./THOLONIA_THE_BOOK.md
+make_markdown() {
+	#create a versioned filename
+	BOOK="versions/THOLONIA_THE_BOOK_${DS}.md"
+	cat README.md >> ${BOOK}
+	cat 00-INTRO.md >> ${BOOK}
+	cat 01-CHAOS.md >> ${BOOK}
+	cat 02-ENERGY.md >> ${BOOK}
+	cat 03-ORDER.md >> ${BOOK}
+	cat 04-LAWS.md >> ${BOOK}
+	cat 05-INFORMATION.md >> ${BOOK}
+	cat 06-REASON.md >> ${BOOK}
+	cat 07-STRUCTURE.md >> ${BOOK}
+	cat 08-CASES.md >> ${BOOK}
+	cat 09-PREDETER.md >> ${BOOK}
+	cat 10-UNBOUND.md >> ${BOOK}
+	cat XA-WATER.md >> ${BOOK}
+	cat XB-TMATH.md >> ${BOOK}
+	cat 11-REFS.md >> ${BOOK}
+	#cope versioned filename to final name
+	cp ${BOOK} ./THOLONIA_THE_BOOK.md
+}
+
+make_pdf() {
+	echo "MAKING >>> PDF"
+	#create a versioned filename
+	BOOK="versions/THOLONIA_THE_BOOK_${DS}.pdf"
+	echo "OUTPUT >>> ${BOOK}"
+	
+#	CMD="pandoc --toc --standalone -V lang:he -H include.tex --pdf-engine=xelatex --top-level-division=chapter -o ${BOOK}"
+	CMD="pandoc --toc --standalone -H include.tex --pdf-engine=xelatex --top-level-division=chapter -o ${BOOK}"
+        
+	echo "CMD >>> ${CMD}"
+	
+	#replace datestamp with new datestamp in README.md
+	perl -pi -e 's/\{!.*\}/\{!$ENV{'DR'}$2\}/' README.md
+	
+	${CMD} \
+	README.md \
+	00-INTRO.md \
+	01-CHAOS.md \
+	02-ENERGY.md \
+	03-ORDER.md \
+	04-LAWS.md \
+	05-INFORMATION.md \
+	06-REASON.md \
+	07-STRUCTURE.md \
+	08-CASES.md \
+	09-PREDETER.md \
+	10-UNBOUND.md \
+	XA-WATER.md \
+	XB-TMATH.md \
+	11-REFS.md 
+	
+	# copy versioned filename to final name	
+	cp ${BOOK} ./THOLONIA_THE_BOOK.pdf 
+
+}
+
+make_pdf
