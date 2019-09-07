@@ -82,10 +82,10 @@ For those who do not know what a *standing wave pattern* (SWP) is, it is a stabl
 
 Here is a collection of SWPs that were created by placing white powder on a drum head and exposing that drum head to various stable sounds, like a single tone, or a collection of single tones. This process is called *cymatics*.
 
-<center><img src="./media/027-cymatics.jpg" style="width:90%" alt="Cymatic-Patterns.jpg" /></center>
+<center><img src="media/027-cymatics.jpg" style="width:90%" alt="Cymatic-Patterns.jpg" /></center>
 The difference between data and information is analogous to the difference between chaos and order, that difference being exclusively energy.
 
-<center><img src="./media/028-datachaos.png" style="width:90%" /></center>
+<center><img src="media/028-datachaos.png" style="width:90%" /></center>
 We have moved from *data* to *information* to *knowledge* to *understanding* in the following manner, more or less.
 
 - Data + *order* = information
@@ -115,12 +115,12 @@ In the previous example of the cell, the cell itself would be a *holon*, and the
 
 The holarchy is a map of all the concepts of archetypes we have collected and attempts to organize these concepts in a hierarchical fashion. As each parton in a child of a holon, it naturally inherits the scope of its parent. It is these scopes that define the order. Each holon has a unique scope, and this scope is what defines the spectrum of possibilities, the Bell curve of probability, for any particular holon. For example, within the holon of *person,* you will only find *person* things and not *planet* things.
 
-<center><img src="./media/029-holarchy.png" style="width:90%" /></center>
+<center><img src="media/029-holarchy.png" style="width:90%" /></center>
 The graphs above represent a very small subsection of the Grand Holarchy of Everything. The left shows how partons and holons relate to one another. The right shows one of the many paths that connects subatomic particles to the multiverse.
 
 With a few tweaks to the previous *Super-Duper Graph of Reality* Bell curve, making the right axis more logarithmic rather than linear, this model fits nicely on top of it.
 
-<center><img src="./media/030-supercurve2.png" style="width:90%" alt="Bell-Curve2.png" /></center>
+<center><img src="media/030-supercurve2.png" style="width:90%" alt="Bell-Curve2.png" /></center>
 Some readers may be thinking “Hey, wait a minute… those aren't the same axis! What kind of Gaussian goofiness in going on here?” Well, that is partly true. The first Super-Duper Graph of Reality chart shows the probability (x-axis) of where order (y-axis) will be more likely to emerge across the entire spectrum of existence while this one is limited to the spectrum of human perception.
 
 If we assume that our perceptions of reality are fairly compatible with reality as it actually exists, then, as probability would have it, we humans happen to be in the part of the spectrum where one would most expect to find life popping up, so, congratulations to us, we're where we are supposed to be... probably.
@@ -129,7 +129,7 @@ Because the peak of the curve represents where the most “work” will be done 
 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
-<center><img src="./media/031-eyecurve2.png" style="width:90%" alt="eye-Bell-Curve.png" /></center>
+<center><img src="media/031-eyecurve2.png" style="width:90%" alt="eye-Bell-Curve.png" /></center>
 #### **Claim 37:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons. 
 
 #### **Claim 38:** Holons, or archetypes, are interdependent on one another
@@ -147,9 +147,9 @@ In Dawkins own words<sup>[36](#ref_036)</sup>:
 
 This is particularly relevant for two reasons: 1) it specifically addresses, and even defines to some degree, what information is, at least one form of information, and 2) it is compatible with the holarchic model.
 
-<img src="./media/032-holongrid.png" style="float:right;width:2.4625in;height:1.79306in" />This chart comes from a Velikovsky paper on video games and their potential to increase intelligence.<sup>[37](#ref_037)</sup> The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch. It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*. The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object. He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea. In our case, we are defining *Ideas* (capital ‘I'), like forms, as the archetypal blueprint for many instances of ideas. The idea of *“let's make a video game where people have to shoot each other”* is an instance of the Idea *“Individual or tribal competition and survival”*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc. The idea of *“if I sin, I will burn in hell”*, a very resilient and popular meme for thousands of years, is an instance of the Idea *“we are judged harshly by our superiors for being self-serving”*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
+<img src="media/032-holongrid.png" style="float:right;width:2.4625in;height:1.79306in" />This chart comes from a Velikovsky paper on video games and their potential to increase intelligence.<sup>[37](#ref_037)</sup> The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch. It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*. The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object. He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea. In our case, we are defining *Ideas* (capital ‘I'), like forms, as the archetypal blueprint for many instances of ideas. The idea of *“let's make a video game where people have to shoot each other”* is an instance of the Idea *“Individual or tribal competition and survival”*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc. The idea of *“if I sin, I will burn in hell”*, a very resilient and popular meme for thousands of years, is an instance of the Idea *“we are judged harshly by our superiors for being self-serving”*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
 
-<img src="./media/033-embeddedholons.png" style="float:right;width:0.99167in;height:1.02778in" />The holarchy examples shown above is portrayed as being a 2-dimensional bifurcating tree, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.
+<img src="media/033-embeddedholons.png" style="float:right;width:0.99167in;height:1.02778in" />The holarchy examples shown above is portrayed as being a 2-dimensional bifurcating tree, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.
 
 Each holon has its parameters, laws, context, etc., and each holon, therefore, has its own Bell chart that shows where it is best suited to “work”, such as the Bell chart of the human eye sensitivity, which would be one holon of “human eye”.
 

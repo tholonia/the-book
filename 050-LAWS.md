@@ -46,7 +46,7 @@ The optimum condition for the movement of energy between two states is one that 
 
 A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*. This is a fascinating and entertaining device that takes an initial push (low entropy) and then draws a two-dimensional design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).<sup>[8](#ref_008)</sup>
 
-<center><img src="./media/008-harmonograph.jpg" style="width:5.5in;height:3.60833in" alt="Harmonograph" /></center>
+<center><img src="media/008-harmonograph.jpg" style="width:5.5in;height:3.60833in" alt="Harmonograph" /></center>
 #### **Claim 12:** Everything is in a state of seeking and/or maintaining balance. 
 
 Oscillation
@@ -60,9 +60,9 @@ Everything that is sustainable (i.e. currently exists), from the atoms to the ga
 
 > “All things have a frequency and a vibration.”
 
-\~Nikola Tesla
+##### \~Nikola Tesla
 
-<img src="./media/009-planet-spiral.png" style="float:left;width:1.55347in;height:1.41042in" />We typically think of light waves and sound waves as the classical example of oscillations, but the heavenly bodies and stars in the sky are also oscillating particles on a cosmic scale. If we look at the orbits of planets, stars and galaxies they are not simply spinning around in a rather 2D plane of orbits, but that they are spinning around while moving in a direction.
+<img src="media/009-planet-spiral.png" style="float:left;width:1.55347in;height:1.41042in" />We typically think of light waves and sound waves as the classical example of oscillations, but the heavenly bodies and stars in the sky are also oscillating particles on a cosmic scale. If we look at the orbits of planets, stars and galaxies they are not simply spinning around in a rather 2D plane of orbits, but that they are spinning around while moving in a direction.
 
 People have been fascinated with this obvious commonality across all of creation for some time. Kepler himself was quite interested in the relationship between planetary frequencies and musical frequencies, but the study of planetary and musical relationships goes back to at least the 9th century with Eriugena, an Irish monk, theologian and Neoplatonist philosopher, most famous for his work “The Division of Nature,” which claims that nature's first primary division was the division between that which **is** (*being* or *somethingness*) and that which is **not** (*nonbeing* or *nothingness*). His work was condemned as “swarming with worms of heretical perversity”… the 9<sup>th</sup>-century Archdiocese was a tough crowd.
 
@@ -77,11 +77,11 @@ Another law which appears to be local yet applies to many contexts is Ohm's Law,
 
 This law can be displayed as follows:
 
-<center><img src="./media/010-ohmslaw.png" style="width:6.72708in;" /></center>
+<center><img src="media/010-ohmslaw.png" style="width:6.72708in;" /></center>
 If you are not familiar with Ohm's Law, you can understand it using the water example below.
 
-<center><img src="./media/011-water-example.jpg" style="width:5.7in" /></center>
-In this example, the concept of **Power** remains the same, as it is an abstract and derived concept that represents the rate, over time, at which energy (via electrons, water, etc.) is transferred. **Current** is the amount of water (i.e. number of molecules), that is flowing through the pipe. **Voltage** would be analogous to water pressure, which determines how far the water shoots out of the pipe.** Resistance** is represented by the size of the pipe the water is flowing through.
+<center><img src="media/011-water-example.jpg" style="width:5.7in" /></center>
+In this example, the concept of **Power** remains the same, as it is an abstract and derived concept that represents the rate, over time, at which energy (via electrons, water, etc.) is transferred. **Current** is the amount of water (i.e. number of molecules), that is flowing through the pipe. **Voltage** would be analogous to water pressure, which determines how far the water shoots out of the pipe. **Resistance** is represented by the size of the pipe the water is flowing through.
 
 Ohm's law is actually Newton's 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity*.*<sup>[9](#ref_009)</sup>
 
@@ -91,19 +91,17 @@ In the world of electricity we can say *voltage = current \* resistance*, likewi
 
 Ohm's law is just one of a number of contexts where Newton's 2<sup>nd</sup> law applies, as shown below.
 
-<center><img src="./media/012-relatedlaws.png" style="width:7.65208in" alt="ohmslaw.png" /></center>
+<center><img src="media/012-relatedlaws.png" style="width:7.65208in" alt="ohmslaw.png" /></center>
 There's one more comparison to look at as well. Did you notice how the formula wheel above how the *Power = Resistance x Current<sup>2</sup>* (*P=RI<sup>2</sup>)* looks exactly like another popular formula: *E=mc<sup>2</sup>*? Could we find parallels between these two formulas? Maybe there is a relationship such that…
 
 -   **Power** (*P*) is analogous to **energy** (*E*)
+-   **Resistance** (*R*) analogous to **mass** (*m*)
+-   **Current** (*I*) to the **speed of light** (*c*)
 
-    **Resistance** (*R*) analogous to **mass** (*m*)
-
-    **Current** (*I*) to the **speed of light** (*c*)
-
-<center><img src="./media/013-emc2.png" style="width:6.63125in" /></center>
+<center><img src="media/013-emc2.png" style="width:6.63125in" /></center>
 In fact, not only is *E=mc<sup>2</sup>* the exact same formula as *P=RI<sup>2</sup>*, but all twelve formulas work for *E=mc<sup>2</sup>*… with a minor adjustment: in the Newtonian world of electricity and matter, all the variables can change in value, while in the world of relativity, *c* must always remain constant.
 
-<img src="./media/014-fuse.png" style="float:right;height:1in" />It looks like *c,* which is the Relativism's version of Current, or amperage, is the *maximum current supported* rating for this universe, not unlike a 40 Amp fuse we use to ensure we do not exceed the maximum current supported. (Maybe that's why we can't break the speed of light because if we did, we'd ‘blow a cosmic fuse' and shut down reality! That's sort of a joke… but not really.)
+<img src="media/014-fuse.png" style="float:right;height:1in" />It looks like *c,* which is the Relativism's version of Current, or amperage, is the *maximum current supported* rating for this universe, not unlike a 40 Amp fuse we use to ensure we do not exceed the maximum current supported. (Maybe that's why we can't break the speed of light because if we did, we'd ‘blow a cosmic fuse' and shut down reality! That's sort of a joke… but not really.)
 
 We can apply these formulas to energy, mass, and speed and get correct results; with one exception… there is no equivalence to volts when using *E=mc<sup>2</sup>*, which seems odd.
 
@@ -154,7 +152,7 @@ This report concluded:
 
 A more organic example of this self-similarity<sup>[12](#ref_012)</sup> is to compare the structure of the universe to a brain cell.
 
-<center><img src="./media/015-uni-brain-cells.png" style="width:4.07639in;height:1.92778in" /></center>
+<center><img src="media/015-uni-brain-cells.png" style="width:4.07639in;height:1.92778in" /></center>
 There are many matching patterns between cells and the universe, and it is a subject far too broad to get into here. One recently published paper<sup>[13](#ref_013)</sup> shows the similarity in structure of a neutron star and a human cell. Other comparisons have also been noted, such as:
 
 -   mitochondria vs. stars

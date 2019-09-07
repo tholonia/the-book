@@ -45,7 +45,7 @@ A hardcore Aristotelian materialist might say “The law of non-contradiction sp
 
 It would appear that the laws of reason depend on the scope of one's perspective and what one accepts as axiomatic or true, transcendental or otherwise. How, then, can these laws be preexisting if they contradict each other? This is sort of like the fable of the blind men and the elephant, where one blind man holding the elephant's tail describes it as a snake, and the other, holding the foot, describes it as a tree, or perhaps like the brilliant sculptures of Mathew Robert Ortis, such as “Revolution Giraffes”, which looks like a giraffe from one angle, but an elephant from another.
 
-<center><img src="./media/016-eleph-giraf.png" style="width:90%" /></center>
+<center><img src="media/016-eleph-giraf.png" style="width:90%" /></center>
 The blind men and the viewers of the sculpture are all perceiving a preexisting form that is undebatably “true”, but they can't seem to agree on what it is.
 
 Each of these fine folks can easily define and defend their worldview. They are all able to recognize the reality they have accepted as true, supported by the reasoning of that truth.
@@ -60,10 +60,10 @@ I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone 
 
 Here is that correlation, just for fun:<sup>[18](#ref_018)</sup>
 
-<center><img src="./media/017-suicide.jpg" style="width:90%" alt="U.S. Spending on science, space and technology vs Suicide by hanging, strangulation and suffocation" /></center>
+<center><img src="media/017-suicide.jpg" style="width:90%" alt="U.S. Spending on science, space and technology vs Suicide by hanging, strangulation and suffocation" /></center>
 This process of understanding is similar to recognizing a pattern in a series of random dots. In the image below I can definitely see a person dancing, and I can easily prove it by connecting the dots. I am not wrong, but neither is the person who sees an egg sandwich. However, any predictions either of us makes on where the next dot will land or in determining the properties attributes of the dots, based on the understanding of our perceptions, will most likely fail. Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern. Once we recognize the concept of randomness, we can name, define it, and study it.
 
-<center><img src="./media/018-star-dancer.png" style="width:90%" alt="dots.png" /></center>
+<center><img src="media/018-star-dancer.png" style="width:90%" alt="dots.png" /></center>
 Humans began grasping this concept of randomness about 3,000 years ago, but named it things like “fate”, “chance”, and “destiny”, and, being unpredictable, was usually associated with some sort of supernatural justice or punishment. It wasn't until the 16<sup>th</sup> century that Italian mathematicians began to formalize the concept of what we call randomness, so it's still quite a young concept.
 
 #### **Claim 19:** Our ability to reason comes from our ability to see patterns, and our ability to see patterns comes from our ability to reason. 
@@ -184,7 +184,7 @@ The Human Brain and Reason
 
 The American Psychologist Julian Jaynes, in his very popular book “*The Origin of Consciousness in the Breakdown of the Bicameral Mind”* (1976) presents his theory of the evolution of the human brain, wherein he claims that our ancestors heard voices in their heads instructing them what they needed to do and needed to know, and these voices of unknown origin were attributed to the “gods”, and therefore became the voice of Truth.
 
-> <img src="./media/019-bicameral-brain.jpg" style="float:right;width:35%" />“Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices. The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images. The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.”<sup>[21](#ref_021)</sup>
+> <img src="media/019-bicameral-brain.jpg" style="float:right;width:35%" />“Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices. The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images. The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.”<sup>[21](#ref_021)</sup>
 
 Jaynes claims that a bit before 1000 BC (just around the time of the Tower of Babel by Sumerian accounts) the human consciousness was not yet ‘meta-conscious', meaning humans were not aware of their awareness. The bicameral part of Jaynes theory suggests that there were two parts of the brain, the one that managed mundane jobs, habits, rote tasks, etc. (the self), and another part which, when faced with confusing and/or difficult challenges, took over (the voice of god).
 
@@ -213,12 +213,11 @@ The Path of Reason
 
 The rules and conditions of reality that we have discovered have followed a perfectly reasonable path long before man was able to claim them as such. Sometimes it takes a while to find them, but eventually, we do, so far.
 
-<img src="./media/020-planet-logs.gif" style="float:left;width:40%" />For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were. It wasn't until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear. This became Kepler's Third Law of Planetary Motion that states *“the square of the planet's orbital period is proportional to the cube of its distance from the sun.”*
+<img src="media/020-planet-logs.gif" style="float:left;width:40%" />For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were. It wasn't until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear. This became Kepler's Third Law of Planetary Motion that states *“the square of the planet's orbital period is proportional to the cube of its distance from the sun.”*
 
 In the same manner, we discovered DNA is a helix because of hydrogen bonds, etc., so we can say “Here is a pattern and the rules that created it.”
 
-This is not to say everything that the gatekeepers of the Church of Reason consider “unreasonable”, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical areas are, indeed, “unreasonable.” On the contrary, it's quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our common boundaries. Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life. These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked. Once we discovered Bernoulli's
-law<sup>[22](#ref_022)</sup> works in harmony with the law of gravity we mastered the magic art of flying.
+This is not to say everything that the gatekeepers of the Church of Reason consider “unreasonable”, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical areas are, indeed, “unreasonable.” On the contrary, it's quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our common boundaries. Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life. These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked. Once we discovered Bernoulli's law<sup>[22](#ref_022)</sup> works in harmony with the law of gravity we mastered the magic art of flying.
 
 #### **Claim 22:** Reason is the codification of the rules of a reality as we have come to know it. 
 
@@ -321,7 +320,7 @@ The range of possibilities between these two (or any two) states is naturally di
 
 If we had the Ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would in the middle. This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner. This chart below is a general concept of this idea.
 
-<center><img src="./media/021-supercurve1.png" style="width:90%" /></center>
+<center><img src="media/021-supercurve1.png" style="width:90%" /></center>
 We see this sort of distribution everywhere in nature. In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems
 coexist.<sup>[31](#ref_031)</sup>
 
@@ -331,7 +330,7 @@ coexist.<sup>[31](#ref_031)</sup>
 
 For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light. This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green. This makes sense as we evolved in a world that was very green. Other animals have other ranges of sensitivity depending on their context or environment.
 
-<center><img src="./media/022-eyecurve1.png" style="width:90%" /></center>
+<center><img src="media/022-eyecurve1.png" style="width:90%" /></center>
 The oscillations between two states, be they the two states of chaos, order, and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.
 
 This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort.
@@ -346,7 +345,7 @@ When we look at simple waves, such as light waves, radio waves, sound waves, we 
 On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc. On the material level, we have mechanical waves, such as sound waves. On the organic level and beyond (planets, life, culture, politics,
 etc.<sup>[32](#ref_032)</sup>) we don't use the term *waves*, instead, we call them *cycles*, but they represent the same thing.
 
-<img src="./media/023-sinewave.png" style="float:right;width:1.39792in;height:0.49861in" />If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength.
+<img src="media/023-sinewave.png" style="float:right;width:1.39792in;height:0.49861in" />If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength.
 
 Typically we use the terms that describe a wave to describe radiation and vibration, such as light and sound, but we *could* say the moon has a wavelength of about 50 million km, with a frequency of 0.00599584916 Hz, or that migration cycle of the Arctic Tern, a bird that flies back and forth between the Arctic and the Antarctic every year has a frequency of 1/yr., with a wavelength of 70,000 km (which is how far they travel every year).
 
@@ -356,7 +355,7 @@ As meaningless as these terms are for such cases, it does not take away from the
 
 Here's another example of the interdependent cycles of cohabitating rabbits and coyotes. It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic functions, the transference of energy in an attempt to create balance, just in two very different scopes and contexts.
 
-<center><img src="./media/024-predcycle.png" style="width:65%" alt="predator.png" /></center>
+<center><img src="media/024-predcycle.png" style="width:65%" alt="predator.png" /></center>
 Let's compare the properties of two classes of waves; electromagnetic (subatomic particles) and mechanical (particles).
 
 <table><thead><tr class="header"><th><strong>Mechanical Waves</strong></th><th><strong>Electromagnetic Waves</strong></th></tr></thead><tbody><tr class="odd"><td>Travels fastest in the densest matter<br />
@@ -366,7 +365,7 @@ Let's compare the properties of two classes of waves; electromagnetic (subatomic
 
 Yes, for all you physicists and electrical/mechanical engineers that might be reading this with extreme incredulity, the differences between electromagnetic (EM) and mechanical (M) waves are many. We would expect energy to express its movement quite differently when operating under the laws of subatomic particles than that of matter. To put this in perspective, consider that an electron is 100 million times smaller than an atom, and 20 trillion times smaller than a chromosome, let alone the sizes we are talking about for typical M wave medium, like things you can hold in your hand. Compare that to the Milky Way galaxy, which is 167,256,410 times the size of our solar system, and the earth is only 1/38000 the size of that. The difference between an electron and a beach ball is about the same difference between a beach ball and the entire galaxy. With that in mind, consider that the ratio of the actual universe compared to the observable universe is equivalent to an atom compared to the observable universe. It's easy to imagine how things might operate a little differently at these different scales.
 
-<center><img src="./media/025-beachball.png" style="width:90%" alt="beachball.png" /></center>
+<center><img src="media/025-beachball.png" style="width:90%" alt="beachball.png" /></center>
 More important than the differences are the similarities, such as the way energy travels through a medium via waves. All forms of energy are simply a redirection of energy from one state to another, as energy is neither created nor destroyed. This is the very first law of thermodynamics, the conservation of energy. We have identified many forms of energy: sound, chemical, radiant, electrical, atomic, mechanical, elastic, ionization, gravitational, dark (that's the energy causing the universe to expand faster than we think it should), so is it unreasonable to imagine still more forms of energy? Are emotions like love or fear, desires, thoughts, or even imagination a redirection of energy? And what form does that energy take? Can we say that we know of every type of medium and every type of cycle and the laws that control them?
 
 We can only recognize energy as one form or another, not as pure energy itself. An everyday example of this is the fact that you can't see or detect light until the light energy hits something, like a wall or a dust particle. The real mind-bender here is that the dust particle itself is just energy (as all mass is energy according to *m = Ec<sup>2</sup>*), so we can only see one form of energy when that energy interacts with another form of energy. As everything is energy interacting with energy it is easy to understand why we claim that everything that exists (i.e. has sustainable patterns of energy) must oscillate in some sort of medium and that we are not aware of every form of medium or expression of energy that exists.
@@ -384,7 +383,7 @@ Simple Cycle
 
 Let's look at the simple cycle again as the archetypal pattern that describes the movement of energy, regardless of the medium. In some contexts, this pattern is quite measurable, in others, it is analogous, such as in the migration pattern of the Arctic Tern.
 
-<center><img src="./media/026-sinewaveplus.png" style="width:90%" /></center>
+<center><img src="media/026-sinewaveplus.png" style="width:90%" /></center>
 You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.
 
 In humanity's quest to understand reality, either through religion, economics, alchemy or science, we keep bumping into the same universal constants and concepts.

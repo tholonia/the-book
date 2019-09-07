@@ -19,7 +19,7 @@ What was this study exactly?
 
 The results were impressive.
 
-<img src="./media/103-tm-test.gif" style="width:50%" />
+<img src="media/103-tm-test.gif" style="width:50%" />
 This is only one study, so it is not definitive, but it is certainly supportive of the idea that directed intention, what the participants called *coherence*, and what we are calling *order*, has an extended effect. The explanation, according to the tholonic model, is that the directed energy of coherent thought altered the curves of various archetypes thereby altering the probability of where the “work” will produce the most order, or where and how energy will be expressed across a scope's spectrum.
 
 ### On a Personal Note

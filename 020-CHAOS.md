@@ -57,7 +57,7 @@ Chaos also has another definition that means exactly the opposite, similar to th
 
 >  “Now we establish once and for all that \[the universe\] is chaotic.”
 
-<center><img style="text-align:center" src="./media/001-bigbang.png" /></center>
+<center><img style="text-align:center" src="media/001-bigbang.png" /></center>
 #### **Claim 2:** Chaos is a state of total energy and matter. Total somethingness. 
 
 We are not claiming here that the Big Bang theory is correct (because it sounds completely insane), but only ask the question; How can the concept of *chaos* describe the state of the void of total nothingness as well as the state of all matter and energy in the universe?

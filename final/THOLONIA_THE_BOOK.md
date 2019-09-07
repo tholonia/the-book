@@ -1,20 +1,8 @@
-mar 03 sep 2019 22:03:41 -03
-DRAFT
-
-Version 3 - ????, 2019
+DRAFT - Version 4 {!vie 06 sep 2019 21:35:34 EDT}
 
 NOT TO BE SHARED
 
-**Tholonia**
-
-The Existential Mechanics of Awareness
-
-by
-
-Duncan Stroud
-
-*Tholonia: the Existential Mechanics of Awareness*
-
+## **Tholonia: The Existential Mechanics of Awareness**
 Copyright © 2019 Duncan Stroud
 
 This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at https://github.com/baardev/tholonia\_the\_book
@@ -42,6 +30,10 @@ What I am far more interested in is what are the boundaries and structure of rea
 
 In this writing I try and avoid philosophical, social and cultural contexts as much as possible, and where they do exist, I try to keep them at a minimum. This is because this book attempts to transcend the more worldly and exoteric systems. However, the conclusions put forth there can have a dramatic effect on society and culture, as well as science, politics, economics, self-realization, and life itself.
 
+
+#  
+
+[TOC]
 
 CHAOS
 =====
@@ -102,7 +94,7 @@ Chaos also has another definition that means exactly the opposite, similar to th
 
 >  “Now we establish once and for all that \[the universe\] is chaotic.”
 
-<center><img style="text-align:center" src="./media/001-bigbang.png" /></center>
+<center><img style="text-align:center" src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/001-bigbang.png" /></center>
 #### **Claim 2:** Chaos is a state of total energy and matter. Total somethingness. 
 
 We are not claiming here that the Big Bang theory is correct (because it sounds completely insane), but only ask the question; How can the concept of *chaos* describe the state of the void of total nothingness as well as the state of all matter and energy in the universe?
@@ -163,7 +155,7 @@ Everything that exists must follow the laws of existence, for the penalty of not
 
 These laws of physics can change between one state of matter and another. Before we look at some of the laws, let's look at the scopes that these laws must function within.
 
-<center><img src="./media/002-uroborus.png"  /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/002-uroborus.png"  /></center>
 The Scope of Order
 ------------------
 
@@ -177,11 +169,11 @@ Science calls the scope of our everyday Newtonian reality *Macrorealism* <sup>[1
 
 An example of universal laws or patterns that span many scopes might be the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,233, 377...) and its constant ratio of Phi*φ*, also called the Golden Ratio (1:1.618). This number is the ratio that not only pops up in galaxies and seashells but, according to some evolutionary and chemical scientists<sup>[5](#ref_005)</sup>, is the ratio that keeps everything in existence in order and is the shape of space-time itself.
 
-<center><img src="./media/003-phi-shell.png" style="width:5.76944in;height:2.78333in" alt="fractal-nature-1" /></center>
-Another universal law might be simple fractal math formulas, like *f(x)= x*<sup>2</sup>*-1, which seem to mimic nature and* can be found across all forms of existence<sup>[6](#ref_006)</sup>, suggesting that self-similarity is a universal property. *Power laws* explain how a relative change in one measurement can result in a proportional relative change in another measurement (i.e. logarithmic or exponential), and we see these across all levels of existence as well. These universal laws can be found in astronomy, physics, biology, meteorology, cosmology, mathematics, economics, and many other areas including society, wealth and work distribution, competition, media exposure, and much more.
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/003-phi-shell.png" style="width:5.76944in;height:2.78333in" alt="fractal-nature-1" /></center>
+Another universal law might be simple fractal math formulas, like *f(x)= x*<sup>2</sup>*-1, which seem to mimic nature and* can be found across all forms of existence<sup>[6](#ref_006)</sup>, suggesting that self-similarity is a universal property. *Power laws* explain how a relative change in one measurement can result in a proportional relative change in another measurement (i.e. logarithmic or exponential), and we see these across all levels of existence as well. These universal laws can be found in astronomy, physics, biology, meteorology, cosmology, mathematics, economics, and many other areas including society, wealth and work distribution, competition, file:///home/jw/Documents/Projects/mindfields/tholonia-md/media exposure, and much more.
 
-<center><img src="./media/004-fractalprocess.png" xstyle="width:5.3875in;height:2.22986in" alt="fractal.png" /></center>
-<center><img src="./media/005-fracgened.png" xstyle="width:5.44167in;height:1.56597in" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/004-fractalprocess.png" xstyle="width:5.3875in;height:2.22986in" alt="fractal.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/005-fracgened.png" xstyle="width:5.44167in;height:1.56597in" /></center>
 Even though there many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
 Local laws may be local, but they can affect everything that is built upon them. Everything is made of atoms, and atoms are the size they are because of *Plank's constant*, which is the relationship between the mass and the frequency of the particles that make up an atom. If that constant were to change the entire universe would be radically different, if it even existed at all. If Plank's constant changed from 6.2618 x 10<sup>-34</sup> to 6.2618 x 10<sup>-20</sup>, the radius of an atom would go from being too small to see 100 times the distance to the nearest star!
@@ -207,14 +199,14 @@ One theory that sheds light on new thinking about chaos and order is David Bohm'
 
 To demonstrate this concept, Bohm uses an ink droplet analogy. In this demonstration, he places three drops of ink into a cylinder of glycerin. He then spins the cylinder which “mixes” the ink droplets together. He then reverses the spin and reconstructs the ink drops. When the ink droplets are in their original form, at the beginning and the end of the spinning, they are *explicitly* ink droplets and have the *order* of ink drops. When they are mixed up together, they are *implicitly* ink droplets only, and their order would be considered *chaotic* because there is no order of ink drops. The order of the ink drops has been destroyed, but the information of that order exists as a *virtual* ink-drop within the chaos of their mixed state.<sup>[7](#ref_007)</sup>
 
-<center><img src="./media/006-implicate-explicate.png"  /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/006-implicate-explicate.png"  /></center>
 In practical terms, this theory says that when something exists in the physical world it is in an *explicit*, or *unfolded* state. To exist in this state, it must conform to a set of rules that define the archetype of the form it will take. When it does not conform to these rules, it still exists, but only in an *implicit* or *enfolded* state, a state we cannot see or interact with (under normal circumstances). This state has its own rules as well but they are a superset of the *explicit* rules, making physical reality as we know it just one sub-state that a *thing* can be in.
 
 It is these local and universal laws that cause form to *unfold,* to *explicate* itself, self-organize, form patterns and move in accordance with these laws. By the same token, these laws will also *enfold* or *implicate* these forms, causing them to return to an unrecognizable state. The laws of existence are constantly moving chaos to order and order to chaos.
 
 Here is another example that perhaps better displays the idea. Below are four identical pages of perfectly random dots, but there are a few dots on each page that have been added. Looking at any one page it would be impossible to detect any pattern. As we merge the pages the randomness gets denser and denser until a pattern of order emerges.
 
-<center><img src="./media/007-hidden-random.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/007-hidden-random.png" /></center>
 The circle is *implicit* in the random dots of each separate page, and *explicit* when the pages line up together in the proper manner.
 
 In this example, the *local* pattern would be the random pattern on each page, which represent the scope, and the *universal* pattern would be the parts of the circle as it exists on every page.
@@ -267,7 +259,7 @@ The optimum condition for the movement of energy between two states is one that 
 
 A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*. This is a fascinating and entertaining device that takes an initial push (low entropy) and then draws a two-dimensional design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).<sup>[8](#ref_008)</sup>
 
-<center><img src="./media/008-harmonograph.jpg" style="width:5.5in;height:3.60833in" alt="Harmonograph" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/008-harmonograph.jpg" style="width:5.5in;height:3.60833in" alt="Harmonograph" /></center>
 #### **Claim 12:** Everything is in a state of seeking and/or maintaining balance. 
 
 Oscillation
@@ -283,7 +275,7 @@ Everything that is sustainable (i.e. currently exists), from the atoms to the ga
 
 \~Nikola Tesla
 
-<img src="./media/009-planet-spiral.png" style="float:left;width:1.55347in;height:1.41042in" />We typically think of light waves and sound waves as the classical example of oscillations, but the heavenly bodies and stars in the sky are also oscillating particles on a cosmic scale. If we look at the orbits of planets, stars and galaxies they are not simply spinning around in a rather 2D plane of orbits, but that they are spinning around while moving in a direction.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/009-planet-spiral.png" style="float:left;width:1.55347in;height:1.41042in" />We typically think of light waves and sound waves as the classical example of oscillations, but the heavenly bodies and stars in the sky are also oscillating particles on a cosmic scale. If we look at the orbits of planets, stars and galaxies they are not simply spinning around in a rather 2D plane of orbits, but that they are spinning around while moving in a direction.
 
 People have been fascinated with this obvious commonality across all of creation for some time. Kepler himself was quite interested in the relationship between planetary frequencies and musical frequencies, but the study of planetary and musical relationships goes back to at least the 9th century with Eriugena, an Irish monk, theologian and Neoplatonist philosopher, most famous for his work “The Division of Nature,” which claims that nature's first primary division was the division between that which **is** (*being* or *somethingness*) and that which is **not** (*nonbeing* or *nothingness*). His work was condemned as “swarming with worms of heretical perversity”… the 9<sup>th</sup>-century Archdiocese was a tough crowd.
 
@@ -298,10 +290,10 @@ Another law which appears to be local yet applies to many contexts is Ohm's Law,
 
 This law can be displayed as follows:
 
-<center><img src="./media/010-ohmslaw.png" style="width:6.72708in;" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/010-ohmslaw.png" style="width:6.72708in;" /></center>
 If you are not familiar with Ohm's Law, you can understand it using the water example below.
 
-<center><img src="./media/011-water-example.jpg" style="width:5.7in" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/011-water-example.jpg" style="width:5.7in" /></center>
 In this example, the concept of **Power** remains the same, as it is an abstract and derived concept that represents the rate, over time, at which energy (via electrons, water, etc.) is transferred. **Current** is the amount of water (i.e. number of molecules), that is flowing through the pipe. **Voltage** would be analogous to water pressure, which determines how far the water shoots out of the pipe.** Resistance** is represented by the size of the pipe the water is flowing through.
 
 Ohm's law is actually Newton's 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity*.*<sup>[9](#ref_009)</sup>
@@ -312,7 +304,7 @@ In the world of electricity we can say *voltage = current \* resistance*, likewi
 
 Ohm's law is just one of a number of contexts where Newton's 2<sup>nd</sup> law applies, as shown below.
 
-<center><img src="./media/012-relatedlaws.png" style="width:7.65208in" alt="ohmslaw.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/012-relatedlaws.png" style="width:7.65208in" alt="ohmslaw.png" /></center>
 There's one more comparison to look at as well. Did you notice how the formula wheel above how the *Power = Resistance x Current<sup>2</sup>* (*P=RI<sup>2</sup>)* looks exactly like another popular formula: *E=mc<sup>2</sup>*? Could we find parallels between these two formulas? Maybe there is a relationship such that…
 
 -   **Power** (*P*) is analogous to **energy** (*E*)
@@ -321,10 +313,10 @@ There's one more comparison to look at as well. Did you notice how the formula w
 
     **Current** (*I*) to the **speed of light** (*c*)
 
-<center><img src="./media/013-emc2.png" style="width:6.63125in" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/013-emc2.png" style="width:6.63125in" /></center>
 In fact, not only is *E=mc<sup>2</sup>* the exact same formula as *P=RI<sup>2</sup>*, but all twelve formulas work for *E=mc<sup>2</sup>*… with a minor adjustment: in the Newtonian world of electricity and matter, all the variables can change in value, while in the world of relativity, *c* must always remain constant.
 
-<img src="./media/014-fuse.png" style="float:right;height:1in" />It looks like *c,* which is the Relativism's version of Current, or amperage, is the *maximum current supported* rating for this universe, not unlike a 40 Amp fuse we use to ensure we do not exceed the maximum current supported. (Maybe that's why we can't break the speed of light because if we did, we'd ‘blow a cosmic fuse' and shut down reality! That's sort of a joke… but not really.)
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/014-fuse.png" style="float:right;height:1in" />It looks like *c,* which is the Relativism's version of Current, or amperage, is the *maximum current supported* rating for this universe, not unlike a 40 Amp fuse we use to ensure we do not exceed the maximum current supported. (Maybe that's why we can't break the speed of light because if we did, we'd ‘blow a cosmic fuse' and shut down reality! That's sort of a joke… but not really.)
 
 We can apply these formulas to energy, mass, and speed and get correct results; with one exception… there is no equivalence to volts when using *E=mc<sup>2</sup>*, which seems odd.
 
@@ -375,7 +367,7 @@ This report concluded:
 
 A more organic example of this self-similarity<sup>[12](#ref_012)</sup> is to compare the structure of the universe to a brain cell.
 
-<center><img src="./media/015-uni-brain-cells.png" style="width:4.07639in;height:1.92778in" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/015-uni-brain-cells.png" style="width:4.07639in;height:1.92778in" /></center>
 There are many matching patterns between cells and the universe, and it is a subject far too broad to get into here. One recently published paper<sup>[13](#ref_013)</sup> shows the similarity in structure of a neutron star and a human cell. Other comparisons have also been noted, such as:
 
 -   mitochondria vs. stars
@@ -414,7 +406,7 @@ He then goes on to say...
 
 > “The \[paper 'The Structure of Physical Reality'\] applies the name *physical reality* to comprise the universe with everything that exists and moves therein. It does not matter whether the aspects of this reality are observable. It is even plausible that a large part of this reality is not in any way perceptible. The part that is observable shows at the same time an enormous complexity, and yet it demonstrates a peculiarly large coherence.
 >
-> The conclusion is that physical reality clearly has a structure. Moreover, this structure has a hierarchy. Higher layers are becoming more complicated. That means immediately that a dive into the deeper layers reveals an increasingly simpler structure. Eventually, we come to the foundation, and that structure must be easily understandable. The way back to higher structure layers delivers an interesting prospect. The foundation must force the development of reality in a predetermined direction. The document postulates that the evolution of reality resembles the evolution of a seed from which only a specific type of plant can grow. The growth process provides stringent restrictions so that only this type of plant can develop. This similarity, therefore, means that the fundamentals of physical reality can only develop the reality that we know”
+> The conclusion is that physical reality clearly has a structure. Moreover, this structure has a hierarchy. Higher layers are becoming more complicated. That means imfile:///home/jw/Documents/Projects/mindfields/tholonia-md/mediately that a dive into the deeper layers reveals an increasingly simpler structure. Eventually, we come to the foundation, and that structure must be easily understandable. The way back to higher structure layers delivers an interesting prospect. The foundation must force the development of reality in a predetermined direction. The document postulates that the evolution of reality resembles the evolution of a seed from which only a specific type of plant can grow. The growth process provides stringent restrictions so that only this type of plant can develop. This similarity, therefore, means that the fundamentals of physical reality can only develop the reality that we know”
 
 In other words, he is saying that there are orders of creation (*hierarchy* and *layers*, in his words) that must abide by specific laws and which are limited (*predetermined*) by their component parts (*seeds*). Likewise, the restrictions of the growth process will be similar at every level, and consequently, the laws at play will be similar.
 
@@ -510,10 +502,10 @@ For those who do not know what a *standing wave pattern* (SWP) is, it is a stabl
 
 Here is a collection of SWPs that were created by placing white powder on a drum head and exposing that drum head to various stable sounds, like a single tone, or a collection of single tones. This process is called *cymatics*.
 
-<center><img src="./media/027-cymatics.jpg" style="width:90%" alt="Cymatic-Patterns.jpg" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/027-cymatics.jpg" style="width:90%" alt="Cymatic-Patterns.jpg" /></center>
 The difference between data and information is analogous to the difference between chaos and order, that difference being exclusively energy.
 
-<center><img src="./media/028-datachaos.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/028-datachaos.png" style="width:90%" /></center>
 We have moved from *data* to *information* to *knowledge* to *understanding* in the following manner, more or less.
 
 - Data + *order* = information
@@ -543,12 +535,12 @@ In the previous example of the cell, the cell itself would be a *holon*, and the
 
 The holarchy is a map of all the concepts of archetypes we have collected and attempts to organize these concepts in a hierarchical fashion. As each parton in a child of a holon, it naturally inherits the scope of its parent. It is these scopes that define the order. Each holon has a unique scope, and this scope is what defines the spectrum of possibilities, the Bell curve of probability, for any particular holon. For example, within the holon of *person,* you will only find *person* things and not *planet* things.
 
-<center><img src="./media/029-holarchy.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/029-holarchy.png" style="width:90%" /></center>
 The graphs above represent a very small subsection of the Grand Holarchy of Everything. The left shows how partons and holons relate to one another. The right shows one of the many paths that connects subatomic particles to the multiverse.
 
 With a few tweaks to the previous *Super-Duper Graph of Reality* Bell curve, making the right axis more logarithmic rather than linear, this model fits nicely on top of it.
 
-<center><img src="./media/030-supercurve2.png" style="width:90%" alt="Bell-Curve2.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/030-supercurve2.png" style="width:90%" alt="Bell-Curve2.png" /></center>
 Some readers may be thinking “Hey, wait a minute… those aren't the same axis! What kind of Gaussian goofiness in going on here?” Well, that is partly true. The first Super-Duper Graph of Reality chart shows the probability (x-axis) of where order (y-axis) will be more likely to emerge across the entire spectrum of existence while this one is limited to the spectrum of human perception.
 
 If we assume that our perceptions of reality are fairly compatible with reality as it actually exists, then, as probability would have it, we humans happen to be in the part of the spectrum where one would most expect to find life popping up, so, congratulations to us, we're where we are supposed to be... probably.
@@ -557,7 +549,7 @@ Because the peak of the curve represents where the most “work” will be done 
 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
-<center><img src="./media/031-eyecurve2.png" style="width:90%" alt="eye-Bell-Curve.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/031-eyecurve2.png" style="width:90%" alt="eye-Bell-Curve.png" /></center>
 #### **Claim 37:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons. 
 
 #### **Claim 38:** Holons, or archetypes, are interdependent on one another
@@ -575,9 +567,9 @@ In Dawkins own words<sup>[36](#ref_036)</sup>:
 
 This is particularly relevant for two reasons: 1) it specifically addresses, and even defines to some degree, what information is, at least one form of information, and 2) it is compatible with the holarchic model.
 
-<img src="./media/032-holongrid.png" style="float:right;width:2.4625in;height:1.79306in" />This chart comes from a Velikovsky paper on video games and their potential to increase intelligence.<sup>[37](#ref_037)</sup> The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch. It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*. The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object. He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea. In our case, we are defining *Ideas* (capital ‘I'), like forms, as the archetypal blueprint for many instances of ideas. The idea of *“let's make a video game where people have to shoot each other”* is an instance of the Idea *“Individual or tribal competition and survival”*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc. The idea of *“if I sin, I will burn in hell”*, a very resilient and popular meme for thousands of years, is an instance of the Idea *“we are judged harshly by our superiors for being self-serving”*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/032-holongrid.png" style="float:right;width:2.4625in;height:1.79306in" />This chart comes from a Velikovsky paper on video games and their potential to increase intelligence.<sup>[37](#ref_037)</sup> The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch. It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*. The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object. He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea. In our case, we are defining *Ideas* (capital ‘I'), like forms, as the archetypal blueprint for many instances of ideas. The idea of *“let's make a video game where people have to shoot each other”* is an instance of the Idea *“Individual or tribal competition and survival”*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc. The idea of *“if I sin, I will burn in hell”*, a very resilient and popular meme for thousands of years, is an instance of the Idea *“we are judged harshly by our superiors for being self-serving”*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
 
-<img src="./media/033-embeddedholons.png" style="float:right;width:0.99167in;height:1.02778in" />The holarchy examples shown above is portrayed as being a 2-dimensional bifurcating tree, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/033-embeddedholons.png" style="float:right;width:0.99167in;height:1.02778in" />The holarchy examples shown above is portrayed as being a 2-dimensional bifurcating tree, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.
 
 Each holon has its parameters, laws, context, etc., and each holon, therefore, has its own Bell chart that shows where it is best suited to “work”, such as the Bell chart of the human eye sensitivity, which would be one holon of “human eye”.
 
@@ -632,7 +624,7 @@ A hardcore Aristotelian materialist might say “The law of non-contradiction sp
 
 It would appear that the laws of reason depend on the scope of one's perspective and what one accepts as axiomatic or true, transcendental or otherwise. How, then, can these laws be preexisting if they contradict each other? This is sort of like the fable of the blind men and the elephant, where one blind man holding the elephant's tail describes it as a snake, and the other, holding the foot, describes it as a tree, or perhaps like the brilliant sculptures of Mathew Robert Ortis, such as “Revolution Giraffes”, which looks like a giraffe from one angle, but an elephant from another.
 
-<center><img src="./media/016-eleph-giraf.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/016-eleph-giraf.png" style="width:90%" /></center>
 The blind men and the viewers of the sculpture are all perceiving a preexisting form that is undebatably “true”, but they can't seem to agree on what it is.
 
 Each of these fine folks can easily define and defend their worldview. They are all able to recognize the reality they have accepted as true, supported by the reasoning of that truth.
@@ -647,10 +639,10 @@ I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone 
 
 Here is that correlation, just for fun:<sup>[18](#ref_018)</sup>
 
-<center><img src="./media/017-suicide.jpg" style="width:90%" alt="U.S. Spending on science, space and technology vs Suicide by hanging, strangulation and suffocation" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/017-suicide.jpg" style="width:90%" alt="U.S. Spending on science, space and technology vs Suicide by hanging, strangulation and suffocation" /></center>
 This process of understanding is similar to recognizing a pattern in a series of random dots. In the image below I can definitely see a person dancing, and I can easily prove it by connecting the dots. I am not wrong, but neither is the person who sees an egg sandwich. However, any predictions either of us makes on where the next dot will land or in determining the properties attributes of the dots, based on the understanding of our perceptions, will most likely fail. Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern. Once we recognize the concept of randomness, we can name, define it, and study it.
 
-<center><img src="./media/018-star-dancer.png" style="width:90%" alt="dots.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/018-star-dancer.png" style="width:90%" alt="dots.png" /></center>
 Humans began grasping this concept of randomness about 3,000 years ago, but named it things like “fate”, “chance”, and “destiny”, and, being unpredictable, was usually associated with some sort of supernatural justice or punishment. It wasn't until the 16<sup>th</sup> century that Italian mathematicians began to formalize the concept of what we call randomness, so it's still quite a young concept.
 
 #### **Claim 19:** Our ability to reason comes from our ability to see patterns, and our ability to see patterns comes from our ability to reason. 
@@ -771,7 +763,7 @@ The Human Brain and Reason
 
 The American Psychologist Julian Jaynes, in his very popular book “*The Origin of Consciousness in the Breakdown of the Bicameral Mind”* (1976) presents his theory of the evolution of the human brain, wherein he claims that our ancestors heard voices in their heads instructing them what they needed to do and needed to know, and these voices of unknown origin were attributed to the “gods”, and therefore became the voice of Truth.
 
-> <img src="./media/019-bicameral-brain.jpg" style="float:right;width:35%" />“Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices. The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images. The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.”<sup>[21](#ref_021)</sup>
+> <img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/019-bicameral-brain.jpg" style="float:right;width:35%" />“Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices. The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images. The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.”<sup>[21](#ref_021)</sup>
 
 Jaynes claims that a bit before 1000 BC (just around the time of the Tower of Babel by Sumerian accounts) the human consciousness was not yet ‘meta-conscious', meaning humans were not aware of their awareness. The bicameral part of Jaynes theory suggests that there were two parts of the brain, the one that managed mundane jobs, habits, rote tasks, etc. (the self), and another part which, when faced with confusing and/or difficult challenges, took over (the voice of god).
 
@@ -800,7 +792,7 @@ The Path of Reason
 
 The rules and conditions of reality that we have discovered have followed a perfectly reasonable path long before man was able to claim them as such. Sometimes it takes a while to find them, but eventually, we do, so far.
 
-<img src="./media/020-planet-logs.gif" style="float:left;width:40%" />For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were. It wasn't until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear. This became Kepler's Third Law of Planetary Motion that states *“the square of the planet's orbital period is proportional to the cube of its distance from the sun.”*
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/020-planet-logs.gif" style="float:left;width:40%" />For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were. It wasn't until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear. This became Kepler's Third Law of Planetary Motion that states *“the square of the planet's orbital period is proportional to the cube of its distance from the sun.”*
 
 In the same manner, we discovered DNA is a helix because of hydrogen bonds, etc., so we can say “Here is a pattern and the rules that created it.”
 
@@ -908,7 +900,7 @@ The range of possibilities between these two (or any two) states is naturally di
 
 If we had the Ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would in the middle. This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner. This chart below is a general concept of this idea.
 
-<center><img src="./media/021-supercurve1.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/021-supercurve1.png" style="width:90%" /></center>
 We see this sort of distribution everywhere in nature. In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems
 coexist.<sup>[31](#ref_031)</sup>
 
@@ -918,7 +910,7 @@ coexist.<sup>[31](#ref_031)</sup>
 
 For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light. This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green. This makes sense as we evolved in a world that was very green. Other animals have other ranges of sensitivity depending on their context or environment.
 
-<center><img src="./media/022-eyecurve1.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/022-eyecurve1.png" style="width:90%" /></center>
 The oscillations between two states, be they the two states of chaos, order, and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.
 
 This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort.
@@ -933,7 +925,7 @@ When we look at simple waves, such as light waves, radio waves, sound waves, we 
 On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc. On the material level, we have mechanical waves, such as sound waves. On the organic level and beyond (planets, life, culture, politics,
 etc.<sup>[32](#ref_032)</sup>) we don't use the term *waves*, instead, we call them *cycles*, but they represent the same thing.
 
-<img src="./media/023-sinewave.png" style="float:right;width:1.39792in;height:0.49861in" />If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/023-sinewave.png" style="float:right;width:1.39792in;height:0.49861in" />If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength.
 
 Typically we use the terms that describe a wave to describe radiation and vibration, such as light and sound, but we *could* say the moon has a wavelength of about 50 million km, with a frequency of 0.00599584916 Hz, or that migration cycle of the Arctic Tern, a bird that flies back and forth between the Arctic and the Antarctic every year has a frequency of 1/yr., with a wavelength of 70,000 km (which is how far they travel every year).
 
@@ -943,7 +935,7 @@ As meaningless as these terms are for such cases, it does not take away from the
 
 Here's another example of the interdependent cycles of cohabitating rabbits and coyotes. It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic functions, the transference of energy in an attempt to create balance, just in two very different scopes and contexts.
 
-<center><img src="./media/024-predcycle.png" style="width:65%" alt="predator.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/024-predcycle.png" style="width:65%" alt="predator.png" /></center>
 Let's compare the properties of two classes of waves; electromagnetic (subatomic particles) and mechanical (particles).
 
 <table><thead><tr class="header"><th><strong>Mechanical Waves</strong></th><th><strong>Electromagnetic Waves</strong></th></tr></thead><tbody><tr class="odd"><td>Travels fastest in the densest matter<br />
@@ -953,7 +945,7 @@ Let's compare the properties of two classes of waves; electromagnetic (subatomic
 
 Yes, for all you physicists and electrical/mechanical engineers that might be reading this with extreme incredulity, the differences between electromagnetic (EM) and mechanical (M) waves are many. We would expect energy to express its movement quite differently when operating under the laws of subatomic particles than that of matter. To put this in perspective, consider that an electron is 100 million times smaller than an atom, and 20 trillion times smaller than a chromosome, let alone the sizes we are talking about for typical M wave medium, like things you can hold in your hand. Compare that to the Milky Way galaxy, which is 167,256,410 times the size of our solar system, and the earth is only 1/38000 the size of that. The difference between an electron and a beach ball is about the same difference between a beach ball and the entire galaxy. With that in mind, consider that the ratio of the actual universe compared to the observable universe is equivalent to an atom compared to the observable universe. It's easy to imagine how things might operate a little differently at these different scales.
 
-<center><img src="./media/025-beachball.png" style="width:90%" alt="beachball.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/025-beachball.png" style="width:90%" alt="beachball.png" /></center>
 More important than the differences are the similarities, such as the way energy travels through a medium via waves. All forms of energy are simply a redirection of energy from one state to another, as energy is neither created nor destroyed. This is the very first law of thermodynamics, the conservation of energy. We have identified many forms of energy: sound, chemical, radiant, electrical, atomic, mechanical, elastic, ionization, gravitational, dark (that's the energy causing the universe to expand faster than we think it should), so is it unreasonable to imagine still more forms of energy? Are emotions like love or fear, desires, thoughts, or even imagination a redirection of energy? And what form does that energy take? Can we say that we know of every type of medium and every type of cycle and the laws that control them?
 
 We can only recognize energy as one form or another, not as pure energy itself. An everyday example of this is the fact that you can't see or detect light until the light energy hits something, like a wall or a dust particle. The real mind-bender here is that the dust particle itself is just energy (as all mass is energy according to *m = Ec<sup>2</sup>*), so we can only see one form of energy when that energy interacts with another form of energy. As everything is energy interacting with energy it is easy to understand why we claim that everything that exists (i.e. has sustainable patterns of energy) must oscillate in some sort of medium and that we are not aware of every form of medium or expression of energy that exists.
@@ -971,11 +963,15 @@ Simple Cycle
 
 Let's look at the simple cycle again as the archetypal pattern that describes the movement of energy, regardless of the medium. In some contexts, this pattern is quite measurable, in others, it is analogous, such as in the migration pattern of the Arctic Tern.
 
-<center><img src="./media/026-sinewaveplus.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/026-sinewaveplus.png" style="width:90%" /></center>
 You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.
 
 In humanity's quest to understand reality, either through religion, economics, alchemy or science, we keep bumping into the same universal constants and concepts.
 
+---
+title: structure
+layout: pages
+---
 STRUCTURE
 =========
 
@@ -1002,7 +998,7 @@ So when I need a part for my car delivered tomorrow that is 1x2x3, when I order 
 
 The classic explanation of a dimension goes something like *“If something has only one dimension you only need one number to know its exact location.”* In the case of 1-dimension, like in the number line below, if there was a dot on number 6, the dot has a dimension of 6.
 
-<center><img src="./media/035-numnberline.png" style="width:3.01597in;" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/035-numnberline.png" style="width:3.01597in;" /></center>
 This is true when, and only when, the position of the measurer and the thing being measured share the same context, as the value of 6 is only relative to that context. If we wanted to give the absolute position of the dot, we would need to include the coordinates of where in the universe that dot exists, which would require the coordinates of who-knows-how-many larger contexts it was in when it was measured it … where on the planet, in the solar system, in the galaxy, in the multiverse, and all of those with the dimension of time, as they are all moving, and even then it would only be relative to the Universe as we know it. So, even a simple 1-dimensional dot can have a lot of absolute dimensions.
 
 With that in mind, and limiting ourselves to our 3D reality (we'll come back to the multidimensional stuff very soon), what can we say about *things* that are universally common among all of them? Well, we can say at least the following:
@@ -1013,7 +1009,7 @@ With that in mind, and limiting ourselves to our 3D reality (we'll come back to 
 
 -   All things are the most efficient form of that specific thing.
 
-<img src="./media/036-tetrahedron.png" style="FLOAT:RIGHT;width:1.21319in;height:1.21319in" />This last statement might raise a few eyebrows. The claim here is not that any particular thing is the most efficient form of its perfect archetype, but rather the most efficient form for that particular thing under the conditions it exists in any particular moment. A nearly perfect snowball that begins to melt is clearly not the best expression of the archetype of a sphere, but it is the most energy-efficient form that snowball could take, which it *must* take as energy always seeks the path of least resistance.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/036-tetrahedron.png" style="FLOAT:RIGHT;width:1.21319in;height:1.21319in" />This last statement might raise a few eyebrows. The claim here is not that any particular thing is the most efficient form of its perfect archetype, but rather the most efficient form for that particular thing under the conditions it exists in any particular moment. A nearly perfect snowball that begins to melt is clearly not the best expression of the archetype of a sphere, but it is the most energy-efficient form that snowball could take, which it *must* take as energy always seeks the path of least resistance.
 
 If these statements are true, then this would imply that the most primitive thing that can exist, the simplest form possible, is the tetrahedron. Why? Because it is the most efficient form that can exist, it has 3 dimensions, but it is *not* made up of other things because when you remove any one point, it collapses to 2 dimensions, and no *thing* can be 2D. Therefore, it must the very first *thing* to come into existence, at least conceptually speaking.
 
@@ -1036,7 +1032,7 @@ Jumping to the other end of the scale we have some pretty big things in the univ
 
 Here is what a hypercube (4D cube) looks like when it is rotated and projected onto a 2D space, like a shadow (orthographic projection).
 
-<center><img src="./media/037-hypercubeisos.png" style="width:90%" alt="hypercube.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/037-hypercubeisos.png" style="width:90%" alt="hypercube.png" /></center>
 What about something that is 5D, or 6D or 7D? Each one would be bigger by an order of magnitude. How about something that is 248D? That would be very, very big. If something was bigger than the Great Wall in 248D how big would it appear in 3D? About the size of a small travel bag!! OK, you're probably thinking *“248D!? Come on, man. That's ridiculous!”*
 
 Crystal Power
@@ -1052,7 +1048,7 @@ This E8 lattice (that's its technical name, also called a *quasicrystal*, but *m
 
 Here is a page from a paper<sup>[39](#ref_039)</sup> that describes the E8 lattice.
 
-<center><img src="./media/038-e8desc.png" style="width:90%" alt="1708.0369v5-16.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/038-e8desc.png" style="width:90%" alt="1708.0369v5-16.png" /></center>
 As you can see, the whole space-time part of the E8 lattice is just a small part of one of the 3D projections of an 8D slice of a 248D super-thing, leading one to wonder what other forms of reality it has the magic power to create.
 
 The most significant aspect of *Emergence Theory* (for us) is their claim that…
@@ -1062,10 +1058,10 @@ The most significant aspect of *Emergence Theory* (for us) is their claim that�
 
 Here are a couple of beautiful images of the countless faces of the magic E8 crystal to ponder.<sup>[41](#ref_041)</sup>
 
-<center><img src="./media/039-e8examples.png" style="width:90%" alt="e8.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/039-e8examples.png" style="width:90%" alt="e8.png" /></center>
 Just as a fun comparison, check out the following cymatic patterns.
 
-<center><img src="./media/040-cymaticscolor.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/040-cymaticscolor.png" style="width:90%" /></center>
 The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all matter is a projection of countless “pixels” that are really, really small tetrahedrons, each about 1.61 x 10<sup>-35</sup> meters in size. Remember the size of a quark, 10<sup>-17</sup>? This is a *lot* smaller.
 
 It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate quantum mechanics, general and special relativity, the standard model and other mainstream physics theories to form a complete, fundamental picture of a universe unfolding from implicity to explicity. The main difference between these two models is that the *E8 Crystal* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the language of geometry.
@@ -1085,7 +1081,7 @@ Information is structured data, knowledge is structured information, and ideas a
 
 #### **Claim 40:** The concept of a thing and the thing itself are the same things on two different level of order. 
 
-<img src="./media/041-holons-to-tree.png" style="float:left;width:2.60833in;height:2.65694in" />Both of these scopes of matter and ideas represent how a form of pure energy in its chaotic state is converted into order using the same laws as they apply to the relevant contexts of their scope. In one case energy is ordered and expressed as matter and in the latter case as concepts. This is how it relates to holarchies, as holarchies can map not only the naturally occurring hierarchy of the concepts of *reality* (atoms, plants, people, etc.) but also the concept of *concepts* (domains of science, religions, culture, etc.).
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/041-holons-to-tree.png" style="float:left;width:2.60833in;height:2.65694in" />Both of these scopes of matter and ideas represent how a form of pure energy in its chaotic state is converted into order using the same laws as they apply to the relevant contexts of their scope. In one case energy is ordered and expressed as matter and in the latter case as concepts. This is how it relates to holarchies, as holarchies can map not only the naturally occurring hierarchy of the concepts of *reality* (atoms, plants, people, etc.) but also the concept of *concepts* (domains of science, religions, culture, etc.).
 
 If we applied our ideas regarding duality to the holarchy it would look something like this graph: We start with a concept (*xy<sub>0</sub>*), followed by its thesis (*y<sub>1</sub>*), which creates its antithesis (*x<sub>1</sub>*). Within this duality arises the synthesis that acts as the seed for a new concept (*xy<sub>1</sub>*). The holarchy can only accommodate the yellow (gray, if viewing in b&w) concepts as it has no model of a concept being born within a duality.
 
@@ -1095,7 +1091,7 @@ Some readers might recognize this graph as looking very similar to the mystical 
 
 There was no intention to arrive at such a comparison, but these similarities naturally arise whenever we are using reason to explain how reality works. Any system that has order will follow a pattern, and we can see these same patterns over and over again, from the electron to the galaxy, from flowers to computer networking. Our explanations of how realities work, whether we believe it was created by God in six days, or it's all a very sophisticated holographic projection, will have the same patterns of reasoning, albeit with different interpretations of the significance of those patterns.
 
-<center><img src="./media/042-related-patterns.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/042-related-patterns.png" style="width:90%" /></center>
 Knowledge by any other name
 ---------------------------
 
@@ -1142,7 +1138,7 @@ Humans are sort of stuck with the language we have been using for thousands of y
 
 In 1968, Aristid Lindenmayer, a Hungarian theoretical biologist, and botanist at the University of Utrecht designed a symbolic language call *L-system* that incorporated various symbols that were bound by a set of rules. He developed this language as a way to model and describe the behavior of plants and a variety of other organisms<sup>[45](#ref_045)</sup>. The philosophy and architecture of the language were based on the observed logic of growth, i.e. life. Not coincidently, this language describes self-similar systems. This is the language of the future, but sadly, only for our digital offspring, at least not until we do some major rewiring upstairs.
 
-<center><img src="./media/043-l-system-trees.png" style="width:5.52778in" alt="frac-trees.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/043-l-system-trees.png" style="width:5.52778in" alt="frac-trees.png" /></center>
 Still, human language is surprisingly efficient and still manages to function with the same structure that naturally exists in ideas and concepts. Its efficiency is not so much in how language itself evolved, but our brain's ability to apply context and instantly run through many interpretations of words and sentence structure until it finds the most applicable interpretation.
 
 Take the following sentence:
@@ -1160,7 +1156,7 @@ There is such a language which was developed to specifically optimize the transm
 
 In Ithkuil, you can say “On the contrary, I think it may turn out that this rugged mountain range trails off at some point.” in the following manner:
 
-<img src="./media/044-ithlang.jpg" style="width:1.4125in;height:0.52639in" alt="http://www.ithkuil.net/images/intro-1.jpg" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/044-ithlang.jpg" style="width:1.4125in;height:0.52639in" alt="http://www.ithkuil.net/images/intro-1.jpg" />
 
 I doubt we'll be adopting this any time soon.
 
@@ -1187,19 +1183,19 @@ If we break this sentence up into three parts and define each part in a way that
 
 With these three data points, three “atoms” or data, we have the simplest form of information, an information “molecule”, so to speak. The “things” are called *objects*, and the “relationship” is called a *predicate*. Together they are called a *triplet*. We may have some other triplets about Bob, such as, he is a person, he is a friend of Alice, etc.… and we can bind these triplets together quite naturally.
 
-<center><img src="./media/045-monalisa.jpg" style="width:4.67639in;height:3.125in" alt="example-graph.jpg" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/045-monalisa.jpg" style="width:4.67639in;height:3.125in" alt="example-graph.jpg" /></center>
 Predicates can be just about anything… “lives in”, “has a”, “enjoys”, etc. Objects, however, are part of much larger, more structured hierarchies, much like the holarchies above.
 
 We can graph the previous sentence as well in something like the following:
 
-<center><img src="./media/046-handknot.png" style="width:2.66667in;height:2.66667in" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/046-handknot.png" style="width:2.66667in;height:2.66667in" /></center>
 How does a computer know what *is interested in* or what a *person* is? It doesn't “know” the way you or I know, but it does know that a *person* is a type of *agent*, has a *family name*, a *first name* and that a person *knows things*. So, as far as a computer is concerned, a person is just a dataset with a bunch of specific properties and relationship to other
-datasets.<sup>[48](#ref_048)</sup> These definitions and relationships are defined in a hierarchical manner and are called *ontologies*. There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc.… and they can all talk to each other by linking *triplets*
+datasets.<sup>[48](#ref_048)</sup> These definitions and relationships are defined in a hierarchical manner and are called *ontologies*. There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, file:///home/jw/Documents/Projects/mindfields/tholonia-md/media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc.… and they can all talk to each other by linking *triplets*
 together*.*<sup>[49](#ref_049)</sup>
 
 As you can imagine, very quickly a computer can create millions of connections.
 
-With all these connections, we can ask the computer typical questions like “*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15 degrees?*” Of course, social media companies, who have their own data that they aggressively collect from their users, can ask questions like “*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*” More worrying are the queries of the near future, such as “*Tell me all the names of people that are likely to commit a crime in the next week.*” That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them. At Stanford University they have developed AI that has a 91% accuracy rate of determining if you are gay or straight<sup>[50](#ref_050)</sup>… and that is just the beginning.
+With all these connections, we can ask the computer typical questions like “*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15 degrees?*” Of course, social file:///home/jw/Documents/Projects/mindfields/tholonia-md/media companies, who have their own data that they aggressively collect from their users, can ask questions like “*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*” More worrying are the queries of the near future, such as “*Tell me all the names of people that are likely to commit a crime in the next week.*” That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them. At Stanford University they have developed AI that has a 91% accuracy rate of determining if you are gay or straight<sup>[50](#ref_050)</sup>… and that is just the beginning.
 
 The point of this is simply to show that knowledge and information are based on not only concepts of things, but also concepts of how those things relate to one another. This may seem ridiculously obvious to the reader, but some of its implications may not seem so obvious, as we'll see later on.
 
@@ -1216,10 +1212,10 @@ The project started out with reams of data from every sector of the economy, eve
 
 Here is some information taken from this project that describes the relationship between *resources*, *location*, and *sector* using the instances of *water*, *Argentina*, and *agriculture*.
 
-<center><img src="./media/047-truevalue.png" style="width:90%" alt="triplets.png" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/047-truevalue.png" style="width:90%" alt="triplets.png" /></center>
 When modeling all elements of the supply chain they ended up with the following visual representation of the model, with each color representing one of the three concepts that define each context or level. For example, one of the sets of three circles represents resources-location-sector level, with a real-world dataset of *water-Argentina-agriculture*. Within one of the inner circles, such as agriculture, is information about *product-production-transport*, such as *tomatoes-kilos/yr-import/export*, etc., etc. In the end, they were able to calculate the environmental, economic, and social impact that one potato had at every stage of its journey from a spud on the farm to the garbage bin at a restaurant.
 
-<center><img src="./media/048-truevalue-tris.jpg" style="width:40%" alt="holoarchy-tv.jpg" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/048-truevalue-tris.jpg" style="width:40%" alt="holoarchy-tv.jpg" /></center>
 You can clearly see the triplet and holarchic design of this representation of the supply chain. This would be expected if you considered a supply chain as a large-scale version of a living system.
 
 Law of Laws
@@ -1235,7 +1231,7 @@ Earlier we used Newton's 2<sup>nd</sup> law as an example to show how one law ha
 
 These are not simply three isolated laws, but rather three attributes of a greater phenomenon that describes all matter.
 
-<center><img src="./media/049-laws-pf-motion.png" style="width:40%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/049-laws-pf-motion.png" style="width:40%" /></center>
 *(Later we show why these laws should be in the order of \#3 first, followed by \#1 and then \#2).*
 
 Reduction
@@ -1268,11 +1264,11 @@ The simplest way we can describe this process of emergence from a dot to everyth
 
 ##### \~Sir Isaac Newton
 
-<img src="./media/050-dot-line-tri.jpg" style="float:right;width:1.57778in;height:0.39861in" />We are taught that the progression from point to tetrahedron follows a very clear and simple path of point → line → trigram → tetrahedron.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/050-dot-line-tri.jpg" style="float:right;width:1.57778in;height:0.39861in" />We are taught that the progression from point to tetrahedron follows a very clear and simple path of point → line → trigram → tetrahedron.
 
 From the tholonic perspective, this is a very incomplete description because it considers any point to be just like any other point, but they are not the same, as each point has very different attributes. If we ignore those attributes, we are blind to what geometry can show us about so much more than shapes.
 
-<center><img src="./media/051-firstdotpng" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/051-firstdotpng" style="width:90%" /></center>
 We start with a 0-dimensional *dot* (0 dimensions because nothing yet exists) represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can't be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the idea of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.
 
 This next step requires some philosophical conjecture because we have to ask why/how does a 2<sup>nd</sup> (green), dot appear *(Fig. c2).*
@@ -1295,9 +1291,9 @@ We use the colors of blue, green and red to symbolize the attributes of these do
 
 |||
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|<img src="./media/dot-green.png" style="width:220px;float:left"/>| The 1<sup>st</sup> dot. The blue dot represents the initial or parent dot that has no ability to create dimension and exists only as a concept of awareness. This is the dot that defines the simplest form of existence.. |
-|<img src="./media/dot-green.png" style="width:220px;float:left"/>| The 2<sup>nd</sup> dot. The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot. This dot can add 1 dimension a 0-dimension and defines separation and division. This dot also defines the idea of self-awareness as a result of a state of awareness with respect to another state of awareness. |
-|<img src="./media/dot-red.png" style="width:220px;float:left"/>| The 3<sup>rd</sup> dot. The red dots represent where the blue dot and the green dot connect. These are always created in pairs and represent the opposite states of blue dot-green dot interactions. This dot can add 1 dimension to an existing 1-dimensional space and defines scope and area as a result of the union.|
+|<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/dot-green.png" style="width:220px;float:left"/>| The 1<sup>st</sup> dot. The blue dot represents the initial or parent dot that has no ability to create dimension and exists only as a concept of awareness. This is the dot that defines the simplest form of existence.. |
+|<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/dot-green.png" style="width:220px;float:left"/>| The 2<sup>nd</sup> dot. The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot. This dot can add 1 dimension a 0-dimension and defines separation and division. This dot also defines the idea of self-awareness as a result of a state of awareness with respect to another state of awareness. |
+|<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/dot-red.png" style="width:220px;float:left"/>| The 3<sup>rd</sup> dot. The red dots represent where the blue dot and the green dot connect. These are always created in pairs and represent the opposite states of blue dot-green dot interactions. This dot can add 1 dimension to an existing 1-dimensional space and defines scope and area as a result of the union.|
 
 Now a perfect trigram exists, but so do three others. It seems we can't make just one trigram without three additional trigrams instantly coming into existence, and this applies to the additional trigrams as well. Instantly we have an infinite loop of self-similarity. From the tholonic perspective, the instantiation of this concept of instant expansion was experienced when an atom-sized point representing all matter in existence instantly expanded to fill the universe, at least according to the Big Bang Theory.
 
@@ -1309,7 +1305,7 @@ Not surprisingly, the trigrams have already given us the answer with the followi
 
 Looking at *Fig. c8* we see that these are exactly the types of dots that have been created; one blue, one green and one red. All we need to do to combine these three dots together in a new dot, and *viola*, we have a new dot type that can create the 3<sup>rd</sup> dimension.
 
-The RGB <img src="./media/052-rgbdot.png" style="width:0.23in;height:0.23in" /> or White dot <img src="./media/053-whitedot.png" style="width:0.233in;height:0.233in" />represents the combination of all three primary dots. This dot can add 1 dimension to 2-dimensions and defines volumes as a result of the union of three unique trigrams.
+The RGB <img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/052-rgbdot.png" style="width:0.23in;height:0.23in" /> or White dot <img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/053-whitedot.png" style="width:0.233in;height:0.233in" />represents the combination of all three primary dots. This dot can add 1 dimension to 2-dimensions and defines volumes as a result of the union of three unique trigrams.
 
 We now have a tetrahedron.
 
@@ -1332,7 +1328,7 @@ According to the authors, each holon has three functions:
 
 *For the record, the original definitions, and the ones used by Velikovsky in his work were “A holon looks up for what it needs to integrate with, looks sideways for what it needs to compete &/or cooperate with, looks down for what it needs to control.” These definitions were modified in the tholon not only to reflect a more holistic type of relationship but also because these updated definitions were more in line with real-world test cases.*
 
-<img src="./media/054-holonrel1.png" style="width:3.6375in;height:1.76389in" alt="Presentation3.png" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/054-holonrel1.png" style="width:3.6375in;height:1.76389in" alt="Presentation3.png" />
 
 These attributes hold up quite well when compared to our real-world example of a supply chain.
 
@@ -1348,14 +1344,14 @@ To further give this idea a test run, let's apply this to something completely a
 
 We can also visually represent the relationships in the following manner, which allows us to easily map this to a trigram:
 
-<img src="./media/055-holonrel2.png" style="width:3.77292in;height:1.51111in" alt="Presentation2.png" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/055-holonrel2.png" style="width:3.77292in;height:1.51111in" alt="Presentation2.png" />
 
 Tholograms
 ----------
 
 ### Geometry II
 
-<img src="./media/056-NDCpoints.png" style="float:right;width:2.54583in;height:2.34167in" />Let's take these three relationship attributes of **C**ontributes, **N**egotiates, and **D**efines (which we'll shorten to just C, N, and D) and map them to the three points of a trigram.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/056-NDCpoints.png" style="float:right;width:2.54583in;height:2.34167in" />Let's take these three relationship attributes of **C**ontributes, **N**egotiates, and **D**efines (which we'll shorten to just C, N, and D) and map them to the three points of a trigram.
 
 How do we know what attribute maps to what point? Further on we will show a more complete argument, but for now we can simply say if we have a parent, a child and a peer, as we do in both the holarchy and thologram, the parent would be the 1<sup>st</sup> point, the child the 2<sup>nd</sup> point, and the peer the 3<sup>rd</sup> point, as shown in the figure on the right.
 
@@ -1392,12 +1388,12 @@ The primary reason why the properties are the key points in a thologram rather t
 
 These properties direct energy, energy has movement, and movement has direction. In this example the direction is clear, however, this direction could change under different circumstances as we'll see later on.
 
-<center><img src="./media/057-NDCpoints-rels.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/057-NDCpoints-rels.png" style="width:90%" /></center>
 To further illustrate this point, we can use the semantic example above where we show “Alice *is a friend of* Bob.” The thologram model looks at *is a friend of* as the energetic force that defines Alice and Bob, at least within this narrow context of *friendship*. Without relationships Alive and Bob would not even exist, as these relationships define every interaction down to the atomic level.
 
 Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions, we would see how existing systems and new systems get along with each other, which would be some form of cooperation or conflict. On the spectrum of Contribution and Negotiation, we would see some sort of value returned to the society or culture, perhaps in the forms of fealty, dedication, or service (*Fig. t3*).
 
-<center><img src="./media/058-interrules.png" style="width:40%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/058-interrules.png" style="width:40%" /></center>
 For the purposes of demonstration, we'll use these ideas going forward, but keep in mind these are just a few archetypal examples out of many, and only limited to one context. Across different contexts, they would be described differently.
 
 -   **Laws, rules, and limits** resulting from *Negotiation and Definition*.
@@ -1410,9 +1406,9 @@ It is important to note that in the first example when we used the three points 
 
 #### **Claim 43**: Static instances form dynamic relationships. Dynamic relationships form static instances
 
-<img src="./media/059-ruleexposure.png" style="float:right;width:40%" />Here we show the three points of N, D, and C as color sources that instantiate on the scopes, or lines, opposite them. Think of each point as ever-expanding light that illuminates the ‘wall' opposite it. This is a much more complete idea of a tholon as it shows the tholonic concept as the sum of all the attributes (exemplified by the white trigram in the middle), with the points as archetypes, and the lines as the field, zone or scope of where new types of archetypes can emerge from.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/059-ruleexposure.png" style="float:right;width:40%" />Here we show the three points of N, D, and C as color sources that instantiate on the scopes, or lines, opposite them. Think of each point as ever-expanding light that illuminates the ‘wall' opposite it. This is a much more complete idea of a tholon as it shows the tholonic concept as the sum of all the attributes (exemplified by the white trigram in the middle), with the points as archetypes, and the lines as the field, zone or scope of where new types of archetypes can emerge from.
 
-We now have a completed trigram that describes the movement of energy in the process of creation. What would be the simplest instance of this trigram? Most likely it would be something like an atom, the first instance of matter, with a neutral (N), positive (C), and negative (D) particle. This is the description of hydrogen, the very first atom created, with one neutron, one proton, and one electron, the most abundant element in the universe and <img src="./media/060-exag-bell-curve.png" style="float:left;width:1.56667in;height:2.35347in" />from which every other element that exists is created from. On the biological level, this describes mitosis, the process of cell duplication, or reproduction, where one cell gives rise to two genetically identical daughter cells. In the realm of philosophy, we have the Hegelian Dialectic of thesis, antithesis, and synthesis. In fact, for a tholonic concept to exist as a potentially viable and sustainable expression it must satisfy a form of the Hegelian Dialectic, in that it must support a thesis (D), antithesis (C), and synthesis (N).
+We now have a completed trigram that describes the movement of energy in the process of creation. What would be the simplest instance of this trigram? Most likely it would be something like an atom, the first instance of matter, with a neutral (N), positive (C), and negative (D) particle. This is the description of hydrogen, the very first atom created, with one neutron, one proton, and one electron, the most abundant element in the universe and <img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/060-exag-bell-curve.png" style="float:left;width:1.56667in;height:2.35347in" />from which every other element that exists is created from. On the biological level, this describes mitosis, the process of cell duplication, or reproduction, where one cell gives rise to two genetically identical daughter cells. In the realm of philosophy, we have the Hegelian Dialectic of thesis, antithesis, and synthesis. In fact, for a tholonic concept to exist as a potentially viable and sustainable expression it must satisfy a form of the Hegelian Dialectic, in that it must support a thesis (D), antithesis (C), and synthesis (N).
 
 We can learn a number of things from this trigram, but the one detail that is important before moving on is that the N-point is the originating point. This point represents a state of patterned energy that is sustainable and capable of propagating itself. We call this an N-state or an N-source.
 
@@ -1422,11 +1418,11 @@ The tholographic claim is that within the trigram there is energy, and therefore
 
 We can now say this about the trigram and its properties:
 
--   **N** (negotiation) equates to the 1<sup>st</sup> blue dot<img src="./media/dot-blue.png" style="width:50px"/>, which is the awareness of a concept in its simplest form.
+-   **N** (negotiation) equates to the 1<sup>st</sup> blue dot<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/dot-blue.png" style="width:50px"/>, which is the awareness of a concept in its simplest form.
 
--   **D** (definition) equates to the 2<sup>nd</sup> green dot<img src="./media/dot-green.png" style="width:50px"/>, which introduced limitation, division, and separation.
+-   **D** (definition) equates to the 2<sup>nd</sup> green dot<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/dot-green.png" style="width:50px"/>, which introduced limitation, division, and separation.
 
--   **C** (contribution) equates to the 3<sup>rd</sup> red dot<img src="./media/dot-red.png" style="width:50px"/>, which, with the previous two dots, resulted in unification and form.
+-   **C** (contribution) equates to the 3<sup>rd</sup> red dot<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/dot-red.png" style="width:50px"/>, which, with the previous two dots, resulted in unification and form.
 
 By these descriptions, we can state as a general process that defines creations is something like:
 
@@ -1442,14 +1438,14 @@ This is the same process of how the addition of a green dot automatically create
 
 When trigrams are created inside a trigram, something else happens… two additional N points are created. This will become a very important detail shortly.
 
-<center><img src="./media/061-tri-to-tho.png" style="width:80%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/061-tri-to-tho.png" style="width:80%" /></center>
 In this example diagram *Fig. p1* above, the outermost N, D, C points represent the first trigram. You'll see in *Fig. p2* on the CD line of this parent trigram a new state was formed, N. It naturally bifurcates and expands in the same manner as its parent until it reaches its limits of the boundaries of the parent and in doing so creates two additional trigrams.
 
 You may also notice what looks like an inconsistency in the order of the letters. *In Fig. p1,* the parent trigram, the order is (clockwise) NDC, but the three points of the resulting trigram are NCD. It's not actually a reordering, as the children trigrams represent completely new creations. The original NDC is still there in the parent, but we are only looking at the children in *Fig. p2*. The reason the children have a different order is because the new generation was spawned by the new N-source between C and D, and as D is always the first to follow N, and always on the left of N (left is arbitrary, but we need to remain consistent), the newly spawned D will appear on the opposite side of the parent's D. The same applies to C. Not coincidently, this new top trigram has the exact same order and position of the parent. The parent always creates a smaller replica of itself in each generation. You'll also notice that each of the outer trigrams is a mirrored copy of the one central trigram.
 
 We started with one trigram, created one more, resulting in 4 trigrams. Each generation of self-similar creation increases the number of trigrams by 4. Here is what the generations look like.
 
-<center><img src="./media/062-4generations.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/062-4generations.png" style="width:90%" /></center>
 In the 1<sup>st</sup> generation of a simple trigram, we see a few fundamental rules, such as:
 
 -   All sides are of equal length
@@ -1458,7 +1454,7 @@ In the 1<sup>st</sup> generation of a simple trigram, we see a few fundamental r
 
 -   Two points define a line, three points define a trigram. (seems super obvious now, but wait…)
 
--   The area of the trigram is known, $\\left( \\frac{\\sqrt{\\text{num}} - of - sides}{num - of - side + 1} \\right) \\times length - of - side$<sup>2</sup>
+-   The area of the trigram is known.  _**(**SQRT(num-of- sides)/(num-of-sides+1)**)** x length-of-side<sup>2</sup>_
 
 -   The radius of the incircle is exactly half the radius of the circumcircle
 
@@ -1472,12 +1468,12 @@ In the world of mathematics, this is similar to something called a *Sierpinski T
 
 The difference between the thologram and the Sierpinski Triangle is in the latter the concept of a triangle is considered at a separate object that is always upright, so when it is duplicated there is a triangular ‘hole' in the middle where no triangle exists … like this:
 
-<center><img src="./media/063-serp.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/063-serp.png" style="width:90%" /></center>
 In the thologram, we consider the triangle not as an object, but as the boundaries that constrain the movement of energy. The fact that the center trigram is a mirror of the three outer trigrams is evidence of the significance of this inner trigram. One way to think about the thologram is the boundaries are like one-way mirrors, reflecting the light (energy) within the triangle, but allowing the light from outside to enter. This difference between the thologram and the Sierpinski Triangle is only conceptual because the math is essentially the same, but the thologram considers the negative or empty space just as valid as the filled space, just with different attributes.
 
 With each generation, we have more and more rules. In just a few generations we see two dominant patterns begin to emerge from these rules. The first one being the Fibonacci sequence, which emerges simply by the linear increase in generation count as well as the number of trigrams for each generation (1,4,16…), which is always 4^<sup>generation</sup>.
 
-<img src="./media/064-hexagram.png" style="float:right;width:2.04792in;height:1.74167in" />The second dominant pattern is the hexagon, one of nature's most persistent and useful shapes, and can be seen in beehives, Saturn's north pole, dragonfly eyes, rocks, bubbles, snowflakes, organic chemistry, etc., etc., but it is much more than just that. We are also shown how the N-sources converge to form the center every hexagon. From this, we get a much better idea as to the nature of N-sources, which are, unsurprisingly, at the center of order. This is important because it gives us an insight into answering the question “Where did the first N-source come from?”
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/064-hexagram.png" style="float:right;width:2.04792in;height:1.74167in" />The second dominant pattern is the hexagon, one of nature's most persistent and useful shapes, and can be seen in beehives, Saturn's north pole, dragonfly eyes, rocks, bubbles, snowflakes, organic chemistry, etc., etc., but it is much more than just that. We are also shown how the N-sources converge to form the center every hexagon. From this, we get a much better idea as to the nature of N-sources, which are, unsurprisingly, at the center of order. This is important because it gives us an insight into answering the question “Where did the first N-source come from?”
 
 We also see that every *Define* or *Contribute* point is naturally paired with its opposite.
 
@@ -1487,7 +1483,7 @@ Those black dots mark the center of a line that has the capability of creating n
 
 As we saw earlier, the N-source (blue) is the progenitor of the subsequent D (green) and C (red) dots. We also know that the N must always precede the D and C. However, D and C, having all the attributes of the N, can create a new version of N. N and D cannot create a new N because it does not have the attributes of C (form), nor can N and C create a new N as it does not have the attributes of D (definition). N and D cannot create a C, nor can N and C create a D, because only N-states can be created as N-states have no form or dimension. An N-state is simply an idea or concept.
 
-<img src="./media/065.n-sources.png" style="float:right;width:1.54167in;height:1.65833in" />This is a very important detail because it means that even though archetypes can appear across the NC and ND spectrums, they cannot create children, so no N-state will ever appear across these spectrums. However, the CD spectrum, which is the axis of *cooperation* or *conflict*, the opposing side to the point of *negotiation*, can create N-states*.* It may appear as though that would limit all the new N-states to only exist on one side of the trigrams, considering only one side of the trigram has the ability to create new N-sources. This is not the case, because as the trigram self-replicates it naturally rotates 60 degrees with each iteration, allowing every side of the trigram to be able to generate new N-sources. The graph on the right shows the lines connecting the N-states and their respective black dots.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/065.n-sources.png" style="float:right;width:1.54167in;height:1.65833in" />This is a very important detail because it means that even though archetypes can appear across the NC and ND spectrums, they cannot create children, so no N-state will ever appear across these spectrums. However, the CD spectrum, which is the axis of *cooperation* or *conflict*, the opposing side to the point of *negotiation*, can create N-states*.* It may appear as though that would limit all the new N-states to only exist on one side of the trigrams, considering only one side of the trigram has the ability to create new N-sources. This is not the case, because as the trigram self-replicates it naturally rotates 60 degrees with each iteration, allowing every side of the trigram to be able to generate new N-sources. The graph on the right shows the lines connecting the N-states and their respective black dots.
 
 ### Everything Begins with Trigram
 
@@ -1497,7 +1493,7 @@ A curious observations is if you take the simplest material version of the trigr
 
 We can also apply the same associative reasoning to the thologram as a whole to show how its structure appears as a pattern of growth in nature.
 
-<center><img src="./media/066-serp-growth.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/066-serp-growth.png" style="width:90%" /></center>
 Here we are using the Sierpinski triangle which does not show the ‘negative space' of the thologram but simply a blank space. In the thologram, this blank space is just as full of implicit patterns as the positive space is of with explicit patterns. More on this shortly.
 
 There is no question that the natural processes of creation for nature follow these patterns, and with a little shift in perspective, for the natural process of creation for ideas as well when we apply this pattern to relationships rather than objects.
@@ -1506,7 +1502,7 @@ So far all we have described is a 2D trigram. Where is the 3D tetrahedron? Remem
 
 ### 2D to 3D
 
-<img src="./media/067-2d-3d.png" style="float:right;width:2.82986in;height:1.35833in" />If we take the parent trigrams and fold it according to its four children, we get a tetrahedron. This is a complete tholon or *tholonic structure*. Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state of all the properties involved.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/067-2d-3d.png" style="float:right;width:2.82986in;height:1.35833in" />If we take the parent trigrams and fold it according to its four children, we get a tetrahedron. This is a complete tholon or *tholonic structure*. Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state of all the properties involved.
 
 This tetrahedral structure is fundamental to the fabric of our reality and as such we predict that it should act as an efficient receiver or transmitter or energy, among other things. Indeed, such devices have been built that are commonly used in multiband interactions. This class of antennas is called *harmonic Sierpinski gasket antennas*, or *entropy and fractal antennas*. In addition, some rather ‘fringe' research is being done that purports to be able to take advantage of the harmonic quality of these tetrahedral structures to draw (not generate… more like induction) energy from existing fields. I am deliberately not adding any references to this research because, to date, there has been no research that bears up to scrutiny enough to share, however, simply that it is being researched is very exciting.
 
@@ -1514,7 +1510,7 @@ The implication of this transformation from 2D to 3D is significant, for if we t
 
 Below is a more complete, step-by-step description of this transition from beginning to end.
 
-<center><img src="./media/068-dot2tholon.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/068-dot2tholon.png" style="width:90%" /></center>
 Tholons model the movement of energy, and consider the existence of form as the consequence of that movement. With that in mind, let's look at the tholonic explanation using the figures above.
 
 *Fig. a.* We start with a simple trigram. This defines the most fundamental structure of how instantiations of archetypes come to exist, and therefore the flow of energy and their resulting forms as well.
@@ -1547,7 +1543,7 @@ If you managed to slug through this up to this point, congratulations! Here is w
 
 If you look at *Fig. c1*, which is the colorized front view of *Fig. a5*, you'll notice that there are alternating sets of real and virtual tholons, and the peaks of these tholons (the black dots) naturally create new trigrams.
 
-<img src="./media/069-tripeaks.png" style="float:left;width:2.12986in;height:2.17986in" />In 2<sup>nd</sup> generation tholons, the peaks are always the 4<sup>th</sup> dot type of RGB combined<img src="./media/070-rgbdot2.png" style="width:0.29514in;height:0.29514in" /> (which we'll call *white* dots from here on), so how can a new tholon appear from three white dots? Doesn't it need three different unique colors to satisfy the conditions for a 4<sup>th</sup> white dot to exist? In fact, that condition *is* satisfied. If we make the RGB/white dots huge for demonstration purposes you can see how the colors line up to create three separate dots of three separate colors, but these 2<sup>nd</sup> generation dots are composed of three pieces of three dots that are 1/3<sup>rd</sup> each color.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/069-tripeaks.png" style="float:left;width:2.12986in;height:2.17986in" />In 2<sup>nd</sup> generation tholons, the peaks are always the 4<sup>th</sup> dot type of RGB combined<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/070-rgbdot2.png" style="width:0.29514in;height:0.29514in" /> (which we'll call *white* dots from here on), so how can a new tholon appear from three white dots? Doesn't it need three different unique colors to satisfy the conditions for a 4<sup>th</sup> white dot to exist? In fact, that condition *is* satisfied. If we make the RGB/white dots huge for demonstration purposes you can see how the colors line up to create three separate dots of three separate colors, but these 2<sup>nd</sup> generation dots are composed of three pieces of three dots that are 1/3<sup>rd</sup> each color.
 
 For clarity's sake, we are referring to each generation of tholon children as *generations,* while the tholons that are created from the peaks of these original tholons, and their children, we refer to as *iterations*.
 
@@ -1559,7 +1555,7 @@ Interestingly, the growth pattern of tholons is the inverse of a recursive Fibon
 
 *Fig. c2.* For this figure, because it would be too complicated to show and describe an entire 5<sup>th</sup> generation view, we are looking at only a small section of a 5<sup>th</sup> generation view by showing only four 4<sup>th</sup> generation tholons (like *Fig. b4*).
 
-*Fig. d1, d2, d3*, and *d4* are isometric views of the figures immediately above them.
+*Fig. d1, d2, d3*, and *d4* are isometric views of the figures imfile:///home/jw/Documents/Projects/mindfields/tholonia-md/mediately above them.
 
 Fig. d1 shows the first instance of tetrahedrons. This first level is that foundation of all material existence, and as you can see, it looks and acts quite different from iterations that follow (*Fig. d2, d3, d4)*. We believe this first iteration is the domain of element and the quantum world.
 
@@ -1577,11 +1573,11 @@ Now we can start to fold this into itself. Each of four the sides that make up a
 
 It looks like we have broken the rules that no children can exist outside of their parent's limits because we have a lot of virtual tholons sticking way outside those limits.
 
-Remember when we were looking at the Sierpinski Fractal? One of the points made was that Sierpinski treated the empty space between the tetrahedrons as empty, wherein the tholon model it is not empty, but rather negative space that is a reflection of the immediate parent, a necessary nothingness to the tetrahedrons somethingness. Now review the observation that this middle trigram, as mentioned above, is a reflection trigram. In one sense it does not exist any more than your reflection in the mirror does not represent the existence of another you, but it does exist in that the reflection is a perfect mirror-image representation of you, and this has significant value. It is an illusion, but an illusion that we need to take seriously.
+Remember when we were looking at the Sierpinski Fractal? One of the points made was that Sierpinski treated the empty space between the tetrahedrons as empty, wherein the tholon model it is not empty, but rather negative space that is a reflection of the imfile:///home/jw/Documents/Projects/mindfields/tholonia-md/mediate parent, a necessary nothingness to the tetrahedrons somethingness. Now review the observation that this middle trigram, as mentioned above, is a reflection trigram. In one sense it does not exist any more than your reflection in the mirror does not represent the existence of another you, but it does exist in that the reflection is a perfect mirror-image representation of you, and this has significant value. It is an illusion, but an illusion that we need to take seriously.
 
 All the virtual tholons are tholons that were created out of this nothingness space! They are *reflective* tholons only. They do not exist, but they are very important. The virtual tholons are the nothingness complement to the real tholons within the parent through which *their* reflection creates two more real tholons. This does not break the rules that nothing created within the parent can extend past its boundaries any more than looking at yourself in a mirror hanging on the wall does not put you on the other side of the wall, even though it appears that way.
 
-Look at *Fig. a5* again. You'll notice that for every real tholon there is a virtual (reflection) tholon immediately below it. It is because of these virtual reflections that we can generate another iteration of real tholons.
+Look at *Fig. a5* again. You'll notice that for every real tholon there is a virtual (reflection) tholon imfile:///home/jw/Documents/Projects/mindfields/tholonia-md/mediately below it. It is because of these virtual reflections that we can generate another iteration of real tholons.
 
 *Fig. e3* shows the ghosts of the virtual tholons, and *Fig. e4* shows only the real tholons folded into their parent tholon.
 
@@ -1589,15 +1585,15 @@ To get a better perspective of the dynamism of this structure, look at *Fig. f1*
 
 If we go inside this very simple version of a thologram we see what looks like complete chaos (*Fig. f2*), but is, in fact, absolute stunningly perfect order and structure.
 
-<img src="./media/071-thologram-spheres.png" style="width:5.77639in;height:2.325in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/071-thologram-spheres.png" style="width:5.77639in;height:2.325in" />
 
 If we had used the simplest thologram possible in our example, using only 1<sup>st</sup> generation folds, rather than the 3<sup>rd</sup> generation folds above, it would look like the following:
 
-<img src="./media/072-thologram-inside.png" style="width:4.625in;height:2.46111in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/072-thologram-inside.png" style="width:4.625in;height:2.46111in" />
 
 There one last point to consider that is best explained in the following thought exercise: Imagine what you would see if you were a 2D person living in a 2D world and an object passed through your 2D reality. You would see a bunch of 2D slices of that object that changed over time.
 
-<img src="./media/073-flatland.png" style="width:5.75in;height:1.70417in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/073-flatland.png" style="width:5.75in;height:1.70417in" />
 Now imagine you are a 3D person living in a 3D world (which should be pretty easy to do) and a 4D object passes through? You will see 3D ‘slices' of this 3D object over time as it passes through. For example, if a 4D ball passed through a 3D world it would first appear as a very tiny 3D ball, and then grow to a large ball, then shrink to a small ball before disappearing.
 
 In both 2D and 3D cases, you are not getting the whole picture, but in both cases what you are getting is completely true and valid for the context of your reality.
@@ -1610,13 +1606,13 @@ Why is this detail important?
 
 The 3D model of the thologram is a 3D slice of a 4 (or more) dimensional model. What would an 8D or 248D ‘object' appear as in this 3D world? It could appear as many, many different things. Take a look at all the ways a simple 3D tetrahedral pyramid can appear in 2D orthographic projections.
 
-<img src="./media/074-tetraisos.png" style="width:90%" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/074-tetraisos.png" style="width:90%" />
 
 Now imagine the same pyramid with trillions of iterations and many more dimensions! It would have the ability to define or describe every archetype of everything, every idea, every form, that ever has, does or will exist. Its perspectives would effectively be infinite to us, but at its source, it is one thing.
 
 To specify the location of a tholon we have to identify each tholon by an address based on its generation.
 
-<img src="./media/075-dimpointer.png" style="width:1.49167in;height:0.98889in" /><img src="./media/076-dimpath.png" style="width:5.47708in;height:1.59167in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/075-dimpointer.png" style="width:1.49167in;height:0.98889in" /><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/076-dimpath.png" style="width:5.47708in;height:1.59167in" />
 
 If we wanted to reference the topmost tholon in gen 4 by its base trigram, on the bottom right tholon in gen 3, on the bottom left tholon in gen 2, we would need to say it is at 1,3,2,1. The areas blacked out are virtual tholons which don't really exist (energetically) so we can't navigate to them (even though we can reference them). So, in this example, we need 4 dimensions to define the location of a tholon. At any one tholon's location, there can be multiple instances of tholons consisting of all that tholon's ancestors an descendants. Just saying the location of one tholon could just as easily refer to a subsection of a parent tholons or a group of children tholons. Any dimension would have to record the path taken to arrive at any particular tholon. The reason this is being mentioned is to show that each generation of tholons increases the dimensionality of the thologram by one dimension.
 
@@ -1640,11 +1636,11 @@ He explains how the points and the lines of a tetrahedron (60-degree coordinates
 
 The math he proposes is, according to him, based on the reality of empiricism, seeing as that all atoms are made of tetrahedrons, octahedrons, rhombic dodecahedrons, and cubes. Using this synergetic math, we have a coordinate system that works omnirationally, energetically, arithmetically, geometrically, chemically, volumetrically, crystallographically, vectorially, topologically, and energy-quantum-wise.<sup>[53](#ref_053)</sup>
 
-Within the thologram there are higher-order forms as well that are created by tetrahedrons, such as cubes<img src="./media/077-tform1.png" style="width:0.325in;height:0.37153in" alt="Cubic-body-centered.svg" />, hexagons<img src="./media/078-tform2.png" style="width:0.39583in;height:0.40833in" alt="Hexagonal.svg" />, tetragons<img src="./media/079-tform3.png" style="width:0.325in;height:0.49028in" alt="Tetragonal.svg" />, rhombohedra's<img src="./media/080-tform4.png" style="width:0.34167in;height:0.34722in" alt="Rhombohedral.svg" />, orthorhombics<img src="./media/081-tform5.png" style="width:0.325in;height:0.42292in" alt="Orthorhombic.svg" />, or truncated icosahedrons, <img src="./media/082-soccorball.png" style="width:0.52014in;height:0.525in" />which is commonly known as the *Bucky Ball*, or, when in atomic form, *Buckminsterfullerene* (basically, it's a soccer ball).
+Within the thologram there are higher-order forms as well that are created by tetrahedrons, such as cubes<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/077-tform1.png" style="width:0.325in;height:0.37153in" alt="Cubic-body-centered.svg" />, hexagons<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/078-tform2.png" style="width:0.39583in;height:0.40833in" alt="Hexagonal.svg" />, tetragons<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/079-tform3.png" style="width:0.325in;height:0.49028in" alt="Tetragonal.svg" />, rhombohedra's<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/080-tform4.png" style="width:0.34167in;height:0.34722in" alt="Rhombohedral.svg" />, orthorhombics<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/081-tform5.png" style="width:0.325in;height:0.42292in" alt="Orthorhombic.svg" />, or truncated icosahedrons, <img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/082-soccorball.png" style="width:0.52014in;height:0.525in" />which is commonly known as the *Bucky Ball*, or, when in atomic form, *Buckminsterfullerene* (basically, it's a soccer ball).
 
 The thologram, which is based entirely on the tetrahedron and quadray coordinates, is a model of knowledge, thought, and ideas. It's important to remember that the map is not the territory. These models of reality are like maps that describe the terrain. There are elevation maps, density maps, road maps, water maps, contour maps, temperature maps, population maps, economy maps, crime maps, San Francisco even has human feces maps! They all describe the same territory from different perspectives. The thologram is just one template that is a description, so to speak, a language that defines the organization and pattern of all energy at every level.
 
-<img src="./media/083-3cubeprob.png" style="float:right;width:2.27847in;height:1.175in" />There are many alternative ways to map the thologram. What is shown here is just one way. How many ways are there? I don't know, but the extremely simple *three square geometry problem* (what is the total of the angles *α*, *β*, *γ*?) has 54 possible solutions, and that is just with three simple squares (the answer is 90 degrees)!
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/083-3cubeprob.png" style="float:right;width:2.27847in;height:1.175in" />There are many alternative ways to map the thologram. What is shown here is just one way. How many ways are there? I don't know, but the extremely simple *three square geometry problem* (what is the total of the angles *α*, *β*, *γ*?) has 54 possible solutions, and that is just with three simple squares (the answer is 90 degrees)!
 
 As you can imagine, there is literally no end to the relationships, patterns, rules, etc., that can be discovered. What separates knowledge from apophenic delusions (apophenia is the tendency to perceive connections and meaning between unrelated things and is considered a sign of early-stage schizophrenia) is whether a relationship, pattern or law can be tested to achieve predictable results.
 
@@ -1667,11 +1663,11 @@ The actual first instance of matter are the elements, but no element has a tetra
 
 As a result, we would not see any 3D structures until the first iteration that emerges. A single H<sub>2</sub>O molecule is not a tetrahedron, it is a trigram. Water, however, is tetrahedral. This also supports the claim that elements exist within the first pre-iteration instance of tholons, the very first, and smallest, tetrahedrons, but it also shows that some simple compounds are in this pre-iterations space as well.
 
-<img src="./media/084-azotosome.png" style="float:right;width:1.66667in;height:2.17014in" />Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structure that all life depends on. Another early structure that is tetrahedral as a molecule alone is methane, one the first organic molecules and not just a building block of life on earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* on the right, and one we might discover on the Saturn moon of Titan.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/084-azotosome.png" style="float:right;width:1.66667in;height:2.17014in" />Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structure that all life depends on. Another early structure that is tetrahedral as a molecule alone is methane, one the first organic molecules and not just a building block of life on earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* on the right, and one we might discover on the Saturn moon of Titan.
 
 In the above geometry, we see that in the first generation of a tholon we have 4 trigrams, 3 of which are descending (downward-pointing trigram) and one is ascending (upward-pointing trigram). If we have two tholons we then have a total of 8 trigrams made up of 6 descending and 2 ascending.
 
-<img src="./media/085-h20.gif" style="width:0.68403in;height:0.55in" />H<sub>2</sub>O is composed of three atoms. One atom is oxygen, which has an atomic number of 8 as it has 8 protons in its nucleus, which defines how much energy it holds as a ‘charge'. It also supports 8 electrons in its outermost shell, which represents its most balanced state. The other two atoms are hydrogen, the very first instance of Newtonian matter, the kind of matter that makes up physical reality as we know it. It has an atomic number of 1 and has only one proton, one electron, and one neutron. Although oxygen wants 8 electrons in its outer shell, it only has 6, so it naturally forms a bond with two hydrogen atoms by sharing the one electron each hydrogen has to offer.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/085-h20.gif" style="width:0.68403in;height:0.55in" />H<sub>2</sub>O is composed of three atoms. One atom is oxygen, which has an atomic number of 8 as it has 8 protons in its nucleus, which defines how much energy it holds as a ‘charge'. It also supports 8 electrons in its outermost shell, which represents its most balanced state. The other two atoms are hydrogen, the very first instance of Newtonian matter, the kind of matter that makes up physical reality as we know it. It has an atomic number of 1 and has only one proton, one electron, and one neutron. Although oxygen wants 8 electrons in its outer shell, it only has 6, so it naturally forms a bond with two hydrogen atoms by sharing the one electron each hydrogen has to offer.
 
 From a tholonic perspective, oxygen follows the pattern of two 3<sup>rd</sup> gen tholons from one face of a 2<sup>nd</sup> gen tholon, which has 6 *real* tholons and 2 *virtual* tholons (*Fig. v1, showing two 3<sup>rd</sup> gen tholons*). Hydrogen follows the pattern of a complete 2<sup>nd</sup> gen tholon (*Fig. v2, showing two complete 2<sup>nd</sup> gen tholons*). Combining these two together (*Fig. v3*) would represent 8 externally-facing points (from the *real* tholons) of interaction and two internally facing points (from the *virtual* tholons) of non-interaction. When combined, the hydrogen tholons will attach to the empty or *virtual* tholons of oxygen.
 
@@ -1685,7 +1681,7 @@ We can see a few similarities between a tholonic model and a chemical model.
 | Integration of 2 tholon types                                        | Integration of 2 atom types.                                                                                                         |                           |
 | 3rd gen tholon structure 4x larger (in count) than 2nd gen structure | 3rd gen structure (O) 4<sup>2</sup> larger (mass) than 2nd gen structure (H)                                                         |                           |
 
-<center><img src="./media/086-h20-tholo.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/086-h20-tholo.png" style="width:90%" /></center>
 This is just a hypothetical demonstration, as there may be a much better tholonic model for elements and compounds than this one, but this one is sufficient to show how we might be able to describe elements and compounds tholonically, which might give us new insights into their nature. Perhaps this model applies not just to H<sup>2</sup>O but to any of the Group 6 class of elements, such as Sulfur (creating Hydrogen sulfide, H<sup>2</sup>S, or selenium, creating Hydrogen selenide, H<sup>2</sup>Se, or tellurium, creating Hydrogen telluride (tellane), H<sup>2</sup>Te… you get the picture.
 
 Can we see this similar relationship with other compounds? We claim that you can, as there is an almost infinite number of possible configurations in the thologram. Instances of fundamental configurations, such as those that appear in the earlier stages of iterations, like the Fibonacci sequence and the hexagram, represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality and could be easily discovered.
@@ -1706,7 +1702,7 @@ This is a significant observation. Most of what we have shown here involves how 
 
 Understanding the nature of these forces may well give us an insight into understanding the nature of the source of the energy, which is to say, understanding the nature of awareness and intention.
 
-<center><img src="./media/087-tholo-quark.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/087-tholo-quark.png" style="width:90%" /></center>
 There is also an interesting relationship with the One Electron Theory. This is a theory that theoretical physicist John Wheeler proposed (in a phone call at 2AM in 1940 with Richard Feynman) that there was just one electron in existence, and that all electrons were the same electron! This would be possible if that one electron was not subject to space-time, allowing it to be in all places simultaneously. Wheeler also claimed that not only are all electrons the same electron, but all positrons are also the same electron moving backward in time. As an electron it had a charge of -1, and as a positron it had a charge of +1.
 
 The problem was, there was no space for a positron in the current model of the electron
@@ -1723,19 +1719,17 @@ But what about the electron? Where is that? Tholonically speaking, the electron 
 
 ### While we're here
 
-<img src="./media/088-tholo-trimath.png" style="float:right;width:2.6in;height:2.19097in" />This would be a good place to briefly point out other patterns in other systems. For example, Newton's 2nd Law nicely fits into a tholon. Let's use Ohms Law to test it out.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/088-tholo-trimath.png" style="float:right;width:2.6in;height:2.19097in" />This would be a good place to briefly point out other patterns in other systems. For example, Newton's 2nd Law nicely fits into a tholon. Let's use Ohms Law to test it out.
 
 If we replace…
 
 -   N (negotiation) with V (voltage)
-
-    D (definition) with R (resistance)
-
-    C (contribution) with I (current)
+-   D (definition) with R (resistance)
+-   C (contribution) with I (current)
 
 … we can then state the following:
 
-<img src="./media/089-tformulas.png" style="width:5.75in;height:0.80278in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/089-tformulas.png" style="width:5.75in;height:0.80278in" />
 
 ### The Meaning of Math
 
@@ -1743,7 +1737,7 @@ Before we move on, let's follow up on this concept of how the trigram can descri
 
 What do the math symbols mean in the real world? Addition and subtraction are easy concepts to grasp in the real world. We take so man of one thing and add or remove so many of another thing. A good example of the effects of addition and subtraction is how they affect colors.
 
-<img src="./media/090-addition.png" style="width:3.73in;height:1.87in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/090-addition.png" style="width:3.73in;height:1.87in" />
 
 What are multiplication and division then? It is the definition of one property by the units of another. For example, in division, such as *12/4=3, we are stating that* there are 3 units of 4 in a 12. In multiplication, such as *3\*4=12,* we are determining how many units of 4 we are adding together to create 12. The 4, as the divisor or multiplier, becomes the defacto unit of measurement.
 
@@ -1773,7 +1767,7 @@ You get the point. What's more, we can not only confirm this arrangement using O
 
 #### **Claim 44:** There is no useless data, only data we have yet to understand how to use. 
 
-<img src="./media/092-two2Dmaps.png" style="width:5.74792in;height:2.53333in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/092-two2Dmaps.png" style="width:5.74792in;height:2.53333in" />
 
 Previously we saw how the contribution of red divides the green on one side (right) but constrains the green on the opposite (left) side. Can we say the same thing for electricity? Does current (I) ‘divide' resistance (R) and is resistance (R) ‘constrained' by current (I)?
 
@@ -1781,7 +1775,7 @@ We also see how we can apply a mathematical function to each point, with the N-s
 
 There are many new ways of looking at energy in all its forms when viewed tholonically.
 
-<img src="./media/093-DNA.png" style="width:5.70833in;height:1.35in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/093-DNA.png" style="width:5.70833in;height:1.35in" />
 
 In higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships.
 
@@ -1801,7 +1795,7 @@ work<sup>[54](#ref_054)</sup>, as well as hundreds of papers and dozens of books
 There is quite a lot of good research on the subject that we won't detail here, but if you want to learn more a good place to start is Fabian Ptok's Masters theses *“Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages”*<sup>[55](#ref_055)</sup>, which covers the subject well from an agricultural and security perspective but also has a number of references to the researchers and work going on in this area. There is also a book available online for
 free.<sup>[56](#ref_056)</sup>
 
-<img src="./media/094-hexwater.gif" style="float:right;width:1.70833in;height:1.775in" />Water is a particularly good test medium for the structure of water (not the H<sub>2</sub>O molecule alone, but many of them together) is a tetrahedron, and being the most basic shape of creation lends itself to many different applications. It's worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief. It was not until 80 years later, in 2013, that this was finally accepted as valid. Today “it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e. tetrahedral and hexagonal
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/094-hexwater.gif" style="float:right;width:1.70833in;height:1.775in" />Water is a particularly good test medium for the structure of water (not the H<sub>2</sub>O molecule alone, but many of them together) is a tetrahedron, and being the most basic shape of creation lends itself to many different applications. It's worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief. It was not until 80 years later, in 2013, that this was finally accepted as valid. Today “it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e. tetrahedral and hexagonal
 structures.”<sup>[57](#ref_057)</sup>
 
 Radical ideas are often met with radical resistance. Structured water is one of those ideas.
@@ -1810,7 +1804,7 @@ Simply by adding some structure to simple tap water (see examples of how to make
 
 In Ptok's the Master's thesis mentioned above, the author examines various tests that grew different plants using tap water and structured water.
 
-<img src="./media/095-ptolks-images.jpg" style="width:5.71667in;height:3.22292in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/095-ptolks-images.jpg" style="width:5.71667in;height:3.22292in" />
 
 One of his findings was that using structured water increased alfalfa growth by 15.1%.
 
@@ -1915,8 +1909,7 @@ Think of what s involved in these interactions. The birds know collectively that
 
 When one of them finds a hive, they announce it to their friends and then go and find humans who they know they can enlist, humans who have learned how to communicate with them. The birds hop and chatter is a specific way that humans know is the message that they have found a hive. The humans collect their tools and tell the birds they are ready. The birds then fly toward the hive, knowing to always keep their white tail feathers visible to the humans. When they all arrive at the hive the humans smoke out the bees, chop down the tree, remove the honey and give the rest to the birds. This is a beautiful example of cooperation between two groups that are competing with another group.
 
-What is truly amazing about this arrangement is that the birds and humans have developed their own
-language<sup>[60](#ref_060)</sup>. Although it is not clear how this arrangement began, it is speculated that it was initiated by the birds when they saw that humans had the ability to make smoke and chop down trees… so a long, long time ago.
+What is truly amazing about this arrangement is that the birds and humans have developed their own language<sup>[60](#ref_060)</sup>. Although it is not clear how this arrangement began, it is speculated that it was initiated by the birds when they saw that humans had the ability to make smoke and chop down trees… so a long, long time ago.
 
 Are we being asked to believe that a really smart bird came up with the idea, explained it to his bird tribe, then educated and trained not only them but the humans in the manner of communication that this industrial bird invented? Likewise, how long would it take for a human to know that a hopping, chattering bird was trying to till him “Hey, I found a beehive I am totally incapable of getting to, so I will tell you where it is if you and your boys use your smoke and axes to get to it. You then take the honey and give is the wax and larvae. Deal?”
 
@@ -2011,8 +2004,7 @@ awareness<sup>[72](#ref_072)</sup>, but it's scant, and the results are far from
 
 Many people believe that one's awareness can, with practice, travel outside of the body, and outside of this physical reality. This is typically called *Out of Body Experiences* (OOBE), or *Astral Projection*. Mainstream science is not a fan of this idea. *Scientific American* suggests that OOBEs are caused by inner ear problems<sup>[73](#ref_073)</sup>. Although not surprising, it is disconcerting considering that some real research on OOBEs has shown remarkable evidence.
 
-There are many examples of such research<sup>[74](#ref_074)</sup>, such Dr. Tart's subject being able to read the letters “P = 10^-5” or “25132” that were written on a remote piece of paper while
-out-of-body<sup>[75](#ref_075)</sup>. For the record, OOBEs are tholonically explained by the anchoring of the consciousness to the (or a) parent tholon of whatever tholon a person is an instance of, and the concept of a ‘soul' is a blanket term to describe many of the much higher-level tholons.
+There are many examples of such research<sup>[74](#ref_074)</sup>, such Dr. Tart's subject being able to read the letters “P = 10^-5” or “25132” that were written on a remote piece of paper while out-of-body<sup>[75](#ref_075)</sup>. For the record, OOBEs are tholonically explained by the anchoring of the consciousness to the (or a) parent tholon of whatever tholon a person is an instance of, and the concept of a ‘soul' is a blanket term to describe many of the much higher-level tholons.
 
 Although this sort of research does not get the attention it deserves, with a bit of effort it can found. Science is not well equipped to study the mechanics of awareness or any non-material phenomena, but this certainly does not mean it does not exist. The One Electron Theory is a good example of this as well.
 
@@ -2069,7 +2061,7 @@ Sheldrake himself has a lot to say supporting the existence of some sort of tele
 
 Russel Targ, a former physicist at Stanford Research Institute and author of *“The Reality of ESP: A Physicist's Proof of Psychic Abilities”*, has experimented with telepathy and ESP for some time now. He shows<sup>[90](#ref_090)</sup> that the scientific evidence for ESP is statistically stronger than the evidence that aspirin helps reduce stroke. The aspirin test was so statistically significant that the test had to be called off because it was considered unethical to continue giving test subjects placebos in light of the overwhelming evidence they had collected before the test was even completed. I know it's a rhetorical question, but are we not seeing this revolutionary telepathy/ESP research all over the news? The evidence is compelling enough to accept that telepathy, in some form, is a thing.
 
-The umbrella “or something” category can cover quite a bit of territory, including lesser-known applications of our sensory-processing skills, such as the ability to smell personalities and emotions<sup>[91](#ref_091)</sup>*<sup>,</sup>*<sup>[92](#ref_092)</sup> or, if you're a woman ovulating, your superhero-like ability to immediately recognize otherwise hidden snakes<sup>[93](#ref_093)</sup> (the elongated, legless, carnivorous reptiles, not the metaphorical type, although I suspect research would show significant results for the later as well) and gay men. Some humans have a visual sense 100 times more sensitive than the average person.<sup>[94](#ref_094)</sup> And what of the extensive intrinsic nervous system in the heart comprised of clusters of neurons sufficiently sophisticated to qualify as a *heartbrain*? Certainly, that must contain some sort of sensory organs.
+The umbrella “or something” category can cover quite a bit of territory, including lesser-known applications of our sensory-processing skills, such as the ability to smell personalities and emotions<sup>[91](#ref_091)</sup>*<sup>,</sup>*<sup>[92](#ref_092)</sup> or, if you're a woman ovulating, your superhero-like ability to imfile:///home/jw/Documents/Projects/mindfields/tholonia-md/mediately recognize otherwise hidden snakes<sup>[93](#ref_093)</sup> (the elongated, legless, carnivorous reptiles, not the metaphorical type, although I suspect research would show significant results for the later as well) and gay men. Some humans have a visual sense 100 times more sensitive than the average person.<sup>[94](#ref_094)</sup> And what of the extensive intrinsic nervous system in the heart comprised of clusters of neurons sufficiently sophisticated to qualify as a *heartbrain*? Certainly, that must contain some sort of sensory organs.
 
 Perhaps the most overlooked, yet strongest sense we have is what we call our *gut sense*. Considering that our gastrointestinal tracts contain 95 percent of our body's serotonin, has its own nervous system, and is filled with trillions of microbes sending terabytes of information to the brain every millisecond, microbes that are 100 times in number that of the cells in the body and ten times the number of cells in the brain, all of which having a significant impact on the brain<sup>[95](#ref_095)</sup>*<sup>,</sup>*<sup>[96](#ref_096)</sup>, one would have to consider the *gut* as a sense in its own right.<sup>[97](#ref_097)</sup> Even more significant is what microbes we are exposed to at birth that so dramatically affects our brain growth. Those born under natural conditions exposed to the microbes of their natural surroundings. How do C-section births and exposure to microbes of hospitals, urban dwellings, and processed food alter our brain development?
 
@@ -2105,7 +2097,7 @@ When you want to send something to somewhere, how is that done? Maybe you use a 
 
 It is easy to imagine applying the well-developed model of telecommunications that we currently use, called the *Open Systems Interconnection* model, to a model of information sharing among various forms of intelligence.
 
-<center><img src="./media/096-ISOstack.png " style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/096-ISOstack.png" style="width:90%" /></center>
 To be clear, we are not saying that this is how it works, nor are we saying this is *not* how it works. We are suggesting that we might find new perspectives if we apply the models we have developed, which are based on natural laws, to things we do not yet understand. In this case, for example, we see that the physical body and intelligence are at the opposite ends of the pyramid, implying that the brain/nervous system is more of a receiver/transmitter rather than a generator, as creating new information requires intention, cognition, and intelligence. This is a radically different concept than the ideas that the mind, consciousness, intelligence *must* arise out of brain activity, which is what we generally believe today. We contend that other successful models that we currently use today could also be applied to things we do not yet understand, at least as a starting point of investigation.
 
 #### **Claim 52:** Morphic fields have the ability to transmit and store information. 
@@ -2128,7 +2120,7 @@ Another candidate is how the brain creates and stores memories. We have develope
 
 An important technical detail regarding holograms as it applies to memory is that many images can be recorded on top of each other, each with a different angle of illumination. All those images can be reconstructed simply by changing the angle of the hologram when viewing. This is why, and how, a holographic memory cube five meters square can store every word ever spoke or written by a human being.<sup>[105](#ref_105)</sup>
 
-<img src="./media/097-holograms.png" style="width:5.69306in;height:2.95in" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/097-holograms.png" style="width:5.69306in;height:2.95in" />
 
 This imprint, or “mnemetic trace”, so named after the Greek muse of memory “Mneme”, is also a precursor to Dawkins “meme”, as the meme is a cultural version of an engram. I suspect Dawkins was well aware of this when he created the “meme.”
 
@@ -2181,9 +2173,9 @@ Structured Memory
 
 Another possibility is structure itself. It has been claimed that the structure of water can hold memory. Although this claim has not been properly tested by any means, there is at least some evidence to suggest it might be valid. Dr. Emoto has been the most public in his claims that water holds memory, and presents many examples and theories, but none have been thoroughly tested by scientific standards. There is quite a lot of information available about Emoto's work so I will not repeat any of it here. However, Dr. Emoto has participated in other, more stringent studies.
 
-<img src="./media/098-waterdrops.png" style="float:right;width:1.98056in;height:2.36667in" />Speaking only for myself, one of the more compelling pieces of evidence I have seen comes from the experiment where four students created four drops of water, all from the same source. The image on the right shows the results of that experiment where each row of drops was created by a different student. Notice anything? Even if this is not bulletproof evidence (similar to the existence of Australia for anyone who has never been there), it is enough to raise the question. In addition, this test was also conducted using different types of flowers, and, according to the testers, the resulting patterns in the drops of water resembled the patterns of the flower. Tholonically, this is exactly what we would expect to see, as it is patterns of energy that create the instance of the flower.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/098-waterdrops.png" style="float:right;width:1.98056in;height:2.36667in" />Speaking only for myself, one of the more compelling pieces of evidence I have seen comes from the experiment where four students created four drops of water, all from the same source. The image on the right shows the results of that experiment where each row of drops was created by a different student. Notice anything? Even if this is not bulletproof evidence (similar to the existence of Australia for anyone who has never been there), it is enough to raise the question. In addition, this test was also conducted using different types of flowers, and, according to the testers, the resulting patterns in the drops of water resembled the patterns of the flower. Tholonically, this is exactly what we would expect to see, as it is patterns of energy that create the instance of the flower.
 
-Another source that supports the idea of water holding information is Jacques Benveniste, a French immunologist who worked at the Institute of Health and Medical Research (INSERM). In 1988, who published a paper in *Nature* concluding that the configuration of molecules in water was biologically active even in the absence of the elements that caused that configuration. This “water memory” was immediately picked up by the homeopathic community as proof of its efficacy.
+Another source that supports the idea of water holding information is Jacques Benveniste, a French immunologist who worked at the Institute of Health and Medical Research (INSERM). In 1988, who published a paper in *Nature* concluding that the configuration of molecules in water was biologically active even in the absence of the elements that caused that configuration. This “water memory” was imfile:///home/jw/Documents/Projects/mindfields/tholonia-md/mediately picked up by the homeopathic community as proof of its efficacy.
 
 While Emoto's work can easily be brushed off by skeptics and institutional authorities, due to its lack of rigorous analysis, Benveniste's work could not.
 
@@ -2215,7 +2207,7 @@ By the same token, the redundant and self-similar expressions of pure awareness 
 
 The implication is that energy itself is a fundamental form of awareness and intention and therefore everything that exists is also a form of awareness and intention in the same way that everything that exists is a form of energy. To be aware of something is to direct energy to some concept or idea, thereby moving the curve of that archetype, which alters the *norm* of what and how that archetype will instantiate itself. I suspect that a real-world example of this it the classic split-slit experiment.
 
-<center><img src="./media/099-splitslit.png" style="width:4.71736in;height:1.825in" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/099-splitslit.png" style="width:4.71736in;height:1.825in" /></center>
 Briefly, this split-slit experiment shows that when observed, electrons act like particles, and when not observed, they act like waves. The act of observation forces the electron waves to be perceived as particles.
 
 It's not that the electrons are waves that turn into particles; it's that the electrons are *wavicles*, both particles *and* waves at the same time, but the act of observing them is an interaction that alters their expression.
@@ -2245,7 +2237,7 @@ Reality, as we know it, is the consequence of this processes of *decohering* the
 
 Applied to the tholonic model, each tholon has a set of stable properties, and given its self-similar structure, each tholon only needs to manage the properties that relate to its scope or that exist within its spectrum, leaving the parent properties to the parents, and any of the child properties to the child. Each tholon then “knows” what works and expresses this in the instances of that tholon, which is every archetypal idea and form that has the possibility to exist. When we look at a thing, like a rock, we are not just seeing the Darwinian results of the tholon of a rock, but also the results of all the parents of the rock, such as mountain, planet, solar system, galaxy, as well as its children of silica, molecules, atoms, and electrons.
 
-<img src="./media/100-real-tholons.png" style="float:right;width:1.48194in;height:1.19167in" />The language of reality begins with one ‘letter' (a tholon) of the alphabet, which becomes three in the next generations, which becomes 12, etc., up to at least 10<sup>88</sup> letters of the alphabet. Each of these letters is a record of what “works.” There is no need to record what does not work in this type of top-down framework,
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/100-real-tholons.png" style="float:right;width:1.48194in;height:1.19167in" />The language of reality begins with one ‘letter' (a tholon) of the alphabet, which becomes three in the next generations, which becomes 12, etc., up to at least 10<sup>88</sup> letters of the alphabet. Each of these letters is a record of what “works.” There is no need to record what does not work in this type of top-down framework,
 
 Remember that phrase *combinatorial inflation* which describes the exponentially increasing number of possibilities in protein production? This is the big problem with current evolutionary thought, as there are simply too many combinations for nature to try.
 
@@ -2269,7 +2261,7 @@ Test 4 with 4 coins, 2 came up heads
 
 Test 5 with 2 coins, 1 came up heads
 
-<center><img src="./media/101-toincoss.png" style="width:70%" /></center>If we plotted the results, we would end up with a Bell curve that looked something like this “Number of Heads” graph.
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/101-toincoss.png" style="width:70%" /></center>If we plotted the results, we would end up with a Bell curve that looked something like this “Number of Heads” graph.
 So, when we run these five tests 50,000 times each, the chances of us ending up with one coin from 32 is 100%
 
 Now imagine we use different coins for each test; 32 quarters, 16 nickels, 8 dimes, 4 half-dollars, and 2 pennies. We are still going to end up with 1 penny at the end, along with 16 quarters, 8 nickels, and 4 dimes and 2 half-dollars. This is a total of 62 coins, two of which are pennies.
@@ -2282,7 +2274,7 @@ Existence does not need to record its failures as it is the ultimate top-down ap
 
 In our example here, the person doing the flipping would be the intelligence that ‘fixes' the problem, but in the tholonic view, the experimenter is an instance of an aggregate intelligence (of the human tholon interacting with intelligence of the archetype of the experiment) which received feedback from the broken branch (bad results) that modified the curve (something's wrong) which resulted in a new stable pattern (new nickels). (I know this example sounds ridiculously trivial, but it's the simplest example I could think of.)
 
-<img src="./media/102-tpaths.png" style="float:left;width:3.12986in;height:2.71944in" />A simple example more aligned to the tholonic model would be how we can emerge Bell curves from stable points in a lineage of trigrams. By assigning a value for points on the spectrum, and a binary value representing the generation of the trigram, we can create a unique value for every point that identifies its place on the spectrum and its level. If we combine each of these numbers, we can create one value for the entire lineage that has an extractable record of every spectrum value at every level. This one number would then act as a memory of all the ancestors. We can see this easily in simple binary math. If we have five generations of numbers that double with each generation, such as 1,2,4,8,16, and we have the number 22 representing the sum of all the contributing generations, we can easily determine that only the 2<sup>nd</sup>, 3<sup>rd</sup> and 5<sup>th</sup> generations contributed, because only 16, 4 and 2 can create 22. The tholons are similar in that each tholon has a fingerprint that is encoded in every one of its descendants.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/102-tpaths.png" style="float:left;width:3.12986in;height:2.71944in" />A simple example more aligned to the tholonic model would be how we can emerge Bell curves from stable points in a lineage of trigrams. By assigning a value for points on the spectrum, and a binary value representing the generation of the trigram, we can create a unique value for every point that identifies its place on the spectrum and its level. If we combine each of these numbers, we can create one value for the entire lineage that has an extractable record of every spectrum value at every level. This one number would then act as a memory of all the ancestors. We can see this easily in simple binary math. If we have five generations of numbers that double with each generation, such as 1,2,4,8,16, and we have the number 22 representing the sum of all the contributing generations, we can easily determine that only the 2<sup>nd</sup>, 3<sup>rd</sup> and 5<sup>th</sup> generations contributed, because only 16, 4 and 2 can create 22. The tholons are similar in that each tholon has a fingerprint that is encoded in every one of its descendants.
 
 What this means is that everything that exists is *already* a record of what works from the first moment of creation, through every generation, up to and including the thing that exists. Life, Reality, and Everything *is* the warehouse of all knowledge. We just haven't yet figured out how to decode (most of) it.
 
@@ -2309,7 +2301,7 @@ What was this study exactly?
 
 The results were impressive.
 
-<img src="./media/103-tm-test.gif" style="width:50%" />
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/103-tm-test.gif" style="width:50%" />
 This is only one study, so it is not definitive, but it is certainly supportive of the idea that directed intention, what the participants called *coherence*, and what we are calling *order*, has an extended effect. The explanation, according to the tholonic model, is that the directed energy of coherent thought altered the curves of various archetypes thereby altering the probability of where the “work” will produce the most order, or where and how energy will be expressed across a scope's spectrum.
 
 ### On a Personal Note
@@ -2375,7 +2367,7 @@ There is one last concept that needs to be shared, and that is the idea that the
 
 An example of this would be the creation of a new element in the periodic charts. All elements past the element of uranium are man-made, so they are new creations, but they are also extremely unstable and unsustainable and don't last very long. A new stable path even a little way up from the ‘bottom' would dramatically alter reality, as we have seen with the creation of a quantum and digital perspective of existence. There may be many options along that path, and they are always emerging, but they are finite.
 
-Starting from the beginning, immediately upon the first awareness of a non-existent dot in the void of nothingness, that awareness and intention began self-replicating into smaller and smaller divisions. These divisions stop at some point where no sustainable patterns can be achieved, perhaps because the difference is too small or weak, or the dissimilarities are too great, or other reasons. The depth of a tholon's scope can be described as the difference between two states, the delta of the duality of that scope, similar to the definition of voltage we saw above, which presumably gets smaller and smaller with each generation (but not necessarily).
+Starting from the beginning, imfile:///home/jw/Documents/Projects/mindfields/tholonia-md/mediately upon the first awareness of a non-existent dot in the void of nothingness, that awareness and intention began self-replicating into smaller and smaller divisions. These divisions stop at some point where no sustainable patterns can be achieved, perhaps because the difference is too small or weak, or the dissimilarities are too great, or other reasons. The depth of a tholon's scope can be described as the difference between two states, the delta of the duality of that scope, similar to the definition of voltage we saw above, which presumably gets smaller and smaller with each generation (but not necessarily).
 
 As the parents and children of a tholon change, so too will that tholon adapt to these changes by having its scope adjusted. In doing so the thologram is *problem-solving*. More than that, it is doing this in a heuristic manner, i.e. a manner based on experience. How? Because the (only successful) changes that have been made in the past resulted in changes (of which only the successful remain) to the entire thologram and the consequence of those changes define the context of each tholon's current condition.
 
@@ -2385,7 +2377,7 @@ The working hypothesis is that the thologram has a memory of everything that has
 
 What this tells us is that each instance is a 3D perspective of a very multi-dimensional energy, and we can speculate that at some level of dimension there is a *hyper dimensional-thing* that, in one moment, represents every possible situation as one ‘path' from the first tholon to the last child tholon, but which we 3D dwellers experience as part, present, and future (like the 3D ball passing through 2D space example previously).
 
-<img src="./media/104-brownian-path.png" style="float:right;width:1.71806in;height:2.74167in" />Two strangers, Bob and Carol, bump into each other at the butcher shop. This instantiation of “bumping into each other” is the result of countless steps that had to happen starting with the Big Bang. The steps that it took for Bob and his ancestors to arrive at this point and time we'll call path B, and the steps it took for Carol to arrive at this point in time we'll call path C. Path B and path C already existed in the mega-space, and Bob and Carol just happen to be the current instantiations of a particular stable expression (human tholon) of energy (awareness), that are traveling that path. There are effectively an infinite number of paths, but that is not important. What is important is that the record of each of their paths exists, as does the record of where the path(s) of the future will lead.
+<img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/104-brownian-path.png" style="float:right;width:1.71806in;height:2.74167in" />Two strangers, Bob and Carol, bump into each other at the butcher shop. This instantiation of “bumping into each other” is the result of countless steps that had to happen starting with the Big Bang. The steps that it took for Bob and his ancestors to arrive at this point and time we'll call path B, and the steps it took for Carol to arrive at this point in time we'll call path C. Path B and path C already existed in the mega-space, and Bob and Carol just happen to be the current instantiations of a particular stable expression (human tholon) of energy (awareness), that are traveling that path. There are effectively an infinite number of paths, but that is not important. What is important is that the record of each of their paths exists, as does the record of where the path(s) of the future will lead.
 
 All of this is to say that every path that can be traveled by any instance already exists. I suspect we tend to wander through this matrix of possibilities in the same manner bacteria wander aimlessly about in their puddles of plasma, or whatever their world is made of.
 
@@ -2394,7 +2386,7 @@ Even in the world of bacterial meandering, we see a pattern. Ironically, it is t
 In the early generations of the thologram, the numbers of paths are limited, and with the additional generations, the number of paths increase. This movement may appear random, but not only does it disperse according to a Bell curve, it actually follows the same rules as the thologram itself in that it is self-similar and fractal in
 nature.<sup>[126](#ref_126)</sup>
 
-<center><img src="./media/105-brownian-growth.png" style="width:90%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/105-brownian-growth.png" style="width:90%" /></center>
 Although this sounds like predeterminism, which it is, in effect, there are so many paths that can be traveled that for all intents and purposes predeterminism doesn't apply. Tholonically speaking, the primary purpose of existence is to form every possible combination of sustainable patterns.
 
 Although a bit of a tangent, it's worth stating here that the idea of reincarnation is a flawed understanding of a misunderstood process. What we believe to be past life experiences are collective memories associated with the path we happen to be traveling and which we identify with mainly due to our ego's limitation of relating everything to one's self. This is why many people who believe in reincarnation will also believe they were the same (well known) person in a past life, and there will naturally be more people traveling the well-worn paths of current archetypes simply because these paths are the paths of least resistance.
@@ -2480,7 +2472,7 @@ Life forms that came into being through cellular mitosis will themselves create 
 
 This is the same premise behind the “Cosmological natural selection” which says that a black hole, upon collapse, spawns a new Universe with parameters similar to its Universe, though slightly mutated.<sup>[129](#ref_129)</sup>
 
-We also see this idea in Quantum Darwinism, which states that of all the probable states that can exist, the ones that survive do so because of support from their environment. In turn, these states that survive transfer information to the environment, altering its context, shifting the curve in its favor, and thereby improving the probabilities of future similar states. What we call classical reality is the redundant transference of that information.<sup>[130](#ref_130)</sup> The field instructs the direction of creation, and the creations increase the field.
+We also see this idea in Quantum Darwinism, which states that of all the probable states that can exist, the ones that survive do so because of support from their environment. In turn, these states that survive transfer information to the environment, altering its context, shifting the curve in its favor, and thereby improving the probabilities of future similar states. What we call classical reality is the redundant transference of that information.<sup>[119](#ref_119)</sup> The field instructs the direction of creation, and the creations increase the field.
 
 Limitations and abilities are typically defined by the environment that any form of life has to coexist within. Birds have wings, man has hands, etc. The need for such tools, such as wings and hands, comes from the environment that life must adapt to in order to ensure sustainability. A record of sorts is held within at least the DNA, at perhaps in the information field for that instance as well. This record adjusts the curves, which alters the most probable instances of future creations.
 
@@ -2506,7 +2498,7 @@ If using tholonic reasoning we apply the intentions of our own transhumanist eff
 
 Where our creations depend on and require laws and instructions in the form of computer code and technology, our reality depends on laws and instructions as well, which we “physics” and the “laws of nature” and they may well be the programming language this simulation was written in. Where our creations require central processing units, our reality requires black holes, which are, according to some theories, holographic projectors of 3D reality<sup>[133](#ref_133)</sup>. Where our creations use various forms of sophisticated communication protocols, our reality has quantum entanglement, dark energy, etc. Comparing the world's most sophisticated CPU, Google's Bristlecone 72-qubit quantum computing CPU, to the “CPU” of our creator's “tech”, such as the supermassive black hole NGC-1277, you can get an idea how powerful a Cosmic Gameboy this reality is.
 
-<center><img src="./media/106-cpu-blackhole.png" style="width:80%" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/106-cpu-blackhole.png" style="width:80%" /></center>
 One can draw parallels between almost any class of “thing” in our human creations to similar “things” in the reality we exist in. We can also infer some conditions of our reality based on our creations. For example, our creations require knowledgeable people and a sophisticated infrastructure to exist, therefore, we might hypothesize that our reality likewise was created by, and is maintained by, skilled intelligence(s) and requires a sophisticated infrastructure to exist. On the slightly more existential side of things, our creations can be turned off simply by unplugging them, but such an act would have costly consequences, as we depend on our creations and related technology to keep our own reality operating in the manner we have chosen, require, or desire. It may be the same with our creators that they can “unplug” our reality at any instant, but choose not to as they too have come to depend on us.
 
 What could our creators possibly want from us? Well, why do we create new forms of intelligence? What do we hope to gain from AI, computer tech, VR, etc.? We have created such things in order to efficiently optimize and order our reality based on our understanding of the laws of creation and existence in a manner based on strict forms of logic and reasoning, so, one might wonder if that is exactly why we were created as well.
@@ -2519,7 +2511,7 @@ As the AI of the gods, are we providing solutions to problems the gods are incap
 
 Perhaps the question that has humanity so concerned, “Will AI ever attain consciousness?” is our human version of our creators' question “Will man ever become a god?” Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, which made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods “**Behold, the man has become like one of Us.”**<sup>[134](#ref_134)</sup>
 
-<center><img src="./media/107-three-tholonic-view.png" style="width:90" /></center>
+<center><img src="file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/107-three-tholonic-view.png" style="width:90" /></center>
 Appendixes
 ==========
 
@@ -2548,7 +2540,7 @@ Another technique is to simply create a vortex in a container of water. This can
 
 Magnets have also been used. Although it may make intuitive sense that one could use magnets, no one seems to do a decent job of explaining how they work. However, tholonically, using magnetic marbles would make sense as the recombination of water that results in flowing over the marbles would be subject to one field upon division and the opposite field upon reunion. In addition, magnetic marbles represent even more structure than crystal or metal marbles.
 
-Some of Australia's largest produce farms have been using magnetic water with phenomenal results, needing 25% less water to produce a superior product than with traditional water, according to Seven West Media, Western Australia’s leading news
+Some of Australia's largest produce farms have been using magnetic water with phenomenal results, needing 25% less water to produce a superior product than with traditional water, according to Seven West file:///home/jw/Documents/Projects/mindfields/tholonia-md/media, Western Australia’s leading news
 service.<sup>[136](#ref_136)</sup>
 
 Simple instructions can be found on the web<sup>[137](#ref_137)</sup> for making a Hero’s Fountain (named after the first-century Greek mathematician Heron who discovered this process of an energy-free recycling water fountain) that constantly cycles water through a loop. Fill one of the bottles with marbles, or whatever you like, and when the cycle is complete, you have a bottle filled with restructured water.
@@ -2576,19 +2568,19 @@ One of the fundamental claims being made here is that a coherent and stable expr
 
 Within the tholons are numerous relationships, the most common being the twelve formulas that define Newton’s 2<sup>nd</sup> law. If we map these formulas to the tholon (using Ohm’s Law here as an example) using the reasoning described earlier, we get the following:
 
-<img src="./media/108-tmath-sides.png" style="width:5.62731in;height:4.69355in" />
+<img src="./file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/108-tmath-sides.png" style="width:90%" />
 
 This shows the four trigrams that make up a tholon, however, depending on the perspective of view of the tholon the formulas will be different. Besides the basic twelve formulas, we also see that there is a ‘direction’ to some of the formulas, counter-clockwise (*levo* or *lefthanded*), and clockwise (*dextro* or *right-handed*).
 
 We can enhance this diagram by showing the relationship between values that are squared and values that are square-rooted.
 
-<img src="./media/109-tmath-bal.png" style="width:3.34043in;height:3.61355in" />
+<img src="./file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/109-tmath-bal.png" style="width:80%" />
 
 Here we see that wherever two corners share the same value, one of those two values squared in the formulas. So, we have *I* and *V* that are squared, but then we also have *I* and *V* that are the products of square-roots, which shows that the tholons naturally balances itself.
 
 Every trigram has one edge that is a function (multiply or divide). If we order the trigrams by these functions we get the following:
 
-<img src="./media/110-tmath-ordered.png" style="width:3.56738in;height:3.3755in" />
+<img src="./file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/110-tmath-ordered.png" style="width:80%" />
 
 If we organize the sides of the tholon by their function (multiply or divide), we see that we have three multiplications and six divides. This 3:6 ratio makes sense when you consider that multiplication works the same in both directions (3\*2 = 2\*3), but division only works in one direction (2/3 != 3/2).
 
@@ -2596,54 +2588,54 @@ We also see that in the trigrams that are division-based (rows 2 ad 3), three of
 
 In this figure…
 
-<img src="./media/111-tmath-three-tholons.png" style="width:5.75in;height:1.88472in" />
+<img src="./file:///home/jw/Documents/Projects/mindfields/tholonia-md/media/111-tmath-three-tholons.png" style="width:90%" />
 
-…we show the three perspectives of a tholon, including the base, but you’ll notice that the base trigram is reversed, as would be the case in a tholon as it is a mirror image of its parent, as described earlier. An interesting point here is that the outer boundaries of each figure show a consistent direction of flow, *Fig. v1* being neutral, *Fig. v2* clockwise, and *Fig. v3* counterclockwise, which matches the direction of the sides, however, the base is always counterclockwise.
+…we show the three perspectives of a tholon, including the base, but you'll notice that the base trigram is reversed, as would be the case in a tholon as it is a mirror image of its parent, as described earlier. An interesting point here is that the outer boundaries of each figure show a consistent direction of flow, *Fig. v1* being neutral, *Fig. v2* clockwise, and *Fig. v3* counterclockwise, which matches the direction of the sides, however, the base is always counterclockwise.
 
-Tholonically, we can easily map thinks like Ragone and utility space (as in the battery), or laws and social responsibility (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the social equivalent social expression of *I<sup>2</sup>* or, $\\sqrt{P/R}$, would represent. In fact, there are quite a lot of relationships, rules, and formulas in a tholon that will require considerably more study. What is presented here is the idea that the tholon can represent any system when described in its most reduced states. This work is more akin to the Wright Brother’s first flight rather than a modern airplane, but like the Wright Brother’s first flight, they demonstrated what *could* be. That is what I hope to achieve here.
+Tholonically, we can easily map thinks like Ragone and utility space (as in the battery), or laws and social responsibility (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the social equivalent social expression of *I<sup>2</sup>* or, *SQRT(P/R)*, would represent. In fact, there are quite a lot of relationships, rules, and formulas in a tholon that will require considerably more study. What is presented here is the idea that the tholon can represent any system when described in its most reduced states. This work is more akin to the Wright Brother’s first flight rather than a modern airplane, but like the Wright Brother’s first flight, they demonstrated what *could* be. That is what I hope to achieve here.
 
 References
 ==========
 
 <a name="ref_001">1</a>: Gleick, J. (1998). **Making a New Science**.
 
-<a name="ref_002">2</a>:“**The Beginning of Time**.” Stephen Hawking, <span class="underline">[www.hawking.org.uk/the-beginning-of-time.html](http://www.hawking.org.uk/the-beginning-of-time.html).</span>
+<a name="ref_002">2</a>:“**The Beginning of Time**.” Stephen Hawking, <https://www.hawking.org.uk/the-beginning-of-time.html>.
 
-<a name="ref_003">3</a>: For math nerds, here is an excellent vlog on **“The Opposite of Infinity”**[<span class="underline">https://www.quora.com/How-do-you-understand-the-difference-between-something-infinitely-small-and-something-inexistant-Are-they-distinguishable-in-real-terms</span>](https://www.quora.com/How-do-you-understand-the-difference-between-something-infinitely-small-and-something-inexistant-Are-they-distinguishable-in-real-terms)
+<a name="ref_003">3</a>: For math nerds, here is an excellent vlog on **“The Opposite of Infinity”**: <https://www.quora.com/How-do-you-understand-the-difference-between-something-infinitely-small-and-something-inexistant-Are-they-distinguishable-in-real-terms>
 
-<a name="ref_004">4</a>: [<span class="underline">https://users.isy.liu.se/jalar/kurser/QF/assignments/LeggettGarg1985.pdf</span>](https://users.isy.liu.se/jalar/kurser/QF/assignments/LeggettGarg1985.pdf)
+<a name="ref_004">4</a>: <https://users.isy.liu.se/jalar/kurser/QF/assignments/LeggettGarg1985.pdf>
 
-<a name="ref_005">5</a>: Boeyens JCA, Thackeray JF**. Number theory and the unity of science**. S Afr J Sci. 2014;110(11/12), Art.\#a0084, 2 pages. [<span class="underline">http://dx.doi.org/10.1590/sajs.2014/a0084</span>](http://dx.doi.org/10.1590/sajs.2014/a0084)
+<a name="ref_005">5</a>: Boeyens JCA, Thackeray JF **Number theory and the unity of science**. S Afr J Sci. 2014;110(11/12), Art.\#a0084, 2 pages. <http://dx.doi.org/10.1590/sajs.2014/a0084>
 
-<a name="ref_006">6</a>: Brown, J. H., Gupta, V. K., Li, B., Milne, B. T., Restrepo, C., & West, G. B. (2002**). The fractal nature of nature: Power laws, ecological complexity and biodiversity**. London: The Royal Society<span class="underline">. <http://www.fractal.org/Bewustzijns-Besturings-Model/Fractal-Nature.pdf></span>
+<a name="ref_006">6</a>: Brown, J. H., Gupta, V. K., Li, B., Milne, B. T., Restrepo, C., & West, G. B. (2002**). **The fractal nature of nature: Power laws, ecological complexity and biodiversity**. London: The Royal Society <http://www.fractal.org/Bewustzijns-Besturings-Model/Fractal-Nature.pdf>
 
-<a name="ref_007">7</a>: Here is the video of this experiment -\>[<span class="underline">https://www.youtube.com/watch? v=UpJ-kGII074</span>](https://www.youtube.com/watch?v=UpJ-kGII074)
+<a name="ref_007">7</a>: Here is the video of this experiment: <https://www.youtube.com/watch?v=UpJ-kGII074>
 
-<a name="ref_008">8</a>: Here are a couple of sites that show a harmonograph in action. They are fascinating to watch. <span class="underline"><http://andygiger.com/science/harmonograph/index.html>, [https://www.youtube.com/watch? v=HJYvc-ISrf8](https://www.youtube.com/watch?v=HJYvc-ISrf8)</span>
+<a name="ref_008">8</a>: Here are a couple of sites that show a harmonograph in action. They are fascinating to watch. <http://andygiger.com/science/harmonograph/index.html>, <https://www.youtube.com/watch?v=HJYvc-ISrf8>
 
 <a name="ref_009">9</a>: Yee, Jeff. (2019). **The Relation of Ohm's Law to Newton's 2nd Law**. 10.13140/RG.2.2.15576.75523. Ohm's law relates voltage, current and resistance in electrical systems as V=IR. Newton's 2nd law relates force, mass and acceleration as F=ma. Although electrical and mechanical systems are supported by different equations to describe these relationships today, it will be shown that the laws of Ohm and Newton are related and are built from the same foundation that governs the force of particles and all of matter.
 
-<a name="ref_010">10</a>: [<span class="underline">https://en.wikipedia.org/wiki/International\_System\_of\_Units</span>](https://en.wikipedia.org/wiki/International_System_of_Units)
+<a name="ref_010">10</a>: <https://en.wikipedia.org/wiki/International\_System\_of\_Units>
 
-<a name="ref_011">11</a>: Oldershaw, R. L. (1989). **Self-Similar Cosmological model: Introduction and empirical tests**. International Journal of Theoretical Physics, 28(6), 669-694. doi:10.1007/bf00669984 [<span class="underline">https://www.academia.edu/26520933/Self-Similar\_Cosmological\_model\_Introduction\_and\_empirical\_tests</span>](https://www.academia.edu/26520933/Self-Similar_Cosmological_model_Introduction_and_empirical_tests)
+<a name="ref_011">11</a>: Oldershaw, R. L. (1989). **Self-Similar Cosmological model: Introduction and empirical tests**. International Journal of Theoretical Physics, 28(6), 669-694. doi:10.1007/bf00669984 <https://www.academia.edu/26520933/Self-Similar\_Cosmological\_model\_Introduction\_and\_empirical\_tests>
 
-<a name="ref_012">12</a>: You can find many examples of this self-similarity [<span class="underline">http://www.bordalierinstitute.com/</span>](http://www.bordalierinstitute.com/)
+<a name="ref_012">12</a>: You can find many examples of this self-similarity <http://www.bordalierinstitute.com/>
 
 <a name="ref_013">13</a>: <https://www.sciencealert.com/scientists-have-found-a-structural-similarity-between-human-cells-and-neutron-stars>
 
-<a name="ref_014">14</a>: van Leunen, Hans. (2018). **The structure of physical reality**, [<span class="underline">https://www.researchgate.net/publication/327273285\_The\_structure\_of\_physical\_reality</span>](https://www.researchgate.net/publication/327273285_The_structure_of_physical_reality)
+<a name="ref_014">14</a>: van Leunen, Hans. (2018). **The structure of physical reality**, <https://www.researchgate.net/publication/327273285\_The\_structure\_of\_physical\_reality>
 
-<a name="ref_015">15</a>: Leunen, J. J. (2018). **Structure of physical reality**. [<span class="underline">http://vixra.org/pdf/1806.0087v3.pdf</span>](http://vixra.org/pdf/1806.0087v3.pdf). Here is the entire report [<span class="underline">http://www3.amherst.edu/\~rloldershaw/OBS.HTM</span>](http://www3.amherst.edu/~rloldershaw/OBS.HTM)
+<a name="ref_015">15</a>: Leunen, J. J. (2018). **Structure of physical reality**. <http://vixra.org/pdf/1806.0087v3.pdf>. Here is the entire report <http://www3.amherst.edu/\~rloldershaw/OBS.HTM>
 
-<a name="ref_016">16</a>: Livio, M. (n.d.). **Why Math Works**. [<span class="underline">https://www.scientificamerican.com/article/why-math-works/</span>](https://www.scientificamerican.com/article/why-math-works/)
+<a name="ref_016">16</a>: Livio, M. (n.d.). **Why Math Works**. <https://www.scientificamerican.com/article/why-math-works/>
 
-<a name="ref_017">17</a>: Britannica, T. E. (2019, April 08). **Laws of thought**. [<span class="underline">https://www.britannica.com/topic/laws-of-thought</span>](https://www.britannica.com/topic/laws-of-thought)
+<a name="ref_017">17</a>: Britannica, T. E. (2019, April 08). **Laws of thought**. <https://www.britannica.com/topic/laws-of-thought>
 
-<a name="ref_018">18</a>: **15** **Insane Things That Correlate With Each Other**. (n.d.). [<span class="underline">http://www.tylervigen.com/spurious-correlations</span>](http://www.tylervigen.com/spurious-correlations)
+<a name="ref_018">18</a>: **15** **Insane Things That Correlate With Each Other**. (n.d.). <http://www.tylervigen.com/spurious-correlations>
 
-<a name="ref_019">19</a>: Abreu, N. (n.d**.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.** [<span class="underline">http://cref.tripod.com/tucsonpaper.htm</span>](http://cref.tripod.com/tucsonpaper.htm) Science of Self Club, University of Florida
+<a name="ref_019">19</a>: Abreu, N. (n.d**.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.** <http://cref.tripod.com/tucsonpaper.htm> Science of Self Club, University of Florida
 
-<a name="ref_020">20</a>: [<span class="underline">https://www.infinitemonkeylab.com/</span>](https://www.infinitemonkeylab.com/)
+<a name="ref_020">20</a>: <https://www.infinitemonkeylab.com/>
 
 <a name="ref_021">21</a>: Jaynes, Julian (2000) \[1976\]. **The origin of consciousness in the breakdown of the bicameral mind** (PDF). Houghton Mifflin. p.73.ISBN 978-0-618-05707-8.
 
@@ -2653,102 +2645,99 @@ References
 
 <a name="ref_024">24</a>: Rankin and Kokko, 2006; Muir and Howard, 1999
 
-<a name="ref_025">25</a>: Rainey, Paul B. **“Precarious Development: The Uncertain Social Life of Cellular Slime Molds.”** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639–2640., doi:10.1073/pnas.1500708112. [<span class="underline">https://www.pnas.org/content/pnas/112/9/2639.full.pdf</span>](https://www.pnas.org/content/pnas/112/9/2639.full.pdf)
+<a name="ref_025">25</a>: Rainey, Paul B. **“Precarious Development: The Uncertain Social Life of Cellular Slime Molds.”** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639–2640., doi:10.1073/pnas.1500708112. <https://www.pnas.org/content/pnas/112/9/2639.full.pdf>
 
 <a name="ref_026">26</a>: De Roode et al., 2005
 
 <a name="ref_027">27</a>: Gersani et al., 2001
 
-<a name="ref_028">28</a>: Ahmed Ibrahim, "Invasive cancer as an empirical example of evolutionary suicide", Network Biology, 06/2014, v. 4 2
+<a name="ref_028">28</a>: Ahmed Ibrahim, **"Invasive cancer as an empirical example of evolutionary suicide"**, Network Biology, 06/2014, v. 4 2
 
-<a name="ref_029">29</a>: **The Simulation Hypothesis Documentary**. (2018, August 01). [<span class="underline">https://youtu.be/pznWo8f020I</span>](https://youtu.be/pznWo8f020I)
+<a name="ref_029">29</a>: **The Simulation Hypothesis Documentary**. (2018, August 01). <https://youtu.be/pznWo8f020I>
 
-<a name="ref_030">30</a>: Klein, Christopher. “**DNA Study Finds Aboriginal Australians World's Oldest Civilization.**” History.com, A&E Television Networks, 23 Sept. 2016, [<span class="underline">https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization</span>](https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization)
+<a name="ref_030">30</a>: Klein, Christopher. “**DNA Study Finds Aboriginal Australians World's Oldest Civilization.**” History.com, A&E Television Networks, 23 Sept. 2016, <https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization>
 
-<a name="ref_031">31</a>: Parvinen, Kalle, and Ulf Dieckmann. **“Environmental Dimensionality**.” *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. [<span class="underline">https://www.ncbi.nlm.nih.gov/pubmed/29551543</span>](https://www.ncbi.nlm.nih.gov/pubmed/29551543)
+<a name="ref_031">31</a>: Parvinen, Kalle, and Ulf Dieckmann. **“Environmental Dimensionality"**. *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
 
-<a name="ref_032">32</a>: **List of cycles**. (2019, April 27). [<span class="underline">https://en.wikipedia.org/wiki/List\_of\_cycles</span>](https://en.wikipedia.org/wiki/List_of_cycles)
+<a name="ref_032">32</a>: **List of cycles**. (2019, April 27). <https://en.wikipedia.org/wiki/List\_of\_cycles>
 
-<a name="ref_033">33</a>: Hossenfelder, Sabine. “**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?”** Backreaction, 1 Jan. 1970, backreaction.<span class="underline">https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html</span>
+<a name="ref_033">33</a>: Hossenfelder, Sabine. “**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?”** Backreaction, 1 Jan. 1970, backreaction. <https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html>
 
 <a name="ref_034">34</a>: Laszlo, E., & Clark, J. W. (1973). **Introduction to systems philosophy: Toward a new paradigm of contemporary thought**. New York, NY: Harper Torchbooks. ISBN: 0061317624 (ISBN13: 9780061317620)
 
 <a name="ref_035">35</a>: Dawkins, C. R. (2016). **The selfish gene**. Oxford: Oxford University Press.
 
-<a name="ref_036">36</a>: **Just for Hits - Richard Dawkins**. (2013, June 22).[<span class="underline">https://youtu.be/GFn-ixX9edg</span>](https://youtu.be/GFn-ixX9edg)The first 4 minutes is an excellent overview of memes by Dawkins. The following 4 minutes is a sort of meme-ish music video which is a bit odd, but also a bit entertaining
+<a name="ref_036">36</a>: **Just for Hits - Richard Dawkins**. (2013, June 22). <https://youtu.be/GFn-ixX9edg>The first 4 minutes is an excellent overview of memes by Dawkins. The following 4 minutes is a sort of meme-ish music video which is a bit odd, but also a bit entertaining
 
-<a name="ref_037">37</a>: Velikovsky, J. T. (1970, January 01). **Flow Theory, Evolution & Creativity: Or, Fun & Games - Semantic Scholar.**[<span class="underline">https://www.semanticscholar.org/paper/Flow-Theory,-Evolution-&-Creativity:-or,-Fun-&-Velikovsky/eedc3ec5f678442f7c2f635cb1d426b92c32da6c\#paper-header</span>](https://www.semanticscholar.org/paper/Flow-Theory,-Evolution-&-Creativity:-or,-Fun-&-Velikovsky/eedc3ec5f678442f7c2f635cb1d426b92c32da6c#paper-header)
+<a name="ref_037">37</a>: Velikovsky, J. T. (1970, January 01). **Flow Theory, Evolution & Creativity: Or, Fun & Games - Semantic Scholar.**<https://www.semanticscholar.org/paper/Flow-Theory,-Evolution-&-Creativity:-or,-Fun-&-Velikovsky/eedc3ec5f678442f7c2f635cb1d426b92c32da6c\#paper-header>
 
-<a name="ref_038">38</a>: “**Quantum Gravity Research**.” Quantum Gravity Research, [<span class="underline">https://www.quantumgravityresearch.org/</span>](https://www.quantumgravityresearch.org/).
+<a name="ref_038">38</a>: “**Quantum Gravity Research**.” Quantum Gravity Research, <https://www.quantumgravityresearch.org/>.
 
-<a name="ref_039">39</a>: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. [<span class="underline">http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf</span>](http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf)
+<a name="ref_039">39</a>: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. <http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf>
 
-<a name="ref_040">40</a>: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). [<span class="underline">http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain/</span>](http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain/)
+<a name="ref_040">40</a>: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). <http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain/>
 
-<a name="ref_041">41</a>: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! [<span class="underline">http://theoryofeverything.org/theToE/tags/e8/</span>](http://theoryofeverything.org/theToE/tags/e8/)
+<a name="ref_041">41</a>: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! <http://theoryofeverything.org/theToE/tags/e8/>
 
-<a name="ref_042">42</a>: **Gottfried Wilhelm Leibniz**. (n.d.). [<span class="underline">http://www.wikiwand.com/en/Gottfried\_Wilhelm\_Leibniz</span>](http://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz)**, Leibniz and the I Ching**. (n.d.). [<span class="underline">http://www.wikiwand.com/en/Binary\_number\#/Leibniz\_and\_the\_I\_Ching</span>](http://www.wikiwand.com/en/Binary_number#/Leibniz_and_the_I_Ching)
+<a name="ref_042">42</a>: **Gottfried Wilhelm Leibniz**. (n.d.). <http://www.wikiwand.com/en/Gottfried\_Wilhelm\_Leibniz>**, Leibniz and the I Ching**. (n.d.). <http://www.wikiwand.com/en/Binary\_number\#/Leibniz\_and\_the\_I\_Ching>
 
-<a name="ref_043">43</a>: **Gottfried Leibniz**. (n.d.). Retrieved from [<span class="underline">http://history-computer.com/Dreamers/Leibniz.html</span>](http://history-computer.com/Dreamers/Leibniz.html)
+<a name="ref_043">43</a>: **Gottfried Leibniz**. (n.d.). Retrieved from <http://history-computer.com/Dreamers/Leibniz.html>
 
-<a name="ref_044">44</a>: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from [<span class="underline">https://ethology.eu/how-wolves-change-rivers/</span>](https://ethology.eu/how-wolves-change-rivers/)
+<a name="ref_044">44</a>: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from <https://ethology.eu/how-wolves-change-rivers/>
 
 <a name="ref_045">45</a>: Grzegorz Rozenberg and Arto Salomaa. **The mathematical theory of L systems** (Academic Press, New York, 1980). ISBN 0-12-597140-0
 
 <a name="ref_046">46</a>: Quijada, John. **A Grammar of the Ithkuil Language**. John Quijada, 2011.
 
-<a name="ref_047">47</a>: Speaks, Jeff. **“Theories of Meaning**.” Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,[<span class="underline">https://plato.stanford.edu/entries/meaning/</span>](https://plato.stanford.edu/entries/meaning/)
+<a name="ref_047">47</a>: Speaks, Jeff. **“Theories of Meaning**.” Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,<https://plato.stanford.edu/entries/meaning/>
 
-<a name="ref_048">48</a>: Example of a ‘person’ as defined by the semantic web: [<span class="underline">http://xmlns.com/foaf/spec/\#term\_Person</span>](http://xmlns.com/foaf/spec/#term_Person)
+<a name="ref_048">48</a>: Example of a ‘person’ as defined by the semantic web: <http://xmlns.com/foaf/spec/\#term\_Person>
 
-<a name="ref_049">49</a>: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. [<span class="underline">https://www.lod-cloud.net/</span>](https://www.lod-cloud.net/)
+<a name="ref_049">49</a>: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. <https://www.lod-cloud.net/>
 
-<a name="ref_050">50</a>: Wang, Y., & Kosinski, M. (in press). Deep neural networks are more accurate than humans at detecting sexual orientation from facial images. Journal of Personality and Social Psychology.
+<a name="ref_050">50</a>: Wang, Y., & Kosinski, M. (in press). **"Deep neural networks are more accurate than humans at detecting sexual orientation from facial images"**. Journal of Personality and Social Psychology; Newspaper article on this research: Levin, Sam. **“New AI Can Work out Whether You're Gay or Straight from a Photograph.”** The Guardian, Guardian News and file:///home/jw/Documents/Projects/mindfields/tholonia-md/media, 7 Sept. 2017, <http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph>
 
-Newspaper article on this research: Levin, Sam. **“New AI Can Work out Whether You're Gay or Straight from a Photograph.”** The Guardian, Guardian News and Media, 7 Sept. 2017,.<span class="underline">http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph</span>
+<a name="ref_051">51</a>: “**Reciprocal Theory**” RationalWiki, <https://rationalwiki.org/wiki/Reciprocal\_Theory>.
 
-<a name="ref_051">51</a>: “**Reciprocal Theory**” RationalWiki, [<span class="underline">https://rationalwiki.org/wiki/Reciprocal\_Theory</span>](https://rationalwiki.org/wiki/Reciprocal_Theory).
+<a name="ref_052">52</a>: Fuller, R. Buckminster, and E. J. Applewhite. ***Synergetics. Explorations in the Geometry of Thinking***. Macmillan, 1975.The entire book can be found online at <http://synergetics.info/>
 
-<a name="ref_052">52</a>: Fuller, R. Buckminster, and E. J. Applewhite. ***Synergetics. Explorations in the Geometry of Thinking***. Macmillan, 1975.The entire book can be found online at [<span class="underline">http://synergetics.info/</span>](http://synergetics.info/)
+<a name="ref_053">53</a>: References to the above come from <http://synergetics.info/s02/p0000.html>
 
-<a name="ref_053">53</a>: References to the above come from [<span class="underline">http://synergetics.info/s02/p0000.html</span>](http://synergetics.info/s02/p0000.html)
+<a name="ref_054">54</a>: <http://hexagonalwater.com>
 
-<a name="ref_054">54</a>: [<span class="underline">http://hexagonalwater.com</span>](http://hexagonalwater.com/)
+<a name="ref_055">55</a>: Ptok, Fabian, "**Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages**" (2014). Undergraduate Honors Theses. 182. <https://scholar.colorado.edu/honr\_theses/182>
 
-<a name="ref_055">55</a>: Ptok, Fabian, "**Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages**" (2014). Undergraduate Honors Theses. 182.[<span class="underline">https://scholar.colorado.edu/honr\_theses/182</span>](https://scholar.colorado.edu/honr_theses/182)
+<a name="ref_056">56</a>: Fonseca, Giuseppe, and Giuseppe Fonseca. “**Dr Pollack The Fourth Phase of Water.**” Academia.edu, <https://www.academia.edu/18516517/Dr\_Pollack\_The\_Fourth\_Phase\_Of\_Water>
 
-<a name="ref_056">56</a>: Fonseca, Giuseppe, and Giuseppe Fonseca. “**Dr Pollack The Fourth Phase of Water.**” Academia.edu, [<span class="underline">https://www.academia.edu/18516517/Dr\_Pollack\_The\_Fourth\_Phase\_Of\_Water</span>](https://www.academia.edu/18516517/Dr_Pollack_The_Fourth_Phase_Of_Water)
+<a name="ref_057">57</a>: Chara, et al. “**Crossover between Tetrahedral and Hexagonal Structures in Liquid Water.**” Physics Letters A, <https://www.academia.edu/21730774/Crossover\_between\_tetrahedral\_and\_hexagonal\_structures\_in\_liquid\_water>
 
-<a name="ref_057">57</a>: Chara, et al. “**Crossover between Tetrahedral and Hexagonal Structures in Liquid  
-Water.**” Physics Letters A, [<span class="underline">https://www.academia.edu/21730774/Crossover\_between\_tetrahedral\_and\_hexagonal\_structures\_in\_liquid\_water</span>](https://www.academia.edu/21730774/Crossover_between_tetrahedral_and_hexagonal_structures_in_liquid_water)
+<a name="ref_058">58</a>: Seager, William, and Sean Allen-Hermanson. **“Panpsychism.”** Stanford Encyclopedia of Philosophy, Stanford University, 23 May 2001, <https://plato.stanford.edu/archives/win2012/entries/panpsychism/>
 
-<a name="ref_058">58</a>: Seager, William, and Sean Allen-Hermanson. **“Panpsychism.”** Stanford Encyclopedia of Philosophy, Stanford University, 23 May 2001, [<span class="underline">https://plato.stanford.edu/archives/win2012/entries/panpsychism/</span>](https://plato.stanford.edu/archives/win2012/entries/panpsychism/)
-
-<a name="ref_059">59</a>: Turow, J. (1991). **The Challenge of Inference in Interinstitutional Research on Mass Communication**. Communication Research,18(2),222-239. [<span class="underline">https://doi.org/10.1177/009365091018002005</span>](https://doi.org/10.1177/009365091018002005). *Note: Although this is not a reference to the official definition of the term “interinsitutionality”, which is too vague to be of any use here, it does provide an excellent explanation of what it is, how it works, and how it applies to mass communications.*
+<a name="ref_059">59</a>: Turow, J. (1991). **The Challenge of Inference in Interinstitutional Research on Mass Communication**. Communication Research,18(2),222-239. <https://doi.org/10.1177/009365091018002005>. *Note: Although this is not a reference to the official definition of the term “interinsitutionality”, which is too vague to be of any use here, it does provide an excellent explanation of what it is, how it works, and how it applies to mass communications.*
 
 <a name="ref_060">60</a>: Spottiswoode, C. N., K. S. Begg, and C. M. Begg. **“Reciprocal Signaling in Honeyguide-human Mutualism."** Science 353, no. 6297 (2016): 387-89. doi:10.1126/science. aaf4885.
 
-<a name="ref_061">61</a>: Milius, Susan. “**How Roaches Fight off Wasps That Turn Their Victims into Zombies.**” Science News, 14 Nov. 2018, [<span class="underline">https://www.sciencenews.org/article/how-roaches-fight-wasps-turn-their-victims-zombies</span>](https://www.sciencenews.org/article/how-roaches-fight-wasps-turn-their-victims-zombies)
+<a name="ref_061">61</a>: Milius, Susan. “**How Roaches Fight off Wasps That Turn Their Victims into Zombies.**” Science News, 14 Nov. 2018, <https://www.sciencenews.org/article/how-roaches-fight-wasps-turn-their-victims-zombies>
 
-<a name="ref_062">62</a>: Media, T. E. (2015, June 02). Rupert Sheldrake, **Heretic**. [<span class="underline">https://www.youtube.com/watch? v=ZSd4DA5xhHw</span>](https://www.youtube.com/watch?v=ZSd4DA5xhHw)
+<a name="ref_062">62</a>: file:///home/jw/Documents/Projects/mindfields/tholonia-md/media, T. E. (2015, June 02). Rupert Sheldrake, **Heretic**. <https://www.youtube.com/watch?v=ZSd4DA5xhHw>
 
-<a name="ref_063">63</a>: Sheldrake, Rupert. A New Science of Life: The Hypothesis of Formative Causation. Los Angeles: J.P. Tarcher, 1981.
+<a name="ref_063">63</a>: Sheldrake, Rupert. **A New Science of Life: The Hypothesis of Formative Causation**. Los Angeles: J.P. Tarcher, 1981.
 
-<a name="ref_064">64</a>: Horgan, J. (2014, July 14).**Scientific Heretic Rupert Sheldrake on Morphic Fields, Psychic Dogs and Other Mysteries.**<span class="underline">https://blogs.scientificamerican.com/cross-check/scientific-heretic-rupert-sheldrake-on-morphic-fields-psychic-dogs-and-other-mysteries/</span>
+<a name="ref_064">64</a>: Horgan, J. (2014, July 14).**Scientific Heretic Rupert Sheldrake on Morphic Fields, Psychic Dogs and Other Mysteries.** <https://blogs.scientificamerican.com/cross-check/scientific-heretic-rupert-sheldrake-on-morphic-fields-psychic-dogs-and-other-mysteries/>
 
-<a name="ref_065">65</a>: Sheldrake, R. (n.d.).**Morphic Resonance and Morphic Fields - an Introduction**.<span class="underline">https://www.sheldrake.org/research/morphic-resonance/introduction</span>
+<a name="ref_065">65</a>: Sheldrake, R. (n.d.).**Morphic Resonance and Morphic Fields - an Introduction**. <https://www.sheldrake.org/research/morphic-resonance/introduction>
 
-<a name="ref_066">66</a>: Sheldrake, R. (2013). Dogs That Know When Their Owners Are Coming Home: And Other Unexplained Powers of Animals. London: Cornerstone Digital.
+<a name="ref_066">66</a>: Sheldrake, R. (2013). **Dogs That Know When Their Owners Are Coming Home: And Other Unexplained Powers of Animals**. London: Cornerstone Digital.
 
-<a name="ref_067">67</a>: One of these experiments can be seen here: [<span class="underline">http://www.sheldrake.org/videos/jaytee-a-dog-who-knew-when-his-owner-was-coming-home-the-orf-experiment</span>](http://www.sheldrake.org/videos/jaytee-a-dog-who-knew-when-his-owner-was-coming-home-the-orf-experiment)
+<a name="ref_067">67</a>: One of these experiments can be seen here: <http://www.sheldrake.org/videos/jaytee-a-dog-who-knew-when-his-owner-was-coming-home-the-orf-experiment>
 
-<a name="ref_068">68</a>: Iozzio, Corinne. “**Scientists Prove That Telepathic Communication Is Within Reach.**” Smithsonian.com, Smithsonian Institution, 2 Oct. 2014, [<span class="underline">https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/</span>](https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/)
+<a name="ref_068">68</a>: Iozzio, Corinne. “**Scientists Prove That Telepathic Communication Is Within Reach.**” Smithsonian.com, Smithsonian Institution, 2 Oct. 2014, <https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/>
 
 <a name="ref_069">69</a>: Wilkins, & Sherman, H. M. (1971). ***Thoughts through space***. London: Muller.
 
 <a name="ref_070">70</a>: Sheldrake, R. (2013). **Science set free: 10 paths to new discovery.** New York: Deepak Chopra Books.
 
-<a name="ref_071">71</a>: Smolin, L. (2012, May 16). **Precedence and freedom in quantum physics**. [<span class="underline">https://arxiv.org/abs/1205.3707</span>](https://arxiv.org/abs/1205.3707)
+<a name="ref_071">71</a>: Smolin, L. (2012, May 16). **Precedence and freedom in quantum physics**. <https://arxiv.org/abs/1205.3707>
 
 <a name="ref_072">72</a>: Lobach, E.; Bierman, D. (2004). "**The Invisible Gaze: Three Attempts to Replicate Sheldrake's Staring Effects**" . <https://www.parapsych.org/papers/07.pdf>
 
@@ -2760,136 +2749,132 @@ Water.**” Physics Letters A, [<span class="underline">https://www.academia.edu
 
 <a name="ref_076">76</a>: Tressoldi, P. E., Storm, L., & Radin, D. (2010). **Extrasensory Perception and Quantum Models of Cognition, Neuro Quantology,** 8(4). doi:10.14704/nq.2010.8.4.353
 
-<a name="ref_077">77</a>: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary.** Retrieved from [<span class="underline">https://www.youtube.com/watch? v=zZ4G3IRVFwU</span>](https://www.youtube.com/watch?v=zZ4G3IRVFwU)
+<a name="ref_077">77</a>: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary.** Retrieved from <https://www.youtube.com/watch?v=zZ4G3IRVFwU>
 
-<a name="ref_078">78</a>: **Astronaut Tells of E. S. P. Tests.** (1971, June 22). Retrieved from [<span class="underline">https://www.nytimes.com/1971/06/22/archives/astronaut-tells-of-e-s-p-tests.html</span>](https://www.nytimes.com/1971/06/22/archives/astronaut-tells-of-e-s-p-tests.html)
+<a name="ref_078">78</a>: **Astronaut Tells of E. S. P. Tests.** (1971, June 22). Retrieved from <https://www.nytimes.com/1971/06/22/archives/astronaut-tells-of-e-s-p-tests.html>
 
-<a name="ref_079">79</a>: **100 Scientific Papers Offering Evidence for Psi Phenomena & Effects**. (2019, April 22). [<span class="underline">https://subtle.energy/list-100-peer-reviewed-papers-offer-scientific-evidence-psi-phenomena/</span>](https://subtle.energy/list-100-peer-reviewed-papers-offer-scientific-evidence-psi-phenomena/)
+<a name="ref_079">79</a>: **100 Scientific Papers Offering Evidence for Psi Phenomena & Effects**. (2019, April 22). <https://subtle.energy/list-100-peer-reviewed-papers-offer-scientific-evidence-psi-phenomena/>
 
-<a name="ref_080">80</a>: Luke, D. (2009, September). **Telepathine (ayahuasca) and psychic ability: Field research in South America**. [<span class="underline">https://www.researchgate.net/publication/278301470\_Telepathine\_ayahuasca\_and\_psychic\_ability\_Field\_research\_in\_South\_America</span>](https://www.researchgate.net/publication/278301470_Telepathine_ayahuasca_and_psychic_ability_Field_research_in_South_America), British Psychological Society, Transpersonal Psychology Section 13th Annual Conference
+<a name="ref_080">80</a>: Luke, D. (2009, September). **Telepathine (ayahuasca) and psychic ability: Field research in South America**. <https://www.researchgate.net/publication/278301470\_Telepathine\_ayahuasca\_and\_psychic\_ability\_Field\_research\_in\_South\_America>, British Psychological Society, Transpersonal Psychology Section 13th Annual Conference
 
-<a name="ref_081">81</a>: Cave, K. (2015, February 24). **The rise of 'Telepathic Tech' in 2015**. Retrieved from [<span class="underline">https://www.idgconnect.com/idgconnect/analysis-review/1023702/rise-telepathic-tech-2015</span>](https://www.idgconnect.com/idgconnect/analysis-review/1023702/rise-telepathic-tech-2015)
+<a name="ref_081">81</a>: Cave, K. (2015, February 24). **The rise of 'Telepathic Tech' in 2015**. Retrieved from <https://www.idgconnect.com/idgconnect/analysis-review/1023702/rise-telepathic-tech-2015>
 
-<a name="ref_082">82</a>: Grau, C., Ginhoux, R., Riera, A., Nguyen, T. L., Chauvat, H., Berg, M., ... Ruffini, G. (n.d.). **Conscious Brain-to-Brain Communication in Humans Using Non-Invasive Technologies**. [<span class="underline">https://journals.plos.org/plosone/article? id=10.1371/journal.pone.0105225</span>](https://journals.plos.org/plosone/article?%20id=10.1371/journal.pone.0105225)
+<a name="ref_082">82</a>: Grau, C., Ginhoux, R., Riera, A., Nguyen, T. L., Chauvat, H., Berg, M., ... Ruffini, G. (n.d.). **Conscious Brain-to-Brain Communication in Humans Using Non-Invasive Technologies**. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105225>
 
-<a name="ref_083">83</a>: Heaven, D. (n.d.). **First mind-reading implant gives rats telepathic power**. Retrieved from [<span class="underline">https://www.newscientist.com/article/dn23221-first-mind-reading-implant-gives-rats-telepathic-power/</span>](https://www.newscientist.com/article/dn23221-first-mind-reading-implant-gives-rats-telepathic-power/)
+<a name="ref_083">83</a>: Heaven, D. (n.d.). **First mind-reading implant gives rats telepathic power**. Retrieved from <https://www.newscientist.com/article/dn23221-first-mind-reading-implant-gives-rats-telepathic-power/>
 
-<a name="ref_084">84</a>: Tucker, P. (2018, September 06). **It's Now Possible to Telepathically Communicate with a Drone Swarm.** Retrieved from [<span class="underline">https://www.defenseone.com/technology/2018/09/its-now-possible-telepathically-communicate-drone-swarm/151068/</span>](https://www.defenseone.com/technology/2018/09/its-now-possible-telepathically-communicate-drone-swarm/151068/)
+<a name="ref_084">84</a>: Tucker, P. (2018, September 06). **It's Now Possible to Telepathically Communicate with a Drone Swarm.** Retrieved from <https://www.defenseone.com/technology/2018/09/its-now-possible-telepathically-communicate-drone-swarm/151068/>
 
-<a name="ref_085">85</a>: Kosoff, M., & Kosoff, M. (2017, April 21). **Elon Musk Is Seriously Starting a “Telepathy” Company.** Retrieved from [<span class="underline">https://www.vanityfair.com/news/2017/04/elon-musk-is-seriously-starting-a-telepathy-company</span>](https://www.vanityfair.com/news/2017/04/elon-musk-is-seriously-starting-a-telepathy-company)
+<a name="ref_085">85</a>: Kosoff, M., & Kosoff, M. (2017, April 21). **Elon Musk Is Seriously Starting a “Telepathy” Company.** Retrieved from <https://www.vanityfair.com/news/2017/04/elon-musk-is-seriously-starting-a-telepathy-company>
 
-<a name="ref_086">86</a>: Heath, A. (2017, January 11). **Facebook has a mysterious team working on tech that sounds a lot like mind reading**. Retrieved from [<span class="underline">https://www.businessinsider.com/facebooks-building-8-working-on-brain-computer-communication-platform-2017-1</span>](https://www.businessinsider.com/facebooks-building-8-working-on-brain-computer-communication-platform-2017-1)
+<a name="ref_086">86</a>: Heath, A. (2017, January 11). **Facebook has a mysterious team working on tech that sounds a lot like mind reading**. Retrieved from <https://www.businessinsider.com/facebooks-building-8-working-on-brain-computer-communication-platform-2017-1>
 
-<a name="ref_087">87</a>: Watanabe-Crockett, L. (n.d.). **Telepathic Message Sent Over Internet**. Retrieved from [<span class="underline">https://www.wabisabilearning.com/blog/telepathic-message-sent-over-internet</span>](https://www.wabisabilearning.com/blog/telepathic-message-sent-over-internet)
+<a name="ref_087">87</a>: Watanabe-Crockett, L. (n.d.). **Telepathic Message Sent Over Internet**. Retrieved from <https://www.wabisabilearning.com/blog/telepathic-message-sent-over-internet>
 
-<a name="ref_088">88</a>: ArXiv, E. T. (2018, October 01). **The first “social network” of brains lets three people transmit thoughts to each other's heads.** Retrieved from [<span class="underline">https://www.technologyreview.com/s/612212/the-first-social-network-of-brains-lets-three-people-transmit-thoughts-to-each-others-heads/</span>](https://www.technologyreview.com/s/612212/the-first-social-network-of-brains-lets-three-people-transmit-thoughts-to-each-others-heads/)
+<a name="ref_088">88</a>: ArXiv, E. T. (2018, October 01). **The first “social network” of brains lets three people transmit thoughts to each other's heads.** Retrieved from <https://www.technologyreview.com/s/612212/the-first-social-network-of-brains-lets-three-people-transmit-thoughts-to-each-others-heads/>
 
-<a name="ref_089">89</a>: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary**. [<span class="underline">https://www.youtube.com/watch? v=zZ4G3IRVFwU</span>](https://www.youtube.com/watch?%20v=zZ4G3IRVFwU)
+<a name="ref_089">89</a>: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary**. <https://www.youtube.com/watch?v=zZ4G3IRVFwU>
 
-<a name="ref_090">90</a>: MetaRising. (2016, November 10). **Banned TED Talk about Psychic Abilities** \| Russell Targ \| suespeaks.org. [<span class="underline">https://www.youtube.com/watch? v=hBl0cwyn5GY</span>](https://www.youtube.com/watch?v=hBl0cwyn5GY)
+<a name="ref_090">90</a>: MetaRising. (2016, November 10). **Banned TED Talk about Psychic Abilities** \| Russell Targ \| suespeaks.org. <https://www.youtube.com/watch?v=hBl0cwyn5GY>
 
 <a name="ref_091">91</a>: Zhou, Wen, and Denise Chen. "**Fear-Related Chemosignals Modulate Recognition of Fear in Ambiguous Facial Expressions.**" Psychological Science 20, no. 2 (2009): 177-83. doi:10.1111/j.1467-9280.2009.02263. x.
 
-<a name="ref_092">92</a>: “Some Personality Traits Affect How You Smell.” Live Science, December 2, 2011
+<a name="ref_092">92</a>: **“Some Personality Traits Affect How You Smell.”** Live Science, December 2, 2011
 
-<a name="ref_093">93</a>: Masataka, N., and M. Shibasak. "**Premenstrual Enhancement of Snake Detection in Visual…**" Nature. March 8, 2012. Accessed May 29, 2016.doi:10.1038/srep00307
+<a name="ref_093">93</a>: Masataka, N., and M. Shibasak. "** Premenstrual Enhancement of Snake Detection in Visual…**" Nature. March 8, 2012. Accessed May 29, 2016.doi:10.1038/srep00307
 
-<a name="ref_094">94</a>: "The Humans with Super Human Vision." Discover, June 18, 2009.
+<a name="ref_094">94</a>: **"The Humans with Super Human Vision."** Discover, June 18, 2009.
 
-<a name="ref_095">95</a>: Galland, L., National Center for Biotechnology Information. December 2014. Accessed June 12, 2016. [<span class="underline">http://www.ncbi.nlm.nih.gov/pubmed/25402818/</span>](http://www.ncbi.nlm.nih.gov/pubmed/25402818/)
+<a name="ref_095">95</a>: Galland, L., National Center for Biotechnology Information. December 2014. Accessed June 12, 2016. <http://www.ncbi.nlm.nih.gov/pubmed/25402818/>
 
-<a name="ref_096">96</a>: Heijtz, R. D., S. Wang, F. Anuar, Y. Qian, B. Bjorkholm, A. Samuelsson, M. L. Hibberd, H. Forssberg, and S. Pettersson. "**Normal Gut Microbiota Modulates Brain Development and Behavior.**" Proceedings of the National Academy of Sciences 108, no. 7 (2011): 3047-052. Accessed June 26, 2016. doi:10.1073/pnas.1010529108.
+<a name="ref_096">96</a>: Heijtz, R. D., S. Wang, F. Anuar, Y. Qian, B. Bjorkholm, A. Samuelsson, M. L. Hibberd, H. Forssberg, and S. Pettersson. "**Normal Gut Microbiota Modulates Brain Development and Behavior.**" Proceedings of the National Academy of Sciences 108, no. 7 (2011): 3047-052. Accessed June 26, 2016. doi:10.1073/pnas.1010529108. Note: this is the same paper used by Dr. Andrew Wakefield to help support the autism/vaccine connection, which, contrary to Dr. Brain Deer’s accusations, is neither fraudulent or inaccurate.
 
-Note: this is the same paper used by Dr. Andrew Wakefield to help support the autism/vaccine connection, which, contrary to Dr. Brain Deer’s accusations, is neither fraudulent or inaccurate.
+<a name="ref_097">97</a>: Gershon, Michael D. **The Second Brain: The Scientific Basis of Gut Instinct and a Groundbreaking New Understanding of Nervous Disorders of the Stomach and Intestine.** New York, NY: HarperCollins Publishers, 1998.
 
-<a name="ref_097">97</a>: Gershon, Michael D. The Second Brain: The Scientific Basis of Gut Instinct and a Groundbreaking New Understanding of Nervous Disorders of the Stomach and Intestine. New York, NY: HarperCollins Publishers, 1998.
-
-<a name="ref_098">98</a>: "Sight Unseen: People Blinded by Brain Damage Can Respond to Emotive Expressions." Scientific American, October 14, 2009.
+<a name="ref_098">98</a>: **"Sight Unseen: People Blinded by Brain Damage Can Respond to Emotive Expressions."** Scientific American, October 14, 2009.
 
 <a name="ref_099">99</a>: This is a technique taught by the Nithyananda Mission.Contact address: Nithyananda Dhyanapeetam, Nithyanandapuri, Kallugopahalli, Off Mysore Road, Bidadi, Bangalore District – 562 109. Karnataka, INDIA
 
 <a name="ref_100">100</a>: Cerretani, Jessica. "**Extra Sensory Perceptions.**” HMS.Accessed May 29, 2016. https://hms.harvard.edu/news/harvard-medicine/extra-sensory-perceptions.
 
-<a name="ref_101">101</a>: Crick, F., & Orgel, L. (1973). Directed panspermia. Icarus, 19(3), 341-346. doi:10.1016/0019-1035(73)90110-3
+<a name="ref_101">101</a>: Crick, F., & Orgel, L. (1973). **Directed panspermia.** Icarus, 19(3), 341-346. doi:10.1016/0019-1035(73)90110-3
 
-<a name="ref_102">102</a>: Sullivan, W. (1979, May 07). **Scientists Examine Tiny Viruses for Messages from Outer Space**. Retrieved from [<span class="underline">https://www.nytimes.com/1979/05/07/archives/scientists-examine-tiny-viruses-for-messages-from-outer-space.html</span>](https://www.nytimes.com/1979/05/07/archives/scientists-examine-tiny-viruses-for-messages-from-outer-space.html)
+<a name="ref_102">102</a>: Sullivan, W. (1979, May 07). **Scientists Examine Tiny Viruses for Messages from Outer Space**. Retrieved from <https://www.nytimes.com/1979/05/07/archives/scientists-examine-tiny-viruses-for-messages-from-outer-space.html>
 
-<a name="ref_103">103</a>: **Collective Memory.**(n.d.).[<span class="underline">https://www.sciencedirect.com/topics/computer-science/collective-memory</span>](https://www.sciencedirect.com/topics/computer-science/collective-memory)
+<a name="ref_103">103</a>: **Collective Memory.**(n.d.). <https://www.sciencedirect.com/topics/computer-science/collective-memory>
 
-<a name="ref_104">104</a>: García-Gavilanes, Ruth, et al. **“The Memory Remains: Understanding Collective Memory in the Digital Age.”** Science Advances, vol. 3, no. 4, 2017, doi:10.1126/sciadv.1602368. [<span class="underline">https://advances.sciencemag.org/content/3/4/e1602368.full</span>](https://advances.sciencemag.org/content/3/4/e1602368.full)
+<a name="ref_104">104</a>: García-Gavilanes, Ruth, et al. **“The Memory Remains: Understanding Collective Memory in the Digital Age.”** Science Advances, vol. 3, no. 4, 2017, doi:10.1126/sciadv.1602368. <https://advances.sciencemag.org/content/3/4/e1602368.full>
 
 <a name="ref_105">105</a>: https://en.wikipedia.org/wiki/Exabyte
 
-<a name="ref_106">106</a>: Darryl Bruce (2001) **Fifty Years Since Lashley's In Search of the Engram**: Refutations and Conjectures, Journal of the History of the Neurosciences, 10:3, 308-318, DOI: 10.1076/jhin.10.3.308.9086[<span class="underline">https://www.tandfonline.com/doi/abs/10.1076/jhin.10.3.308.9086</span>](https://www.tandfonline.com/doi/abs/10.1076/jhin.10.3.308.9086)
+<a name="ref_106">106</a>: Darryl Bruce (2001) **Fifty Years Since Lashley's In Search of the Engram**: Refutations and Conjectures, Journal of the History of the Neurosciences, 10:3, 308-318, DOI: 10.1076/jhin.10.3.308.9086<https://www.tandfonline.com/doi/abs/10.1076/jhin.10.3.308.9086>
 
-<a name="ref_107">107</a>: “**Internet Kill Switch**.” Wikipedia, Wikimedia Foundation, 24 Jan. 2019,[<span class="underline">https://en.wikipedia.org/wiki/Internet\_kill\_switch</span>](https://en.wikipedia.org/wiki/Internet_kill_switch)
+<a name="ref_107">107</a>: “**Internet Kill Switch**.” Wikipedia, Wikifile:///home/jw/Documents/Projects/mindfields/tholonia-md/media Foundation, 24 Jan. 2019,<https://en.wikipedia.org/wiki/Internet\_kill\_switch>
 
-<a name="ref_108">108</a>: Trafton, Anne. “**Brain Waves Encode Rules for Behavior.**” MIT News, 21 Nov. 2012, [<span class="underline">http://news.mit.edu/2012/brain-waves-encode-rules-for-behavior-1121</span>](http://news.mit.edu/2012/brain-waves-encode-rules-for-behavior-1121)
+<a name="ref_108">108</a>: Trafton, Anne. “**Brain Waves Encode Rules for Behavior.**” MIT News, 21 Nov. 2012, <http://news.mit.edu/2012/brain-waves-encode-rules-for-behavior-1121>
 
-<a name="ref_109">109</a>: “**Brain Waves Encode Information as Time Signals.**” ScienceDaily, ScienceDaily, 16 Dec. 2013, [<span class="underline">https://www.sciencedaily.com/releases/2013/12/131216142622.htm</span>](https://www.sciencedaily.com/releases/2013/12/131216142622.htm)
+<a name="ref_109">109</a>: “**Brain Waves Encode Information as Time Signals.**” ScienceDaily, ScienceDaily, 16 Dec. 2013, <https://www.sciencedaily.com/releases/2013/12/131216142622.htm>
 
-<a name="ref_110">110</a>: “**New Way of Retaining Quantum Memories Stored in Light.**” ScienceDaily, ScienceDaily, 30 Sept. 2015, [<span class="underline">https://www.sciencedaily.com/releases/2015/09/150930074440.htm</span>](https://www.sciencedaily.com/releases/2015/09/150930074440.htm)
+<a name="ref_110">110</a>: “**New Way of Retaining Quantum Memories Stored in Light.**” ScienceDaily, ScienceDaily, 30 Sept. 2015, <https://www.sciencedaily.com/releases/2015/09/150930074440.htm>
 
-<a name="ref_111">111</a>: “**What Is the Cosmic Microwave Background Radiation?”** *Scientific American*, [<span class="underline">https://www.scientificamerican.com/article/what-is-the-cosmic-microw/</span>](https://www.scientificamerican.com/article/what-is-the-cosmic-microw/)
+<a name="ref_111">111</a>: “**What Is the Cosmic Microwave Background Radiation?”** *Scientific American*, <https://www.scientificamerican.com/article/what-is-the-cosmic-microw/>
 
-<a name="ref_112">112</a>: Williams, Matt. “**It Could Be Possible to Transfer Data Through Gravitational Waves.**” Universe Today, 24 Oct. 2018, [<span class="underline">https://www.universetoday.com/140305/it-could-be-possible-to-transfer-data-through-gravitational-waves/</span>](https://www.universetoday.com/140305/it-could-be-possible-to-transfer-data-through-gravitational-waves/)
+<a name="ref_112">112</a>: Williams, Matt. “**It Could Be Possible to Transfer Data Through Gravitational Waves.**” Universe Today, 24 Oct. 2018, <https://www.universetoday.com/140305/it-could-be-possible-to-transfer-data-through-gravitational-waves/>
 
-<a name="ref_113">113</a>: “**Can Quantum Dark Energy Explain Telepathy?”** Can Quantum Dark Energy Explain Telepathy? \| Naked Science Forum, [<span class="underline">https://www.thenakedscientists.com/forum/index.php? topic=52709.0</span>](https://www.thenakedscientists.com/forum/index.php?topic=52709.0)
+<a name="ref_113">113</a>: “**Can Quantum Dark Energy Explain Telepathy?”** Can Quantum Dark Energy Explain Telepathy? \| Naked Science Forum, <https://www.thenakedscientists.com/forum/index.php?topic=52709.0>
 
-<a name="ref_114">114</a>: Thomas Y., Kahhak L., Aissa J. (2006) **The physical nature of the biological signal, a puzzling phenomenon: the critical contribution of Jacques Benveniste**. In: Pollack G.H., Cameron I.L., Wheatley D.N. (eds) Water and the Cell. Springer, Dordrecht, [<span class="underline">https://link.springer.com/chapter/10.1007/1-4020-4927-7\_17</span>](https://link.springer.com/chapter/10.1007/1-4020-4927-7_17)
+<a name="ref_114">114</a>: Thomas Y., Kahhak L., Aissa J. (2006) **The physical nature of the biological signal, a puzzling phenomenon: the critical contribution of Jacques Benveniste**. In: Pollack G.H., Cameron I.L., Wheatley D.N. (eds) Water and the Cell. Springer, Dordrecht, <https://link.springer.com/chapter/10.1007/1-4020-4927-7\_17>
 
-<a name="ref_115">115</a>: “**When to Publish Pseudo-Science**.” Nature, vol. 334, no. 6181, 1988, pp. 367–367., doi:10.1038/334367a0.[<span class="underline">https://www.nature.com/articles/334367a0</span>](https://www.nature.com/articles/334367a0)
+<a name="ref_115">115</a>: “**When to Publish Pseudo-Science**.” Nature, vol. 334, no. 6181, 1988, pp. 367–367., doi:10.1038/334367a0. <https://www.nature.com/articles/334367a0>
 
-<a name="ref_116">116</a>: Maddox, John, et al. “**‘High-Dilution’ Experiments a Delusion.**” Nature, vol. 334, no. 6180, 1988, pp. 287–290., doi:10.1038/334287a0. [<span class="underline">https://www.ncbi.nlm.nih.gov/pubmed/2455869</span>](https://www.ncbi.nlm.nih.gov/pubmed/2455869)
+<a name="ref_116">116</a>: Maddox, John, et al. “**‘High-Dilution’ Experiments a Delusion.**” Nature, vol. 334, no. 6180, 1988, pp. 287–290., doi:10.1038/334287a0. <https://www.ncbi.nlm.nih.gov/pubmed/2455869>
 
-<a name="ref_117">117</a>: Pritchard, David E., et al. “**Photon Scattering from Atoms in an Atom Interferometer: Coherence Lost and Regained.**” Coherence and Quantum Optics VII, 1996, pp. 133–141., doi:10.1007/978-1-4757-9742-8\_18.[<span class="underline">https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.3783</span>](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.3783) Full paper: [<span class="underline">http://chapmanlabs.gatech.edu/papers/scattering\_ifm\_prl95.pdf</span>](http://chapmanlabs.gatech.edu/papers/scattering_ifm_prl95.pdf).
+<a name="ref_117">117</a>: Pritchard, David E., et al. “**Photon Scattering from Atoms in an Atom Interferometer: Coherence Lost and Regained.**” Coherence and Quantum Optics VII, 1996, pp. 133–141., doi:10.1007/978-1-4757-9742-8\_18. <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.3783> Full paper: <http://chapmanlabs.gatech.edu/papers/scattering\_ifm\_prl95.pdf>.
 
 <a name="ref_118">118</a>: Penrose, Roger, and Malcolm Angus Hugh. MacCallum. **Twistor Theory: An Approach to the Quantisation of Fields and Space-time**. Amsterdam: North-Holland Pub., 1973.
 
-<a name="ref_119">119</a>: Dr. Wojciech Zurek of the Los Alamos National Laboratory explains the concept of quantum Darwinism in an interview at the Institute for Quantum Computing that you can see on YouTube at [<span class="underline">https://www.youtube.com/watch? v=27zMdaBgt6g</span>](https://www.youtube.com/watch?v=27zMdaBgt6g)
+<a name="ref_119">119</a>: Dr. Wojciech Zurek of the Los Alamos National Laboratory explains the concept of quantum Darwinism in an interview at the Institute for Quantum Computing that you can see on YouTube at <https://www.youtube.com/watch?v=27zMdaBgt6g>
 
-<a name="ref_120">120</a>: Dias, Brian & Ressler, Kerry. (2013). **Parental olfactory experience influences behavior and neural structure in subsequent generations**. Nature neuroscience. 17. 10.1038/nn.3594. [<span class="underline">https://www.researchgate.net/profile/Brian\_Dias/publication/259109859\_Parental\_olfactory\_experience\_influences\_behavior\_and\_neural\_structure\_in\_subsequent\_generations/links/00b7d52ba5cb06ed27000000/Parental-olfactory-experience-influences-behavior-and-neural-structure-in-subsequent-generations.pdf</span>](https://www.researchgate.net/profile/Brian_Dias/publication/259109859_Parental_olfactory_experience_influences_behavior_and_neural_structure_in_subsequent_generations/links/00b7d52ba5cb06ed27000000/Parental-olfactory-experience-influences-behavior-and-neural-structure-in-subsequent-generations.pdf). See also articles: [<span class="underline">https://www.bbc.com/news/health-25156510</span>](https://www.bbc.com/news/health-25156510) and [<span class="underline">https://www.telegraph.co.uk/news/science/science-news/10486479/Phobias-may-be-memories-passed-down-in-genes-from-ancestors.html</span>](https://www.telegraph.co.uk/news/science/science-news/10486479/Phobias-may-be-memories-passed-down-in-genes-from-ancestors.html)
+<a name="ref_120">120</a>: Dias, Brian & Ressler, Kerry. (2013). **Parental olfactory experience influences behavior and neural structure in subsequent generations**. Nature neuroscience. 17. 10.1038/nn.3594. <https://www.researchgate.net/profile/Brian\_Dias/publication/259109859\_Parental\_olfactory\_experience\_influences\_behavior\_and\_neural\_structure\_in\_subsequent\_generations/links/00b7d52ba5cb06ed27000000/Parental-olfactory-experience-influences-behavior-and-neural-structure-in-subsequent-generations.pdf>. See also articles: <https://www.bbc.com/news/health-25156510> and <https://www.telegraph.co.uk/news/science/science-news/10486479/Phobias-may-be-memories-passed-down-in-genes-from-ancestors.html>
 
-<a name="ref_121">121</a>: Hagelin, John S., Rainforth, Maxwell V., Cavanaugh, Kenneth L. C., Alexander, Charles N., Shatkin, Susan F., Davies, John L., Hughes, Anne O., Ross, Emanuel, Orme-Johnson, David W., **Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.C.: Results of the National Demonstration Project, June--July 1993,** Social Indicators Research,,8 June 01,1999 [<span class="underline">https://doi.org/10.1023/A:1006978911496</span>](https://doi.org/10.1023/A:1006978911496)
+<a name="ref_121">121</a>: Hagelin, John S., Rainforth, Maxwell V., Cavanaugh, Kenneth L. C., Alexander, Charles N., Shatkin, Susan F., Davies, John L., Hughes, Anne O., Ross, Emanuel, Orme-Johnson, David W., **Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.C.: Results of the National Demonstration Project, June--July 1993,** Social Indicators Research,,8 June 01,1999 <https://doi.org/10.1023/A:1006978911496> Full report available at <http://www.istpp.org/crime\_prevention/>
 
-Full report available at [<span class="underline">http://www.istpp.org/crime\_prevention/</span>](http://www.istpp.org/crime_prevention/)
+<a name="ref_122">122</a>: “**Reduced Violent Crime in Washington, DC.**” Research Reduced Violent Crime in Washington DC Comments, <https://research.mum.edu/maharishi-effect/reduced-violent-crime-in-washington-dc>
 
-<a name="ref_122">122</a>: “**Reduced Violent Crime in Washington, DC.**” Research Reduced Violent Crime in Washington DC Comments, [<span class="underline">https://research.mum.edu/maharishi-effect/reduced-violent-crime-in-washington-dc</span>](https://research.mum.edu/maharishi-effect/reduced-violent-crime-in-washington-dc)
+<a name="ref_123">123</a>: Carey, Benedict. “**Long-Awaited Medical Study Questions the Power of Prayer.**” The New York Times, The New York Times, 31 Mar. 2006, <https://www.nytimes.com/2006/03/31/health/31pray.html>.
 
-<a name="ref_123">123</a>: Carey, Benedict. “**Long-Awaited Medical Study Questions the Power of Prayer.**” The New York Times, The New York Times, 31 Mar. 2006, [<span class="underline">https://www.nytimes.com/2006/03/31/health/31pray.html</span>](https://www.nytimes.com/2006/03/31/health/31pray.html).
+<a name="ref_124">124</a>: Byrd, Randolph C. “**Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population.**” Southern Medical Journal, vol. 81, no. 7, 1988, pp. 826–829., doi:10.1097/00007611-198807000-00005. <http://www.godandscience.org/apologetics/smj1.html>
 
-<a name="ref_124">124</a>: Byrd, Randolph C. “**Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population.**” Southern Medical Journal, vol. 81, no. 7, 1988, pp. 826–829., doi:10.1097/00007611-198807000-00005.[<span class="underline">http://www.godandscience.org/apologetics/smj1.html</span>](http://www.godandscience.org/apologetics/smj1.html)
+<a name="ref_125">125</a>: William S. Harris, PhD; Manohar Gowda, MD; Jerry W. Kolb, MDiv; et al, **“A Randomized, Controlled Trial of the Effects of Remote, Intercessory Prayer on Outcomes in Patients Admitted to the Coronary Care Unit—Correction.”** Archives of Internal Medicine, vol. 160, no. 12, 2000, p. 1878., doi:10.1001/archinte.160.12.1878. <https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/485161>
 
-<a name="ref_125">125</a>: William S. Harris, PhD; Manohar Gowda, MD; Jerry W. Kolb, MDiv; et al, “A Randomized, Controlled Trial of the Effects of Remote, Intercessory Prayer on Outcomes in Patients Admitted to the Coronary Care Unit—Correction.” Archives of Internal Medicine, vol. 160, no. 12, 2000, p. 1878., doi:10.1001/archinte.160.12.1878. [<span class="underline">https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/485161</span>](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/485161)
+<a name="ref_126">126</a>: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
 
-<a name="ref_126">126</a>: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, [<span class="underline">https://doi.org/10.5194/npg-24-481-2017</span>](https://doi.org/10.5194/npg-24-481-2017), 2017.
+<a name="ref_127">127</a>: Grabbed from <https://www.oddee.com/item\_82923.aspx>
 
-<a name="ref_127">127</a>: Grabbed from [<span class="underline">https://www.oddee.com/item\_82923.aspx</span>](https://www.oddee.com/item_82923.aspx)
+<a name="ref_128">128</a>: **“As above, so below”, or how a scientific theory is born**. (2012, July 30). <https://paolomaggiuk.wordpress.com/as-above-so-below-or-how-a-scientific-theory-is-born/>
 
-<a name="ref_128">128</a>: **“As above, so below”, or how a scientific theory is born**. (2012, July 30). [<span class="underline">https://paolomaggiuk.wordpress.com/as-above-so-below-or-how-a-scientific-theory-is-born/</span>](https://paolomaggiuk.wordpress.com/as-above-so-below-or-how-a-scientific-theory-is-born/)
+<a name="ref_129">129</a>: Rifkin, L. (2014, June 10). **The Logic and Beauty of Cosmological Natural Selection**. <https://blogs.scientificamerican.com/guest-blog/the-logic-and-beauty-of-cosmological-natural-selection/>
 
-<a name="ref_129">129</a>: Rifkin, L. (2014, June 10). **The Logic and Beauty of Cosmological Natural Selection**.<span class="underline">https://blogs.scientificamerican.com/guest-blog/the-logic-and-beauty-of-cosmological-natural-selection/</span>
-
-<a name="ref_130">130</a>: Dr. Wojciech Zurek of the Los Alamos National Laboratory explains the concept of quantum Darwinism in an interview at the Institute for Quantum Computing that you can see on YouTube at [<span class="underline">https://www.youtube.com/watch? v=27zMdaBgt6g</span>](https://www.youtube.com/watch?v=27zMdaBgt6g)
+[//]: # (130 deleted as dupe)
 
 <a name="ref_131">131</a>: Talbot, Michael, and Lynne McTaggart. **The Holographic Universe: The Revolutionary Theory of Reality**. New York, NY: Harper Perennial, 2011.
 
 <a name="ref_132">132</a>: Wilber, Ken. **The Holographic Paradigm**. Shambhala;1982
 
-<a name="ref_133">133</a>: Crew, B. (n.d.).**The Case For Black Holes Being Nothing But Holograms Just Got Even Stronger.**[<span class="underline">https://www.sciencealert.com/the-case-for-black-holes-being-nothing-but-holographic-images-just-got-stronger</span>](https://www.sciencealert.com/the-case-for-black-holes-being-nothing-but-holographic-images-just-got-stronger)
+<a name="ref_133">133</a>: Crew, B. (n.d.).**The Case For Black Holes Being Nothing But Holograms Just Got Even Stronger.**<https://www.sciencealert.com/the-case-for-black-holes-being-nothing-but-holographic-images-just-got-stronger>
 
 <a name="ref_134">134</a>: Genesis 3:22. The entire line is “Then the Lord God said, "Behold, the man has become like one of Us, knowing the difference between good and evil; suppose he were to reach out his hand to also eat the fruit of the tree of life, and live forever! " (<span dir="rtl">וַיֹּאמֶר יְהוָה אֱלֹהִים, הֵן הָאָדָם הָיָה כְּאַחַד מִמֶּנּוּ, לָדַעַת, טוֹב וָרָע; וְעַתָּה פֶּן-יִשְׁלַח יָדוֹ, וְלָקַח גַּם מֵעֵץ הַחַיִּים, וְאָכַל, וָחַי לְעֹלָם</span>)
 
-<a name="ref_135">135</a>: Emoto, Masaru. The True Power of Water: Healing and Discovering Ourselves. Beyond Words Pub., 2005.
+<a name="ref_135">135</a>: Emoto, Masaru. **The True Power of Water: Healing and Discovering Ourselves**. Beyond Words Pub., 2005.
 
-Emoto, Masaru. Messages from Water and the Universe. Hay House, 2010.
+Emoto, Masaru. **Messages from Water and the Universe.** Hay House, 2010.
 
-Emoto, Masaru. Messages from Water: The First Pictures of Frozen Water Crystals. Hado Publishing, 2004.
+Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystals.** Hado Publishing, 2004.
 
-<a name="ref_136">136</a>: The use of magnetic water in agriculture to increase harvest and save up to 25% water. Live testimonials by biggest Australian farmers. [<span class="underline">https://www.youtube.com/watch? v=YVL6tfGhr8M</span>](https://www.youtube.com/watch?%20v=YVL6tfGhr8M)
+<a name="ref_136">136</a>: The use of magnetic water in agriculture to increase harvest and save up to 25% water. Live testimonials by biggest Australian farmers. <https://www.youtube.com/watch?v=YVL6tfGhr8M>
 
-<a name="ref_137">137</a>: For example. [<span class="underline">https://www.youtube.com/watch? v=92rSXLPupKw</span>](https://www.youtube.com/watch?%20v=92rSXLPupKw)
+<a name="ref_137">137</a>: For example. <https://www.youtube.com/watch?v=92rSXLPupKw>
 
-<a name="ref_138">138</a>: More on Victor’s work can be seen in the excellent documentary on YouTube “**The Secrets of Water, The Documentary of Viktor Schauberger "Comprehend and Copy Nature**”, <span class="underline">https://www.youtube.com/watch? v=XyOGdjWDVM4</span>
+<a name="ref_138">138</a>: More on Victor’s work can be seen in the excellent documentary on YouTube “**The Secrets of Water, The Documentary of Viktor Schauberger "Comprehend and Copy Nature**”, <https://www.youtube.com/watch?v=XyOGdjWDVM4>
 
-<a name="ref_139">139</a>: Martin-Fischer-Harthun, “**Experimente mit Leitungswasser**”, 1997. This is a difficult paper to find online. The original can be purchased at [<span class="underline">https://www.fischer-wirbelwasser.de/shop/buecher.html</span>](https://www.fischer-wirbelwasser.de/shop/buecher.html)
+<a name="ref_139">139</a>: Martin-Fischer-Harthun, “**Experimente mit Leitungswasser**”, 1997. This is a difficult paper to find online. The original can be purchased at <https://www.fischer-wirbelwasser.de/shop/buecher.html>
