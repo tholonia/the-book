@@ -131,7 +131,24 @@ Getting back to these twelve formulas… we think about voltage, resistance, and
 
 Here we are using Ohm's Law to show how one law can be expressed across many scopes, but this same reasoning applies to all natural laws in physics, or elsewhere.
 
-Alchemy
+## Alchemy
+
+If we are claiming that these laws can be seen throughout our evolution of discovery, we should be able to see them in the early forms of science, alchemy.
+
+Alchemy is the birthplace of modern science, Despite the charlatans of science of their days, just like today, many alchemists profited by promising their "elixirs of life" and promises of discovering the "philosophers stone." The goal of alchemy was to discover the secrets of nature, and to alchemists, this was a much a spiritual journey as it was a technical one.  Modern science has done away with the spiritual or mystical aspect of knowledge and doubled down on the technical aspects, which is an unsustainable position.    
+
+I propose that we can, specifically in the concept of the elements of earth, water, air, and fire.    These elements do not refer to the material instances but to their archetypes of which the material forms are limited instances of.  The first form of matter that came into existence,  which would be the equivalent of modern science's atomic-sized ball of everything that exploded to fill the universe, was considered to be formed by these four archetypes.  This was an idea held by the ancient Greeks, the Islamic philosophers and scientists, Asians and Europeans.
+
+As archetypes, they did not only instantiate as matter but also qualities. For example, the elements were used do describe health as far back as Hippocrates (400 BC), and as recently as Carl Jung's theory of personality, which drew heavily of Hippocrates.  In Jung's theory, there were four types of personalities:  feeling (fire, choleric), thinking (water, phlegmatic), intuition (air, sanguine), and sensation (earth, melancholic).  He then added other attributes such as introversion/extroversion, to come up with eight basic personality archetypes.
+
+How this is relevant here is that the four alchemical elements are a very early version of the four qualities of matter as expressed by Newton's 2nd law?
+
+What we understand as resistance, current, volts, and power today, the alchemists understood as instances of earth, fire, air, and water archetypes,  respectively.  This is not to suggest that just as *V=IxR*, so too does *air = fire x earth*.  This is simply an example of how the same patterns and archetypes keep appearing across many contexts and scopes, such as technology, science, mysticism, social order, biology, and many, many more.
+
+<center><img src="../Images/115-elements.png"></center>
+
+
+
 
 #### **Claim 15:** Instances of laws are limited, defined and understood according to their context. 
 
