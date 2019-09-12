@@ -3,8 +3,10 @@
 D=`date +%h-%d-%Y_%H:%m`
 DS=`date +%H:%m:%S`
 DR=`date +%c`
-
-ORDER="	README.md 000-INTRO.md 010-TOC.md 020-CHAOS.md 030-ENERGY.md 040-ORDER.md 050-LAWS.md 060-INFORMATION.md 070-REASON.md 080-STRUCTURE.md 090-CASES.md 100-PREDETER.md 110-UNBOUND.md 120-XA-WATER.md 130-XB-TMATH.md 140-REFS.md"
+export DR
+DCHAP="Chapters/"
+DLAST="Latest/"
+ORDER="	README.md ${DCHAP}000-INTRO.md ${DCHAP}010-TOC.md ${DCHAP}020-CHAOS.md ${DCHAP}030-ENERGY.md ${DCHAP}040-ORDER.md ${DCHAP}050-LAWS.md ${DCHAP}060-INFORMATION.md ${DCHAP}070-REASON.md ${DCHAP}080-STRUCTURE.md ${DCHAP}090-CASES.md ${DCHAP}100-PREDETER.md ${DCHAP}110-UNBOUND.md ${DCHAP}120-XA-WATER.md ${DCHAP}130-XB-TMATH.md ${DCHAP}140-REFS.md"
  
 
 NORMAL=`echo -e '\033[0m'`
@@ -34,13 +36,14 @@ make_md() {
 	echo -n ${RED}	
 	#replace datestamp with new datestamp in README.md
 	perl -pi -e 's/\{!.*\}/\{\!$ENV{'DR'}$2\}/' README.md
+	
 	echo "${LGREEN}${CMD} ${ORDER} > ${BOOK}${NORMAL}"
 
 	${CMD} ${ORDER} > ${BOOK}
 	# copy versioned filename to final name	
-	rm final/THOLONIA_THE_BOOK.${TYPE}
-	perl -pi -e 's/media/file:\/\/\/home\/jw\/Documents\/Projects\/mindfields\/tholonia-md\/media/gmi' ${BOOK} 
-	cp ${BOOK} final/THOLONIA_THE_BOOK.${TYPE}
+	rm ${DLAST}THOLONIA_THE_BOOK.${TYPE}
+#	perl -pi -e 's/media/file:\/\/\/home\/jw\/Documents\/Projects\/mindfields\/tholonia-md\/media/gmi' ${BOOK} 
+	cp ${BOOK} ${DLAST}THOLONIA_THE_BOOK.${TYPE}
 	echo -n ${NORMAL}	
 	echo "=============================================================="
 }
@@ -52,7 +55,8 @@ make_epub() {
 	BOOK="versions/THOLONIA_THE_BOOK_${DS}.epub"
 	echo "${GREEN}OUTPUT >>> ${BOOK}${NORMAL}"
 	
-	CMD="pandoc --toc --standalone -H include.tex --top-level-division=chapter --to=${TYPE} -o ${BOOK} "
+#	CMD="pandoc --toc --standalone -H include.tex --top-level-division=chapter --to=${TYPE} -o ${BOOK} "
+	CMD="pandoc --standalone -H include.tex --top-level-division=chapter --to=${TYPE} -o ${BOOK} "
         
 	echo "${BLUE}CMD >>> ${CMD}${NORMAL}"
 	
@@ -64,8 +68,8 @@ make_epub() {
 	${CMD} ${ORDER}
 	
 	# copy versioned filename to final name	
-	rm final/THOLONIA_THE_BOOK.${TYPE} 
-	cp ${BOOK} final/THOLONIA_THE_BOOK.${TYPE} 
+	rm ${DLAST}THOLONIA_THE_BOOK.${TYPE} 
+	cp ${BOOK} ${DLAST}THOLONIA_THE_BOOK.${TYPE} 
 	echo -n ${NORMAL}	
 	echo "=============================================================="
 }
@@ -77,7 +81,7 @@ make_html5() {
 	BOOK="versions/THOLONIA_THE_BOOK_${DS}.${TYPE}"
 	echo "${GREEN}OUTPUT >>> ${BOOK}${NORMAL}"
 	
-	CMD="pandoc --toc --standalone -H include.tex --top-level-division=chapter --to=${TYPE} -o ${BOOK} "
+	CMD="pandoc --metadata pagetitle="..." --toc --standalone -H include.tex --top-level-division=chapter --to=${TYPE} -o ${BOOK} "
         
 	echo ${RED}	
 	echo "${BLUE}CMD >>> ${CMD}${NORMAL}"
@@ -90,10 +94,10 @@ make_html5() {
 	${CMD} ${ORDER}
 	
 	#fix broken links
-	perl -pi -e 's/media/file:\/\/\/home\/jw\/Documents\/Projects\/mindfields\/tholonia-md\/media/gmi' ${BOOK} 
+	perl -pi -e 's/src=\"media/src=\"file:\/\/\/home\/jw\/Documents\/Projects\/mindfields\/tholonia-md\/media/gmi' ${BOOK} 
 	# copy versioned filename to final name	
-	rm final/THOLONIA_THE_BOOK.${TYPE} 
-	cp ${BOOK} final/THOLONIA_THE_BOOK.${TYPE} 
+	rm ${DLAST}THOLONIA_THE_BOOK.${TYPE} 
+	cp ${BOOK} ${DLAST}THOLONIA_THE_BOOK.${TYPE} 
 	echo -n ${NORMAL}	
 	echo "=============================================================="
 }
@@ -118,8 +122,8 @@ make_pdf() {
 	${CMD} ${ORDER}
 	
 	# copy versioned filename to final name	
-	rm final/THOLONIA_THE_BOOK.${TYPE}
-	cp ${BOOK} final/THOLONIA_THE_BOOK.${TYPE}
+	rm ${DLAST}THOLONIA_THE_BOOK.${TYPE}
+	cp ${BOOK} ${DLAST}THOLONIA_THE_BOOK.${TYPE}
 	echo -n ${NORMAL}	
 	echo "=============================================================="
 }
@@ -144,8 +148,8 @@ make_tex() {
 	${CMD} ${ORDER}
 	
 	# copy versioned filename to final name	
-	rm final/THOLONIA_THE_BOOK.${TYPE}
-	cp ${BOOK} final/THOLONIA_THE_BOOK.${TYPE}
+	rm ${DLAST}THOLONIA_THE_BOOK.${TYPE}
+	cp ${BOOK} ${DLAST}THOLONIA_THE_BOOK.${TYPE}
 	echo -n ${NORMAL}	
 	echo "=============================================================="
 
