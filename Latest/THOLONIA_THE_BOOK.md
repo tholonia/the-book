@@ -1,4 +1,4 @@
-DRAFT - Version Alpha {!jue 12 sep 2019 00:59:51 EDT}
+DRAFT - Version Alpha {!lun 16 sep 2019 13:55:07 EDT}
 
 NOT TO BE SHARED
 
@@ -114,16 +114,26 @@ Where and how the primal energy came from that created our universe is still, an
 
 For our purpose, at least at this moment, none of these theories or stories matter. What does matter is the idea that once energy was introduced into chaos of the void, something happened. That “something” was some sort of movement, as that is the undebatable nature of energy; it's always moving. This energy moved in accordance with certain laws. We call these laws the Laws of Physics and the Laws of Nature.
 
-The question then becomes, did these laws exist before creation? Did they exist in the chaotic primal void of nothingness? Well, the reasonable answer is yes... and no. “No”, they did not exist in the primal void because these laws only apply where time and space exist, neither of which existed prior to the introduction of energy, plus, if they did it would kind of break the concept of nothingness. “Yes”, in that these laws must have existed “in theory” ... i.e. the relation of a circle to a square existed as a constant (pi), but as there were no circles or squares is was not measurable... there was no *instance* of pi, but there was, for lack of a better word, an archetype of that relationship.
+The question then becomes, did these laws exist before creation? Did they exist in the chaotic primal void of nothingness? Well, the reasonable answer is yes... and no. “No”, they did not exist in the primal void because these laws only apply where time and space exist, neither of which existed prior to the introduction of energy. “Yes”, in that these laws must have existed “in theory” ... i.e. the relation of a circle to a square existed as a constant (pi), but as there were no circles or squares it was not measurable... there was no *instance* of pi, but there was, for lack of a better word, an archetype of that relationship.
 
 The only place where the potential for anything to exist, including concepts, ideas, or archetypes, is in a place where somethingness coexists with nothingness. 0 (which may also equal ∞) can exist, and ∞ (which may also equal 0) can exist, but unless they commingle there will never be numbers. When they do mix numbers appear, and with them, laws. “But!” you may be thinking, “If archetypes can only exist in a duality, and there was not yet a duality before the big bang, how could the archetypes have existed? ” That question is answered a bit later on, but first, we have to address a few other things.
 
-Plato
+
+
+????
+
+ideas in the mind
+
+https://link.springer.com/chapter/10.1007/978-3-030-03633-1_14
+
+Plato, et al
 -----
 
 Without getting too much into philosophy here, the idea of archetypal forms a very Platonic idea.
 
 Plato's *Theory of ideas* is the hypothesis that everything that exists is a material instance of an ideal version, or perfect idea, of that thing.
+
+It is also a very Kant-ish idea, and a very Locke-ish, Descartes-ish and Hume-ish idea, for all these great thinkers, plus many more, had the understanding in one form or another *things* were primarily ideas first.  Not all philosophers and scientists-of-old agreed, and in that day the debate usually boiled down to some form of “is there a god?” <sup>[143](#ref_143)</sup><a name="rev_143">&nbsp;</a> Today, science tends to shy away from the concept of a god, but ask equally impossible questions, such as “it reality a hologram?” or “is existence a simulation?”, etc. That question is answered in this book, but the answer is as maddening as it is enlightening, and words like “yes” or “no” become meaningless.
 
 For pretty much all of man's history there has been an archetypal, theoretical, spiritual or mystical concept of a realm of ideas. In this realm, forms, in their unmanifest, uninstantiated state, are simply ideas; the perfect cube, for example, is a concept we all can grasp, but whose instances in the material world can only approach the ideal. These archetypal forms follow archetypal laws, otherwise, the relationship between the area of a circle and its radius could just as well be “elephant toes on Tuesday afternoon”, or “cat dog moo”, or any other randomness.
 
@@ -135,11 +145,11 @@ How do we know that the laws were not derived from the form, rather than the for
 
 #### **Claim 4:** Levels of order begin with energy, which has laws regarding how it interacts with itself, which form archetypes, which have material instances. 
 
-You may be asking “OK, but what if Plato was wrong?”, but this is not a relevant question because that question assumes that we have access to, or can even grasp, the “ultimate truth” if one even exists. Our theories of reality are predictive models based on our understanding and abilities that are valid for the reality we are able to observe.
+You may be asking “OK, but what if Plato and the gang were wrong?”, but this is not a relevant question because that question assumes that we have access to, or can even grasp, the “ultimate truth” if one even exists. Our theories of reality are predictive models based on our understanding and abilities that are valid for the reality we are able to observe.
 
 #### **Claim 5:** All theories are only valid for a level of awareness, a level of knowledge, the context of both of them and the limits of their application. 
 
-So, even if Plato is “wrong”, which at some level, at some point, in some reality, has to be true, if his ideas form the basis of understanding that allows us to create abstract concepts that can lead to new, testable understandings, then it is “true” until something better comes along. For the record, Aristotle rejected Plato's ideas of forms and stated that all things can only come into existence via matter. For me, both can be true, as one deals with the world of archetypes and ideas and the other strictly with materialism. In both cases of *form* and the *laws of form,* there is one concept that simply expresses itself relative to the context of its scope of either ideas or matter.
+So, even if Plato is “wrong”, which at some level, at some point, in some reality, has to be true, if his ideas form the basis of understanding that allows us to create abstract concepts that can lead to new, testable understandings, then it is “true” until something better, or *more true*, comes along. For the record, Aristotle rejected Plato's ideas of forms and stated that all things can only come into existence via matter. From the perspective of this book, both can be true, as one deals with the world of archetypes and ideas and the other strictly with materialism. In both cases of *form* and the *laws of form,* there is one concept that simply expresses itself relative to the context of its scope of either ideas or matter.
 
 Although today we tend to think of Plato's Theory of Ideas as an abstraction, Plato was quite clear that this realm was as real as the realm we exist in every day, the difference being in the material realm we can never know the true form or idea due to the limitations of material reality. In Plato's *Allegory of the Cave,* he describes this reality as limited due to the fact that it is no more than a mere shadow and echo of the true reality (of ideas). This is compatible, albeit a bit more poetic and dreary, with the ideas describes above.
 
@@ -344,6 +354,21 @@ Getting back to these twelve formulas… we think about voltage, resistance, and
 
 Here we are using Ohm's Law to show how one law can be expressed across many scopes, but this same reasoning applies to all natural laws in physics, or elsewhere.
 
+## Alchemy
+
+If we are claiming that these laws can be seen throughout our evolution of discovery, we should be able to see them in the early forms of science, alchemy.
+
+Alchemy is the birthplace of modern science, Despite the charlatans of science of their days, just like today, many alchemists profited by promising their "elixirs of life" and promises of discovering the "philosophers stone." The goal of alchemy was to discover the secrets of nature, and to alchemists, this was a much a spiritual journey as it was a technical one.  Modern science has done away with the spiritual or mystical aspect of knowledge and doubled down on the technical aspects, which is an unsustainable position.    
+
+I propose that we can, specifically in the concept of the elements of earth, water, air, and fire.    These elements do not refer to the material instances but to their archetypes of which the material forms are limited instances of.  The first form of matter that came into existence,  which would be the equivalent of modern science's atomic-sized ball of everything that exploded to fill the universe, was considered to be formed by these four archetypes.  This was an idea held by the ancient Greeks, the Islamic philosophers and scientists, Asians and Europeans.
+
+As archetypes, they did not only instantiate as matter but also qualities. For example, the elements were used do describe health as far back as Hippocrates (400 BC), and as recently as Carl Jung's theory of personality, which drew heavily of Hippocrates.  In Jung's theory, there were four types of personalities:  feeling (fire, choleric), thinking (water, phlegmatic), intuition (air, sanguine), and sensation (earth, melancholic).  He then added other attributes such as introversion/extroversion, to come up with eight basic personality archetypes.
+
+How this is relevant here is that the four alchemical elements are a very early version of the four qualities of matter as expressed by Newton's 2nd law?
+
+What we understand as resistance, current, volts, and power today, the alchemists understood as instances of earth, fire, air, and water archetypes,  respectively.  This is not to suggest that just as *V=IxR*, so too does *air = fire x earth*.  This is simply an example of how the same patterns and archetypes keep appearing across many contexts and scopes, such as technology, science, mysticism, social order, biology, and many, many more.
+
+<center><img src="../Images/115-elements.png"></center>
 #### **Claim 15:** Instances of laws are limited, defined and understood according to their context. 
 
 Redundancy
@@ -1656,26 +1681,26 @@ The actual first instance of matter are the elements, but no element has a tetra
 
 As a result, we would not see any 3D structures until the first iteration that emerges. A single H<sub>2</sub>O molecule is not a tetrahedron, it is a trigram. Water, however, is tetrahedral. This also supports the claim that elements exist within the first pre-iteration instance of tholons, the very first, and smallest, tetrahedrons, but it also shows that some simple compounds are in this pre-iterations space as well.
 
-<img src="../Images/084-azotosome.png" style="float:right;width:1.66667in;height:2.17014in" />Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structure that all life depends on. Another early structure that is tetrahedral as a molecule alone is methane, one the first organic molecules and not just a building block of life on earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* on the right, and one we might discover on the Saturn moon of Titan.
+<img src="../Images/084-azotosome.png" style="float:right;width:2in;height:2.17014in" />Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structure that all life depends on. Another early structure that is tetrahedral as a molecule alone is methane, one the first organic molecules and not just a building block of life on earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* on the right, and one we might discover on the Saturn moon of Titan.
 
 In the above geometry, we see that in the first generation of a tholon we have 4 trigrams, 3 of which are descending (downward-pointing trigram) and one is ascending (upward-pointing trigram). If we have two tholons we then have a total of 8 trigrams made up of 6 descending and 2 ascending.
 
-<img src="../Images/085-h20.gif" style="width:0.68403in;height:0.55in" />H<sub>2</sub>O is composed of three atoms. One atom is oxygen, which has an atomic number of 8 as it has 8 protons in its nucleus, which defines how much energy it holds as a ‘charge'. It also supports 8 electrons in its outermost shell, which represents its most balanced state. The other two atoms are hydrogen, the very first instance of Newtonian matter, the kind of matter that makes up physical reality as we know it. It has an atomic number of 1 and has only one proton, one electron, and one neutron. Although oxygen wants 8 electrons in its outer shell, it only has 6, so it naturally forms a bond with two hydrogen atoms by sharing the one electron each hydrogen has to offer.
+<img src="../Images/085-h20.png" style="width:30px" />H<sub>2</sub>O is composed of three atoms. One atom is oxygen, which has an atomic number of 8 as it has 8 protons in its nucleus, which defines how much energy it holds as a ‘charge'. It also supports 8 electrons in its outermost shell, which represents its most balanced state. The other two atoms are hydrogen, the very first instance of Newtonian matter, the kind of matter that makes up physical reality as we know it. It has an atomic number of 1 and has only one proton, one electron, and one neutron. Although oxygen wants 8 electrons in its outer shell, it only has 6, so it naturally forms a bond with two hydrogen atoms by sharing the one electron each hydrogen has to offer.
 
 From a tholonic perspective, oxygen follows the pattern of two 3<sup>rd</sup> gen tholons from one face of a 2<sup>nd</sup> gen tholon, which has 6 *real* tholons and 2 *virtual* tholons (*Fig. v1, showing two 3<sup>rd</sup> gen tholons*). Hydrogen follows the pattern of a complete 2<sup>nd</sup> gen tholon (*Fig. v2, showing two complete 2<sup>nd</sup> gen tholons*). Combining these two together (*Fig. v3*) would represent 8 externally-facing points (from the *real* tholons) of interaction and two internally facing points (from the *virtual* tholons) of non-interaction. When combined, the hydrogen tholons will attach to the empty or *virtual* tholons of oxygen.
 
 We can see a few similarities between a tholonic model and a chemical model.
 
-| **Tholon**                                                           | **Atoms**                                                                                                                            | **H2O molecule**          |
-|----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| 8 points of interaction represented by the 8 real tholons            | Oxygen has charge of 8 and supports 8 electrons in outer shell for interactions with its surroundings.                               |                           |
-| 2 points of non-interaction represented by the 2 virtual tholons     | Oxygen has 2 vacancies in the outer shell (also has 2 electrons filling the inner shell which do not interact with its surroundings) |                           |
-| Total of 10 tholons                                                  |                                                                                                                                      | Total atomic charge of 10 |
-| Integration of 2 tholon types                                        | Integration of 2 atom types.                                                                                                         |                           |
-| 3rd gen tholon structure 4x larger (in count) than 2nd gen structure | 3rd gen structure (O) 4<sup>2</sup> larger (mass) than 2nd gen structure (H)                                                         |                           |
+| **Tholon**                                                   | **Atoms**                                                    | **H~2~O molecule**        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------- |
+| 8 points of interaction represented by the 8 real tholons    | Oxygen has charge of 8 and supports 8 electrons in outer shell for interactions with its surroundings. |                           |
+| 2 points of non-interaction represented by the 2 virtual tholons | Oxygen has 2 vacancies in the outer shell (also has 2 electrons filling the inner shell which do not interact with its surroundings) |                           |
+| Total of 10 tholons                                          |                                                              | Total atomic charge of 10 |
+| Integration of 2 tholon types                                | Integration of 2 atom types.                                 |                           |
+| 3rd gen tholon structure 4x larger (in count) than 2nd gen structure | 3rd gen structure (O) 4<sup>2</sup> larger (mass) than 2nd gen structure (H) |                           |
 
 <center><img src="../Images/086-h20-tholo.png" style="width:90%" /></center>
-This is just a hypothetical demonstration, as there may be a much better tholonic model for elements and compounds than this one, but this one is sufficient to show how we might be able to describe elements and compounds tholonically, which might give us new insights into their nature. Perhaps this model applies not just to H<sup>2</sup>O but to any of the Group 6 class of elements, such as Sulfur (creating Hydrogen sulfide, H<sup>2</sup>S, or selenium, creating Hydrogen selenide, H<sup>2</sup>Se, or tellurium, creating Hydrogen telluride (tellane), H<sup>2</sup>Te… you get the picture.
+This is just a hypothetical demonstration, as there may be a much better tholonic model for elements and compounds than this one, but this one is sufficient to show how we might be able to describe elements and compounds tholonically, which might give us new insights into their nature. Perhaps this model applies not just to H<sub>2</sub>O but to any of the Group 6 class of elements, such as Sulfur (creating Hydrogen sulfide, H<sub>2</sub>S, or selenium, creating Hydrogen selenide, H<sub>2</sub>Se, or tellurium, creating Hydrogen telluride (tellane), H<sub>2</sub>Te… you get the picture.
 
 Can we see this similar relationship with other compounds? We claim that you can, as there is an almost infinite number of possible configurations in the thologram. Instances of fundamental configurations, such as those that appear in the earlier stages of iterations, like the Fibonacci sequence and the hexagram, represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality and could be easily discovered.
 
@@ -1788,9 +1813,9 @@ work<sup>[54](#ref_054)</sup>, as well as hundreds of papers and dozens of books
 There is quite a lot of good research on the subject that we won't detail here, but if you want to learn more a good place to start is Fabian Ptok's Masters theses *“Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages”*<sup>[55](#ref_055)</sup>, which covers the subject well from an agricultural and security perspective but also has a number of references to the researchers and work going on in this area. There is also a book available online for
 free.<sup>[56](#ref_056)</sup>
 
-<img src="../Images/094-hexwater.gif" style="float:right;width:1.70833in;height:1.775in" />Water is a particularly good test medium for the structure of water (not the H<sub>2</sub>O molecule alone, but many of them together) is a tetrahedron, and being the most basic shape of creation lends itself to many different applications. It's worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief. It was not until 80 years later, in 2013, that this was finally accepted as valid. Today “it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e. tetrahedral and hexagonal
-structures.”<sup>[57](#ref_057)</sup>
+Water is a particularly good test medium for the structure of water (not the H<sub>2</sub>O molecule alone, but many of them together) is a tetrahedron, and being the most basic shape of creation lends itself to many different applications. It's worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief. It was not until 80 years later, in 2013, that this was finally accepted as valid. Today “it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e. tetrahedral and hexagonal structures.”<sup>[57](#ref_057)</sup>
 
+<center><img src="../Images/116-water-ice.png" style="wodth:80%"/></center>
 Radical ideas are often met with radical resistance. Structured water is one of those ideas.
 
 Simply by adding some structure to simple tap water (see examples of how to make structured water in the chapter “How to Make Structured Water”, we can see the following effects:
@@ -1845,7 +1870,7 @@ So far, we have:
 
 Here we have been making the case that ideas themselves are an expression of energy, and as they clearly incorporate and are even defined by all the properties of intelligence listed, it's reasonable to conclude that ideas themselves emerge from a form of intelligence, and may even have their own intelligence.
 
-However, this intelligence is quite different from what we would call human intelligence because of its aggregate nature. It's more of a recursively embedded network of countless decentralized nodes of intelligence.
+However, this intelligence is quite different from what we would call human intelligence because of its aggregate nature. It's more of a recursively embedded network of countless decentralized nodes of intelligence.  A more graspable metaphor to think of intelligence as a large tree, and parts of that tree as instances of that tree; trunk, branch, stem, leaf, seed, etc.  There can be many instances of each type, such as a leaf, but they are all part of the tree, and only part of the tree as they can not exist without the tree.  You and I, and all things. are but ‘leaves’ or ‘seeds’ or ‘stems’, or parts thereof, on this tree of universal intelligence, and like the leaf, we can not exist without it (even though we think we can).
 
 ### Aggregates
 
@@ -1857,8 +1882,7 @@ It is easy to see instances of this on a molecular level, such as how water is a
 
 We have a similar concept in the way our social institutions work. *Interinstitutionality*, as this has been termed, explains how the various institutions of society like financial markets, governments, family structures, educational institutions, etc., all intertwine and create amalgamations and aggregates with one another.
 
-Interinstitutional research is defined as the investigation of the chain of complex, interrelated problems regarding tactics, sampling, data reliability, and notions of causality within the realm of each separate institution with the goal of improving aggregation and
-amalgamation.<sup>[59](#ref_059)</sup>
+Interinstitutional research is defined as the investigation of the chain of complex, interrelated problems regarding tactics, sampling, data reliability, and notions of causality within the realm of each separate institution with the goal of improving aggregation and amalgamation.<sup>[59](#ref_059)</sup>
 
 Take the institution of the modern American family as an example. It can take many forms, but several extra-familial institutions affect the complexion of "family", such as the market, profession, educational institutions, political affiliation, etc. Each of these institutions brings to bear its own forces and logic on the amalgamated and aggregated institution of the "family".
 
@@ -1942,6 +1966,38 @@ FIELDS
 ======
 
 Tholons are the result of the movement of energy, which creates fields. The more order and stability a tholon has, the more energy it can move, the stronger its field.
+
+A field, such as a magnetic or electric field, is the result of the movement of energy.  We claim that energy is the result of the movement (intention) of the primal awareness of the original _dot_.
+
+This would suggest that the rules of energy, such as electricity, are one instance of the rules that awareness itself must operate within, but an instance limited by specific context and scope, which in the case of electricity would be the scope atomic and subatomic realms.   
+
+We also claim that as awareness is a property of reality, not a consequence of it, then this would suggest that all that exists has some expression of awareness and therefore some expression of an energy field.  We accept that energy can not be created or destroyed, just as the primal awareness can not be created or destroyed, so energy is not being created by the various instances that exist in our reality, but energy fields are being created, as the movement of existing energy from one state to another.  This is typically seen in the process of transformation, such as chemical energy to electrical energy, as in a car engine, but there can be many forms of transformation, including ones we do not yet recognize.
+
+Similar to how parts of a circuit, such as resistors, chips, capacitors, etc., all affect the energy to create a specific result, so too are all the parts of reality affecting the primal awareness, like a cosmic circuit, at least metaphorically.
+
+This claim that the original source of energy is a primal awareness is completely consistent with current scientific models, especially in light of the experiments that have shown an inextricable relationship between reality and awareness.  Although there is much discussion these days about consciousness and reality, Archibald Wheeler, one of the mega-heavy-weights of quantum mechanics, a colleague of Albert Einstein and Niels Bohr, a mentor to many of today's leading physicists, and the man who chose the name "black hole", was perhaps the first modern scientist the prove that awareness is required to bring the universe into existence.
+
+As Wheeler put it:  
+
+> No phenomenon is a real phenomenon until it is an observed phenomenon.<sup>[140](#ref_140)</sup> We are participants in bringing into being not only the near and here, but the far away and long ago.<sup>[141](#ref_141)</sup> 
+
+Towards the end of his life he said he had only enough time left to work on one idea: that **awareness shapes not only the present but the past as well.**
+
+We already have the proof of awareness causing waveforms to collapse into particles, as we saw in the _split-slit_ experiment, and how awareness can change the reality of the past, with Wheelers’s _delayed-choice experiment_, but in addition, Penrose wrote an entire book on the subject of cognition and reality (*The Emperors' New Mind*).  He even came up with a term do describe the awareness/reality continuum: the _Orch-OR_ <sup>[142](#ref_142)</sup>, or *orchestrated objective reduction*, which attempts to explain how consciousness and reality are intertwined. 
+
+The point of this is to stress that the idea of reality being a product of awareness is not at all ‘fringe’, and hasn't been for some time. We are simply speculating as to the source of the energy that created this reality, and as science has no ideas to explain this, it's fair game for speculation and not at all unreasonable.
+
+Looking at this tholonically, each tholon has its own field, and that field is a parent field within which the child tholons, with their own subfields,  are created.
+
+Let's look at a classical field for a moment. A magnetic field is caused by the movement of subatomic particles (electrons, protons, neutrons), called 'spin'.  Everything is magnetic but in most substances, the direction of the spin of these particles is 50/50, half spinning in one direction, and half spinning in the opposite direction, so the magnetic fields balance each other out.  In some metals, like iron, all the particles spin in the same directions, creating an imbalanced magnetic field.  It is the attempt of this imbalanced field to balance itself that creates magnetic fields we see in magnets, planets and elsewhere.
+
+The greater the energy (as current), that is traveling through a medium, the greater the magnetic field it creates.  This magnetic field is a form of energy, so just as the movement of electricity can form a magnetic field, so too can a magnetic field form electricity.  No energy is being created, just changed from one form to another form.  This transformation, specifically in the case of electricity and magnetism, is called induction.  As the word implies, induction is the "ability to persuade or influence (someone or something) to do something.  
+
+In general terms, this is saying every field can induce anything it is proximity to change in some way, and to some degree.
+
+Applying this to the thologram, at the 'top' we have a very simple field, that which exists between the first two poles which were created by the primal dot.  Every field beneath that is both induced by its ancestors, and the ancestors are induced by these subfields.  The thologram is one large field of ever-embedded fields, all of which are expressions of the primal awareness, all of which are interacting with and dependent on one another.
+
+There are many legends, stories and theories, ancient and modern, attesting to the power of awareness. We won't get into them here other than to say that if reality and awareness are intertwined, then it would be just as reasonable to expect that just as reality has an effect on awareness, awareness has just as much of an effect on reality.  This is easier to accept when speaking of human awareness, but how does this associative relationship manifest in other instances, such as plants, rocks, planets and elements, all of which are some expression of the primal awareness to begin with?
 
 As late as the 1950s, many scientists and most people in general thought that plants and even animals were little more than biological machines and that space was just a bunch of hot and cold balls floating around according to Newtonian and Keplerian laws. Since then we have come to discover that plants have “feelings”, monkeys can form sentences and talk about their emotions, the universe is not only a lot bigger than we thought, but there may be countless parallel versions of them. We have seen how everything is connected in one way or another, at least on the quantum level… just to name a few of the changes to our worldview. We are moving ahead in our thinking and understanding at an incredible rate.
 
@@ -2502,7 +2558,6 @@ As the AI of the gods, are we providing solutions to problems the gods are incap
 Perhaps the question that has humanity so concerned, “Will AI ever attain consciousness?” is our human version of our creators' question “Will man ever become a god?” Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, which made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods “**Behold, the man has become like one of Us.”**<sup>[134](#ref_134)</sup>
 
 <center><img src="../Images/107-three-tholonic-view.png" style="width:90" /></center>
-
 Appendixes
 ==========
 
@@ -2846,7 +2901,7 @@ References
 
 <a name="ref_129">129</a>: Rifkin, L. (2014, June 10). **The Logic and Beauty of Cosmological Natural Selection**. <https://blogs.scientificamerican.com/guest-blog/the-logic-and-beauty-of-cosmological-natural-selection/>
 
-[//]: # (130 deleted as dupe)
+[//]: # "130 deleted as dupe"
 
 <a name="ref_131">131</a>: Talbot, Michael, and Lynne McTaggart. **The Holographic Universe: The Revolutionary Theory of Reality**. New York, NY: Harper Perennial, 2011.
 
@@ -2869,3 +2924,12 @@ Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystal
 <a name="ref_138">138</a>: More on Victor’s work can be seen in the excellent documentary on YouTube “**The Secrets of Water, The Documentary of Viktor Schauberger "Comprehend and Copy Nature**”, <https://www.youtube.com/watch?v=XyOGdjWDVM4>
 
 <a name="ref_139">139</a>: Martin-Fischer-Harthun, “**Experimente mit Leitungswasser**”, 1997. This is a difficult paper to find online. The original can be purchased at <https://www.fischer-wirbelwasser.de/shop/buecher.html>
+
+<a name="ref_140">140</a>: **"The anthropic universe"**. Science Show. 18 February 2006.
+
+<a name="ref_141">141</a>: Folger, Tim. **“Eminent Physicist John Wheeler Says He Has Only Enough Time Left to Work on One Idea: That Human Consciousness Shapes Not Only the Present but the Past as Well.”** Discover Magazine, June 1, 2002. http://discovermagazine.com/2002/jun/featuniverse#.UvxOUrTVdnA.
+
+<a name="ref_142">142</a>:  **“Consciousness in the Universe: A Review of the 'Orch OR' Theory.”** Physics of Life Reviews. Elsevier, August 20, 2013. https://www.sciencedirect.com/science/article/pii/S1571064513001188?via=ihub.
+
+<a name="ref_143">143</a> [(src)](#rev_143): This idea, and much more, is discussed at length in a 82 volume edition of great works that question the nature of existence. Glattfelder, James B. Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**. Cham: Springer International Publishing, 2019.  Available online at https://link.springer.com/bookseries/5342
+
