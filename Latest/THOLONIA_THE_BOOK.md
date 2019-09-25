@@ -1,6 +1,4 @@
-DRAFT - Version Alpha {!lun 16 sep 2019 13:55:07 EDT}
-
-NOT TO BE SHARED
+DRAFT - Version Alpha {!mié 25 sep 2019 15:03:21 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -117,14 +115,6 @@ For our purpose, at least at this moment, none of these theories or stories matt
 The question then becomes, did these laws exist before creation? Did they exist in the chaotic primal void of nothingness? Well, the reasonable answer is yes... and no. “No”, they did not exist in the primal void because these laws only apply where time and space exist, neither of which existed prior to the introduction of energy. “Yes”, in that these laws must have existed “in theory” ... i.e. the relation of a circle to a square existed as a constant (pi), but as there were no circles or squares it was not measurable... there was no *instance* of pi, but there was, for lack of a better word, an archetype of that relationship.
 
 The only place where the potential for anything to exist, including concepts, ideas, or archetypes, is in a place where somethingness coexists with nothingness. 0 (which may also equal ∞) can exist, and ∞ (which may also equal 0) can exist, but unless they commingle there will never be numbers. When they do mix numbers appear, and with them, laws. “But!” you may be thinking, “If archetypes can only exist in a duality, and there was not yet a duality before the big bang, how could the archetypes have existed? ” That question is answered a bit later on, but first, we have to address a few other things.
-
-
-
-????
-
-ideas in the mind
-
-https://link.springer.com/chapter/10.1007/978-3-030-03633-1_14
 
 Plato, et al
 -----
@@ -1251,6 +1241,11 @@ These are not simply three isolated laws, but rather three attributes of a great
 
 <center><img src="../Images/049-laws-pf-motion.png" style="width:40%" /></center>
 *(Later we show why these laws should be in the order of \#3 first, followed by \#1 and then \#2).*
+
+## Psychology
+
+Again, we see this same structure remarkably represented in the classic reinforcing loop between thinking, feeling, and doing.  This is especially interesting as it places *thought* as the *Negotiating* quality, *feeling* as the *Defining* quality, and *behavior* as the *Contributing* quality.  This also then makes the axis that exists between *feelings* and *behavior* the spectrum acrosss which new thought will emerge. 
+<center><img src="../Images/117-psycho-triad.jpg" style="width:40%" /></center>
 
 Reduction
 ---------
