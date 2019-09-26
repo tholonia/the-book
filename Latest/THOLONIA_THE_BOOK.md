@@ -1,4 +1,4 @@
-DRAFT - Version Alpha {!mié 25 sep 2019 15:03:21 EDT}
+DRAFT - Version Alpha {!jue 26 sep 2019 14:45:50 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1244,13 +1244,12 @@ These are not simply three isolated laws, but rather three attributes of a great
 
 ## Psychology
 
-Again, we see this same structure remarkably represented in the classic reinforcing loop between thinking, feeling, and doing.  This is especially interesting as it places *thought* as the *Negotiating* quality, *feeling* as the *Defining* quality, and *behavior* as the *Contributing* quality.  This also then makes the axis that exists between *feelings* and *behavior* the spectrum acrosss which new thought will emerge. 
+Again, we see this same structure remarkably represented in the classic reinforcing loop between thinking, feeling, and doing, which is the basis upon which Cognitive Behavioral Therapy is built (we’ll refer back to this a bit later).
 <center><img src="../Images/117-psycho-triad.jpg" style="width:40%" /></center>
-
 Reduction
 ---------
 
-By now you have probably noticed a pattern, that being; everything is reduced to a set of three axes. This is not arbitrary as we claim that any system can be reduced to, and described by, a collection of *information primitives* which are called triplets (trigrams). *Knowledge primitives* are structured information primitives and are tetrahedral in concept. Furthermore, we claim that these three primitives are essentially three different perspectives of one hyper-dimensional state that can only be expressed as multiple space-time states. An example of this is how the hyper-dimensional state of electricity (which itself is only one expression of energy out of many) is expressed as four space-time states of volts, ohms, amps, and power, with any three capable of describing the fourth. These 3+1 primitives are represented as a tetrahedron or tholon.
+By now you have probably noticed a pattern, that being; everymodel is reduced to, and therefor beaed on, a set of three axes. This is not arbitrary as we claim that any system can be reduced to, and described by, a collection of *information primitives* which are called triplets (trigrams). *Knowledge primitives* are structured information primitives and are tetrahedral in concept. Furthermore, we claim that these three primitives are essentially three different perspectives of one hyper-dimensional state that can only be expressed as multiple space-time states. An example of this is how the hyper-dimensional state of electricity (which itself is only one expression of energy out of many) is expressed as four space-time states of volts, ohms, amps, and power, with any three capable of describing the fourth. These 3+1 primitives are represented as a tetrahedron or tholon.
 
 Info-atoms
 ----------
@@ -1760,6 +1759,8 @@ We've seen this applied to electricity but it can apply to more abstract concept
 
 You can see that these two examples follow Newton's 2<sup>nd</sup> law, so what would happen if we applied the other formulas of Newton's 2<sup>nd</sup> law using these same values? For example, we can determine *power* in the context of *society* (and the initial claims regarding laws and society), which is *power=laws\*society, which states that power is the degree to which society that is enabled by laws?* It is up to the reader to decide if *laws*, *society*, and *ethics*, or concepts like *enabled*, are the best concepts to use here and if so, what the *power* (the rate, over time, at which energy is transferred) represents, and what energy itself represents in this context.
 
+This can apply to any properly defined trigram, like the cognitive behavioral trigram shown above. For example, if we claim that a *behavior* is a product of *thoughts* (one’s own or those one is exposed to) and we also posit that *thoughts* are to be measured by *feelings*, we can say *behavior = thoughts / feelings*, which says that the value of *feelings* is the measure by which we should value *thoughts* when evaluating *behavior*. By the same token, *feelings = thoughts/behavior*, which claims that *feelings* can be determined when measuring *thoughts* by their value to *behavior.*  Further, we can speculate as to what the 4th ‘white dot’ might be… intention? heart? Let’s call it *X* for now.  We can determine what *X* is, as we did above with *society*, *law* and *ethics*,  by evaluating *thoughts* that are reinforced (‘multiplied’) by *behavior*.  Perhaps *X=beliefs*? 
+
 In any case, the twelve formulas of Newton's 2<sup>nd</sup> show some very interesting relationships between ethics, laws, society, and ‘power', and, in my humble opinion, a new perspective on the dynamics of culture and society that, if nothing else, raises some important questions. As it applies here, it shows how the tholon can describe everything from atoms to culture. Because the math involved in a tholon can be more than the reader might be interested in, the subject is covered more deeply in Appendix D.
 
 With this in mind, let's reexamine the above claims:
@@ -1785,6 +1786,8 @@ You get the point. What's more, we can not only confirm this arrangement using O
 Previously we saw how the contribution of red divides the green on one side (right) but constrains the green on the opposite (left) side. Can we say the same thing for electricity? Does current (I) ‘divide' resistance (R) and is resistance (R) ‘constrained' by current (I)?
 
 We also see how we can apply a mathematical function to each point, with the N-source having the ability to multiply, and the children having the ability to divide.
+
+This is especially interesting as it places *thought* as the *Negotiating* quality, *feeling* as the *Defining* quality, and *behavior* as the *Contributing* quality.  This also then makes the axis that exists between *feelings* and *behavior* the spectrum acrosss which new *thought* will emerge. This also begs the questions, what is the psychological equivalent of the *4th dot*? 
 
 There are many new ways of looking at energy in all its forms when viewed tholonically.
 
