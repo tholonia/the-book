@@ -1,4 +1,4 @@
-DRAFT - Version Alpha {!jue 26 sep 2019 14:45:50 EDT}
+DRAFT - Version Alpha {!vie 27 sep 2019 13:19:06 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -2007,7 +2007,9 @@ Sadly, some of the old guard is a tough bunch that is doing their best to keep u
 
 Yes, he actually cited Pope Paul V's condemnation of Galileo as a defense on the grounds that *heresy* is the real crime. This sounds eerily similar to “swarming with worms of heretical perversity.”
 
-This alone should paint a pretty clear picture that modern science, for all its breakthroughs in understanding and progress, has become a modern-day religion in the hands of the truly dogmatic that seem to be in charge all too often.
+This alone should paint a pretty clear picture that modern science, for all its breakthroughs in understanding and progress, has become a modern-day religion in the hands of the truly dogmatic that seem to be in charge all too often.  Dr. Richard Feynman himself noted this when he stated:
+
+> "We live in an unscientific age in which almost all the buffeting of communications and television–words, books, and so on–are unscientific. As a result, there is a considerable amount of intellectual tyranny in the name of science." <sup>[144](#ref_144)</sup><a name="rev_143">&nbsp;</a>
 
 So, why was the modern-day version of Tomás de Torquemada (he was the Grand Inquisitor in the Spanish Inquisition of the 15th Century) impaling the venerable and brilliant Rupert Sheldrake on the spikes of modern mainstream scientific dogma? Well, it seems that Sheldrake, himself a Cambridge professor who studied at Harvard, was onto something with the *Morphic Field Theory*, and it's rattling their cage, perhaps for fear that the “worms of heretical perversity” will begin to devour the carcass of a dying scientific worldview.
 
@@ -2932,4 +2934,6 @@ Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystal
 <a name="ref_142">142</a>:  **“Consciousness in the Universe: A Review of the 'Orch OR' Theory.”** Physics of Life Reviews. Elsevier, August 20, 2013. https://www.sciencedirect.com/science/article/pii/S1571064513001188?via=ihub.
 
 <a name="ref_143">143</a> [(src)](#rev_143): This idea, and much more, is discussed at length in a 82 volume edition of great works that question the nature of existence. Glattfelder, James B. Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**. Cham: Springer International Publishing, 2019.  Available online at https://link.springer.com/bookseries/5342
+
+<a name="ref_144">144</a> [(src)](#rev_144): Hubisz, John L. “**The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman, by Carl Feynman and Michelle Feynman.**” The Physics Teacher, vol. 38, no. 2, 2000, pp. 111–111., doi:10.1119/1.1558111.
 
