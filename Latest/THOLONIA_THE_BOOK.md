@@ -1,4 +1,4 @@
-DRAFT - Version Alpha {!vie 27 sep 2019 13:19:06 EDT}
+DRAFT - Version Alpha {!sáb 28 sep 2019 22:05:31 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -558,7 +558,7 @@ Some readers may be thinking “Hey, wait a minute… those aren't the same axis
 
 If we assume that our perceptions of reality are fairly compatible with reality as it actually exists, then, as probability would have it, we humans happen to be in the part of the spectrum where one would most expect to find life popping up, so, congratulations to us, we're where we are supposed to be... probably.
 
-Because the peak of the curve represents where the most “work” will be done (given the two poles that define the limits of the curve), where energy will most likely be able to form patterns. The peak of the curve also represents the most efficient expression of a holon's purpose and function. If we were electrons instead of humans, our archetypal holon would have the electron in the center, because, as the electron *does* exist, it would naturally occupy that point where its existence is most likely... in the peak of the curve for the electron holon. However, because life forms exist in the peak of the curve from quark to multiverse, we can speculate that life itself is the primary function of reality and that the consciousness that comes with life being the highest form of expression of life. This is not to say that there are no other forms of life that may excel in this regard, but if there are other forms of life, they will appear within the same range of the curve.
+Because the peak of the curve represents where the most “work” will be done (given the two poles that define the limits of the curve), it is also where energy will most likely be able to form patterns. The peak of the curve also represents the most efficient expression of a holon's purpose and function. If we were electrons instead of humans, our archetypal holon would have the electron in the center, because, as the electron *does* exist, it would naturally occupy that point where its existence is most likely... in the peak of the curve for the electron holon. However, because life forms exist in the peak of the curve from that spans from quark to multiverse, we can speculate that life itself is the primary function of reality and that the consciousness that comes with life being the highest form of expression of life. This is not to say that there are no other forms of life that may excel in this regard, but if there are other forms of life, they will appear within the same range of the curve.
 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
@@ -920,7 +920,7 @@ coexist.<sup>[31](#ref_031)</sup>
 
 #### **Claim 27:** Order emerges most efficiently in a balanced state. 
 
-For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light. This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green. This makes sense as we evolved in a world that was very green. Other animals have other ranges of sensitivity depending on their context or environment.
+For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light. This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green. This makes sense as we evolved in a world that was very green thanks to chloraphyll and its oxygen producing photosynthesis. Other life-forms have other ranges of sensitivity depending on their context or environment.
 
 <center><img src="../Images/022-eyecurve1.png" style="width:90%" /></center>
 The oscillations between two states, be they the two states of chaos, order, and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.
