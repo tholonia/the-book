@@ -10,7 +10,7 @@ description: "The Mechanics of Existential Awareness."
 
 # {{page.title}}
 ## {{page.description}}
-### by <a href="mailto:{{email}}">{{author}}</a>
+### by <a href="mailto:{{page.email}}">{{page.author}}</a>
 
 ## **License**
 
