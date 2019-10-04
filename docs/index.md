@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Tholonia
 author: Duncan Stroud
 email: jeff.milton@gmail.com
@@ -13,8 +14,8 @@ description: "The Mechanics of Existential Awareness."
 
 ## **License**
 
-Tholonia: The Existential Mechanics of Awareness
-Copyright © 2019 Duncan Stroud
+{{page.title}}: {{page.description}}
+Copyright © 2019 {{page.author}}
 
 This book is an open sourced book.  This means that anyone can contribute
 changes or updates.  For more information contact <a href="mailto:{{email}}">{{author}}</a>
