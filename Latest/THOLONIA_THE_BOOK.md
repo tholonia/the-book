@@ -1,4 +1,4 @@
-DRAFT - Version Alpha {!sáb 28 sep 2019 22:05:31 EDT}
+DRAFT - Version Alpha {!mar 01 oct 2019 11:14:04 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1270,7 +1270,7 @@ If our premise is that the smallest element of knowledge must conform to the sam
 
 Our revised model of hierarchical tetrahedrons will surely look and act differently than a holarchy. To avoid confusion, we'll refer these *tetrahedron holons* as *tholons* (for obvious reasons), and the holarchy and as *thologram* (a combination of *tholon* and *hologram*).
 
-#### **Claim 41:** Every tholon is an archetype. 
+#### **Claim 41a:** Every tholon is an archetype. 
 
 We are working from the premise that everything that exists is a product of a stable pattern existing between different states. The simplest concept of such a duality is that of *something* and *nothing*. In the realm of ideas and form, this is very easy to imagine. OK, maybe the idea of a void of absolute nothingness is a bit much to grasp. As for *something,* we don't need to imagine something that represents everything at once, which is not only beyond our ability, but as everything that yet to come into existence, it is impossible. On the contrary, we only need to imagine the simplest form of something, for example, a singular dot. A simple dot on a blank page is a diagram of the model on which this reality, and all knowledge, is based.
 
@@ -1418,7 +1418,7 @@ To further illustrate this point, we can use the semantic example above where we
 Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions, we would see how existing systems and new systems get along with each other, which would be some form of cooperation or conflict. On the spectrum of Contribution and Negotiation, we would see some sort of value returned to the society or culture, perhaps in the forms of fealty, dedication, or service (*Fig. t3*).
 
 <center><img src="../Images/058-interrules.png" style="width:40%" /></center>
-For the purposes of demonstration, we'll use these ideas going forward, but keep in mind these are just a few archetypal examples out of many, and only limited to one context. Across different contexts, they would be described differently.
+For the purposes of demonstration, we'll use more human context ideas going forward, but keep in mind these are just a few archetypal examples out of many, and only limited to one context. 
 
 -   **Laws, rules, and limits** resulting from *Negotiation and Definition*.
 
@@ -1426,7 +1426,9 @@ For the purposes of demonstration, we'll use these ideas going forward, but keep
 
 -   **Fealty, dedication, service** resulting from *Contribution and Negotiation*.
 
-It is important to note that in the first example when we used the three points of Parent, Child, and Peer, these elements are static, and their relationships of Negotiation, Definition, and Contribution are dynamic. Now when we use Negotiation, Definition, and Contribution as the three points, the relations between them is once again static. Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic. This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
+This trigram of relationships will be present and express according to the context and scope of its instantiation.   The example above uses concepts that are relevant to the human experience and which we have a functional and practical understanding of working idea of; such as *laws* (as in civil laws), *service* and *cooperation*.   In another context, such as the atomic world, *laws* would refer to the limits that an atom must exist within. *Cooperation/conflict* would describe how the atom’s negative and positive forces work with, and against, each other, or perhaps how atoms fuse (unify, as in nuclear fusion) and fiss (as in nuclear fission, and yes, I just made up the word “fiss”, from the Latin *fissio*, meaning "a breaking up”). *Dedication* describes the aspects of an atom that enhances the ability or properties of the of its parent tholon, or the realm from which it was created, which in the tholonic view would be the realm of subatomic particles, such as electron protons and neutrons.  What would subatomic particles be without atom’s?  What would atoms be without molecules? What would organelles (specialized structures within a living cell) be without molecules… and up the chain it goes.  In another direction of this same concepts, but perhaps more along the Service idea, this might be seen in the way atoms enable electrons to move a charge very easily and very fast, or how atoms act as a sea of electrons that can be called upon at any moment to accept or donate electrons… a service we use and see everyday in the form of the electrical “ground”, that third pin on every electrical outlet.
+
+Notice that in the first example when we used the three points of Parent, Child, and Peer, these elements are static (nouns), and their relationships of Negotiation, Definition, and Contribution are dynamic (verbs). Now when we use Negotiation, Definition, and Contribution as the three points, the relations between them is once again static. Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic. This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
 
 #### **Claim 43**: Static instances form dynamic relationships. Dynamic relationships form static instances
 
