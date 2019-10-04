@@ -9,6 +9,6 @@ description: "The Mechanics of Existential Awareness."
 
 # {{page.title}}
 ## {{page.description}}
-### [{{page.author](mailto:{{email}})
+### [{{page.author}}](mailto:{{email}})
 
 ## **License**
