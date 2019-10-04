@@ -33,7 +33,26 @@ _Notes:_
 - Arch Linux/TeX_Live at https://wiki.archlinux.org/index.php/TeX_Live
 
 
-This was the original MAKE file that created various formats
+## Technical Notes
+
+### This is the contents of include.tex which is needed to pandoc convserions
+```
+%\setmainfont{Bitstream Vera Serif}
+%\newfontfamily{\hebrewfont}{Noto Serif Hebrew}
+
+\usepackage{fontspec}
+\setmainfont{FreeSerif}
+\setsansfont{FreeSans}
+\setmonofont{FreeMono}
+ 
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguages{english,hebrew,greek}
+
+```
+
+
+### This was the original MAKE file that created various formats
 ```
 #!/usr/bin/bash
 

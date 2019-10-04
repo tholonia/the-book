@@ -2,3 +2,10 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
+*~
+*.zip
+x
+xx
+/nbproject
+docs/.jekyll-cache/
+docs/.jekyll-metadata

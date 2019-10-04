@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# run ONLY from site root directory
+
+#kill existing process
+ps -ef |grep jekyll |grep -v grep |awk '{print "kill -9 "$2}'|sh
+
+cd bin
+
+#stop local cache
+sudo ./nocache.sh 
+
+#up the notify watches
+./reupnotify.sh  
+
+cd -
+
+bundle exec jekyll doctor
+bundle exec jekyll clean
+
+bundle exec jekyll serve --incremental &
+
