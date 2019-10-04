@@ -12,13 +12,14 @@ description: "The Mechanics of Existential Awareness."
 ## {{page.description}}
 ### by <a href="mailto:{{page.email}}">{{page.author}}</a>
 
-## **License**
 
 {{page.title}}: {{page.description}}
 Copyright © 2019 {{page.author}}
 
 This book is an open sourced book.  This means that anyone can contribute
 changes or updates.  For more information contact <a href="mailto:{{email}}">{{author}}</a>
+
+## **License**
 
 This book and its on-line version are distributed under the terms of the
 Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC
