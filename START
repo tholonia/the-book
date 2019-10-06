@@ -5,7 +5,7 @@
 #kill existing process
 ps -ef |grep jekyll |grep -v grep |awk '{print "kill -9 "$2}'|sh
 
-cd bin
+cd ~/sites/the-book/bin
 
 #stop local cache
 sudo ./nocache.sh 
@@ -13,10 +13,11 @@ sudo ./nocache.sh
 #up the notify watches
 ./reupnotify.sh  
 
-cd -
+cd ~/sites/the-book/docs
 
 bundle exec jekyll doctor
 bundle exec jekyll clean
 
 bundle exec jekyll serve --incremental &
 
+cd -
