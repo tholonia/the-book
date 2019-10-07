@@ -2,6 +2,9 @@
 
 # run ONLY from site root directory
 
+
+
+
 #kill existing process
 ps -ef |grep jekyll |grep -v grep |awk '{print "kill -9 "$2}'|sh
 
