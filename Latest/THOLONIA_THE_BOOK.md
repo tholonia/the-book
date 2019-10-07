@@ -1,9 +1,10 @@
-DRAFT - Version Alpha {!mar 01 oct 2019 11:14:04 EDT}
+<center><img style="text-align:center" src="../Images/000-cover.png" /></center>
+DRAFT - Version Alpha {!lun 07 oct 2019 01:57:28 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
 
-This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://github.com/baardev/tholonia\_the\_book>
+This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://github.com//tholonia/the-book>
 
 This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof. A reference copy of this license may be found at https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -672,8 +673,7 @@ Humans began grasping this concept of randomness about 3,000 years ago, but name
 
 #### **Claim 19:** Our ability to reason comes from our ability to see patterns, and our ability to see patterns comes from our ability to reason. 
 
-God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, mana,
-out-of-body-experiences<sup>[19](#ref_019)</sup>, etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it. To be clear, this is not meant to suggest these observations are, or are not, as valid as any other. Any system's validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.
+God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, manna, out-of-body-experiences<sup>[19](#ref_019)</sup>, etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it. To be clear, this is not meant to suggest these observations are, or are not, as valid as any other. Any system's validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.
 
 It would be hubris to write-off alternative views of reality given every culture in the world has a concept of some sort of paranormal, metaphysical energy. Some of these cultures have extremely demanding training and lengthy education to tap into it. Even our western icons, such as Paracelsus, Hippocrates, Carl Jung, Erwin Schrodinger, and Plato have referred to it.
 
@@ -689,21 +689,21 @@ One arbiter is, of course, power. When Friedrich Nietzsche said “There is no t
 
 ### Sustainability
 
-Outside of that battlefield of culture and politics, we do have at least one gauge, and that is the measure of sustainability. This sustainability may be the best test as to the validity of something because its explicit existence alone is proof it exists in accordance with the rules of reality.
+Outside of that battlefield of culture and politics, we do have at least one gauge, and that is the measure of sustainability. Sustainability may be the best test as to the validity of something because its explicit existence alone is proof it exists in accordance with the rules of reality.
 
 Achieving sustainability is more likely in a balanced environment as that is the optimum state for energy to create patterns from which order will emerge from chaos. Energy always seeks to achieve a balance; therefore, sustainability is the measure of the degree that order and balance can be maintained. Unsustainability will result in chaos.
 
-This raises an interesting question: if (high-entropy) chaos is the ultimate state of the Universe, then it must also be the most sustainable as it will never change once arrived at. Oddly, this appears to be true.
+This raises an interesting question: if (high-entropy) chaos is the ultimate state of the Universe, a state where everything is inert, motionless and dead, then it must also be the most sustainable as it will never change once arrived at. Oddly, this appears to be true.
 
-All the movement of energy that exists at every level of reality is the result of energy seeking the path of least resistance as it attempts to balance itself out. We see examples of this everywhere, such as when we add hydrochloric acid with sodium hydroxide. After an extremely violent readjustment phase that releases a ton of energy (heat), it settles down to the very stable, lower energy-demanding products of water and table salt.
+All the movement of energy that exists at every level of reality is the result of energy seeking the path of least resistance as it attempts to balance itself out. We see examples of this everywhere, such as when we add hydrochloric acid with sodium hydroxide. After an extremely violent readjustment phase that releases a lot of energy (heat), it settles down to the very stable, lower energy-demanding products of water and table salt.
 
 The Universe, starting with the extremely violent Big Bang and ending (according to popular theory) in a bunch of inert matter, the cosmic equivalent of water and table salt, is essentially the readjustment phase of different states of imbalance coming to terms with one another. Reality is the reaction of this adjustment, and like the chemical reaction just mentioned, will ultimately balance out and just sit there, doing nothing.
 
-The ultimate destination of sustainability, on the cosmic scale, is death. On our level of existence, sustainability means keeping the various part of the “balancing machine” of nature working properly. In both cases sustainability means balance, but with two very different results of short-term, or *temporal* balance and long-term, or *supernal* balance. For our purposes, the sustainability we are referring to is the temporal kind, unless otherwise noted.
+The ultimate destination of sustainability, on the cosmic scale, is death. On our current point in existence, sustainability means keeping the various part of the “balancing machine” of nature working properly. In both cases sustainability means balance, but with two very different results of short-term, or *temporal* balance and long-term, or *supernal* balance. For our purposes, the sustainability we are referring to is the temporal kind, unless otherwise noted.
 
 #### **Claim 20:** Sustainability is a gauge of existence, and therefore life itself, at every level of reality. 
 
-Pions exist for about 26 nanoseconds, while the most massive black hole known, about 66 billion times larger than our sun, would require 6x10<sup>99</sup> years to evaporate. Does this mean that black holes are more ‘valid', more ‘true' than pions? No, because the pion's existence, short as it is, is necessary, otherwise it would never have existed in the first place, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10<sup>99</sup> years is actually longer than the life span of the Universe). By this logic, we can say that both pions and black hole are equally true and valid, but one ‘true' forever.
+Pions exist for about 26 nanoseconds, while the most massive black hole known, about 66 billion times larger than our sun, would require 6x10<sup>99</sup> years to evaporate. Does this mean that black holes are more ‘valid', more ‘true' than pions? No, because the pion's existence, short as it is, is necessary, otherwise it would never have existed in the first place, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10<sup>99</sup> years is actually longer than the life span of the Universe). By this logic, we can say that both pions and black holes are equally true and valid, but one ‘true' forever.
 
 #### **Claim 21:** Something exists because its expression of energy patterns adheres to an order that must be maintained to continue existing. 
 
@@ -713,7 +713,7 @@ Let's take a look at a more integrated example; that of a single cell, the build
 
 Each of these processes has proven itself to be more ‘true' by being sustainable above all other possible processes
 
--   Inside the cell are two meters of tightly wound strands of four very specific molecules, held together by sugar phosphates, which make up the DNA of that cell. These are C<sup>5</sup>H<sup>5</sup>N<sup>5</sup> (adenine), C<sup>5</sup>H<sup>5</sup>N<sup>5</sup>O (guanine), C<sup>4</sup>H<sup>5</sup>N<sup>3</sup>O (cytosine) and C<sup>5</sup>H<sup>6</sup>N<sup>2</sup>O<sup>2</sup> (thymine). They are arranged in a very specific order which describes the instructions necessary to build every protein in an organism.
+-   Inside the cell are two meters of tightly wound strands of four very specific molecules, held together by sugar phosphates, which make up the DNA of that cell. These are C<sub>5</sub>H<sub>5</sub>N<sub>5</sub> (adenine), C<sub>5</sub>H<sub>5</sub>N<sub>5</sub>O (guanine), C<sub>4</sub>H<sub>5</sub>N<sub>3</sub>O (cytosine) and C<sub>5</sub>H<sub>6</sub>N<sub>2</sub>O<sub>2</sub> (thymine). They are arranged in a very specific order which describes the instructions necessary to build every protein in an organism.
 
 -   In a process known as transcription, a molecular machine first unwinds a section of the DNA helix to expose the genetic instructions needed to assemble a specific protein molecule.
 
@@ -739,7 +739,7 @@ Each of these processes has proven itself to be more ‘true' by being sustainab
 
 These processes, and their order, are so specific, so complex, so difficult to explain with current evolutionary models, that Dean Kenyon, a Professor Emeritus of Biology at San Francisco State University who actually taught Evolutionary Theory, switched teams in 1979 and went on to be a key member in the “Intelligent Design” movement.
 
-The important point here is that if any one thing in the list of processes listed above changes, if one atom in the C<sup>5</sup>H<sup>5</sup>N<sup>5</sup> molecule was different, or the ‘gatekeeper' made a bad call or a thousand other possibilities, the cell would either die or mutate. It would become unsustainable, or it would make the larger organism unsustainable. This is actually what cancer is, the malformed reproduction of cells that reduce organisms sustainability. Interestingly, the cancer cell itself can be quite sustainable as an independent cell and only becomes a problem as a community of cells.
+The important point here is that if any one thing in the list of processes listed above changes, if one atom in the C<sub>5</sub>H<sub>5</sub>N<sub>5</sub> molecule was different, or the ‘gatekeeper' made a bad call or a thousand other possibilities, the cell would either die or mutate. It would become unsustainable, or it would make the larger organism unsustainable. This is actually what cancer is, the malformed reproduction of cells that reduce organisms sustainability. Interestingly, the cancer cell itself can be quite sustainable as an independent cell and only becomes a problem as a community of cells.
 
 For a cell to be sustainable, to continue existing, only one process, made up of numerous detailed steps, all of which must function properly, will result in successful functioning and reproduction. More importantly, we can't explain why any one particular option in any step, out of the countless theoretical options available at each step, is the one step that the process ‘knows' to select.
 
@@ -831,7 +831,7 @@ If our reasoning is based on the world we observe, then this implies that everyt
 
 #### **Claim 23:** The rules of reason are predetermined based on the rules of our reality that we have recognized, and these rules require that any “reason” that exists must abide by them. 
 
-Take, for example, our reasoning behind the evolutionary drive for self-preservation. We assume it is a somewhat selfish, even if necessary, biological drive passed down through our genes in order to increase the genes chances of reproducing itself. This makes sense if we see the world as a bunch of individual entities competing for dominance.
+Take, for example, our reasoning behind the evolutionary drive for self-preservation. We assume it is a somewhat selfish, even if necessary, biological drive passed down through our genes in order to increase the genes chances of reproducing itself. This makes sense if we see the world as a bunch of individual entities competing for resources.
 
 Another way to see self-preservation is from the perspective of the larger organism that is composed of many contributing organisms.
 
@@ -843,15 +843,15 @@ One example of this are the cardiac muscle cells that have the self-preservation
 
 Some theorize that they do this because there is a greater chance of the heart surviving if the cells can avoid damage and hold out for the possibility of the heart being resuscitated. A far more reasonable explanation is that the component elements of a person (the cells, in this case) are compelled to preserve *their* component elements (nucleus, chromatins, cytoplasm, organelles, etc.). Killing the parent organism is not its concern, nor within the scope of its influence as. Preservation of the members is the concern of the parent organism, who has obviously failed in its duty to protect its components in the example given. The sacrificed parent organism of *person*, which would be the collective (tribe, community, country, etc.) will only lose one (improperly functioning) member.
 
-In this particular example of cardiac cells, their self-preservation can be fatal to the collective, but in most cases losing a few cells is not fatal to the collective, still, and by the same token, the *uber* organism that humans are a part of (family, society, government, etc.) only forfeits one human. This is happening in our own bodies 60 billion times a day, as that is how many of our own cells dies, and are created, every day.
+In this particular example of cardiac cells, their self-preservation can be fatal to the collective (or *person*), but in most cases losing a few cells is not fatal to a person, still, and by the same token, the *uber* organism that humans are a part of (family, society, government, etc.) only forfeits one human. This is happening in our own bodies 60 billion times a day, as that is how many of our own cells die, and are created, every day.
 
 #### **Claim 23A**: The most efficient model for a collective is individual self-preservation.
 
-Seeing self-preservation more as a protecting-the-family-of-component-parts makes much more sense *if* we also see that every organism in the hierarchy of life, from cells to cities, as an individual entity,
+Seeing self-preservation more as a protecting-the-family-of-component-parts makes much more sense *if* we also see that every organism in the hierarchy of life, from cells to cities, as an individual entity.
 
 Just as an entity will endanger its collective in an attempt to preserve its members, a collective will sacrifice a member for the betterment of the whole.
 
-This perspective also explains how a person is able to sacrifice itself for the sake of another, even though they have no genetic connection to the other person, ruling out genetic preference as is the case when a parent sacrifices themselves for their child. This would also suggest that our most basic drive is not the survival of the self, but the survival of something more important than the self. We see this in cases of love, honor, country, god, etc.
+This perspective also explains how a person is able to sacrifice itself for the sake of another, even though they have no genetic connection to the other person, ruling out genetic preference as is the case when a parent sacrifices themselves for their child. This would also suggest that our most basic drive is not the survival of the self, but the survival of something more important than the self. We see this in cases of love, honor, country, god, etc., and other examples of a collective.
 
 You might be thinking that is a trait unique to humans, but this is not the case. We see cases of this in single-cell organisms<sup>[23](#ref_023)</sup>, multi-cellular organisms<sup>[24](#ref_024)</sup>, such as slime mold, where, when faced with scant resources, certain cells will sacrifice themselves for the sake of the greater organism.<sup>[25](#ref_025)</sup>, virulence parasites<sup>[26](#ref_026)</sup>, plants<sup>[27](#ref_027)</sup>, to name a few. Of course, in society, this is clearly exemplified in soldiers willing to die for their country, as well as countries willing to send their soldiers into war.
 
@@ -866,14 +866,14 @@ Some may see this as an example of “Intelligent Design.” We prefer the term 
 
 #### **Claim 24:** There is an order to creative processes, and creations themselves are a product of order. 
 
-Redundancy + Reason = Cycles
+Applied Reason
 ----------------------------
 
-Cycles are the way we describe *“any complete round or series of occurrences that repeats or is repeated.”* Cycles, as we understand and define them, are the product of applying reason to the redundancies and repeating patterns we observe around us, and even within us.
+How have we used our reasoning skills to understand the nature of reality and our universe? One of the most fundamental concepts we have created in this regard it that of *cycles*. Cycles are the way we describe *“any complete round or series of occurrences that repeats or is repeated.”* Cycles, as we understand and define them, are the product of applying reason to the redundancies and repeating patterns we observe around us, and even within us.
 
-How have we used our reasoning skills to understand the nature of reality and our universe? As a starting point, we can begin by looking at how we believe this reality came into existence in the first place.
+On the other end of the spectrum, we have sophisticated and complex theories as to how reality came into existence.
 
-Here are some of the more popular ideas that represent our best reasoning abilities about how everything that exists began.
+We understand the concept of cycles easily enough, but let’s look at some of the more popular ideas that represent our best reasoning abilities regarding how everything that exists began.
 
 ### Big Bang
 
@@ -932,7 +932,7 @@ coexist.<sup>[31](#ref_031)</sup>
 
 #### **Claim 27:** Order emerges most efficiently in a balanced state. 
 
-For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light. This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green. This makes sense as we evolved in a world that was very green thanks to chloraphyll and its oxygen producing photosynthesis. Other life-forms have other ranges of sensitivity depending on their context or environment.
+For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light. This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green. This makes sense as we evolved in a world that was very green thanks to chlorophyll and its oxygen producing photosynthesis. Other life-forms have other ranges of sensitivity depending on their context or environment.
 
 <center><img src="../Images/022-eyecurve1.png" style="width:90%" /></center>
 The oscillations between two states, be they the two states of chaos, order, and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.
@@ -946,8 +946,7 @@ Waves
 
 When we look at simple waves, such as light waves, radio waves, sound waves, we see an oscillation of energy. This is the result of movement of energy over time.
 
-On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc. On the material level, we have mechanical waves, such as sound waves. On the organic level and beyond (planets, life, culture, politics,
-etc.<sup>[32](#ref_032)</sup>) we don't use the term *waves*, instead, we call them *cycles*, but they represent the same thing.
+On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc. On the material level, we have mechanical waves, such as sound waves. On the organic level and beyond (planets, life, culture, politics, etc.<sup>[32](#ref_032)</sup>) we don't use the term *waves*, instead, we call them *cycles*, but they represent the same thing.
 
 <img src="../Images/023-sinewave.png" style="float:right;width:1.39792in;height:0.49861in" />If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength.
 
@@ -1125,8 +1124,7 @@ The story of the I Ching and Gottfried Wilhelm von Leibniz, the inventor of di
 
 ### Leibniz
 
-When the Jesuits, reputed to be the intellectuals among Christian missionaries, traveled to China, they were fascinated by the I-Ching. So much so that they brought it back to Europe in the late 1600s. It was here that Leibniz saw the I-Ching and claimed it to be sent by
-God.<sup>[42](#ref_042)</sup>
+When the Jesuits, reputed to be the intellectuals among Christian missionaries, traveled to China, they were fascinated by the I-Ching. So much so that they brought it back to Europe in the late 1600s. It was here that Leibniz saw the I-Ching and claimed it to be sent by God.<sup>[42](#ref_042)</sup>
 
 Just prior to seeing the I-Ching, Leibniz had developed (discovered?) a number system that he considered sacred. It was the binary system of 0s and 1s, much like the Yin/Yang of the I-Ching. It was of no practical use to anyone at the time, but that was not why he developed it. Leibniz, a very pious man, thought that if all values could be expressed in terms of only something and nothing, on and off, yes and no, positive and negative, etc., then truly, this would be the language of life, for, as he thought, God the Creator was represented as 1, while the void was represented as 0.
 

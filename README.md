@@ -1,4 +1,4 @@
-DRAFT - Version Alpha {!mar 01 oct 2019 11:14:04 EDT}
+DRAFT - Version Alpha {!lun 07 oct 2019 01:57:28 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud

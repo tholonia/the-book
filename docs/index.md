@@ -19,6 +19,19 @@ Copyright © 2019 {{page.author}}
 This book is an open sourced book.  This means that anyone can contribute
 changes or updates.  For more information contact <a href="mailto:{{page.email}}">{{page.author}}</a>
 
+
+## **About**
+
+The word "tholonia" is derived from three concepts: 
+
+- The tetrahedron, which is the simplest form that can exist in three dimensional spacetime.</li>
+                    
+- The word "holon", which is something that is simultaneously an autonomous self-reliant unit, a whole with contributing parts, and a part (parton) as a contributing part to a larger "holon." The word was coined by Arthur Koestler in his book The Ghost in the Machine and has its roots in the Greek "holo", meaning "whole".  Combining these concepts we have a "tetrahedral holon", or, a "tholon."
+
+- The Latin suffix of "ia" indicate the plurality of the hierarchical, self-similar, and redundant nature of tholons that describe every aspect of reality.    
+
+<img src="/assets/img/selectedimages.png" style="width:100%"/>
+
 ## **License**
 
 This book and its on-line version are distributed under the terms of the
