@@ -10,7 +10,7 @@ xx
 docs/.jekyll-cache/
 docs/.jekyll-metadata
 *.psd
-bin/*
+bin/
 .debris/
 docs/assets/img/logo.ORG.png
 nohup.out

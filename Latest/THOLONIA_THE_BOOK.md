@@ -1,4 +1,5 @@
-<center><img style="text-align:center" src="../Images/000-cover.png" /></center>
+<center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
+<div style="page-break-before: always"></div>
 DRAFT - Version Alpha {!lun 07 oct 2019 01:57:28 EDT}
 
 Tholonia: The Existential Mechanics of Awareness
@@ -12,6 +13,7 @@ The above terms include the following:
 
 Attribution — you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Noncommercial — You may not use the material for commercial purposes. Share Alike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No additional restrictions — you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. Notices: You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
+<div style="page-break-before: always"></div>
 INTRODUCTION
 ============
 
@@ -29,11 +31,7 @@ What I am far more interested in is what are the boundaries and structure of rea
 
 In this writing I try and avoid philosophical, social and cultural contexts as much as possible, and where they do exist, I try to keep them at a minimum. This is because this book attempts to transcend the more worldly and exoteric systems. However, the conclusions put forth there can have a dramatic effect on society and culture, as well as science, politics, economics, self-realization, and life itself.
 
-
-#  
-
-[TOC]
-
+<div style="page-break-before: always"></div>
 CHAOS
 =====
 
@@ -93,7 +91,7 @@ Chaos also has another definition that means exactly the opposite, similar to th
 
 >  “Now we establish once and for all that \[the universe\] is chaotic.”
 
-<center><img style="text-align:center" src="../Images/001-bigbang.png" /></center>
+<center><img style="text-align:center;width:100%" src="../Images/001-bigbang.png" /></center>
 #### **Claim 2:** Chaos is a state of total energy and matter. Total somethingness. 
 
 We are not claiming here that the Big Bang theory is correct (because it sounds completely insane), but only ask the question; How can the concept of *chaos* describe the state of the void of total nothingness as well as the state of all matter and energy in the universe?
@@ -102,6 +100,7 @@ The definition of chaos that works for both is *“the degree that order is pres
 
 #### **Claim 3:** chaos is a measure of order. 
 
+<div style="page-break-before: always"></div>
 ENERGY
 ======
 
@@ -147,6 +146,7 @@ Although today we tend to think of Plato's Theory of Ideas as an abstraction, Pl
 #### **Claim 6:** Theories and ideas are an archetype in their own right, but like forms, they have their own archetypes. 
 
 #### **Claim 7:** Archetypes of form and the laws of those archetypes are the same things. What we call archetypes of form are the results of these laws. What we see in our reality are the instantiations of those archetypes. 
+<div style="page-break-before: always"></div>
 ORDER
 =====
 
@@ -212,6 +212,7 @@ The circle is *implicit* in the random dots of each separate page, and *explicit
 
 In this example, the *local* pattern would be the random pattern on each page, which represent the scope, and the *universal* pattern would be the parts of the circle as it exists on every page.
 
+<div style="page-break-before: always"></div>
 THE LAWS
 ========
 
@@ -322,16 +323,16 @@ There's one more comparison to look at as well. Did you notice how the formula w
 
 -   **Power** (*P*) is analogous to **energy** (*E*)
 -   **Resistance** (*R*) analogous to **mass** (*m*)
--   **Current** (*I*) to the **speed of light** (*c*)
+-   **Current** (*I*) analogous to the **speed of light** (*c*)
 
 <center><img src="../Images/013-emc2.png" style="width:6.63125in" /></center>
 In fact, not only is *E=mc<sup>2</sup>* the exact same formula as *P=RI<sup>2</sup>*, but all twelve formulas work for *E=mc<sup>2</sup>*… with a minor adjustment: in the Newtonian world of electricity and matter, all the variables can change in value, while in the world of relativity, *c* must always remain constant.
 
-<img src="../Images/014-fuse.png" style="float:right;height:1in" />It looks like *c,* which is the Relativism's version of Current, or amperage, is the *maximum current supported* rating for this universe, not unlike a 40 Amp fuse we use to ensure we do not exceed the maximum current supported. (Maybe that's why we can't break the speed of light because if we did, we'd ‘blow a cosmic fuse' and shut down reality! That's sort of a joke… but not really.)
+<img src="../Images/014-fuse.png" style="float:right;height:1in" />It looks like *c,* which is the Relativism's version of Current, or amperage, is the *maximum current supported* rating for this universe, not unlike a 40 Amp fuse we use to ensure we do not exceed the maximum current supported for our electrical devices. (Maybe that's why we can't break the speed of light because if we did, we'd ‘blow a cosmic fuse' and shut down reality! That's sort of a joke… but not really.)
 
 We can apply these formulas to energy, mass, and speed and get correct results; with one exception… there is no equivalence to volts when using *E=mc<sup>2</sup>*, which seems odd.
 
-In the water example, voltage is equivalent to water pressure. In the world of electricity, voltage is described as *electric pressure* that results from the difference that exists between two states, one being the highest potential energy, and the other being the lowest potential energy. Can we then say that these missing cosmic volts ((let's call them *zvolts*, for lack of a better term) represent the difference between two opposing states? What these states might be is up for grabs. Perhaps low entropy (order) and high entropy (chaos)? Whatever zvolts are, given that they are values that measure the difference between two points that are quite fundamental to our reality, they might be very significant in understanding reality in terms of dualities.
+In the water example, voltage is equivalent to water pressure. In the world of electricity, voltage is described as *electric pressure* that results from the difference that exists between two states, one being the highest potential energy, and the other being the lowest potential energy. Can we then say that these missing cosmic volts (let's call them *zvolts*, for lack of a better term) represent the difference between two opposing states? What these states might be is up for grabs. Perhaps low entropy (order) and high entropy (chaos)? Whatever zvolts are, given that they are values that measure the difference between two points that are quite fundamental to our reality, they might be very significant in understanding reality in terms of dualities.
 
 We can calculate for these missing zvolts by applying the simple formula:
 
@@ -339,7 +340,7 @@ We can calculate for these missing zvolts by applying the simple formula:
 
 which equates to *zvolts (z) = Speed of Light (c) \* Mass (m)*
 
-This then becomes (using the ISU standard[10] units of measure) *300,000,000 km/sec \* 1 kg = 300,000,000 zvolts.*
+This then becomes (using the ISU standard[10] JWFIX units of measure) *300,000,000 km/sec \* 1 kg = 300,000,000 zvolts.*
 
 So zvolts is the same as *c*? Yes, but only when the *mass=1*. If we use a different mass, like 2, zvolts becomes *c\*2.*
 
@@ -349,9 +350,9 @@ But what *is* this number? It can't be speed, because nothing can exceed the spe
 
 There's one more detail about voltage that might be relevant here, and that is: the greater the voltage, the greater the electric field. Can we then say “the greater the zvolts the greater the energy field”?
 
-So, zvolts represent the difference between the two poles of … what? Reality itself, as defined by Relativity? The value of zvolts are always proportional (by *c*) to the value of mass, and they determine the size of the energy field. As everything that exists can be described using *E=mc<sup>2</sup>,* this would imply that everything that exists has a zvolt field, and as zvolts measure to greatest difference between two opposing potentials, are zvolts one measure of the duality a thing exists within?
+So, zvolts represent the difference between the two poles of … what? Reality itself, as defined by Relativity? The value of zvolts are always proportional (by *c*) to the value of mass, and they determine the size of the energy field. As everything that exists can be described using *E=mc<sup>2</sup>,* this would imply that everything that exists has a zvolt field, and as zvolts measure the greatest difference between two opposing potentials, are zvolts one measure of the duality a thing exists within?
 
-It's all quite fertile ground for speculation, at least to someone like myself who is too uneducated to know the thousands of reasons why speculation is pointless.
+It's all quite fertile ground for speculation, at least to someone like myself who is too uneducated to know the thousands of reasons why such speculation is pointless.
 
 Getting back to these twelve formulas… we think about voltage, resistance, and current (or energy and mass) as separate things, similar to how we think about time and space as two different things. However, space and time are two parts of one larger thing called *space-time*. Likewise, voltage, current, and resistance are three aspects of one type of energy, electricity. Frequency, wavelength, and velocity are three aspects of another thing, such as radiation. All areas where this law applies are themselves different aspects, or parts, of an even larger expression of energy.
 
@@ -361,13 +362,13 @@ Here we are using Ohm's Law to show how one law can be expressed across many sco
 
 If we are claiming that these laws can be seen throughout our evolution of discovery, we should be able to see them in the early forms of science, alchemy.
 
-Alchemy is the birthplace of modern science, Despite the charlatans of science of their days, just like today, many alchemists profited by promising their "elixirs of life" and promises of discovering the "philosophers stone." The goal of alchemy was to discover the secrets of nature, and to alchemists, this was a much a spiritual journey as it was a technical one.  Modern science has done away with the spiritual or mystical aspect of knowledge and doubled down on the technical aspects, which is an unsustainable position.    
+Alchemy is the birthplace of modern science. Despite the charlatans of science of olden days, just like today, many alchemists profited by promoting "elixirs of life" and promises of discovering the "philosophers stone." The true goal of alchemy was to discover the secrets of nature, and to alchemists, this was as much a spiritual journey as it was a technical one.  Modern science has done away with the spiritual or mystical aspect of knowledge and doubled down on the technical aspects, which we are discovering is an unsustainable position.    
 
-I propose that we can, specifically in the concept of the elements of earth, water, air, and fire.    These elements do not refer to the material instances but to their archetypes of which the material forms are limited instances of.  The first form of matter that came into existence,  which would be the equivalent of modern science's atomic-sized ball of everything that exploded to fill the universe, was considered to be formed by these four archetypes.  This was an idea held by the ancient Greeks, the Islamic philosophers and scientists, Asians and Europeans.
+I propose that we can see early form of these modern concepts, specifically in the concepts of the elements of earth, water, air, and fire.    These elements do not refer to the material instances but to their archetypes of which the material forms are limited instances of.  The first form of matter that came into existence,  which would be the equivalent of modern science's atomic-sized ball of everything that exploded to fill the universe, was considered to be formed by these four archetypes.  This was an idea held by the ancient Greeks, the Islamic philosophers and scientists, Asians and Europeans.
 
 As archetypes, they did not only instantiate as matter but also qualities. For example, the elements were used do describe health as far back as Hippocrates (400 BC), and as recently as Carl Jung's theory of personality, which drew heavily of Hippocrates.  In Jung's theory, there were four types of personalities:  feeling (fire, choleric), thinking (water, phlegmatic), intuition (air, sanguine), and sensation (earth, melancholic).  He then added other attributes such as introversion/extroversion, to come up with eight basic personality archetypes.
 
-How this is relevant here is that the four alchemical elements are a very early version of the four qualities of matter as expressed by Newton's 2nd law?
+How this is relevant here is that the four alchemical elements are a very early version of the four qualities of matter as expressed by Newton's 2nd law.
 
 What we understand as resistance, current, volts, and power today, the alchemists understood as instances of earth, fire, air, and water archetypes,  respectively.  This is not to suggest that just as *V=IxR*, so too does *air = fire x earth*.  This is simply an example of how the same patterns and archetypes keep appearing across many contexts and scopes, such as technology, science, mysticism, social order, biology, and many, many more.
 
@@ -444,6 +445,7 @@ For purposes of this thread, I am going to define a “scope” or “order of c
 
 #### **Claim 17:** Self-similarity exists due to the redundant nature of the laws which express themselves in accordance with the scale and scope of their context. 
 
+<div style="page-break-before: always"></div>
 INFORMATION
 ===========
 
@@ -603,6 +605,7 @@ These bell curves of probability are not shown, or even defined, in the holarchi
 
 What happens if we model the duality of *total nothingness* and *total somethingness* with the holarchy?
 
+<div style="page-break-before: always"></div>
 REASON
 ======
 
@@ -991,6 +994,7 @@ You can easily see the relationship between the oscillations of the two poles to
 
 In humanity's quest to understand reality, either through religion, economics, alchemy or science, we keep bumping into the same universal constants and concepts.
 
+<div style="page-break-before: always"></div>
 STRUCTURE
 =========
 
@@ -1974,6 +1978,7 @@ Lastly, A Canadian anthropologist explores this idea thoroughly in his book *The
 
 #### **Claim 47:** Every thing that exists is an instance of an archetype.
 
+<div style="page-break-before: always"></div>
 FIELDS
 ======
 
@@ -2340,6 +2345,7 @@ What this means is that everything that exists is *already* a record of what wor
 
 One possible instance of this idea is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants. In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.<sup>[120](#ref_120)</sup> Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome. Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
 
+<div style="page-break-before: always"></div>
 CASES & EXAMPLES
 ================
 
@@ -2420,6 +2426,7 @@ Many experiments have been undertaken to demonstrate the relationship between ef
 
 -   *Intention,* Jeanne Lim
 
+<div style="page-break-before: always"></div>
 PREDETERMINISM
 ==============
 
@@ -2525,6 +2532,7 @@ Henry Ziegland thought he had dodged fate. In 1883, he broke off a relationship 
 
 From one perspective you could see all these stories as extremely unlikely coincidences. From the tholonic perspective, each of these paths and each of these profiles are some of the almost countless patterns that managed to attain enough stability to instantiate.
 
+<div style="page-break-before: always"></div>
 PROMETHEUS UNBOUND
 ==================
 
@@ -2576,6 +2584,7 @@ As the AI of the gods, are we providing solutions to problems the gods are incap
 Perhaps the question that has humanity so concerned, “Will AI ever attain consciousness?” is our human version of our creators' question “Will man ever become a god?” Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, which made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods “**Behold, the man has become like one of Us.”**<sup>[134](#ref_134)</sup>
 
 <center><img src="../Images/107-three-tholonic-view.png" style="width:90" /></center>
+<div style="page-break-before: always"></div>
 Appendixes
 ==========
 
@@ -2625,6 +2634,7 @@ Pursanova is a company that makes complete water processing system for residenti
 
 Disclaimer: I have no relationship with any of these companies and am not promoting any of their products. I refer to them simply because my research seems to indicate they are legitimate products in an industry filled with wild and dubious claims.
 
+<div style="page-break-before: always"></div>
 B - Tholonic Math
 =================
 
@@ -2658,6 +2668,7 @@ In this figure…
 
 Tholonically, we can easily map thinks like Ragone and utility space (as in the battery), or laws and social responsibility (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the social equivalent social expression of *I<sup>2</sup>* or, *SQRT(P/R)*, would represent. In fact, there are quite a lot of relationships, rules, and formulas in a tholon that will require considerably more study. What is presented here is the idea that the tholon can represent any system when described in its most reduced states. This work is more akin to the Wright Brother’s first flight rather than a modern airplane, but like the Wright Brother’s first flight, they demonstrated what *could* be. That is what I hope to achieve here.
 
+<div style="page-break-before: always"></div>
 References
 ==========
 
