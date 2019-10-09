@@ -30,7 +30,7 @@ The word "tholonia" is derived from three concepts:
 
 - The Latin suffix of "ia" indicate the plurality of the hierarchical, self-similar, and redundant nature of tholons that describe every aspect of reality.    
 
-<img src="/assets/img/selectedimages.png" style="width:100%"/>
+<img src="/the-book/assets/img/selectedimages.png" style="width:100%"/> <!-- JWFIX -->
 
 ## **License**
 
