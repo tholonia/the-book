@@ -1,20 +1,26 @@
 #!/bin/bash
 
+# SCRIPT TO START THE LOCAL JEKYLL SERVER
+
 # run ONLY from site root directory
 
-
-
+# !! THIS IS MEANT TO RUN ON ARCH LINUX ONLY !!
+# !! AND HAS HARDCODED ASSUMPTIONS !!
+# !! YOU WILL NEED TO EDIT FOR YOUR SYSTEM !!
 
 #kill existing process
 ps -ef |grep jekyll |grep -v grep |awk '{print "kill -9 "$2}'|sh
 
 cd ~/sites/the-book/bin
 
-#stop local cache
+#stop local cache - was casing delayed sync mismatch
 sudo ./nocache.sh 
 
-#up the notify watches
+#up the notify watches - jekyll needs a LOT of watches
 ./reupnotify.sh  
+
+
+# the github-pages website lives in ./docs
 
 cd ~/sites/the-book/docs
 
