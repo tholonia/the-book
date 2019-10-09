@@ -18,15 +18,16 @@ _Notes:_
 
   References (at the bottom) are input as : ```<a name="ref_001">1</a>:  reference info here```
 
-  To add a return link to the reference that brings you back to the text,:
+  To add a return link (PREFERRED) to the reference that brings you back to the text,:
 
   In text:   ```<sup>[143](#ref_143)</sup><a name="rev_143">&nbsp;</a>```
   
-  In references: ```<a name="ref_143">143</a> [(src)](#rev_143):```
+  In references: ```<a name="ref_143">143</a> [<span class="reflink"> &#x005e; </span>](#rev_143):```
+
   
   Unfortunately, you have to manually enter the next ref number, and currently there is no way to reorder them consecutively.
 
-- Any custom formatting is contained in the CSS file `github.user.css.`  If you are using Typora, this file should be copied to `~/.config/Typora/themes/` (on Linux), and requires that you use Typora's the built-in Github theme.
+- Any custom formatting is contained in the CSS file `github.user.css.`  If you are using Typora, this file should be copied  or symlinked  to `~/.config/Typora/themes/` (on Linux), and requires that you use Typora's the built-in Github theme.
 
 - The `include.txt` file is only relevant if you plan to convert to LaTex format.
 
