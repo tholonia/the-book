@@ -1,6 +1,6 @@
 <center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
 <div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!mié 09 oct 2019 01:16:54 EDT v.0.6.24}
+DRAFT - Version Alpha {!jue 10 oct 2019 21:02:36 EDT v.0.6.25}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -2678,6 +2678,127 @@ In this figure…
 
 Tholonically, we can easily map thinks like Ragone and utility space (as in the battery), or laws and social responsibility (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the social equivalent social expression of *I<sup>2</sup>* or, *SQRT(P/R)*, would represent. In fact, there are quite a lot of relationships, rules, and formulas in a tholon that will require considerably more study. What is presented here is the idea that the tholon can represent any system when described in its most reduced states. This work is more akin to the Wright Brother’s first flight rather than a modern airplane, but like the Wright Brother’s first flight, they demonstrated what *could* be. That is what I hope to achieve here.
 
+
+
+<div style="page-break-before: always"></div>
+# The Life of Ideas
+
+# (this chapter is a work in progress)
+
+###### Ideas take on a life of their own, complete with a history and intention.
+
+We also see this trigram in the ancient Dharmic religions (Hinduism, Buddhism, Sikhism, Jainism, etc), originating long before they were committed to writing in the 
+
+Upanishads, predating 6th century B.C.
+
+This ancient text describes the substrate of reality as having three conceptual pillars, each driven by one underlying, pure and perfect form of energy.  Each has a Sanskrit name;  **Sat*, *Chit*, *Parabrahma*, and *Aum* (or *Om*), 
+
+Books have been written on the significance of each of these concepts, but their general meaning is understood to be:
+
+**Sat**: The all-penetrating existence that is formless, shapeless, omnipresent, attributeless, and qualityless aspect of the Universe. It is unmanifest. It is experienced as the emptiness of the Universe.  Everything that has a form and that can be sensed, evolved out of this unmanifest. It can only be seen when it has become gross and has taken form. It is the cause, and reality, as we know it, is its effect.
+
+This is equivalent to the original "blue dot" that exists in a void of nothingness, that dimensionless concept of being whose only quality is awareness and intention, and from which all existence emerges.
+
+**Chit**: The pure awareness of the Universe that is the omnipresent manifesting power of the Universe. This is the source of all energy and force. It can manifest in any form or shape. It is awareness manifesting as motion, as gravitation, as magnetism, etc. It is also manifesting as the actions of the body, as thought force. It is the Supreme Spirit.
+
+This is the equivalent to the "green dot", which is the result of the awareness of the "blue dot" and the first instance of any sort of dimension, measure or limits, and therefore, the first instance of manifestation and the "laws" it manifests according to.
+
+**Parabrahma**: The Supreme Being in absolute aspect; one who is beyond space and time. It is the essence of the Universe that is with form and without form (because it is devoid of the illusion form). It is the Supreme creator that has formed yet is formless, and the basis of all form.
+
+This is clearly the equivalent to the third "red dot", which creates the first instance of "form" as a 2-dimensional shape, and therefore has no manifest form, yet is the basis of all form as it is the simplest shape possible.  
+
+**Aum**: The vibration that all of existence is based on.
+
+There are two interesting correlations here:
+
+1) This first instance of an actual tholonic form (the triangle) is personified as the first instance of a sustainable intelligence and the highest form of the creator god (Para = "highest", Brahma = "the creator god").
+
+2) The "illusion of form", or "Maya", as it is called in Sanskrit, is the equivalent of the composite "white dot", which is what turns the 2D shape into a 3D form.  This is conceptually compatible with the tholonic view, as the "white dot" is not a "real dot" in and of itself, but simply a composite of the three "real dots."  Rather than call it an "illusion", which carries far too much subjective meaning,  we prefer to call it a "creation", for it is no less real than the three "real" dots; it is simply a new creation formed with the "real" dots.
+
+But what of the most fundamental concept of all, that of *Aum*,  the vibration from which all of creation emerges?  Tholonically speaking, all energy, and therefore all vibration and movement, is the product of awareness.  We claim that awareness and intention are the only attributes that the "blue dot", or *Sat* in this example.  We also see that this "blue dot" is the basis of all new creations, which we call "N-sources" and which reappear in every iteration and generation of the thologram.  This creative energy, or vibrations, is the intention aspect of creation.  Awareness without intention can not create anything, and it is arguable that awareness can not exist without intention, just as electricity can not exist without magnetism.  So, the *Aum* concept represents the awareness and the intention of the "blue dot", the one and only property that the 0-dimensional concept of the dot in the void of nothingness has, and the one property that forever begins the process of creation.
+
+Besides this relationship between the thologram and the Dharmic religions being 'interesting', there is another reason for shining light on it, and that is to segue into another concept that seems radically unrelated but is, in fact, fundamental to any belief systems, from science to mysticism.
+
+Concepts, which include beliefs, are tholonic entities that, if they are to be sustainable, comply with the laws of sustainability, as described above.  These archetypal concepts survive and thrive depending on the energy they have access to.  In the case where these archetypes have access to to human scope of existence, they will be expressed as human concepts (ethics, morals, judgment, justice, good, evil, etc.) in the hopes of finding fertile ground in human awareness.  
+
+This is the purpose and power of myths, be they ancient or modern. Myths and legends are one of the ways that ideas and archetypes are transmitted.  We elaborated on this a bit  already when we were looking a memes, morphic and tholonic fields, and collective memory.
+
+These archetypes can take many forms; gods, superheroes, demons, sacred places, superstitions, etc.  They do not exist in our linear time, but rather in a dimension that transcends all space-time; they are eternal, beyond what we call time, because they exist in the realm of ideas. Myths and beliefs of the ancient past continue to live on in ever-evolving meaning and symbolism that promote their existence, almost like a self-mutating virus. 
+
+Much of our everyday culture is inextricably bound to these archetypes which further empowers them, usually without our knowledge. Jung described these archetypes as “ordering factors in the collective unconscious” and created twelve archetypes of the human psyche organized into four cardinal types, which, coincidently, are surprising similar to the archetypes and architecture of astrology. However, unlike astrology that was empowered by mythical, yet living, gods, Jung’s archetypes do not consider the creative power of awareness.
+
+For example, the modern word “hell” comes from the ancient Norse goddess named *Hel*, whose job it was to not only judge the dead but also help the apocalypse along by leading an army of the dead in a ship made of the fingernails of corpses... yikes!
+
+The concept of Hell is deeply ingrained into the worldview of billions of people who have little knowledge of the roots of their beliefs. These believers, through their awareness, empower this archetype, or tholon, which consequently empowers other tholons associated with Hell that they have no awareness of because the tholonic existence of that concept has a memory of its past. It’s no wonder that the more people believe in Hell, the more "visions of the apocalypse" will emerge. 
+
+There is a somewhat Buddhist concept, in that it was a Buddhist (in 1884), who defined the concept of the *Akashic Records*, which is timeless record of all aggregate thought forms.  Tholonically, we would consider these archetypes as a form of "meta-meme"; a form of a meme that exists in the collective unconscious and in the world of archetypes. To review, a meme is “an idea, behavior, style, or usage that spreads from person to person within a culture.”  Thus, a meta-meme is an “an idea or belief formed within the Universal Mind or Collective Unconscious and spreads from consciousness to consciousness.” 
+
+How ideas spread is interesting, and research out of Princeton University shows how ideas follow the same growth models as (disease-based) viruses.<sup>[145](#ref_145)</sup><a name="rev_145">&nbsp;</a>
+
+
+This suggests that all forms of creative expression, be they ideas, life forms, or even diseases, follow similar growth patterns. This is not surprising as all existence follows the same laws that only differ in how they are expressed according to the context and scope of their instances. What we are really seeing around us is the dynamics of how energy interacts with the structure of whatever reality it is moving through, be it physical or nonphysical. 
+
+A clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a leading geophysicist and founder of the Center for Bio-Earth Planetology, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms. <sup>[159](#ref_159)</sup><a name="rev_159">&nbsp;</a>
+
+We take this a step further and say that ideas themselves are living meta-organisms and physical reality is where these these archetypes instantiate.  The implication then is that anything we can imagine can take on a life of its own, and consequently, instantiate itself into this reality.
+
+This hypothesis has a clear down side; so many of our beliefs are manipulated and controlled by others whose agenda is less than altruistic, hidden, and who are aware of the mechanics of awareness. From the most powerful laser in the world named after the Hindu god of destruction to trivial tarot cards based on movie stars, we can find countless examples of how archetypes, which act as tholonic agents,  infiltrate our understanding of reality.
+
+This is especially profound when we consider that the average American youth spends 900 hours a year in school, and another 1,200 hours a year watching television. In fact, 70 percent of the American adult waking life is spent in front of digital media.<sup>[146](#ref_146)</sup><a name="rev_146">&nbsp;</a> The average 78.6 year old American will spend nine years of his life watching TV, two years of which is just watching commercials. Another ten years is spent working. Remove the twenty-five years spent sleeping and it’s pretty clear to see that the majority of our life is dominated by the ideas, desires, and directives of others. Sadly, men only spend nine hours and eighteen seconds of their life having an orgasm, and even sadder, women only have one hour and twenty-four minutes of orgasm their entire life.<sup>[147](#ref_145)</sup><a name="rev_147">&nbsp;</a> 
+
+
+The fact that the majority of our awareness is spent in front of information that is being fed to us is not a detail that has gone unnoticed by those who spend their entire career figuring out how to exploit that fact.
+
+Screenwriters are well aware of this and take advantage of their access to their viewers’ attentive awareness to plant the seeds of their own agenda, or more commonly that of their employer. Zack Stentz, one of the screenwriters at Dreamworks behind X-Men was quite clear on this:
+
+> *The gay rights / post-holocaust Jewish identity / civil rights allegory stuff was all put in there on purpose. Joss Whedon designed the whole ‘Cure’ storyline in the comic books specifically as a gay allegory, and Bryan Singer wove his own feelings of outsiderdom as a gay man into the movie series. The whole ‘Have you ever tried NOT being a mutant’ coming out scene in X2 isn't even particularly subtle, while it is effective.*<sup>[148](#ref_148)</sup><a name="rev_148">&nbsp;</a>
+
+
+More subtle, and perhaps even diabolical symbolism also abounds and is the subject of quite a lot of speculation from groups ranging from concerned parents to raving conspiratards. I’m not referring to the massive amount of subliminal sexual, violent imagery and symbolism that one regularly finds in Disney cartoons, et al, for children, for example, or commercials for everything from booze to cars. I am referring to symbols and images that have no meaning to the viewer. What would the value be to whoever inserted these seemingly random and meaningless images?
+
+The value is significant because simply exposing the unconscious to a symbol imbues it with the energy to dwell and grow in the collective unconscious, and once there, various other “payloads” already attached to it also thrive.
+
+This may sound like paranoia based on superstition, but if one is to believe the writings of Belgian-French explorer Alexandra David-Néel who, dressed as a beggar with only a compass, money (for ransom in case she was kidnapped) and a gun, snuck into the Lhasa, Tibet (at the time, it was forbidden for foreigners to enter that sacred city), then we must consider the power and potential of what science today considers irrational and impossible.
+
+As a woman of sound scientific thinking her opinions and observation carried weight. Doctor A. D’Arsonval, a member of the French Academy of Sciences, The Academy of Medicine, professor at the College of France and president of the Institute of General Psychology, said of Alexandra David-Néel:
+
+> *This well-known and courageous explorer of Tibet unites in herself all the physical, moral and intellectual qualities that could be desires on one who is to observe and examine a subject of this kind.*<sup>[149](#ref_149)</sup>
+
+So when she described how she used the techniques taught to her by the Tibetan magicians to conjure up her own *tulpa*, which is a symbolic thought-form that is not only given life, but can manifest and exist as an independent being, in her case manifesting as a short, pudgy, jolly monk, as per her intentions,it is not so easy to discard the idea of material instances of thought as pure fantasy. 
+
+Perhaps even more interesting was that this tulpa, once it began to be visible to others, began to have its own free will, a life of its own. The jolly monk eventually became a major problem for her, and she had to spend six months “dissolving” it. As she states:
+
+> *The fat, chubby-cheeked fellow grew leaner, his face assumed a vaguely mocking, sly, malignant look. He became more troublesome and bold. In brief, he escaped my control. I ought to have let the phenomenon follow its course, but the presence of that unwanted companion began to prove trying to my nerves; it turned into a ‘day-nightmare.’ Moreover, I was beginning to plan my journey to Lhasa and needed a quiet brain devoid of other preoccupations, so I decided to dissolve the phantom. I succeeded, but only after six months of hard struggle. My mind-creature was tenacious of life. There is nothing strange in the fact that I may have created my own hallucination. The interesting point is that in these cases of materialization, others see the thought-forms that have been created.
+
+Now, imagine the potential power of the awareness of 114,000,000 consciousnesses all being exposed to the same symbolism at the same time, as happened in the Super Bowl XLIX (#49, 2014). Think of it, in a way, as a national prayer, but rather than it being like National Prayer Day in the U.S. (May 7th) when the President signs a proclamation encouraging all Americans to pray on this day and “to turn to God,” it’s more like a National Mind Harvesting Minute. If there is a doubt as to whether the power of focused awareness actually has any effect on the “real” world, one only need to look at some of the research done on that subject.<sup>[150](#ref_150)</sup><a name="rev_150">&nbsp;</a>, <sup>[151](#ref_151)</sup><a name="rev_151">&nbsp;</a>
+
+According to a very suspicious article<sup>[152](#ref_152)</sup><a name="rev_152">&nbsp;</a> that was written by a conveniently anonymous designer who claimed to have once worked in the graphics department of a huge media company, out of boredom and his own anti-Bush political agenda he deliberately hid many occult symbols (from John Dee, the infamous sixteenth century occultist to the Queen of England), pyramid eyes, pentagrams, and more, into the intro and promo videos for everything from major sports events to war coverage. It was not the claim that was suspicious, as with just a little investigating anyone can confirm his claims, but that this published article, which appeared overnight on over 36,000 websites, conveniently provided a “plausible deniability” defense for the media companies responsible.
+
+What I personally find most fascinating is the research into what is essentially the collective consciousness of artificial intelligence, or *A.I. Swarms*, as they are called,<sup>[153](#ref_153)</sup><a name="rev_153">&nbsp;</a>, <sup>[154](#ref_154)</sup><a name="rev_154">&nbsp;</a> and the early attempts to create artificial humans.<sup>[155](#ref_155)</sup><a name="rev_155">&nbsp;</a> Science and technology is attempting to create their own *tulpas,* and one day, too, they may too prove to be “more troublesome and bold, escaping our control.”.. but this is a topic for another book.
+
+The point here is that these archetypes have the power to instantiate themselves in our reality if they have enough energy and stability.  This energy can be directed to them via a participant's awareness, even without their knowledge.
+
+Tying this back, were there a mantra that represents the tholonic trigram of creation it would be "*aum sat chit parabrahma."*  Coincidentally, there is such a mantra, which I learned of many months after writing this book.  It called the  "Moola Mantra", and it is: 
+
+> _**Aum** **Sat** **Chit** Ananda **Parabrahma** Purushothama Paramatma Sri Bhagavathi Sametha Sri Bhagavathe Namaha_
+
+*Ananda* means “bliss” or “divine joy”, from which we can assume that the creative process is a very blissful, joyful endeavor, especially between *chit* and *parabrahma*. An Internet search will provide a lot more information, if you have the interest.  
+
+We can find similar traditions in many other religions and beliefs. I share this not to promote any belief, but to show that the tholonic concept of creation is not only ancient, but ubiquitous, mitigated only by the context and culture of the time and place.
+
+### The Very Old New World Order
+
+Wait, isn't all this “our minds are being controlled and/or we’re all imprisoned in an artificial reality” stuff the basic plot of *The Matrix* and dozens of other dystopian science fiction stories that we love? Throw in some Illuminati and reptilians and you have a full-blown New Age paranoid conspiracy theory.
+
+Perhaps, but these ideas are not new. The idea that thoughts, beliefs, and awareness have some intrinsic power is endemic to human society and has been around for a long time, getting reskinned and redistributed with each new culture, going back to ancient myths. We can even see this in _cultural hegemony_, which is defined as:
+
+> “…*the domination of a culturally diverse society by the ruling class, who manipulate the culture of that society—the beliefs, explanations, perceptions, values, and mores—so that their ruling-class worldview becomes the worldview that is imposed and accepted as the cultural norm; as the universally valid dominant ideology that justifies the social, political, and economic status quo as natural, inevitable, perpetual and beneficial for everyone, rather than as artificial social constructs that benefit only the ruling class.”*<sup>[156](#ref_156)</sup><a name="rev_156">&nbsp;</a>
+
+It is the idea that the culture of one group dominates and controls the culture of another through the propagation of beliefs that are unquestionably accepted by the dominated culture. This is one of the foundations of Marxist philosophy that was first put forth by the Italian political theorist of the early twentieth century Antonio Gramsci. The Fascists didn't like his theories, so he was imprisoned for years, where he died in 1937 at age forty-six. It was further elaborated on by one of the most influential and controversial scholars of modern times, philosopher Michel Foucault, in his idea of *infra-power*,<sup>[157](#ref_157)</sup><a name="rev_157">&nbsp;</a> a web of institutions and cultural axioms that span all classes and all forms of government. Today, with the aid of modern technology, that infra-power has made its way into every home, every belief, and every mind in the civilized world (and much of the uncivilized world).
+
+Removing the Marxist overtones in Foucault’s anti-capitalist thoughts, we are left with the idea of an intelligence with an agenda to dominate beliefs, and therefore the values, desires, goals, etc., of humanity, an idea that has existed since the dawn of society. 
+
+More recently, with the advent, of the Internet, interactive media, government surveillance (such as in England and China), and loss of privacy, the reality of the *Observer and Judger*, the all-seeing eye of the panopticon,<sup>[158](#ref_158)</sup><a name="rev_158">&nbsp;</a> has been moved from God and Santa Claus to governments and banks. One might conclude that this shift from a generally benevolent divine watcher to one that is only concerned with authority, control, and profit is the source of modern day’s paranoid and suspicious beliefs about external forces that manipulate and control humanity, be they demons, shadow governments, deep states, or aliens. However, we should be no more critical of such ideas as we would be of a dog that barks, because we humans are hardwired to conspire.
 <div style="page-break-before: always"></div>
 References
 ==========
@@ -2973,6 +3094,34 @@ Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystal
 
 <a name="ref_144">144</a> [<span class="reflink"> &#x005e; </span>](#rev_144): Hubisz, John L. “**The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman, by Carl Feynman and Michelle Feynman.**” The Physics Teacher, vol. 38, no. 2, 2000, pp. 111–111., doi:10.1119/1.1558111.
 
+<a name="ref_145">145</a> [<span class="reflink"> &#x005e; </span>](#rev_145): Cannarella, John, and Joshua A. Spechler. “**Epidemiological Modeling of Online Social Network Dynamics.**” Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ, USA, January 17, 2004. http://arxiv.org/pdf/1401.4208v1.pdf.
+
+<a name="ref_146">146</a> [<span class="reflink"> &#x005e; </span>](#rev_146): Average time Americans adults (18+) send with electronic media Q4 2014. Source: Neilsen.
+
+<a name="ref_147">147</a> [<span class="reflink"> &#x005e; </span>](#rev_147): The Mirror. “**Fascinating Facts about How We Spend the Days of Our Lives—Mirror Online.**” Mirror. August 05, 2009. Accessed May 30, 2016. http://www.mirror.co.uk/news/uk-news/fascinating-facts-about-how-we-spend-the-days-410973.
+
+<a name="ref_148">148</a> [<span class="reflink"> &#x005e; </span>](#rev_148): Using this example is not meant to speak against the “gay agenda.” I am using this simply as an example of how media affects our awareness. I fully support adults’ rights to lifestyle choices and societies obligations to respect them.
+
+<a name="ref_149">149</a> [<span class="reflink"> &#x005e; </span>](#rev_149): Goodrich, Chauncey S., and Alexandra David-Neel. “**Magic and Mystery in Tibet.**” Journal of the American Oriental Society 93, no. 3 (1973): doi:10.2307/599607.
+
+<a name="ref_150">150</a> [<span class="reflink"> &#x005e; </span>](#rev_150): Radin, D., G. Hayssen, M. Emoto, and T. Kizu. “**Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation.**” National Center for Biotechnology Information. September 2006. Accessed May 30, 2016. http://www.ncbi.nlm.nih.gov/pubmed/16979104.
+
+<a name="ref_151">151</a> [<span class="reflink"> &#x005e; </span>](#rev_151): Nelson, R.d., G.j. Bradish, Y.h. Dobyns, B.j. Dunne, and R.g. Jahn. “**FieldREG Anomalies in Group Situations.**” EXPLORE: The Journal of Science and Healing 3, no. 3 (2007): 278. doi:10.1016/j.explore.2007.03.013. “We attribute this result to a real correlation that should be detectable in future replications. This study suggests the existence of some form of consciousness-related anomaly in random physical systems.”
+
+<a name="ref_152">152</a> [<span class="reflink"> &#x005e; </span>](#rev_152): Anonymous.“**I Hid Illuminati Symbols in Broadcast News Graphics Because I Was Bored.**” Hopes&Fears. 2015. Accessed May 30, 2016. http://www.hopesandfears.com/hopes/now/media/214739-illuminati-conspiracy-news-hidden.
+
+<a name="ref_153">153</a> [<span class="reflink"> &#x005e; </span>](#rev_153): Orkin, Jeffrey David. “**Collective Artificial Intelligence: Simulated Role-playing from Crowdsourced Data.**” Master’s thesis, MASSACHUSETTS INSTITUTE OF TECHNOLOGY, 2013. Accessed May 30, 2016. http://alumni.media.mit.edu/~jorkin/papers/orkin_phd_thesis_2013.pdf.
+
+<a name="ref_154">154</a> [<span class="reflink"> &#x005e; </span>](#rev_154): Fisher, Len. **The Perfect Swarm: The Science of Complexity in Everyday Life.** New York: Basic Books, 2009.
+
+<a name="ref_155">155</a> [<span class="reflink"> &#x005e; </span>](#rev_155): Jef D. Boeke,George Church, Andrew Hessel, Nancy J. Kelley, Adam Arkin, Yizhi Cai, Rob Carlson, Aravinda Chakravarti, Virginia W. Cornish, Liam Holt, Farren J. Isaacs, Todd Kuiken, Marc Lajoie, Tracy Lessor, Jeantine Lunshof, Matthew T. Maurano, Leslie A. Mitchell, Jasper Rine, Susan Rosser, Neville E. Sanjana, Pamela A. Silver, David Valle, Harris Wang, Jeffrey C. Way, Luhan Yang. “**The Genome Project–Write.**” Science. June 2, 2016. Accessed June 10, 2016. doi: 10.1126/science.aaf6850. http://science.sciencemag.org/content/early/2016/06/03/science.aaf6850.
+
+<a name="ref_156">156</a> [<span class="reflink"> &#x005e; </span>](#rev_156): Chernow, Barbara, and George Vallasi. The Columbia Encyclopedia Fifth Edition. Boston, MA: Houghton Mifflin, 1993. p. 1215.
 
 
 
+<a name="ref_157">157</a> [<span class="reflink"> &#x005e; </span>](#rev_157): Foucault, Michel. “**Truth and Juridical Forms.**” Taylor & Francis. Accessed May 29, 2016. http://www.tandfonline.com/doi/abs/10.1080/13504639652213. 2002a:86-7.
+
+<a name="ref_158">158</a> [<span class="reflink"> &#x005e; </span>](#rev_158): In this context the “panopticon” is Foucault’s the more formalized idea of Orwell’s “Big Brother” concept. It was originally an architectural concept that reflects and promotes the principles of power in society at large, and was/is used in institutions where the hierarchy of authority and power must be maintained, such as prisons, schools, factories, corporate offices, etc.
+
+<a name="ref_159">159</a> [<span class="reflink"> &#x005e; </span>](#rev_159): Maruyama, Shigenori, and M. Santosh. ***The Earth System and Evolution of Life*.** Dordrecht: Springer, 2015.
