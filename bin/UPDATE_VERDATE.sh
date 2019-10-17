@@ -19,5 +19,9 @@ export DRV
 perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' README.md
 perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' Latest/THOLONIA_THE_BOOK.md
 
+#update vesion date _layouts/default.html
+perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' /home/jw/sites/the-book/docs/_layouts/default.html
+
+
 
 

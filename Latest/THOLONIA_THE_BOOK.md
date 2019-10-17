@@ -1,6 +1,6 @@
 <center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
 <div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!jue 10 oct 2019 21:02:36 EDT v.0.6.25}
+DRAFT - Version Alpha {!jue 17 oct 2019 16:50:21 EDT v.0.6.33}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -17,9 +17,13 @@ Attribution — you must give appropriate credit, provide a link to the licen
 INTRODUCTION
 ============
 
-The point of this book is to introduce the idea that the laws of existence, and everything in existence, from atoms to cultures to galaxies, follow the same laws and has the same structure as it applies to their context, at least conceptually.
+The concept that this reality is an illusion, a matrix, a simulation, or a dream, is not a new one.  From the very earliest creation stories of "God created the heavens and the earth." or up to our modern versions of the "Simulation Hypothesis" and "The Matrix", the story of creation has been the same.  It goes something like this:  Once upon a time there was nothing, then within that nothingness, something appeared.  The details are left to be filled in by the imagination of scientists, mystics, and the generally inquisitive, all seeking insight into the meaning and purpose of life, as if how one lives their life depends on whether their purpose here is to find happiness, provide food for Archonic overlords, or no purpose at all, as this is all a dream within a dream.  This book does not attempt to answer any of these questions.  This does not mean that is doesn't answer some of those questions, but just like the questions, the answers can mean many things to many people.  
 
-That said, it is worth noting that I am not a trained writer, scientist, philosopher or engineer.  In fact, I have little-to-no formal education past the fourth grade.  This is partly due to the environment in which I was raised, and to a much greater degree by the fact that I was autistic in the early 60s public education system in a small, poor, working-class New England mill town.  Consequently, my thinking and reasoning skills might be unorthodox, to the point of being completely whack.  I will leave that for the reader to decide.
+This book is meant to describe the blueprint of creation, similar to a blueprint to a house, which only speaks to how a house is built, not what happens inside the house, how it will be used, or who did the actual building.  For those who believe life is a journey towards enlightenment, this is the blueprint of that path.  For those who believe they are enslaved in a matrix, this is the blueprint of that prison.  For those who believe life is a dream, this is the blueprint of mind of the dreamer.
+
+This book is more of a  point of this book is to introduce the idea that the laws of existence, and everything in existence, from atoms to cultures to galaxies, follow the same laws and has the same structure as it applies to their context, at least conceptually.
+
+That said, it is worth noting that I am not a trained writer, scientist, philosopher or engineer.  In fact, I have little-to-no formal education past the fourth grade.  This is partly due to the environment in which I was raised, and to a much greater degree by the fact that I was a child on the spectrum in the early 60s public education system in a small, poor, working-class New England mill town.  Consequently, my thinking and reasoning skills might be unorthodox, to the point of being completely whack.  I will leave that for the reader to decide.
 
 The arguments put forth seem pretty self-evident, at least to me. However, when I passed some of these ideas by my friend he followed these arguments all the way to the originating premise from which I claim all structure stems, at which point he firmly rebuked the idea that life has any sort preprogrammed purpose or meaning. His counter argument was simply that one can believe anything they want to believe when it comes to the origins and purpose of reality. 
 
@@ -27,19 +31,13 @@ He is not alone. It seems that this is a belief that is shared by many nonsectar
 
 He and I could agree that neither of us had any claim on the ultimate truth of existence, but he took it further by saying that the manner in which we understand our reality is completely subjective. I had to agree with him on that, but this ignores the issue that this truthful statement was based on a flawed premise.
 
-More than simply flawed, it is ultimately fatal, at least to a species or culture that persists in such a belief. The symptoms of a belief system that has no foundation in reality is quite literally a form of madness, and a large portion of modern western society seems to have adopted this belief, or worse, has been taught this belief. Consequently, western culture is suffering from the delusions of this cultural madness, all the while hailing its symptoms as virtues.
-
-I won't say more about these symptoms. not only because that is not the subject of this book, but also to allow you, the reader, to identify them on your own, which would be worthwhile as these symptoms point to a disease that will ultimately kill its host.
-
-What I am far more interested in is where the boundaries and structure of reality lie. If they do exist, then we should be able to identify them in every level of structure, be it atoms, galaxies or society. This is the path of the hard sciences, but even there we see the symptoms of this madness perverting the obvious conclusions of facts, at best, and at worst, denying that inconvenient facts even exist.
+More than simply flawed, it is ultimately fatal, at least to a species or culture that persists in such a belief. The symptoms of a belief system that has no foundation in reality is quite literally a form of madness.  This book attempts to outline the actual foundation of reality that is a prerequisite for anything, from beliefs to planets, to achieve sustainability, where the boundaries and structure of reality lie. If they do exist, then we should be able to identify them in every level of structure, be it atoms, galaxies or society. This is the purported path of the hard sciences, but even there we see the symptoms of this madness perverting the obvious conclusions of facts, at best, and at worst, denying that inconvenient facts even exist.
 
 In this writing I try to avoid social and cultural contexts as much as possible, and where they do exist, I try to keep them to a minimum. This book attempts to transcend these more worldly and exoteric contexts. However, the conclusions put forth here can have a dramatic effect on society and culture, as well as science, politics, economics, self-realization, and life itself.
 
-Keep in mind that these conclusions are my own, drawn from the connecting dots laid out in the following pages.  It is not my intention to promote my own conclusions, but rather, use them as an example of how one person has connected these dots. You may connect these dots differently, or, you may not see anything worth connecting at all;  just a bunch of random concepts that have no relationship to one another, in which case, this will be a very boring book for you to read.  
+Keep in mind that these conclusions are my own, drawn from the connecting dots laid out in the following pages.  It is not my intention to promote my own conclusions, but rather, use them as an example of how one person has connected these dots. You may connect these dots differently, or, you may not see anything worth connecting at all;  just a bunch of random concepts that have no relationship to one another, in which case, this will be a very boring book.  
 
 The reason this book is open-sourced is to allow other’s insights to be integrated onto this skeleton in the hope that a clearer picture of the mechanics of existential awareness will emerge.
-
-<BETA VERSION EDITS COMPLETED UP TO THIS POINT>
 
 <div style="page-break-before: always"></div>
 CHAOS
@@ -73,19 +71,19 @@ The primal void has also been called the *gap between heaven and earth*, the *ab
 
 Everyone from scientists to mystics seems to agree that before there was something, there was nothing, and then, presto, somethingness appeared in the nothingness.
 
-How big is nothingness? Is there a limit to nothingness? If there is, how is that defined? If there is no limit, then is nothingness infinite? There are a lot of sticky questions around the concept of nothingness, which would explain why it's symbolic representation of the number 0 (zero) is a fairly modern invention.
+How “big” was this nothingness? Is there a limit to nothingness? If there is, how is that defined? If there is no limit, then is nothingness infinite? There are a lot of sticky questions around the challenging concept of nothingness, which would explain why it's symbolic representation of the number 0 (zero) is a fairly modern invention.
 
 ## Zero
 
 Zero was first recorded in Mesopotamia around 3 B.C., followed by its appearance in Mesoamerica to the Mayans circa 4 A.D., India in the 5th century, Cambodia in the 7th and China and the Islamic countries in the 8th century. The concept of zero didn't reach Western Europe until the 12th century, and even then, was not fully accepted as a legitimate number concept for hundreds of years.
 
-One of the conceptual challenges of zero is that this single number represents the antithesis of all other numbers. The other conceptual problem is that zero also represents the sum of all numbers! See for yourself… just start adding all numbers together and don't stop until you get to infinity… (1 + (-1)) + (2 + (-2)) + (3 + (-3)) +... = 0 + 0 + 0 + ... = 0). I am not being hyperbolic here in any way, as this is an ongoing debate in both mathematics and philosophy, and many will claim that, in fact, 0=∞! We'll let the philosophers figure that out. In the meantime, to deal with the finite world of everyday life we have adopted the practice of simply ignoring the theoretical implications of  − ∞ + ∞=0 and stick to actual things, which are quite finite, and often have no negative equivalents, like the number of cars in Idaho or the number of tomatoes consumed annually.
+One of the conceptual challenges of zero is that this single number represents the antithesis of all other numbers. The other conceptual problem is that zero can also represents the sum of all numbers! See for yourself… just start adding all numbers together and don't stop until you get to infinity… (1 + (-1)) + (2 + (-2)) + (3 + (-3)) +... = 0 + 0 + 0 + ... = 0). I am not being hyperbolic here in any way, as this is an ongoing debate in both mathematics and philosophy, and many will claim that, in fact, 0=∞! We'll let the philosophers figure that out. In the meantime, to deal with the finite world of everyday life we have adopted the practice of simply ignoring the theoretical implications of  − ∞ + ∞=0 and stick to actual things, which are quite finite, and often have no negative equivalents, like the number of cars in Idaho or the number of tomatoes consumed annually.
 
-How it applies here is that we have the idea of zero or nothing, and the idea of everything not-zero or not-nothing, which is everything. The idea of zero being the antithesis of all numbers (and possibly the sum of all numbers as well), is equivalent to the equally challenging idea that all that ever did, does or will exist does so only due to the existence of nothingness (and possibly the result of all existence as well). Even just the oxymoronic phrase “the existence of nothingness” may be an conceptual impossibility.
+How it applies here is that we have the idea of zero or nothing, and the idea of everything not-zero or not-nothing, which is every thing. The idea of zero being the antithesis of all numbers (and possibly the sum of all numbers as well), is equivalent to the equally challenging idea that all that ever did, does or will exist does so only due to the existence of nothingness (and possibly the result of all existence as well). Even just the oxymoronic phrase “the existence of nothingness” may be an conceptual impossibility.
 
 Nevertheless, we accept the story, in one form or another, that upon a time, before time even existed, there was an infinite void of nothingness, and then, badda-boom, badda-bing, something appeared in this nothingness… and not just any something, but the totality of all somethingness that has, does, or ever will exist.
 
-How many things other than zero are there? In theory, infinite, but in reality, nothing is infinite. Is the somethingness that was created in the nothingness finite or infinite? This was a question that plagued philosophy and science for quite a long time[3] until Einstein came up with a clever answer.
+How many things other than zero are there? In theory, infinite, but in reality, nothing is infinite. Is the somethingness that was created in the nothingness finite or infinite? This was a question that plagued philosophy and science for quite a long time<sup>[3](#ref_003)</sup><a name="rev_003">&nbsp;</a> until Einstein came up with a clever answer.
 
 According to Einstein's Field Equations, the universe is not infinite, but rather “finite and unbounded”, which is a clever way to say “infinite, but finite.” Think of the 2D surface of a ball. It is essentially infinite in that you can travel on it forever and never get to the end, but it is bounded, or finite, in that, it only occupies a finite space. The 3D reality that is our Universe is the same, according to Einstein, but like the 3D 'surface' of a 4D space.
 
@@ -97,16 +95,16 @@ Some colloquial, older definitions of chaos describe it as matter before there w
 
 #### Claim 1: Chaos is a state lacking any order, time or energy. Total nothingness. 
 
-Chaos also has another definition that means exactly the opposite, similar to the ∞ = 0 concept (scientists do that a lot). Take, for example, the study of chaos in the origins of the universe that was undertaken by Chicago's Northwestern University physicist Adilson Motter, who concluded that 10<sup>-36</sup>seconds after the Big Bang happened there was a state of *total chaos*. Do you know what was happening at 10<sup>-36</sup> seconds after the Big Bang? Everything, and a temperature of over 1 trillion degrees. Motter concluded from his study:
+Chaos also has another definition that means exactly the opposite, similar to the ∞ = 0 concept (scientists do that a lot). Take, for example, the study of chaos in the origins of the universe that was undertaken by Chicago's Northwestern University physicist Adilson Motter, who concluded that 10<sup>-36</sup> seconds after the Big Bang happened there was a state of *total chaos*. Do you know what was happening at 10<sup>-36</sup> seconds after the Big Bang? Everything, and a temperature of over 1 trillion degrees. Motter concluded from his study:
 
 >  “Now we establish once and for all that \[the universe\] is chaotic.”
 
 <center><img style="text-align:center;width:100%" src="../Images/001-bigbang.png" /></center>
 #### **Claim 2:** Chaos is a state of total energy and matter. Total somethingness. 
 
-We are not claiming here that the Big Bang theory is correct (because it sounds completely insane), but only ask the question; How can the concept of *chaos* describe the state of the void of total nothingness as well as the state of all matter and energy in the universe?
+We are not claiming here that the Big Bang theory is correct (because it sounds completely insane), but we are asking the question; How can the concept of *chaos* describe the state of the void of total nothingness as well as the state of all matter and energy in the universe?
 
-The definition of chaos that works for both is *“the degree that order is present in any state”*. Both of those states, of total nothingness and total somethingness, have no order, one because it is empty of anything, and the other because it is full of everything in a moment that everything was happening at once. Granted, that total state of chaos after the Big Bang only lasted 10<sup>-36</sup> seconds, but that doesn't change the fact that total chaos existed at the birth of the Universe.
+The definition of chaos that works for both is *“the degree that order is present in any state”*. Both of those states, of total nothingness and total somethingness, have no order.  In one case because because that state it is empty of anything, and in the other case because that state is full of everything in a moment that everything was happening at once. Granted, that total state of chaos after the Big Bang only lasted 10<sup>-36</sup> seconds, but that doesn't change the fact that total chaos existed at the birth of the Universe.
 
 #### **Claim 3:** chaos is a measure of order. 
 
@@ -120,28 +118,30 @@ The topic of energy will be reviewed many times further on, but at this point it
 
 Where and how the primal energy came from that created our universe is still, and will probably remain, unanswered, at least by modern science. Science, mythology, and religion each have their own stories and theories about it, and, not surprisingly, many of these theories are not that conceptually far apart from each other. One thing we can say about the energy that created this universe (if we are to believe the first law of thermodynamics that states energy cannot be destroyed or created) is that it existed before the Universe was created.
 
-For our purpose, at least at this moment, none of these theories or stories matter. What does matter is the idea that once energy was introduced into chaos of the void, something happened. That “something” was some sort of movement, as that is the undebatable nature of energy; it's always moving. This energy moved in accordance with certain laws. We call these laws the Laws of Physics and the Laws of Nature.
+For our purpose, at least at this moment, the details of these theories or stories matter. What does matter is the general idea that once energy was introduced into chaos of the void, something happened. That “something” was some sort of movement, as that is the undebatable nature of energy; it's always moving. This energy moved in accordance with certain laws. We call these laws the Laws of Physics and the Laws of Nature.
 
-The question then becomes, did these laws exist before creation? Did they exist in the chaotic primal void of nothingness? Well, the reasonable answer is yes... and no. “No”, they did not exist in the primal void because these laws only apply where time and space exist, neither of which existed prior to the introduction of energy. “Yes”, in that these laws must have existed “in theory” ... i.e. the relation of a circle to a square existed as a constant (pi), but as there were no circles or squares it was not measurable... there was no *instance* of pi, but there was, for lack of a better word, an archetype of that relationship.
+The question then becomes, did these laws exist before creation? Did they exist in the chaotic primal void of nothingness? Well, the reasonable answer is yes... and no. “No”, they did not exist in the primal void because these laws only apply where time and space exist, neither of which existed prior to the introduction of energy. “Yes”, in that these laws must have existed “in theory” ... i.e. the relation of a circle’s circumference to its radius existed as a constant (pi), or the relationship between a circle and a square is an infinite regression, but as there were no circles or squares it was not measurable... there was no *instance* of pi, but there was, for lack of a better word, an archetype of those relationships.
 
-The only place where the potential for anything to exist, including concepts, ideas, or archetypes, is in a place where somethingness coexists with nothingness. 0 (which may also equal ∞) can exist, and ∞ (which may also equal 0) can exist, but unless they commingle there will never be numbers. When they do mix numbers appear, and with them, laws. “But!” you may be thinking, “If archetypes can only exist in a duality, and there was not yet a duality before the big bang, how could the archetypes have existed? ” That question is answered a bit later on, but first, we have to address a few other things.
+The only place where the potential for anything to exist, including concepts, ideas, or archetypes, is in a place where somethingness coexists with nothingness. 0 (which may also equal ∞) can exist, and ∞ (which may also equal 0) can exist, but unless they commingle there will never be numbers. When they do mix numbers appear, and with them, laws. “But!” you may be thinking, “If archetypes can only exist in a duality, and there was not yet a duality before the big bang, how could the archetypes have existed?”  That is a very good good question, because it would almost appear as though the nothingness from which our duality was formed within must itself have existed within another duality wherein existed these unmanifest archetypes. That question is answered a bit later on, but first, we have to address a few other things.
 
-Plato, et al
+<BETA VERSION EDITS COMPLETED UP TO THIS POINT>
+
+[Plato](), et al
 -----
 
 Without getting too much into philosophy here, the idea of archetypal forms a very Platonic idea.
 
 Plato's *Theory of ideas* is the hypothesis that everything that exists is a material instance of an ideal version, or perfect idea, of that thing.
 
-It is also a very Kant-ish idea, and a very Locke-ish, Descartes-ish and Hume-ish idea, for all these great thinkers, plus many more, had the understanding in one form or another *things* were primarily ideas first.  Not all philosophers and scientists-of-old agreed, and in that day the debate usually boiled down to some form of “is there a god?” <sup>[143](#ref_143)</sup><a name="rev_143">&nbsp;</a> Today, science tends to shy away from the concept of a god, but ask equally impossible questions, such as “it reality a hologram?” or “is existence a simulation?”, etc. That question is answered in this book, but the answer is as maddening as it is enlightening, and words like “yes” or “no” become meaningless.
+It is also a very Kant-ish idea, and a very Locke-ish, Descartes-ish and Hume-ish idea, for all these great thinkers, plus many more, had the understanding in one form or another *things* were primarily *ideas* first.  Not all philosophers and scientists-of-old agreed, and in that day the debate usually boiled down to some form of “is there a god?” <sup>[143](#ref_143)</sup><a name="rev_143">&nbsp;</a> Today, science tends to shy away from the concept of a god, but ask equally impossible questions, such as “it reality a hologram?” or “is existence a simulation?”, etc. That question is answered in this book, but the answer is as maddening as it is enlightening, and words like “yes” or “no” become meaningless.
 
-For pretty much all of man's history there has been an archetypal, theoretical, spiritual or mystical concept of a realm of ideas. In this realm, forms, in their unmanifest, uninstantiated state, are simply ideas; the perfect cube, for example, is a concept we all can grasp, but whose instances in the material world can only approach the ideal. These archetypal forms follow archetypal laws, otherwise, the relationship between the area of a circle and its radius could just as well be “elephant toes on Tuesday afternoon”, or “cat dog moo”, or any other randomness.
+For pretty much all of man's history there has been an archetypal, theoretical, spiritual or mystical concept of a realm of ideas. In this realm, forms, in their unmanifest, uninstantiated state, are simply ideas; the perfect cube, for example, is a concept we all can grasp, but whose instances in the material world can only approach the ideal. These archetypal forms follow archetypal laws for if they did not then the relationship between the area of a circle and its radius could just as well be “elephant toes on Tuesday afternoon”, or “cat dog moo”, or any other randomness.
 
 This concept that unmanifest forms are the same as ideas, existing in a non-physical, non-manifest, non-instantiated state, provides a very neat explanation as to origin and nature of the laws of physics. Just as physical forms, like the ball and the cube, have their ideal archetypes, the laws of physics and nature have their archetypal forms as well.
 
-The laws of a form and the form itself are not separate things; they are the same thing in two different forms of expression. Form itself is simply a function, or by-product, of the law as it is expressed within the duality of our reality. The form *is* the instantiation of the law. A circle is defined by its law, 2*π**r*, and what we see as a circle is an instance of this law. Laws are the blueprints of archetypes.
+The laws of a form and the form itself are not separate things; they are the same thing in two different forms of expression. Form itself is simply a function, or by-product, of the law as it is expressed within the duality of our reality. The form *is* the instantiation of the law. A circle is defined by its law, 2*πr*, and what we see as a circle is an instance of this law. Laws are the blueprints of archetypes.
 
-How do we know that the laws were not derived from the form, rather than the form being derived from the law? This is addressed in more depth further on, but the evidence is that the same laws exist across many forms. One archetype can have many instances, but one instance cannot have many archetypes. This puts the laws of form ‘higher' in the unfolding process of its creation, as the law must exist before the formation or instantiation of the law. This is additionally supported by the idea that the laws themselves are an expression of energy, the ordering force behind all existence, and therefore a prerequisite to form, archetypal or material.
+How do we know that the laws were not derived from the form, rather than the form being derived from the law? This is addressed in more depth further on, but the evidence is that the same laws exist across many forms. One specific archetype, like that of a cube or a sphere, can have many instances, but a cube or a square cannot have many archetypes. This puts the laws of form ‘higher' in the unfolding process of its creation, as the law must exist before the formation or instantiation of the law. This is additionally supported by the idea that the laws themselves are an expression of energy, the ordering force behind all existence, and therefore a prerequisite to form, be it archetypal or material.
 
 #### **Claim 4:** Levels of order begin with energy, which has laws regarding how it interacts with itself, which form archetypes, which have material instances. 
 
@@ -162,7 +162,7 @@ ORDER
 
 ###### On every scale of existence, order arises out of chaos and then returns to chaos. Each cycle can take millennia or nanoseconds. This is the cycle of existence.
 
-Everything that exists must follow the laws of existence, for the penalty of not following the laws is non-existence. This is why we call it the *Laws of Physics* and not the *Highly Recommended Suggestions of Physics*.
+Everything that exists must follow the laws of existence, for the penalty of not following those laws is non-existence. This is why we call it the *Laws of Physics* and not the *Highly Recommended Suggestions of Physics*.
 
 These laws of physics can change between one state of matter and another. Before we look at some of the laws, let's look at the scopes that these laws must function within.
 
@@ -178,18 +178,18 @@ Science calls the scope of our everyday Newtonian reality *Macrorealism* <sup>[1
 
 #### **Claim 8:** Local laws and constants are valid only within the context of their scope. 
 
-An example of universal laws or patterns that span many scopes might be the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,233, 377...) and its constant ratio of Phi*φ*, also called the Golden Ratio (1:1.618). This number is the ratio that not only pops up in galaxies and seashells but, according to some evolutionary and chemical scientists<sup>[5](#ref_005)</sup><a name="rev_005">&nbsp;</a>, is the ratio that keeps everything in existence in order and is the shape of space-time itself.
+An example of universal laws or patterns that span many scopes might be the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,233, 377...) and its constant ratio of Phi *φ*, also called the Golden Ratio (1:1.618). This number is the ratio that not only pops up in galaxies and seashells but, according to some evolutionary and chemical scientists<sup>[5](#ref_005)</sup><a name="rev_005">&nbsp;</a>, is the ratio that keeps everything in existence in order and is the shape of space-time itself.
 
 <center><img src="../Images/003-phi-shell.png" style="width:5.76944in;height:2.78333in" alt="fractal-nature-1" /></center>
 Another universal law might be simple fractal math formulas, like *f(x)= x*<sup>2</sup>*-1, which seem to mimic nature and* can be found across all forms of existence<sup>[6](#ref_006)</sup><a name="rev_006">&nbsp;</a>, suggesting that self-similarity is a universal property. *Power laws* explain how a relative change in one measurement can result in a proportional relative change in another measurement (i.e. logarithmic or exponential), and we see these across all levels of existence as well. These universal laws can be found in astronomy, physics, biology, meteorology, cosmology, mathematics, economics, and many other areas including society, wealth and work distribution, competition, media exposure, and much more.
 
 <center><img src="../Images/004-fractalprocess.png" xstyle="width:5.3875in;height:2.22986in" alt="fractal.png" /></center>
 <center><img src="../Images/005-fracgened.png" xstyle="width:5.44167in;height:1.56597in" /></center>
-Even though there many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
+Even though there are many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
 Local laws may be local, but they can affect everything that is built upon them. Everything is made of atoms, and atoms are the size they are because of *Plank's constant*, which is the relationship between the mass and the frequency of the particles that make up an atom. If that constant were to change the entire universe would be radically different, if it even existed at all. If Plank's constant changed from 6.2618 x 10<sup>-34</sup> to 6.2618 x 10<sup>-20</sup>, the radius of an atom would go from being too small to see 100 times the distance to the nearest star!
 
-On a more realistic level, consider a bridge made of bricks. If the laws that bind molecules together change such that they have a lesser negative charge, then the bridge would melt on a warm day. The Newtonian laws did not change, only the *local* laws changed on the particle level.
+On a more realistic level, consider a bridge made of bricks. If the laws that bind molecules together change such that they have a lesser negative charge, then the bridge would melt on a warm day. The *local* Newtonian laws did not change, only the *local* laws changed on the particle level.
 
 It's logical that the laws of particle physics affect everything that exists because everything is made of particles, but that does not make the laws of particle physics *universal* in scope, rather, that which is made of particles is *dependent* on the laws that operate in the *local* particle scope.
 
@@ -233,19 +233,19 @@ Entropy and Inertia
 
 There are many laws that describe how energy works.
 
-From the 3<sup>rd</sup> century BC starting with the Archimedes Principle to the present laws of quantum mechanics, researchers have compiled a longs list of laws. We have, Coulomb's Law, Stefan's Law, Pascal's Law, Hooke's Law, Bernoulli's Principle, Boyles's Law, Charles's Law, Kepler's Law, Law of conservation of energy, the Tyndall effect, Graham's Law, Newton's Three Laws of motion, Ohm's Law, and many more.
+From the 3<sup>rd</sup> century BC starting with the Archimedes Principle to the present laws of quantum mechanics, researchers have compiled a long list of laws. We have, Coulomb's Law, Stefan's Law, Pascal's Law, Hooke's Law, Bernoulli's Principle, Boyles's Law, Charles's Law, Kepler's Law, Law of conservation of energy, the Tyndall effect, Graham's Law, Newton's Three Laws of motion, Ohm's Law, and many more.
 
-One of these universal laws is *energy will always follow the path of least resistance. This is called entropy* and explains why water runs downhill to form rivers, electrons always seek a positive charge, resulting in electricity, high pressure seeks low pressure, and why stuff breaks.
+One of these universal laws is *energy will always follow the path of least resistance.* This is called *entropy* and explains why water runs downhill to form rivers, electrons always seek a positive charge, which describes electricity, high pressure seeks low pressure, and why stuff breaks.
 
-A simple analogy would be to compare entropy to water in lakes, rivers, and the sea. Only the water that is above the sea level can be used to do work (e.g. move a water wheel). Entropy represents the water that is at or below sea level and therefore unusable for work.
+A simple analogy would be to compare entropy to water in lakes, rivers, and the sea. Only the water that is above the sea level can be used to do work (e.g. move a water wheel). Entropy represents the water that is at, or below, sea level and therefore unusable for work.
 
-This is also how batteries work. A charged battery has low entropy (high usable energy), and a dead battery has high entropy (no usable energy). A dead battery still has all the energy it had before, but it is no longer usable because the energy, in the form of electrons, has moved from the positive side of the battery to the negative side until it achieved balance and there were no more electrons left on the positive side of the battery that were compelled by the laws of balance to move… but they are still in the battery, and still acting like electrons.
+This is also how batteries work. A charged battery has low entropy (high usable energy), and a dead battery has high entropy (no usable energy). A dead battery still has all the energy it had before, but it is no longer usable because the energy, in the form of electrons, has moved from the negative side of the battery to the positive side until it achieved balance and there are no more electrons left on the negative side of the battery that were compelled by the laws of balance to move… but they are still in the battery, and still acting like electrons.
 
 This is classical physics, and entropy in classical physics is defined as *disorder* because, without the flow of energy, there is no order. For the record, entropy is a fairly complex process that not everyone agrees on, so, we're really using ‘high-altitude' definitions here.
 
 In the water example, if we have two identical bodies of water, one 100 feet above the other, we say that the upper body of water has lower entropy than the lower body of water, and the lower body of water has higher entropy than the upper body of water, but there is no difference between these two bodies of water when compared independently. The difference only appears when compared to each other, because one is higher than the other. We can say that both bodies are in a (slightly) higher state of chaos when they are not connected. Once they are connected, and the water begins to flow, there is movement of energy, and order follows.
 
-This is what is theoretically happening to the universe right now because according to the Big Bang Theory, there was zero entropy (total energy) at the moment of the Big Bang. Since then all that energy has been following the path of least resistance as it moves into the surrounding nothingness, like water into the ocean or electrons in a battery, raising the entropy of the universe and decreasing the amount of useable energy. This is why, according to the theory, the universe will end up in a state of chaos and disorder, like a dead battery or a stagnant lake. The Universe started in chaos and will end in chaos, and in-between those two points, there is the movement of energy, which creates order.
+This is what is theoretically happening to the universe right now because according to the Big Bang Theory, there was zero entropy (total energy) at the moment of the Big Bang. Since then all that energy has been following the path of least resistance, moving into the surrounding nothingness, like water into the ocean or electrons in a battery, raising the entropy of the universe and decreasing the amount of usable energy. This is why, according to the theory, the universe will end up in a state of chaos and disorder, like a dead battery or a stagnant lake. The Universe started in chaos and will end in chaos, and in-between those two points, there is the movement of energy, which creates order.
 
 #### **Claim 11:** Order and pattern requires energy. 
 
@@ -261,15 +261,15 @@ In other areas of study, the definition of entropy carries the same idea of diso
 
 For our purposes, we will simply use the classical definition of entropy as a *measure of disorder*.
 
-Another law to look at is Newton's First Law, the Law of Inertia, which states “an object will remain at rest or move at a constant speed in a straight line unless it is acted upon by an unbalanced force.” This is why things don't fly around randomly on their own for no reason.
+Another law to look at is Newton's First Law, the Law of Inertia, which states *an object will remain at rest or move at a constant speed in a straight line unless it is acted upon by an unbalanced force*. This is why things don't fly around randomly on their own for no reason.
 
 These are just two of the many laws that determine how our reality works, at least within the scope of the reality we tend to deal with. On the quantum and galactic levels, or super high or low energy states, things may operate a bit differently.
 
-These laws always ensure that everything will operate at its most efficient level. What does “operate” even mean? It means the optimal movement of energy. As energy only moves when there is a difference between two states, the movement of energy is meant to do only one thing, and that is to neutralize that difference by creating a balance between two conditions that are not the same, whether it's the conditions of somethingness and nothingness or just a few degrees of temperature. Once balance is achieved the movement stops. A balanced battery is a battery at peace with itself… and it is also a dead battery.
+These laws always ensure that everything will operate at its most efficient level. What does “operate” mean in this context? It means the optimal movement of energy. As energy only moves when there is a difference between two states, the movement of energy is meant to do only one thing, and that is to neutralize that difference by creating a balance between two conditions that are not the same, whether it's the conditions of *somethingness* and *nothingness* or just a few degrees of temperature. Once balance is achieved the movement stops. A balanced battery is a battery at peace with itself… and it is also a dead battery.
 
 The optimum condition for the movement of energy between two states is one that operates within the limitations and abilities of both of those conditions.
 
-A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*. This is a fascinating and entertaining device that takes an initial push (low entropy) and then draws a two-dimensional design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).<sup>[8](#ref_008)</sup><a name="rev_008">&nbsp;</a>
+A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*. This is a fascinating and entertaining device that creates an oscillation from takes an initial push (low entropy) and then draws a two-dimensional oscillating design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).<sup>[8](#ref_008)</sup><a name="rev_008">&nbsp;</a>
 
 <center><img src="../Images/008-harmonograph.jpg" style="width:5.5in;height:3.60833in" alt="Harmonograph" /></center>
 #### **Claim 12:** Everything is in a state of seeking and/or maintaining balance. 
@@ -308,17 +308,15 @@ If you are not familiar with Ohm's Law, you can understand it using the water ex
 <center><img src="../Images/011-water-example.jpg" style="width:5.7in" /></center>
 In this example, the concept of **Power** remains the same, as it is an abstract and derived concept that represents the rate, over time, at which energy (via electrons, water, etc.) is transferred. **Current** is the amount of water (i.e. number of molecules), that is flowing through the pipe. **Voltage** would be analogous to water pressure, which determines how far the water shoots out of the pipe. **Resistance** is represented by the size of the pipe the water is flowing through.
 
-Ohm's law is actually Newton's 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity*.*<sup>[9](#ref_009)</sup><a name="rev_009">&nbsp;</a>
-
-Ohm's Law states Newton's 2<sup>nd</sup> Law as it applies to electricity, but where the *object* is *electricity*, the *force* is *current*, the *mass* is *resistance*, and the *acceleration* is *voltage*.
+Ohm's law is actually Newton's 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity<sup>[9](#ref_009)</sup><a name="rev_009">&nbsp;</a>, defining the *object* as *electricity*, the *force* as *current*, the *mass* as *resistance*, and the *acceleration* as *voltage*.
 
 ##### A word on electricity…
 
 We are using Ohm’s law, the laws of electricity, as an example for another reason as well. We are all familiar lightening. Watching the bolts of light shoot instantly across the sky and into (or from) the earth is awe-inspiring and exciting. We also know that lightning is dangerous. Contrary to the statement “lightning never strikes the same place twice”, lighting often strikes the same place many times, and for good reason. Ben Franklin suspected why, which gave birth to the lightning rod, saving millions of building from burning to the ground. 
 
-We know that energy always travels the path of least resistance, so we can say that the path between some point in the sky and the tip of the lightning rod is the path of least resistance, and we can say that this path was predetermined before the electrons traveled it. When electrons build up in the sky and then jump to earth as they balance the change, they are not heading out on a journey looking for a place to land. They already ‘know’ where they are going to land because the destination of their journey must be known before they can begin to move. This path could be described as a low-resistance path to the ground or fields of resistance and potential, and probably a few other attributes, but the point to remember is that the path is defined and known before it is traveled. 
+We know that energy always travels the path of least resistance, so we can say that the path between some point in the sky and the tip of the lightning rod is the path of least resistance, and we can say that this path was predetermined before the electrons traveled it. When electrons build up in the sky and then jump to earth as they seek balance, they are not heading out on a journey looking for a place to land. They already ‘know’ where they are going to land because the destination of their journey must be known before they can begin to move. This path could be described as a low-resistance path to the ground or fields of resistance and potential, and probably a few other attributes, but the point to remember is that the path exists before it is traveled. 
 
-Using the water metaphor, we can say that water will always seek the lowest point.  There are many paths between the top of a mountain and the valley, but the water will only travel down the lowest paths.  The lightning rod is like the lowest point in the valley, and the mountain top is like the storm cloud.
+Using the water metaphor, we can say that water will always seek the lowest point.  There are many paths between the top of a mountain and the valley, but the water will only travel down the lowest paths.  The lightning rod is equivalent to the lowest point in the valley, and the mountain to is equivalent to the storm cloud.
 
 This is a very significant point that we will return to later on.
 
@@ -342,7 +340,7 @@ In fact, not only is *E=mc<sup>2</sup>* the exact same formula as *P=RI<sup>2</s
 
 We can apply these formulas to energy, mass, and speed and get correct results; with one exception… there is no equivalence to volts when using *E=mc<sup>2</sup>*, which seems odd.
 
-In the water example, voltage is equivalent to water pressure. In the world of electricity, voltage is described as *electric pressure* that results from the difference that exists between two states, one being the highest potential energy, and the other being the lowest potential energy. Can we then say that these missing cosmic volts (let's call them *zvolts*, for lack of a better term) represent the difference between two opposing states? What these states might be is up for grabs. Perhaps low entropy (order) and high entropy (chaos)? Whatever zvolts are, given that they are values that measure the difference between two points that are quite fundamental to our reality, they might be very significant in understanding reality in terms of dualities.
+In the water example, voltage is equivalent to water pressure. In the world of electricity, voltage is described as *electric pressure* that results from the difference that exists between two states, one being the highest potential energy (like the storm cloud or mountain top), and the other being the lowest potential energy (like the lightening rod or valleys). Can we then say that these missing cosmic volts (let's call them *zvolts*, for lack of a better term) represent the difference between two opposing states, just like ‘regular’ volts? What these states might be is up for grabs. Perhaps low entropy (order) and high entropy (chaos)? Whatever zvolts are, given that they are values that measure the difference between two points that are quite fundamental to our reality, they might be very significant in understanding reality in terms of dualities.
 
 We can calculate for these missing zvolts by applying the simple formula:
 
@@ -350,17 +348,23 @@ We can calculate for these missing zvolts by applying the simple formula:
 
 which equates to *zvolts (z) = Speed of Light (c) \* Mass (m)*
 
-This then becomes (using the ISU standard<sup>[10](#ref_010)</sup><a name="rev_010">&nbsp;</a> units of measure) *300,000,000 km/sec \* 1 kg = 300,000,000 zvolts.*
+This then becomes (using the ISU standard<sup>[10](#ref_010)</sup><a name="rev_010">&nbsp;</a> units of measure) *zvolts = 300,000,000 km/sec \* 1 kg*, which makes zvolts = 300,000,000 
 
-So zvolts is the same as *c*? Yes, but only when the *mass=1*. If we use a different mass, like 2, zvolts becomes *c\*2.*
+So zvolts is the same value as *c*? Yes, but only when the *mass=1*. If we use a different mass, like 2, zvolts becomes *c\*2.*
 
-*300,000,000 km/sec \* 2 kg = 600,000,000*
+*zvolts = 300,000,000 km/sec \* 2 kg*, which makes zvolts = 600,000,000
 
-But what *is* this number? It can't be speed, because nothing can exceed the speed of light. It can't be weight, because we are already using weight in the equation. Even more odd is that the number is always proportional to mass because *c* is always the same, so whatever zvolts are, they are essentially the same value as the weight of the mass, but 300,000,000 times larger.
+But what *is* this number? It can't be speed, because nothing can exceed the speed of light. It can't be weight, because we are already using weight in the equation. Even more odd is that the number is always proportional to mass because *c* is always the same, so whatever zvolts are, they are essentially the same value as the weight of the mass, but 300,000,000 times larger, but the zvolt is the result of speed, time and mass, so it is like a unit of *kilograms per kilometers per second*, kg/km/sec.
 
 There's one more detail about voltage that might be relevant here, and that is: the greater the voltage, the greater the electric field. Can we then say “the greater the zvolts the greater the energy field”?
 
 So, zvolts represent the difference between the two poles of … what? Reality itself, as defined by Relativity? The value of zvolts are always proportional (by *c*) to the value of mass, and they determine the size of the energy field. As everything that exists can be described using *E=mc<sup>2</sup>,* this would imply that everything that exists has a zvolt field, and as zvolts measure the greatest difference between two opposing potentials, are zvolts one measure of the duality a thing exists within?
+
+We can now rewrite our original Ohm’s law of *electric current is proportional to voltage and inversely proportional to resistance* to be: *the speed of light (c) is proportional to zvolts and inversely proportional to mass*.  
+
+This doesn't make sense because if *c* is inversely proportional to mass, and *c* never changes, then that means mass never changes, but we know that as mass approaches the speed of light its mass increases, however zvolts do increase, and the formula *m=z<sup>2</sup>/E* would then describe how mass can increase while *c* remains constant.
+
+<BETA VERSION EDITS COMPLETED UP TO THIS POINT>
 
 It's all quite fertile ground for speculation, at least to someone like myself who is too uneducated to know the thousands of reasons why such speculation is pointless.
 

@@ -24,13 +24,18 @@ changes or updates.  For more information contact <a href="mailto:{{page.email}}
 
 The word "tholonia" is derived from three concepts: 
 
-- The tetrahedron, which is the simplest form that can exist in three dimensional spacetime.</li>
+- The tetrahedron, which is the simplest form that can exist in three dimensional spacetime.
                     
 - The word "holon", which is something that is simultaneously an autonomous self-reliant unit, a whole with contributing parts, and a part (parton) as a contributing part to a larger "holon." The word was coined by Arthur Koestler in his book The Ghost in the Machine and has its roots in the Greek "holo", meaning "whole".  Combining these concepts we have a "tetrahedral holon", or, a "tholon."
 
 - The Latin suffix of "ia" indicate the plurality of the hierarchical, self-similar, and redundant nature of tholons that describe every aspect of reality.    
 
 <img src="/the-book/assets/img/selectedimages.png" style="width:100%"/> <!-- JWFIX -->
+
+## Introduction
+The concept that this reality is an illusion, a matrix, a simulation, or a dream, is not a new one.  From the very earliest creation stories of "God created the heavens and the earth." or up to our modern versions of the "Simulation Hypothesis" and "The Matrix", the story of creation has been the same.  It goes something like this:  Once upon a time there was nothing, then within that nothingness, something appeared.  The details are left to be filled in by the imagination of scientists, mystics, and the generally inquisitive, all seeking insight into the meaning and purpose of life, as if how one lives their life depends on whether their purpose here is to find happiness, provide food for Archonic overlords, or no purpose at all, as this is all a dream within a dream.  This book does not attempt to answer any of these questions.  This does not mean that is doesn't answer some of those questions, but just like the questions, the answers can mean many things to many people.  
+
+This book is meant to describe the blueprint of creation, similar to a blueprint to a house, which only speaks to how a house is built, not what happens inside the house, how it will be used, or who did the actual building.  For those who believe life is a journey towards enlightenment, this is the blueprint of that path.  For those who believe they are enslaved in a matrix, this is the blueprint of that prison.  For those who believe life is a dream, this is the blueprint of mind of the dreamer.
 
 ## **License**
 
