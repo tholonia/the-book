@@ -8,6 +8,12 @@
     }
 }
 
+.editnote {
+    color: black;
+    font-weight: 100;
+    border: 1px solid black !important;
+    background-color: yellow;
+}
 .reflink {
   font-size:larger;
 }
