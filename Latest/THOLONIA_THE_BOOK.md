@@ -1,6 +1,6 @@
 <center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
 <div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!sáb 19 oct 2019 17:45:09 EDT v.0.6.42}
+DRAFT - Version Alpha {!lun 21 oct 2019 00:47:24 EDT v.0.6.44}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -762,9 +762,7 @@ The range of possibilities between these two (or any two) states is naturally di
 If we had the Ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would in the middle. This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner. This chart below is a general concept of this idea.
 
 <center><img src="../Images/021-supercurve1.png" style="width:90%" /></center>
-We see this sort of distribution everywhere in nature. In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems coexist.<sup>[31](#ref_031)</sup><a name="rev_031">&nbsp;</a>
-
-<div style="background-color:yellow;border:1px solid black">JWFIX: EDITNOTE: does this imply that stuff in the middle of the curve is more sustainable that the stuff at the end, like black holes that last 10^99 years?</div>
+We see this sort of distribution everywhere in nature. In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems coexist.<sup>[31](#ref_031)</sup><a name="rev_031">&nbsp;</a>  This does not mean that the stuff in the middle of the curve is more sustainable than the stuff at the ends, but it does mean that the stuff in the middle uses energy more efficiently and will probably have a higher model of order.   
 #### **Claim 26:** The most likely and persistence state of anything (including ideas) that exists between two poles will be where the most balance exists between those two poles. 
 
 #### **Claim 27:** Order emerges most efficiently in a balanced state. 
@@ -774,9 +772,8 @@ For example, the human eye sensitivity chart below shows that a particular shade
 <center><img src="../Images/022-eyecurve1.png" style="width:90%" /></center>
 The oscillations between two states, be they the two states of chaos, or order and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation. This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort.
 
-Were this duality to no longer exist in a state of imbalance or difference, the cycles of creations would also cease. How, then, is a stable state of imbalance always maintained? Remember the example of the two lakes, one higher than the other? Once all the water has moved to the lower lake the water just sits there, doing nothing, and that is the end of the cycle unless somehow the water gets moved back into the higher lake. Nature does this quite effectively by using another imbalance in another system that causes water to evaporate due to heat, heat that was created by the process of clouds of hydrogen atoms joining together (fusion) to create new elements and transmitted to each via oscillating energy.  These evaporated molecules join together in the sky and eventually fall back to earth and find their way, via entropy, to rivers and lakes, thereby ensuring the cycle of energy remains operating. Difference must be maintained for energy to work, and what we call nature is the balancing of countless balancing process that are themselves the result of balancing processes, etc., all the way down to the first process of balance (which we’ll detail later).
+Were this duality to no longer exist in a state of imbalance or difference, the cycles of creations would also cease. How, then, is a stable state of imbalance always maintained? Remember the example of the two lakes, one higher than the other? Once all the water has moved to the lower lake the water just sits there, doing nothing, and that is the end of the cycle unless somehow the water gets moved back into the higher lake. Nature does this quite effectively by using another imbalance in another system that causes water to evaporate due to heat, heat that was created by the process of clouds of hydrogen atoms joining together (fusion) to create new elements and transmitted to each via oscillating energy.  These evaporated molecules join together in the sky and eventually fall back to earth and find their way, via entropy, to rivers and lakes, thereby ensuring the cycle of energy-seeking-balance remains operating. Difference must be maintained for energy to work, and what we call nature is the balancing of countless balancing processes that are themselves the result of balancing processes, etc., all the way down to the first process of balance (which we’ll detail later).
 
-<div style="background-color:yellow;border:1px solid black">JWFIX: EDITNOTE: remember to refer back to this when detailing the blue dot</div>
 ## Waves
 
 When we look at simple waves, such as light waves, radio waves, sound waves, we see an oscillation of energy. This is the result of movement of energy over time.
@@ -814,19 +811,16 @@ We do not have words for many things as we have yet to recognize them and theref
 
 This begs the questions “What *is* energy? ” And the answer is… are you sitting down? Drum-roll, please... *“The ability to perform work.”* Yup, that is the culmination of thousands of years of research and investigation in search of an answer as to why and how reality exists. Problem solved (we'll come back to this later).
 
-<div style="background-color:yellow;border:1px solid black">JWFIX: EDITNOTE: check the prev ref to this</DIV>
 #### **Claim 29:** A high state of order delivers more “work”
-
-<BETA VERSION EDITS COMPLETED UP TO THIS POINT>
 
 ## Simple Cycle
 
 Let's look at the simple cycle again as the archetypal pattern that describes the movement of energy, regardless of the medium. In some contexts, this pattern is quite measurable, in others, it is analogous, such as in the migration pattern of the Arctic Tern.
 
 <center><img src="../Images/026-sinewaveplus.png" style="width:90%" /></center>
-You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.
+You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, positive/negative, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.
 
-In humanity's quest to understand reality, either through religion, economics, alchemy or science, we keep bumping into the same universal constants and concepts.
+In humanity's quest to understand reality and its processes, either through religion, culture, economics, nature, alchemy or science, we keep bumping into the same universal constants and concepts.
 
 <div style="page-break-before: always"></div>
 INFORMATION
@@ -834,7 +828,7 @@ INFORMATION
 
 ###### Information follows the same rules as everything else in nature.
 
-How do we define *information*?
+We see these same patterns in information as well.  How, then, do we define *information*?
 
 ### Data
 
@@ -952,11 +946,13 @@ The graphs above represent a very small subsection of the Grand Holarchy of Ever
 With a few tweaks to the previous *Super-Duper Graph of Reality* Bell curve, making the right axis more logarithmic rather than linear, this model fits nicely on top of it.
 
 <center><img src="../Images/030-supercurve2.png" style="width:90%" alt="Bell-Curve2.png" /></center>
-Some readers may be thinking “Hey, wait a minute… those aren't the same axis! What kind of Gaussian goofiness in going on here?” Well, that is partly true. The first Super-Duper Graph of Reality chart shows the probability (x-axis) of where order (y-axis) will be more likely to emerge across the entire spectrum of existence while this one is limited to the spectrum of human perception.
+Some readers may be thinking “Hey, wait a minute… those aren't the same axis! What kind of Gaussian goofiness in going on here?” Well, that is partly true. The first Super-Duper Graph of Reality chart shows the probability (x-axis) of where order (y-axis) will be more likely to emerge across the entire spectrum of existence while this one is limited to the spectrum of human perception.  
+
+*Sidenote: This Super-Duper graph is also a bit out of alignment if we consider that the general size of living things on planet earth is pretty much in the middle of the scale between an atom and the size of our sun, which supports the same idea that the most optimum form of expression will exist in the most balanced state between opposing poles if we consider the sun as a major contributing factor in defining the scope of our earthly reality.  As this graph is based on concepts rather then size, we only see a general relationship with size.  Still, given the quark has a size of about 10<sup>-18</sup>m, and a supercluster is around 10<sup>+18</sup>m, our conceptual map is not too far off from the an actual size map.*
 
 If we assume that our perceptions of reality are fairly compatible with reality as it actually exists, then, as probability would have it, we humans happen to be in the part of the spectrum where one would most expect to find life popping up, so, congratulations to us, we're where we are supposed to be... probably.
 
-Because the peak of the curve represents where the most “work” will be done (given the two poles that define the limits of the curve), it is also where energy will most likely be able to form patterns. The peak of the curve also represents the most efficient expression of a holon's purpose and function. If we were electrons instead of humans, our archetypal holon would have the electron in the center, because, as the electron *does* exist, it would naturally occupy that point where its existence is most likely... in the peak of the curve for the electron holon. However, because life forms exist in the peak of the curve from that spans from quark to multiverse, we can speculate that life itself is the primary function of reality and that the consciousness that comes with life being the highest form of expression of life. This is not to say that there are no other forms of life that may excel in this regard, but if there are other forms of life, they will appear within the same range of the curve.
+Because the peak of the curve represents where the most “work” will be done (given the two poles that define the limits of the curve), it is also where energy will most likely be able to form patterns. The peak of the curve also represents the most efficient expression of a holon's purpose and function. If we were electrons instead of humans, our archetypal holon would have the electron in the center, because, as the electron *does* exist, it would naturally occupy that point where its existence is most likely... in the peak of the curve for the electron holon. However, because life forms exist in the peak of the curve that spans from quark to multiverse, we can speculate that life itself is the primary function of reality and that the consciousness that comes with life being the highest form of expression of life. This is not to say that there are no other forms of life that may excel in this regard, especially where radically different contexts may apply, but if there are other forms of life in our corner of the universe, they will most likely appear within the same range of the curve.
 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
@@ -976,26 +972,22 @@ In Dawkins own words<sup>[36](#ref_036)</sup><a name="rev_036">&nbsp;</a>:
 
 > “Memes spread through the culture like genes spread through the gene pool”
 
-This is particularly relevant for two reasons: 1) it specifically addresses, and even defines to some degree, what information is, at least one form of information, and 2) it is compatible with the holarchic model.
+<img src="../Images/032-holongrid.png" style="float:right;width:2.4625in;height:1.79306in" />This is relevant only in how it demonstrates how the concept of a meme can be incorporated into a holarchy. This chart comes from a Velikovsky paper on video games and their potential to increase intelligence.<sup>[37](#ref_037)</sup><a name="rev_037">&nbsp;</a> The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch. It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*. The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object. He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea. In our case, we are defining *Ideas* (capital ‘I'), like forms, as the archetypal blueprint for many instances of ideas. The idea of *“let's make a video game where people have to shoot each other”* is an instance of the Idea *“Individual or tribal competition and survival”*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc. The idea of *“if I sin, I will burn in hell”*, a very resilient and popular meme for thousands of years, is an instance of the Idea *“we are judged harshly by our superiors for being self-serving”*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
 
-<img src="../Images/032-holongrid.png" style="float:right;width:2.4625in;height:1.79306in" />This chart comes from a Velikovsky paper on video games and their potential to increase intelligence.<sup>[37](#ref_037)</sup><a name="rev_037">&nbsp;</a> The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch. It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*. The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object. He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea. In our case, we are defining *Ideas* (capital ‘I'), like forms, as the archetypal blueprint for many instances of ideas. The idea of *“let's make a video game where people have to shoot each other”* is an instance of the Idea *“Individual or tribal competition and survival”*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc. The idea of *“if I sin, I will burn in hell”*, a very resilient and popular meme for thousands of years, is an instance of the Idea *“we are judged harshly by our superiors for being self-serving”*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
+The holarchy examples shown above are portrayed as 2-dimensional bifurcating trees, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc. Each holon has its own parameters, laws, context, etc., and each holon, therefore, has its own Bell chart that shows where it is best suited to “work”, such as the Bell chart of the human eye sensitivity, which would be one holon of “human eye”.
 
-The holarchy examples shown above is portrayed as being a 2-dimensional bifurcating tree, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.
+These bell curves of probability are not shown, or even defined, in the holarchic model. The reason for that is because the holarchic model does not have the concept of a duality. As a result, the holarchy cannot show how the Bell curve of a holon is made up of the integrated aggregate of the Bell curves of its partons within the context of the holon. It does show the parameters of the holon are defined by its parent, but the ultimate parent of the holon is the Multiverse, which is, in our view, the ‘bottom' of the hierarchy, for reality, as we know it, requires there first exists subatomic particles. In some way, this is like arguing which is the “correct” way to view the earth, but it does play an important role a little later.
 
-Each holon has its parameters, laws, context, etc., and each holon, therefore, has its own Bell chart that shows where it is best suited to “work”, such as the Bell chart of the human eye sensitivity, which would be one holon of “human eye”.
+What happens if we incorporate the ideas of dualities into the holarchy?  Let’s see, but first let’s look at some important concepts behind *structure*.
 
-These bell curves of probability are not shown, or even defined, in the holarchic model. The reason for that is because the holarchic model does not have the concept of a duality. As a result, the holarchy cannot show how the Bell curve of a holon is made up of the integrated aggregate of the Bell curves of its partons, but within the context of the holon. It does show the parameters of the holon are defined by its parent, but the ultimate parent of the holon is the Multiverse, which is, in our view, the ‘bottom' of the hierarchy, as reality as we know it requires there first exists subatomic particles. In some way, this is like arguing which is the “correct” way to view the earth, but it does play an important role a little later.
 
-What happens if we model the duality of *total nothingness* and *total somethingness* with the holarchy?
-
-<div style="page-break-before: always"></div>
 <div style="page-break-before: always"></div>
 STRUCTURE
 =========
 
 ###### Knowledge and information, like form, has a structure which follows the same rules as form.
 
-All of this may sound overly complicated, but the point of everything up until now was to introduce some of the main concepts that we will be returning to, or depending on, as we move forward as well as to touch on the main ideas that lead from the ultimate simplicity of a duality to more complex structures that describe the reality we actually live in.
+All of this may sound overly complicated, but the point of everything up until now was to introduce some of the main concepts that we will be returning to and  depending on as we move forward, as well as to touch on the main ideas that lead from the ultimate simplicity of a duality to more complex structures that describe the reality we actually live in.
 
 It's about to get a lot more complicated. On a practical level, this complexity is no different than how we deal with the physical world in our every-day lives. When you hold a brick in your hand you are holding trillions of atomic particles, with countless interactions, fields, energy levels, etc., but you don't need to know that to build a house of bricks. When you drop the brick and it falls, you're not thinking about the nature of time, gravity, and warped space. Likewise, to manage the “bricks” in the realm of Ideas, you also don't need to know all of the details, but it is helpful if you have an idea of how they generally interact with each other so you don't try and build a “house” made of “bricks” and “oranges”.
 
@@ -1004,20 +996,18 @@ That said; let's touch on one more thing that is truly mind-bendingly complicate
 How Many Dimensions Are There? 
 -------------------------------
 
-When we say something has three dimensions what we are really saying is that something exists within the same multidimensional reality that we exist in, and under the same conditions, has three relative measurements of height, width, and length that indicate the difference between two absolute points.
+When we say something has three dimensions what we are really saying is something that exists within the same multidimensional reality that we exist in, and under the same conditions, has three relative measurements of height, width, and length that indicate the difference between two absolute points.
 
 When we say a nail is two inches long, we are referring to the difference between the universally absolute position of the head of the nail, and the universally absolute position of the tip of the nail, for one axis only. We have no idea what these universally absolute coordinates are, but we assume they are the same for everything in our reality.
 
-In reality an object has many, many dimensions, it's just that the only ones that matter to us are the three we use, because all the other dimensions remain the same (enough) for all things that are in the same system (planet earth, for example).
+An object actually has many, many dimensions, it's just that the only ones that matter to us are the three we use, because all the other dimensions remain the same (enough) for all things that are in the same system (planet earth, for example).
 
-Imagine that the speed of light was 55 miles per hour. If you were stand on the side of a highway, all the cars would look extremely squished, like a few millimeters in length, but the car's mass would also be much larger, so, I guess they would be very large cars that were a few millimeters in length. On top of that, time *inside* those cars would be much slower. In any case, space-time measurements get all weird once we are dealing with two different space-time contexts.
-
-So when I need a part for my car delivered tomorrow that is 1x2x3, when I order it I am confident it will be 1x2x3 and arrive within 24 hours because I assume that whoever I ordered that part from lives in the same reality and context as me, and is not an alien-owned intergalactic warehouse in the 4<sup>th</sup> dimension traveling close to the speed of light near a black hole.
+Imagine that the speed of light was 55 miles per hour. If you were stand on the side of a highway, all the cars would look extremely squished, like a few millimeters in length, but the car's mass would also be much larger. On top of that, time *inside* those cars would be much slower. Space-time measurements would be very strange if we has to deal with two different space-time contexts. Because everything we deal with exists in the same space-time context, when I need a part for my car delivered tomorrow that is 1”x2”x3”, when I order it I am confident it will be 1”x2”x3” and arrive within 24 hours because I assume that whoever I ordered that part from lives in the same reality and context as me, and is not an alien-owned intergalactic warehouse in the 4<sup>th</sup> dimension traveling close to the speed of light through a worm hole.
 
 The classic explanation of a dimension goes something like *“If something has only one dimension you only need one number to know its exact location.”* In the case of 1-dimension, like in the number line below, if there was a dot on number 6, the dot has a dimension of 6.
 
 <center><img src="../Images/035-numnberline.png" style="width:3.01597in;" /></center>
-This is true when, and only when, the position of the measurer and the thing being measured share the same context, as the value of 6 is only relative to that context. If we wanted to give the absolute position of the dot, we would need to include the coordinates of where in the universe that dot exists, which would require the coordinates of who-knows-how-many larger contexts it was in when it was measured it … where on the planet, in the solar system, in the galaxy, in the multiverse, and all of those with the dimension of time, as they are all moving, and even then it would only be relative to the Universe as we know it. So, even a simple 1-dimensional dot can have a lot of absolute dimensions.
+This is true when, and only when, the position of the measurer and the thing being measured share the same context, as the value of 6 is only relative to that context. If we wanted to give the absolute position of the dot, we would need to include the coordinates of where in the universe that dot exists, which would require the coordinates of who-knows-how-many larger contexts it was in when it was measured it … where on the planet, in the solar system, in the galaxy, in the multiverse, and all of those with the dimension of time, as they are all moving, and even then it would only be relative to the Universe as we know it. So, even a simple 1-dimensional dot can have a lot of dimensions when measured in absolutes.
 
 With that in mind, and limiting ourselves to our 3D reality (we'll come back to the multidimensional stuff very soon), what can we say about *things* that are universally common among all of them? Well, we can say at least the following:
 
@@ -1027,14 +1017,13 @@ With that in mind, and limiting ourselves to our 3D reality (we'll come back to 
 
 -   All things are the most efficient form of that specific thing.
 
-<img src="../Images/036-tetrahedron.png" style="FLOAT:RIGHT;width:1.21319in;height:1.21319in" />This last statement might raise a few eyebrows. The claim here is not that any particular thing is the most efficient form of its perfect archetype, but rather the most efficient form for that particular thing under the conditions it exists in any particular moment. A nearly perfect snowball that begins to melt is clearly not the best expression of the archetype of a sphere, but it is the most energy-efficient form that snowball could take, which it *must* take as energy always seeks the path of least resistance.
+<img src="../Images/036-tetrahedron.png" style="FLOAT:RIGHT;width:1.21319in;height:1.21319in" />This last statement might raise a few eyebrows. The claim here is not that any particular thing is the most efficient form of its perfect archetype, but rather the most efficient form for that particular thing under the conditions it exists in any particular moment. 
 
-If these statements are true, then this would imply that the most primitive thing that can exist, the simplest form possible, is the tetrahedron. Why? Because it is the most efficient form that can exist, it has 3 dimensions, but it is *not* made up of other things because when you remove any one point, it collapses to 2 dimensions, and no *thing* can be 2D. Therefore, it must the very first *thing* to come into existence, at least conceptually speaking.
+If these statements are true, then this would imply that the most primitive thing that can exist, the simplest and most efficient form possible, is the tetrahedron. It has 3 dimensions, but it is *not* made up of other things because when you remove any one point, it collapses to 2 dimensions, and no *thing* can be 2D. Therefore, it must the very first *thing* to come into existence, at least conceptually speaking.
 
 As a pattern of order, it *is* one of the first to appear. In its most obvious form, we see this structure when we stack spheres on top of one another. If we stack other shapes, the structure will be altered to the degree the shape is not a sphere, but the tendency for all things that are connected to each other will be to form a tetrahedral structure to the degree the shape of the things connected will allow.
 
-If the tetrahedron is the first thing that can be created, this would suggest also that every *thing* that exists is ultimately made of these smallest *things* (conceptually speaking), but that is a radical departure from our current thinking…but, not *that* radical a departure as this is exactly what *Emergence Theory: A Theory of Pixelated
-Spacetime”*<sup>[38](#ref_038)</sup><a name="rev_038">&nbsp;</a> claims as well (more on that in a moment).
+If the tetrahedron is the first thing that can be created, this would suggest also that every *thing* that exists is ultimately made of them, and that they are the smallest *thing* that can exist (again, conceptually speaking).  This might sound like a radical departure from our current thinking, it not *that* radical a departure as this is exactly what *Emergence Theory: A Theory of Pixelated Spacetime”*<sup>[38](#ref_038)</sup><a name="rev_038">&nbsp;</a> claims as well (more on that in a moment).
 
 On the Small Side
 -----------------
@@ -1056,9 +1045,9 @@ What about something that is 5D, or 6D or 7D? Each one would be bigger by an ord
 Crystal Power
 -------------
 
-So, there's this magic 248-dimensional crystal (actually, its 8 dimensional with 248 symmetries, but as an algebraic expression it is considered to have 248 dimensions… at least that is what I am told), called the *E8 crystal*, and this reality of ours is (presumably) but a number of 3D refractions of energy created by the various facets of this crystal that are cast upon the 3D canvas of the void that is our universe from the higher dimensions of magic-crystal-land.
+So, there's this magic 248-dimensional crystal… actually, it’s 8 dimensional with 248 not-necessarily-spatial dimensional symmetries, but as an algebraic expression it is considered to have 248 dimensions (at least that is what I am told)… called the *E8 crystal*, and this reality of ours is (presumably) but a number of 3D refractions of energy created by the various facets of this crystal that are cast upon the 3D canvas of the void that is our universe from the higher dimensions of magic-crystal-land.  As modern as this sounds, this was first proposed in the late 1800s, but it has only been recently that we have the computing power ti give it a test drive.
 
-This sounds pretty compatible with the Simulation Hypothesis. I wonder if they know about each other? It also sounds crazy, I know, but, it's a real thing. Just do a search for “*emergence theory tetrahedron”* and *“The theory of everything quantum symmetry E8 lattice”* and browse through the million-plus links that discuss it in painful detail… emphasis on the *painful* part, because most of the content is unintelligible to those not intimately familiar with the algebra of differentiable manifolds, quantum gravity and a bunch of other stuff I don't even know how to reference. However, it's not important to know for our purposes.
+This sounds pretty compatible with the Simulation Hypothesis. I wonder if they know about each other? It also sounds crazy, I know, but, it's a real thing. Just do a search for “*emergence theory tetrahedron”* and *“The theory of everything quantum symmetry E8 lattice”* and browse through the million-plus links that discuss it in painful detail… emphasis on the *painful* part, because most of the content is unintelligible to those not intimately familiar with the algebra of differentiable manifolds, quantum gravity and a bunch of other stuff I don't even know how to reference. However, that is not important to know for our purposes.
 
 It should be stated that this theory is not accepted by all, and some scientists are definitely in the “swarming with worms of heretical perversity” camp regarding magic crystal of reality. I don't have any opinion about Emergence Theory (ET) other that it sounds fascinating, mainly because I am not qualified to have an opinion. The only reason it is being mentioned is because ET supports many of the claims that are made here, which were arrived at with no knowledge of ET.
 
@@ -1071,8 +1060,7 @@ As you can see, the whole space-time part of the E8 lattice is just a small part
 
 The most significant aspect of *Emergence Theory* (for us) is their claim that…
 
-> …all of reality is made of information. What is information? Information is meaning conveyed by symbols. Languages and codes are groups of such symbols that convey meaning. The various possible arrangements of these symbols are governed by
-> rules.<sup>[40](#ref_040)</sup><a name="rev_040">&nbsp;</a>
+> …all of reality is made of information. What is information? Information is meaning conveyed by symbols. Languages and codes are groups of such symbols that convey meaning. The various possible arrangements of these symbols are governed by rules.<sup>[40](#ref_040)</sup><a name="rev_040">&nbsp;</a>
 
 Here are a couple of beautiful images of the countless faces of the magic E8 crystal to ponder.<sup>[41](#ref_041)</sup><a name="rev_041">&nbsp;</a>
 
@@ -1091,23 +1079,19 @@ Here we have a duality that encompasses the entire spectrum of 3D reality, at le
 The Structure of Knowledge
 --------------------------
 
-How does this relate in any way to holarchies?
+Now we can begin to integrate dualities into the holarchy.
 
-Subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms.
-
-Information is structured data, knowledge is structured information, and ideas are structured knowledge.
+#### **Claim 39a:** Just as subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms, information is structured data, knowledge is structured information, and ideas are structured knowledge.
 
 #### **Claim 40:** The concept of a thing and the thing itself are the same things on two different level of order. 
 
-<img src="../Images/041-holons-to-tree.png" style="float:left;width:2.60833in;height:2.65694in" />Both of these scopes of matter and ideas represent how a form of pure energy in its chaotic state is converted into order using the same laws as they apply to the relevant contexts of their scope. In one case energy is ordered and expressed as matter and in the latter case as concepts. This is how it relates to holarchies, as holarchies can map not only the naturally occurring hierarchy of the concepts of *reality* (atoms, plants, people, etc.) but also the concept of *concepts* (domains of science, religions, culture, etc.).
+<img src="../Images/041-holons-to-tree.png" style="float:left;width:2.60833in;height:2.65694in" />Both of the scopes of matter and ideas represent how a form of pure energy in its chaotic state is converted into order using the same laws as they apply to the relevant contexts of their scope. In one case energy is ordered and expressed as matter and in the latter case as concepts. This is how it relates to holarchies, as holarchies can map not only the naturally occurring hierarchy of the concepts of *reality* (atoms, plants, people, etc.) but also the concept of *concepts* (domains of science, religions, culture, etc.).
 
 If we applied our ideas regarding duality to the holarchy it would look something like this graph: We start with a concept (*xy<sub>0</sub>*), followed by its thesis (*y<sub>1</sub>*), which creates its antithesis (*x<sub>1</sub>*). Within this duality arises the synthesis that acts as the seed for a new concept (*xy<sub>1</sub>*). The holarchy can only accommodate the yellow (gray, if viewing in b&w) concepts as it has no model of a concept being born within a duality.
 
 This graph only shows one instance per duality, but there could be many, many instances for each duality, the occurrence of which conform to the Bell curves as defined by the *x<sub>n</sub>* and *y<sub>n</sub>* limits of each new pair.
 
-Some readers might recognize this graph as looking very similar to the mystical Kabbalah, the Tree of Life, as it is also called, that has its roots in ancient Sumer.
-
-There was no intention to arrive at such a comparison, but these similarities naturally arise whenever we are using reason to explain how reality works. Any system that has order will follow a pattern, and we can see these same patterns over and over again, from the electron to the galaxy, from flowers to computer networking. Our explanations of how realities work, whether we believe it was created by God in six days, or it's all a very sophisticated holographic projection, will have the same patterns of reasoning, albeit with different interpretations of the significance of those patterns.
+Some readers might recognize this graph as looking very similar to the mystical Kabbalah, or the Tree of Life, as it is also called, which has its roots in ancient Sumer. There was no intention to arrive at such a comparison, but these similarities naturally arise whenever we are using reason to explain how reality works. Any system that has order will follow a pattern, and we can see these same patterns over and over again, from the electron to the galaxy, from flowers to computer networking. Our explanations of how realities work, whether we believe it was created by God in six days, or it's all a very sophisticated holographic projection, will have the same patterns of reasoning, albeit with different back-stories and interpretations of the significance of those patterns.
 
 <center><img src="../Images/042-related-patterns.png" style="width:90%" /></center>
 Knowledge by any other name
@@ -1123,53 +1107,54 @@ The story of the I Ching and Gottfried Wilhelm von Leibniz, the inventor of di
 
 ### Leibniz
 
-When the Jesuits, reputed to be the intellectuals among Christian missionaries, traveled to China, they were fascinated by the I-Ching. So much so that they brought it back to Europe in the late 1600s. It was here that Leibniz saw the I-Ching and claimed it to be sent by God.<sup>[42](#ref_042)</sup><a name="rev_042">&nbsp;</a>
+When the Jesuits, reputed to be the intellectuals among Christian missionaries, traveled to China, they were fascinated by the I-Ching. So much so that they brought it back to Europe in the late 1600s. It was here that Leibniz saw the I-Ching and claimed it to be sent to him by God.<sup>[42](#ref_042)</sup><a name="rev_042">&nbsp;</a>
 
 Just prior to seeing the I-Ching, Leibniz had developed (discovered?) a number system that he considered sacred. It was the binary system of 0s and 1s, much like the Yin/Yang of the I-Ching. It was of no practical use to anyone at the time, but that was not why he developed it. Leibniz, a very pious man, thought that if all values could be expressed in terms of only something and nothing, on and off, yes and no, positive and negative, etc., then truly, this would be the language of life, for, as he thought, God the Creator was represented as 1, while the void was represented as 0.
 
-At the same time, he was inventing this *divine math* meant to explore the hidden secrets of reality, he was inventing the first mechanical calculator suitable not only for addition and subtraction but for multiplication as well. His dream was to make a logical thinking
-device.<sup>[43](#ref_043)</sup><a name="rev_043">&nbsp;</a>
+At the same time he was inventing this *divine math* meant to explore the hidden secrets of reality he was also inventing the first mechanical calculator suitable not only for addition and subtraction but for multiplication as well. His dream was to make a logical thinking device.<sup>[43](#ref_043)</sup><a name="rev_043">&nbsp;</a>
 
-Leibniz was creating tools for exoteric and esoteric understanding, both based on the same logic, but giving two very different answers.
+Leibniz was creating tools for exoteric and esoteric understanding, both based on the same logic, but within two very different contexts.
 
 Some years later, in the middle of the 20th century, a group of modern-day holy men from the western world (called scientists), were building the first digital computer. To synopsize the entire digital revolution into one paragraph, imagine one of these gurus saying: “I've got an idea. Let's develop a component that will act as a conductor when a certain amount of voltage is passed through it, and an insulator when no voltage is passed through it. We will call this component a ‘gate'. Because this gate can only respond to one of two states, high or low voltage, yes or no, so to speak, which represents the most basic principles of reasoning, we will call it a ‘logic gate.' Any problem that can be reduced into so many yes-or-no conditions can be calculated by these logic gates. We can use the numbers 1 and 0 to represent these states. Because the heart of these electronic machines will be made up of these yes-or-no circuits, we will call them ‘*digital circuits.”* … and the digital computer as we know it today was invented.
 
 If Leibniz was alive today to see his sacred binary math of 1s and 0s being used to usher in the greatest transformation of knowledge ever known to Man he would recognize it as both a tool of practical use as well as a tool of great esoteric potential, a key to the secret knowledge he was looking for.
 
-This story of Leibniz's divine math as well as his simultaneous discovery of calculus, which was shared with Isaac Newton, lends some credence to the hypothesis that ideas are the leading expressions of the same forces that brought life, the universe and everything into being, and as such, they have a life of their own and their own intelligence. We like to think we come up with ideas, but perhaps this is no truer than a flower ‘deciding' to change colors when exposed to more light, or a river ‘deciding' to change course because the wolf population has
-increased.<sup>[44](#ref_044)</sup><a name="rev_044">&nbsp;</a>
+This story of Leibniz's divine math as well as his simultaneous discovery of calculus, which was shared with Isaac Newton, lends some credence to the hypothesis that ideas are the leading expressions of the same forces that can eventually instantiate as things, forces that have an intelligence of their own. We like to think we come up with ideas, but perhaps this is no truer than a flower ‘deciding' to change colors when exposed to more light, or a river ‘deciding' to change course because the wolf population has increased.<sup>[44](#ref_044)</sup><a name="rev_044">&nbsp;</a>
 
-Although currently not a mainstream theory, the understanding that Ideas are more like expressions of living intelligences that we have a symbiotic relationship with is currently alive and well, and has been around for thousands of years. Traditionally these forms of intelligence and intention were anthropomorphized into deities, angels, demons, spirits, etc., and it was understood that we use them for our purposes, noble and otherwise, and they use us for their purposes, noble or otherwise. Today we have new, evidenced based hypotheses of this same concept in the forms of panpsychism, morphic fields, collective (un)consciousness, Universal mind, etc.
+Although currently not a mainstream theory, the understanding that Ideas are more like expressions of living intelligences that we have a symbiotic relationship with is currently alive and well, and has been around for thousands of years. Traditionally these forms of intelligence and intention were anthropomorphized into deities, angels, demons, spirits, etc., and it was understood that we use them for our purposes, noble and otherwise, and they use us for their purposes, noble or otherwise. Today we have new, evidenced based hypotheses of this same concept in the forms of panpsychism, morphic fields, collective (un)consciousness, Universal mind, etc. From this perspective, all forms of life are simply instances of various Ideas.
 
-From a one perspective, all forms of life are simply instances of various Ideas.
+One of the fundamental differences in how similar concepts evolve over time is in what and how structure is applied to the idea. Take, for example, the idea of the biblical creation story vs. reality-as-a-simulation hypothesis. We can see by their similarity that they are clearly the same concept, but one filtered and defined through the belief structures of Judeo-Christian doctrine and the other through the structure of reasoning of modern science.
 
-One of the fundamental differences in how similar concepts evolve over time is in what and how structure is applied to the idea. Take for example the idea of the biblical creation story vs. reality-as-a-simulation hypothesis. We can see by their similarity that they are clearly the same concept, but one filtered and defined through the belief structures of Judeo-Christian doctrine and the other through the stricture of reason that is modern science.
+The above was a somewhat circuitous route to get to this point of looking at knowledge as a form of structured information, and how it is not only the basis of reason but the basis of existence as well.  It was stated before that the tetrahedron is the most fundamental concept of form, which we all agree on. We are going a step further here and also claiming that the tetrahedron is also the structure that information takes when it forms knowledge.
 
-The above was a somewhat circuitous route to get to this point of looking at the most fundamental structure of knowledge that is not only the basis of reason but the basis of existence as well.
+How would we begin to test such an idea?  We can start in the same way we would test the idea of a tetrahedron, by deconstructing it into its even more basic component, the triangle, and if we can discover a triangle, we can form a tetrahedron.
+
+Let’s look as some example of how we can identify conceptual trinities in systems of knowledge and/or information.
 
 ### Language
 
 In the realm of ideas, the most important tool that man has deployed has been language. Language transmits the reasoning behind ideas; it is how ideas evolve, how they are destroyed and how they defend themselves (which, according to Dawkins, they do, as he explains in his book “The Selfish Gene”). As such, we would expect to see language embedded with the same structure as that of ideas and concepts.
 
-Humans are sort of stuck with the language we have been using for thousands of years, and if we were to (and when we do) invent a new language today it would look radically different.
+Humans are sort of stuck with the language we have been using for thousands of years, and if we were to (and when we do) invent a new language it would look radically different.
 
-In 1968, Aristid Lindenmayer, a Hungarian theoretical biologist, and botanist at the University of Utrecht designed a symbolic language call *L-system* that incorporated various symbols that were bound by a set of rules. He developed this language as a way to model and describe the behavior of plants and a variety of other organisms<sup>[45](#ref_045)</sup><a name="rev_045">&nbsp;</a>. The philosophy and architecture of the language were based on the observed logic of growth, i.e. life. Not coincidently, this language describes self-similar systems. This is the language of the future, but sadly, only for our digital offspring, at least not until we do some major rewiring upstairs.
+In 1968, Aristid Lindenmayer, a Hungarian theoretical biologist, and botanist at the University of Utrecht designed a symbolic language call *L-system* that incorporated various symbols that were bound by a set of rules. He developed this language as a way to model and describe the behavior of plants and a variety of other organisms<sup>[45](#ref_045)</sup><a name="rev_045">&nbsp;</a>. The philosophy and architecture of the language were based on the observed logic of growth, i.e. life. Not coincidently, this language describes self-similar systems. This is the language of the future, but sadly, only for our digital offspring, at least not until we do some major gray matter rewiring upstairs.
 
 <center><img src="../Images/043-l-system-trees.png" style="width:5.52778in" alt="frac-trees.png" /></center>
-Still, human language is surprisingly efficient and still manages to function with the same structure that naturally exists in ideas and concepts. Its efficiency is not so much in how language itself evolved, but our brain's ability to apply context and instantly run through many interpretations of words and sentence structure until it finds the most applicable interpretation.
+Granted, L-System language is mainly used as a model language, but not only does it have an alphabet, grammatical roots and rules, like human language, it can model human language <sup>[160](#ref_160)</sup><a name="rev_160">&nbsp;</a>.  This is brought up to show that organically evolved systems that have had to survive the Darwinian battlefield, such as human language, exhibit similar characteristics to the highly ordered, structured, and hierarchical systems that describe life itself. 
+
+Although human language is surprisingly efficient and still manages to function with the same structure that naturally exists in ideas and concepts, its efficiency is not only in how language itself evolved, but our brain's ability to apply context and instantly run through many interpretations of words and sentence structure until it finds the most applicable interpretation.
 
 Take the following sentence:
 
-*I can't untie that knot with one hand.*
+> I can't untie that knot with one hand.
 
-The meanings of words, their order, the context of who is speaking and where they are, and many other details, come into play to turn that sentence into information in our head.
+The meanings of words, their order, the context of who is speaking and where they are, and many other details, come into play to turn that sentence into structured information in our head. It is our language processing software that convert the often messy structure of words into meaningfulness. Were language more structured we might say this sentence as 
 
-But language itself is messy. Were language more structured we might say this sentence as
+> Not \[I \[Able \[\[\[Make \[Not \[Tied\]\]\] \[That knot\]\] \[With One Hand\]\]\]\]
 
-Not \[I \[Able \[\[\[Make \[Not \[Tied\]\]\] \[That knot\]\] \[With One Hand\]\]\]\]
+Although we don't speak this way, this is the more or less how the brain re-patterns the concepts to discern meaning.
 
-There is such a language which was developed to specifically optimize the transmissions of concepts. It's called
-*Ithkuil*<sup>[46](#ref_046)</sup><a name="rev_046">&nbsp;</a>.
+There is such a language which was developed to specifically optimize the transmissions of concepts. It's called *Ithkuil*<sup>[46](#ref_046)</sup><a name="rev_046">&nbsp;</a>.
 
 In Ithkuil, you can say “On the contrary, I think it may turn out that this rugged mountain range trails off at some point.” in the following manner:
 
@@ -1179,8 +1164,7 @@ I doubt we'll be adopting this any time soon.
 
 ### Semantics
 
-Regardless of the language, they all depend on semantics. Semantics is the branch of linguistics and logic concerned with meaning, but there are two kinds of meaning, according to the Theory of
-Meaning<sup>[47](#ref_047)</sup><a name="rev_047">&nbsp;</a>. The first kind is the more common definition of semantics.
+Regardless of the language, they all depend on semantics. Semantics is the branch of linguistics and logic concerned with meaning, but there are two kinds of meaning, according to the Theory of Meaning<sup>[47](#ref_047)</sup><a name="rev_047">&nbsp;</a>. The first kind is the more common definition of semantics.
 
 > The description of possible languages or grammars as abstract semantic systems whereby symbols are associated with aspects of the world. (a more objective view)
 
@@ -1192,13 +1176,13 @@ The *semantic web* is an Internet based project that applies these concepts in a
 
 Take the example of the following sentence:
 
-“Bob is interested in the Mona Lisa.”
+> “Bob is interested in the Mona Lisa.”
 
 To a human, this is information because we know how to parse this sentence into meaning. That is what learning to speak is all about. To a computer, however, it is just a meaningless collection of 1s and 0s.
 
 If we break this sentence up into three parts and define each part in a way that software can understand, then a computer can attempt to find meaning in it. For example, we can tell the computer that we have two “things”, “*Bob”* and “*Mona Lisa”*, and one “relationship”, “*is interested in”*.
 
-With these three data points, three “atoms” or data, we have the simplest form of information, an information “molecule”, so to speak. The “things” are called *objects*, and the “relationship” is called a *predicate*. Together they are called a *triplet*. We may have some other triplets about Bob, such as, he is a person, he is a friend of Alice, etc.… and we can bind these triplets together quite naturally.
+With these three data points, three “atoms” of data, we have the simplest form of information, an information “molecule”, so to speak. The “things” are called *objects*, and the “relationship” is called a *predicate*. Together they are called a *triplet*. We may have some other triplets about Bob, such as, he is a person, he is a friend of Alice, etc.… and we can bind these triplets together quite naturally.
 
 <center><img src="../Images/045-monalisa.jpg" style="width:4.67639in;height:3.125in" alt="example-graph.jpg" /></center>
 Predicates can be just about anything… “lives in”, “has a”, “enjoys”, etc. Objects, however, are part of much larger, more structured hierarchies, much like the holarchies above.
@@ -1206,17 +1190,15 @@ Predicates can be just about anything… “lives in”, “has a”, “enjoys�
 We can graph the previous sentence as well in something like the following:
 
 <center><img src="../Images/046-handknot.png" style="width:2.66667in;height:2.66667in" /></center>
-How does a computer know what *is interested in* or what a *person* is? It doesn't “know” the way you or I know, but it does know that a *person* is a type of *agent*, has a *family name*, a *first name* and that a person *knows things*. So, as far as a computer is concerned, a person is just a dataset with a bunch of specific properties and relationship to other
-datasets.<sup>[48](#ref_048)</sup><a name="rev_048">&nbsp;</a> These definitions and relationships are defined in a hierarchical manner and are called *ontologies*. There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc.… and they can all talk to each other by linking *triplets*
-together*.*<sup>[49](#ref_049)</sup><a name="rev_049">&nbsp;</a>
+How does a computer know what *is interested in* or what a *person* is? It doesn't “know” the way you or I know, but it does know that a *person* is a type of *agent*, has a *family name*, a *first name* and that a person *knows things*. So, as far as a computer is concerned, a person is just a dataset with a bunch of specific properties and relationships to other datasets.<sup>[48](#ref_048)</sup><a name="rev_048">&nbsp;</a> These definitions and relationships are defined in a hierarchical manner and are called *ontologies* (if you recall, this is “the study of that which is” that was originally founded by the mystic, and father of philosophy, Pythagoras). There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc.… and they can all talk to each other by linking *triplets* together*.*<sup>[49](#ref_049)</sup><a name="rev_049">&nbsp;</a>
 
-As you can imagine, very quickly a computer can create millions of connections.
+As you can imagine, a computer can create millions of connections between triplets with little effort and in a very short time.
 
-With all these connections, we can ask the computer typical questions like “*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15 degrees?*” Of course, social media companies, who have their own data that they aggressively collect from their users, can ask questions like “*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*” More worrying are the queries of the near future, such as “*Tell me all the names of people that are likely to commit a crime in the next week.*” That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them. At Stanford University they have developed AI that has a 91% accuracy rate of determining if you are gay or straight<sup>[50](#ref_050)</sup><a name="rev_050">&nbsp;</a>… and that is just the beginning.
+With all these connections, we can ask the computer typical questions like “*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15 degrees?*” Of course, social media companies, who have their own data that they aggressively collect from their users, can ask questions like “*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*” More worrying are the queries of the near future, such as “*Tell me all the names of people that are likely to commit a crime in the next week.*” That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them. At Stanford University they have developed AI system that has a 91% accuracy rate of determining if you are gay or straight<sup>[50](#ref_050)</sup><a name="rev_050">&nbsp;</a>… and that is just the beginning.
 
-The point of this is simply to show that knowledge and information are based on not only concepts of things, but also concepts of how those things relate to one another. This may seem ridiculously obvious to the reader, but some of its implications may not seem so obvious, as we'll see later on.
+Conclusion: Language is based on rules of nature and can be deconstructed into triplets.
 
-#### **Claim 40:** Information has a structure, data does not. 
+#### **Claim 40:** Information has a structure, data does not.  jwfix:move
 
 #### **Claim 41:** Information must relate to something. 
 
@@ -1248,7 +1230,7 @@ Earlier we used Newton's 2<sup>nd</sup> law as an example to show how one law ha
 
 These are not simply three isolated laws, but rather three attributes of a greater phenomenon that describes all matter.
 
-<center><img src="../Images/049-laws-pf-motion.png" style="width:40%" /></center>
+<center><img src="../Images/049-laws-of-motion.png" style="width:40%" /></center>
 *(Later we show why these laws should be in the order of \#3 first, followed by \#1 and then \#2).*
 
 ## Psychology
@@ -1258,18 +1240,22 @@ Again, we see this same structure remarkably represented in the classic reinforc
 Reduction
 ---------
 
-By now you have probably noticed a pattern, that being; every model is reduced to, and therefor based on, a set of three axes. This is not arbitrary as we claim that any system can be reduced to, and described by, a collection of *information primitives* which are called triplets (trigrams). *Knowledge primitives* are structured information primitives and are tetrahedral in concept. Furthermore, we claim that these three primitives are essentially three different perspectives of one hyper-dimensional state that can only be expressed as multiple space-time states. An example of this is how the hyper-dimensional state of electricity (which itself is only one expression of energy out of many) is expressed as four space-time states of volts, ohms, amps, and power, with any three capable of describing the fourth. These 3+1 primitives are represented as a tetrahedron or tholon.  We go even further and claim that the 3+1 dimensions of our reality (X,Y,Z, + time), is itself the most fundamental expression of this same modal.  
+You get the point, that being; every model can be described by a self-similar set of three axis. This is not arbitrary as we claim that any system can be reduced to, and described by, a collection of *information primitives* (triplets or trigrams). From these essentially 2-dimensional *information primitives* (in that they can be described with only three points) we can build *knowledge primitives* that are tetrahedral (3D) in concept. Furthermore, we claim that these three primitives are essentially three different perspectives of one hyper-dimensional state that can only be expressed as multiple space-time states. An example of this is how the hyper-dimensional state of electricity (which itself is only one expression of energy out of many) is expressed as four space-time states of volts, ohms, amps, and power, with any three capable of describing the fourth. These 3+1 primitives are represented as a tetrahedron or tholon.  We go even further and claim that the 3+1 dimensions of our reality (X,Y,Z, + time), is itself the most fundamental expression of this same model.  
+
+##  Reduction
+
+ By now you have probably noticed a pattern, that being; everything is reduced to a set of three axes. This is not arbitrary as we claim that any system can be reduced to, and described by, a collection of *information primitives* which are called triplets (trigrams).  *Knowledge primitives* are structured information primitives and are tetrahedral in concept.  Furthermore, we claim that these three primitives are essentially three different perspectives of one hyper-dimensional state that can only be expressed as multiple space-time states.  An example of this is how the hyper-dimensional state of electricity (which itself is only one expression of energy out of many) is expressed as four space-time states of volts, ohms, amps, and power, with any three capable of describing the fourth. These 3+1 primitives are represented as a tetrahedron, or tholon.
 
 Info-atoms
 ----------
 
-If our premise is that the smallest element of knowledge must conform to the same laws as the smallest elements of form, conceptually speaking, then we need to show how these 2D models, such as the holarchy, fit into a not just a 3D model, but specifically tetrahedral structures that represent “knowledge molecules” with a ordered self-similar hierarchy where each holon is represented as a tetrahedral of information.
+If our premise is that the smallest element of knowledge must conform to the same laws as the smallest elements of form, conceptually speaking, then we need to show how these 2D models, such as the holarchy, fit into a not just a 3D model, but specifically tetrahedral structures that represent “knowledge molecules” with a ordered self-similar hierarchy where each holon is represented as a tetrahedron of information.
 
-Our revised model of hierarchical tetrahedrons will surely look and act differently than a holarchy. To avoid confusion, we'll refer these *tetrahedron holons* as *tholons* (for obvious reasons), and the holarchy and as *thologram* (a combination of *tholon* and *hologram*).
+Our revised model of hierarchical tetrahedrons will surely look and act differently than a holarchy. To avoid confusion, we'll refer these *tetrahedron holons* as *tholons* (for obvious reasons), and the holarchy of tholons as the *thologram*.
 
 #### **Claim 41a:** Every tholon is an archetype. 
 
-We are working from the premise that everything that exists is a product of a stable pattern existing between different states. The simplest concept of such a duality is that of *something* and *nothing*. In the realm of ideas and form, this is very easy to imagine. OK, maybe the idea of a void of absolute nothingness is a bit much to grasp. As for *something,* we don't need to imagine something that represents everything at once, which is not only beyond our ability, but as everything that yet to come into existence, it is impossible. On the contrary, we only need to imagine the simplest form of something, for example, a singular dot. A simple dot on a blank page is a diagram of the model on which this reality, and all knowledge, is based.
+We are working from the premise that everything that exists is a product of a stable pattern existing between different states. The simplest concept of such a duality is that of *something* and *nothing*, although the idea of a void of absolute nothingness is a bit much to grasp. As for *something,* we don't need to imagine something that represents everything at once, which is not only beyond our ability, but as everything has yet to come into existence, it is impossible. On the contrary, we only need to imagine the simplest form of something, for example, a singular dot. A simple dot on a blank page is a diagram of the model on which this reality, and all knowledge, is based.
 
 This simplest of concepts explains the holarchy, tetrahedrons, magic crystals, all the laws of physics and every form of intelligence in existence.
 
@@ -1290,7 +1276,9 @@ The simplest way we can describe this process of emergence from a dot to everyth
 From the tholonic perspective, this is a very incomplete description because it considers any point to be just like any other point, but they are not the same, as each point has very different attributes. If we ignore those attributes, we are blind to what geometry can show us about so much more than shapes.
 
 <center><img src="../Images/051-firstdot.png" style="width:90%" /></center>
-We start with a 0-dimensional *dot* (0 dimensions because nothing yet exists) represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can't be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the idea of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.
+<BETA VERSION EDITS COMPLETED UP TO THIS POINT>
+
+We start with a 0-dimensional *dot* (0 dimensions because nothing yet exists) represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can't be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the idea of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.  This is our first duality of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance between these two states.
 
 This next step requires some philosophical conjecture because we have to ask why/how does a 2<sup>nd</sup> (green), dot appear *(Fig. c2).*
 
@@ -1308,7 +1296,9 @@ Each of these dots is aware of *its* dotness now, not just *a* dotness, because,
 
 As both dots are aware of their own dotness and of the other's dotness they are also aware of where these two opposite awareness's interact. These points of intersecting awareness are the (red) 3<sup>rd</sup> dot and 4<sup>th</sup> dot.
 
-We use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
+We now have the two poles of the first duality that was created within the duality of nothingness and somethingness.  This duality might be described as that of *unlimited awareness/limitation of awareness*, or a number of other possible descriptions depending on what properties one sees the green and red dot to have.  Personally, I see this as subjective/objective awareness, but it would take too many words to explain why, and that is not the point of this writing.  You will find your own if you have the interest to.
+
+ use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
 
 |||
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1521,11 +1511,40 @@ Here we are using the Sierpinski triangle which does not show the ‘negative sp
 
 There is no question that the natural processes of creation for nature follow these patterns, and with a little shift in perspective, for the natural process of creation for ideas as well when we apply this pattern to relationships rather than objects.
 
-So far all we have described is a 2D trigram. Where is the 3D tetrahedron? Remember, the 2D trigrams *are* the 3D tetrahedron, only flat. What happens when we convert this 2D model to 3D?
+## Batteries
+
+<img src="../Images/battery-tetrahedron.png" style="float:right;width:50%" />With this model in mind, let’s briefly jump back to the examples of deconstruction mentioned above. An example of how any system can be reduced to a tholon is presented in an extremely niche, but insightful article on the effectiveness of batteries, titled “The Unfortunate Tetrahedron.”<sup>[161](#ref_161)</sup><a name="rev_161">&nbsp;</a> In this article the author shows how the systems of a simple battery can be modeled as a tetrahedron, and how these fundamental aspects of a system relate to one another.  In this article the author looks at the four aspects of batteries; *energy density*, *power density*, *operating cost* and *capital cost*.   
+
+Where:
+
+**Energy density** is how much energy a battery can store in its mass (like a dam).
+
+**Power density** is how much energy it can deliver relative to its mass (like the turbines in a dam).
+
+**Capital cost** is the cost of the battery.
+
+**Operating cost** is the cost to recharge the battery, and costs associated with keeping it safe.
+
+From this model we have four trigrams:
+
+<center><img src="../Images/battery-ohmslaw.png" style="width:80%" /></center>
+<img src="../Images/battery-2dmap.png" style="float:left;width:50%" />We can equate **E** with an *N-source*, **P** as a *defining* point, **C** as a *contributing* point, which makes **O** the unifying ‘white dot’ point (for brevity’s sake I won’t detail the reasoning behind these associations.  The reader may arrive at a different conclusion).  With this ordering, we end up with the 2D tholon map (right, showing parent and next-gen children).   
+
+ <img src="../Images/battery-ragone-plot.png" style="float:right;width:30%" />According to the article’s own conclusions, the relationship between **E** (energy density) and **P** (power density), which is equivalent to an *N-source* and a *defining* point, is what he refers to as the *Ragone Space*.  The Ragone plot (right) measures the performance comparison of various energy-storing devices.  This chart is a perfect example of the axis of “laws, rules and limits” that connects an *N-space* with a *defining* point in the model of the tholon.   
+
+ On the opposite side, between **C** (capital cost) and **E** (energy density), which is equivalent to a *contributing* point and an *N-source*, we have the tholonic axis of “service”, which I think also fits quite well if you consider giving your money to an organization or person for a product that provides a service a form of “service”.  Remember that the descriptions of “laws” and “service” were specifically meant to apply to the context of our daily lives.  In the realm of economics, production and specifically batteries, that same intention might be describe a bit differently.   
+
+ According to the tholonic model, the only place where a new stable pattern capable of replication can occur is between *define* and *contribute*, which here is **P** (power density) and **C** (capital cost).  Across this spectrum of “cooperation or conflict,” you will have all the various instances of batteries that can deliver power at a cost, most of the instances landing in the middle, representing the best delivery of power at the best cost.  *Power* and *cost* are the two poles, the contracting forces, the thesis and antithesis, of this spectrum.  Here you would have instances like alkaline cell batteries (Duracell), lead-acid batteries (car batteries), nickel-cadmium batteries (rechargeable batteries), etc., etc.  Each of these new instances (stable patterns), can then go on to create their own tholonic archetype.   
+
+ As the author relates in his article, which so aptly fits into the tholonic mode as well, “You can have it good, fast or cheap; pick two out of three.”
+
+ I could continue, but you get the point, which is (in case you didn't get the point), the model of the tholon can be used to describe any functional system or functional concept, from global supply chains to human language to batteries.   
 
 ### 2D to 3D
 
-<img src="../Images/067-2d-3d.png" style="float:right;width:2.82986in;height:1.35833in" />If we take the parent trigrams and fold it according to its four children, we get a tetrahedron. This is a complete tholon or *tholonic structure*. Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state of all the properties involved.
+<img src="../Images/067-2d-3d.png" style="float:right;width:2.82986in;height:1.35833in" />So far all we have described is a 2D trigram. Where is the 3D tetrahedron? Remember, the 2D trigrams *are* the 3D tetrahedron, only flat. What happens when we convert this 2D model to 3D?
+
+If we take the parent trigrams and fold it according to its four children, we get a tetrahedron. This is a complete tholon or *tholonic structure*. Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state of all the properties involved.
 
 This tetrahedral structure is fundamental to the fabric of our reality and as such we predict that it should act as an efficient receiver or transmitter or energy, among other things. Indeed, such devices have been built that are commonly used in multiband interactions. This class of antennas is called *harmonic Sierpinski gasket antennas*, or *entropy and fractal antennas*. In addition, some rather ‘fringe' research is being done that purports to be able to take advantage of the harmonic quality of these tetrahedral structures to draw (not generate… more like induction) energy from existing fields. I am deliberately not adding any references to this research because, to date, there has been no research that bears up to scrutiny enough to share, however, simply that it is being researched is very exciting.
 
@@ -3109,4 +3128,8 @@ Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystal
 
 <a name="ref_158">158</a> [<span class="reflink"> &#x005e; </span>](#rev_158): In this context the “panopticon” is Foucault’s the more formalized idea of Orwell’s “Big Brother” concept. It was originally an architectural concept that reflects and promotes the principles of power in society at large, and was/is used in institutions where the hierarchy of authority and power must be maintained, such as prisons, schools, factories, corporate offices, etc.
 
-#### <a name="ref_159">159</a> [<span class="reflink"> &#x005e; </span>](#rev_159): Maruyama, Shigenori, and M. Santosh. ***The Earth System and Evolution of Life*.** Dordrecht: Springer, 2015.
+<a name="ref_159">159</a> [<span class="reflink"> &#x005e; </span>](#rev_159): Maruyama, Shigenori, and M. Santosh. **The Earth System and Evolution of Life.** Dordrecht: Springer, 2015.
+
+<a name="ref_160">160</a> [<span class="reflink"> &#x005e; </span>](#rev_160): Goertzel, Ben. **From Complexity to Creativity Explorations in Evolutionary, Autopoietic, and Cognitive Dynamics**. New York: Plenum Press, 1997. Part III, Mathematical Structures in the Mind; Chapter 9, FRACTALS AND SENTENCE PRODUCTION; Section 2,  L-Systems.
+
+<a name="ref_161">161</a> [<span class="reflink"> &#x005e; </span>](#rev_161): @steingart. 	 Dan Steingart “**The Unfortunate Tetrahedron.**” Medium, The 	Unfortunate Tetrahedron, 30 May 2017, 	https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.

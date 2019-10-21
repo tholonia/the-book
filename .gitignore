@@ -20,3 +20,5 @@ Latest/THOLONIA_THE_BOOK.epub
 Latest/THOLONIA_THE_BOOK.html
 /.jekyll-metadata 
 /.jekyll-cache
+docs/.rubocop.yml
+docs/.travis.yml
