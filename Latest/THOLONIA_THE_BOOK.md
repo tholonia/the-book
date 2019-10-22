@@ -1,6 +1,6 @@
 <center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
 <div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!mar 22 oct 2019 17:32:59 EDT v.0.6.52}
+DRAFT - Version Alpha {!mar 22 oct 2019 17:53:03 EDT v.0.6.54}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1596,11 +1596,10 @@ If we had used the simplest thologram possible in our example, using only 1<sup>
 
 Another fascinating pattern expressed in the thologram is the value for Pi π (3.14159) can be determined by alternatively adding and subtracting the inverse of the total number of N-sources for all the real and virtual tholons for each generations (which produces a series of sequential odd numbers; 1,3,5,7,etc).  This was originally discovered by Leibniz and is appropriately called the *Leibniz formula for π*, as shown below.
 
-![{\displaystyle 1\,-\,{\frac {1}{3}}\,+\,{\frac {1}{5}}\,-\,{\frac {1}{7}}\,+\,{\frac {1}{9}}\,-\,\cdots \,=\,{\frac {\pi }{4}}.}](https://wikimedia.org/api/rest_v1/media/math/render/svg/fab3e3e4febf987b57159d81fd47995fb0af1240)
-
+<center><img src="../Images/leibnix-pi.png" style="height:.6in" /></center>
 There one last point to consider is best explained in the following thought exercise: Imagine what you would see if you were a 2D person living in a 2D world and an object passed through your 2D reality. You would see a bunch of 2D slices of that object that changed over time.
 
-<img src="../Images/073-flatland.png" style="width:5.75in;height:1.70417in" />
+<center><img src="../Images/073-flatland.png" style="width:5.75in;height:1.70417in" /></center>
 Now imagine you are a 3D person living in a 3D world (which should be pretty easy to do) and a 4D object passes through. You will see 3D ‘slices' of this 4D object over time as it passes through you w 3D world. For example, if a 4D ball passed through a 3D world it would first appear as a very tiny 3D ball, and then grow to a large ball, then shrink to a small ball before disappearing.
 
 In both 2D and 3D cases, you are not getting the whole picture, but in both cases what you are getting is completely true and valid for the context of your 2D or 3D reality.
@@ -1645,9 +1644,9 @@ He explains how the points and the lines of a tetrahedron (60-degree coordinates
 
 The math he proposes is, according to him, based on the reality of empiricism, seeing as that all atoms are made of tetrahedrons, octahedrons, rhombic dodecahedrons, and cube. Using this synergetic math, we have a coordinate system that works omnirationally, energetically, arithmetically, geometrically, chemically, volumetrically, crystallographically, vectorially, topologically, and energy-quantum-wise.<sup>[53](#ref_053)</sup><a name="rev_053">&nbsp;</a>
 
-All these forms, such as cubes, hexagons, tetragons, rhombohedra's, orthorhombics, or truncated icosahedrons, which is commonly known as the *Bucky Ball*, or, when in atomic form, *Buckminsterfullerene* (basically, it's a soccer ball),  and perhaps all forms, are created by tetrahedrons, 
-<img src="../Images/077-tform1.png" style="width:0.325in;height:0.37153in" alt="Cubic-body-centered.svg" /><img src="../Images/078-tform2.png" style="width:0.39583in;height:0.40833in" alt="Hexagonal.svg" /><img src="../Images/079-tform3.png" style="width:0.325in;height:0.49028in" alt="Tetragonal.svg" /><img src="../Images/080-tform4.png" style="width:0.34167in;height:0.34722in" alt="Rhombohedral.svg" /><img src="../Images/081-tform5.png" style="width:0.325in;height:0.42292in" alt="Orthorhombic.svg" /> <img src="../Images/082-soccorball.png" style="width:0.52014in;" />
+All these forms, such as cubes, hexagons, tetragons, rhombohedra's, orthorhombics, or truncated icosahedrons, which is commonly known as the *Bucky Ball*, or, when in atomic form, *Buckminsterfullerene* (basically, it's a soccer ball),  and perhaps all forms, are created by tetrahedrons.
 
+<center><img src="../Images/cubes-shapes.png" style="height:0.67153in" /></center>
 The thologram, which is based entirely on the tetrahedron and quadray coordinates, is a model of knowledge, thought, and ideas. It's important to remember that the map is not the territory. These models of reality are like maps that describe the terrain. There are elevation maps, density maps, road maps, water maps, contour maps, temperature maps, population maps, economy maps, crime maps, San Francisco even has human feces maps! They all describe the same territory from different perspectives. The thologram is just one template that is a description, so to speak, a language that defines the organization and pattern of all energy at every level.
 
 <img src="../Images/083-3cubeprob.png" style="float:right;width:2.27847in;height:1.175in" />There are many alternative ways to map the thologram. What is shown here is just one way. How many ways are there? I don't know, but the extremely simple *three square geometry problem* (what is the total of the angles *α*, *β*, *γ*?) has 54 possible solutions, and that is just with three simple squares (the answer is 90 degrees)!
