@@ -22,3 +22,5 @@ Latest/THOLONIA_THE_BOOK.html
 /.jekyll-cache
 docs/.rubocop.yml
 docs/.travis.yml
+Images/Thumbs.db
+Images/Thumbs.db:encryptable

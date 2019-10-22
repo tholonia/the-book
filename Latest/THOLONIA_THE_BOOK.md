@@ -1,6 +1,6 @@
 <center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
 <div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!lun 21 oct 2019 00:47:24 EDT v.0.6.44}
+DRAFT - Version Alpha {!lun 21 oct 2019 22:56:38 EDT v.0.6.48}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1081,7 +1081,7 @@ The Structure of Knowledge
 
 Now we can begin to integrate dualities into the holarchy.
 
-#### **Claim 39a:** Just as subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms, information is structured data, knowledge is structured information, and ideas are structured knowledge.
+#### **Claim 39a:** Just as subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms, information is structured data, knowledge is structured information, and ideas are structured knowledge. Information has a structure, data does not.
 
 #### **Claim 40:** The concept of a thing and the thing itself are the same things on two different level of order. 
 
@@ -1198,8 +1198,6 @@ With all these connections, we can ask the computer typical questions like “*H
 
 Conclusion: Language is based on rules of nature and can be deconstructed into triplets.
 
-#### **Claim 40:** Information has a structure, data does not.  jwfix:move
-
 #### **Claim 41:** Information must relate to something. 
 
 Supply Chain
@@ -1276,47 +1274,43 @@ The simplest way we can describe this process of emergence from a dot to everyth
 From the tholonic perspective, this is a very incomplete description because it considers any point to be just like any other point, but they are not the same, as each point has very different attributes. If we ignore those attributes, we are blind to what geometry can show us about so much more than shapes.
 
 <center><img src="../Images/051-firstdot.png" style="width:90%" /></center>
-<BETA VERSION EDITS COMPLETED UP TO THIS POINT>
+We start with a 0-dimensional dot represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can't be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the *idea* of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.  This is our first duality, that of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance.
 
-We start with a 0-dimensional *dot* (0 dimensions because nothing yet exists) represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can't be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the idea of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.  This is our first duality of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance between these two states.
+#### **Claim XX:** The tholonic definition of energy is “the balancing of an ever bifurcating awareness in accordance with the laws of duality.”
 
 This next step requires some philosophical conjecture because we have to ask why/how does a 2<sup>nd</sup> (green), dot appear *(Fig. c2).*
 
-If we accept the premise that everything that is created has the attributes of, and limitations of, whatever created it, then, the answer is clear and simple. As this lone imaginary dot in the middle of infinite nothingness only exists as an awareness of the concept of a point in the middle of infinite nothingness, the attribute this point *can* have is … awareness.
+If we accept the premise that everything that is created has the attributes of, and limitations of, whatever created it, then, the answer is clear and simple. As this lone imaginary dot in the middle of infinite nothingness only exists as an awareness of the concept of a point in the middle of infinite nothingness, the only attribute this point *can* have is … awareness, as that is what it was created from.
 
 There is one more attribute it has as well that is far less obvious, and that is *intention*, because whatever awareness conceived of a point in nothingness had to have the intention to conceive if it. So, our point in the middle of infinite nothingness has two attributes; awareness and intention.
 
 This may sound like we're teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
 
-#### **Claim XX:** The tholonic definition of energy is “the balancing of an ever bifurcating awareness in accordance with the laws of duality.”
-
-So, our first dot has two attributes, awareness and intention, and one limitation of 0-dimensions. This dot then is itself a form of awareness and being so, it will be aware of the existence of *dotness*, not *its dotness*, just *a dotness*. Just as the awareness of a conceptual point created the first dot, the first dot's awareness of dotness is what creates the 2<sup>nd</sup> (green) dot, and in doing so, creates the 1<sup>st</sup> instance of a dimension. With two dots, we now have a relationship between them as shown by a line *(Fig. c3)*.
+So, our first dot has two attributes, awareness and intention, and the limitation of 0-dimensions. This dot then is itself a form of awareness and being so, it will be aware of the existence of *dotness*, not *its dotness*, just *a dotness*. Just as the awareness of a conceptual point created the first dot, the first dot's awareness of dotness is what creates the 2<sup>nd</sup> (green) dot, and in doing so, creates the 1<sup>st</sup> instance of a dimension. With two dots, we now have a relationship between them as shown by a line *(Fig. c3)*.
 
 Each of these dots is aware of *its* dotness now, not just *a* dotness, because, with the existence of the other dot, each dot now has a center of its awareness *(Fig. c4)*, and the other dot defining its opposite and the limits of its awareness *(Fig. c5)*.
 
-As both dots are aware of their own dotness and of the other's dotness they are also aware of where these two opposite awareness's interact. These points of intersecting awareness are the (red) 3<sup>rd</sup> dot and 4<sup>th</sup> dot.
+As both dots are aware of their own dotness and of the other's dotness they are also aware of where these two opposite awareness's, one subjective and one objective, interact. These points of intersecting awareness are the (red) 3<sup>rd</sup> dot and 4<sup>th</sup> dot.
 
-We now have the two poles of the first duality that was created within the duality of nothingness and somethingness.  This duality might be described as that of *unlimited awareness/limitation of awareness*, or a number of other possible descriptions depending on what properties one sees the green and red dot to have.  Personally, I see this as subjective/objective awareness, but it would take too many words to explain why, and that is not the point of this writing.  You will find your own if you have the interest to.
-
- use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
+We now have the two poles of the first duality that was created within the duality of nothingness and somethingness.  This duality might be described as that of *unlimited awareness/limitation of awareness*, or a number of other possible descriptions depending on what properties one sees in the green and red dots.  We will use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
 
 |||
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|<img src="../Images/dot-blue.png" style="width:220px;float:left"/>| The 1<sup>st</sup> dot. The blue dot represents the initial or parent dot that has no ability to create dimension and exists only as a concept of awareness. This is the dot that defines the simplest form of existence.. |
-|<img src="../Images/dot-green.png" style="width:220px;float:left"/>| The 2<sup>nd</sup> dot. The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot. This dot can add 1 dimension a 0-dimension and defines separation and division. This dot also defines the idea of self-awareness as a result of a state of awareness with respect to another state of awareness. |
-|<img src="../Images/dot-red.png" style="width:220px;float:left"/>| The 3<sup>rd</sup> dot. The red dots represent where the blue dot and the green dot connect. These are always created in pairs and represent the opposite states of blue dot-green dot interactions. This dot can add 1 dimension to an existing 1-dimensional space and defines scope and area as a result of the union.|
+|<img src="../Images/dot-blue.png" style="width:220px;float:left"/>| The 1<sup>st</sup> blue dot represents the initial or parent dot that has no ability to create dimension and exists only as a concept of awareness before there even exists the concept of subjective or objective. This is the dot that defines the simplest form of existence as pure awareness. |
+|<img src="../Images/dot-green.png" style="width:220px;float:left"/>| The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot. This dot can add 1 dimension to 0-dimensions and defines separation and division, creating the conditions of subjective and objective, and consequently the idea of self-awareness as a result of a state of awareness with respect to another state of awareness. |
+|<img src="../Images/dot-red.png" style="width:220px;float:left"/>| The 3<sup>rd</sup> red dot represent where the blue dot and the green dot interact. The 3<sup>rd</sup> dot is always created as a pair, one for each of the opposite states of blue dot-green dot interactions. This dot can add 1 dimension to an existing 1-dimensional space and defines the concept of *scope* and *area* as a result of the *union*. |
 
-Now a perfect trigram exists, but so do three others. It seems we can't make just one trigram without three additional trigrams instantly coming into existence, and this applies to the additional trigrams as well. Instantly we have an infinite loop of self-similarity. From the tholonic perspective, the instantiation of this concept of instant expansion was experienced when an atom-sized point representing all matter in existence instantly expanded to fill the universe, at least according to the Big Bang Theory.
+Now a perfect trigram exists, but so do three others. It seems that from here on we can't make just one trigram without three additional trigrams instantly coming into existence. Instantly we have an infinite loop of self-similarity. From the tholonic perspective, the instantiation of this concept of instant expansion was experienced when an atom-sized point representing all matter in existence quickly expanded to fill the universe, at least according to the Big Bang Theory.
 
-This ever-expanding conceptual model, however, is imprisoned in the 2D world forever because even though it can make an infinite number of 2D dots, it cannot make a new 3D dot. Why can't the same process that was used to create 2D from 1D be used to create 3D from 2D, by just creating another dot with another dimension?
+This ever-expanding conceptual model, however, is imprisoned in the 2D world forever because even though it can make an infinite number of dots in the 2D plane, it cannot make a new dot that expands itself into the 3D plane. Why can't the same process that was used to create 2D from 1D be used to create 3D from 2D, by just creating another dot with another dimension?
 
 The reason is as follows: There can only be three types of dots in the 2D world because that is the minimum number of dots required to define an area. If we added a new 4<sup>th</sup> type of dot that was also constrained to the 2D world, whatever area it creates could be defined using three dots just as well, so, this 4<sup>th</sup> dot adds no new information and is useless. We need a completely new type of dot that is compatible with all three types of dots.
 
-Not surprisingly, the trigrams have already given us the answer with the following two clues. The first clue is that the creation of one trigram implies the creation of three additional opposite or mirror image trigrams, each one connected to each side of the center trigram. The second clue is that for each of these new mirror trigrams a new dot is created. These three new dots at the outer edge of the new trigrams are each of a different color. As every trigram must be composed of three unique dots (R, G, and B), and as a new type of dot capable of creating a 3D tetrahedron from the trigram would automatically create three new trigrams, whatever dot type this new dot is, it would have to act as a red dot to the blue-green pair of the original trigram, a blue dot to the green-red pair, and a green dot to the red-blur pair.
+Not surprisingly, the trigrams have already given us the answer with the following two clues. The first clue is that the creation of one trigram implies the creation of three additional opposite or mirror image trigrams, each one connected to each side of the center trigram. The second clue is that for each of these new mirror trigrams another dot is created. These three additional dots at the outer edge of the new trigrams are each of a different color. As every trigram must be composed of three unique dots (R, G, and B), and as a new type of dot capable of creating a 3D tetrahedron from the trigram would automatically create three new trigrams, whatever dot type this new dot is, it would have to act as a red dot to the blue-green pair of the original trigram, a blue dot to the green-red pair, and a green dot to the red-blur pair.
 
-Looking at *Fig. c8* we see that these are exactly the types of dots that have been created; one blue, one green and one red. All we need to do to combine these three dots together in a new dot, and *viola*, we have a new dot type that can create the 3<sup>rd</sup> dimension.
+Looking at *Fig. c8* we see that these are exactly the types of dots that have been created; one blue, one green and one red. All we need to do to combine these three dots together in a new *composite* dot, and *viola*, we have a new dot type that can create the 3<sup>rd</sup> dimension.
 
-The RGB <img src="../Images/052-rgbdot.png" style="width:0.23in;height:0.23in" /> or White dot <img src="../Images/053-whitedot.png" style="width:0.233in;height:0.233in" />represents the combination of all three primary dots. This dot can add 1 dimension to 2-dimensions and defines volumes as a result of the union of three unique trigrams.
+The RGB dot<img src="../Images/052-rgbdot.png" style="width:0.23in" /> or White dot <img src="../Images/053-whitedot.png" style="width:0.233in;" />represents the combination of all three primary dots. This dot can add 1 dimension to 2-dimensions and defines volumes as a result of the union of three unique trigrams.
 
 We now have a tetrahedron.
 
@@ -1329,7 +1323,7 @@ Let's apply some of the semantic concepts to the holarchy as it will shed more l
 
 We begin with a simple trigram.
 
-According to the authors, each holon has three functions:
+According to the creators of the holarchy model, each holon has three functions:
 
 -   Contributes (upwards relationship)
 
@@ -1337,7 +1331,7 @@ According to the authors, each holon has three functions:
 
 -   Defines (below relationship)
 
-*For the record, the original definitions, and the ones used by Velikovsky in his work were “A holon looks up for what it needs to integrate with, looks sideways for what it needs to compete &/or cooperate with, looks down for what it needs to control.” These definitions were modified in the tholon not only to reflect a more holistic type of relationship but also because these updated definitions were more in line with real-world test cases.*
+*For the record, the original definitions, and the ones used by Velikovsky in his work were “A holon looks up for what it needs to integrate with, looks sideways for what it needs to compete &/or cooperate with, looks down for what it needs to control.” These definitions were modified in the tholon model not only to reflect a more holistic type of relationship but also because these updated definitions were more in line with real-world test cases.*
 
 <img src="../Images/054-holonrel1.png" style="width:3.6375in;height:1.76389in" alt="Presentation3.png" />
 
@@ -1349,9 +1343,7 @@ These attributes hold up quite well when compared to our real-world example of a
 
 -   Consumption (limits, or definitions, of resources)
 
-You can also easily see how the above relationships can be described semantically as two objects (the holons) that have a relationship with via a predicates *define, contribute,* and *negotiate*.
-
-To further give this idea a test run, let's apply this to something completely arbitrary, such as batteries.
+You can also easily see how the above relationships can be described semantically as two objects (the holons) that have a relationship with via the predicates *define, contribute,* and *negotiate*.
 
 We can also visually represent the relationships in the following manner, which allows us to easily map this to a trigram:
 
@@ -1366,34 +1358,32 @@ Tholograms
 
 How do we know what attribute maps to what point? Further on we will show a more complete argument, but for now we can simply say if we have a parent, a child and a peer, as we do in both the holarchy and thologram, the parent would be the 1<sup>st</sup> point, the child the 2<sup>nd</sup> point, and the peer the 3<sup>rd</sup> point, as shown in the figure on the right.
 
-Why are we just mapping the relationship properties? Here's why:
+Why are we just mapping the relationship properties, or predicates, and not the objects? Here's why:
 
-In the holarchy, the *types of elements* are Parent, Peer, or Child, and the properties of **C**ontributes, **N**egotiates and **D**efines describe the relationships between these types. Our trigram is defined by the *properties* of the holons (*Fig. t2 below*), not the types of holons. We could have just as easily defined a trigram of the *types of elements* alone, as shown below (*Fig. t1*). In fact, this is typically how hierarchies are organized. In our case, however, we are using the properties, not the types, because the movement of energy is in these property archetypes, not in the elements themselves, which are the expressions of these properties.
+In the holarchy, the *types of elements* are Parent, Peer, or Child, and the properties of **C**ontributes, **N**egotiates and **D**efines describe the relationships between these types. Our trigram is defined by the *properties* of the holons (*Fig. t2 below*). We could have just as easily defined a trigram of the *types of elements* alone, as shown below (*Fig. t1*). In fact, this is typically how hierarchies are organized. In our case, however, we are using the properties, not the types, because the movement of energy is in these property archetypes, not in the elements themselves, which are the expressions, or stable instances, of these properties.
 
-Although we are using this idea of energy and movement as the foundations of reality, this is not a new idea. The *Reciprocal System theory* is built on the same premise and provides the best explanation of why we are using the movement of energy in the relationships and not the contexts of where that energy is coming from or going to.
+We are using this idea of energy and movement as the foundations of reality rather that the *things* themselves.  This is not a new idea. The *Reciprocal System theory* is built on the same premise and provides the best explanation of why we are using the movement of energy in the relationships and not the contexts of where that energy is coming from or going to.
 
 > The thesis of the Reciprocal System, however, is that the universe is not a universe of matter, but a universe of motion, one in which the basic reality is motion, and all entities—photons, particles, atoms, fields, forces, and all forms of energy—are merely manifestations of
 > motion.<sup>[51](#ref_051)</sup><a name="rev_051">&nbsp;</a>
 
 Like every theory, it has its fans, but also its critics. In any case, it applies perfectly here.
 
-Newton's Laws of Motion are similar in this regard, as the laws of motion describe the energy that relates to mass, not mass itself. Because of this we can show a direct relationship between these tholonic concept and Newton's laws:
+Newton's Laws of Motion are similar in this regard, as the laws of motion describe the energy that relates to mass, not mass itself. Because of this we can show a direct relationship between these tholonic concepts and Newton's laws:
 
-**Newton's 3<sup>rd</sup> law states** “*For every action there is an equal and opposite reaction.*” This equates to **Balance.** No mass energy is defined here, just as no dimension in defined in the 1<sup>st</sup> dot. This law only describes the result of existing energies acting against each other, associating it with the 1<sup>st</sup> “blue dot” realm of **Negotiation**.
+**Newton's 1<sup>st</sup> law states** *“Every object in a state of uniform motion will remain in that state of motion unless an external force acts on it.”* This law introduces the concept of an instance of mass, putting in the realm of the 2<sup>nd</sup> “green dot”, and its limitations. Its inability to move or change without an external forcing acting upon it puts it in the tholonic realm of **Definition.**  The concept of *inertia* is defined here, being the restrictions on mass.
 
-**Newton's 2<sup>nd</sup> law states** *“Force equals mass times acceleration.”* F**orce** is the result of time and space (acceleration and mass), so it is within the realm of the 3<sup>rd</sup> “red dot”, scope and area, and tholonically is within the realm of **Contribution**, as it creates a new concept that describes the movement of energy, that being force, which is unlike balance, being the result of energies interacting, and inertia, being the restrictions on mass without energy.
+**Newton's 2<sup>nd</sup> law states** *“Force equals mass times acceleration.”* **Force** is the result of time and space (acceleration and mass), so it is within the realm of the 3<sup>rd</sup> “red dot”, scope and area, and tholonically is within the realm of **Contribution**, as it creates a new concept that describes the most fundamental property of energy, that being the *force* of movement.  
 
-**Newton's 1<sup>st</sup> law states** *“Every object in a state of uniform motion will remain in that state of motion unless an external force acts on it.”* This law introduces the concept of an instance of mass, putting in the realm of the 2<sup>nd</sup> “green dot”, and its limitations. Its inability to move or change without an external forcing acting upon it puts it in the tholonic realm of **Definition.**
+**Newton's 3<sup>rd</sup> law states** “*For every action there is an equal and opposite reaction.*” This equates to **Balance.** No mass energy is defined here, just as no dimension is defined in the 1<sup>st</sup> dot. This law only describes the result of existing energies acting against each other, associating it with the 1<sup>st</sup> “blue dot” realm of **Negotiation**. The concept of *balance* (which includes the concept of imbalance) is born of energies interacting with one another.
 
-Tholonically speaking, Newton's Law of Motions should be in the following order:
+Tholonically speaking, Newton's Law of Motions should probably be in the following order:
 
-1.  *For every action there is an equal and opposite reaction (Newton's 3<sup>rd</sup> law)*
+1.  *For every action there is an equal and opposite reaction (Balance, Newton's 3<sup>rd</sup> law)*
 
-2.  *Every object in a state of uniform motion will remain in that state of motion unless an external force acts on it. (Newton's 1<sup>st</sup> law)*
+2.  *Every object in a state of uniform motion will remain in that state of motion unless an external force acts on it. (Inertia, Newton's 1<sup>st</sup> law)*
 
-3.  *Force equals mass times acceleration (Newton's 2<sup>nd</sup> law)*
-
-#### **Claim 42:** Relationships define the function and purpose of any instance
+3.  *Force equals mass times acceleration (Force, Newton's 2<sup>nd</sup> law)*
 
 The primary reason why the properties are the key points in a thologram rather than the elements, as in the holarchy, is because it is the properties that are consistent at every level of creation. There may be millions of instances of things within the holarchy, from subatomic elements to universal elements, and everything in between, but the properties are always the same, even though they are expressed differently for each context. Therefore, it is the properties that define the structure of the hierarchy, not the elements.
 
@@ -1402,7 +1392,9 @@ These properties direct energy, energy has movement, and movement has direction.
 <center><img src="../Images/057-NDCpoints-rels.png" style="width:90%" /></center>
 To further illustrate this point, we can use the semantic example above where we show “Alice *is a friend of* Bob.” The thologram model looks at *is a friend of* as the energetic force that defines Alice and Bob, at least within this narrow context of *friendship*. Without relationships Alive and Bob would not even exist, as these relationships define every interaction down to the atomic level.
 
-Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions, we would see how existing systems and new systems get along with each other, which would be some form of cooperation or conflict. On the spectrum of Contribution and Negotiation, we would see some sort of value returned to the society or culture, perhaps in the forms of fealty, dedication, or service (*Fig. t3*).
+#### **Claim 42:** Relationships define the function and purpose of any instance
+
+Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition (the line from N to D )? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions (D-C line), we would see how existing systems and new systems get along with each other, which would be some form of cooperation or conflict. On the spectrum of Contribution and Negotiation (C-D line), we would see some sort of value returned to the society or culture, perhaps in the forms of fealty, dedication, or service (*Fig. t3*).
 
 <center><img src="../Images/058-interrules.png" style="width:40%" /></center>
 For the purposes of demonstration, we'll use more human context ideas going forward, but keep in mind these are just a few archetypal examples out of many, and only limited to one context. 
@@ -1413,17 +1405,19 @@ For the purposes of demonstration, we'll use more human context ideas going forw
 
 -   **Fealty, dedication, service** resulting from *Contribution and Negotiation*.
 
-This trigram of relationships will be present and express according to the context and scope of its instantiation.   The example above uses concepts that are relevant to the human experience and which we have a functional and practical understanding of working idea of; such as *laws* (as in civil laws), *service* and *cooperation*.   In another context, such as the atomic world, *laws* would refer to the limits that an atom must exist within. *Cooperation/conflict* would describe how the atom’s negative and positive forces work with, and against, each other, or perhaps how atoms fuse (unify, as in nuclear fusion) and fiss (as in nuclear fission, and yes, I just made up the word “fiss”, from the Latin *fissio*, meaning "a breaking up”). *Dedication* describes the aspects of an atom that enhances the ability or properties of the of its parent tholon, or the realm from which it was created, which in the tholonic view would be the realm of subatomic particles, such as electron protons and neutrons.  What would subatomic particles be without atom’s?  What would atoms be without molecules? What would organelles (specialized structures within a living cell) be without molecules… and up the chain it goes.  In another direction of this same concepts, but perhaps more along the Service idea, this might be seen in the way atoms enable electrons to move a charge very easily and very fast, or how atoms act as a sea of electrons that can be called upon at any moment to accept or donate electrons… a service we use and see everyday in the form of the electrical “ground”, that third pin on every electrical outlet.
+This trigram of relationships are present in every instance of creations and will be expressed according to the context and scope of its instantiation.   The example above uses concepts that are relevant to the human experience and which we have a functional and practical understanding of working idea of; such as *laws* (as in civil laws), *service* and *cooperation*.   In another context, such as the atomic world, *laws* would refer to the limits that an atom must exist within. *Cooperation/conflict* would describe how the atom’s negative and positive forces work with, and against, each other, or perhaps how atoms fuse (unify, as in nuclear fusion) and fiss (as in nuclear fission, and yes, I just made up the word “fiss”, from the Latin *fissio*, meaning "a breaking up”). *Dedication* describes the aspects of an atom that enhances the ability or properties of the of its parent tholon, or the realm from which it was created, which in the tholonic view would be the realm of subatomic particles, such as electron protons and neutrons.  What would subatomic particles be without atom’s?  What would atoms be without molecules? What would organelles (specialized structures within a living cell) be without molecules… and up the chain it goes.  In another direction of this same concepts, but perhaps more along the *service* idea, this might be seen in the way atoms enable electrons to move a charge very easily and very fast, or how atoms act as a sea of electrons that can be called upon at any moment to accept or donate electrons… a service we use and see everyday in the form of the electrical “ground”, that third pin on every electrical outlet.
 
-Notice that in the first example when we used the three points of Parent, Child, and Peer, these elements are static (nouns), and their relationships of Negotiation, Definition, and Contribution are dynamic (verbs). Now when we use Negotiation, Definition, and Contribution as the three points, the relations between them is once again static. Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic. This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
+Notice that in the first example when we used the three points of Parent, Child, and Peer, these elements are static (nouns), and their relationships of Negotiation, Definition, and Contribution are dynamic (verbs). Now when we use Negotiation, Definition, and Contribution as the three points, the relations between them are once again static. Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic. This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
 
 #### **Claim 43**: Static instances form dynamic relationships. Dynamic relationships form static instances
 
-<img src="../Images/059-ruleexposure.png" style="float:right;width:40%" />Here we show the three points of N, D, and C as color sources that instantiate on the scopes, or lines, opposite them. Think of each point as ever-expanding light that illuminates the ‘wall' opposite it. This is a much more complete idea of a tholon as it shows the tholonic concept as the sum of all the attributes (exemplified by the white trigram in the middle), with the points as archetypes, and the lines as the field, zone or scope of where new types of archetypes can emerge from.
+<img src="../Images/059-ruleexposure.png" style="float:right;width:40%" />Here we show the three points of N, D, and C as color sources that instantiate on the scopes (the lines, zones, or spectrums) opposite them. Think of each point as ever-expanding light that illuminates the ‘wall' opposite it. This is a much more complete idea of a tholon as it shows the tholonic concept as the sum of all the attributes (exemplified by the white trigram in the middle), with the points as archetypes, and the lines as the field, zone or scope of where new types of archetypes can emerge from.
 
-We now have a completed trigram that describes the movement of energy in the process of creation. What would be the simplest instance of this trigram? Most likely it would be something like an atom, the first instance of matter, with a neutral (N), positive (C), and negative (D) particle. This is the description of hydrogen, the very first atom created, with one neutron, one proton, and one electron, the most abundant element in the universe and <img src="../Images/060-exag-bell-curve.png" style="float:left;width:1.56667in;height:2.35347in" />from which every other element that exists is created from. On the biological level, this describes mitosis, the process of cell duplication, or reproduction, where one cell gives rise to two genetically identical daughter cells. In the realm of philosophy, we have the Hegelian Dialectic of thesis, antithesis, and synthesis. In fact, for a tholonic concept to exist as a potentially viable and sustainable expression it must satisfy a form of the Hegelian Dialectic, in that it must support a thesis (D), antithesis (C), and synthesis (N).
+<img src="../Images/060-exag-bell-curve.png" style="float:left;width:1.56667in;height:2.35347in" />We now have a completed trigram that describes the movement of energy in the process of creation. What would be the simplest instance of this trigram? Most likely it would be something like an atom, the first instance of matter, with a neutral (N), positive (C), and negative (D) particle. This is the description of hydrogen, the very first atom created, with one neutron, one proton, and one electron, the most abundant element in the universe and from which every other element that exists is created from. On the biological level, this describes mitosis, the process of cell duplication, or reproduction, where one cell gives rise to two genetically identical daughter cells. In the realm of philosophy, we have the Hegelian Dialectic of thesis, antithesis, and synthesis. In fact, for a tholonic concept to exist as a potentially viable and sustainable expression it must satisfy a form of the Hegelian Dialectic, in that it must support a thesis (D), antithesis (C), and synthesis (N).
 
 We can learn a number of things from this trigram, but the one detail that is important before moving on is that the N-point is the originating point. This point represents a state of patterned energy that is sustainable and capable of propagating itself. We call this an N-state or an N-source.
+
+<BETAX EDITS END HERE>
 
 ### House of Mirrors
 
@@ -1433,7 +1427,7 @@ We can now say this about the trigram and its properties:
 
 -   **N** (negotiation) equates to the 1<sup>st</sup> blue dot<img src="../Images/dot-blue.png" style="width:50px"/>, which is the awareness of a concept in its simplest form.
 
--   **D** (definition) equates to the 2<sup>nd</sup> green dot<img src="../Images/dot-green.png" style="width:50px"/>, which introduced limitation, division, and separation.
+-   **D** (definition) equates to the 2<sup>nd</sup> green dot<img src="../Images/dot-green.png" style="width:50px"/>, which introduces limitation, division, and separation.
 
 -   **C** (contribution) equates to the 3<sup>rd</sup> red dot<img src="../Images/dot-red.png" style="width:50px"/>, which, with the previous two dots, resulted in unification and form.
 
