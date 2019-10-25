@@ -1,6 +1,6 @@
 <center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
 <div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!vie 25 oct 2019 03:05:03 EDT v.0.6.63}
+DRAFT - Version Alpha {!vie 25 oct 2019 15:51:03 EDT v.0.6.65}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -93,7 +93,7 @@ In either case, the idea of a primal void, or chaos, in mythology as well as cos
 
 Some colloquial, older definitions of chaos describe it as matter before there was any energy, but as we now know that matter itself is nothing but energy, that description no longer applies.
 
-#### Claim 1: Chaos is a state lacking any order, time or energy. Total nothingness. 
+#### **Claim 1:** Chaos is a state lacking any order, time or energy. Total nothingness. 
 
 Chaos also has another definition that means exactly the opposite, similar to the ∞ = 0 concept (scientists do that a lot). Take, for example, the study of chaos in the origins of the universe that was undertaken by Chicago's Northwestern University physicist Adilson Motter, who concluded that 10<sup>-36</sup> seconds after the Big Bang happened there was a state of *total chaos*. Do you know what was happening at 10<sup>-36</sup> seconds after the Big Bang? Everything, and a temperature of over 1 trillion degrees. Motter concluded from his study:
 
@@ -245,7 +245,7 @@ In the water example, if we have two identical bodies of water, one 100 feet abo
 
 This is what is theoretically happening to the universe right now because according to the Big Bang Theory, there was zero entropy (total energy) at the moment of the Big Bang. Since then all that energy has been following the path of least resistance, moving into the surrounding nothingness, like water into the ocean or electrons in a battery, raising the entropy of the universe and decreasing the amount of usable energy. This is why, according to the theory, the universe will end up in a state of chaos and disorder, like a dead battery or a stagnant lake. The Universe started in chaos and will end in chaos, and in-between those two points, there is the movement of energy, which creates order.
 
-#### **Claim 11:** Order and pattern requires energy. 
+#### **Claim 10:** Order and pattern requires energy. 
 
 One interesting takeaway from this understanding is that interconnectivity allows for movement of energy. This movement creates order. Therefore the idea that everything is connected is not simply a philosophical abstract concept, but a necessity for order.
 
@@ -270,7 +270,7 @@ The optimum condition for the movement of energy between two states is one that 
 A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*. This is a fascinating and entertaining device that creates an oscillation from takes an initial push (low entropy) and then draws a two-dimensional oscillating design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).<sup>[8](#ref_008)</sup><a name="rev_008">&nbsp;</a>
 
 <center><img src="../Images/008-harmonograph.jpg" style="width:5.5in;height:3.60833in" alt="Harmonograph" /></center>
-#### **Claim 12:** Everything is in a state of seeking and/or maintaining balance. 
+#### **Claim 11:** Everything is in a state of seeking and/or maintaining balance. 
 
 Oscillation
 -----------
@@ -289,9 +289,9 @@ Everything that is sustainable (i.e. currently exists), from the atoms to the ga
 
 People have been fascinated with this obvious commonality across all of creation for some time. Kepler himself was quite interested in the relationship between planetary frequencies and musical frequencies, but the study of planetary and musical relationships goes back to at least the 9th century with Eriugena, an Irish monk, theologian and Neoplatonist philosopher, most famous for his work “The Division of Nature,” which claims that nature's first primary division was the division between that which **is** (*being* or *somethingness*) and that which is **not** (*nonbeing* or *nothingness*). His work was condemned as “swarming with worms of heretical perversity”… the 9<sup>th</sup>-century Archdiocese was a tough crowd.
 
-#### **Claim 13:** Everything exists in a state of duality. 
+#### **Claim 12:** Everything exists in a state of duality. 
 
-#### **Claim 14:** Everything sustainable oscillates. 
+#### **Claim 13:** Everything sustainable oscillates. 
 
 Ohm's Law
 ---------
@@ -383,7 +383,7 @@ How this is relevant here is that the four alchemical elements are a very early 
 What we understand as resistance, current, volts, and power today, the alchemists would describe as qualities that have the properties of earth, fire, air, and water archetypes,  respectively.  This is not to suggest that just as *V=IxR*, so too does *air = fire x earth*.  This is simply an example of how the same patterns and archetypes keep appearing across many contexts and scopes, such as technology, science, mysticism, social order, biology, and many, many more.
 
 <center><img src="../Images/115-elements.png"></center>
-#### **Claim 15:** Instances of laws are limited, defined and understood according to their context. 
+#### **Claim 14:** Instances of laws are limited, defined and understood according to their context. 
 
 Redundancy
 ----------
@@ -447,13 +447,13 @@ He then goes on to say...
 
 In other words, he is saying that there are self-similar and redundant orders in the *hierarchy* and *layers* (in his words) of creation, and these orders abide by specific laws and which are limited (*predetermined*) by their component parts (*seeds*). Likewise, the restrictions of the growth process will be similar at every level, and consequently, the laws at play will be similar.
 
-#### **Claim 16:** Each duality inherits the limits of the duality it was created within. 
+#### **Claim 15:** Each duality inherits the limits of the duality it was created within. 
 
 You can read his paper<sup>[15](#ref_015)</sup><a name="rev_015">&nbsp;</a>, but unless you know your way around multidimensional Hilbert space lattices, it going to be a tough read.
 
 For purposes of this thread, I am going to define a “scope” or “order of creation”, (or “level”, as Hans van Leunen would say), as that creative cycle from which an apparent order emerges out of a state of the apparent disorder defined by the limits of the duality it emerged from. I say “apparent” because I don't want to suggest that there is disorder in a seed and order in the resulting flower. Obviously, there is order in both, but the explicit order of a flower in bloom, at the peak of its expression, when it is ready to drop its own seeds, is far more apparent than the implicit order of a seed. The flower is *explicit* when it is in bloom, and *implicit* in the seed, while the seed in *implicit* in the flower. This is equivalent to saying that within the scope of the life-cycle of a flower, which begins with a seed and ends with compost, the flowering stage represents the most optimum expression of energy.
 
-#### **Claim 17:** Self-similarity exists due to the redundant nature of the laws which express themselves in accordance with the scale and scope of their context. 
+#### **Claim 16:** Self-similarity exists due to the redundant nature of the laws which express themselves in accordance with the scale and scope of their context. 
 
 # REASON
 
@@ -510,7 +510,7 @@ In all cases, before one can proclaim some thing's existence, that thing has to 
 
 I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone I know also knows of dogs. But can I say *phlimquitz* exist, and when you ask me what a *phlimquitz* is, I say “I have no idea”? That would be quite unreasonable, but if I said *phlimquitz* explains the 99.97% correlation between “U.S. Spending on science, space and technology vs. Suicide by hanging, strangulation, and suffocation”, then I am claiming to understand something heretofore unknown and can go about defining and testing the *Phlimquitz Hypothesis*.
 
-#### **Claim 18:** We name things according to our observations, and once named, they become conceptual realities. 
+#### **Claim 17:** We name things according to our observations, and once named, they become conceptual realities. 
 
 Here is that correlation, just for fun:<sup>[18](#ref_018)</sup><a name="rev_018">&nbsp;</a>
 
@@ -522,7 +522,7 @@ However, any predictions either of us makes on where the next dot will land or i
 
 Humans began grasping this concept of randomness about 3,000 years ago, but named it things like “fate”, “chance”, and “destiny”, and, being unpredictable, was usually associated with some sort of supernatural justice or punishment. It wasn't until the 16<sup>th</sup> century that Italian mathematicians began to formalize the concept of what we call randomness, so it's still quite a young concept.
 
-#### **Claim 19:** Our ability to reason is rooted in our ability to see patterns, and connecting these patterns is made possible by our ability to reason.
+#### **Claim 18:** Our ability to reason is rooted in our ability to see patterns, and connecting these patterns is made possible by our ability to reason.
 
 God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, manna, out-of-body-experiences<sup>[19](#ref_019)</sup><a name="rev_019">&nbsp;</a>, etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it. To be clear, this is not meant to suggest these observations are, or are not, as valid as any other. Any system's validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.
 
@@ -552,11 +552,11 @@ The Universe, starting with the extremely violent Big Bang and ending (according
 
 The ultimate destination of sustainability, on the cosmic scale, is death. In our current point in existence, sustainability means keeping the various part of the “balancing machine” of nature working properly. In both cases sustainability means balance, but with two very different results of short-term, or *temporal* balance and long-term, or *supernal* balance. For our purposes, the sustainability we are referring to is the temporal kind, unless otherwise noted.
 
-#### **Claim 20:** Sustainability is a gauge of existence, and therefore life itself, at every level of reality. 
+#### **Claim 19:** Sustainability is a gauge of existence, and therefore life itself, at every level of reality. 
 
 Pions exist for about 26 nanoseconds, while the most massive black hole known, about 66 billion times larger than our sun, would require 6x10<sup>99</sup> years to evaporate. Does this mean that black holes are more ‘valid', more ‘true' than pions? No, because the pion's existence, short as it is, is necessary, otherwise it would never have existed in the first place, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10<sup>99</sup> years is actually longer than the life span of the Universe). By this logic, we can say that both pions and black holes are equally true and valid, but one ‘true' forever.
 
-#### **Claim 21:** Something exists because its expression of energy patterns adheres to an order that must be maintained to continue existing. 
+#### **Claim 20:** Something exists because its expression of energy patterns adheres to an order that must be maintained to continue existing. 
 
 ### Tree of Sustainability
 
@@ -661,13 +661,13 @@ In the same manner, we discovered DNA is a helix because of hydrogen bonds, etc.
 
 This is not to say everything that the gatekeepers of the Church of Reason consider “unreasonable”, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical areas are, indeed, “unreasonable.” On the contrary, it's quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our common boundaries. Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life. These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked. Once we discovered Bernoulli's law<sup>[22](#ref_022)</sup><a name="rev_022">&nbsp;</a> works in harmony with the law of gravity we mastered the magic art of flying.
 
-#### **Claim 22:** Reason is the codification of the rules of a reality as we have come to know it. 
+#### **Claim 21:** Reason is the codification of the rules of a reality as we have come to know it. 
 
 ### The benevolence of self-preservation
 
 If our reasoning is based on the world we observe, then this implies that everything in nature, everything in the universe, must, therefore, be reasonable, but sometimes the reasoning we have derived from our observations is inaccurate or lacking.
 
-#### **Claim 23:** The rules of reason are predetermined based on the rules of our reality that we have recognized, and these rules require that any “reason” that exists must abide by them. 
+#### **Claim 22:** The rules of reason are predetermined based on the rules of our reality that we have recognized, and these rules require that any “reason” that exists must abide by them. 
 
 Take, for example, our reasoning behind the evolutionary drive for self-preservation. We assume it is a somewhat selfish, yet necessary, biological drive passed down through our genes in order to increase the genes chances of reproducing themselves. This makes sense if we see the world only as a bunch of individual entities competing for resources.
 
@@ -683,7 +683,7 @@ Some theorize that they do this because there is a greater chance of the heart s
 
 In this particular example of cardiac cells, their self-preservation can be fatal to the collective (or *person*), but in most cases losing a few cells is not fatal to a person, but by the same token, the *uber* organism that humans are a part of (family, society, government, etc.) only forfeits one human. This is happening in our own bodies 60 billion times a day, as that is how many of our own cells die, and are created, every day.
 
-#### **Claim 23A**: The most efficient model for a collective is individual self-preservation.
+#### **Claim 23:** The most efficient model for a collective is individual self-preservation.
 
 Seeing self-preservation more as a protecting-the-family-of-component-parts makes much more sense *if* we also see that every organism in the hierarchy of life, from cells to cities, as an individual entity.
 
@@ -807,7 +807,7 @@ We can only recognize energy as one form or another, not as pure energy itself. 
 
 We do not have words for many things as we have yet to recognize them and therefore can't describe them, measure them or even identify them. It is not just reasonable to speculate that in the realm of ideas and forms there are also cycles and a medium that is completely new to us, it's quite unreasonable not to, as they too are a product of energy.
 
-#### **Claim 28**: We can only see the interactions of energy, and not the energy itself. 
+#### **Claim 28:** We can only see the interactions of energy, and not the energy itself. 
 
 This begs the questions “What *is* energy? ” And the answer is… are you sitting down? Drum-roll, please... *“The ability to perform work.”* Yup, that is the culmination of thousands of years of research and investigation in search of an answer as to why and how reality exists. Problem solved (we'll come back to this later).
 
@@ -923,7 +923,7 @@ What comes next? How do all these *understandings* we have discovered relate to 
 
 Attempting to answer this question is what gave rise to the entire field of Western philosophy. In fact, the word *philosophy*, which literally means “love of wisdom”, was invented 2,600 years ago by the Greek mathematician, philosopher and religious mystic, Pythagoras, as the field of study dedicated to understanding how reality is put together. A few years later, Parmenides, perhaps the most profound and challenging thinker of the Greek philosophers, came up with the idea of categorizing all that was understood about existence. Today this is called *ontology*, which is hierarchical in nature and comes from the Greek “the study of that which is.”
 
-#### **Claim 34:** All information is hierarchical. 
+#### **Claim 36:** All information is hierarchical. 
 
 Needless to say, there has been a lot of discussing, researching and testing over the past thousands of years on the best way to organize “that which is.”
 
@@ -936,7 +936,7 @@ Laszlo's challenge was to provide a framework for understanding universal struct
 
 <img src="../Images/033-embeddedholons.png" style="float:right;width:0.99167in;height:1.02778in" />The *holon* represents the *wholeness of its nature*, and the *parton* representing the integrated *part* of the greater *holon*. The hierarchical ordering of *holon/patrons* is called a *holarchy*. An example of this is the biological cell mentioned previously. The cell itself would be a *holon*. The transcoder and other components necessary for the cell to function which would be considered *partons*.  Likewise, the transcoder is also a *holon* with its component *partons*, and the cell itself is a *parton* to, say, an organ. This makes the holarchy somewhat fractal in nature as the structure of the entire hierarchy is self-replicated in each of the holons.
 
-#### **Claim 36:** All information is fractal, or self-similar, or redundant. 
+#### **Claim 37:** All information is fractal, or self-similar, or redundant. 
 
 The holarchy is a map of all the concepts of archetypes we have collected and attempts to organize these concepts in a hierarchical fashion. As each parton is a child of a holon it naturally inherits the scope of its parent. It is these scopes that define the order. Each holon has a unique scope, and this scope is what defines the spectrum of possibilities, the Bell curve of probability, for any particular holon. For example, within the holon of *person,* you will only find *person* things and not *planet* things.
 
@@ -957,9 +957,9 @@ Because the peak of the curve represents where the most “work” will be done 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
 <center><img src="../Images/031-eyecurve2.png" style="width:90%" alt="eye-Bell-Curve.png" /></center>
-#### **Claim 37:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons. 
+#### **Claim 38:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons. 
 
-#### **Claim 38:** Holons, or archetypes, are interdependent on one another
+#### **Claim 39:** Holons, or archetypes, are interdependent on one another
 
 Memes
 -----
@@ -1072,7 +1072,7 @@ The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all
 
 It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate quantum mechanics, general and special relativity, the standard model and other mainstream physics theories to form a complete, fundamental picture of a universe unfolding from implicity to explicity. The main difference between these two models is that the *E8 Crystal* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the language of geometry.
 
-#### **Claim 39:** Geometry and mathematics are the language of archetypes. 
+#### **Claim 40:** Geometry and mathematics are the language of archetypes. 
 
 Here we have a duality that encompasses the entire spectrum of 3D reality, at least. On one end, the *alphahedron*, which is the smallest structure theoretically possible, that being the tetrahedron, and on the other end, the *omegahedron*, the most complex physical structure in existence, which currently seems to be the 248D-ish crystal.
 
@@ -1081,9 +1081,9 @@ The Structure of Knowledge
 
 Now we can begin to integrate dualities into the holarchy.
 
-#### **Claim 39a:** Just as subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms, information is structured data, knowledge is structured information, and ideas are structured knowledge. Information has a structure, data does not.
+#### **Claim 41:** Just as subatomic particles are structured energy, atoms are structured particles, and molecules are structured atoms, information is structured data, knowledge is structured information, and ideas are structured knowledge. Information has a structure, data does not.
 
-#### **Claim 40:** The concept of a thing and the thing itself are the same things on two different level of order. 
+#### **Claim 42:** The concept of a thing and the thing itself are the same things on two different level of order. 
 
 <img src="../Images/041-holons-to-tree.png" style="float:left;width:2.60833in;height:2.65694in" />Both of the scopes of matter and ideas represent how a form of pure energy in its chaotic state is converted into order using the same laws as they apply to the relevant contexts of their scope. In one case energy is ordered and expressed as matter and in the latter case as concepts. This is how it relates to holarchies, as holarchies can map not only the naturally occurring hierarchy of the concepts of *reality* (atoms, plants, people, etc.) but also the concept of *concepts* (domains of science, religions, culture, etc.).
 
@@ -1198,7 +1198,7 @@ With all these connections, we can ask the computer typical questions like “*H
 
 Conclusion: Language is based on rules of nature and can be deconstructed into triplets.
 
-#### **Claim 41:** Information must relate to something. 
+#### **Claim 43:** Information must relate to something. 
 
 Supply Chain
 ------------
@@ -1251,7 +1251,7 @@ If our premise is that the smallest element of knowledge must conform to the sam
 
 Our revised model of hierarchical tetrahedrons will surely look and act differently than a holarchy. To avoid confusion, we'll refer these *tetrahedron holons* as *tholons* (for obvious reasons), and the holarchy of tholons as the *thologram*.
 
-#### **Claim 41a:** Every tholon is an archetype. 
+#### **Claim 44:** Every tholon is an archetype. 
 
 We are working from the premise that everything that exists is a product of a stable pattern existing between different states. The simplest concept of such a duality is that of *something* and *nothing*, although the idea of a void of absolute nothingness is a bit much to grasp. As for *something,* we don't need to imagine something that represents everything at once, which is not only beyond our ability, but as everything has yet to come into existence, it is impossible. On the contrary, we only need to imagine the simplest form of something, for example, a singular dot. A simple dot on a blank page is a diagram of the model on which this reality, and all knowledge, is based.
 
@@ -1276,7 +1276,7 @@ From the tholonic perspective, this is a very incomplete description because it 
 <center><img src="../Images/051-firstdot.png" style="width:90%" /></center>
 We start with a 0-dimensional dot represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can't be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the *idea* of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.  This is our first duality, that of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance.
 
-#### **Claim XX:** The tholonic definition of energy is “the balancing of an ever bifurcating awareness in accordance with the laws of duality.”
+#### **Claim 45:** The tholonic definition of energy is “the balancing of an ever bifurcating awareness in accordance with the laws of duality.”
 
 This next step requires some philosophical conjecture because we have to ask why/how does a 2<sup>nd</sup> (green), dot appear *(Fig. c2).*
 
@@ -1392,7 +1392,7 @@ These properties direct energy, energy has movement, and movement has direction.
 <center><img src="../Images/057-NDCpoints-rels.png" style="width:90%" /></center>
 To further illustrate this point, we can use the semantic example above where we show “Alice *is a friend of* Bob.” The thologram model looks at *is a friend of* as the energetic force that defines Alice and Bob, at least within this narrow context of *friendship*. Without relationships Alive and Bob would not even exist, as these relationships define every interaction down to the atomic level.
 
-#### **Claim 42:** Relationships define the function and purpose of any instance
+#### **Claim 46:** Relationships define the function and purpose of any instance
 
 Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition (the line from N to D )? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions (D-C line), we would see how existing systems and new systems get along with each other, which would be some form of cooperation or conflict. On the spectrum of Contribution and Negotiation (C-D line), we would see some sort of value returned to the society or culture, perhaps in the forms of fealty, dedication, or service (*Fig. t3*).
 
@@ -1409,7 +1409,7 @@ This trigram of relationships are present in every instance of creations and wil
 
 Notice that in the first example when we used the three points of Parent, Child, and Peer, these elements are static (nouns), and their relationships of Negotiation, Definition, and Contribution are dynamic (verbs). Now when we use Negotiation, Definition, and Contribution as the three points, the relations between them are once again static. Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic. This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
 
-#### **Claim 43**: Static instances form dynamic relationships. Dynamic relationships form static instances
+#### **Claim 47:** Static instances form dynamic relationships. Dynamic relationships form static instances
 
 <img src="../Images/059-ruleexposure.png" style="float:right;width:40%" />Here we show the three points of N, D, and C as color sources that instantiate on the scopes (the lines, zones, or spectrums) opposite them. Think of each point as ever-expanding light that illuminates the ‘wall' opposite it. This is a much more complete idea of a tholon as it shows the tholonic concept as the sum of all the attributes (exemplified by the white trigram in the middle), with the points as archetypes, and the lines as the field, zone or scope of where new types of archetypes can emerge from.
 
@@ -1691,10 +1691,9 @@ We can see a few similarities between a tholonic model and a chemical model.
 | 3<sup>rd</sup> gen tholon structure 4x larger (in count) than 2<sup>nd</sup> gen structure | 3<sup>rd</sup> gen structure (O) is 4<sup>2</sup> larger (mass) than 2<sup>nd</sup> gen structure (H) |                           |
 
 <center><img src="../Images/086-h20-tholo.png" style="width:90%" /></center>
-This is just a hypothetical demonstration, as there may be a much better tholonic model for elements and compounds than this one, but this one is sufficient to show how we might be able to describe elements and compounds tholonically, which might give us new insights into their nature. Perhaps this model applies not just to H<sub>2</sub>O but to any of the Group 6 class of elements, such as sulfur, selenium, tellurium, etc., (to create H<sub>2</sub>S - hydrogen sulfide, H<sub>2</sub>Se - hydrogen selenide, or H<sub>2</sub>Te - hydrogen telluride).
+This is just a hypothetical demonstration, as there may be a much better tholonic model for elements and compounds than this one, but this one is sufficient to show how we might be able to describe elements and compounds tholonically, which might give us new insights into their nature. 
 
-Can we see this similar relationship with other compounds? We claim that you can, as there is an almost infinite number of possible configurations in the thologram. Instances of fundamental configurations, such as those that appear in the earlier stages of iterations, like the Fibonacci sequence and the hexagram, represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality and could be easily discovered.
-
+<center><img src="../Images/electron-shapes4.jpg" style="float:right;width:30%" /></center>Can we see this similar relationship with other compounds? Given that the basic archetypal shapes of molecules (shown on the right) can be represented within the thologram, perhaps this model can be applied to all compounds. We claim this might be possible, as there is an almost infinite number of possible configurations in the thologram. Instances of fundamental configurations, such as those that appear in the earlier stages of iterations, like the Fibonacci sequence and the hexagram, would represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality (like water and methane) and could be easily discovered.
 ### Quarks and Atoms
 
 Another example of how we might discover tholonic structures in subatomic particles. Let’s look a a quark (which was originally named a *parton* by Richard Feynman to describe a hypothetical particle inside the nucleus of the atom).
@@ -1782,7 +1781,7 @@ A thing's ability to find a stable and sustainable position within its environme
 
 What's more, we can not only confirm this arrangement using Ohm's Law, but we can now include all twelve relationships of Ohm's Law using a tetrahedron, rather than just the three we can see in a trigram, which is a 2D tholonic map of electricity, as there is no 4<sup>th</sup> composite ‘white dot' (which would represent *power,* or *watts*). Once we have that power value, we can map all the formulas of Ohm's Law to a complete tholon.
 
-#### **Claim 44:** There is no useless data, only data we have yet to understand how to use. 
+#### **Claim 48:** There is no useless data, only data we have yet to understand how to use. 
 
 <img src="../Images/092-two2Dmaps.png" style="width:5.74792in;height:2.53333in" />
 
@@ -1946,7 +1945,7 @@ However, this intelligence is quite different from what we would call human inte
 
 One of the attributes of a tholon, unlike its holarchic predecessor, is that the context and scope of a tholon is not only defined by the dualities of that tholon, but also by all the tholons above and below, as the children tholons are always contributing to the parent, and the parents are always defining the children.
 
-#### **Claim 45:** Anything that exists, that has a sustainable pattern of energy, has some form of intelligence and is a contributing element to the larger intelligence that is shared by all existence. 
+#### **Claim 49:** Anything that exists, that has a sustainable pattern of energy, has some form of intelligence and is a contributing element to the larger intelligence that is shared by all existence. 
 
 It is easy to see instances of this on a molecular level, such as how water is an aggregate of hydrogen and oxygen, as the scopes and contexts of the elements are fairly well known.
 
@@ -1966,7 +1965,7 @@ We have a concept of a *human* collective intelligence, but we define it as some
 
 The tholonic view is that awareness and intention are not only attributes of existence; they are the cause of it, as explained previously. More than that, awareness and intention are the ultimate, or purest form, of what we call energy, as energy is the balancing of a difference, and all differences come from separation, which is the result of awareness and intention.
 
-#### **Claim 46:** Every archetype has an awareness, an intention, and an intelligence appropriate for its scope. 
+#### **Claim 50:** Every archetype has an awareness, an intention, and an intelligence appropriate for its scope. 
 
 On this point, tholonic thinking has coincidentally arrived at the same conclusion recorded 3,000 years ago in the Sanskrit Vedas which states that first there was awareness, then there was consciousness, and because of this, consciousness or intelligence can never be the path to awareness. On the contrary, the path to awareness starts with quieting consciousness, according to the Vedas. This point starts to lead into a philosophical realm, so we'll just leave it at that and let the reader take from there.
 
@@ -2028,7 +2027,7 @@ They also claim they managed pest control, as they use no chemicals or pesticide
 
 Lastly, A Canadian anthropologist explores this idea thoroughly in his book *The Cosmic Serpent: DNA and the origins of knowledge*, which he wrote after living several years in the Amazon studying the shamanic knowledge of botanics. His book explores the relationships and similarities between this indigenous knowledge and our modern understanding of molecular biology, medicine, and DNA. We won't get into his amazing discoveries here, other than to say that their understanding demonstrates some sort of access to knowledge far beyond what could reasonably be considered to have been passed down by folklore and legend. It is well worth the read.
 
-#### **Claim 47:** Every thing that exists is an instance of an archetype.
+#### **Claim 51:** Every thing that exists is an instance of an archetype.
 
 <div style="page-break-before: always"></div>
 FIELDS
@@ -2126,7 +2125,7 @@ Although this sort of research does not get the attention it deserves, with a bi
 
 The point here is that fields of awareness, such as morphic fields and tholonic fields, while being able to instantiate in the material world, are not limited to the restrictions of the material world.
 
-#### **Claim 48:** Morphic fields are not limited by time and space. 
+#### **Claim 52:** Morphic fields are not limited by time and space. 
 
 Tholonic Fields
 ---------------
@@ -2143,7 +2142,7 @@ The natural ordering as a result of the movement of energy is obvious, but for t
 
 -   An idea or concept has coherence, or low entropy, and represents a product of “work” or the movement of energy, which produces fields and oscillations of that energy's movement.
 
-#### **Claim 49:** Tholonic Fields are the fields generated by the movement of energy through an archetypal concept that has been discovered or created. Morphic fields are the instantiations of tholonic fields as expressed by the instantiations of that archetype. 
+#### **Claim 53:** Tholonic Fields are the fields generated by the movement of energy through an archetypal concept that has been discovered or created. Morphic fields are the instantiations of tholonic fields as expressed by the instantiations of that archetype. 
 
 This brings us back again to the question: how and where is all this information that is being access stored? How does a tholon know the limits of its scope? How does it access the information needed to inform its intelligence? How does it ‘remember' context?
 
@@ -2153,7 +2152,7 @@ And how do we store that information? We invent an abstract symbolism, apply mea
 
 When we use the Internet, we are not aware of the relationships, semantic and otherwise, that are being discovered and used to deliver information to us in a very human-readable format. By the same token, we may not be aware of the symbolism being used by our *field intelligence* to collect, store and transmit information. Because we don't know how to recognize or interpret these symbols, we have to assume they could exist anywhere, and everywhere.
 
-#### **Claim 50:** We don't know what we don't know. 
+#### **Claim 54:** We don't know what we don't know. 
 
 Let's look at some of the more likely candidates of how and where we access this *field intelligence.*
 
@@ -2201,7 +2200,7 @@ Perhaps what we call some forms of telepathy or ESP are simply quite natural con
 
 -   Dolphins see sound waves as 3D images.
 
-#### **Claim 51:** Transcendental or extrasensory forms of communication exist. 
+#### **Claim 55:** Transcendental or extrasensory forms of communication exist. 
 
 Telepathy or otherwise, it's a safe bet that to say that some form of transcendental or extrasensory form of communication exists. It's the specifics of it that seem to be elusive. Proving such a thing is similar to asking me to prove that Australia exists. I know many people from Australia, I can find Australia on a map, I know of Australian politics and history, but all of that is anecdotal as I have never been to Australia and if you asked me to prove Australia's existence by the strictest scientific standards, I could not. All I could say is I have a lot of evidence from trustworthy sources.
 
@@ -2216,7 +2215,7 @@ It is easy to imagine applying the well-developed model of telecommunications th
 <center><img src="../Images/096-ISOstack.png" style="width:90%" /></center>
 To be clear, we are not saying that this is how it works, nor are we saying this is *not* how it works. We are suggesting that we might find new perspectives if we apply the models we have developed, which are based on natural laws, to things we do not yet understand. In this case, for example, we see that the physical body and intelligence are at the opposite ends of the pyramid, implying that the brain/nervous system is more of a receiver/transmitter rather than a generator, as creating new information requires intention, cognition, and intelligence. This is a radically different concept than the current mainstream and antiquated idea that the mind, consciousness, intelligence *must* arise out of brain activity. We contend that other successful models that we currently use today could also be applied to things we do not yet understand, at least as a starting point of investigation.
 
-#### **Claim 52:** Morphic fields have the ability to transmit and store information. 
+#### **Claim 56:** Morphic fields have the ability to transmit and store information. 
 
 Collective Memory
 -----------------
@@ -2315,7 +2314,7 @@ But I am not a scientist, so I don't have to worry about what the editors at *Na
 
 Regardless of the theory, whatever it happens to be, the morphic or tholonic field would have to be something like an electromagnetic field on a different level of existence, as both are caused by the movement of energy.
 
-#### **Claim 53:** Everything that exists due to the movement of energy has a field, including awareness, intention, consciousness, and even information. 
+#### **Claim 57:** Everything that exists due to the movement of energy has a field, including awareness, intention, consciousness, and even information. 
 
 The redundant and self-similar expressions of pure energy can be seen in the ever more complex and integrated patterns that have evolved since all of creation began as an infinitesimally small dot that was the seed of this Universe.
 
@@ -2500,7 +2499,7 @@ All of this is to say that every path that can be traveled by any instance alrea
 
 Even in the world of bacterial meandering, we see a pattern. Ironically, it is the inverse of a Bell curve, in that a group of bacteria released at the same time starts out relatively coherent and eventually disperses to incoherence. 
 
-#### **Claim YY**: Archetypes tend toward order, while the instances tend toward chaos. 
+#### **Claim 58:** Archetypes tend toward order, while the instances tend toward chaos. 
 
 Because each tholon has a record of all the successful instances that came before it, each tholon has its own unique path, but all tholons begin at the same point.
 
@@ -2595,13 +2594,13 @@ This is the same premise behind the *cosmological natural selection* which says 
 
 We also see this idea in *quantum Darwinism*, which states that of all the probable states that can exist, the ones that survive do so because of support from their environment. In turn, these states that survive transfer information to the environment, altering its context, shifting the curve in its favor, and thereby improving the probabilities of future similar states. What we call classical reality is the redundant transference of that information.<sup>[119](#ref_119)</sup><a name="rev_119">&nbsp;</a> 
 
-#### **Claim tt:**The field instructs the direction of creation, and the creations support the field.
+#### **Claim 59:**The field instructs the direction of creation, and the creations support the field.
 
 Limitations and abilities are typically defined by the environment that any form of life has to coexist within. Birds have wings, man has hands, etc. The need for such tools, such as wings and hands, comes from the environment that life must adapt to in order to ensure sustainability. A record of sorts is held within at least the DNA, at perhaps in the information field for that instance as well. This record adjusts the curves, which alters the most probable instances of future creations.
 
 We can also say (as previously shown) that there are rules that exist in this reality that energy and form must follow in order to exist. Likewise, only those processes of creation that produce compatible results will exist. In other words…
 
-#### **Claim tt**: The context defines the content which then becomes the context for more content.
+#### **Claim 60:** The context defines the content which then becomes the context for more content.
 
 There are other examples of such rules and relationships which are nicely exemplified in such things as holograms and fractals, but we won't get into those here as this has been written about many times.<sup>[131](#ref_131)</sup><a name="rev_131">&nbsp;</a><sup>,</sup><sup>[132](#ref_132)</sup><a name="rev_132">&nbsp;</a>
 
@@ -2642,8 +2641,6 @@ Appendixes
 
 A - How to Make Structured Water
 ================================
-
-<BETAX END>
 
 We look at three ways to create structured water.
 
@@ -2724,125 +2721,6 @@ Tholonically, we can easily map thinks like Ragone and utility space (as in the 
 
 
 
-<div style="page-break-before: always"></div>
-# The Life of Ideas
-
-# (this chapter is a work in progress)
-
-###### Ideas take on a life of their own, complete with a history and intention.
-
-We also see this trigram in the ancient Dharmic religions (Hinduism, Buddhism, Sikhism, Jainism, etc), originating long before they were committed to writing in the 
-
-Upanishads, predating 6th century B.C.
-
-This ancient text describes the substrate of reality as having three conceptual pillars, each driven by one underlying, pure and perfect form of energy.  Each has a Sanskrit name;  **Sat*, *Chit*, *Parabrahma*, and *Aum* (or *Om*), 
-
-Books have been written on the significance of each of these concepts, but their general meaning is understood to be:
-
-**Sat**: The all-penetrating existence that is formless, shapeless, omnipresent, attributeless, and qualityless aspect of the Universe. It is unmanifest. It is experienced as the emptiness of the Universe.  Everything that has a form and that can be sensed, evolved out of this unmanifest. It can only be seen when it has become gross and has taken form. It is the cause, and reality, as we know it, is its effect.
-
-This is equivalent to the original "blue dot" that exists in a void of nothingness, that dimensionless concept of being whose only quality is awareness and intention, and from which all existence emerges.
-
-**Chit**: The pure awareness of the Universe that is the omnipresent manifesting power of the Universe. This is the source of all energy and force. It can manifest in any form or shape. It is awareness manifesting as motion, as gravitation, as magnetism, etc. It is also manifesting as the actions of the body, as thought force. It is the Supreme Spirit.
-
-This is the equivalent to the "green dot", which is the result of the awareness of the "blue dot" and the first instance of any sort of dimension, measure or limits, and therefore, the first instance of manifestation and the "laws" it manifests according to.
-
-**Parabrahma**: The Supreme Being in absolute aspect; one who is beyond space and time. It is the essence of the Universe that is with form and without form (because it is devoid of the illusion form). It is the Supreme creator that has formed yet is formless, and the basis of all form.
-
-This is clearly the equivalent to the third "red dot", which creates the first instance of "form" as a 2-dimensional shape, and therefore has no manifest form, yet is the basis of all form as it is the simplest shape possible.  
-
-**Aum**: The vibration that all of existence is based on.
-
-There are two interesting correlations here:
-
-1) This first instance of an actual tholonic form (the triangle) is personified as the first instance of a sustainable intelligence and the highest form of the creator god (Para = "highest", Brahma = "the creator god").
-
-2) The "illusion of form", or "Maya", as it is called in Sanskrit, is the equivalent of the composite "white dot", which is what turns the 2D shape into a 3D form.  This is conceptually compatible with the tholonic view, as the "white dot" is not a "real dot" in and of itself, but simply a composite of the three "real dots."  Rather than call it an "illusion", which carries far too much subjective meaning,  we prefer to call it a "creation", for it is no less real than the three "real" dots; it is simply a new creation formed with the "real" dots.
-
-But what of the most fundamental concept of all, that of *Aum*,  the vibration from which all of creation emerges?  Tholonically speaking, all energy, and therefore all vibration and movement, is the product of awareness.  We claim that awareness and intention are the only attributes that the "blue dot", or *Sat* in this example.  We also see that this "blue dot" is the basis of all new creations, which we call "N-sources" and which reappear in every iteration and generation of the thologram.  This creative energy, or vibrations, is the intention aspect of creation.  Awareness without intention can not create anything, and it is arguable that awareness can not exist without intention, just as electricity can not exist without magnetism.  So, the *Aum* concept represents the awareness and the intention of the "blue dot", the one and only property that the 0-dimensional concept of the dot in the void of nothingness has, and the one property that forever begins the process of creation.
-
-Besides this relationship between the thologram and the Dharmic religions being 'interesting', there is another reason for shining light on it, and that is to segue into another concept that seems radically unrelated but is, in fact, fundamental to any belief systems, from science to mysticism.
-
-Concepts, which include beliefs, are tholonic entities that, if they are to be sustainable, comply with the laws of sustainability, as described above.  These archetypal concepts survive and thrive depending on the energy they have access to.  In the case where these archetypes have access to to human scope of existence, they will be expressed as human concepts (ethics, morals, judgment, justice, good, evil, etc.) in the hopes of finding fertile ground in human awareness.  
-
-This is the purpose and power of myths, be they ancient or modern. Myths and legends are one of the ways that ideas and archetypes are transmitted.  We elaborated on this a bit  already when we were looking a memes, morphic and tholonic fields, and collective memory.
-
-These archetypes can take many forms; gods, superheroes, demons, sacred places, superstitions, etc.  They do not exist in our linear time, but rather in a dimension that transcends all space-time; they are eternal, beyond what we call time, because they exist in the realm of ideas. Myths and beliefs of the ancient past continue to live on in ever-evolving meaning and symbolism that promote their existence, almost like a self-mutating virus. 
-
-Much of our everyday culture is inextricably bound to these archetypes which further empowers them, usually without our knowledge. Jung described these archetypes as “ordering factors in the collective unconscious” and created twelve archetypes of the human psyche organized into four cardinal types, which, coincidently, are surprising similar to the archetypes and architecture of astrology. However, unlike astrology that was empowered by mythical, yet living, gods, Jung’s archetypes do not consider the creative power of awareness.
-
-For example, the modern word “hell” comes from the ancient Norse goddess named *Hel*, whose job it was to not only judge the dead but also help the apocalypse along by leading an army of the dead in a ship made of the fingernails of corpses... yikes!
-
-The concept of Hell is deeply ingrained into the worldview of billions of people who have little knowledge of the roots of their beliefs. These believers, through their awareness, empower this archetype, or tholon, which consequently empowers other tholons associated with Hell that they have no awareness of because the tholonic existence of that concept has a memory of its past. It’s no wonder that the more people believe in Hell, the more "visions of the apocalypse" will emerge. 
-
-There is a somewhat Buddhist concept, in that it was a Buddhist (in 1884), who defined the concept of the *Akashic Records*, which is timeless record of all aggregate thought forms.  Tholonically, we would consider these archetypes as a form of "meta-meme"; a form of a meme that exists in the collective unconscious and in the world of archetypes. To review, a meme is “an idea, behavior, style, or usage that spreads from person to person within a culture.”  Thus, a meta-meme is an “an idea or belief formed within the Universal Mind or Collective Unconscious and spreads from consciousness to consciousness.” 
-
-How ideas spread is interesting, and research out of Princeton University shows how ideas follow the same growth models as (disease-based) viruses.<sup>[145](#ref_145)</sup><a name="rev_145">&nbsp;</a>
-
-
-This suggests that all forms of creative expression, be they ideas, life forms, or even diseases, follow similar growth patterns. This is not surprising as all existence follows the same laws that only differ in how they are expressed according to the context and scope of their instances. What we are really seeing around us is the dynamics of how energy interacts with the structure of whatever reality it is moving through, be it physical or nonphysical. 
-
-A clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a leading geophysicist and founder of the Center for Bio-Earth Planetology, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms. <sup>[159](#ref_159)</sup><a name="rev_159">&nbsp;</a>
-
-We take this a step further and say that ideas themselves are living meta-organisms and physical reality is where these these archetypes instantiate.  The implication then is that anything we can imagine can take on a life of its own, and consequently, instantiate itself into this reality.
-
-This hypothesis has a clear down side; so many of our beliefs are manipulated and controlled by others whose agenda is less than altruistic, hidden, and who are aware of the mechanics of awareness. From the most powerful laser in the world named after the Hindu god of destruction to trivial tarot cards based on movie stars, we can find countless examples of how archetypes, which act as tholonic agents,  infiltrate our understanding of reality.
-
-This is especially profound when we consider that the average American youth spends 900 hours a year in school, and another 1,200 hours a year watching television. In fact, 70 percent of the American adult waking life is spent in front of digital media.<sup>[146](#ref_146)</sup><a name="rev_146">&nbsp;</a> The average 78.6 year old American will spend nine years of his life watching TV, two years of which is just watching commercials. Another ten years is spent working. Remove the twenty-five years spent sleeping and it’s pretty clear to see that the majority of our life is dominated by the ideas, desires, and directives of others. Sadly, men only spend nine hours and eighteen seconds of their life having an orgasm, and even sadder, women only have one hour and twenty-four minutes of orgasm their entire life.<sup>[147](#ref_145)</sup><a name="rev_147">&nbsp;</a> 
-
-
-The fact that the majority of our awareness is spent in front of information that is being fed to us is not a detail that has gone unnoticed by those who spend their entire career figuring out how to exploit that fact.
-
-Screenwriters are well aware of this and take advantage of their access to their viewers’ attentive awareness to plant the seeds of their own agenda, or more commonly that of their employer. Zack Stentz, one of the screenwriters at Dreamworks behind X-Men was quite clear on this:
-
-> *The gay rights / post-holocaust Jewish identity / civil rights allegory stuff was all put in there on purpose. Joss Whedon designed the whole ‘Cure’ storyline in the comic books specifically as a gay allegory, and Bryan Singer wove his own feelings of outsiderdom as a gay man into the movie series. The whole ‘Have you ever tried NOT being a mutant’ coming out scene in X2 isn't even particularly subtle, while it is effective.*<sup>[148](#ref_148)</sup><a name="rev_148">&nbsp;</a>
-
-
-More subtle, and perhaps even diabolical symbolism also abounds and is the subject of quite a lot of speculation from groups ranging from concerned parents to raving conspiratards. I’m not referring to the massive amount of subliminal sexual, violent imagery and symbolism that one regularly finds in Disney cartoons, et al, for children, for example, or commercials for everything from booze to cars. I am referring to symbols and images that have no meaning to the viewer. What would the value be to whoever inserted these seemingly random and meaningless images?
-
-The value is significant because simply exposing the unconscious to a symbol imbues it with the energy to dwell and grow in the collective unconscious, and once there, various other “payloads” already attached to it also thrive.
-
-This may sound like paranoia based on superstition, but if one is to believe the writings of Belgian-French explorer Alexandra David-Néel who, dressed as a beggar with only a compass, money (for ransom in case she was kidnapped) and a gun, snuck into the Lhasa, Tibet (at the time, it was forbidden for foreigners to enter that sacred city), then we must consider the power and potential of what science today considers irrational and impossible.
-
-As a woman of sound scientific thinking her opinions and observation carried weight. Doctor A. D’Arsonval, a member of the French Academy of Sciences, The Academy of Medicine, professor at the College of France and president of the Institute of General Psychology, said of Alexandra David-Néel:
-
-> *This well-known and courageous explorer of Tibet unites in herself all the physical, moral and intellectual qualities that could be desires on one who is to observe and examine a subject of this kind.*<sup>[149](#ref_149)</sup>
-
-So when she described how she used the techniques taught to her by the Tibetan magicians to conjure up her own *tulpa*, which is a symbolic thought-form that is not only given life, but can manifest and exist as an independent being, in her case manifesting as a short, pudgy, jolly monk, as per her intentions,it is not so easy to discard the idea of material instances of thought as pure fantasy. 
-
-Perhaps even more interesting was that this tulpa, once it began to be visible to others, began to have its own free will, a life of its own. The jolly monk eventually became a major problem for her, and she had to spend six months “dissolving” it. As she states:
-
-> *The fat, chubby-cheeked fellow grew leaner, his face assumed a vaguely mocking, sly, malignant look. He became more troublesome and bold. In brief, he escaped my control. I ought to have let the phenomenon follow its course, but the presence of that unwanted companion began to prove trying to my nerves; it turned into a ‘day-nightmare.’ Moreover, I was beginning to plan my journey to Lhasa and needed a quiet brain devoid of other preoccupations, so I decided to dissolve the phantom. I succeeded, but only after six months of hard struggle. My mind-creature was tenacious of life. There is nothing strange in the fact that I may have created my own hallucination. The interesting point is that in these cases of materialization, others see the thought-forms that have been created.
-
-Now, imagine the potential power of the awareness of 114,000,000 consciousnesses all being exposed to the same symbolism at the same time, as happened in the Super Bowl XLIX (#49, 2014). Think of it, in a way, as a national prayer, but rather than it being like National Prayer Day in the U.S. (May 7th) when the President signs a proclamation encouraging all Americans to pray on this day and “to turn to God,” it’s more like a National Mind Harvesting Minute. If there is a doubt as to whether the power of focused awareness actually has any effect on the “real” world, one only need to look at some of the research done on that subject.<sup>[150](#ref_150)</sup><a name="rev_150">&nbsp;</a>, <sup>[151](#ref_151)</sup><a name="rev_151">&nbsp;</a>
-
-According to a very suspicious article<sup>[152](#ref_152)</sup><a name="rev_152">&nbsp;</a> that was written by a conveniently anonymous designer who claimed to have once worked in the graphics department of a huge media company, out of boredom and his own anti-Bush political agenda he deliberately hid many occult symbols (from John Dee, the infamous sixteenth century occultist to the Queen of England), pyramid eyes, pentagrams, and more, into the intro and promo videos for everything from major sports events to war coverage. It was not the claim that was suspicious, as with just a little investigating anyone can confirm his claims, but that this published article, which appeared overnight on over 36,000 websites, conveniently provided a “plausible deniability” defense for the media companies responsible.
-
-What I personally find most fascinating is the research into what is essentially the collective consciousness of artificial intelligence, or *A.I. Swarms*, as they are called,<sup>[153](#ref_153)</sup><a name="rev_153">&nbsp;</a>, <sup>[154](#ref_154)</sup><a name="rev_154">&nbsp;</a> and the early attempts to create artificial humans.<sup>[155](#ref_155)</sup><a name="rev_155">&nbsp;</a> Science and technology is attempting to create their own *tulpas,* and one day, too, they may too prove to be “more troublesome and bold, escaping our control.”.. but this is a topic for another book.
-
-The point here is that these archetypes have the power to instantiate themselves in our reality if they have enough energy and stability.  This energy can be directed to them via a participant's awareness, even without their knowledge.
-
-Tying this back, were there a mantra that represents the tholonic trigram of creation it would be "*aum sat chit parabrahma."*  Coincidentally, there is such a mantra, which I learned of many months after writing this book.  It called the  "Moola Mantra", and it is: 
-
-> _**Aum** **Sat** **Chit** Ananda **Parabrahma** Purushothama Paramatma Sri Bhagavathi Sametha Sri Bhagavathe Namaha_
-
-*Ananda* means “bliss” or “divine joy”, from which we can assume that the creative process is a very blissful, joyful endeavor, especially between *chit* and *parabrahma*. An Internet search will provide a lot more information, if you have the interest.  
-
-We can find similar traditions in many other religions and beliefs. I share this not to promote any belief, but to show that the tholonic concept of creation is not only ancient, but ubiquitous, mitigated only by the context and culture of the time and place.
-
-### The Very Old New World Order
-
-Wait, isn't all this “our minds are being controlled and/or we’re all imprisoned in an artificial reality” stuff the basic plot of *The Matrix* and dozens of other dystopian science fiction stories that we love? Throw in some Illuminati and reptilians and you have a full-blown New Age paranoid conspiracy theory.
-
-Perhaps, but these ideas are not new. The idea that thoughts, beliefs, and awareness have some intrinsic power is endemic to human society and has been around for a long time, getting reskinned and redistributed with each new culture, going back to ancient myths. We can even see this in _cultural hegemony_, which is defined as:
-
-> “…*the domination of a culturally diverse society by the ruling class, who manipulate the culture of that society—the beliefs, explanations, perceptions, values, and mores—so that their ruling-class worldview becomes the worldview that is imposed and accepted as the cultural norm; as the universally valid dominant ideology that justifies the social, political, and economic status quo as natural, inevitable, perpetual and beneficial for everyone, rather than as artificial social constructs that benefit only the ruling class.”*<sup>[156](#ref_156)</sup><a name="rev_156">&nbsp;</a>
-
-It is the idea that the culture of one group dominates and controls the culture of another through the propagation of beliefs that are unquestionably accepted by the dominated culture. This is one of the foundations of Marxist philosophy that was first put forth by the Italian political theorist of the early twentieth century Antonio Gramsci. The Fascists didn't like his theories, so he was imprisoned for years, where he died in 1937 at age forty-six. It was further elaborated on by one of the most influential and controversial scholars of modern times, philosopher Michel Foucault, in his idea of *infra-power*,<sup>[157](#ref_157)</sup><a name="rev_157">&nbsp;</a> a web of institutions and cultural axioms that span all classes and all forms of government. Today, with the aid of modern technology, that infra-power has made its way into every home, every belief, and every mind in the civilized world (and much of the uncivilized world).
-
-Removing the Marxist overtones in Foucault’s anti-capitalist thoughts, we are left with the idea of an intelligence with an agenda to dominate beliefs, and therefore the values, desires, goals, etc., of humanity, an idea that has existed since the dawn of society. 
-
-More recently, with the advent, of the Internet, interactive media, government surveillance (such as in England and China), and loss of privacy, the reality of the *Observer and Judger*, the all-seeing eye of the panopticon,<sup>[158](#ref_158)</sup><a name="rev_158">&nbsp;</a> has been moved from God and Santa Claus to governments and banks. One might conclude that this shift from a generally benevolent divine watcher to one that is only concerned with authority, control, and profit is the source of modern day’s paranoid and suspicious beliefs about external forces that manipulate and control humanity, be they demons, shadow governments, deep states, or aliens. However, we should be no more critical of such ideas as we would be of a dog that barks, because we humans are hardwired to conspire.
 <div style="page-break-before: always"></div>
 References
 ==========
@@ -3174,3 +3052,5 @@ Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystal
 <a name="ref_161">161</a> [<span class="reflink"> &#x005e; </span>](#rev_161): @steingart. 	 Dan Steingart “**The Unfortunate Tetrahedron.**” Medium, The 	Unfortunate Tetrahedron, 30 May 2017, 	https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.
 
 <a name="ref_162">162</a> [<span class="reflink"> &#x005e; </span>](#rev_162): The BBC produced a very clever documentary on the history of number 1 that is worth watching. **The Story Of One | BBC Documentary 2014**. https://www.youtube.com/watch?v=ojqfwtwitMI.
+
+<a name="ref_163">163</a> [<span class="reflink"> &#x005e; </span>](#rev_163):  Text take directly from https://templesinindiainfo.com/moola-mantra-lyrics-simplified-meaning-and-full-meaning with minor editing.
