@@ -1,6 +1,6 @@
 <center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
 <div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!vie 25 oct 2019 18:19:58 EDT v.1.0.3}
+DRAFT - Version Alpha {!lun 28 oct 2019 11:23:49 EDT v.1.0.4}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1284,7 +1284,7 @@ If we accept the premise that everything that is created has the attributes of, 
 
 There is one more attribute it has as well that is far less obvious, and that is *intention*, because whatever awareness conceived of a point in nothingness had to have the intention to conceive if it. So, our point in the middle of infinite nothingness has two attributes; awareness and intention.
 
-This may sound like we're teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
+We see this concept that all of creation is the result of intention is spiritual texts, such as in the Quran which repeats numerous times that all of creation originates from the will of Allah.  This concept of creation as a product if divine will is actually pretty common.  This may sound like we're teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
 
 So, our first dot has two attributes, awareness and intention, and the limitation of 0-dimensions. This dot then is itself a form of awareness and being so, it will be aware of the existence of *dotness*, not *its dotness*, just *a dotness*. Just as the awareness of a conceptual point created the first dot, the first dot's awareness of dotness is what creates the 2<sup>nd</sup> (green) dot, and in doing so, creates the 1<sup>st</sup> instance of a dimension. With two dots, we now have a relationship between them as shown by a line *(Fig. c3)*.
 
@@ -1449,6 +1449,9 @@ You may also notice what looks like an inconsistency in the order of the letters
 We started with one trigram, created one more, resulting in 4 trigrams. Each generation of self-similar creation increases the number of trigrams by 4. Here is what the generations look like.
 
 <center><img src="../Images/062-4generations.png" style="width:90%" /></center>
+
+
+
 In the 1<sup>st</sup> generation of a simple trigram, we see a few fundamental rules, such as:
 
 -   All sides are of equal length
