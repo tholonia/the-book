@@ -1,9 +1,49 @@
-<center><img style="text-align:center;width:100%" width="100%" src="../Images/000-cover.png" /></center>
-<div style="page-break-before: always"></div>
-DRAFT - Version Alpha {!mié 30 oct 2019 02:21:42 EDT v.1.0.7}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DRAFT - Version Beta {!Wed 30 Oct 2019 10:50:52 PM EDT v.1.2.7}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
+
+**ISBN:** 9781703984903
 
 This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://github.com//tholonia/the-book>
 
@@ -181,7 +221,7 @@ An example of universal laws or patterns that span many scopes might be the Fibo
 <center><img src="../Images/003-phi-shell.png" style="width:5.76944in;height:2.78333in" alt="fractal-nature-1" /></center>
 Another universal law might be simple fractal math formulas, like *f(x)= x*<sup>2</sup>*-1, which seem to mimic nature and* can be found across all forms of existence<sup>[6](#ref_006)</sup><a name="rev_006">&nbsp;</a>, suggesting that self-similarity is a universal property. *Power laws* explain how a relative change in one measurement can result in a proportional relative change in another measurement (i.e. logarithmic or exponential), and we see these across all levels of existence as well. These universal laws can be found in astronomy, physics, biology, meteorology, cosmology, mathematics, economics, and many other areas including society, wealth and work distribution, competition, media exposure, and much more.
 
-<center><img src="../Images/004-fractalprocess.png" xstyle="width:5.3875in;height:2.22986in" alt="fractal.png" /></center>
+<center><img src="../Images/004-fractalprocesstri.png" xstyle="width:5.3875in;height:2.22986in" alt="fractal.png" /></center>
 <center><img src="../Images/005-fracgened.png" xstyle="width:5.44167in;height:1.56597in" /></center>
 Even though there are many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
@@ -208,7 +248,7 @@ One theory that sheds light on new thinking about chaos and order is David Bohm'
 
 To demonstrate this concept, Bohm uses an ink droplet analogy. In this demonstration, he places three drops of ink into a cylinder of glycerin. He then spins the cylinder which “mixes” the ink droplets together. He then reverses the spin and reconstructs the ink drops. When the ink droplets are in their original form, at the beginning and the end of the spinning, they are *explicitly* ink droplets and have the *order* of ink drops. When they are mixed up together, they are *implicitly* ink droplets only, and their order would be considered *chaotic* because there is no order of ink drops. The order of the ink drops has been destroyed, but the information of that order exists as a *virtual* ink-drop within the chaos of their mixed state.<sup>[7](#ref_007)</sup><a name="rev_007">&nbsp;</a>
 
-<center><img src="../Images/006-implicate-explicate.png"  /></center>
+<center><img src="../Images/inkdrop.png"  /></center>
 In practical terms, this theory says that when something exists in the physical world it is in an *explicit*, or *unfolded* state. To exist in this state, it must conform to a set of rules that define the archetype of the form it will take. When it does not conform to these rules, it still exists, but only in an *implicit* or *enfolded* state, a state we cannot see or interact with (under normal circumstances). This state has its own rules as well but they are a superset of the *explicit* rules, making physical reality as we know it just one sub-state that a *thing* can be in.
 
 It is these local and universal laws that cause form to *unfold,* to *explicate* itself, self-organize, form patterns and move in accordance with these laws. By the same token, these laws will also *enfold* or *implicate* these forms, causing them to return to an unrecognizable state. The laws of existence are constantly moving chaos to order and order to chaos.
@@ -301,10 +341,8 @@ Another law which appears to be local yet applies to many contexts is Ohm's Law,
 This law can be displayed as follows:
 
 <center><img src="../Images/010-ohmslaw.png" style="width:6.72708in;" /></center>
-If you are not familiar with Ohm's Law, you can understand it using the water example below.
-
-<center><img src="../Images/011-water-example.jpg" style="width:5.7in" /></center>
-In this example, the concept of **Power** remains the same, as it is an abstract and derived concept that represents the rate, over time, at which energy (via electrons, water, etc.) is transferred. **Current** is the amount of water (i.e. number of molecules), that is flowing through the pipe. **Voltage** would be analogous to water pressure, which determines how far the water shoots out of the pipe. **Resistance** is represented by the size of the pipe the water is flowing through.
+<img src="../Images/011-water-example.jpg" style="float:right;width:40%" />
+If you are not familiar with Ohm's Law, you can understand it using the water example. The concept of **Power** remains the same, as it is an abstract and derived concept that represents the rate, over time, at which energy (via electrons, water, etc.) is transferred. **Current** is the amount of water (i.e. number of molecules), that is flowing through the pipe. **Voltage** would be analogous to water pressure, which determines how far the water shoots out of the pipe. **Resistance** is represented by the size of the pipe the water is flowing through.
 
 Ohm's law is actually Newton's 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity<sup>[9](#ref_009)</sup><a name="rev_009">&nbsp;</a>, defining the *object* as *electricity*, the *force* as *current*, the *mass* as *resistance*, and the *acceleration* as *voltage*.
 
@@ -591,15 +629,15 @@ Evolutionists will say that all the other options, at one time in our past, were
 
 Let's take a look at a couple of macro examples on the social human scale and examine the serious questions it raises about the way we understand it.
 
-### Ayahuasca
+### Yagé
 
-One of the more fascinating details about *ayahuasca*, a ritual psychoactive drink from the Amazon, is how it is made and how it was discovered in the first place. The main active ingredient of ayahuasca is N, N-Dimethyltryptamine (DMT). DMT is a powerful hallucinogenic drug that exists in plants (and the human brain) yet has no effect on humans when taken orally because of the enzyme *monoamine oxidase* (MAO) in our blood that prevents it from passing the blood/brain barrier, which is a semipermeable membrane that separates the blood from the cerebrospinal fluid and which blocks many cells, particles, and large molecules, from entering the brain. This is a very good thing, as there is a lot of stuff floating around in our blood that can really mess with the brain.
+This ritual psychoactive drink from the Amazon is also known as *ayahuasca*, *uni*, *nixi pãe*, *caapi*, *camarampi*, and many other names as well.   One of the more fascinating details about yagé is how it is made and how it was discovered in the first place. The main active ingredient of yagé is N, N-Dimethyltryptamine (DMT). DMT is a powerful hallucinogenic drug that exists in plants (and the human brain) yet has no effect on humans when taken orally because of the enzyme *monoamine oxidase* (MAO) in our blood that prevents it from passing the blood/brain barrier, which is a semipermeable membrane that separates the blood from the cerebrospinal fluid and which blocks many cells, particles, and large molecules, from entering the brain. This is a very good thing, as there is a lot of stuff floating around in our blood that can really mess with the brain.
 
 In order for the DMT to get to the brain, it has to pass through the blood/brain barrier, and for that to happen there must be something that stops the MAOs from doing their job. That thing is called a *MAO Inhibitor* (MAOI). MAOIs are commonly used in pharmaceuticals to help with ailments such as depression and Parkinson's disease (which, according to Stanford University, are the same two things that tango dancing also helps).
 
 Modern science has known about both of these drugs for a little over 100 years. Indigenous Amazonian shamans have known about them for about 5,000 years. Somehow, in a manner beyond the ability of modern Western man to comprehend, these shamans managed to discover that the bark of one particular vine, from over 40,000 species of plants, contained a lot of DMT. They also, somehow, knew that an MAOI was needed, which they found in another of those 40,000 species. Traditional anthropologists would have you believe they discovered this by trial and error, but with just a little thought, it is clear how ridiculous that theory is.
 
-Of the 1,600,000,000 possible pairing combinations of Amazonian plants, only one produces basis of ayahuasca (it’s actually far more complicated to make ayahuasca that just mixing these two plants), and even then, only when a certain part of the plants are used. In addition, these 1,600,000,000 possibilities do not consider the variables of proportion or the specifics of preparation. For that many trial-and-error tests, even if every man, woman, and child in all of South America partook in the finding, preparing, and experimenting, it would take over 2,000 years, which then raises the question of record-keeping as to what was already tested. The fact that modern science expects any semi-intelligent person to believe its trial-and-error theory is laughable, but also pretty frightening that so many scientists *do* believe this.
+Of the 1,600,000,000 possible pairing combinations of Amazonian plants, only one produces the basis of yagé (it’s actually far more complicated to make yagé than just mixing these two plants), and even then, only when a certain part of the plants are used. In addition, these 1,600,000,000 possibilities do not consider the variables of proportion or the specifics of preparation. For that many trial-and-error tests, even if every man, woman, and child in all of South America partook in the finding, preparing, and experimenting, it would take over 2,000 years, which then raises the question of record-keeping as to what was already tested. The fact that modern science expects any semi-intelligent person to believe its trial-and-error theory is laughable, but also pretty frightening that so many scientists *do* believe this.
 
 ### Curare
 
@@ -1196,7 +1234,7 @@ As you can imagine, a computer can create millions of connections between triple
 
 With all these connections, we can ask the computer typical questions like “*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15 degrees?*” Of course, social media companies, who have their own data that they aggressively collect from their users, can ask questions like “*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*” More worrying are the queries of the near future, such as “*Tell me all the names of people that are likely to commit a crime in the next week.*” That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them. At Stanford University they have developed AI system that has a 91% accuracy rate of determining if you are gay or straight<sup>[50](#ref_050)</sup><a name="rev_050">&nbsp;</a>… and that is just the beginning.
 
-Conclusion: Language is based on rules of nature and can be deconstructed into triplets.
+Language is based on rules of nature and can be deconstructed into triplets.
 
 #### **Claim 43:** Information must relate to something. 
 
@@ -1999,7 +2037,7 @@ What is truly amazing about this arrangement is that the birds and humans have d
 
 Are we being asked to believe that a really smart bird came up with the idea, explained it to his bird tribe, then educated and trained not only them but the humans in the manner of communication that this industrious bird invented? Likewise, how long would it take for a human to know that a hopping, chattering bird was trying to till him “Hey, I found a beehive I am totally incapable of getting to, so I will tell you where it is if you and your boys use your smoke and axes to get to it. You then take the honey and give us the wax and larvae. Deal?”
 
-This sounds quite similar to the improbabilities described in the tall-tales of ayahuasca and curare.
+This sounds quite similar to the improbabilities described in the tall-tales of yagé and curare.
 
 A better explanation is that the intelligences of the archetypes have made this arrangement and once made, is transmitted to their instances, the birds and the humans, who effectively test-drive the idea to the best of the limited abilities of the instances. We see these same type of arrangements ants, spiders, beetles, monkeys, etc.
 
