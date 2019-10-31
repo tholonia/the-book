@@ -38,14 +38,14 @@
 
 
 
-DRAFT - Version Beta {!Wed 30 Oct 2019 10:50:52 PM EDT v.1.2.7}
+DRAFT - Version Beta {!Thu 31 Oct 2019 01:21:01 AM EDT v.1.2.9}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
 
 **ISBN:** 9781703984903
 
-This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://github.com//tholonia/the-book>
+This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://tholonia.github.io/the-book/>
 
 This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof. A reference copy of this license may be found at https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -2427,7 +2427,7 @@ In our example here, the person doing the flipping would be the intelligence tha
 
 <img src="../Images/102-tpaths.png" style="float:left;width:3.12986in;height:2.71944in" />A simple example more aligned to the tholonic model would be how we can emerge Bell curves from stable points in a lineage of trigrams. By assigning a value for points on the spectrum, and a binary value representing the generation of the trigram, we can create a unique value for every point that identifies its place on the spectrum and its level. If we combine each of these numbers, we can create one value for the entire lineage that has an extractable record of every spectrum value at every level. This one number would then act as a memory of all the ancestors. We can see this easily in simple binary math. If we have five generations of numbers that double with each generation, such as 1,2,4,8,16, and we have the number 22 representing the sum of all the contributing generations, we can easily determine that only the 2<sup>nd</sup>, 3<sup>rd</sup> and 5<sup>th</sup> generations contributed, because only 16, 4 and 2 can create 22. The tholons are similar in that each tholon has a fingerprint that is encoded in every one of its descendants.
 
-What this means is that everything that exists is *already* a record of what works from the first moment of creation, through every generation, up to and including the thing that exists. Life, Reality, and Everything *is* the warehouse of all knowledge. We just haven't yet figured out how to decode (most of) it.
+What this means is that everything that exists is *already* a record of what works from the first moment of creation, through every generation, up to and including the thing that exists. Life, Reality, and Everything *is* the warehouse of all knowledge. We just haven't yet figured out how to decode (most of) it.  Appendix C,*The Thologram and the I-Ching*, specifically addresses this and shows exactly how each tholon has a naturally existing binary signature.
 
 One possible instance of this idea is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants. In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.<sup>[120](#ref_120)</sup><a name="rev_120">&nbsp;</a> Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome. Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
 
@@ -2819,7 +2819,7 @@ The thologram also a a concept of “upper” and Lower” in that the ‘upper�
 <center><img style="text-align:center;width:100%" src="../Images/tri-is-hex.png" /></center>
 It might see counterintuitive that the *upper* or *outer* trigrams of the I-Ching equate to the smaller and smaller embedded trigrams of the thologram, but not when you consider that it is the smallest and most embedded tholons that represent the bleeding edge of reality where new creations are being born, dying, and morphing.  The farther up the thologram the less things change.  In the thologram, the parent trigrams is what forms the environment or context for a new N-source to come into existence, so the parent trigram is the time of gestation for the yet to be manifest N-state.  The smaller, inner trigram inside the parent is where the newly created N-state crates its own environment.  This is why the I-Ching’s *lower* trigram equates to the tholon’s parent tholon, and the upper trigram equates to the child tholon’s instantiation. This is different from when we create a tholon by incorporating the trigrams all on the same map (the grayed out trigrams in the above example).  
 
-*Note:One interesting details when we use the outer trigram on the parent level with the inner trigram on the child level; all the numbers for each side equal nine (1+6+2, 2+4+3, 3+5+1).  That does not mean it is correct, but it does mean there is natural symmetry, and symmetry is an excellent indicator of order, and therefore energy.*
+*Note: One interesting details when we use the outer trigram on the parent level with the inner trigram on the child level; all the numbers for each side equal 9 (1+6+2, 2+4+3, 3+5+1).  That does not mean it is correct, but it does mean there is natural symmetry, and symmetry is an excellent indicator of order, and therefore the movement of energy.*
 
 In the hexagram there are two lines that represent the best form of expression in the inner and the outer level, and those are the middle line of the lower trigram (line #2) and the middle line of the upper trigram (line #5).  Tholonically these two points are the beginning points, and therefore the creators, of the only two lines in the tholon that are capable of interacting with other tholons (i.e., anything outside itself).
 
@@ -2855,7 +2855,7 @@ Once we cross the line from inner to outer, the pattern flips.  What was **yang*
 Here are a couple of interesting observations:
 
 - In-between line 3 and line 4 is when/where the N-state is negotiated as a result of a stable pattern emerging on the spectrum between two poles.  This would not only be equivalent to birth but tholonically is a reconstitution, a resurrection, of the N-state from which its duality was born.
-- We see 6 popping up a lot.  We have 6 steps of creation of a hexagram, six electrons in carbon, the major building block of life, the N-source has a value of 6, we see 6 play a significant role in creation myths such as Genesis and the Quran where all of creation was accomplished in 6 days, and in the Babylonian creation myth, the Enuma Elis, where God created 6 gods, each in charge of the 6 different aspect of creation (where they spent 2 days creating everything and the rest of their days fighting with each other).  6 seems to be very significant number and is firmly associated with the concept of creation.
+- We see 6 popping up a lot.  We have 6 steps of creation of a hexagram, six electrons in carbon, the major building block of life, the N-source has a value of 6, the tetrahedron (tholon structure) is composed of 6 vectors, we see the number 6 play a significant role in creation myths such as Genesis and the Quran where all of creation was accomplished in 6 days, and in the Babylonian creation myth, the Enuma Elis, where God created 6 gods, each in charge of the 6 different aspects of creation (where they spent 2 days creating everything and the rest of their days fighting with each other).  6 seems to be very significant number and is firmly associated with the concept of creation.
 
 
 
@@ -2940,22 +2940,22 @@ The most obvious detail is shown in *Fig. e4a, e4b, and e4c,* and it’s quite i
   - Stagnation (56) + Duration (14) = Peace (7)
   - After Completion (21) + Peace (7) = Wooing (28)
   - After Completion (21) - Peace (7) = Duration (14) 
-  - Every number (14, 21, 28, 35, 42, 49, 56) is a product of 7 (7x2,7x3, 7x4, 7x5, 7x6, 7x7, 7x8)
+  - (Decrease 49 - After Completion 21) + Increase 49 = (Stagnation 56 + Peace 7) 
+  - The opposite of Stagnation (56) is the ‘white dot’ hexagram of Peace (7)
+  - Every number (14, 21, 28, 35, 42, 49, 56, 63, 70) is a product of the ‘white dot’, which as a value of 7 (7x2,7x3, 7x4, 7x5, 7x6, 7x7, 7x8, 7x9, 7x10)
+  - Ever hexagram as an equal number of yin and yang lines
+  - the sum of all the side (70) = the ‘white dot’ (7) = 63, the maximum value and the value every pair equals to.
   - Only the numbers of the top trigram, which is the originating trigram, are odd.
   - There are many more patterns and relationships as well, and this is only within one tholon that has no parents or children!
 
-
-
-
-
-
+Given that ever number has a patterned relationship with one of more numbers, we can reverse engineer where every hexagram sits in the thologram, meaning, we can assign a unique binary value to every vector (or point, but we are only showing vectors here).  Remember the chapter that hypothesized how if each tholon had a unique binary value then we could unfold the history of that tholon from the moment of creation to the present? Using the I-Ching as a super-finite set of unique binary numbers, we just demonstrated this.
 
 
 
 <center><img style="text-align:center;width:100%" src="../Images/tritest.png" /></center>
-I think it is quite obvious and provable that the I-Chine and the thologram are based on the same model.  Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can say that the thologram, and the Kabbalah is also based on the same model.
+I think it is quite obvious and provable that the I-Ching and the thologram are based on the same model.  Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can say that there is an underlying model that many perspectives are based on.
 
-I do not doubt that the thologram could be used as a tool for divination, mysticism and magic, and many other applications.  Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another`.  The only limitation is the creative imagination of the perceiver.
+I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy as much as it could for chemistry, physics, electronics, and many other applications.  Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another.  The only limitation is the creative imagination of the perceiver.
 
 
 
