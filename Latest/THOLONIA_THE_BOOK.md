@@ -38,7 +38,7 @@
 
 
 
-DRAFT - Version Beta {!Thu 31 Oct 2019 01:21:01 AM EDT v.1.2.9}
+DRAFT - Version Beta {!Thu 31 Oct 2019 12:05:06 PM EDT v.1.3.0}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1392,7 +1392,7 @@ Tholograms
 
 ### Geometry II
 
-<img src="../Images/056-NDCpoints.png" style="float:right;width:2.54583in;height:2.34167in" />Let's take these three relationship attributes of **C**ontributes, **N**egotiates, and **D**efines (which we'll shorten to just C, N, and D) and map them to the three points of a trigram.
+<img src="../Images/056-NDCpoints.png" style="float:right;width:2.54583in;height:2.34167in" />Let's take these three relationship attributes of **C**ontributes, **N**egotiates, and **D**efines (which we'll shorten to just C, N, and D) and map them to the three points of a trigram.  One point to add here is that the word *negotiate* is synonymous with *achieving a balance*.  We could even replace the word *negotiate* with *balance* but *negotiate* implies a process rather that a state, plus, the word *balance* has a lot of baggage in today’s culture that we’d prefer not to inherit, so *negotiate* is a better word.
 
 How do we know what attribute maps to what point? Further on we will show a more complete argument, but for now we can simply say if we have a parent, a child and a peer, as we do in both the holarchy and thologram, the parent would be the 1<sup>st</sup> point, the child the 2<sup>nd</sup> point, and the peer the 3<sup>rd</sup> point, as shown in the figure on the right.
 
@@ -1432,7 +1432,7 @@ To further illustrate this point, we can use the semantic example above where we
 
 #### **Claim 46:** Relationships define the function and purpose of any instance
 
-Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition (the line from N to D )? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions (D-C line), we would see how existing systems and new systems get along with each other, which would be some form of cooperation or conflict. On the spectrum of Contribution and Negotiation (C-D line), we would see some sort of value returned to the society or culture, perhaps in the forms of fealty, dedication, or service (*Fig. t3*).
+Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition (the line from N to D )? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions (D-C line), we would see how existing systems and new systems get along with each other, which would be some form of cooperation or conflict. On the spectrum of Contribution and Negotiation (C-D line), we would see some sort of value returned to the society or culture, perhaps in the forms of work, dedication, or service (*Fig. t3*).
 
 <center><img src="../Images/058-interrules.png" style="width:40%" /></center>
 For the purposes of demonstration, we'll use more human context ideas going forward, but keep in mind these are just a few archetypal examples out of many, and only limited to one context. 
@@ -1441,7 +1441,7 @@ For the purposes of demonstration, we'll use more human context ideas going forw
 
 -   **Cooperation of conflict** resulting from *Definition and Contribution*.
 
--   **Fealty, dedication, service** resulting from *Contribution and Negotiation*.
+-   **Work, dedication, service** resulting from *Contribution and Negotiation*.
 
 This trigram of relationships are present in every instance of creations and will be expressed according to the context and scope of its instantiation.   The example above uses concepts that are relevant to the human experience and which we have a functional and practical understanding of working idea of; such as *laws* (as in civil laws), *service* and *cooperation*.   In another context, such as the atomic world, *laws* would refer to the limits that an atom must exist within. *Cooperation/conflict* would describe how the atom’s negative and positive forces work with, and against, each other, or perhaps how atoms fuse (unify, as in nuclear fusion) and fiss (as in nuclear fission, and yes, I just made up the word “fiss”, from the Latin *fissio*, meaning "a breaking up”). *Dedication* describes the aspects of an atom that enhances the ability or properties of the of its parent tholon, or the realm from which it was created, which in the tholonic view would be the realm of subatomic particles, such as electron protons and neutrons.  What would subatomic particles be without atom’s?  What would atoms be without molecules? What would organelles (specialized structures within a living cell) be without molecules… and up the chain it goes.  In another direction of this same concepts, but perhaps more along the *service* idea, this might be seen in the way atoms enable electrons to move a charge very easily and very fast, or how atoms act as a sea of electrons that can be called upon at any moment to accept or donate electrons… a service we use and see everyday in the form of the electrical “ground”, that third pin on every electrical outlet.
 
@@ -2914,50 +2914,60 @@ Equating the ***upper trigram*** to the three attributes of N, D, C
 
 Let’s run another test so see if the thologram and the I-Ching are two views of the same model.
 
-Previously we assigned the positions of the points as 1,2,3,4,5,6 in order to work with the positions of the lines.  Now we need to work with the hexagrams and their values so we need to use the position of the point as the exponential value of 2 (‘cause we’re working in binary), and we now need to start counting at 0, not 1.  In *Fig. e1* you can see the values arrived at for each point, and the exponent used to get that value.
+<center><img style="text-align:center;width:100%" src="../Images/tritest.png" /></center>
+Previously we assigned the positions of the points as 1,2,3,4,5,6 in order to work with the positions of the lines.  Now we need to work with the hexagrams and their values so we need to use the position of the point as the exponential value of 2 (‘cause we’re working in binary), and to do that we need need to start counting at 0, not 1.  In *Fig. e1* you can see the values arrived at for each point, and the exponent used to get that value.
 
 *Fig. e2* shows the sum of these values for each trigram and each side. 
 
 In *Fig e3* we have added the name and the hexagram.  Don’t forget that all these numbers are binary, and not the number as they appear in the traditional I-Ching layout.
 
-The most obvious detail is shown in *Fig. e4a, e4b, and e4c,* and it’s quite impressive
+For clarity’s sake (even though it may only make things more obtuse), I’ve assigned variable names to each property to make the patterns easier to notate and read.
+
+<center><img style="text-align:center;width:100%" src="../Images/trialgebra.png" /></center>
+Here are detail worth noting:
+
+- Comparing the three vectors of the trigram to their I-Ching equivalents we see amazingly similar values:
+
+
+| Tholonic (outer)                                             |                                                              | I-Ching                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dot-blue.png" style="width:50px"/><img src="../Images/dot-green.png" style="width:50px"/> | *Decrease*: Restrictions in outer resources requires one to discover and develop inner resources. |
+| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dot-red.png" style="width:50px"/><img src="../Images/dot-green.png" style="width:50px"/> | *Duration*: The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth. |
+| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dot-green.png" style="width:50px"/><img src="../Images/dot-blue.png" style="width:50px"/> | *After Completion:* In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay. |
+
+
 
 - The sum of any trigram and the side opposite that trigram always equal 63, the maximum number possible.  This was exciting to discover as it supports the tholonic claim that the effect of any point can be seen on the side opposite that point.
 
-- What I was not expecting to see is the math pattern of the tholon also works!  For example, 14 + 21 = 35.
+- What I was not expecting to see is the math pattern of the tholon also works!  For example, 14 + 21 = 35, or **H + S = P**
 
-- What about the middle trigram?  It does not have any other value to pair with.  Not only is there no room for its pair, it would need to be the value of 7.  However, the value of 7 does exist of we sum the three point id 1, 2 and 4, which would be the point that creates the ‘white dot’ of the tetrahedron, and it also is exactly opposite the center trigram of ‘Stagnation.’  The validity of the ‘white point’ being created by the sum of the red, green and blue dots is supported here.
+- What about the middle trigram?  It does not have any other value to pair with.  Not only is there no room for its pair, it would need to be the value of 7.  However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^).  These are the points that creates the ‘white dot’ of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,‘Stagnation.’  This math validated the ‘white point’ being created by the sum of the red, green and blue dot.
 
   Just as an interesting aside,. the hexagram that is binary value 7 is “Peace”, <img src="/home/jw/sites/the-book/Images/hexagram11.png" style="width:30px"/>which is defined as “heaven on earth” in the text, which is pretty compatible with the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea of the triangle.
 
 - We have a number of other patterns, for example 
 
-  - Stagnation (56)  - Before Completion (42) = Duration (14)
-  - Stagnation (56)  - Duration (14) = Before Completion (42) 
-  - Stagnation (56)  - Increase (49) = Peace (7)
-  - Stagnation (56) + Increase (49) = Before Completion (42) (after lowering the number by one octave; 105 - 63)
-  - Stagnation (56) + Before Completion (42) = Decrease (35) 
-  - Stagnation (56) + Duration (14) = Peace (7)
-  - After Completion (21) + Peace (7) = Wooing (28)
-  - After Completion (21) - Peace (7) = Duration (14) 
-  - (Decrease 49 - After Completion 21) + Increase 49 = (Stagnation 56 + Peace 7) 
-  - The opposite of Stagnation (56) is the ‘white dot’ hexagram of Peace (7)
+  - **T~0~ - T~3~ = H** ; *Stagnation (56)  - Before Completion (42) = Duration (14)*, ergo, **T~0~ - H = T~3~** , **T~3~ + H = T~0~**
+  - **T~0~ - T~1~ = W** ; *Stagnation (56)  - Increase (49) = Peace (7)*, ergo, **T~0~ - W = T~1~**,  **T~1~ + W = T~0~**
+  - **T~0~ + T~3~ = P** ; *Stagnation (56) + Before Completion (42) = Decrease (35)* , ergo **P - T~3~ = T~0~**, **P - T~0~ = T~3~**
+  - **T~0~ + T~1~ = T~3~** ; *Stagnation (56) + Increase (49) = Before Completion (42) (after lowering  one octave; 105 - 63)*, ergo **T~3~ - T~1~ = T~0~, T~3~ - T~0~ = T~1~**
+  - **T~0~ + H = W**  ; *Stagnation (56) + Duration (14) = Peace (7)*. ergo **W - H = T~0~, W - T~0~ = H**
+  - **S + W = T~2~** ; *After Completion (21) + Peace (7) = Wooing (28)*, ergo  **T~2~ - S = W, T~2~ - W = S**
+  - **S - W = H** ; *After Completion (21) - Peace (7) = Duration (14)*, ergo **W + H = S, S - H = W**
+  - **(P - S) + T~1~ = (T~0~ + W)** ; *(Decrease 35 - After Completion 21) + Increase 49 = (Stagnation 56 + Peace 7)* 
   - Every number (14, 21, 28, 35, 42, 49, 56, 63, 70) is a product of the ‘white dot’, which as a value of 7 (7x2,7x3, 7x4, 7x5, 7x6, 7x7, 7x8, 7x9, 7x10)
-  - Ever hexagram as an equal number of yin and yang lines
-  - the sum of all the side (70) = the ‘white dot’ (7) = 63, the maximum value and the value every pair equals to.
+  - Ever hexagram as an equal number of yin and yang lines (10 of the 32 pairs of  hexagrams have an equal number of yin and yang)
+  - The sum of all the sides (70) minus the ‘white dot’ (7) = 63.  63 is the number of balance for this pattern.  Does this suggest that as as a 2D map the value of the tholon is different that when it is ai tetrahedron?”63, but as a tetrahedron it is 70
   - Only the numbers of the top trigram, which is the originating trigram, are odd.
   - There are many more patterns and relationships as well, and this is only within one tholon that has no parents or children!
 
 Given that ever number has a patterned relationship with one of more numbers, we can reverse engineer where every hexagram sits in the thologram, meaning, we can assign a unique binary value to every vector (or point, but we are only showing vectors here).  Remember the chapter that hypothesized how if each tholon had a unique binary value then we could unfold the history of that tholon from the moment of creation to the present? Using the I-Ching as a super-finite set of unique binary numbers, we just demonstrated this.
 
-
-
-<center><img style="text-align:center;width:100%" src="../Images/tritest.png" /></center>
 I think it is quite obvious and provable that the I-Ching and the thologram are based on the same model.  Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can say that there is an underlying model that many perspectives are based on.
 
 I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy as much as it could for chemistry, physics, electronics, and many other applications.  Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another.  The only limitation is the creative imagination of the perceiver.
 
-
+<center><img style="text-align:center;width:100%" src="../Images/times7.png" /></center>
 
 
 
