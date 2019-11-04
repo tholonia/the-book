@@ -1,44 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-DRAFT - Version Beta {!Sat 02 Nov 2019 02:04:04 AM EDT v.1.3.7}
+<center><img style="text-align:center;100%" src="../Images/titlepage.png" /></center>
+DRAFT - Version Beta {!Mon 04 Nov 2019 01:52:54 AM EST v.1.4.2}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -909,7 +870,7 @@ But this too falls short depending on what *verifiable* means. For example, four
 
 What is the next number in this sequence? 91715
 
-Bob says “1”, and Carol says “3”. Bob defends his answer by showing the obvious; that 71 is 20 less than 91, therefore 51, being 20 less than 71, is the obvious pattern. Carol, however, says is it 3 because 917153 is, in fact, a sequence of numbers in Pi. Ted also says “1” but because 9+1=10, 7+1=8, therefore 5+*x* = 6, so *x* must be 1. Alice says “9” because that would result in three prime numbers 11, 13, and 17 using the 2D lattice she made to solve the problem.
+Bob says “1”, and Carol says “3”. Bob defends his answer by showing the obvious; that 71 is 20 less than 91, therefore 51, being 20 less than 71, is the obvious pattern. Carol, however, says is it 3 because 917153 is, in fact, a sequence of numbers in Pi (π). Ted also says “1” but because 9+1=10, 7+1=8, therefore 5+*x* = 6, so *x* must be 1. Alice says “9” because that would result in three prime numbers 11, 13, and 17 using the 2D lattice she made to solve the problem.
 
 All four people have an understanding of the problem and the ways in which it can be solved, and therefore all four answers are verifiable. It’s not unlike when you ask a child what is 1+1, and she confidently answers “6”. When asked why 1+1 = 6 she says: *“I had one white cat and one gray cat, now I have 6 cats; 2 white cats, two gray cats, a black cat and a cat that is all colors”* referring to her two cats and their 4 new kittens. Not only did 1+1 equal 6, but it came in many colors.
 
@@ -1494,7 +1455,7 @@ In the 1<sup>st</sup> generation of a simple trigram, we see a few fundamental r
 
 -   Two points define a line, three points define a trigram. (seems super obvious now, but wait…)
 
--   The area of the trigram is known.  _**(**SQRT(num-of- sides)/(num-of-sides+1)**)** x length-of-side<sup>2</sup>)_
+-   The area of the trigram is known.  _**(**√(num-of- sides)/(num-of-sides+1)**)** x length-of-side<sup>2</sup>)_
 
 -   The radius of the incircle is exactly half the radius of the circumcircle.
 
@@ -2522,6 +2483,8 @@ An example of these new emerging paths would be the creation of a new element in
 
 Starting from the beginning, immediately upon the first awareness of a non-existent dot in the void of nothingness, that awareness and intention began self-replicating into smaller and smaller divisions. These divisions stop at some point where no sustainable patterns can be achieved, perhaps because the difference is too small or weak, or the dissimilarities are too great, or other reasons. The depth of a tholon’s scope can be described as the difference between two states, the delta of the duality of that scope, similar to the definition of voltage we saw above, which presumably gets smaller and smaller with each generation (but not necessarily).
 
+*Sidenote: If we accept that the smallest thing that can exist is 1.616x10^-35^m (Planck’s constant) and the Universe is 2.8x10^+12^m in diameter, then we can say that the entire scale of reality can be represented within the first 182 iterations of the thologram given that each child is half the size of the parent.  Of course, size my not mean anything here as the thologram is not only conceptual, but also multidimensional… but it’s still an interesting details.*
+
 As the parents and children of a tholon change, so too will that tholon adapt to these changes by having its scope adjusted. In doing so the thologram is *problem-solving* in real-time. More than that, it is doing this in a heuristic manner, i.e. a manner based on experience. How? Because the (only successful) changes that have been made in the past resulted in changes (of which only the successful remain) to the entire thologram and the consequence of those changes define the context of each tholon’s current condition.
 
 This is not very different from the idea that the wave function for any and every single electron extends to every corner of existence. The wave function of one electron on your ballpoint pen in your desk drawer is interfering with the wave function of every other electron in the Universe (albeit on an infinitesimally small range).
@@ -2754,7 +2717,7 @@ In this figure…
 
 …we show the three perspectives of a tholon, including the base, but you’ll notice that the base trigram is reversed, as would be the case in a tholon as it is a mirror image of its parent, as described earlier. An interesting point here is that the outer boundaries of each figure show a consistent direction of flow, *Fig. v1* being neutral, *Fig. v2* clockwise, and *Fig. v3* counterclockwise, which matches the direction of the sides, however, the base is always counterclockwise.
 
-Tholonically, we can easily map thinks like Ragone and utility space (as in the battery), or laws and social responsibility (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the social equivalent social expression of *I<sup>2</sup>* or, *SQRT(P/R)*, would represent. In fact, there are quite a lot of relationships, rules, and formulas in a tholon that will require considerably more study. What is presented here is the idea that the tholon can represent any system when described in its most reduced states. This work is more akin to the Wright Brother’s first flight rather than a modern airplane, but like the Wright Brother’s first flight, they demonstrated what *could* be. That is what I hope to achieve here.
+Tholonically, we can easily map thinks like Ragone and utility space (as in the battery), or laws and social responsibility (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the social equivalent social expression of *I<sup>2</sup>* or, *√(P/R)*, would represent. In fact, there are quite a lot of relationships, rules, and formulas in a tholon that will require considerably more study. What is presented here is the idea that the tholon can represent any system when described in its most reduced states. This work is more akin to the Wright Brother’s first flight rather than a modern airplane, but like the Wright Brother’s first flight, they demonstrated what *could* be. That is what I hope to achieve here.
 
 
 <div style="page-break-before: always"></div>
@@ -2766,9 +2729,9 @@ C - Tholonia and the I-Ching
 
 
 
-it’s been mentioned several times already that the basic principles of the tholonic model should exist in any sustainable model, be it form or idea, if all creation follows the same rules.  
+it’s been mentioned several times already that the basic principles of the tholonic model should be discoverable in any sustainable model, be it form or idea, if all creation follows the same rules.  
 
-To test this we would need to find a model that has existed for many years, purports to explain the nature of reality,  is expressed in a language compatible with geometry or mathematics, which would be necessary to make valid comparisons with the thologram as it is also based on geometry and mathematics.
+To test this we would need to find a model that has existed for many years, purports to explain the nature of reality,  is expressed in a language compatible with, or translatable to, geometry or mathematics, which would be necessary to make valid comparisons with the thologram as it is also based on geometry and mathematics.
 
 Many religious, spiritual and legendary models claim to shed light on the mystery of reality, and even though we can find metaphorical parallels within the thologram, that is not sufficient to make a solid case.  We need something more quantified.
 
@@ -2776,108 +2739,148 @@ The closest Western models that we can find are science and its precursor, alche
 
 What ancient models exist?  There are the Hindu scriptures, which are both elaborate, detailed and quite ancient, but extremely difficult to quantify for comparison.
 
-There is the ancient work of Sumeria, Babylon, Egypt and the Jews, all of which culminate in the mystical Kabbalah, but these works are so shrouded and protected that simply compiling the data necessary would be the task of a lifetime.
+There is the ancient works from Sumeria, Babylon, Egypt and the Jews, much of which of which culminate in the mystical Kabbalah, but these works are so shrouded, obfuscated and protected that simply compiling the data necessary would be the task of a lifetime.
 
-Finally, we have the ancient Chinese I-Ching, or Book of Changes, which dates back to the 10th century B.C. and has been integrated into Taoism, Confucianism, Buddhism and more.
+Finally, we have the ancient Chinese I-Ching, or Book of Changes, which dates back to the 10^th^ century B.C. (or the 29^th^ century BC, depending on what one recognizes as the ‘starting point’) and has been integrated into Taoism, Confucianism, Buddhism.
 
 Of these, the I-Ching is the best candidate for the following reasons...
 
-- It is based on the same basic idea that every exists between a state of somethingness and nothingness.
-- it’s origins come from the legendary world ruler Fu Xi’s desire to “become thoroughly conversant with the numinous and bright and to classify the myriad things.’’ which is the same motivation behind the birth of philosophy and ontology in the West.
-- Unlike the Hindu texts, and to a lesser degree the Kabbalah, the I-Ching is constantly evolving.  What began as a primitive ritual of comparing tortoiseshell cracks to the stars i the sky has evolved into a form of binary math that even great thinks of today are trying to decipher.
-- It has found a home in every major culture in the world; Western, Jewish, Islamic, Asian and East Asian and its ideas have been incorporated into philosophy, religion, art, literature, science, technology and medicine.
+- It, like most models of reality, is based on the same basic idea that every exists between a state of somethingness and nothingness.
+- It’s origins come from the 5,000 year old legendary and mythical ruler *Fu Xi*’s desire to “become thoroughly conversant with the numinous and bright and to classify the myriad things.’’ (*Great Commentary* 大傳) which is the same motivation behind the birth of philosophy and ontology in the West.
+- Unlike the Hindu texts, and to a lesser degree the Kabbalah, the I-Ching is constantly evolving.  What began as a primitive ritual of comparing tortoiseshell cracks to the stars in the sky has evolved into a form of binary math that even great thinks of today are trying to decipher.  The I-Ching’s ability to adapt to and incorporate new perspectives is critical in this case.
+- It has found a home in every major culture in the world; Western, Jewish, Islamic, Asian and East Asian and its ideas have been incorporated into philosophy, religion, art, literature, science, technology and medicine and is studied at major universities (Oxford, Cambridge, Columbia, Stanford, etc.).
 
 So, let’s deconstruct the I-Ching using the tholonic modal and see what we find.
 
-For the record, I had no idea how this would turn out.  I did not do it ahead of time and only report successful results.  In fact, only after the entire book was written did I have the ideas to test against the I-Ching.  The results I report here were all new to me at the time of the writing, and they were and absolutely astonishing.
+For the record, I had no idea how this would turn out when I began integrating these two models. In fact, only after the entire book was written did I have the idea to test against the I-Ching.  The results I report here were all new to me at the time of the writing, and they were and absolutely astonishing.
 
 There are many, many books on the origins and philosophy of the I-Ching, so we are not going to get into that here.  If you want to know more about some of the details we present regarding the I-Ching you are going to have to do your own research.
 
-The most obvious and important foundation of the I-Ching is that it is based on the polarity of yin and yang.  Although this concept arose before the birth of Taoism, the Taoist symbol of Yin/Yang has come to perfectly embody its concept.
+The most obvious and important foundation of the I-Ching is that it is based on the polarity of yin and yang.  Although this concept arose before the birth of Taoism, the Taoist symbol of Yin/Yang (called the *Taijitu*) has come to perfectly embody this concept.
 
-<center><img style="text-align:center;width:30%" src="../Images/ic_yinyang.jpg" /></center>
-This Taoist symbol does not represent the Oneness from which the first duality emerged, as it is often believed.  Rather it represents the Oneness that emerges from an existing duality, in others words, an N-state.   The original Oneness, for which there is no image, is the source from which the initial ‘blue dot’ appears in nothingness, and as is did not come from a duality (that we can see) there is nothing we can say about it for now other than “it just is.”  So, this image represents the Oneness that comes from the first duality if somethingness and nothingness.  In the thologram,, that first duality is the ‘green dot’ and the ‘red dot’, and if you remember, it is only the spectrum that connects these two dots where a new N-state can emerge from.
+<center><img style="text-align:center;width:10%" src="../Images/ic_yinyang.jpg" /></center>
+This Taoist symbol does not represent the Oneness from which the first duality emerged, as it is often believed.  Rather it represents the Oneness that emerges from an existing duality, in other words, an *N-state*.   The original Oneness, for which there is no image, is the source from which the initial 0-dimensional ‘blue dot’ appears in nothingness, and as this dot  did not come from a duality (that we can see) there is nothing we can say about it for now other than “it just is.”  So, this image represents the Oneness that comes from the first duality of somethingness of the concept of a dot and nothingness.  In the thologram, that first duality is the ‘green dot’ and the ‘red dot’, and if you remember, it is only along the spectrum that is defined by, and connects, these two dots where a new N-state can emerge from.
 
-From the tholonic perspective, that which created the first duality is different from that which creates all the other dualities, but the process is the same.  If we reuse a earlier diagram of the tholonic trigrams but replace the initial, and only the initial N-source with a Zen circle (because I have no ideas what *should* go there, just that is should not be the Tao circle), we have the following.
+From the tholonic perspective, that which created the first duality is different from that which creates all the other dualities, but the process is the same.  If we reuse a earlier diagram of the tholonic trigrams but replace the initial, and only the initial N-source with a Zen circle (because I have no ideas what *should* go there, just that is should not be the Taijitu), we have the following:
 
-<center><img style="text-align:center;width:100%" src="../Images/tao-3-steps.png" /></center>
-The I-Ching, like the thologram, has the basic concept of a trigram as the stable building block of ideas.  In the I-Ching a trigram is simply three states of yin/yang together to form a stable concept.  There are eight possible combinations when using yin and yang.
+<center><img style="text-align:center;width:60%" src="../Images/tao-3-steps.png" /></center>
 
-<center><img style="text-align:center;width:30%" src="../Images/8-trigrams.jpg" /></center>
-.
+<img src="../Images/i-ching-8.jpg" style="float:right;width:14%"/>The I-Ching, like the thologram, has the basic concept of a trigram as the stable building block of ideas.  In the I-Ching a trigram is simply three states of yin/yang together to form a stable concept.  There are eight possible combinations when using yin and yang.
 
-The I-Ching also has a concept of an ‘lower’ and an ’upper’ state.  The lower state can be earth, matter, the subjective, the hidden, the inner, etc. depending on context.  The ‘upper’ state is that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context.  A hexagram is made up of these two states, each state occupied by one of the eight trigrams.  This results in a total of 64 hexagrams, the total number of hexagrams in the I-Ching 
+The I-Ching also has a concept of an ‘lower’ and an ’upper’ state.  The lower state can be earth, matter, the subjective, the hidden, the inner, etc. depending on context.  The ‘upper’ state is that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context.  A hexagram is made up of these two states, each state occupied by one of the eight trigrams.  This results in a total of 64 hexagrams, the total number of hexagrams in the I-Ching (colored blue and red simply for easier viewing).
 
-<center><img style="text-align:center;width:70%" src="../Images/ic_64hex.png" /></center>
-An I-Ching trigram is a very simple concept of earth at the bottom, heaven at the top and humanity in the middle.  As you can see, this is not only a very simple concept, but a very limited one as these concepts only apply to a human context.  The thologram has the same concept of a trigram that is quite compatible with the I-Ching but far more functional.  The tholonic trigram is made of a thesis, antithesis and a synthesis; a source, and its two polar opposites that define it.  Certainly the I-Ching model of a trigram fits into this if humanity is the synthesis of heaven and earth, or if the duality of heaven and earth define the spectrum wherein humanity will grow.
+<center><img style="text-align:center;width:50%" src="../Images/ic_64hex.png" /></center>
 
-The thologram also a a concept of “upper” and Lower” in that the ‘upper’ trigram of the I-Ching therefore equates nicely to the parent trigram of a tholon, and the resulting inner trigram of the tholon, because it was created by the new N-source of the parent, equates perfectly with the “lower’ trigram of the I-Ching.  We can now see that the final hexagram is perfectly equivalent to a tholon map.
+An I-Ching trigram is a very simple concept of three states, earth at the bottom, heaven at the top and humanity in the middle.  As you can see, this is not only a very simple concept, but a very limited one as these concepts only apply to a human context.  The thologram has the same concept of a trigram that is quite compatible with the I-Ching but far more functional and also arranged a bit differently.  The tholonic trigram is made of a source, and its two polar opposites that emerge from it, something like a *synthesis* that hold within its own *thesis*, and *antithesis*.  Certainly the I-Ching model of a trigram fits into this if we view *humanity* as the synthesis and *heaven* and *earth* the two polarities contained within, rather than the I-Ching’s view that humanity is the product of heaven and earth, however, tholonically this is true only for the resulting N-state that emerges from the spectrum of *heaven* and *earth*.
 
+The thologram also a a concept of *upper* and *lower* in that the *upper* trigram of the I-Ching equates nicely to the parent trigram of a tholon. The resulting *lower* trigram of the tholon is created by the new N-source of the parent.  We can now see that the final hexagram is perfectly equivalent to a tholon map.
 
 
-<center><img style="text-align:center;width:100%" src="../Images/tri-is-hex.png" /></center>
-It might see counterintuitive that the *upper* or *outer* trigrams of the I-Ching equate to the smaller and smaller embedded trigrams of the thologram, but not when you consider that it is the smallest and most embedded tholons that represent the bleeding edge of reality where new creations are being born, dying, and morphing.  The farther up the thologram the less things change.  In the thologram, the parent trigrams is what forms the environment or context for a new N-source to come into existence, so the parent trigram is the time of gestation for the yet to be manifest N-state.  The smaller, inner trigram inside the parent is where the newly created N-state crates its own environment.  This is why the I-Ching’s *lower* trigram equates to the tholon’s parent tholon, and the upper trigram equates to the child tholon’s instantiation. This is different from when we create a tholon by incorporating the trigrams all on the same map (the grayed out trigrams in the above example).  
 
-*Note: One interesting details when we use the outer trigram on the parent level with the inner trigram on the child level; all the numbers for each side equal 9 (1+6+2, 2+4+3, 3+5+1).  That does not mean it is correct, but it does mean there is natural symmetry, and symmetry is an excellent indicator of order, and therefore the movement of energy.*
+<center><img style="text-align:center;width:80%" src="../Images/tri-is-hex.png" /></center>
 
-In the hexagram there are two lines that represent the best form of expression in the inner and the outer level, and those are the middle line of the lower trigram (line #2) and the middle line of the upper trigram (line #5).  Tholonically these two points are the beginning points, and therefore the creators, of the only two lines in the tholon that are capable of interacting with other tholons (i.e., anything outside itself).
+It might see counterintuitive that the *upper* or *outer* trigrams of the I-Ching equates to the smaller and smaller embedded trigrams of the thologram, but not when you consider that it is the smallest and most embedded tholons that represent the bleeding edge of reality where new creations are being born, dying, and morphing.  The farther up the thologram, the less things change.  In the thologram, the parent trigram is what forms the environment or context for a new N-source to come into existence, so the parent trigram is the incubator, so to speak, for the yet to be manifest N-state.  The smaller, inner trigram inside the parent is where the newly created N-state creates its own environment, which incubates yet another N-state, and so on.  This is why the I-Ching’s *lower* trigram equates to the tholon’s *parent* tholon, and the *upper* trigram equates to the child tholon’s instantiated *inner* trigram. 
 
-The above satisfies me that the thologram and the I-Chine are based on the same model but were arrived at from very different directions, in different contexts and withins different scopes.
+*Note: One interesting detail when we use the outer trigram on the parent level with the inner trigram on the child level; all the numbers for each side equal 9 (1+6+2, 2+4+3, 3+5+1).  That does not mean it is correct this mapping is ‘correct’, but it does mean there is natural symmetry, and symmetry is an excellent indicator of order, and therefore the movement of energy.
 
-According to the I-Ching it requites 6 stages of growth necessary to allow the unfolding to complete.  This is stated very cleary:
+~~In the hexagram there are two lines that represent the best form of expression in the inner and the outer level, and those are the middle line of the lower trigram (line #2) and the middle line of the upper trigram (line #5).  Tholonically these two points are the beginning points, and therefore the creators, of the only two lines in the tholon that are capable of interacting with other tholons (i.e., anything outside itself).~~
 
-> All movements are accomplished in six stages, and the seventh brings return.
+~~The above satisfies me that the thologram and the I-Ching are based on the same model but were arrived at from very different directions, in different contexts and withins different scopes.~~
+
+Moving on, according to the I-Ching states there are 6 stages of change that describe the life-cycle of a creation, or instance.  This is stated very clearly:
+
+> All movements are accomplished in **six stages**, and the seventh brings return.
 
 ##### ~ Hexagram 24 ‘Return’
 
-> The holy man, who understands the mysteries of creation inherent in end and beginning, becomes superior to the limitations of the transitory. For him, the meaning of time is that in it, the stages of growth can unfold in a clear sequence. He is mindful at every moment and uses the six stages of growth as if they were six dragons (the image attributed to the individual lines) on which he mounts to heaven.
+> The holy man, who understands the mysteries of creation inherent in end and beginning, becomes superior to the limitations of the transitory. For him, the meaning of time is that in it, the stages of growth can unfold in a clear sequence. He is mindful at every moment and uses the **six stages of growth** as if they were six dragons (the image attributed to the individual lines) on which he mounts to heaven.
 
 ##### ~ Commentary on hexagram #1, the Creative (The I Ching,  Wilhelm/Baynes edition)
 
-So it is not surprising that the 64 hexagrams represent the 64 paths from Tao to endpoint that result from 6 stages bifurcation.  
+Not surprisingly then, when we bifurcate the original Tao 6 times, we end up with 64 points in total:
 
 <center><img style="text-align:center;width:100%" src="../Images/ic-btree.png" /></center>
-How would the thologram describe these six stages then?  Although this bifurcation produces 64 paths, it is more accurate to think of two sets of trees, each tree only 3 levels deep.  In this was we have 8 trigrams from one tree and 8 from another tree.  The reason this is more useful is because the two trigrams, upper and lower, are essentially the same but in two different contexts.  For example:
+How would the thologram describe these six stages then?  Although this bifurcation produces 64 states, it is more useful to think of two different sets of 32 states each, and each set created by only 3 stages of bifurcation, or only 3 levels deep.  In this way we can construct 8 trigrams from one set and 8 from another set.  The reason this is more useful is because we now have the concept of 32 pairs of hexagrams (or 4 pairs of trigrams), and we can consider this pair as the duality of an even broader concept
 
-- **Line 1** is **yang** by nature in the lower trigram and represents something like **insemination** or **conception**. It represents the existing and stable N-state and its attempt to create a new instance of itself.  It is the synthesis creating a new thesis.
-- **Line 2** is **yin** by nature and represent the nature of **gestation**.  This is where the concept, or what ever was created, has to instantiate itself with the resources at hand.  It is in this stage that where on the spectrum the conception will find stability.
-- **Line 3** is **yang** by nature and represents the final product that is now ready to be introduced (given back to) to the outer world.  This is the beginning of birth.
+For example, take the most basic hexagrams (using their binary values), 0 <img src="/home/jw/sites/the-book/Images/hexagram0.png" style="width:30px"/> and 64 <img src="/home/jw/sites/the-book/Images/hexagram63.png" style="width:30px"/>, the *Receptive* and the *Creative*.  Between these two hexagrams all other hexagrams exist, so together they represent one state that include broadest context that everything exists within.  Another example is is hexagram 20 <img src="/home/jw/sites/the-book/Images/hexagram20.png" style="width:30px"/>*Obstruction*, which states (and I’m paraphrasing)…
 
-In-between line 3 and line 4 is when/where the N-state is negotiated as a result of a stable pattern emerging on the spectrum between two poles.  This would not only be equivalent to birth but tholonically is a reconstitution, a resurrection, of the N-state from which its duality was born.
+> When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind. 
 
-Once we cross the line from inner to outer, the pattern flips.  What was **yang** in the *inner* world is **yin** in the *outer* world, and what was **yin** in the *inner* world is **yang** in the *outer* world.  We see this same thing in the *reflection* trigrams and virtual tholons.
+ …and it’s opposite, 43 <img src="/home/jw/sites/the-book/Images/hexagram43.png" style="width:30px"/>, *Opposition*, which states…
 
-- **Line 4** is **yin** by nature in the upper trigram and represents the **initiation** or **propagation** of this new stable instance (baby, invention, vision, creations of any kind) into the outer world.
-- **Line 5**  is **yang** by nature and represents the **culmination** or the **limits** of this instance’s existence.  
-- **Line 6**  is **yin** by nature and represents the **integration** of the creation into the larger whole, or tholonically speaking, how it is **amalgamated** into the thologram.  This marks the end of the upper trigram and its transition into a *lower* trigram for the next iteration.
-
-Here are a couple of interesting observations:
-
-- In-between line 3 and line 4 is when/where the N-state is negotiated as a result of a stable pattern emerging on the spectrum between two poles.  This would not only be equivalent to birth but tholonically is a reconstitution, a resurrection, of the N-state from which its duality was born.
-- We see 6 popping up a lot.  We have 6 steps of creation of a hexagram, six electrons in carbon, the major building block of life, the N-source has a value of 6, the tetrahedron (tholon structure) is composed of 6 vectors, we see the number 6 play a significant role in creation myths such as Genesis and the Quran where all of creation was accomplished in 6 days, and in the Babylonian creation myth, the Enuma Elis, where God created 6 gods, each in charge of the 6 different aspects of creation (where they spent 2 days creating everything and the rest of their days fighting with each other).  6 seems to be very significant number and is firmly associated with the concept of creation.
+> When opposites meet that must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being.
 
 
 
-To help illustrate these steps, let’s look at this bifurcating tree in a different way:
+The *uber* concept here is one of opposites and how they can interact either through cooperation, as polarity, or conflict, as obstruction.
 
-<center><img style="text-align:center;width:80%" src="../Images/taotree.png" /></center>
-Here we have the same tree, but the starting point is in the middle as opposed to the top.  The blue circles represent the yang lines and the red circles represent the yin lines.  Following the path from the center to every endpoint will result in 64 paths, each one matching one of the I-Ching hexagrams.
+### The six stages (in the I-Ching and the thologram)
 
-The first thing to notice is two-fold: 1) the top and the bottom are the same but opposite, and 2) this is the same archetypal structure that we see in all growing and alive systems, the most obvious being plants and trees with their roots and stems, and is a very good instantiated example of the concept of *inner* and *outer*, *upper* and *lower*. etc. 
+The stages are as follows:
 
-The second to notice is that all the *inner* paths, which are those that begin from the first red dot after the Tao symbol, start with with a yin value.  This is significant because in thologram there is a similar concept of a real tholon and a virtual tholon which are matched to create a complete tholon.  In the thologram all odd numbered tholons are real and all even numbered tholons.  Likewise all hexagrams that begin with a yin line are even numbered hexagrams, and those that begin with  a yang are odd numbered.  We now have a very clean mapping between the thologram and the I-Ching of *virtual* as yin and *real* as yang.  If you are thinking “Well, would that happens if we just rearrange the numbers of one process and use them in another?“, which would be a very valid question, remember that we arrived at the same results from two completely different processes; the process of the thologram was based creating a tetrahedron from a point, while the I-Ching is based solely in the binary system which was never used in the thologram.
+ the two trigrams, upper and lower, are essentially the same but in two different contexts.  For example:
+
+- **Line 1** (yang) is **expansive** and represents the purest and simplest form of a concept.  This is the stage of **inception**. .  In the life-cycle of plants this represents the **seed** stage.  
+
+  Line 1’s tholonic equivalent is the originating N-state, the topmost *blue dot* which itself is a synthesis of a previous parent tholon.
+
+- **Line 2** (yin) is **limiting and restricting** and represents the nature of **gestation**.  This is where the N-state, or dimensionless concept, has to define itself with the resources at hand.  This is where the concept instantiates into a creation.  In the life-cycle of plants this represents the **germination** stage.
+
+  Line 2’s tholonic equivalent is the *green dot* of *definition* which establishes the limitations of the N-state concept when it is expressed as a creation..
+
+- **Line 3** is **emergent** (yang) and represents how the the ability of the creation to exist as as independent, **self-sufficient** entity.  In the life-cycle of plants this represents the **growth** stage when the plant has developed the ability to creates its own food via photosynthesis.
+
+  Line 3’s tholonic equivalent is the *red dot* of *contribution*.  It’s a contribution because this is where the N-source, the original creation, is given form. 
+
+Once we cross the line from *lower* to the *upper*, the quality of the line positions flip making what was **yang** in the *lower* trigram **yin** in the *upper* trigram, and visa versa.  In the tholon we see this same reversal in the *reflection* trigrams and *virtual* tholons.
+
+- **Line 4** (yin) is the creation’s ability to **transmit**, **propagate**, or **recreate** itself.   This only refer to the ability to recreate, not the actual act of recreation. In the life-cycle of plants this represents the **reproduction** stage.
+
+  Line 4’s tholonic equivalent is a new N-state that is formed by the energy of the original N-state emerging as a stable pattern somewhere in within the scope, or spectrum, defined by the limitations (definition) and expression (contribution) created by the parent tholon.
+
+- **Line 5** (yang) represents the **fruitfulness** of the creation.  This is the **culmination** of a creation’s expression and also represents the **limits** of a creation’s existence, i.e. cats can make more cats, not more dogs. In the life-cycle of plants this represents the **pollination** stage.
+
+  Line 5’s tholonic equivalent is the 2^nd^ generation *green dot* of *definition*, but whereas the first *green dot* of *definition* in line 2 represents the limitations imposed on the N-source when it became a creation, here it represents the limits that the creation takes when it becomes an instance, which means that whatever form this instance takes it will represent the most perfect form that can exist within the context and scope it exists within.
+
+- **Line 6** (yin) is the stage of **dispersion**, when the life cycle of a creation is over, but its offspring, in whatever form that takes, continues.  This represents the **integration** of the creation into the larger whole, or tholonically speaking, how it is **amalgamated** into the thologram.  In the life-cycle of plants this represents the **seeding** stage.
+
+  Line 6’s tholonic equivalent is the 2^nd^ generation *red dot* of *contribution* which defines the new scope across which the new N-state will now use to create a new instance of itself.  This new scope will also be a contributing factor to the parent’s scope, which is a contributing facto to *its* parents scope, etc.
+
+
+
+### Lots of 6s
+
+In these models of creation we have 6 steps of creation of a hexagram, the tetrahedron (tholon structure) is composed of 6 vectors, and the the N-source has a value of 6.  In creation myths we see the number 6 play a significant role in creation myths such as Genesis and the Quran where all of creation was accomplished in 6 days, and in the Babylonian creation myth, the Enuma Elis, where God created 6 gods, each in charge of the 6 different aspects of creation (where they spent 2 days creating everything and the rest of their days fighting with each other).  In the building blocks of creations (chemistry) we see six electrons in carbon, the foundation of life. 6 seems to be very significant number and is firmly associated with the concept of creation.
+
+Let’s rearrange the bifurcating tree that the I-Ching is based on (and arguably all forms of creations) and apply this concept of 6.
+
+<center><img style="text-align:center;width:60%" src="../Images/taotree.png" /></center>
+
+Here we have the same tree as before, but the starting point is in the middle as opposed to the top.  The blue circles represent the yang lines and the red circles represent the yin lines.  Following the path from the center to every endpoint will result in 64 paths, each endpoint matching one of the I-Ching hexagrams.
+
+The first thing to notice is two-fold: 1) the top and the bottom are the same but opposite, and 2) this is the same archetypal structure that we see in all growing and alive systems, the most obvious being plants and trees with their roots and stems, which provide a very good instantiated example of the concept of *inner* and *outer*, *upper* and *lower*. etc. 
+
+The second to notice is that all the *inner* paths start with a red (yin) dot and move downward, and all the outer paths start with a blue (yang) dot and move upward. Together they make the entire set if the 64 hexagrams that make up the I-Ching.  This is significant because in the thologram there is a similar concept of a real tholon and a virtual tholon which are matched to create a complete tholon. We saw an example of this when looking at how the complete tholon models quarks to the proton.  
+
+In the thologram all odd numbered tholons are *real* and all even numbered tholons are *virtual*.  Likewise all hexagrams that begin with a yin line are even numbered hexagrams, and those that begin with  a yang are odd numbered.  We now have a very clean mapping between the thologram and the I-Ching of *virtual* as yin and *real* as yang.  If you are thinking “Well, what would happen if we just rearrange the numbers of one process and use them in another?“, which would be a very valid question, remember that we arrived at the same results from two completely different processes; the process of the thologram was based creating a tetrahedron from a point, while the I-Ching is based solely in the binary system which was never used in the thologram.
 
 There are many mappings and similarities between the tholon and the I-Ching, but I will only show one more because it not only maps hexagrams to tholons, but to basic physical structures on nature.
 
-If we create a binary tree of the I-Ching such that each generation expands into the most available space, as nature and energy in general will do (and which also happens to be a 60 degree angle, the angle that creates tetrahedron/tholon), we get the following patterns:
+If we create a binary tree of the I-Ching such that any of the the following conditions are true:
+
+- The bifurcations will expand into the most available space.
+- The bifurcations follow the same process that the bifurcating process used when describe the original 0-dimensional dot in the void of nothingness that began the cycles of creation.
+- The bifurcations follow the path of least resistance.
+
+…we end up with bifurcations that will 60 degrees apart from each other (which is also the angle that creates a tetrahedron/tholon), which would then create the following patterns for each of the 6 generations of bifurcations (this is easily done with the L-systems language described above with the rule ***F=F\[+F]\[-F]***):
 
 
 
 <center><img style="text-align:center;width:100%" src="../Images/generations.png" /></center>
-<center><img style="float:right;text-align:center;width:30%" src="../Images/overlay.png" /></center>Simply splitting one into two the laws of energy naturally form a pattern of hexagrams list like how the expansion of a single to to many dots will do the exact same thing.  The I-Ching and the thologram are two different models based on the same laws, one based on 2 and one based on 3.  Not surprisingly, the one point they both naturqally center around is the N-source, we have also shown to be eqivalent to the   <img style="width:25px" src="../Images/ic_yinyang-small.png" />
-We can take this a step further and define each hexagram in the I-Ching by its tholonic properties, or have the hexagrams define properties of the tholon… which ever way the evidence leads.  The two systems are not incompatible, if fact, the thologram may turn out to be a 3D tetrahedral model of the same this the I-Ching is modeling… and what is the I-Ching modeling?
+<center><img style="float:right;text-align:center;width:30%" src="../Images/overlay.png" /></center>Simply splitting one line into two lines, in accordance with the laws of energy, we naturally form a pattern of hexagons that perfectly matches teh pattern we get when we expand a single dot to many dots.  This is because the I-Ching and the thologram represent the same laws but in the context of a binary system (I-Ching) and a trinary system (thologram).  Not surprisingly, the one point they both naturally center around is the N-source, which we have already shown to be eqivalent to the Taijitu   <img style="width:25px" src="../Images/ic_yinyang-small.png" />
+It turns out the two systems are quite compatible to the point where not only can the entire I-Ching me mapped to the thologram, but the thologram can greatly elaborate in the I-Ching and give it a 3D structure, and given its recursive nature, infinity so. 
 
-Although it is commonly thought of as a tool for divination, this is only a consequences of the fact that is describes natural laws.  The I-Ching is a more of a technical manual:
+Contrary to modern misconceptions, the I-Ching was never meant to be a tool for divination.  It was, and is, a technical manual:
 
 > After meeting genuine teachers all my doubts disappeared, so that for the first time I realized that the Tao of spiritual alchemy is none other than the Tao of I Ching, the Tao of sages is none other than the Tao of immortals, and that the I Ching is not a book of divination, but rather a study of investigation, of principles, fulfillment of nature, and arrival at the meaning of life. 
 
@@ -2887,111 +2890,104 @@ Although it is commonly thought of as a tool for divination, this is only a cons
 
 ##### ~ Lu Dongbin, 9th c. Taoist master (introduction of The Taoist I Ching)*
 
-Let’s return to the 6 steps…
+Let’s review the 6 steps of each model.
 
-
-
-The thologram was created by the three propers of the the three original dots, and these three dots align perfectly with the three stages of creation as they appear on the inner and the outer.
+The thologram was created by the three properties of the the three original dots, and these three dots align perfectly with the three stages of creation as they appear on the inner and the outer.
 
 Equating the ***lower trigram*** to the three attributes of N, D, C
 
-| Tholonic (inner) |                                                         | I-Ching                                            |
-| ---------------- | ------------------------------------------------------- | -------------------------------------------------- |
-| Negotiation      | <img src="../Images/dot-blue.png" style="width:50px"/>  | **Line 1:** insemination/conception                |
-| Definition       | <img src="../Images/dot-red.png" style="width:50px"/>   | **Line 2:** gestation, development, growth         |
-| Contribution     | <img src="../Images/dot-green.png" style="width:50px"/> | **Line 3:** viability as determined by environment |
+| Tholonic (parent) |                                                         | I-Ching (lower)                                            |
+| ----------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
+| Negotiation       | <img src="../Images/dot-blue.png" style="width:30px"/>  | **Line 1:** expansive, inception, seed                     |
+| Definition        | <img src="../Images/dot-green.png" style="width:30px"/> | **Line 2:** limiting, restrictions, gestation, germination |
+| Contribution      | <img src="../Images/dot-red.png" style="width:30px"/>   | **Line 3:** emergent, self-sufficient, growth              |
 
 Equating the ***upper trigram*** to the three attributes of N, D, C
 
-| Tholonic (outer) |                                                         | I-Ching                                           |
-| ---------------- | ------------------------------------------------------- | ------------------------------------------------- |
-| Negotiation      | <img src="../Images/dot-blue.png" style="width:50px"/>  | **Line 4:** birth, instantiation                  |
-| Definition       | <img src="../Images/dot-red.png" style="width:50px"/>   | **Line 5:** culmination                           |
-| Contribution     | <img src="../Images/dot-green.png" style="width:50px"/> | **Line 6:** integration into external environment |
+| Tholonic (child) |                                                         | I-Ching (upper)                                              |
+| ---------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
+| Negotiation      | <img src="../Images/dot-blue.png" style="width:30px"/>  | **Line 4:** transmission, propagation, re-creation, reproduction |
+| Definition       | <img src="../Images/dot-green.png" style="width:30px"/> | **Line 5:** fruitfulness, pollination, culmination           |
+| Contribution     | <img src="../Images/dot-red.png" style="width:30px"/>   | **Line 6:** dispersion, integration, amalgamation, seeding   |
 
 
 
 Let’s run another test so see if the thologram and the I-Ching are two views of the same model.
 
-<center><img style="text-align:center;width:100%" src="../Images/tritest.png" /></center>
-Previously we assigned the positions of the points as 1,2,3,4,5,6 in order to work with the positions of the lines.  Now we need to work with the hexagrams and their values so we need to use the position of the point as the exponential value of 2 (‘cause we’re working in binary), and to do that we need need to start counting at 0, not 1.  In *Fig. e1* you can see the values arrived at for each point, and the exponent used to get that value.
+<center><img style="text-align:center;width:80%" src="../Images/tritest.png" /></center>
+Previously we assigned the positions of the points as 1,2,3,4,5,6 in order to work with the positions of the lines.  Now we need to work with the hexagrams and their values so we need to use the position of the point as the exponential value of 2 (because we’re working in binary), and to do that we need need to start counting at 0, not 1.  In *Fig. e1* you can see the values arrived at for each point, and the exponent used to get that value.
 
 *Fig. e2* shows the sum of these values for each trigram and each side. 
 
-In *Fig e3* we have added the name and the hexagram.  Don’t forget that all these numbers are binary, and not the number as they appear in the traditional I-Ching layout.
+In *Fig e3* we have added the name and the hexagram.  Don’t forget that all these numbers are binary, and not the numbers as they appear in the traditional I-Ching layout.
 
 For clarity’s sake (even though it may only make things more obtuse), I’ve assigned variable names to each property to make the patterns easier to notate and read.
 
-<center><img style="text-align:center;width:100%" src="../Images/trialgebra.png" /></center>
-Here are detail worth noting:
+<center><img style="text-align:center;width:60%" src="../Images/trialgebra.png" /></center>
+Here are some details worth noting:
 
-- Comparing the three vectors of the trigram to their I-Ching equivalents we see amazingly similar values:
+- Comparing the three vectors of the parent trigram to their I-Ching equivalents we see amazingly similar values:
 
 
-| Tholonic (outer)                                             |                                                              | I-Ching                                                      |
+| Tholonic                                                     |                                                              | I-Ching                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dot-blue.png" style="width:50px"/><img src="../Images/dot-green.png" style="width:50px"/> | *Decrease*: Restrictions in outer resources requires one to discover and develop inner resources. |
-| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dot-red.png" style="width:50px"/><img src="../Images/dot-green.png" style="width:50px"/> | *Duration*: The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth. |
-| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dot-green.png" style="width:50px"/><img src="../Images/dot-blue.png" style="width:50px"/> | *After Completion:* In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay. |
+| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dots-blue-green.png" style="width:100px"/> | *Decrease*: Restrictions in outer resources requires one to discover and develop inner resources. |
+| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dots-green-red.png" style="width:100px"/> | *Duration*: The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth. |
+| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dots-red-blue.png" style="width:100px"/> | *After Completion:* In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay. |
 
 
 
 - The sum of any trigram and the side opposite that trigram always equal 63, the maximum number possible.  This was exciting to discover as it supports the tholonic claim that the effect of any point can be seen on the side opposite that point.
 
-- What I was not expecting to see is the math pattern of the tholon also works!  For example, 14 + 21 = 35, or **H + S = P**
+- The math pattern of the tholon also works is we replace multiplication with addition, for example, 14 + 21 = 35, or **H + S = P**
 
-- What about the middle trigram?  It does not have any other value to pair with.  Not only is there no room for its pair, it would need to be the value of 7.  However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^).  These are the points that creates the ‘white dot’ of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,‘Stagnation.’  This math validated the ‘white point’ being created by the sum of the red, green and blue dot.
+- What about the middle trigram?  It does not have any other value to pair with.  Not only is there no room for its pair, it would need to be the value of 7.  However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^).  These are the points that creates the ‘white dot’ of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,‘Standstill.’  This math validated the tholonic claim that the ‘white point’ is created by the sum of the red, green and blue dot.
 
-  Just as an interesting aside,. the hexagram that is binary value 7 is “Peace”, <img src="/home/jw/sites/the-book/Images/hexagram11.png" style="width:30px"/>which is defined as “heaven on earth” in the text, which is pretty compatible with the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea of the triangle.
+  Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  “Peace”, <img src="/home/jw/sites/the-book/Images/hexagram11.png" style="width:30px"/>is defined as “heaven on earth” in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
 
-- We have a number of other patterns, for example 
+- We have a number of other patterns, for example:
 
-  - **T~0~ - T~3~ = H** ; *Stagnation (56)  - Before Completion (42) = Duration (14)*, ergo, **T~0~ - H = T~3~** , **T~3~ + H = T~0~**
-  - **T~0~ - T~1~ = W** ; *Stagnation (56)  - Increase (49) = Peace (7)*, ergo, **T~0~ - W = T~1~**,  **T~1~ + W = T~0~**
-  - **T~0~ + T~3~ = P** ; *Stagnation (56) + Before Completion (42) = Decrease (35)* , ergo **P - T~3~ = T~0~**, **P - T~0~ = T~3~**
-  - **T~0~ + T~1~ = T~3~** ; *Stagnation (56) + Increase (49) = Before Completion (42) (after lowering  one octave; 105 - 63)*, ergo **T~3~ - T~1~ = T~0~, T~3~ - T~0~ = T~1~**
-  - **T~0~ + H = W**  ; *Stagnation (56) + Duration (14) = Peace (7)*. ergo **W - H = T~0~, W - T~0~ = H**
+  - Every number (14, 21, 28, 35, 42, 49, 56, 63, 70) is a product of the *white dot*, which as a value of 7 (7x2, 7x3, 7x4, 7x5, 7x6, 7x7, 7x8, 7x9, 7x10)
+  - Every value of a trigram plus its opposite border equals 9 (6+3, 7+2, 5+4, 8+1).  This lends more support to the tholonic idea that a corner point (or in this case, corner trigram) is paired with it’s opposite border.
+  - Ever hexagram as an equal number of yin and yang lines (10 of the 32 pairs of  hexagrams have an equal number of yin and yang)
+  - Only the numbers of the top trigram, which is the originating trigram, are odd.
+  - **T~0~ - T~3~ = H** ; *Standstill (56)  - Before Completion (42) = Duration (14)*, ergo, **T~0~ - H = T~3~** , **T~3~ + H = T~0~**
+  - **T~0~ - T~1~ = W** ; *Standstill (56)  - Increase (49) = Peace (7)*, ergo, **T~0~ - W = T~1~**,  **T~1~ + W = T~0~**
+  - **T~0~ + T~3~ = P** ; *Standstill (56) + Before Completion (42) = Decrease (35)* , ergo **P - T~3~ = T~0~**, **P - T~0~ = T~3~**
+  - **T~0~ + T~1~ = T~3~** ; *Standstill (56) + Increase (49) = Before Completion (42) (after lowering  one octave; 105 - 63)*, ergo **T~3~ - T~1~ = T~0~, T~3~ - T~0~ = T~1~**
+  - **T~0~ + H = W**  ; *Standstill (56) + Duration (14) = Peace (7)*. ergo **W - H = T~0~, W - T~0~ = H**
   - **S + W = T~2~** ; *After Completion (21) + Peace (7) = Wooing (28)*, ergo  **T~2~ - S = W, T~2~ - W = S**
   - **S - W = H** ; *After Completion (21) - Peace (7) = Duration (14)*, ergo **W + H = S, S - H = W**
-  - **(P - S) + T~1~ = (T~0~ + W)** ; *(Decrease 35 - After Completion 21) + Increase 49 = (Stagnation 56 + Peace 7)* 
-  - Every number (14, 21, 28, 35, 42, 49, 56, 63, 70) is a product of the ‘white dot’, which as a value of 7 (7x2,7x3, 7x4, 7x5, 7x6, 7x7, 7x8, 7x9, 7x10)
-  - Every value of a trigram plus its opposite border equals 9 (6+3, 76+2, 5+4, 8+1).  This lends more support to the tholonic ideas that a corner point (or in this case, corner trigram) finds is paired with it’s opposite border.
-  - Ever hexagram as an equal number of yin and yang lines (10 of the 32 pairs of  hexagrams have an equal number of yin and yang)
-  - The sum of all the sides (70) minus the ‘white dot’ (7) = 63.  63 is the number of balance for this pattern.  Does this suggest that as as a 2D map the value of the tholon is different that when it is a tetrahedron?”63, but as a tetrahedron it is 70
-  - Only the numbers of the top trigram, which is the originating trigram, are odd.
+  - **(P - S) + T~1~ = (T~0~ + W)** ; *(Decrease 35 - After Completion 21) + Increase 49 = (Standstill 56 + Peace 7)* 
   - There are many more patterns and relationships as well, and this is only within one tholon that has no parents or children!
 
-Given that ever number has a patterned relationship with one of more numbers, we can reverse engineer where every hexagram sits in the thologram, meaning, we can assign a unique binary value to every vector (or point, but we are only showing vectors here).  Remember the chapter that hypothesized how if each tholon had a unique binary value then we could unfold the history of that tholon from the moment of creation to the present? Using the I-Ching as a super-finite set of unique binary numbers, we just demonstrated this.
+Given that ever number has a patterned relationship with one of more numbers, we can reverse engineer where every hexagram sits in the thologram, meaning, we can assign a unique binary value to every vector (or point, but we are only showing vectors here).  Remember the chapter that hypothesized how if each tholon had a unique binary value then we could unfold the history of that tholon from the moment of creation to the present? Using the I-Ching as a very small set of unique binary numbers, we just demonstrated this.
 
-I think it is quite obvious and provable that the I-Ching and the thologram are based on the same model.  Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can say that there is an underlying model that many perspectives are based on.
+I think it is quite obvious and provable that the I-Ching and the thologram are based on the same model.  Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can say that there is an underlying model that many perspectives of understanding are based on.
 
-I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy as much as it could for chemistry, physics, electronics, and many other applications.  Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another.  The only limitation is the creative imagination of the perceiver.
+I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy, etc. as much as it could for chemistry, physics, electronics, and many other applications.  Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another.  The only limitation is the creative imagination of the perceiver.
 
-However, if you still have doubts, what follows is a demonstration of  how the value of Pi can be derived using the tholonic model along with the values shown here derived form the I-Ching.
+However, if you still have doubts, what follows is a demonstration of  how the value of Pi (π) can be derived using the tholonic model along with the values shown here derived form the I-Ching.
 
-<center><img style="text-align:center;width:100%" src="../Images/times7.png" /></center>
-*Fig. h1* shows the hexagram values as multiples of 7. Lets apply the tholonic model to these numbers.  The tholonic model states that the green (D) and red (C) points represent the spectrum across which a new instance of blue (N) will emerge.
+<center><img style="text-align:center;width:60%" src="../Images/times7.png" /></center>
+*Fig. h1* shows the hexagram values as multiples of 7. Lets apply the tholonic model to these numbers.  The tholonic model states that the *green dot* (*[D]efinition*) is what limits and restricts the N-state, D will reduce N.  The *red dot ([C]contribution)*, seeing as it contributes, will be added to N.
 
-We start by assigning N=1. We then calculate D as 1/P (P=5), and C as 1/S (S=3).  To create a new instance of N we start with N, subtract D, and add C, which gives us 0.78539822525372.  This is the value of the next instance of N, which we’ll call N~1~.  We repeat this process again, but we increment the S and P by H^2^ .  After doing this a million or so times we get the number 0.78539822525372.  Multiply this number by H^2^ and you get Pi.
+We start by assigning N=1. We then calculate D as 1/P (where P=5), and C as 1/S (where S=3).  To create a new instance of N we start with N, subtract D, and add C, which gives us 0.78539822525372.  This is the value of the child instance of N, which we’ll call N~1~.  We repeat this process again, but we increment the S and P by H^2^ .  After doing this a million or so times we get the number 0.7853982294712.  Multiply this number by H^2^ (4) and you get Pi.
 
-This graph below diagrams the process (and shows the results already multiplied by 4).  Notice how this is exactly the same model that was proposed for transforming a holon, from the holarchic model, to a tholon?
-
-
+This graph below diagrams the process (and shows the results already multiplied by 4).  Notice how this is exactly the same model that was proposed for transforming a holon, from the holarchic model, to a tholon.
 
 
 
 
 
-<center><img style="text-align:center;width:100%" src="../Images/pi-holons.png" /></center>
 
 
-One detail that this demonstration reveals is that the value on the spectrum between C and D had to be *seeded* by the originating N-source.  This detail was left out of the description above because the reader was already being bogged down with a mountain of details and even though it’s an important technical point it’s not needed to grasp the concept of a spectrum of viability.
+<center><img style="text-align:center;width:60%" src="../Images/pi-holons.png" /></center>
+One detail that this demonstration reveals is that the value on the spectrum between C and D had to be *seeded* by the originating N-source.  This detail was left out of the description provided in the chapter on “STRUCTURE” because the reader was already being bogged down with a mountain of details and even though it’s an important technical point it’s not needed to grasp the concept of a *spectrum*.  But the representation of the spectrum along a 1D line is also inaccurate because in the case of a tetrahedron the spectrum is actually across, or within, a 3D space, with the highest probability in the center of the tholon, but that is quite impossible to show. The more accurate way to display this process would have been to use self-similar, embedded 2D trigrams, but that would would be a bit messy and limiting, and the even more accurate model would be 3D tholons embedded within 3D tholons, which is almost impossible to conceive, let alone draw.
 
-The more accurate way to display this process would have been to use self-similar, embedded trigrams, but that would would be a bit messy and limiting.
+The math and method in this process is the same math use by Leibniz to calculate Pi (π).
 
-The math and method in this process is the same math use by Leibniz to calculate Pi.
-
-For anyone that wants to replicate this process, here is some code (PHP).
+For anyone that wants to replicate/test this process, here is some code (PHP).
 
 
 ```
@@ -3005,7 +3001,11 @@ function iteration($N, $s, $p, $h) {
 }
 ```
 
-For what it’s worth, if we applied the Ohm’s Law formula for P (power) to these numbers is would be (0.78539823794228 * 1.4908979932066E-7) * 4 = 4.68379463e-7.
+We can also calculate the value for Phi (φ, 1.618…) using the formula (N+√S)/H where N=1 (not recursive), and the Fibonacci sequence by sequencing the ‘+’ operator around all sides, beginning with H.
+
+There are many, many relationships, patterns, values and functions in this simple trigram, but for most of them it is impossible to say which are *data*, which are *information*, and which are *knowledge*.
+
+
 
 
 
