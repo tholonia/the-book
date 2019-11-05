@@ -1,5 +1,5 @@
 <center><img style="text-align:center;100%" src="../Images/titlepage.png" /></center>
-DRAFT - Version Beta {!Mon 04 Nov 2019 01:52:54 AM EST v.1.4.2}
+DRAFT - Version Beta {!Tue 05 Nov 2019 01:06:40 AM EST v.1.4.8}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -100,7 +100,6 @@ Chaos also has another definition that means exactly the opposite, similar to th
 
 >  “Now we establish once and for all that \[the universe\] is chaotic.”
 
-<center><img style="text-align:center;width:100%" src="../Images/001-bigbang.png" /></center>
 #### **Claim 2:** Chaos is a state of total energy and matter. Total somethingness. 
 
 We are not claiming here that the Big Bang theory is correct (because it sounds completely insane), but we are asking the question; How can the concept of *chaos* describe the state of the void of total nothingness as well as the state of all matter and energy in the universe?
@@ -108,6 +107,7 @@ We are not claiming here that the Big Bang theory is correct (because it sounds 
 The definition of chaos that works for both is *“the degree that order is present in any state”*. Both of those states, of total nothingness and total somethingness, have no order.  In one case because because that state it is empty of anything, and in the other case because that state is full of everything in a moment that everything was happening at once. Granted, that total state of chaos after the Big Bang only lasted 10<sup>-36</sup> seconds, but that doesn’t change the fact that total chaos existed at the birth of the Universe.
 
 #### **Claim 3:** chaos is a measure of order. 
+
 
 <div style="page-break-before: always"></div>
 ENERGY
@@ -244,6 +244,7 @@ This is classical physics, and entropy in classical physics is defined as *disor
 
 In the water example, if we have two identical bodies of water, one 100 feet above the other, we say that the upper body of water has lower entropy than the lower body of water, and the lower body of water has higher entropy than the upper body of water, but there is no difference between these two bodies of water when compared independently. The difference only appears when compared to each other, because one is higher than the other. We can say that both bodies are in a (slightly) higher state of chaos when they are not connected. Once they are connected, and the water begins to flow, there is movement of energy, and order follows.
 
+<center><img style="text-align:center;width:60%" src="../Images/001-bigbang.png" /></center>
 This is what is theoretically happening to the universe right now because according to the Big Bang Theory, there was zero entropy (total energy) at the moment of the Big Bang. Since then all that energy has been following the path of least resistance, moving into the surrounding nothingness, like water into the ocean or electrons in a battery, raising the entropy of the universe and decreasing the amount of usable energy. This is why, according to the theory, the universe will end up in a state of chaos and disorder, like a dead battery or a stagnant lake. The Universe started in chaos and will end in chaos, and in-between those two points, there is the movement of energy, which creates order.
 
 #### **Claim 10:** Order and pattern requires energy. 
@@ -707,25 +708,25 @@ Some may see this as an example of “Intelligent Design.” We prefer the term 
 
 How have we used our reasoning skills to understand the nature of reality and our universe? One of the most fundamental concepts we have created in this regard it that of *cycles*. Cycles are the way we describe *“any complete round or series of occurrences that repeats or is repeated.”* Cycles, as we understand and define them, are the product of applying reason to the redundancies and repeating patterns we observe around us, and even within us.
 
-On the other end of the spectrum, we have sophisticated and complex theories as to how reality came into existence, how the cycles of existence began in the first place.
+On the other end of the spectrum, we have sophisticated and complex theories as to how reality came into existence, and how the cycles of existence began in the first place.
 
-We understand the concept of cycles easily enough, but let’s look at some of the more popular ideas that represent our best reasoning abilities regarding how everything that exists began.
+We understand the concept of cycles easily enough, but let’s look at some of the more popular ideas that represent our best reasoning abilities regarding the cycle that started it all and how everything that exists began.
 
 ### Big Bang
 
-This seems to be the most popular theory, which states that 14 billion years ago, there was nothing and nowhere, the primal void. Then, for reasons unknown, something the size of a subatomic particle appeared in this void of nothingness and in a fraction of a second, expanded to fill the entirety of the void (which is estimated to be about 90 billion light-years wide, so far).
+This seems to be the most popular theory and it comes with various finales (Big Freeze, Big Rip, Big Crunch) and states that 14 billion years ago there was nothing and nowhere, the primal void. Then, for reasons unknown, something the size of a subatomic particle appeared in this void of nothingness and in a fraction of a second expanded to perpetually fill and expand the entirety of what we call the Universe (which is estimated to be about 90 billion light-years wide, so far).
 
 Can you see the relationship between the Big Bang Theory and the harmonograph as a device that takes an initial push and then takes some time to create a two-dimensional design on a blank surface as that initial energy slowly diminishes? If one could imagine a 12-dimensional harmonograph with countless variables in each dimension, one might be able to imagine how it could ‘draw’ a 3-dimensional universe.
 
 ### Eternal Inflation
 
-This is also called a ‘Level II Multiverse’ and states a) after the big bang the universe never stopped inflating, b) that this has been going on for an infinite amount of time and c) it continually creates new universes (multiverses) that also exist for infinite time. It is not clear how something can have a beginning, can be created, and yet exist for infinite time as there can be no ‘beginning’ to infinite time, but we’re talking quantum theory stuff, so, I guess anything is possible in that world where time and space may mean something different then what we are used to, if they mean anything at all.
+This is also called a ‘Level II Multiverse’ and states a) after the big bang the universe never stopped inflating, b) that this has been going on for an infinite amount of time and c) it continually creates new universes (multiverses) that also exist for infinite time. It is not clear how something can have a beginning, can be created, and yet exist for infinite time as there can be no ‘beginning’ to infinite time, but we’re talking quantum theory stuff, so, I guess anything is possible in that world where time and space may mean something different then what we are used to, if they mean anything at all.  The paper Stephen Hawking was working on when he died claims this theory is for the birds, that there is only one universe, and this can be proven if we just get rid of the concept of time… even the rebuttal to this theory is inconceivable. 
 
 ### Oscillating Universe
 
 Also called the ‘cyclic model’, and involves an endless series of Big Bangs, followed Big Crunches, and is explained by the collisions of high-dimensional ‘membranes’ in a higher-dimensional space.
 
-The question this model raises is, does the ‘memory’ of the previous ‘bangs’ service each crunch? We address the idea of universal memory later, so we won’t get into out here other that ask, is each new bang a hard reset?
+The question this model raises is, does the ‘memory’ of the previous ‘bangs’ service each crunch? We address the idea of universal memory later, so we won’t get into it here other that ask if each new bang a hard reset.
 
 ### Holographic simulation hypothesis 
 
@@ -733,21 +734,21 @@ The idea that reality is “just” a simulation has been around for a long time
 
 This theory that we live in a simulation has moved out of the philosopher’s chair and into the science lab where bits of supporting evidence were discovered.
 
-In this scenario, the Big Bang would be the equivalent of a cosmic hackers flipping the “on” switch to their Reality Framework Server.
+In this scenario, the Big Bang would be the equivalent of a cosmic hackers flipping the “on” switch to their ‘Reality Framework Server’.  
 
 This theory posits that reality is a simulated projection and black holes are the projectors, with the *event horizon* of a black hole (the point from which nothing escapes) acting as a diffraction grid for the energy it is projecting to form a ‘reality’, just like a hologram.
 
 We think of this world as analog, but it may well be digital, albeit with a level of resolution far beyond our ability to perceive (which would make sense if one were designing a simulation). This grid is made up of a series 1s and 0s, each ‘bit’ occupying a square Plank length. To put this in perspective, the number of ‘bits’ on the surface of *V616 Monocerotis*, our nearest black hole ‘projector’ a mere 3,000 light-years away, is around 2.3313x10<sup>88</sup>. There are only 10<sup>82</sup> atoms in the universe (we think), so, that is a big number.
 
-This is just from one of the 100 million black holes projectors in our galaxy alone, and we already know of 500 billion galaxies just within our range of observation, so we know of at least 5 x 10<sup>19</sup> “reality projecting CPUs” (for lack of a better term), that are all working in perfect synchronization, theoretically.
+This is just from one of the 100 million black hole projectors in our galaxy alone, and we already know of 500 billion galaxies just within our range of observation, so we know of at least 5 x 10<sup>19</sup> “reality projecting CPUs” (for lack of a better term), that are all working in perfect synchronization, theoretically.
 
-Even more mind-bending is the possibility that the reality that is being projected is only ‘rendered’ on-demand, i.e. this reality simulation creates wave functions of possibilities but they only ‘collapse’ into form when they are observed. Apparently, creating actual physical reality is a ‘CPU’ intensive task… or perhaps this reality was developed by creators that could only get their hands on a low-end simulator.
+Even more mind-bending is the possibility that the reality that is being projected is only ‘rendered’ on-demand, i.e. this reality simulation creates wave functions of possibilities that only ‘collapse’ into form when they are observed. Apparently, creating actual physical reality is a ‘CPU’ intensive task… or perhaps this reality was developed by creators that could only get their hands on a low-end simulator.
 
 I would also question the use of the word “simulation”, for that implies it is an artificial rendition of something that already exists. It is more like a bona fide creation, albeit one that may have been designed around a specific model, or for a specific (yet unknown) purpose.
 
-What is missing in these descriptions and current theories are many of those ideas that are not based in science, but rather legend, creation myths and beliefs. I skipped them not because they are not valid, but simply because there are too many of them, but modern theories are surprisingly in-line with the creation myths of the Judeo-Christian, Islam, Hindu, Zoroastrian, Taoist, Buddhist and even Aboriginal Australian, the world’s oldest civilization<sup>[30](#ref_030)</sup><a name="rev_030">&nbsp;</a>. We would expect to see this similarity between radically different models of reasoning if they were all attempting to understand the same thing.
+What is missing in these descriptions and current theories are many of those ideas that are not based in science, but rather legend, creation myths and beliefs. I skipped them not because they are not valid, but simply because there are too many of them, but modern theories are surprisingly in-line with the creation myths of the Judeo-Christian, Islam, Hindu, Zoroastrian, Taoist, Buddhist and even Aboriginal Australian, the world’s oldest civilization<sup>[30](#ref_030)</sup><a name="rev_030">&nbsp;</a>. We would expect to see this similarity between radically different perspectives, such as science and religion, if they were all attempting to understand the same thing.
 
-The common thread of modern and ancient creation theories and stories is that they are all versions of the plot-line that there was *nothingness*, followed by a *somethingness*, and everything that ever did or ever will exist does so between these two states of chaos.
+The common thread of modern and ancient creation theories and stories is that they are all versions of the plot-line that begins with *nothingness*, followed by a *somethingness*, and everything that ever did or ever will exist does so between these two states of chaos.
 
 #### **Claim 25:** All dualities stem from the first duality. 
 
@@ -1288,7 +1289,7 @@ So, our first dot has two attributes, awareness and intention, and the limitatio
 
 Each of these dots is aware of *its* dotness now, not just *a* dotness, because, with the existence of the other dot, each dot now has a center of its awareness *(Fig. c4)*, and the other dot defining its opposite and the limits of its awareness *(Fig. c5)*.
 
-As both dots are aware of their own dotness and of the other’s dotness they are also aware of where these two opposite awareness’s, one subjective and one objective, interact. These points of intersecting awareness are the (red) 3<sup>rd</sup> dot and 4<sup>th</sup> dot.
+As both dots are aware of their own dotness and of the other’s dotness they are also aware of where these two opposite awarenesses, one subjective and one objective, interact. These points of intersecting awareness are the (red) 3<sup>rd</sup> dot and 4<sup>th</sup> dot.
 
 We now have the two poles of the first duality that was created within the duality of nothingness and somethingness.  This duality might be described as that of *unlimited awareness/limitation of awareness*, or a number of other possible descriptions depending on what properties one sees in the green and red dots.  We will use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
 
@@ -1503,7 +1504,7 @@ There is no question that the natural processes of creation for nature follow th
 
 <img src="../Images/067-2d-3d.png" style="float:right;width:2.82986in;height:1.35833in" />So far all we have described is a 2D trigram. Where is the 3D tetrahedron? Remember, the 2D trigrams *are* the 3D tetrahedron, only flat. What happens when we convert this 2D model to 3D?
 
-If we take the parent trigrams and fold it according to its four children, we get a tetrahedron. This is a complete tholon or *tholonic structure*. Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state for all the properties involved.
+If we take the parent trigrams and fold it according to its four children, we get a tetrahedron. This is the structure of tholon. Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state for all the properties involved.
 
 This tetrahedral structure is fundamental to the fabric of our reality and as such we predict that it should have unique properties when it comes to energy. Indeed, such devices have been built that are commonly used in multiband interactions. This class of antennas is called *harmonic Sierpinski gasket antennas*, or *entropy and fractal antennas*. In addition, some rather ‘fringe’ research is being done that purports to be able to take advantage of the harmonic quality of these tetrahedral structures to draw (not generate… more like induction) energy from existing fields (i.e. free energy). I am deliberately not adding any references to this research because, to date, there has been no research that bears up to scrutiny enough to share, however, simply that it is being researched is very exciting.
 
@@ -1698,7 +1699,15 @@ Another example of how we might discover tholonic structures in subatomic partic
 
 Consider that protons have a charge of +1 and are composed of two *up* quarks, which have a charge of +2/3, and *one* down quark, which has a charge of -1/3, and neutrons have a charge of 0 and are composed of one up quark and two down quarks.
 
-This is seen in a single tholon and its reflection tholon as shown in *Fig. q1* and *Fig. q1a* below. The upper trigram has a parent trigram at the top which we can assign a value of -1/3, and the two children can be assigned a value of +2/3. The center trigram, which is always a reflection trigram, has a value of 0. The opposite is true for the lower reflection trigram as well. With these values, the upper tholon has a charge of 1 and its reflection tholon has a charge of 0. This also seems to indicate that a truly complete tholon requires two tholons; itself and its reflection tholon.  Interestingly, just like the total number of degrees of 2 triangles equals the degrees in a circle, 360, the total number of degrees of such a double-tholon of one *virtual* and one *real* equals the same number of degrees of 4 circles, 1440, which at least gives the sense of a completion given that tholons exist in the quadray coordinate system that requires 4 values to define a point.
+<img src="../Images/color-tri.png" style="float:right;width:25%"/>This is seen in a single tholon and its reflection tholon as shown in *Fig. q1* and *Fig. q1a* below. The upper trigram has a parent trigram at the top which we can assign a value of -1/3, and the two children can be assigned a value of +2/3. The center trigram, which is always a reflection trigram, has a value of 0. The opposite is true for the lower reflection trigram as well. With these values, the upper tholon has a charge of 1 and its reflection tholon has a charge of 0. This also seems to indicate that a truly complete tholon requires two tholons; itself and its reflection tholon.  Interestingly, just like the total number of degrees of 2 triangles equals the degrees in a circle, 360, the total number of degrees of such a double-tholon of one *virtual* and one *real* equals the same number of degrees of 4 circles, 1440, which at least gives the sense of a completion given that tholons exist in the quadray coordinate system that requires 4 values to define a point.
+
+We need to very briefly address one item before continuing. *Fig. b1* shows how a complete tholon is required to create higher order of structures, like the hexagon, but notice also that the hexagon is not actually defined until the 3rd generation.  by ‘defined’ we mean the contiguous boundaries of the same boundary type.  In this figure the three boundary types are magenta (connecting blue and red), yellow (connecting green and red, and cyan (connecting red and blue).  As each boundary type has different properties, foundational or primitive structure can’t mix boundary types.
+
+The image below shows the three boundary types, extracted and enhanced from the complete 2D tholon map on the left. Only one of those patterns is self-similar, and that is the pattern caused by the lines that can support an N-state, which is line the line that represents the spectrum between the two poles (of red and green).  The other two patterns are flat grids, patterns that are exactly opposite one another and represent the opposing properties of the originating N-state. 
+
+<img src="../Images/tri-bonds.png" style="float:left;width:70%"/>
+
+That was all we needed to show, and it will be very significant in a few paragraphs.
 
 If we looked at the 2D thologram map which shows these complete double-tholons, we get what is shown in *Fig. q2*. You’ll notice this is identical to the previous graph (*Fig. h1*) that shows the lines of succession from N-sources to N-states across all three directions. This would suggest that quarks are an instance of N-states. Given that these pairs and also arranged in three different angles, 60 degrees apart, it would also suggest (remember, I am not a quantum physicist) that there are three classes of quarks.
 
@@ -1723,6 +1732,8 @@ However, in the tholonic model, there *is* a place for the positron hide, and th
 
 But what about the electron? Where is that? Tholonically speaking, the electron is a product of the imbalance of this hexagram, as it has a total charge of +1, and therefore it will automatically create an equal and opposite negative charge of -1. Where would this electron exist? At the opposite side of the N-sources across the scope of its children C and D, which is where N-sources manifest as stable expressions, i.e. on the outer most edge of the hexagram. In a complete and folded tholon, these three scopes create the three edges of the outer tholon that is opposite the reflection tholon, represented by the three black dots in *Fig. q1a*. As there are three different directions of these patterns, each 60 degrees apart, there is access to any active interface (which instantiates as an electron) for every angle of the thologram.
 
+More importantly, those dots where the electrons would appear only exist on the boundaries of the self-similar (yellow) grid we just looked at above.  What this implies is that anything that uses electrons to exist, which is all matter as we know it, will naturally order itself in both a self-similar manner and in a way that can be mapped to that pattern.  Does this mean that everything that exists is somehow based on a self-similar hexagram?  No (but a lot of stuff is!), because the thologram is only one perspective of a much greater multidimensional model.  Someone could create a different description of the same model from a different perspective.  For example, a description that uses the binary math system, or any other set of symbols that make sense for the context and scope of the observer, even symbols that form words or symbols like the spirits of the plants and insects or the gods of mythology.
+
 ### While we’re here
 
 <img src="../Images/088-tholo-trimath.png" style="float:right;width:2.6in;height:2.19097in" />This would be a good place to briefly point out other patterns in other systems. For example, Newton’s 2nd Law nicely fits into a tholon. let’s use Ohms Law to test it out.
@@ -1743,11 +1754,11 @@ Let’s look at these definitions closer.
 
 Before we move on, let’s follow up on this concept of how the trigram can describe the math functions of Ohm’s law.
 
-What do the math symbols mean in the real world? Addition and subtraction are easy concepts to grasp in the real world. We take so many of one thing and add or remove so many of another thing. A good example of the effects of addition and subtraction is how they affect colors.
+What do the math symbols mean in the real world? Addition and subtraction are easy concepts to grasp in the real world. We take some number of things and add or remove some number of things. A good example of the effects of addition and subtraction is how they affect colors.
 
 <img src="../Images/090-addition.png" style="width:3.73in;height:1.87in" />
 
-What are multiplication and division then? It is the definition of one property by the units of another. For example, in division, such as *3=12/4*, we are stating that 3 is what we get when we measure an existing value (12) by a predetermined unit of 4. In multiplication, such as *12=3\*4,* we are determining a new value by taking one predetermined value (4) and adding it some number of times by another predetermined value (3). The 4, as the divisor or multiplier, becomes the defacto unit of measurement.
+What are multiplication and division then? It is the definition of one value by the units of another value. For example, in division, such as *3=12/4*, we are stating that 3 is what we get when we measure an existing value (12) by a predetermined unit of 4. In multiplication, such as *12=3\*4,* we are determining a new value by taking one predetermined value (4) and adding it some number of times by another predetermined value (3). The 4, as the divisor or multiplier, is the unit of measurement and the 3 is the number of units.  We’re not going over this because you need to learn about math.  Every kids knows what was just stated., but when we apply those same simple rules and concept to a non-math context, they become very significant.
 
 As mentioned above, we would expect to see the same laws expressed in different ways across all the scopes that the laws apply to, so we would expect to see an example of Newton’s 2<sup>nd</sup> law in the tholonic realms of society, or planets, or organisms… and we do.
 <img src="../Images/society-laws.png" style="float:right;width:20%"/>
@@ -1799,7 +1810,7 @@ The number 1 is a very lonely number as it stands in a class all by itself:
 - 1 is its own square and square root, its own cube and cube root, etc.
 - 1 is the result of the empty product, as any number multiplied by one is itself. 
 
-In fact, for most of history the number 1 was not even considered a number, but rather the source of all numbers.<sup>[162](#ref_162)</sup><a name="rev_162">&nbsp;</a>
+In fact, for most of history the number 1 was not even considered a number, but rather the *source* of all numbers.<sup>[162](#ref_162)</sup><a name="rev_162">&nbsp;</a>
 
 For these, and other reasons, we can not start counting with the number 1, but rather with the number 2, the first actual number, in a practical sense.
 
@@ -1817,7 +1828,7 @@ Regarding V~3~, 216, however, well, this is a fascinating number that has a hist
 
 ##### ~ Plato (quoting Socrates)
 
-*(The word “cubed” was not in use in those days, but 216 is the first (smallest) cube which is the sum of three cubes. It also makes more sense how this migth apply to human breeding when you know that back in the day odd numbers were considered male and even numbers were considered female.)*
+*(The word “cubed” was not in use in those days, but 216 is the first (smallest) cube which is the sum of three cubes. It also makes more sense how this might apply to human breeding when you know that back in the day odd numbers were considered male and even numbers were considered female.)*
 
 216’s fame may even go back as far as Pythagoras, as it is the sum of cubes of the *Pythagorean triple* (3,4,5, hence 3^3^ + 4^3^ + 5^3^).
 
@@ -1827,9 +1838,9 @@ Later in history this pedigree number fell slightly into infamy when John the Ap
 
 ##### ~ John, Revelations 13:18 (NIV)
 
-Because 6\*6\*6=216 this number started popping up in some strange places.  Fans ignore the most likely suggestion that that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and not 666.  Regardless, this simply increased 216’s clout in the religious counter-culture which still holds up today.  Just do an Internet search for “216” to see for yourself.
+Because 6\*6\*6=216 this number started popping up in some strange places, given its antiquity and its dubious association with the Armageddon, biblical beasts and humans’ generally suspicious nature.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and not 666.  Regardless, 216’s clout in the religious counter-culture still holds up today.  Just do an Internet search for “216” to see for yourself.
 
-The point of all this is to show one way that the tholon can  can be used and viewed, but there are many new ways of looking at energy in all its forms when viewed tholonically.
+The point of all this is to show one way that the tholon can be used and viewed. There are many new ways of looking at energy in all its forms when viewed tholonically.
 
 <img src="../Images/093-DNA.png" style="width:5.70833in;height:1.35in" />
 
@@ -2483,7 +2494,7 @@ An example of these new emerging paths would be the creation of a new element in
 
 Starting from the beginning, immediately upon the first awareness of a non-existent dot in the void of nothingness, that awareness and intention began self-replicating into smaller and smaller divisions. These divisions stop at some point where no sustainable patterns can be achieved, perhaps because the difference is too small or weak, or the dissimilarities are too great, or other reasons. The depth of a tholon’s scope can be described as the difference between two states, the delta of the duality of that scope, similar to the definition of voltage we saw above, which presumably gets smaller and smaller with each generation (but not necessarily).
 
-*Sidenote: If we accept that the smallest thing that can exist is 1.616x10^-35^m (Planck’s constant) and the Universe is 2.8x10^+12^m in diameter, then we can say that the entire scale of reality can be represented within the first 182 iterations of the thologram given that each child is half the size of the parent.  Of course, size my not mean anything here as the thologram is not only conceptual, but also multidimensional… but it’s still an interesting details.*
+*Sidenote: If we accept that the smallest thing that can exist is 1.616x10^-35^m (Planck’s constant) and the Universe is 2.8x10^+12^m in diameter (or 8.5x10^+26^, depending on what theory you choose), then we can say that the entire scale of reality can be represented within the first 182 (or 201) iterations of the thologram given that each child is half the size of the parent.  Of course, size my not mean anything here as the thologram is not only conceptual, but also multidimensional… but it’s still an interesting details.*
 
 As the parents and children of a tholon change, so too will that tholon adapt to these changes by having its scope adjusted. In doing so the thologram is *problem-solving* in real-time. More than that, it is doing this in a heuristic manner, i.e. a manner based on experience. How? Because the (only successful) changes that have been made in the past resulted in changes (of which only the successful remain) to the entire thologram and the consequence of those changes define the context of each tholon’s current condition.
 
@@ -2764,13 +2775,11 @@ This Taoist symbol does not represent the Oneness from which the first duality e
 From the tholonic perspective, that which created the first duality is different from that which creates all the other dualities, but the process is the same.  If we reuse a earlier diagram of the tholonic trigrams but replace the initial, and only the initial N-source with a Zen circle (because I have no ideas what *should* go there, just that is should not be the Taijitu), we have the following:
 
 <center><img style="text-align:center;width:60%" src="../Images/tao-3-steps.png" /></center>
-
 <img src="../Images/i-ching-8.jpg" style="float:right;width:14%"/>The I-Ching, like the thologram, has the basic concept of a trigram as the stable building block of ideas.  In the I-Ching a trigram is simply three states of yin/yang together to form a stable concept.  There are eight possible combinations when using yin and yang.
 
 The I-Ching also has a concept of an ‘lower’ and an ’upper’ state.  The lower state can be earth, matter, the subjective, the hidden, the inner, etc. depending on context.  The ‘upper’ state is that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context.  A hexagram is made up of these two states, each state occupied by one of the eight trigrams.  This results in a total of 64 hexagrams, the total number of hexagrams in the I-Ching (colored blue and red simply for easier viewing).
 
 <center><img style="text-align:center;width:50%" src="../Images/ic_64hex.png" /></center>
-
 An I-Ching trigram is a very simple concept of three states, earth at the bottom, heaven at the top and humanity in the middle.  As you can see, this is not only a very simple concept, but a very limited one as these concepts only apply to a human context.  The thologram has the same concept of a trigram that is quite compatible with the I-Ching but far more functional and also arranged a bit differently.  The tholonic trigram is made of a source, and its two polar opposites that emerge from it, something like a *synthesis* that hold within its own *thesis*, and *antithesis*.  Certainly the I-Ching model of a trigram fits into this if we view *humanity* as the synthesis and *heaven* and *earth* the two polarities contained within, rather than the I-Ching’s view that humanity is the product of heaven and earth, however, tholonically this is true only for the resulting N-state that emerges from the spectrum of *heaven* and *earth*.
 
 The thologram also a a concept of *upper* and *lower* in that the *upper* trigram of the I-Ching equates nicely to the parent trigram of a tholon. The resulting *lower* trigram of the tholon is created by the new N-source of the parent.  We can now see that the final hexagram is perfectly equivalent to a tholon map.
@@ -2778,7 +2787,6 @@ The thologram also a a concept of *upper* and *lower* in that the *upper* trigra
 
 
 <center><img style="text-align:center;width:80%" src="../Images/tri-is-hex.png" /></center>
-
 It might see counterintuitive that the *upper* or *outer* trigrams of the I-Ching equates to the smaller and smaller embedded trigrams of the thologram, but not when you consider that it is the smallest and most embedded tholons that represent the bleeding edge of reality where new creations are being born, dying, and morphing.  The farther up the thologram, the less things change.  In the thologram, the parent trigram is what forms the environment or context for a new N-source to come into existence, so the parent trigram is the incubator, so to speak, for the yet to be manifest N-state.  The smaller, inner trigram inside the parent is where the newly created N-state creates its own environment, which incubates yet another N-state, and so on.  This is why the I-Ching’s *lower* trigram equates to the tholon’s *parent* tholon, and the *upper* trigram equates to the child tholon’s instantiated *inner* trigram. 
 
 *Note: One interesting detail when we use the outer trigram on the parent level with the inner trigram on the child level; all the numbers for each side equal 9 (1+6+2, 2+4+3, 3+5+1).  That does not mean it is correct this mapping is ‘correct’, but it does mean there is natural symmetry, and symmetry is an excellent indicator of order, and therefore the movement of energy.
@@ -2855,7 +2863,6 @@ In these models of creation we have 6 steps of creation of a hexagram, the tetra
 Let’s rearrange the bifurcating tree that the I-Ching is based on (and arguably all forms of creations) and apply this concept of 6.
 
 <center><img style="text-align:center;width:60%" src="../Images/taotree.png" /></center>
-
 Here we have the same tree as before, but the starting point is in the middle as opposed to the top.  The blue circles represent the yang lines and the red circles represent the yin lines.  Following the path from the center to every endpoint will result in 64 paths, each endpoint matching one of the I-Ching hexagrams.
 
 The first thing to notice is two-fold: 1) the top and the bottom are the same but opposite, and 2) this is the same archetypal structure that we see in all growing and alive systems, the most obvious being plants and trees with their roots and stems, which provide a very good instantiated example of the concept of *inner* and *outer*, *upper* and *lower*. etc. 
