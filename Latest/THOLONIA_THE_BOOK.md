@@ -1,5 +1,5 @@
 <center><img style="text-align:center;100%" src="../Images/titlepage.png" /></center>
-DRAFT - Version Beta {!Sun 10 Nov 2019 08:31:26 AM EST v.1.6.7}
+DRAFT - Version Beta {!Sun 10 Nov 2019 10:03:36 PM EST v.1.7.2}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1255,15 +1255,15 @@ From the tholonic perspective, this is a very incomplete description because it 
 <center><img src="../Images/051-firstdot.png" style="width:90%" /></center>
 We start with a 0-dimensional dot represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can&rsquo;t be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the *idea* of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.  This is our first duality, that of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance.
 
-#### **Claim 45:** The tholonic definition of energy is &ldquo;the balancing of an ever bifurcating awareness in accordance with the laws of duality.&rdquo;
-
 This next step requires some philosophical conjecture because we have to ask why/how does a 2<sup>nd</sup> (green), dot appear *(Fig. c2).*
 
 If we accept the premise that everything that is created has the attributes of, and limitations of, whatever created it, then, the answer is clear and simple. As this lone imaginary dot in the middle of infinite nothingness only exists as an awareness of the concept of a point in the middle of infinite nothingness, the only attribute this point *can* have is awareness, as that is what it was created from.
 
 There is one more attribute it has as well that is far less obvious, and that is *intention*, because whatever awareness conceived of a point in nothingness had to have the intention to conceive of it. So, our point in the middle of infinite nothingness has two attributes; awareness and intention.
 
-We see this concept that all of creation is the result of intention in spiritual texts, such as in the Quran which repeats numerous times that all of creation originates from the will of Allah.  This concept of creation as a product if divine will is actually pretty common.  This may sound like we&rsquo;re teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
+We see this concept that all of creation is the result of *divine* awareness and intention in the spiritual texts of every major belief system (except Buddhism, which has no concept of a divine being). This may sound like we&rsquo;re teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
+
+#### **Claim 45:** Pure energy is primal awareness and intention. Energy as we know it, &ldquo;the ability to perform work&rdquo;, is the balancing of the imbalance between states of that ever-bifurcating energy.
 
 So, our first dot has two attributes, awareness and intention, and the limitation of 0-dimensions. This dot then is itself a form of awareness and being so, it will be aware of the existence of *dotness*, not *its dotness*, just *a dotness*. Just as the awareness of a conceptual point created the first dot, the first dot&rsquo;s awareness of dotness is what creates the 2<sup>nd</sup> (green) dot, and in doing so, creates the 1<sup>st</sup> instance of a dimension. With two dots, we now have a relationship between them as shown by a line *(Fig. c3)*.
 
@@ -2093,9 +2093,9 @@ Although this sort of research does not get the attention it deserves, with a bi
 
 The point here is that fields of awareness, such as morphic fields and tholonic fields, while being able to instantiate in the material world, are not limited to the restrictions of the material world.
 
-#### **Claim 55:** Tholonic and Morphic fields have the ability to transmit and store information. 
+#### **Claim 51:** Tholonic and Morphic fields have the ability to transmit and store information. 
 
-#### **Claim 51:** Tholonic fields are not limited by time and space. 
+#### **Claim 52:** Tholonic fields are not limited by time and space. 
 
 ## Tholonic Fields
 
@@ -2111,7 +2111,7 @@ The natural ordering as a result of the movement of energy is obvious, but for t
 
 -   An idea or concept has coherence, or low entropy, and represents a product of &ldquo;work&rdquo; or the movement of energy, which produces fields and oscillations of that energy&rsquo;s movement.
 
-#### **Claim 52:** Tholonic Fields are the fields generated by the movement of energy through an archetypal concept that has been discovered or created. Morphic fields are the instantiations of tholonic fields as expressed by the instantiations of that archetype. 
+#### **Claim 53:** Tholonic Fields are the fields generated by the movement of energy through an archetypal concept that has been discovered or created. Morphic fields are the instantiations of tholonic fields as expressed by the instantiations of that archetype. 
 
 This brings us back again to the question: how and where is all this information that is being access stored? How does a tholon know the limits of its scope? How does it access the information needed to inform its intelligence? How does it &ldquo;remember&rdquo; context?
 
@@ -2121,7 +2121,7 @@ And how do we store that information? We invent an abstract symbolism, apply mea
 
 When we use the Internet, we are not aware of the relationships, semantic and otherwise, that are being discovered and used to deliver information to us in a very human-readable format. By the same token, we may not be aware of the symbolism being used by our *field intelligence* to collect, store, and transmit information. Because we don&rsquo;t know how to recognize or interpret these symbols, we have to assume they could exist anywhere, and everywhere.
 
-#### **Claim 53:** We don&rsquo;t know what we don&rsquo;t know. 
+#### **Claim 54:** We don&rsquo;t know what we don&rsquo;t know. 
 
 let&rsquo;s look at some of the more likely candidates of how and where we access this *field intelligence.*
 
@@ -2168,7 +2168,7 @@ Perhaps what we call some forms of telepathy or ESP are simply quite natural con
 
 -   Dolphins see sound waves as 3D images.
 
-#### **Claim 54:** Transcendental or extrasensory forms of communication exist. 
+#### **Claim 55:** Transcendental or extrasensory forms of communication exist. 
 
 Telepathy or otherwise, it&rsquo;s a safe bet that to say that some form of transcendental or extrasensory form of communication exists. it&rsquo;s the specifics of it that seem to be elusive. Proving such a thing is similar to asking me to prove that Australia exists. I know many people from Australia, I can find Australia on a map, I know of Australian politics and history, but all of that is anecdotal as I have never been to Australia and if you asked me to prove Australia&rsquo;s existence by the strictest scientific standards, I could not. All I could say is I have a lot of evidence from trustworthy sources.
 
@@ -2456,7 +2456,7 @@ In the early generations of the thologram, the numbers of paths are limited, and
 <center><img src="../Images/105-brownian-growth.png" style="width:90%" /></center>
 Although this sounds like predeterminism, which it is, in effect, there are so many paths that can be traveled that for all intents and purposes predeterminism doesn&rsquo;t apply. Tholonically speaking, it appears as though we may have free will, but only with regard in determining which predetermined path we follow.  It also looks like existence itself is the byproduct of the formation of every possible combination of sustainable patterns.
 
-Although a bit of a tangent, it&rsquo;s worth stating here that the idea of reincarnation is a flawed understanding of a misunderstood process. What we believe to be past life experiences are collective memories associated with the path we happen to be traveling and which we identify with mainly due to our ego&rsquo;s limitation of relating everything to one&rsquo;s self. This is why many people who believe in reincarnation will also believe they were the same (well known) person in a past life, as there will naturally be more people traveling the well-worn paths of current archetypes simply because these paths are the paths of lesser resistance.
+Although a bit of a tangent, and certainly worthy of more than a paragraph, it&rsquo;s worth stating here that the idea of reincarnation is a flawed understanding of a misunderstood process. What some people believe to be past life experiences are collective memories associated with the path we happen to be instantiating, or traveling, if you will, and which we identify with mainly due to our ego&rsquo;s limitation of relating everything to one&rsquo;s self. This is why many people who believe in reincarnation will also believe they were the same (well known) person in a past life, as there will naturally be more people traveling the well-worn paths of current archetypes simply because these paths are the paths of lesser resistance.  This subject raises the questions about life after death.  Every creation, including tholons, gos through the cycles of instantiation of inception, gestation, emergence, propagation, culmination, and dispersion.,  This is one description that identifies six stages that is used here.  There can be many others.  When a tholon 'dissolves', whether due to loss of energy, destruction, absorption, or any number of ways it's stable pattern of energy can come to an end, what survives and where does the energy go?  The energy goes to wherever it can go with the least resistance, that being typically the parent tholon. So, what is the parent tholon of a person?  It would naturally be one of the children of the uber tholon of human.  There can be many tholon between the instance of an individual and a human in general.  In some cases, perhaps, and as we will argue in the section immediately following, there can be multiple instances of the same tholon.  If one is such an instance, as most instances are, the energy of their existence upon demise will return to a tholon that is the archetype all the instances.  This is probably what spiritualists refer to as the *oversoul*.
 
 There are some real-world examples of how instances follow a preexisting path. Here are some of the fairly well-known stories of &ldquo;coincidences&rdquo; that demonstrate this concept.<sup>[127](#ref_127)</sup><a name="rev_127">&nbsp;</a>
 
@@ -2578,9 +2578,9 @@ If we look at the crazy and irrational antics of the mythological gods, humans a
 
 As the AI of the gods, are we providing solutions to problems the gods are incapable of developing themselves? Perhaps life is simply a viability test bed, an experimental sandbox. Who knows?
 
-Perhaps the question that has humanity so concerned, &ldquo;Will AI ever attain consciousness?&rdquo; is our human version of our creators&rdquo; question &ldquo;Will man ever become a god?&rdquo; Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, therefore anything Man creates will have that same stolen fire. Unfortunately for Man, this larceny made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods &ldquo;**Behold, the man has become like one of Us.&rdquo;**<sup>[134](#ref_134)</sup><a name="rev_134">&nbsp;</a>.  Perhaps one day our unhappy and nervous descendants we will say &ldquo;**Behold, the machine has become like one of Us.**&rdquo;
+Perhaps the question that has humanity so concerned, &ldquo;Will AI ever attain consciousness?&rdquo; is our human version of our creators&rsquo; question &ldquo;Will man ever become a god?&rdquo; Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, therefore anything Man creates will have that same stolen fire. Unfortunately for Man, this larceny made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods &ldquo;**Behold, the man has become like one of Us.&rdquo;**<sup>[134](#ref_134)</sup><a name="rev_134">&nbsp;</a>.  Perhaps one day our unhappy and nervous descendants we will say &ldquo;**Behold, the machine has become like one of Us.**&rdquo;
 
-<center><img src="../Images/107-three-tholonic-view.png" style="width:90" /></center>
+<center><img src="../Images/last-image.png" style="width:20%" /></center>
 <div style="page-break-before: always"></div>
 # Appendixes
 
@@ -3277,4 +3277,4 @@ Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystal
 
 <a name="ref_167">167</a> [<span class="reflink"> &#x005e; </span>](#rev_167): Levin, Samuel R., and Stuart A. West. **“The Evolution of Cooperation in Simple Molecular Replicators.”** Proceedings of the Royal Society B: Biological Sciences 284, no. 1864 (November 2017): 20171967. https://doi.org/10.1098/rspb.2017.1967.
 
-<a name="ref_168">168</a> [<span class="reflink"> &#x005e; </span>](#rev_168): https://en.wikipedia.org/wiki/Quantum_eraser_experiment
+<a name="ref_168">168</a> [<span class="reflink"> &#x005e; </span>](#rev_168): https://en.wikipedia.org/wiki/Quantum_eraser_experimentreincar
