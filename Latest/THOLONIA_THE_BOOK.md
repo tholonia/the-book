@@ -1,5 +1,5 @@
 <center><img style="text-align:center;100%" src="../Images/titlepage.png" /></center>
-DRAFT - Version Beta {!Sun 10 Nov 2019 10:03:36 PM EST v.1.7.2}
+DRAFT - Version Beta {!Mon 11 Nov 2019 01:29:56 AM EST v.1.7.5}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -1464,7 +1464,7 @@ As we saw earlier, the N-source (blue) is the progenitor of the subsequent D (gr
 
 Just as every element in the periodic table is formed from hydrogen, so too is every generation of the thologram formed from the trigram.
 
-A curious observations is if you take the simplest material version of the trigram (hydrogen) and the simplest material version of the hexagon (carbon), the two most fundamental forms in the thologram, and combine them you happen to get hydrocarbons, the most fundamental building blocks of life (and a bunch of plastic stuff). Is it more reasonable to see this as a recurring pattern or to call it a coincidence?
+A curious observations is if you take the simplest material version of the trigram (hydrogen) and the simplest material version of the hexagon (carbon), the two most fundamental forms in the thologram, and combine them you happen to get hydrocarbons, the most fundamental building blocks of life (and a bunch of plastic stuff), as all life is carbon based. Is it more reasonable to see this most basic structure of the thologram appearing in the most basic structure of life as a recurring pattern or to call it a coincidence?
 
 We can also apply the same associative reasoning to the thologram as a whole to show how its structure appears as a pattern of growth in nature.
 
@@ -2805,11 +2805,10 @@ If we create a binary tree of the I-Ching such that any of the the following con
 
 …we end up with bifurcations that will be 60&deg; apart from each other (which is also the angle that creates a tetrahedron/tholon), which would then create the following patterns for each of the 6 generations of bifurcations (this is easily done with the L-systems language described above with the rule ***F=F\[+F]\[-F]***):
 
-
-
 <center><img style="text-align:center;width:100%" src="../Images/generations.png" /></center>
-<center><img style="float:right;text-align:center;width:30%" src="../Images/overlay.png" /></center>Simply splitting one line into two lines, in accordance with the laws of energy, we naturally form a pattern of hexagons that perfectly matches the pattern we get when we expand a single dot to many dots.  This is because the I-Ching and the thologram represent the same laws but in the context of a binary system (I-Ching) and a trinary system (thologram).  Not surprisingly, the one point they both naturally center around is the N-source, which we have already shown to be equivalent to the Taijitu   <img style="width:25px" src="../Images/ic_yinyang-small.png" />
-It turns out the two systems are quite compatible to the point where not only can the entire I-Ching me mapped to the thologram, but the thologram can greatly elaborate on the I-Ching and give it a 3D structure, and given its recursive nature, infinitely so. 
+<img style="float:right;text-align:center;width:30%" src="../Images/overlay.png" />Simply splitting one line into two lines, in accordance with the laws of energy, we naturally form a pattern of hexagons that perfectly matches the pattern we get when we expand a single dot to many dots.  This is because the I-Ching and the thologram represent the same laws but in the context of a binary system (I-Ching) and a trinary system (thologram).  Not surprisingly, the one point they both naturally center around is the N-source, which we have already shown to be equivalent to the Taijitu   <img style="width:25px" src="../Images/ic_yinyang-small.png" />
+
+It turns out the two systems are quite compatible to the point where not only can the entire I-Ching be mapped to the thologram, but the thologram can greatly elaborate on the I-Ching and give it a 3D structure, and given its recursive nature, infinitely so. 
 
 Contrary to modern misconceptions, the I-Ching was never meant to be a tool for divination.  It was, and is, a technical manual:
 
@@ -2821,6 +2820,7 @@ Contrary to modern misconceptions, the I-Ching was never meant to be a tool for 
 
 ##### ~ Lu Dongbin, 9th c. Taoist master (introduction of The Taoist I Ching)
 
+<center><img style="width:80%" src="../Images/hex2tree.png" /></center>
 Let&rsquo;s review the 6 steps of each model.
 
 The thologram was created by the three properties of the the three original dots, and these three dots align perfectly with the three stages of creation as they appear on the inner and the outer.
