@@ -1,5 +1,5 @@
 <center><img style="text-align:center;100%" src="../Images/titlepage.png" /></center>
-DRAFT - Version Beta {!Mon 11 Nov 2019 10:55:28 PM EST v.1.8.2}
+DRAFT - Version Beta {!Sat 16 Nov 2019 02:46:21 AM EST v.1.9.1}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2019 Duncan Stroud
@@ -2663,7 +2663,7 @@ Tholonically, we can easily map things like Ragone and utility space (as in the 
 <div style="page-break-before: always"></div>
 # C - Tholonia and the I-Ching
 
-###### **!!! this sections is a work-in-progress and still quite incomplete. !!!**
+###### **!!! this section is a work-in-progress !!!**
 
 It&rsquo;s been mentioned several times already that the basic principles of the tholonic model should be discoverable in any sustainable model, be it form or idea, if all creation follows the same rules.  
 
@@ -2749,7 +2749,7 @@ The stages are as follows:
 
  the two trigrams, upper and lower, are essentially the same but in two different contexts.  For example:
 
-- **Line 1** (yang) is **expansive** and represents the purest and simplest form of a concept.  This is the stage of **inception**. In the life-cycle of plants this represents the **seed** stage.  
+- **Line 1** (yang) is that of  **ideation** and represents the purest and simplest form of a concept.  This is the stage of **inception**. In the life-cycle of plants this represents the **seed** stage.  
 
   Line 1&rsquo;s tholonic equivalent is the originating N-state, the topmost *blue dot* which itself is a synthesis of a previous parent tholon.
 
@@ -2916,13 +2916,11 @@ This graph below diagrams the process (and shows the results already multiplied 
 <center><img style="text-align:center;width:60%" src="../Images/pi-holons.png" /></center>
 One detail that this demonstration reveals is that the value on the spectrum between C and D had to be *seeded* by the originating N-source.  This detail was left out of the description provided in the chapter on &ldquo;STRUCTURE&rdquo; because the reader was already being bogged down with a mountain of details and even though it&rsquo;s an important technical point it&rsquo;s not needed to grasp the concept of a *spectrum*.  But the representation of the spectrum along a 1D line is also inaccurate because in the case of a tetrahedron the spectrum is actually across, or within, a 3D space, with the highest probability in the center of the tholon, but that is quite impossible to show. The more accurate way to display this process would have been to use self-similar, embedded 2D trigrams, but that would be a bit messy and limiting, and the even more accurate model would be 3D tholons embedded within 3D tholons, which is almost impossible to conceive, let alone draw.
 
-The math and method in this process is the same math use by Leibniz to calculate Pi (π).
-
 For anyone that wants to replicate/test this process, here is some code (PHP).
 
 
 ```
-iteration(1,3,5,2);
+iteration(1,3,5,2); #starting value of the first N and the values of the vectors
 function iteration($N, $s, $p, $h) {
     $d=1/$s;
     $c=1/$p;
@@ -2932,11 +2930,89 @@ function iteration($N, $s, $p, $h) {
 }
 ```
 
-We can also calculate the value for Phi (φ, 1.618) using the formula (N+√S)/H where N=1 (not recursive), and the Fibonacci sequence by sequencing the math functions around all sides, beginning with H.
+We can also calculate the value for Phi (φ, 1.618) using the formula (N+√S)/H where N=1 (not recursive), and the Fibonacci sequence by sequencing the Fibonacci math function around all sides, beginning with H.
 
 There are many, many relationships, patterns, values and functions in this simple trigram, but for most of them it is impossible to say which of their products are *data*, which are *information*.
 
-<div style="page-break-before: always"></div>
+If we rebuild the I-Ching from the ground up using our tholonic model (while trying to preserve its character) we get something like the following:
+
+*Note: As mentioned numerous times before, the interpretations, values and relationships shown here are not intended to be conclusive.  While I tried to make them as meaningful as possible, they are more used as examples.  There are many ways patterns and relationships can be formed and I am sure a better version than the one presented here can be made.  If you, the reader, disagrees with some of the conclusions here then that is your invitation to improve upon it.  That is why this book is open-sourced.*
+
+<center><img src="../Images/tholonic-pakua.png" style="width:60%"/></center>
+Here is the explanation of *Fig c1*.
+
+The tholonic model posits that in any sustainable model there are static properties that represent stable patterns, and dynamic properties that represent the interactions between those stable patterns. In *Fig. c1* we have arranged the 8 trigrams of the *Pa Kua* by the natural (binary) order. In doing so we end up with a pattern where all opposing numbers always equal 7, the maximum number that can be represented in binary using three places. Symmetry is preferred to asymmetry as a starting point, for where there is more order there is more movement of energy. The four cardinal points are represented by the most extreme trigrams (7, 0) for the &ldquo;north&rdquo; and the &ldquo;south&rdquo;, and the most balanced trigrams (5, 2) for the &ldquo;east&rdquo; and &ldquo;west&rdquo; points. This naturally follows the same order we use for the earth and all planets, so we have some self-similarity as well. The other 4 trigrams are the most imbalanced and are therefore more dynamic. As each trigram is made of three states (*Negotiation*, *Definition*, *Contribution*) that in the material 3D world manifest sequentially, they are represented as the stages that relate the static archetypes together.
+
+The first thing we see is how the lines in the north are a reverse image of the lines in the south, like a photo negative and a photo print, and the lines in the east are a mirror of the lines in the west. We now have four quadrants, each with three stages which are defined by the intermediary trigram. We also see how every positive line is matched with its opposite negative line. Although we are looking at 8 trigrams, tholonically this is 4 *meta-*trigrams, each having a duality.  This 4 trigrams also have a duality, and up it goes until there is no more duality (see diagram below).
+
+Sometimes the words &ldquo;positive&rdquo; and &ldquo;negative&rdquo;, or the symbols &ldquo;+&rdquo; and &ldquo;-&rdquo;, are used to represent yang and yin.  Here are some examples of yin and yang qualities that will help you get a feel for what they mean if you are not already familiar with them:
+
+> **YIN**: dark, night, winter, moon, female, cold, water, alkaline, patience, to be, to rest, single tasking, de-flamed, soothed, holistic, university of life, letting go, death, disease, emotion, not being, electrons (negative charge), uncertainty, chaos, illogical, heart-based feelings.
+
+> **YANG**: light, day, summer, sun, male, hot, fire, acid, impetuosity, action, multi-tasking, inflammation, burnout, allopathy, academia, control, life, health, to be, protons (positive charge), certainty, order, logic.
+
+These concepts are relative.  For example, a cup is yin and the contents of the cup is yang, but that coffee cup is yang in relation to the saucer it is sitting on. Like everything, the perception of things and properties are relative to the context and scope of it existence.   
+
+Because the first 8 (starting with 0) trigrams all have negative lines at the top-most position in the trigram we refer to them as *ascending* because they begin at 0 and ascend halfway to 7. Likewise, the next 4 trigrams have positive lines in their top-most positions, so we call these *descending* because they start with 7 and descend halfway to 0.
+
+Because the top 4 trigrams are predominantly positive, we call the top hemisphere *positive*, and likewise, the lower hemisphere *negative*.
+
+In keeping with the traditional I-Ching, we want to assign familiar real-world elements and properties. Using these archetypes to describe a scene or function can be very helpful in tapping into our intuitive understanding. For the cardinal points, we have the four classics of AIR, WATER, EARTH, and FIRE. We use all caps for these archetypes to distinguish them from the physical elements.  These archetypes represent qualities and properties of the elements that can be found in anything, and not simply the physical instances of air, water, earth, and fire.
+
+But there is another reasoning behind what trigrams are chosen to be static, or cardinal, and dynamic.  When applying tholonic logic to the I-Ching we have to fine the perspective of each model that are compatible with each other.  In the diagram below we graphically map the values of the I-Ching to the tholon to find the patterns.
+
+<center><img src="../Images/perspectives.png"></center>
+Both perspectives have patterns.  Perspective 1 uses a binary top-down bifurcation model, similar to the I-Ching, and shows the cardinal points has being composed of only primary elements (red and green only), and it shows the dynamic trigrams as have a new composite element of yell, which is what we get when a red and a green overlap each other.  This supports the argument of which trigrams are static and which are dynamic.  Perspective 2 uses the cyclical tholonic values as they are assigned to the tholonic trigrams.  We definitely see patterns there, and no doubt they can shed new light on both the I-Ching and the thologram, but we will only be using Perspective 1 for now as it answers our question of which trigrams are static or dynamic, which is made very clear in the diagram on the right when the images are arranged in their proper order.
+
+<center><img src="../Images/threeviews.png" style="width:80%"></center>
+So, how do we know what trigram is associated with what element? The reasoning is pretty simple… AIR <img src="../Images/circle-7.png" style="width:20px"/>and EARTH <img src="../Images/circle-0.png" style="width:20px"/>describe the opposite properties of what is above us and below us and frames the boundaries of our context.  They are the maximum (highest) and the minimum (lowest), between which all else exists.  FIRE <img src="../Images/circle-5.png" style="width:20px"/>and WATER <img src="../Images/circle-2.png" style="width:20px"/>are the two opposite properties representing the spectrum of resources within that context.  They are the only two trigrams that combine both pure elements of yin and yang but to not mix (overlap).  WATER is certainly less yang than FIRE, so WATER is 2, which only has 1 yang and two yin, and FIRE is 5, which has two yang and one 
+
+The dynamic trigrams are a bit less obvious.  We need to look at the relationships between the cardinal trigrams to determine what dynamic property it describes via the three stages of *Negotiation*, *Definition*,  and *Contribution*. 
+
+### AIR & FIRE <img src="../Images/trigram-b06.png" style="width:30px"/>
+
+The quadrant of AIR <img src="../Images/trigram-b07.png" style="width:20px"/> & FIRE <img src="../Images/trigram-b05.png" style="width:20px"/>is one of *descending expansion*.  It is the first phase of pure yang <img src="../Images/trigram-b07.png" style="width:20px"/>(low entropy chaos) coming into contact with pure yin energy <img src="../Images/trigram-b00.png" style="width:20px"/>(high entropy chaos) though a process of *transmission and maintenance*.  it is also the quadrant that results in the most balanced and ordered state between yin and yang in the form of FIRE.  While all the elements were implicitly involved in the Big Bang, the event itself was mainly one of AIR and FIRE.
+
+- *Negotiation*: (yin) AIR represent not only air, but space, sky, outer-space, all that is &ldquo;above&rdquo; us, metaphorically and physically. Before anything can form, there needs to exist space for it form within and energy for create the form. The balance of AIR and FIRE creates the space our Universe exists within and the energy that fills it.  While AIR as an element is pure yang because of its expansive and sustainable nature, the instance of AIR (space) in relation to FIRE (energy) is yin, because it acts as the medium through which the energy of FIRE is transmitted. 
+- *Definition*: (yang) As the medium through which energy is transmitted it is AIR that defines how and where that energy can operate.  One example of this is the speed of light, *c*, which is the law that all existence must obey.  It is AIR that allows the light and the heat of FIRE to be seen and shared by all existence.  This is why *Definition* is yang, as it controls all else.
+- *Contribution*: (yang) All life requires the energy of FIRE to exist (heat, light, etc.).  Energy (FIRE) must exist in space (AIR) before matter (EARTH) can form, because matter *is* energy in space, so the contribution of AIR & FIRE is the foundation for matter (EARTH).
+
+### FIRE & EARTH <img src="../Images/trigram-b04.png" style="width:30px"/>
+
+The quadrant of FIRE <img src="../Images/trigram-b05.png" style="width:20px"/>& EARTH <img src="../Images/trigram-b00.png" style="width:20px"/> is one of *descending contraction* where the balanced state of FIRE descends to the lowest point of the spectrum, EARTH,  through a process of *consumption, reduction and transformation*.  
+
+- *Negotiation*: (yin) FIRE and EARTH find a balance in matter and form.
+- *Definition*: (yin) The definition of matter (EARTH) is *m=E/c^2^* , where *m*=mass (EARTH), *E*=energy (FIRE), and *c* = speed of light (AIR). This is saying thet EARTH is FIRE that has been reduced by a product of AIR, hence, the yin property of this line.  So EARTH is FIRE, but in a different form or context, but FIRE needs EARTH to sustain itself, whether it wood for the campfire or hydrogen atoms for the sun and stars.  This is why   Any fair that As EARTH can not be ubiquitous like AIR, FIRE can only exist in specific areas where EARTH exists (stars). 
+- *Contribution*: (yang) It is the interaction of FIRE and EARTH that form planets and galaxies, create the engines of light and heat, and balances the opposing energy of creation.
+
+### EARTH & WATER <img src="../Images/trigram-b02.png" style="width:30px"/>
+
+The quadrant of EARTH <img src="../Images/trigram-b00.png" style="width:20px"/>& WATER <img src="../Images/trigram-b01.png" style="width:20px"/> is one of *ascending contraction* where the polar state of EARTH begins to ascend to the most balanced state of WATER between the two poles via *consumption and restriction*. WATER symbolizes not only water, but the primal void, or the *heavenly waters* as it is also referred to in religious texts, but which we refer to as the nothingness that somethingness appeared in.
+
+- *Negotiation*: (yang) The balance of EARTH and WATER is a prerequisite for life.
+
+- *Definition*: (yin) It is also the closest instantiation of the structure of creations and existence, which is ironic as WATER also symbolizes the primal void, or the *heavenly waters*, as it is also referred to in religious texts, but which we refer to as the nothingness that somethingness appeared in.  In both cases WATER is yin.  WATER is further yin in that it is constrained by EARTH.  Water moves downward and is only stopped by earth. It is the earth that defines how water forms and where it goes.
+- *Contribution*: (yin) WATER is the blood of life, and metaphorically speaking, it is the glue that holds existence together just as every thing that exists can only do so due to the presence of nothingness, for nothingness is what separates one thing from another and allows the One to become Many.  
+
+### WATER & AIR <img src="../Images/trigram-b03.png" style="width:30px"/>
+
+The quadrant of WATER <img src="../Images/trigram-b01.png" style="width:20px"/> & AIR <img src="../Images/trigram-b07.png" style="width:20px"/>is one of *ascending expansion* where the final balanced state of WATER ascends and expands into initial polar state of AIR  via *consumption and restriction*.
+
+- *Negotiation*: (yang) The balance of WATER and AIR marks the beginning of a new cycle of creation.
+- *Definition*: (yang) While it is the yin nature of water to be absorbed by air, it is the very yang nature of water to condense and fall from the sky. So we can say WATER is expanded by AIR, but here the expansion refers to the distribution of WATER, not the collecting of WATER done by AIR.  More so, if WATER is an instance of the structure of creation as well as a metaphor for the womb of creation, if it is the blood of life, then rather then seeing AIR as something WATER uses to distribute itself, it is AIR that see WATER as something that needs distribution, making the absorption of WATER a yang quality of AIR rather than a yin quality of WATER.
+- *Contribution*: (yin) The cycle of creation has competes and a new cycle has begun.  It is this last phase that keep existence existing.
+
+
+
+In this model there are 4 cardinal archetypes and 4 dynamic archetypes, each one composed of three lines.  This maps quite nicely into a tholon as shown in *Fig. c2*. FIRE is shown here as (F) because it is a composite property, the *white dot*.   Also, *formation* corresponds to the *expanding* hemisphere of the Pa Kua circle, for it is there that the archetype is created during the *expansive* stage.  *Production*, as in what is that which is contributed back to the parent, what the purpose of the relationship is, equates to the contractive hemisphere of the Pa Kua, because it is in this phase that the archetype instantiates itself and is sent out into the world as a &ldquo;thing&rdquo; (physical or metaphorical).
+
+This shows us that WATER, AIR, and EARTH are the three primary elements, but FIRE is the composite element that bring all the elements into existence.  It was initially unclear what the relationship would be between opposing elements, such as AIR and EARTH or FIRE and WATER, as their only point of interaction is via the very center of the cycle.  When these were mapped onto a 2D tholon map the relationship became clear… all the opposing elements form a relationship that tholonically connects an *N-state* to its first instance of the *green dot* of *definition*, and that path that connects those two states is one of *limitation*, as in limiting the dimensionless *N-state* to be able to exist within a world of dimension in whatever context it is limited by.  It is the process of moving an idea into a plan, like moving the idea of a house into a blueprint.  For anyone who has ever had to make, or even deal with, blueprints, *limiting* is very apt word.  This is clearly showing that the center point of our Pa Kua cycle represents the *Idea* of the Pa Kua, and through the use of numbers and math, diagrams and words, testing and application, we limit that idea into the 4 pairs of definitions that define the Pa Kua.
+
+For myself, The message here is quite clear… the part that is missing, or rather, the part that is represented by the center of the circle where all opposites meet, is the  where it is defined, and it is defined by our ability to reason and perceive, i.e. our consciousness.  It is our own mind that is at the center of all opposites and create the pattern that brings them together.  This is especially true for original duality of opposites, that of the chaos of nothingness and the chaos of somethingness.
+
+
+
+<center><img src="../Images/tholonic-pakua-tri.png" style="width:50%"/></center>
 # References
 
 <a name="ref_001">1</a> [<span class="reflink"> &#x005e; </span>](#rev_001): Gleick, J. (1998). **Making a New Science**.
