@@ -1,12 +1,39 @@
+
+
+
+
+
 @page {
     width: 6.69in; height: 9.61in;
     margin: 0.75in 0.18in 0.75in 0.18in;
     
-    #write h1 {
+/*#write h1 {
       text-align:center;
       page-break-before:always !important;
     }
+}*/
+
 }
+
+
+
+
+
+
+.xcenter {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+
+.w100p {
+        width:100%;
+}
+.w50p {
+        width:50%;
+}
+
+
 
 
 .editnote {

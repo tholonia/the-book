@@ -1,10 +1,10 @@
 #!/bin/bash
 
 cd /home/jw/sites/the-book
-echo `head -1 version.txt` | awk -F. -v OFS=. 'NF==1{print ++$NF}; NF>1{if(length($NF+1)>length($NF))$(NF-1)++; $NF=sprintf("%0*d", length($NF), ($NF+1)%(10^length($NF))); print}' > tmp
-tail -n +2 version.txt >> tmp
+echo `head -1 version.txt` | awk -F. -v OFS=. 'NF==1{print ++$NF}; NF>1{if(length($NF+1)>length($NF))$(NF-1)++; $NF=sprintf("%0*d", length($NF), ($NF+1)%(10^length($NF))); print}' > vtmp
+tail -n +2 version.txt >> vtmp
 
-mv tmp version.txt
+mv vtmp version.txt
 
 V=`head -1 version.txt`
 export V

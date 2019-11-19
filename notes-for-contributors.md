@@ -53,6 +53,9 @@ _Notes:_
 ```
 The pandoc command (which ultimately did not make acceptable outputs) are:
 
+
+pandoc --standalone --top-level-division=chapter --css=../Styles/THOLONIA_THE_BOOK.css --from=html --to=epub3 -o output.epub --metadata pagetitle="Tholonia" ./THOLONIA_THE_BOOK.html
+
 ePub: pandoc --standalone -H include.tex --top-level-division=chapter --to=epub -o output.epub THOLONIA_THE_BOOK.md
 HTML5: pandoc --metadata pagetitle="..." --toc --standalone -H include.tex --top-level-division=chapter --to=html -o output.html THOLONIA_THE_BOOK.md
 PDF: pandoc --toc --standalone -H include.tex --pdf-engine=xelatex --top-level-division=chapter -o output.pdf THOLONIA_THE_BOOK.md
