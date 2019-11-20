@@ -5,15 +5,13 @@ echo `head -1 version.txt` | awk -F. -v OFS=. 'NF==1{print ++$NF}; NF>1{if(lengt
 tail -n +2 version.txt >> vtmp
 
 mv vtmp version.txt
+git add version.txt
 
 V=`head -1 version.txt`
-export V
 
 DR=`date +%c`
-export DR
 
 DRV="${DR} v.${V}"
-export DRV
 
 #update vesion date in MD file
 perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' README.md
