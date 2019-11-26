@@ -9,7 +9,8 @@ body {
     right: 0;
     font-size: 1rem;
     line-height: 1.42857;
-    overflow-x: hidden;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    overflow-x: hidden;*/
     background: inherit;
     tab-size: 4;
 }
@@ -34,7 +35,8 @@ a:active, a:hover {
     overflow-wrap: break-word;
     position: relative;
     white-space: normal;
-    overflow-x: visible;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    overflow-x: visible;*/
     padding-top: 40px;
 }
 
@@ -48,8 +50,8 @@ body.typora-export {
 }
 
 .footnotes {
-    margin-left:0.5in;
-    margin-right:0.5in;
+/*    margin-left:0.5in;
+    margin-right:0.5in;*/
 }
 
 /* MEDIA
@@ -59,8 +61,8 @@ body.typora-export {
 @media screen and (max-width: 500px) {
 
     .footnotes {
-        margin-left:0.5in;
-        margin-right:0.5in;
+/*        margin-left:0.5in;
+        margin-right:0.5in; */
     }
 
 
@@ -160,7 +162,7 @@ h3 {
 }
 
 h4 {
-    font-size: 1.4rem;
+    /*font-size: 1.4rem;*/
 }
 
 h5 {
@@ -187,9 +189,11 @@ a {
 }
 
 figure {
-    overflow-x: auto;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    overflow-x: auto;*/
     margin: 1.2em 0;
-    max-width: calc(100% + 16px);
+/* removed as it breaks princexml, but still exists is parent git css used by typora 
+    max-width: calc(100% + 16px);*/
     padding: 0;
 }
 
@@ -261,7 +265,8 @@ table {
 
 #write.fences-no-line-wrapping .md-fences.mock-cm {
     white-space: pre;
-    overflow-x: auto;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    overflow-x: auto;*/
 }
 
 .md-fences.mock-cm.md-fences-with-lineno {
@@ -329,8 +334,8 @@ blockquote > :first-child, li > :first-child {
         break-before: avoid;
     }
     .footnotes {
-        margin-left:0.7in;
-        margin-right:0.7in;
+/*        margin-left:0.7in;
+        margin-right:0.7in; */
     }
 
 
@@ -362,7 +367,8 @@ p > img:only-child {
 
 [contenteditable="true"]:active, [contenteditable="true"]:focus {
     outline: 0;
-    box-shadow: none;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    box-shadow: none;*/
 }
 
 
@@ -375,7 +381,9 @@ kbd {
     background: rgb(255, 255, 255);
     border: 1px solid rgb(173, 179, 185);
     border-radius: 3px;
-    box-shadow: rgba(12, 13, 14, 0.2) 0 1px 0, rgb(255, 255, 255) 0 0 0 2px inset;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    box-shadow: rgba(12, 13, 14, 0.2) 0 1px 0, rgb(255, 255, 255) 0 0 0 2px
+    inset;*/
     white-space: nowrap;
     vertical-align: middle;
 }
@@ -591,7 +599,8 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 }
 
 .CodeMirror-wrap .CodeMirror-scroll {
-    overflow-x: hidden;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    overflow-x: hidden/
 }
 
 .CodeMirror-measure {
@@ -645,7 +654,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    font-weight: bold;
+/*    font-weight: bold;*/
     line-height: 1.4;
     cursor: text;
 }
@@ -698,7 +707,7 @@ h3 {
 }
 
 h4 {
-    font-size: 1.25em;
+    /*font-size: 1.25em;*/
 }
 
 h5 {
@@ -774,7 +783,8 @@ table tr th {
     border-top-color: rgb(223, 226, 229);
     border-right-color: rgb(223, 226, 229);
     border-left-color: rgb(223, 226, 229);
-    border-image: initial;
+/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    border-image: initial;*/
     border-bottom-style: initial;
     border-bottom-color: initial;
     margin: 0;
@@ -884,7 +894,7 @@ p {
     break-before: page !important;
 
 }
-
+/*
 h6 {
     color: black;
     font-weight: 100;
@@ -914,6 +924,7 @@ h4 {
     font-size: 12pt !important;
     font-weight: 100 !important;
 }
+*/
 
 /* -------------------------------------------------------------- */
 /* modify existing classes from git.user.css theme */
@@ -953,7 +964,7 @@ h5 { /* this is the authours format */
 h4 { /* this is the CLAIM format */
     border:1px solid lightgrey !important;
     background-color:#ddd !important;
-    font-size: 12pt !important;
+    font-size: 1rem !important;
     font-weight: 100 !important;
 }
 
@@ -996,295 +1007,3 @@ sup {text-decoration: none;}
 .footnote-ref {text-decoration: none;}
 
 
-div[style^='resimg:'] {
-/*    display: inline-block;*/
-}
-
-
-/* For Mobile */
-@media screen and (max-width: 800px) {
-    div[style='resimg:2'] {width:4%;margin:auto;}
-    div[style='resimg:5'] {width:10%;margin:auto;}
-    div[style='resimg:10'] {width:20%;margin:auto;}
-    div[style='resimg:12'] {width:24%;margin:auto;}
-    div[style='resimg:13'] {width:26%;margin:auto;}
-    div[style='resimg:14'] {width:28%;margin:auto;}
-    div[style='resimg:15'] {width:100%;margin:auto;}
-    div[style='resimg:18'] {width:100%;margin:auto;}
-    div[style='resimg:20'] {width:100%;margin:auto;}
-    div[style='resimg:24'] {width:100%;margin:auto;}
-    div[style='resimg:25'] {width:100%;margin:auto;}
-    div[style='resimg:30'] {width:100%;margin:auto;}
-    div[style='resimg:35'] {width:100%;margin:auto;}
-    div[style='resimg:40'] {width:100;margin:auto;}
-    div[style='resimg:50'] {width:100%;margin:auto;}
-    div[style='resimg:60'] {width:100%;margin:auto;}
-    div[style='resimg:65'] {width:100%;margin:auto;}
-    div[style='resimg:70'] {width:100%;margin:auto;}
-    div[style='resimg:75'] {width:100%;margin:auto;}
-    div[style='resimg:80'] {width:100%;margin:auto;}
-    div[style='resimg:90'] {width:100%;margin:auto;}
-    div[style='resimg:00'] {width:100%;margin:auto;}
-    
-    div[style='resimg:2c'] {width:4%;margin:auto;}
-    div[style='resimg:5c'] {width:10%;margin:auto;}
-    div[style='resimg:10c'] {width:20%;margin:auto;}
-    div[style='resimg:12c'] {width:24%;margin:auto;}
-    div[style='resimg:13c'] {width:26%;margin:auto;}
-    div[style='resimg:14c'] {width:28%;margin:auto;}
-    div[style='resimg:15c'] {width:100%;margin:auto;}
-    div[style='resimg:18c'] {width:100%;margin:auto;}
-    div[style='resimg:20c'] {width:100%;margin:auto;}
-    div[style='resimg:24c'] {width:100%;margin:auto;}
-    div[style='resimg:25c'] {width:100%;margin:auto;}
-    div[style='resimg:30c'] {width:100%;margin:auto;}
-    div[style='resimg:35c'] {width:100%;margin:auto;}
-    div[style='resimg:40c'] {width:100%;margin:auto;}
-    div[style='resimg:50c'] {width:100%;margin:auto;}
-    div[style='resimg:60c'] {width:100%;margin:auto;}
-    div[style='resimg:65c'] {width:100%;margin:auto;}
-    div[style='resimg:70c'] {width:100%;margin:auto;}
-    div[style='resimg:75c'] {width:100%;margin:auto;}
-    div[style='resimg:80c'] {width:100%;margin:auto;}
-    div[style='resimg:90c'] {width:100%;margin:auto;}
-    div[style='resimg:00c'] {width:100%;margin:auto;}
-    
-    div[style='resimg:2L'] {width:4%;float:left;}
-    div[style='resimg:5L'] {width:10%;float:left;}
-    div[style='resimg:10L'] {width:20%;float:left;}
-    div[style='resimg:12L'] {width:24%;float:left;}
-    div[style='resimg:13L'] {width:26%;float:left;}
-    div[style='resimg:14L'] {width:28%;float:left;}
-    div[style='resimg:15L'] {width:100%;margin:auto;}
-    div[style='resimg:18L'] {width:100%;margin:auto;}
-    div[style='resimg:20L'] {width:100%;margin:auto;}
-    div[style='resimg:24L'] {width:100%;margin:auto;}
-    div[style='resimg:25L'] {width:100%;margin:auto;}
-    div[style='resimg:30L'] {width:100%;margin:auto;}
-    div[style='resimg:35L'] {width:100%;margin:auto;}
-    div[style='resimg:40L'] {width:100%;margin:auto;}
-    div[style='resimg:50L'] {width:100%;margin:auto;}
-    div[style='resimg:60L'] {width:100%;margin:auto;}
-    div[style='resimg:65L'] {width:100%;margin:auto;}
-    div[style='resimg:70L'] {width:100%;margin:auto;}
-    div[style='resimg:75L'] {width:100%;margin:auto;}
-    div[style='resimg:80L'] {width:100%;margin:auto;}
-    div[style='resimg:90L'] {width:100%;margin:auto;}
-    div[style='resimg:00L'] {width:100%;margin:auto;}
-    
-    div[style='resimg:2R'] {width:4%;float:right;}
-    div[style='resimg:5R'] {width:10%;float:right;}
-    div[style='resimg:10R'] {width:20%;float:right;}
-    div[style='resimg:14R'] {width:28%;float:right;}
-    div[style='resimg:15R'] {width:100%;margin:auto;}
-    div[style='resimg:18R'] {width:100%;margin:auto;}
-    div[style='resimg:20R'] {width:100%;margin:auto;}
-    div[style='resimg:24R'] {width:100%;margin:auto;}
-    div[style='resimg:25R'] {width:100%;margin:auto;}
-    div[style='resimg:30R'] {width:100%;margin:auto;}
-    div[style='resimg:35R'] {width:100%;margin:auto;}
-    div[style='resimg:40R'] {width:100%;margin:auto;}
-    div[style='resimg:50R'] {width:100%;margin:auto;}
-    div[style='resimg:60R'] {width:100%;margin:auto;}
-    div[style='resimg:65R'] {width:100%;margin:auto;}
-    div[style='resimg:70R'] {width:100%;margin:auto;}
-    div[style='resimg:75R'] {width:100%;margin:auto;}
-    div[style='resimg:80R'] {width:100%;margin:auto;}
-    div[style='resimg:90R'] {width:100%;margin:auto;}
-    div[style='resimg:100R'] {width:100%;margin:auto;}
-    
-    
-}
-
-/* for larger screens */
-@media screen and (min-width: 800px)  {
-    div[style='resimg:2'] {width:2%;}
-    div[style='resimg:5'] {width:5%;}
-    div[style='resimg:10'] {width:10%;}
-    div[style='resimg:12'] {width:12%;}
-    div[style='resimg:13'] {width:13%;}
-    div[style='resimg:14'] {width:14%;}
-    div[style='resimg:15'] {width:15%;}
-    div[style='resimg:18'] {width:18%;}
-    div[style='resimg:20'] {width:20%;}
-    div[style='resimg:24'] {width:24%;}
-    div[style='resimg:25'] {width:25%;}
-    div[style='resimg:30'] {width:30%;}
-    div[style='resimg:35'] {width:35%;}
-    div[style='resimg:40'] {width:40%;}
-    div[style='resimg:50'] {width:50%;}
-    div[style='resimg:60'] {width:60%;}
-    div[style='resimg:65'] {width:65%;}
-    div[style='resimg:70'] {width:70%;}
-    div[style='resimg:75'] {width:75%;}
-    div[style='resimg:80'] {width:80%;}
-    div[style='resimg:90'] {width:90%;}
-    div[style='resimg:00'] {width:100%;}
-
-    div[style='resimg:2c'] {width:2%;margin:auto;}
-    div[style='resimg:5c'] {width:5%;margin:auto;}
-    div[style='resimg:10c'] {width:10%;margin:auto;}
-    div[style='resimg:12c'] {width:12%;margin:auto;}
-    div[style='resimg:13c'] {width:13%;margin:auto;}
-    div[style='resimg:14c'] {width:14%;margin:auto;}
-    div[style='resimg:15c'] {width:15%;margin:auto;}
-    div[style='resimg:18c'] {width:18%;margin:auto;}
-    div[style='resimg:20c'] {width:20%;margin:auto;}
-    div[style='resimg:24c'] {width:24%;margin:auto;}
-    div[style='resimg:25c'] {width:25%;margin:auto;}
-    div[style='resimg:30c'] {width:30%;margin:auto;}
-    div[style='resimg:35c'] {width:35%;margin:auto;}
-    div[style='resimg:40c'] {width:40%;margin:auto;}
-    div[style='resimg:50c'] {width:50%;margin:auto;}
-    div[style='resimg:60c'] {width:60%;margin:auto;}
-    div[style='resimg:65c'] {width:65%;margin:auto;}
-    div[style='resimg:70c'] {width:70%;margin:auto;}
-    div[style='resimg:75c'] {width:75%;margin:auto;}
-    div[style='resimg:80c'] {width:80%;margin:auto;}
-    div[style='resimg:90c'] {width:90%;margin:auto;}
-    div[style='resimg:100c'] {width:100%;margin:auto;}
-    
-    div[style='resimg:2L']  {width:2%;float:left;}
-    div[style='resimg:5L'] {width:5%;float:left;}
-    div[style='resimg:10L'] {width:10%;float:left;}
-    div[style='resimg:12L'] {width:12%;float:left;}
-    div[style='resimg:13L'] {width:13%;float:left;}
-    div[style='resimg:14L'] {width:14%;float:left;}
-    div[style='resimg:15L'] {width:15%;float:left;}
-    div[style='resimg:18L'] {width:18%;float:left;}
-    div[style='resimg:20L'] {width:20%;float:left;}
-    div[style='resimg:24L'] {width:24%;float:left;}
-    div[style='resimg:25L'] {width:25%;float:left;}
-    div[style='resimg:30L'] {width:30%;float:left;}
-    div[style='resimg:35L'] {width:35%;float:left;}
-    div[style='resimg:40L'] {width:40%;float:left;}
-    div[style='resimg:50L'] {width:50%;float:left;}
-    div[style='resimg:60L'] {width:60%;float:left;}
-    div[style='resimg:65L'] {width:65%;float:left;}
-    div[style='resimg:70L'] {width:70%;float:left;}
-    div[style='resimg:75L'] {width:75%;float:left;}
-    div[style='resimg:80L'] {width:80%;float:left;}
-    div[style='resimg:90L'] {width:90%;float:left;}
-    div[style='resimg:100L']{width:100%;float:left;}
-    
-    div[style='resimg:2R']  {width:2%;float:right;}
-    div[style='resimg:5R']  {width:5%;float:right;}
-    div[style='resimg:10R'] {width:10%;float:right;}
-    div[style='resimg:12R'] {width:12%;float:right;}
-    div[style='resimg:13R'] {width:13%;float:right;}
-    div[style='resimg:14R'] {width:14%;float:right;}
-    div[style='resimg:15R'] {width:15%;float:right;}
-    div[style='resimg:18R'] {width:18%;float:right;}
-    div[style='resimg:20R'] {width:20%;float:right;}
-    div[style='resimg:24R'] {width:24%;float:right;}
-    div[style='resimg:25R'] {width:25%;float:right;}
-    div[style='resimg:30R'] {width:30%;float:right;}
-    div[style='resimg:35R'] {width:35%;float:right;}
-    div[style='resimg:40R'] {width:40%;float:right;}
-    div[style='resimg:50R'] {width:50%;float:right;}
-    div[style='resimg:60R'] {width:60%;float:right;}
-    div[style='resimg:65R'] {width:65%;float:right;}
-    div[style='resimg:70R'] {width:70%;float:right;}
-    div[style='resimg:75R'] {width:75%;float:right;}
-    div[style='resimg:80R'] {width:80%;float:right;}
-    div[style='resimg:90R'] {width:90%;float:right;}
-    div[style='resimg:100R'] {width:100%;float:right;}
-    
-    
-}
-/* for larger screens */
-@media print {
-    div[style='resimg:2'] {width:2%;}
-    div[style='resimg:5'] {width:5%;}
-    div[style='resimg:10'] {width:10%;}
-    div[style='resimg:12'] {width:12%;}
-    div[style='resimg:13'] {width:13%;}
-    div[style='resimg:14'] {width:14%;}
-    div[style='resimg:15'] {width:15%;}
-    div[style='resimg:18'] {width:18%;}
-    div[style='resimg:20'] {width:20%;}
-    div[style='resimg:24'] {width:24%;}
-    div[style='resimg:25'] {width:25%;}
-    div[style='resimg:30'] {width:30%;}
-    div[style='resimg:35'] {width:35%;}
-    div[style='resimg:40'] {width:40%;}
-    div[style='resimg:50'] {width:50%;}
-    div[style='resimg:60'] {width:60%;}
-    div[style='resimg:65'] {width:65%;}
-    div[style='resimg:70'] {width:70%;}
-    div[style='resimg:75'] {width:75%;}
-    div[style='resimg:80'] {width:80%;}
-    div[style='resimg:90'] {width:90%;}
-    div[style='resimg:00'] {width:100%;}
-
-    div[style='resimg:2c'] {width:2%;margin:auto;}
-    div[style='resimg:5c'] {width:5%;margin:auto;}
-    div[style='resimg:10c'] {width:10%;margin:auto;}
-    div[style='resimg:12c'] {width:12%;margin:auto;}
-    div[style='resimg:13c'] {width:13%;margin:auto;}
-    div[style='resimg:14c'] {width:14%;margin:auto;}
-    div[style='resimg:15c'] {width:15%;margin:auto;}
-    div[style='resimg:18c'] {width:18%;margin:auto;}
-    div[style='resimg:20c'] {width:20%;margin:auto;}
-    div[style='resimg:24c'] {width:24%;margin:auto;}
-    div[style='resimg:25c'] {width:25%;margin:auto;}
-    div[style='resimg:30c'] {width:30%;margin:auto;}
-    div[style='resimg:35c'] {width:35%;margin:auto;}
-    div[style='resimg:40c'] {width:40%;margin:auto;}
-    div[style='resimg:50c'] {width:50%;margin:auto;}
-    div[style='resimg:60c'] {width:60%;margin:auto;}
-    div[style='resimg:65c'] {width:65%;margin:auto;}
-    div[style='resimg:70c'] {width:70%;margin:auto;}
-    div[style='resimg:75c'] {width:75%;margin:auto;}
-    div[style='resimg:80c'] {width:80%;margin:auto;}
-    div[style='resimg:90c'] {width:90%;margin:auto;}
-    div[style='resimg:100c'] {width:100%;margin:auto;}
-    
-    div[style='resimg:2L']  {width:2%;float:left;}
-    div[style='resimg:5L'] {width:5%;float:left;}
-    div[style='resimg:10L'] {width:10%;float:left;}
-    div[style='resimg:12L'] {width:12%;float:left;}
-    div[style='resimg:13L'] {width:13%;float:left;}
-    div[style='resimg:14L'] {width:14%;float:left;}
-    div[style='resimg:15L'] {width:15%;float:left;}
-    div[style='resimg:18L'] {width:18%;float:left;}
-    div[style='resimg:20L'] {width:20%;float:left;}
-    div[style='resimg:24L'] {width:24%;float:left;}
-    div[style='resimg:25L'] {width:25%;float:left;}
-    div[style='resimg:30L'] {width:30%;float:left;}
-    div[style='resimg:35L'] {width:35%;float:left;}
-    div[style='resimg:40L'] {width:40%;float:left;}
-    div[style='resimg:50L'] {width:50%;float:left;}
-    div[style='resimg:60L'] {width:60%;float:left;}
-    div[style='resimg:65L'] {width:65%;float:left;}
-    div[style='resimg:70L'] {width:70%;float:left;}
-    div[style='resimg:75L'] {width:75%;float:left;}
-    div[style='resimg:80L'] {width:80%;float:left;}
-    div[style='resimg:90L'] {width:90%;float:left;}
-    div[style='resimg:100L']{width:100%;float:left;}
-    
-    div[style='resimg:2R']  {width:2%;float:right;}
-    div[style='resimg:5R']  {width:5%;float:right;}
-    div[style='resimg:10R'] {width:10%;float:right;}
-    div[style='resimg:12R'] {width:12%;float:right;}
-    div[style='resimg:13R'] {width:13%;float:right;}
-    div[style='resimg:14R'] {width:14%;float:right;}
-    div[style='resimg:15R'] {width:15%;float:right;}
-    div[style='resimg:18R'] {width:18%;float:right;}
-    div[style='resimg:20R'] {width:20%;float:right;}
-    div[style='resimg:24R'] {width:24%;float:right;}
-    div[style='resimg:25R'] {width:25%;float:right;}
-    div[style='resimg:30R'] {width:30%;float:right;}
-    div[style='resimg:35R'] {width:35%;float:right;}
-    div[style='resimg:40R'] {width:40%;float:right;}
-    div[style='resimg:50R'] {width:50%;float:right;}
-    div[style='resimg:60R'] {width:60%;float:right;}
-    div[style='resimg:65R'] {width:65%;float:right;}
-    div[style='resimg:70R'] {width:70%;float:right;}
-    div[style='resimg:75R'] {width:75%;float:right;}
-    div[style='resimg:80R'] {width:80%;float:right;}
-    div[style='resimg:90R'] {width:90%;float:right;}
-    div[style='resimg:100R'] {width:100%;float:right;}
-    
-    
-}

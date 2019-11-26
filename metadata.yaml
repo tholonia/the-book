@@ -1,0 +1,27 @@
+---
+identifiers:
+- scheme:
+  type: ISBN-13
+  text: 978-1703984903
+  type: ISBN-10
+  text: 1703984900
+
+creator:
+- role: author
+  text: Duncan Stroud
+
+contributor:
+- role: author
+  text: Jeff Milton
+
+title: THOLONIA
+lang: en-US
+subject: philosphy,consciousness,energy,chaos,order,reason,creation,evolution
+rights: Copyright ©2019 Duncan Stroud CC BY-NC-SA 4.0
+css: /home/jw/sites/the-book/Styles/THOLONIA_THE_BOOK.css
+cover-image: /home/jw/sites/the-book/6.69x9.61_Front-Only.jpg
+version: 1.9
+series: 1
+publisher: Welkin Wall Publishing
+cover: /home/jw/sites/the-book/6.69x9.61_Front-Only.jpg
+...

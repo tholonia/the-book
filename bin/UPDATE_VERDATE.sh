@@ -1,25 +1,28 @@
 #!/bin/bash
 
-cd /home/jw/sites/the-book
-echo `head -1 version.txt` | awk -F. -v OFS=. 'NF==1{print ++$NF}; NF>1{if(length($NF+1)>length($NF))$(NF-1)++; $NF=sprintf("%0*d", length($NF), ($NF+1)%(10^length($NF))); print}' > vtmp
-tail -n +2 version.txt >> vtmp
+H=/home/jw/sites/the-book
 
-mv vtmp version.txt
-git add version.txt
+echo `head -1 ${H}/version.txt` | awk -F. -v OFS=. 'NF==1{print ++$NF}; NF>1{if(length($NF+1)>length($NF))$(NF-1)++; $NF=sprintf("%0*d", length($NF), ($NF+1)%(10^length($NF))); print}' > ${H}/vtmp
+tail -n +2 ${H}/version.txt >> ${H}/vtmp
 
-V=`head -1 version.txt`
+mv ${H}/vtmp ${H}/version.txt
+git add ${H}/version.txt
 
+V=`head -1 ${H}/version.txt`
 DR=`date +%c`
-
 DRV="${DR} v.${V}"
+export DRV #export needed fpr perl script
 
 #update vesion date in MD file
-perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' README.md
-perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' Latest/THOLONIA_THE_BOOK.md
+perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/README.md
+perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/Latest/THOLONIA_THE_BOOK.md
 
 #update vesion date _layouts/default.html
-perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' /home/jw/sites/the-book/docs/_layouts/default.html
+perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' ${H}/docs/_layouts/default.html
 
 
+#relink MD file
 
+rm ${H}/Latest/THOLONIA_THE_BOOK_v*.md>>${H}/log 2>&1
+ln -fs ${H}/Latest/THOLONIA_THE_BOOK.md ${H}/Latest/THOLONIA_THE_BOOK_v${V}.md
 

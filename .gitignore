@@ -18,6 +18,7 @@ nohup.out
 Latest/THOLONIA_THE_BOOK.pdf 
 Latest/THOLONIA_THE_BOOK.epub
 Latest/THOLONIA_THE_BOOK.html
+Latest/THOLONIA_THE_BOOK_v* 
 /.jekyll-metadata 
 /.jekyll-cache
 docs/.rubocop.yml
@@ -31,3 +32,9 @@ Latest/TholoniaDownloadable_Proof.pdf
 *Thumbs*
 safe
 github.user.css.2
+Images/jpg/
+Images/out/
+Images/tmp.sh
+test
+DEADJOE
+log
