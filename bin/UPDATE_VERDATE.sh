@@ -23,6 +23,6 @@ perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' ${H}/docs/_layo
 
 #relink MD file
 
-rm ${H}/Latest/THOLONIA_THE_BOOK_v*.md>>${H}/log 2>&1
-ln -fs ${H}/Latest/THOLONIA_THE_BOOK.md ${H}/Latest/THOLONIA_THE_BOOK_v${V}.md
+rm ${H}/Latest/THOLONIA_THE_BOOK_*.md>>${H}/log 2>&1
+ln -fs ${H}/Latest/THOLONIA_THE_BOOK.md ${H}/Latest/THOLONIA_THE_BOOK_${V}.md
 
