@@ -10,6 +10,8 @@ xx
 docs/.jekyll-cache/
 docs/.jekyll-metadata
 *.psd
+Images/psd/
+
 bin/
 .debris/
 docs/assets/img/logo.ORG.png
@@ -18,7 +20,8 @@ nohup.out
 Latest/THOLONIA_THE_BOOK.pdf 
 Latest/THOLONIA_THE_BOOK.epub
 Latest/THOLONIA_THE_BOOK.html
-Latest/THOLONIA_THE_BOOK_v* 
+Latest/THOLONIA_THE_BOOK_* 
+Latest/proof_1.21.8.mobi
 /.jekyll-metadata 
 /.jekyll-cache
 docs/.rubocop.yml

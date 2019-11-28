@@ -1007,3 +1007,7 @@ sup {text-decoration: none;}
 .footnote-ref {text-decoration: none;}
 
 
+#title-block-header > h1 {
+  display:none;
+}
+

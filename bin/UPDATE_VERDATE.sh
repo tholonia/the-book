@@ -15,7 +15,8 @@ export DRV #export needed fpr perl script
 
 #update vesion date in MD file
 perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/README.md
-perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/Latest/THOLONIA_THE_BOOK.md
+#perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/Latest/THOLONIA_THE_BOOK.md
+perl -pi -e 's/^(.*VERSION: ).*(.)$/$1$ENV{'DRV'}\x27/' ${H}/metadata.yaml
 
 #update vesion date _layouts/default.html
 perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' ${H}/docs/_layouts/default.html

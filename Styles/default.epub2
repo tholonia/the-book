@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"$if(lang)$ xml:lang="$lang$"$endif$>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title>$pagetitle$</title>
+$if(highlighting-css)$
+  <style type="text/css">
+$highlighting-css$
+  </style>
+$endif$
+$for(css)$
+  <link rel="stylesheet" type="text/css" href="$css$" />
+$endfor$
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body$if(coverpage)$ id="cover"$endif$>
+$if(titlepage)$
+	$if(title)$
+		<p class="title">$title$: $subtitle$</p>
+	$endif$
+	$for(author)$
+		<p class="author">$author$</p>
+	$endfor$
+	$for(creator)$
+		<p class="$creator.role$">$creator.text$</p>
+	$endfor$
+	$if(publisher)$
+		<p class="publisher">$publisher$</p>
+	$endif$
+	$if(pubdate)$
+		<p class="date">Published: $pubdate$</p>
+	$endif$
+	$if(status)$
+		<p class="status">Status: $status$</p>
+	$endif$
+	$if(ISBN-13)$
+		<p class="ISBN-13">ISBN-13: $ISBN-13$</p>
+	$endif$
+	$if(ISBN-10)$
+		<p class="ISBN-10">ISBN-10: $ISBN-10$</p>
+	$endif$
+	$if(rights)$
+		<div class="rights">$rights$</div>
+	$endif$
+	$if(rights-desc)$
+		<p class="rights">$rights-desc$</p>
+	$endif$
+$else$
+	$for(include-before)$
+		$include-before$
+	$endfor$
+	$body$
+	$for(include-after)$
+		$include-after$
+	$endfor$
+$endif$
+</body>
+</html>
+
