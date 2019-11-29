@@ -1,4 +1,4 @@
-![](../Images/titlepage.png){width=100%}
+<img src="../Images/titlepage.png" style="width:100%;margin:auto">
 
 <div style="font-size: 2rem; text-align:center;">INTRODUCTION</div>
 The concept that this reality is an illusion, a matrix, a simulation, or a dream, is not a new one.  From the very earliest creation stories of "God created the heavens and the earth" or up to our modern versions of the"Simulation Hypothesis" the story of creation has been the same.  It goes something like this:  Once upon a time there was nothing, then within that nothingness, something appeared.  The details are left to be filled in by the imagination of scientists, mystics, and philosophers, and poets, all seeking insight into the meaning and purpose of life, as if how one lives their life depends on whether their purpose here is to find happiness, provide food for Archonic overlords, or no purpose at all, as this is all a dream within a dream.  This book does not attempt to answer any of these questions.  This does not mean that is doesn't answer some of those questions, but just like the questions, the answers can mean many things to many people.
@@ -143,7 +143,7 @@ Everything that exists must follow the laws of existence, for the penalty of not
 
 These laws of physics can change between one state of matter and another. Before we look at some of the laws, let&rsquo;s look at the scopes that these laws must function within.
 
-![](../Images/002-uroborus.png){width=100%}
+<img src="../Images/002-uroborus.png" style="width:100%;margin:auto;" />
 
 
 ## The Scope of Order
@@ -158,13 +158,13 @@ Science calls the scope of our everyday Newtonian reality *Macrorealism*[^4] or 
 
 An example of universal laws or patterns that span many scopes might be the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377&hellip;&sdot;) and its constant ratio of Phi (φ), also called the Golden Ratio (1:1.618). This number is the ratio that not only pops up in galaxies and seashells but, according to some evolutionary and chemical scientists[^5], is the ratio that keeps everything in existence in order and is the shape of space-time itself.
 
-![](../Images/003-phi-shell.png){width=100%}
+<img src="../Images/003-phi-shell.png"  style="width:100%;margin:auto;"/>
 
 Another universal law might be simple fractal math formulas, like *f(x)= x<sup>2</sup>-1*, which seem to mimic nature and can be found across all forms of existence[^6], suggesting that self-similarity is a universal property. *Power laws* explain how a relative change in one measurement can result in a proportional relative change in another measurement (e.g. logarithmic or exponential), and we see these across all levels of existence as well. These universal laws can be found in astronomy, physics, biology, meteorology, cosmology, mathematics, economics, and many other areas including society, wealth and work distribution, competition, media exposure, and much more.
 
-![](../Images/004-fractalprocesstri.png){width=100%}
+<img src="../Images/004-fractalprocesstri.png" style="width:100%;margin:auto;">
 
-![](../Images/005-fracgened.png){width=100%}
+<img src="../Images/005-fracgened.png" style="width:100%;margin:auto;">
 
 Even though there are many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
@@ -190,7 +190,7 @@ One theory that sheds light on new thinking about chaos and order is David Bohm&
 
 To demonstrate this concept, Bohm uses an ink droplet analogy. In this demonstration, he places three drops of ink into a cylinder of glycerin. He then spins the cylinder which &ldquo;mixes&rdquo; the ink droplets together. He then reverses the spin and reconstructs the ink drops. When the ink droplets are in their original form, at the beginning and the end of the spinning, they are *explicitly* ink droplets and have the *order* of ink drops. When they are mixed up together, they are *implicitly* ink droplets only, and their order would be considered *chaotic* because there is no order of ink drops. The order of the ink drops has been destroyed, but the information of that order exists as a *virtual* ink-drop within the chaos of their mixed state.[^7]
 
-![](../Images/inkdrop-new.png){width=100%}
+<img src="../Images/inkdrop-new.png" style="width:100%;">
 
 In practical terms, this theory says that when something exists in the physical world it is in an *explicit*, or *unfolded* state. To exist in this state, it must conform to a set of rules that define the archetype of the form it will take. When it does not conform to these rules, it still exists, but only in an *implicit* or *enfolded* state, a state we cannot see or interact with (under normal circumstances). This state has its own rules as well but they are a superset of the *explicit* rules, making physical reality as we know it just one sub-state that a *thing* can be in.
 
@@ -198,7 +198,7 @@ It is these local and universal laws that cause form to *unfold,* to *explicate*
 
 Here is another example that perhaps better displays the idea. Below are four identical pages of perfectly random dots, but there are a few dots on each page that have been added. Looking at any one page it would be impossible to detect any pattern. As we merge the pages the randomness gets denser and denser until a pattern of order emerges.
 
-![](../Images/007-hidden-random.png){width=100%}
+<img src="../Images/007-hidden-random.png" style="width:100%;">
 
 The circle is *implicit* in the random dots of each separate page, and *explicit* when the pages line up together in the proper manner. In this example, the *local* pattern would be the random pattern on each page, which represent the scope, and the *universal* pattern would be the parts of the circle as it exists on every page.
 
@@ -223,7 +223,7 @@ This is classical physics, and entropy in classical physics is defined as *disor
 
 In the water example, if we have two identical bodies of water, one 100 feet above the other, we say that the upper body of water has lower entropy than the lower body of water, and the lower body of water has higher entropy than the upper body of water, but there is no difference between these two bodies of water when compared independently. The difference only appears when compared to each other, because one is higher than the other. We can say that both bodies are in a (slightly) higher state of chaos when they are not connected. Once they are connected, and the water begins to flow, there is movement of energy, and order follows.
 
-![](../Images/001-bigbang.png){width=80%}
+<img src="../Images/001-bigbang.png" style="width:80%;margin:auto">
 
 This is what is theoretically happening to the universe right now because according to the Big Bang Theory, there was zero entropy (total energy) at the moment of the Big Bang. Since then all that energy has been following the path of least resistance, moving into the surrounding nothingness, like water into the ocean or electrons in a battery, raising the entropy of the universe and decreasing the amount of usable energy. This is why, according to the theory, the universe will end up in a state of chaos and disorder, like a dead battery or a stagnant lake. The Universe started in chaos and will end in chaos, and in-between those two points, there is the movement of energy, which creates order.
 
@@ -251,7 +251,7 @@ The optimum condition for the movement of energy between two states is one that 
 
 A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*. This is a fascinating and entertaining device that creates an oscillation from takes an initial push (low entropy) and then draws a two-dimensional oscillating design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).[^8]
 
-![](../Images/008-harmonograph.png){width=80%}
+<img src="../Images/008-harmonograph.png" style="width:80%;margin:auto;">
 
 #### **Claim 11:** Everything is in a state of seeking and/or maintaining balance. 
 
@@ -267,7 +267,7 @@ Everything that is sustainable (i.e. currently exists), from the atoms to the ga
 
 ##### \~Nikola Tesla
 
-![](../Images/spirals.png){width=100%}
+<img src="../Images/spirals.png" style="width:100%;margin:auto;">
 
 We typically think of light waves and sound waves as the classical example of oscillations, but the heavenly bodies and stars in the sky are also oscillating particles on a cosmic scale. If we look at the orbits of planets, stars and galaxies they are not simply spinning around in a rather 2D plane of orbits, but that they are spinning around while moving in a direction.
 
@@ -283,11 +283,11 @@ Another law which appears to be local yet applies to many contexts is Ohm&rsquo;
 
 This law can be displayed as follows:
 
-![](../Images/010-ohmslaw.png){width=100%}
+<img src="../Images/010-ohmslaw.png" style="width:100%;">
 
 If you are not familiar with Ohm&rsquo;s Law, you can understand it using the water example. 
 
-![](../Images/011-water-example.png){width=80%}
+<img src="../Images/011-water-example.png" style="width:80%;margin:auto;">
 
 The following concepts are the same in both examples:
 
@@ -306,7 +306,7 @@ We know that energy always travels the path of least resistance, so we would say
 
 This then raises the question: if that is the case for lightning, why do plant roots, rivers, and so many other examples, follow such a similar path?  It is reasonable to apply the same logic and suggest that the path of roots, or rivers, is the byproduct, or effect, of two opposing fields within close enough proximity as to allow them to make connections between each another, and in doing to, allowing the opposite energies to balance each other out. The main difference lightning and rivers being the balancing of the energies at play. In plants or rivers (apparently) this energy does not instantiate as electricity and moves much slower, in the range of years or centuries, as opposed to milliseconds.
 
-![](../Images/lightning-3.png){width=100%}
+<img src="../Images/lightning-3.png" style="width:100%;">
 
 Keep this mind when we begin looking at how we can apply the laws of energy to other realms. 
 
@@ -316,7 +316,7 @@ In the world of electricity we can say *voltage = current &times; resistance*, l
 
 Ohm&rsquo;s law is just one of a number of contexts where Newton&rsquo;s 2<sup>nd</sup> law applies, as shown below.
 
-![](../Images/012-relatedlaws.png){width=100%}
+<img src="../Images/012-relatedlaws.png" style="width:100%;">
 
 There&rsquo;s one more comparison to look at as well. Did you notice how the formula wheel above how the *Power = Resistance x Current<sup>2</sup>* (*P=RI<sup>2</sup>)* looks exactly like another popular formula: *E=mc<sup>2</sup>*? Could we find parallels between these two formulas? Maybe there is a relationship such that…
 
@@ -324,11 +324,11 @@ There&rsquo;s one more comparison to look at as well. Did you notice how the for
 -   **Resistance** (*R*) analogous to **mass** (*m*)
 -   **Current** (*I*) analogous to the **speed of light** (*c*)
 
-![](../Images/013-emc2.png){width=100%}
+<img src="../Images/013-emc2.png" style="width:100%;">
 
 In fact, not only is *E=mc<sup>2</sup>* the exact same formula as *P=RI<sup>2</sup>*, but all twelve formulas work for *E=mc<sup>2</sup>*&rdquo; with a minor adjustment: in the Newtonian world of electricity and matter, all the variables can change in value, while in the world of relativity, *c* must always remain constant.
 
-![](../Images/014-fuse.png){width=20%}
+<img src="../Images/014-fuse.png" style="width:20%;margin:auto;">
 
 It looks like *c,* which is the Relativism&rsquo;s version of *current*, or amperage, is the *maximum current supported* rating for this universe, not unlike a 40 Amp fuse we use to ensure we do not exceed the maximum current supported for our electrical devices. (Maybe that&rsquo;s why we can&rsquo;t break the speed of light because if we did, we&rsquo;d &ldquo;blow a cosmic fuse&rdquo; and shut down reality! That&rsquo;s sort of a joke&hellip; but not really.)
 
@@ -378,7 +378,7 @@ How this is relevant here is that the four alchemical elements are a very early 
 
 What we understand as resistance, current, volts, and power today, the alchemists would describe as qualities that have the properties of earth, fire, air, and water archetypes,  respectively. This is not to suggest that just as *V=IxR*, so too does *air = fire x earth*. This is simply an example of how the same patterns and archetypes keep appearing across many contexts and scopes, such as technology, science, mysticism, social order, biology, and many, many more.
 
-![](../Images/115-elements.png){width=100%}
+<img src="../Images/115-elements.png" style="width:100%">
 
 #### **Claim 14:** Instances of laws are limited, defined and understood according to their context. 
 
@@ -400,7 +400,7 @@ This report concluded:
 
 A more organic example of this inter-scope self-similarity[^12] is to compare the structure of the universe to a brain cell.
 
-![](../Images/015-uni-brain-cells.png){width=100%}
+<img src="../Images/015-uni-brain-cells.png" style="width:100%;">
 
 There are many matching patterns between cells and the universe, and it is a subject far too broad to get into here. One recently published paper[^13] shows the similarity in structure of a neutron star and a human cell. Other comparisons based on scientific and rational observations have also been noted, such as:
 
@@ -488,7 +488,7 @@ A hardcore Aristotelian materialist might say &ldquo;The law of non-contradictio
 
 It would appear that the laws of reason depend on the scope of one&rsquo;s perspective and what one accepts as axiomatic or true, transcendental or otherwise. How, then, can these laws be preexisting if they contradict each other? This is sort of like the fable of the blind men and the elephant, where one blind man holding the elephant&rsquo;s tail describes it as a snake, and the other, holding the foot, describes it as a tree, or perhaps like the brilliant sculptures of Mathew Robert Ortis, such as &ldquo;Revolution Giraffes&rdquo;, which looks like a giraffe from one angle, but an elephant from another.
 
-![](../Images/016-eleph-giraf.png){width=100%}
+<img src="../Images/016-eleph-giraf.png" style="width:100%;">
 
 The blind men and the viewers of the sculpture are all perceiving a preexisting form that is undebatably &ldquo;true&rdquo;, but they can&rsquo;t seem to agree on what it is.
 
@@ -504,9 +504,9 @@ I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone 
 
 Here is that correlation, just for fun:[^18]
 
-![](../Images/017-suicide.png){width=100%}
+<img src="../Images/017-suicide.png" style="width:100%;">
     
-![](../Images/018-star-dancer.png){width=100%}
+<img src="../Images/018-star-dancer.png" style="width:100%;">
 
 This process of understanding is similar to recognizing a pattern in a series of random dots, as in the dancing-woman-in-the-dots example above. In that image I can definitely see a person dancing, and I can easily prove it by connecting the dots. I am not wrong, but neither is the person who sees an egg sandwich. 
 
@@ -619,7 +619,7 @@ Our ancestors called this intelligence &ldquo;the voice of the gods&rdquo; and a
 
 The American Psychologist Julian Jaynes, in his very popular book &ldquo;*The Origin of Consciousness in the Breakdown of the Bicameral Mind&rdquo;* (1976) presents his theory of the evolution of the human brain, wherein he claims that our ancestors heard voices in their heads instructing them what they needed to do and needed to know, and these voices of unknown origin were attributed to the &ldquo;gods&rdquo;, and therefore became the voice of Truth.
 
-![](../Images/019-bicameral-brain.png){width=100%}
+<img src="../Images/019-bicameral-brain.png" style="width:100%;">
 
 &ldquo;Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices. The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images. The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.&rdquo;[^21]
 
@@ -649,7 +649,7 @@ Perhaps *reason* has evolved to the point where we may be able to answer these q
 
 The rules and conditions of reality that we have discovered have followed a perfectly reasonable path long before man was able to claim them as such. Sometimes it takes a while to find them, but eventually, we do, so far.
 
-![](../Images/020-planet-logs.png){width=100%}
+<img src="../Images/020-planet-logs.png" style="width:100%;">
 
 For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were. It wasn&rsquo;t until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear. This became Kepler&rsquo;s Third Law of Planetary Motion that states *&ldquo;the square of the planet&rsquo;s orbital period is proportional to the cube of its distance from the sun.&rdquo;*
 In the same manner, we discovered DNA is a helix because of hydrogen bonds, etc., so we can say &ldquo;Here is a pattern and the rules that created it.&rdquo;
@@ -756,7 +756,7 @@ The range of possibilities between these two (or any two) states is naturally di
 
 If we had the ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would be in the middle. This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner. This chart below is a general concept of this idea.
 
-![](../Images/021-supercurve1.png){width=100%}
+<img src="../Images/021-supercurve1.png" style="width:100%;">
 
 We see this sort of distribution everywhere in nature. In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems coexist.[^31]  This does not mean that the stuff in the middle of the curve is more sustainable than the stuff at the ends, but it does mean that the stuff in the middle uses energy more efficiently and will probably be more valid.  
 
@@ -766,7 +766,7 @@ We see this sort of distribution everywhere in nature. In fact, in the world of 
 
 For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light. This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green. This makes sense as we evolved in a world that was very green thanks to chlorophyll and its oxygen producing photosynthesis. Other life-forms have other ranges of sensitivity depending on their context or environment.
 
-![](../Images/022-eyecurve1.png){width=100%}
+<img src="../Images/022-eyecurve1.png" style="width:100%;">
 
 The oscillations between two states, be they the two states of chaos, or order and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation. This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort.
 
@@ -778,7 +778,7 @@ When we look at simple waves, such as light waves, radio waves, sound waves, we 
 
 On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc. On the material level, we have mechanical waves, such as sound waves. On the organic level and beyond (planets, life, culture, politics, etc.[^32]) we don&rsquo;t use the term *waves*, instead, we call them *cycles*, but they represent the same thing as waves but in a different context and scope.
 
-![](../Images/023-sinewave.png){width=100%}
+<img src="../Images/023-sinewave.png" style="width:100%;margin:auto;">
 
 If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength. &ldquo;Frequency&rdquo; and &ldquo;wavelength&rdquo; are typically terms we use to describe waves of radiation and vibration, such as light and sound, but we *could* say the moon has a wavelength of about 50 million km, with a frequency of 0.00599584916 Hz, or that the migration cycle of the Arctic Tern, a bird that flies back and forth between the Arctic and the Antarctic every year has a frequency of 1/yr., with a wavelength of 70,000 km (which is how far they travel every year). We don&rsquo;t because it&rsquo;s cumbersome, non-intuitive and fairly useless information in our current paradigm.
 
@@ -786,11 +786,11 @@ As meaningless as these terms are for such cases, it does not take away from the
 
 Here&rsquo;s another example of the interdependent cycles of cohabiting rabbits and coyotes. It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic function, the transference of energy in an attempt to create balance, just in two very different scopes and contexts.
 
-![](../Images/024-predcycle.png){width=100%}
+<img src="../Images/024-predcycle.png" style="width:100%;">
 
 When we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represents incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research[^169] into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude. Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree. It&rsquo;s almost as if the inhabitants of earth knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.
 
-![](../Images/world-sine.png){width=100%}
+<img src="../Images/world-sine.png" style="width:100%"/>
 
 The two most common classes of waves are electromagnetic (subatomic particles) and mechanical (particles). If we were to compare them we would see similarities that we could also identify in cycles, such as those mentioned here, but that is beyond the scope of this book as it would be a book itself. We can at least compare the properties of the two common classes of waves.
 
@@ -799,7 +799,7 @@ Yes, for all you physicists and electrical/mechanical engineers that might be re
 
 To put their contexts and scopes in perspective, consider that an electron is 100 million times smaller than an atom, and 20 trillion times smaller than a chromosome, let alone the sizes we are talking about for typical M wave medium, like things you can hold in your hand. Compare that to the Milky Way galaxy, which is 167,256,410 times the size of our solar system, and the earth is only 1/38000 the size of that. The difference between an electron and a beach ball is about the same difference between a beach ball and the entire galaxy. With that in mind, consider that the ratio of the actual universe compared to the observable universe is equivalent to an atom compared to the observable universe. It&rsquo;s easy to imagine how a fundamental law might be expressed differently at these different scales.
 
-![](../Images/025-beachball.png){width=100%}
+<img src="../Images/025-beachball.png" style="width:100%"/>
 
 More important than the differences are the similarities, such as the way energy travels through a medium via waves. All forms of energy are simply a redirection of energy from one state to another, as energy is neither created nor destroyed. This is the very first law of thermodynamics, the conservation of energy. We have identified many forms of energy: sound, chemical, radiant, electrical, atomic, mechanical, elastic, ionization, gravitational, dark (that&rsquo;s the energy causing the universe to expand faster than we think it should), so is it unreasonable to imagine still more forms of energy? Are emotions like love or fear, desires, thoughts, or even imagination a redirection of energy? And what form does that energy take? Can we say that we know of every type of medium and every type of cycle and the laws that control them?
 
@@ -817,7 +817,7 @@ This begs the questions &ldquo;What *is* energy? &ldquo; And the answer is… ar
 
 Let&rsquo;s look at the simple cycle again as the archetypal pattern that describes the movement of energy, regardless of the medium. In some contexts, this pattern is quite measurable, in others, it is analogous, such as in the migration pattern of the Arctic Tern.
 
-![](../Images/026-sinewaveplus.png){width=100%}
+<img src="../Images/026-sinewaveplus.png" style="width:100%;">
 
 You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, positive/negative, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.
 
@@ -908,11 +908,11 @@ For those who do not know what a *standing wave pattern* (SWP) is, it is a stabl
 
 Here is a collection of SWPs that were created by placing white powder on a drum head and exposing that drum head to various stable sounds, like a single tone, or a collection of single tones. This process is called *cymatics*.
 
-![](../Images/027-cymatics.png){width=100%}
+<img src="../Images/027-cymatics.png" style="width:100%;">
 
 The difference between data and information is analogous to the difference between chaos and order, that difference being exclusively energy.
 
-![](../Images/028-datachaos.png){width=100%}
+<img src="../Images/028-datachaos.png" style="width:100%;">
 
 We have moved from *data* to *information* to *knowledge* to *understanding* in the following manner, more or less.
 
@@ -934,7 +934,7 @@ In 1972 Ervin Laszlo, philosopher, theorist and two-time Nobel Prize nominee, pu
 
 Laszlo&rsquo;s challenge was to provide a framework for understanding universal structures that span the scopes of subatomic physics, through biology, chemistry, organisms, and social systems to the cosmos. Laszlo describes a hierarchical model of interconnected conceptual entities. When one of these entities is acting as a *part* of a larger entity, it is called a *parton*, and when acting as a *whole* entity with its own parts, or *partons*, it is called a *holon*.
 
-![](../Images/033-embeddedholons.png){width=30%}
+<img src="../Images/033-embeddedholons.png" style="width:30%;margin:auto;">
 
 The *holon* represents the *wholeness of its nature*, and the *parton* representing the integrated *part* of the greater *holon*. The hierarchical ordering of *holon/partons* is called a *holarchy*. An example of this is the biological cell mentioned previously. The cell itself would be a *holon*. The transcoder and other components necessary for the cell to function would be considered *partons*. Likewise, the transcoder is also a *holon* with its component *partons*, and the cell itself is a *parton* to, say, an organ. This makes the holarchy somewhat fractal in nature as the structure of the entire hierarchy is self-replicated in each of the holons.
 
@@ -942,13 +942,13 @@ The *holon* represents the *wholeness of its nature*, and the *parton* represent
 
 The holarchy is a map of all the concepts of archetypes we have collected and attempts to organize these concepts in a hierarchical fashion. As each parton is a child of a holon it naturally inherits the scope of its parent. It is these scopes that define the order. Each holon has a unique scope, and this scope is what defines the spectrum of possibilities, the Bell curve of probability, for any particular holon. For example, within the holon of *person,* you will only find *person* things and not *planet* things.
 
-![](../Images/029-holarchy.png){width=100%}
+<img src="../Images/029-holarchy.png" style="width:100%;">
 
 The graphs above represent a very small subsection of the Grand Holarchy of Everything. The chart on the left shows a larger picture of how partons and holons relate to one another. The chart on the right shows one of the many paths that connects subatomic particles to the multiverse.
 
 With a few tweaks to the previous *Super-Duper Graph of Reality* Bell curve, making the right axis more logarithmic rather than linear, this model fits nicely on top of it.
 
-![](../Images/030-supercurve2.png){width=100%}
+<img src="../Images/030-supercurve2.png" style="width:100%;">
 
 Some readers may be thinking &ldquo;Hey, wait a minute&rdquo; those aren&rsquo;t the same axis! What kind of Gaussian goofiness in going on here?&rdquo; Well, that is partly true. The first Super-Duper Graph of Reality chart shows the probability (x-axis) of where order (y-axis) will be more likely to emerge across the entire spectrum of existence while this one is limited to the spectrum of human perception. 
 
@@ -962,7 +962,7 @@ Because the peak of the curve represents where the most &ldquo;work&rdquo; will 
 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
-![](../Images/031-eyecurve2.png){width=100%}
+<img src="../Images/031-eyecurve2.png" style="width:100%;">
 
 #### **Claim 38:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons. 
 
@@ -978,7 +978,7 @@ In Dawkins own words[^36]:
 
 > &ldquo;Memes spread through the culture like genes spread through the gene pool&rdquo;
 
-![](../Images/032-holongrid.png){width=70%}
+<img src="../Images/032-holongrid.png" style="width:70%;margin:auto;">
 
 This is relevant at this point to to demonstrates how the concept of a meme can be incorporated into a holarchy. The original versions of the  chart above comes from a Velikovsky paper on video games and their potential to increase intelligence.[^37] The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch. It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*. The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object. He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea. In our case, we are defining *Ideas* (capital &ldquo;I&rdquo;), like forms, as the archetypal blueprint for many instances of ideas. The idea of *&ldquo;Let&rsquo;s make a video game where people have to shoot each other&rdquo;* is an instance of the Idea *&ldquo;Individual or tribal competition and survival&rdquo;*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc. The idea of *&ldquo;If I sin, I will burn in hell&rdquo;*, a very resilient and popular meme for thousands of years, is an instance of the Idea *&ldquo;We are judged harshly by our superiors for being self-serving&rdquo;*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
 
@@ -1011,7 +1011,7 @@ Imagine that the speed of light was 55 miles per hour. If you were to stand on t
 
 The classic explanation of a dimension goes something like *&ldquo;If something has only one dimension you only need one number to know its exact location.&rdquo;* In the case of 1-dimension, like in the number line below, if there was a dot on number 6, the dot has a dimension of 6.
 
-![](../Images/035-numnberline.png){width=50%}
+<img src="../Images/035-numnberline.png" style="width:50%;margin:auto;">
 
 This is true when, and only when, the position of the measurer and the thing being measured share the same context, as the value of 6 is only relative to that context. If we wanted to give the absolute position of the dot, we would need to include the coordinates of where in the universe that dot exists, which would require the coordinates of who-knows-how-many larger contexts it was in when it was measured; where on the planet, in the solar system, in the galaxy, in the multiverse, and all of those with the dimension of time, as they are all moving, and even then it would only be relative to the Universe as we know it. So, even a simple 1-dimensional dot can have a lot of dimensions when measured in absolutes.
 
@@ -1023,7 +1023,7 @@ With that in mind, and limiting ourselves to our 3D reality (we&rsquo;ll come ba
 
 -   All things are the most efficient form of that specific thing.
 
-![](../Images/036-tetrahedron.png){width=50%}
+<img src="../Images/036-tetrahedron.png" style="margin:auto;width:50%" />
 
 This last statement might raise a few eyebrows. The claim here is not that any particular thing is the most efficient form of its perfect archetype, but rather the most efficient form for that particular thing under the conditions it exists in any particular moment. 
 
@@ -1045,7 +1045,7 @@ Jumping to the other end of the scale we have some pretty big things in the univ
 
 Here is what a hypercube (4D cube) looks like when it is rotated and projected onto a 2D space, like a shadow (orthographic projection).
 
-![](../Images/037-hypercubeisos.png){width=100%}
+<img src="../Images/037-hypercubeisos.png" style="width:100%;">
 
 What about something that is 5D, or 6D or 7D? Each one would be bigger by an order of magnitude. How about something that is 248D? That would be very, very big. If something was bigger than the Great Wall in 248D how big would it appear in 3D? About the size of a small travel bag!! OK, you&rsquo;re probably thinking *&ldquo;248D!? Come on, man. That&rsquo;s ridiculous!&rdquo;*
 
@@ -1061,7 +1061,7 @@ This E8 lattice (that&rsquo;s its technical name, also called a *quasicrystal*, 
 
 Here is a page from a paper[^39] that describes the E8 lattice.
 
-![](../Images/038-e8desc.png){width=100%}
+<img src="../Images/038-e8desc.png" style="width:100%;">
 
 As you can see, the whole space-time part of the E8 lattice is just a small part of one of the 3D projections of an 8D slice of a 248D super-thing, leading one to wonder what other forms of reality it has the magic power to create.
 
@@ -1071,11 +1071,11 @@ The most significant aspect of *Emergence Theory* (for us) is their claim that:
 
 Here are a couple of beautiful images of the countless faces of the magic E8 crystal to ponder.[^41]
 
-![](../Images/039-e8examples.png){width=100%}
+<img src="../Images/039-e8examples.png" style="width:100%;">
 
 Just as a fun comparison, check out the following cymatic patterns.
 
-![](../Images/040-cymaticscolor.png){width=100%}
+<img src="../Images/040-cymaticscolor.png" style="width:100%;">
 
 The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all matter is a projection of countless &ldquo;pixels&rdquo; that are really, really small tetrahedrons[^165], each about 1.61 x 10<sup>-35</sup> meters in size. Remember the size of a quark, 10<sup>-17</sup>? This is a *lot* smaller. 
 
@@ -1093,7 +1093,7 @@ Now we can begin to integrate dualities into the holarchy.
 
 #### **Claim 42:** The concept of a thing and the thing itself are the same things on two different level of order. 
 
-![](../Images/041-holons-to-tree.png){width=40%}
+<img src="../Images/041-holons-to-tree.png" style="width:40%;margin:auto;">
 
 Both of the scopes of matter and ideas represent how a form of pure energy in its chaotic state is converted into order using the same laws as they apply to the relevant contexts of their scope. In one case energy is ordered and expressed as matter and in the latter case as concepts. This is how it relates to holarchies, as holarchies can map not only the naturally occurring hierarchy of the concepts of *reality* (atoms, plants, people, etc.) but also the concept of *concepts* (domains of science, religions, culture, etc.).
 
@@ -1103,7 +1103,7 @@ This graph only shows one instance per duality, but there could be many, many in
 
 Some readers might recognize this graph as looking very similar to the mystical Kabbalah, or the Tree of Life, as it is also called, which has its roots in ancient Sumer. There was no intention to arrive at such a comparison, but these similarities naturally arise whenever we are using reason to explain how reality works. Any system that has order will follow a pattern, and we can see these same patterns over and over again, from the electron to the galaxy, from flowers to computer networking. Our explanations of how realities work, whether we believe it was created by God in six days, or it&rsquo;s all a very sophisticated holographic projection, will have the same patterns of reasoning, albeit with different back-stories and interpretations of the significance of those patterns.
 
-![](../Images/042-related-patterns.png){width=100%}
+<img src="../Images/042-related-patterns.png" style="width:100%;">
 ## Knowledge by any other name
 
 We tend to think that ancient ideas were not based in science, at least in the way we describe that word today. This is partly true, in that we had not yet discovered the laws of nature to the degree, or in the manner, we now have, but we can find incredibly sophisticated reasoning and logic in some ancient ideas.
@@ -1150,7 +1150,7 @@ Humans are sort of stuck with the language we have been using for thousands of y
 
 In 1968, Aristid Lindenmayer, a Hungarian theoretical biologist, and botanist at the University of Utrecht designed a symbolic language call *L-system* that incorporated various symbols that were bound by a set of rules. He developed this language as a way to model and describe the behavior of plants and a variety of other organisms[^45]. The philosophy and architecture of the language were based on the observed logic of growth, i.e. life. Not coincidently, this language describes self-similar systems. This is the language of the future, but sadly, only for our digital offspring, at least not until we do some major gray matter rewiring upstairs.
 
-![](../Images/043-l-system-trees.png){width=100%}
+<img src="../Images/043-l-system-trees.png" style="width:100%;">
 
 Granted, L-System language is mainly used as a model language, but not only does it have an alphabet, grammatical roots and rules, like human language, it can model human language[^160]. This is brought up to show that organically evolved systems that have had to survive the Darwinian battlefield, such as human language, exhibit similar characteristics to the highly ordered, structured, and hierarchical systems that describe life itself. 
 
@@ -1170,7 +1170,7 @@ There is such a language which was developed to specifically optimize the transm
 
 In Ithkuil, you can say &ldquo;On the contrary, I think it may turn out that this rugged mountain range trails off at some point.&rdquo; in the following manner:
 
-![](../Images/044-ithlang.png){width=30%}
+<img src="../Images/044-ithlang.png" style="width:30%;margin:auto;" />
 
 I doubt we&rsquo;ll be adopting this any time soon.
 
@@ -1196,13 +1196,13 @@ If we break this sentence up into three parts and define each part in a way that
 
 With these three data points, three &ldquo;atoms&rdquo; of data, we have the simplest form of information, an information &ldquo;molecule&rdquo;, so to speak. The &ldquo;things&rdquo; are called *objects*, and the &ldquo;relationship&rdquo; is called a *predicate*. Together they are called a *triplet*. We may have some other triplets about Bob, such as, he is a person, he is a friend of Alice, etc., and we can bind these triplets together quite naturally.
 
-![](../Images/045-monalisa.png){width=100%}
+<img src="../Images/045-monalisa.png" style="width:100%;">
 
 Predicates can be just about anything: &ldquo;lives in&rdquo;, &ldquo;has a&rdquo;, &ldquo;enjoys&rdquo;, etc. Objects, however, are part of much larger, more structured hierarchies, much like the holarchies above.
 
 We can graph the previous sentence as well in something like the following:
 
-![](../Images/046-handknot.png){width=50%}
+<img src="../Images/046-handknot.png" style="width:50%;margin:auto;">
 
 How does a computer know what *is interested in* or what a *person* is? It doesn&rsquo;t &ldquo;know&rdquo; the way you or I know, but it does know that a *person* is a type of *agent*, has a *family name*, a *first name* and that a person *knows things*. So, as far as a computer is concerned, a person is just a dataset with a bunch of specific properties and relationships to other datasets.[^48] These definitions and relationships are defined in a hierarchical manner and are called *ontologies* (if you recall, this is the &ldquo;the study of that which is&rdquo; that was originally founded by the mystic, and father of philosophy, Pythagoras). There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc., and they can all talk to each other by linking *triplets* together*.*[^49]
 
@@ -1222,11 +1222,11 @@ The project started out with reams of data from every sector of the economy, eve
 
 Here is some information taken from this project that describes the relationship between *resources*, *location*, and *sector* using the instances of *water*, *Argentina*, and *agriculture*.
 
-![](../Images/047-truevalue.png){width=100%}
+<img src="../Images/047-truevalue.png" style="width:100%;">
 
 When modeling all elements of the supply chain they ended up with the following visual representation of the model, with each color representing one of the three concepts that define each context or level. For example, one of the sets of three circles represents resources-location-sector level, with a real-world dataset of *water-Argentina-agriculture*. Within one of the inner circles, such as agriculture, is information about *product-production-transport*, such as *tomatoes-kilos/yr-import/export*. In the end, they were able to calculate the environmental, economic, and social impact that one potato had at every stage of its journey from a spud on the farm to the garbage bin at a restaurant.
 
-![](../Images/048-truevalue-tris.png){width=60%}
+<img src="../Images/048-truevalue-tris.png" style="width:60%;margin:auto;">
 
 You can clearly see the triplet and holarchic design of this representation of the supply chain. This would be expected if you considered a supply chain as a large-scale version of a living system.
 
@@ -1242,7 +1242,7 @@ Earlier we used Newton&rsquo;s 2<sup>nd</sup> law as an example to show how one 
 
 These are not simply three isolated laws, but rather three attributes of a greater phenomenon that describes all matter.
 
-![](../Images/049-laws-of-motion.png){width=60%}
+<img src="../Images/049-laws-of-motion.png" style="width:60%;margin:auto;">
 
 *(Later we show why these laws should be in the order of \#3 first, followed by \#1 and then \#2).*
 
@@ -1250,13 +1250,13 @@ These are not simply three isolated laws, but rather three attributes of a great
 
 Again, we see this same structure remarkably represented in the classic reinforcing loop between thinking, feeling, and doing, which is the basis upon which Cognitive Behavioral Therapy is built (we&rsquo;ll refer back to this a bit later).
 
-![](../Images/117-psycho-triad.png){width=60%}
+<img src="../Images/117-psycho-triad.png" style="width:60%;margin:auto;">
 
 ## Music
 
 The relationship of music to trigrams is so profound that it deserves a book unto itself, and many have been written, so I will only share that entire theories music are modeled on the trigram, such as the *Tonnetz* (German for *tone-network*) model, which is a conceptual lattice diagram representing tonal space first described by Swiss mathematician, physicist, astronomer, geographer, logician and engineer, Leonhard Euler in 1739. Modern music theorists take it a step further, that of a 2D tholon map on a spinning torus… wow!
 
-![](../Images/tonnetz.png){width=100%}
+<img src="../Images/tonnetz.png" style="width:100%;">
 
 ## Reduction
 
@@ -1286,13 +1286,13 @@ The simplest way we can describe this process of emergence from a dot to everyth
 
 ##### \~Sir Isaac Newton
 
-![](../Images/050-dot-line-tri.png){width=30%}
+<img src="../Images/050-dot-line-tri.png" style="width:30%;margin:auto;">
 
 We are taught that the progression from point to tetrahedron follows a very clear and simple path of point → line → trigram → tetrahedron.
 
 From the tholonic perspective, this is a very incomplete description because it considers any point to be just like any other point, but they are not the same, as each point has very different attributes. If we ignore those attributes, we are blind to what geometry can show us about so much more than shapes.
 
-![](../Images/051-firstdot.png){width=100%}
+<img src="../Images/051-firstdot.png" style="width:100%;">
 
 We start with a 0-dimensional dot represented by a blue dot in the middle of nothing *(Fig. c1)*. Because it is 0 dimensions and surrounded by nothing, it only exists as a concept of *something*. It has no form, no dimensions, no properties other than that it is a *concept* of *something* that exists. But where does it exist? It can&rsquo;t be measured, seen, or interacted with in any way, so how can we say it even exists? This dot exists only as a concept, which means it only exists because of the awareness of its existence. The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the *idea* of an imaginary point in a void of nothingness. Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness. This is our first duality, that of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance.
 
@@ -1314,11 +1314,11 @@ As both dots are aware of their own dotness and of the other&rsquo;s dotness the
 
 We now have the two poles of the first duality that was created within the duality of nothingness and somethingness. This duality might be described as that of *unlimited awareness/limitation of awareness*, or a number of other possible descriptions depending on what properties one sees in the green and red dots. We will use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
 
-![](../Images/dot-blue.png){width=0.23in} The 1<sup>st</sup> blue dot represents the initial or parent dot that has no ability to create dimension and exists only as a concept of awareness before there even exists the concept of subjective or objective. This is the dot that defines the simplest form of existence as pure awareness.
+<img src="../Images/dot-blue.png" style="width:0.23in" />The 1<sup>st</sup> blue dot represents the initial or parent dot that has no ability to create dimension and exists only as a concept of awareness before there even exists the concept of subjective or objective. This is the dot that defines the simplest form of existence as pure awareness.
 
-![](../Images/dot-green.png){width=0.23in} The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot. This dot can add 1 dimension to 0-dimensions and defines separation and division, creating the conditions of subjective and objective, and consequently the idea of self-awareness as a result of a state of awareness with respect to another state of awareness.
+<img src="../Images/dot-green.png" style="width:0.23in" />The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot. This dot can add 1 dimension to 0-dimensions and defines separation and division, creating the conditions of subjective and objective, and consequently the idea of self-awareness as a result of a state of awareness with respect to another state of awareness.
 
-![](../Images/dot-red.png){width=0.23in} The 3<sup>rd</sup> red dot represent where the blue dot and the green dot interact. The 3<sup>rd</sup> dot is always created as a pair, one for each of the opposite states of blue dot-green dot interactions. This dot can add 1 dimension to an existing 1-dimensional space and defines the concept of *scope* and *area* as a result of the *union*. 
+<img src="../Images/dot-red.png" style="width:0.23in" />The 3<sup>rd</sup> red dot represent where the blue dot and the green dot interact. The 3<sup>rd</sup> dot is always created as a pair, one for each of the opposite states of blue dot-green dot interactions. This dot can add 1 dimension to an existing 1-dimensional space and defines the concept of *scope* and *area* as a result of the *union*. 
 
 Now a perfect trigram exists, but so do three others. It seems that from here on we can&rsquo;t make just one trigram without three additional trigrams instantly coming into existence. Instantly we have an infinite loop of self-similarity. From the tholonic perspective, the instantiation of this concept of instant expansion was experienced when an atom-sized point representing all matter in existence quickly expanded to fill the universe, at least according to the Big Bang Theory.
 
@@ -1330,7 +1330,7 @@ Not surprisingly, the trigrams have already given us the answer with the followi
 
 Looking at *Fig. c8* we see that these are exactly the types of dots that have been created; one blue, one green and one red. All we need to do to combine these three dots together is combine these three dots into a new composite dot, and *viola*, we have a new dot type that can create the 3<sup>rd</sup> dimension.
 
-The RGB dot ![](../Images/052-rgbdot.png){width=0.23in} or White dot ![](../Images/053-whitedot.png){width=0.233in} represents the combination of all three primary dots. This dot can add 1 dimension to 2-dimensions and defines volumes as a result of the union of three unique trigrams.
+The RGB dot <img src="../Images/052-rgbdot.png" style="width:0.23in" /> or White dot <img src="../Images/053-whitedot.png" style="width:0.233in;" />represents the combination of all three primary dots. This dot can add 1 dimension to 2-dimensions and defines volumes as a result of the union of three unique trigrams.
 
 We now have a tetrahedron.
 
@@ -1348,7 +1348,7 @@ According to the creators of the holarchy model, each holon has three functions:
 -   Negotiates (sideways relationship)
 -   Defines (below relationship)
 
-![](../Images/054-holonrel1.png){width=80%}
+<img src="../Images/054-holonrel1.png" style="width:80%;margin:auto;">
 
 These attributes hold up quite well when compared to our real-world example of a supply chain.
 
@@ -1360,13 +1360,13 @@ You can also easily see how the above relationships can be described semanticall
 
 We can also visually represent the relationships in the following manner, which allows us to easily map this to a trigram:
 
-![](../Images/055-holonrel2.png){width=80%}
+<img src="../Images/055-holonrel2.png" style="width:80%;margin:auto;">
 
 ## Tholograms
 
 ### Geometry II
 
-![](../Images/056-NDCpoints.png){width=60%}
+<img src="../Images/056-NDCpoints.png" style="width:60%;margin:auto;">
 
 Let&rsquo;s take these three relationship attributes of **C**ontributes, **N**egotiates, and **D**efines (which we&rsquo;ll shorten to just C, N, and D) and map them to the three points of a trigram. One point to add here is that the word *negotiate* is synonymous with *achieving a balance*. We could even replace the word *negotiate* with *balance* but *negotiate* implies a process rather that a state, plus, the word *balance* has a lot of baggage in today&rsquo;s culture that we&rsquo;d prefer not to inherit, so *negotiate* is a better word.
 
@@ -1407,7 +1407,7 @@ The primary reason why the properties or movement and energy are the key points 
 
 These properties direct energy, energy has movement, and movement has direction. In this example the direction is clear, however, this direction could change under different circumstances as we&rsquo;ll see later on.
 
-![](../Images/057-NDCpoints-rels.png){width=100%}
+<img src="../Images/057-NDCpoints-rels.png" style="width:100%;">
 
 To further illustrate this point, we can use the semantic example above where we show &ldquo;Alice *is a friend of* Bob.&rdquo; The thologram model looks at *is a friend of* as the energetic force that defines Alice and Bob, at least within this narrow context of *friendship*. Without relationships Alive and Bob would not even exist, as these relationships define every interaction down to the atomic level.
 
@@ -1415,7 +1415,7 @@ To further illustrate this point, we can use the semantic example above where we
 
 Now that we have mapped the three properties of N, C, and D onto a trigram we can see and label a new class of attributes that are the result of these properties interacting with each other. For example, what would we expect to see across a spectrum that is defined at one end as Negotiation, and at the opposite end, Definition (the line from N to D )? In the context of human interactions (just to keep it simple and clear), this pretty much describes how we agree on laws, rules, and limits. Across the spectrum of Definition and Contributions (D-C line), we would see how these two opposing concepts, one of restriction and one of expansion, interact with one another through cooperation or conflict. On the spectrum of Contribution and Negotiation (C-D line), we would see some sort of value returned to the society or culture, perhaps in the forms of work, dedication, or service (*Fig. t3*).
 
-![](../Images/058-interrules.png){width=70%}
+<img src="../Images/058-interrules.png" style="width:70%;margin:auto;">
 
 For the purposes of demonstration, we&rsquo;ll use these human context concepts going forward, but keep in mind these are just a few archetypal examples out of many, and only limited to one context. 
 
@@ -1429,7 +1429,7 @@ Notice that in the first example when we used the three points of Parent, Child,
 
 #### **Claim 47:** Static instances (stable patterns) form dynamic relationships (movement of energy). Dynamic relationships  (movement of energy) form static instances (stable patterns).
 
-![](../Images/059-ruleexposure.png){width=100%}
+<img src="../Images/059-ruleexposure.png" style="width:100%;margin:auto;">
 
 Here we show the three points of N, D, and C as color sources that instantiate on the scopes (the lines, zones, or spectrums) opposite them. Think of each point as ever-expanding light that illuminates the &ldquo;wall&rdquo; opposite it. This is a much more complete idea of a tholon as it shows the tholonic concept as the sum of all the attributes (exemplified by the white trigram in the middle), with the points as archetypes, and the lines as the field, zone or scope of where new types of archetypes can emerge from.
 
@@ -1443,9 +1443,9 @@ The tholographic claim is that within the trigram there is energy, and therefore
 
 We can now say this about the trigram and its properties:
 
--   **N** (negotiation) equates to the 1<sup>st</sup> blue dot ![](../Images/dot-blue.png){width=20px}, which is the awareness of a concept in its simplest form.
--   **D** (definition) equates to the 2<sup>nd</sup> green dot ![](../Images/dot-green.png){width=20px}, which introduces limitation, division, and separation.
--   **C** (contribution) equates to the 3<sup>rd</sup> red dot ![](../Images/dot-red.png){width=20px}, which, with the previous two dots, resulted in unification and form.
+-   **N** (negotiation) equates to the 1<sup>st</sup> blue dot<img src="../Images/dot-blue.png" style="width:20px"/>, which is the awareness of a concept in its simplest form.
+-   **D** (definition) equates to the 2<sup>nd</sup> green dot<img src="../Images/dot-green.png" style="width:20px"/>, which introduces limitation, division, and separation.
+-   **C** (contribution) equates to the 3<sup>rd</sup> red dot<img src="../Images/dot-red.png" style="width:20px"/>, which, with the previous two dots, resulted in unification and form.
 
 By these descriptions, we can state as a general process that defines creation is something like:
 
@@ -1455,11 +1455,11 @@ At the most abstract levels, this describes the Big Bang Theory, biological repr
 
 ### Inner, not Outer
 
-![](../Images/flower-of-life-dots.png){width=60%}
+<img src="../Images/flower-of-life-dots.png" style="width:60%;margin:auto;" />
 
 We have seen how the creation of a single trigram will automatically create addition trigrams as part of the same creative process. This would imply that there is an infinitely expanding realm of trigrams, as shown in *Fig. c9*. This pattern, when limited to 37 points, is often called the *flower of life*. The tholonic model sees it a little differently. If we are claiming that the first instance of creation, that of the one dot becoming two, and the two becoming three, etc., even if we are just speaking metaphorically, then what we are also claiming is that this first trigram represents the very first duality, that of somethingness and total nothingness. This would then imply that every duality and trigram that follows must exist *within* the first trigram, not outside of it, because every succeeding duality can only be a subset of this first duality. If we draw our expanding trigrams such that the children are always contained within the parent we see a very different pattern. 
 
-![](../Images/061-tri-to-tho.png){width=100%}
+<img src="../Images/061-tri-to-tho.png" style="width:100%;">
 
 In this example diagram *Fig. p1* above, the outermost N, D, C points represent the first trigram. You&rsquo;ll see in *Fig. p2* on the CD line of this parent trigram a new state was formed, N. It naturally bifurcates and expands in the same manner as its parent until it reaches its limits of the boundaries of the parent and in doing so creates three additional trigrams.
 
@@ -1467,7 +1467,7 @@ You may also notice what looks like an inconsistency in the order of the letters
 
 We started with one trigram, created one more, resulting in 4 trigrams. Each generation of self-similar creation increases the number of trigrams by 4. Here is what the generations look like.
 
-![](../Images/062-4generations.png){width=100%}
+<img src="../Images/062-4generations.png" style="width:100%;">
 
 In the 1<sup>st</sup> generation of a simple trigram, we see a few fundamental rules, such as:
 
@@ -1482,7 +1482,7 @@ In the 1<sup>st</sup> generation of a simple trigram, we see a few fundamental r
 
 You&rsquo;re probably thinking &ldquo;What? Red and green don&rsquo;t make blue!&rdquo;  This is half true. Red and green make yellow, and yellow, when blended with the parent blue, make magenta and cyan… and cyan and magenta make blue. So, red and green parents do not make blue children, but they make blue grandchildren. We see an instance of this in the way recessive genetic traits are passed to every other generation, which is what we would expect tholonically as genetics are one of the better examples of an instance of tholonic fundamentals. This is worth a demonstration. Here is that same process described above but with simple colors from the color wheel to show how the children interact with the parents. This is an important point, but because the process is the same for every generation, we are going to just use red, green and blue in our later examples to keep things simpler.
 
-![](../Images/colortree-top.png){width=100%}
+<img src="../Images/colortree-top.png" style="width:100%" />
 
 In the first case&hellip;
 
@@ -1501,11 +1501,11 @@ This is the same process as the first, but the children are spawned internally, 
 
 Here is a zoomed-out image of this (crudely drawn) grid:
 
-![](../Images/colortree-bottom.png){width=100%}
+<img src="../Images/colortree-bottom.png" style="width:100%;">
 
 Compare the outward-expanding model to the inward-expanding model:
 
-![](../Images/comparison.png){width=100%}
+<img src="../Images/comparison.png" style="width:100%;margin:auto"/>
 
 We also see a few other interesting details, such as, how the contribution of red divides the green (on the right side). Can we say the same thing for how green is what divided the red, such as it appears on the left side? No, because there is an order to the points of blue > green > red, so green existed *before* red, therefore the introduction of the 3<sup>rd</sup> red point must divide the already existing 2<sup>nd</sup> green point. Likewise, the green&rsquo;s boundaries are defined and limited by the red (on the left side) using the same logic that the green came first and the red followed.
 
@@ -1513,13 +1513,13 @@ In the world of mathematics, this is similar to something called a *Sierpinski T
 
 The difference between the thologram and the Sierpinski Triangle is in the latter the concept of a triangle is considered at a distinct object that is always upright, so when it is duplicated there is a triangular &ldquo;hole&rdquo; in the middle where no triangle exists, like this:
 
-![](../Images/063-serp.png){width=100%}
+<img src="../Images/063-serp.png" style="width:100%;">
 
 In the thologram, we consider the triangle not as an object, but as the boundaries that constrain the movement of energy. The fact that the center trigram is a reversal of the three outer trigrams is evidence of the significance of this inner trigram. One way to think about the thologram is the boundaries are like one-way mirrors, reflecting the light (energy) within the triangle, but allowing the light from outside to enter. This difference between the thologram and the Sierpinski Triangle is only conceptual because the math is essentially the same, but the thologram considers the negative or empty space just as valid as the filled space, just with different attributes.
 
 With each generation, we have more and more rules. In just a few generations we see two dominant patterns begin to emerge from these rules. The first one being the Fibonacci sequence, which emerges simply by the linear increase in generation count as well as the number of trigrams for each generation (1,4,16), which is always 4<sup>+gen</sup>. 
 
-![](../Images/064-hexagram.png){width=50%}
+<img src="../Images/064-hexagram.png" style="width:50%;margin:auto;">
 
 Another dominant pattern is the hexagon, one of nature&rsquo;s most persistent and useful shapes, and can be seen in beehives, Saturn&rsquo;s north pole, dragonfly eyes, rocks, bubbles, snowflakes, organic chemistry, etc., but it is much more than just that. We are also shown how the N-sources converge to form the center every hexagon. From this, we get a much better idea as to the nature of N-sources, which are, unsurprisingly, at the center of order. This is important because it gives us an insight into answering the question &ldquo;Where did the first N-source come from?&rdquo;  It is also the pattern upon which the *flower of life*, shown above, is build on. The  *flower of life* design dates back to 1300 BC, with the oldest known instance carved on the temple walls of the ancient Egyptian temple, the *Osireion*. Again, we see the same concepts and patterns appear again and again in Man&rsquo;s search for understanding using the power of reason. We also see that every *Define* or *Contribute* point is naturally paired with its opposite.
 
@@ -1527,7 +1527,7 @@ Another interesting observation are those little black dots in the middle of the
 
 Those black dots mark the center of a line that has the capability of creating new children (stable patterns), or new N-sources. You&rsquo;ll notice that those lines only exist on the outer ring of the hexagon.
 
-![](../Images/065.n-sources.png){width=50%}
+<img src="../Images/065.n-sources.png"  style="width:50%;margin:auto;"/>
 
 As we saw earlier, the N-source (blue) is the progenitor of the subsequent D (green) and C (red) dots. We also know that the N must always precede the D and C. However, D and C, having all the attributes of the N, can create a new version of N. N and D cannot create a new N because it does not have the attributes of C (form), nor can N and C create a new N as it does not have the attributes of D (definition). Only N-states can be created as N-states have no form or dimension, a prerequisite for creating something out of nothing. An N-state is simply an idea or concept.
 
@@ -1541,7 +1541,7 @@ A curious observations is if you take the simplest material version of the trigr
 
 We can also apply the same associative reasoning to the thologram as a whole to show how its structure appears as a pattern of growth in nature.
 
-![](../Images/066-serp-growth.png){width=100%}
+<img src="../Images/066-serp-growth.png" style="width:100%;">
 
 Here we are using the Sierpinski triangle which does not show the &ldquo;negative space&rdquo; of the thologram but simply a blank space. In the thologram, this blank space is just as full of implicit patterns as the positive space is full of explicit patterns. More on this shortly.
 
@@ -1549,7 +1549,7 @@ There is no question that the natural processes of creation for nature follow th
 
 ### 2D to 3D
 
-![](../Images/067-2d-3d.png){width=100%}
+<img src="../Images/067-2d-3d.png" style="width:100%;margin:auto;">
 
 So far all we have described is 2D trigrams. Where is the 3D tetrahedron? Remember, the 2D trigrams *are* the 3D tetrahedron, only flat. What happens when we convert this 2D model to 3D?
 
@@ -1561,7 +1561,7 @@ The implication of this transformation from 2D to 3D is significant, for if we t
 
 Below is a more complete, step-by-step description of this transition from beginning to end.
 
-![](../Images/068-dot2tholon.png){width=100%}
+<img src="../Images/068-dot2tholon.png" style="width:100%;">
 
 Tholons model the movement of energy, and consider the existence of form as the consequence of that movement. With that in mind, let&rsquo;s look at the tholonic explanation using the figures above.
 
@@ -1595,9 +1595,9 @@ If you managed to slug through this up to this point, congratulations! Here is w
 
 If you look at *Fig. c1*, which is the colorized front view of *Fig. a5*, you&rsquo;ll notice that there are alternating sets of real and virtual tholons, and the peaks of these tholons (the black dots) naturally create new trigrams.
 
-![](../Images/069-tripeaks.png){width=30%}
+<img src="../Images/069-tripeaks.png" style="width:30%;margin:auto;">
 
-In 2<sup>nd</sup> generation tholons, the peaks are always the 4<sup>th</sup> dot type of RGB combined ![](../Images/070-rgbdot2.png){width=0.29514in} (which we&rsquo;ll call *white* dots from here on), so how can a new tholon appear from three white dots? Doesn&rsquo;t it need three different unique colors to satisfy the conditions for a 4<sup>th</sup> white dot to exist? In fact, that condition *is* satisfied. If we make the RGB/white dots huge for demonstration purposes you can see how the colors line up to create three separate dots of three separate colors, but these 2<sup>nd</sup> generation dots are composed of three pieces of three dots that are 1/3<sup>rd</sup> each color.
+In 2<sup>nd</sup> generation tholons, the peaks are always the 4<sup>th</sup> dot type of RGB combined<img src="../Images/070-rgbdot2.png" style="width:0.29514in;" /> (which we&rsquo;ll call *white* dots from here on), so how can a new tholon appear from three white dots? Doesn&rsquo;t it need three different unique colors to satisfy the conditions for a 4<sup>th</sup> white dot to exist? In fact, that condition *is* satisfied. If we make the RGB/white dots huge for demonstration purposes you can see how the colors line up to create three separate dots of three separate colors, but these 2<sup>nd</sup> generation dots are composed of three pieces of three dots that are 1/3<sup>rd</sup> each color.
 
 For clarity&rsquo;s sake, we are referring to each generation of tholon children as *generations,* while the tholons that are created from the peaks of these original tholons, and their children, we refer to as *iterations*.
 
@@ -1637,19 +1637,19 @@ To get a better perspective of the dynamism of this structure, look at *Fig. f1*
 
 If we go inside this very simple version of a thologram we see what looks like complete chaos (*Fig. f2*), but is, in fact, absolute stunningly perfect order and structure.
 
-![](../Images/071-thologram-spheres.png){width=100%}
+<img src="../Images/071-thologram-spheres.png" style="width:100%;">
 
 If we had used the simplest thologram possible in our example, using only 1<sup>st</sup> generation folds, rather than the 3<sup>rd</sup> generation folds above, it would look like the following:
 
-![](../Images/072-thologram-inside.png){width=100%}
+<img src="../Images/072-thologram-inside.png" style="width:100%;">
 
 Another fascinating pattern expressed in the thologram is the value for *pi* (&pi;, 3.14159) can be determined by alternatively adding and subtracting the inverse of the total number of N-sources for all the real and virtual tholons for each generations (which produces a series of sequential odd numbers; 1,3,5,7,etc). This was originally discovered by Leibniz and is appropriately called the *Leibniz formula for π*, as shown below. Notice how here we also see the reversing back and forth with each generation, which is a function of the creative process as described above.
 
-![](../Images/leibnix-pi.png){width=70%}
+<img src="../Images/leibnix-pi.png" style="width:70%;margin:auto;">
 
 The one last point to consider is best explained in the following thought exercise: Imagine what you would see if you were a 2D person living in a 2D world and an object passed through your 2D reality. You would see a bunch of 2D slices of that object that changed over time.
 
-![](../Images/073-flatland.png){width=100%}
+<img src="../Images/073-flatland.png" style="width:100%;">
 
 Now imagine you are a 3D person living in a 3D world (which should be pretty easy to do) and a 4D object passes through. You will see 3D &ldquo;slices&rdquo; of this 4D object over time as it passes through your 3D world. For example, if a 4D ball passed through a 3D world it would first appear as a very tiny 3D ball, and then grow to a large ball, then shrink to a small ball before disappearing.
 
@@ -1663,7 +1663,7 @@ Why is this detail important?
 
 The 3D model of the thologram is a 3D slice of a 4 (or more) dimensional model. What the larger multidimensional object that we see as a tetrahedron actually looks like we can&rsquo;t say, and probably can&rsquo;t know. What would an 8D or 248D &ldquo;object&rdquo; appear as in this 3D world? It could appear as many, many different things. Take a look at all the ways a simple self-similar 3D tetrahedral pyramid can appear in 2D orthographic projections.
 
-![](../Images/074-tetraisos.png){width=100%}
+<img src="../Images/074-tetraisos.png" style="width:100%;">
 
 Now imagine the same pyramid with trillions of iterations and many more dimensions! It would have the ability to define or describe every archetype of everything,  every form, (every idea?) that ever has, does or will exist. Its perspectives would effectively be infinite to us, but at its source, it is one thing.
 
@@ -1671,7 +1671,7 @@ Now imagine the same pyramid with trillions of iterations and many more dimensio
 
 To specify the location of a tholon within the thologram we have to identify each tholon by an address based on its generation.
 
-![](../Images/076-dimpath.png){width=100%}
+<img src="../Images/076-dimpath.png" style="width:100%;">
 
 If we wanted to reference the topmost tholon in gen 4 by its base trigram, on the bottom right tholon in gen 3, on the bottom left tholon in gen 2, we would need to say it is at 1,3,2,1. The areas blacked out are virtual tholons which don&rsquo;t really exist (energetically) so we can&rsquo;t navigate to them (even though we can reference them). So, in this example, we need 4 dimensions to define the location of a tholon. At any one tholon&rsquo;s location, there can be multiple instances of tholons consisting of all that tholon&rsquo;s ancestors and descendants. Just saying the location of one tholon could just as easily refer to a subsection of a parent tholon or a group of children tholons. Any dimension would have to record the path taken to arrive at any particular tholon. The reason this is being mentioned is to show that each generation of tholons increases the dimensionality of the thologram by one dimension.
 
@@ -1697,11 +1697,11 @@ The math he proposes is, according to him, based on the reality of empiricism, s
 
 All these forms, such as cubes, hexagons, tetragons, rhombohedras, orthorhombics, or truncated icosahedrons, which is commonly known as the *Bucky Ball*, or, when in atomic form, *Buckminsterfullerene* (basically, it&rsquo;s a soccer ball),  and perhaps all forms, can be defined by points in a thologram.
 
-![](../Images/cubes-shapes.png){width=80%}
+<img src="../Images/cubes-shapes.png" style="width:80%;margin:auto;">
 
 The thologram, which is based entirely on the tetrahedron and quadray coordinates, is a model of knowledge, thought, and ideas. it&rsquo;s important to remember that the map is not the territory. These models of reality are like maps that describe the terrain. There are elevation maps, density maps, road maps, water maps, contour maps, temperature maps, population maps, economy maps, crime maps, San Francisco even has human feces maps! They all describe the same territory from different perspectives. The thologram is just one template that is a description, so to speak, a language that defines the organization and pattern of all energy at every level.
 
-![](../Images/083-3cubeprob.png){width=60%}
+<img src="../Images/083-3cubeprob.png" style="width:60%;margin:auto;">
 
 There are many alternative ways to map the thologram. What is shown here is just one way. How many ways are there? I don&rsquo;t know, but the extremely simple *three square geometry problem* (&ldquo;what is the total of the angles *α*,*β*,*γ*?&rdquo;) has 54 possible solutions, and that is just with three simple squares (the answer is 90&deg;)!
 
@@ -1725,13 +1725,13 @@ The actual first instance of matter are the elements, but no element has a tetra
 
 As a result, we would not see any 3D structures until the first iteration that emerges. A single H<sub>2</sub>O molecule is not a tetrahedron, it is a trigram. Water, however, is tetrahedral. This also supports the claim that elements exist within the first pre-iteration instance of tholons, the very first, and smallest, tetrahedrons, but it also shows that some simple compounds are in this pre-iterations space as well, albeit in a more limited form due to its more limited scope.
 
-![](../Images/084-azotosome.png){width=30%} 
+<img src="../Images/084-azotosome.png" style="width:30%;margin:auto;"/> 
 
 Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structure that all life depends on. Another early structure that is tetrahedral as a molecule alone is methane, one of the first organic molecules and not just a building block of life on earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* on the right, and one we might discover on the Saturn moon of Titan.
 
 In the above geometry, we see that in the first generation of a tholon we have 4 trigrams, 3 of which are descending, or downward-pointing trigrams, and 1 is ascending, or upward-pointing trigram (&ldquo;up&rdquo; and &ldquo;down&rdquo; have only relative meaning here as it simply refers to the way the trigrams were drawn). If we have two tholons then we have a total of 8 trigrams made up of 6 descending and 2 ascending.
 
-![](../Images/085-h20.png){width=30px} H<sub>2</sub>O is composed of three atoms. One atom is oxygen, which has an atomic number of 8 as it has 8 protons in its nucleus, which defines how much energy it holds as a &ldquo;charge.&rdquo; It also supports 8 electrons in its outermost shell, which represents its most balanced state. The other two atoms are hydrogen, the very first instance of Newtonian matter, the kind of matter that makes up physical reality as we know it. Hydrogen has an atomic number of 1 and has only 1 proton, 1 electron, and 1 neutron. Although oxygen wants 8 electrons in its outer shell, it only has 6, so it naturally forms a bond with two hydrogen atoms by sharing the one electron each hydrogen has to offer.
+<img src="../Images/085-h20.png" style="width:30px" />H<sub>2</sub>O is composed of three atoms. One atom is oxygen, which has an atomic number of 8 as it has 8 protons in its nucleus, which defines how much energy it holds as a &ldquo;charge.&rdquo; It also supports 8 electrons in its outermost shell, which represents its most balanced state. The other two atoms are hydrogen, the very first instance of Newtonian matter, the kind of matter that makes up physical reality as we know it. Hydrogen has an atomic number of 1 and has only 1 proton, 1 electron, and 1 neutron. Although oxygen wants 8 electrons in its outer shell, it only has 6, so it naturally forms a bond with two hydrogen atoms by sharing the one electron each hydrogen has to offer.
 
 From a tholonic perspective, oxygen follows the pattern of two 3<sup>rd</sup> gen tholons from one face of a 2<sup>nd</sup> gen tholon, which has 6 *real* tholons and 2 *virtual* tholons (*Fig. v1*, showing two 3<sup>rd</sup> gen tholons). Hydrogen follows the pattern of a complete 2<sup>nd</sup> gen tholon (*Fig. v2*, showing two complete 2<sup>nd</sup> gen tholons). Combining these two together (*Fig. v3*) would represent 8 externally-facing points (from the *real* tholons) of interaction and two internally facing points (from the *virtual* tholons) of non-interaction. When combined, the hydrogen tholons will attach to the empty or *virtual* tholons of oxygen.
 
@@ -1745,11 +1745,11 @@ We can see a few similarities between a tholonic model and a chemical model.
 | Integration of 2 tholon types                                | Integration of 2 atom types.                                |                           |
 | 3<sup>rd</sup> gen tholon structure 4x larger (in count) than 2<sup>nd</sup> gen structure | 3<sup>rd</sup> gen structure (O) is 4<sup>2</sup> larger (mass) than 2<sup>nd</sup> gen structure (H) |                           |
 
-![](../Images/086-h20-tholo.png){width=100%}
+<img src="../Images/086-h20-tholo.png" style="width:100%;">
 
 This is just a hypothetical demonstration, as there may be a much better tholonic model for elements and compounds than this one, but this one is sufficient to show how we might be able to describe elements and compounds tholonically, which might give us new insights into their nature. 
 
-![](../Images/electron-shapes4.png){width=100%}
+<img src="../Images/electron-shapes4.png" style="width:100%;margin:auto;">
 
 Can we see this similar relationship with other compounds? Given that the basic archetypal shapes of molecules (shown above) can be represented within the thologram, perhaps this model can be applied to all compounds. We claim this might be possible, as there is an almost infinite number of possible configurations in the thologram. Instances of fundamental configurations, such as those that appear in the earlier stages of iterations, like the Fibonacci sequence and the hexagram, would represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality (like water and methane) and could be easily discovered.
 
@@ -1763,7 +1763,7 @@ This is seen in a single tholon and its reflection tholon as shown in *Fig. q1* 
 
 We need to very briefly address one item before continuing. *Fig. b1* shows how a complete tholon is required to create higher order of structures, like the hexagon, but notice also that the hexagon is not actually defined until the 3rd generation. By &ldquo;defined&rdquo; we mean the contiguous boundaries of the same boundary type. In this figure the three boundary types, or *bonds*, are magenta (connecting blue and red), yellow (connecting green and red, and cyan (connecting red and blue). Primitive structures are form unique boundary types. 
 
-![](../Images/color-tri.png){width=100%}
+<img src="../Images/color-tri.png" style="width:100%;">
 
 *Image above: The left-most image shows the three different layers of children (slightly offset so you can identify the layers). There are three types of connecting lines, or boundary types that form three types of primitives, or foundational patterns. The hexagram is the only pattern that is self-contained, and it does not appear until the 3^rd^ generation.*
 
@@ -1783,7 +1783,7 @@ This is a significant observation. Most of what we have shown here involves how 
 
 Understanding the tholonic nature of these forces may well give us an insight into understanding the nature of the source of the energy, which is to say, understanding the nature of the Awareness and Intention that created this reality.
 
-![](../Images/087-tholo-quark.png){width=100%}
+<img src="../Images/087-tholo-quark.png" style="width:100%;">
 
 There is also an interesting relationship with the One Electron Theory. This is a theory that theoretical physicist John Wheeler proposed (in a phone call at 2AM in 1940 with Richard Feynman) that there was just one electron in existence, and that all electrons were the same electron! This would be possible if that one electron was not subject to space-time, allowing it to be in all places simultaneously. Wheeler also claimed that not only are all electrons the same electron, but all positrons are also the same electron moving backward in time. As an electron it has a charge of -1, and as a positron it has a charge of +1.
 
@@ -1803,13 +1803,13 @@ More importantly, those dots where the electrons would appear only exist on the 
 
 Just a quick callback, but do you remember that crudely drawn 2D map of overlapping tholons?  Compare that to a diagram I coincidently ran across from an article by Ethan Siegel, Senior Science Contributor to Forbes magazine[^172], called "*Can Free Quarks Exist Outside Of A Bound-State Particle?*"  Notice any similarities?  The correlation would be much better if I had any clue how to determine which quarks (R, G, or B) are equivalent to the tholon's N, D or C.
 
-![](../Images/quarks.png){width=100%}
+<img src="../Images/quarks.png" style="width:100%"/>
 
 
 
 ### While we&rsquo;re here&hellip;
 
-![](../Images/088-tholo-trimath.png){width=60%}
+<img src="../Images/088-tholo-trimath.png" style="width:60%;margin:auto;">
 
 This would be a good place to briefly point out other patterns in other systems. For example, Newton&rsquo;s 2nd Law nicely fits into a tholon. let&rsquo;s use Ohms Law to test it out.
 
@@ -1821,7 +1821,7 @@ If we replace:
 
 …we can then state the following:
 
-![](../Images/089-tformulas.png){width=100%}
+<img src="../Images/089-tformulas.png" style="width:100%;">
 
 Let&rsquo;s look at these definitions closer.
 
@@ -1831,13 +1831,13 @@ Before we move on, let&rsquo;s follow up on this concept of how the trigram can 
 
 What do the math symbols mean in the real world? Addition and subtraction are easy concepts to grasp in the real world. We take some number of things and add or remove some number of things. A good example of the effects of addition and subtraction is how they affect colors.
 
-![](../Images/090-addition.png){width=80%}
+<img src="../Images/090-addition.png" style="width:80%;margin:auto;">
 
 What are multiplication and division then? It is the definition of one value by the units of another value. For example, in division, such as *3=12/4*, we are stating that 3 is what we get when we measure an existing value (12) by a predetermined unit of 4. In multiplication, such as *12=3&times;4,* we are determining a new value by taking one predetermined value (4) and adding it some number (3) of times. The 4, as the divisor or multiplier, is the unit of measurement and the 3 is the number of units. We&rsquo;re not going over this because you need to learn about math. Every kid knows what was just stated., but when we apply those same simple rules and concept to a non-math context, they become very significant.
 
 As mentioned above, we would expect to see the same laws expressed in different ways across all the scopes that the laws apply to, so we would expect to see an example of Newton&rsquo;s 2<sup>nd</sup> law in the tholonic realms of society, or planets, or organisms, and we do.
 
-![](../Images/hor-laws.png){width=100%}
+<img src="../Images/hor-laws.png" style="width:100%">
 
 We&rsquo;ve seen this applied to electricity but it can apply to more abstract concepts as well. For example, if we claim that a society is based on its laws (cultural or otherwise), and we also posit that laws are to be measured by ethics, we can say *society=ethics/laws*, and likewise, *ethics=laws x society*. If we measure the *power* of a *society* by its ability to function, and the measure of a *society* by its sustainability, then, according to these formulas, a *society* with a lot of *laws* and very little *ethics* will be functional but is less sustainable. On the other hand, a *society* that had a lot of *ethics* and very few *laws* will have the same level of functionality but will also be very sustainable. It is up to the reader to decide if *laws*, *society*, *ethics*, and  *power* are the best concepts to use here and if so, what the *power* (the rate, over time, at which energy is transferred) represents, what energy itself represents in this context and what the social equivalent of *squares* and *square-roots* are. How would this look if we used concepts such as *natural rights*, *privileges* and *responsibilities*?
 
@@ -1865,11 +1865,11 @@ We can confirm this arrangement using all twelve formulas of Ohm&rsquo;s Law as 
 
 #### **Claim 48:** There is no useless data, only data we have yet to understand how to use. 
 
-![](../Images/092-two2Dmaps.png){width=100%}
+<img src="../Images/092-two2Dmaps.png" style="width:100%;margin:auto;">
 
 Previously we saw how the contribution of red divides the green on one side (right) but constrains the green on the opposite (left) side. Can we apply these same concepts to other scopes, such as electricity? Does current (I) &ldquo;divide&rdquo; resistance (R) and is resistance (R) &ldquo;constrained&rdquo; by current (I)?  Yes, we can, but first we have to recognize that while &ldquo;constrain&rdquo; and &ldquo;divide&rdquo; have different meanings in their usual context, they have the same mathematical meaning. To describe the function X/Y as X being constrained by Y, because X is being defined by, or measured by, Y is not inaccurate, as X is indeed being &ldquo;kept within certain limits&rdquo; in as far has how it is being measured. 
 
-![](../Images/ohm-numbers.png){width=60%}
+<img src="../Images/ohm-numbers.png" style="width:60%;margin:auto;">
 
 Let&rsquo;s apply values to these points to make it clearer. Below is a tholon map where I=2, R=3, V=6 (and the implied P=12). These numbers comply with the formulas of Ohm&rsquo;s law. These are not arbitrary numbers. They are the smallest numbers that represent the properties of each point, mathematically speaking. Why do we not start with the number 1 then?  Because the properties of 1 are the antithesis of creation. 1 represents perfect unity and balance, whereas every number greater that 1 represents separation and imbalance. For example, if we applied the values of 1 to I and R, then the values of V and P will also equal 1. The number 1 unlike every other number, and even Euclid excluded the number 1 in his *The Fundamental Theorem of Arithmetic*, which states:
 
@@ -1921,7 +1921,7 @@ Because 216 = 6&times;6&times;6  it gained a dubious reputation by association w
 
 The point of all this is to show one way that the tholon can be used and viewed. There are many new ways of looking at energy in all its forms when viewed tholonically.
 
-![](../Images/093-DNA.png){width=70%}
+<img src="../Images/093-DNA.png" style="width:70%;">
 
 We showed examples of quarks and molecules, but in higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships.
 
@@ -1941,17 +1941,17 @@ Where:
 
 **Operating cost** is the cost to recharge the battery, and costs associated with keeping it safe.
 
-![](../Images/battery-tetrahedron.png){width=80%}
+<img src="../Images/battery-tetrahedron.png" style="width:80%;">
 
 From this model we have four trigrams:
 
-![](../Images/battery-ohmslaw.png){width=100%}
+<img src="../Images/battery-ohmslaw.png" style="width:100%;">
 
-![](../Images/battery-2dmap.png){width=100%}
+<img src="../Images/battery-2dmap.png" style="width:100%;margin:auto;">
 
 We can equate **E** with an *N-source*, **P** as a *defining* point, **C** as a *contributing* point, which makes **O** the unifying &ldquo;white dot&rdquo; point (for brevity&rsquo;s sake I won&rsquo;t detail the reasoning behind these associations. The reader may arrive at a different conclusion). With this ordering, we end up with the 2D tholon map (right, showing parent and next-gen children).  
 
-![](../Images/battery-ragone-plot.png){width=70%}
+<img src="../Images/battery-ragone-plot.png" style="width:70%;margin:auto;">
 
 According to the article&rsquo;s own conclusions, the relationship between **E** (energy density) and **P** (power density), which is equivalent to an *N-source* and a *defining* point, is what he refers to as the *Ragone Space*. The Ragone plot (above) measures the performance comparison of various energy-storing devices. This chart is a perfect example of the axis of &ldquo;laws, rules and limits&rdquo; that connects an *N-space* with a *defining* point in the model of the tholon.  
 
@@ -1979,7 +1979,7 @@ There is quite a lot of good research on the subject that we won&rsquo;t detail 
 
 Water is a particularly good test medium because the structure of water (not the H<sub>2</sub>O molecule alone, but many of them together) is a tetrahedron, and being the most basic shape of creation lends itself to many different tholonic applications. it&rsquo;s worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief. It was not until 80 years later, in 2013, that this was finally accepted as valid. Today &ldquo;it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e. tetrahedral and hexagonal structures.&rdquo;[^57] In fact, water, as ice, may be the closest instance of the entire tholon&rsquo;s structure of any other substance.
 
-![](../Images/116-water-ice.png){width=100%}
+<img src="../Images/116-water-ice.png" style="width:100%;">
 
 Radical ideas are often met with radical resistance. Structured water is one of those ideas.
 
@@ -1987,7 +1987,7 @@ Simply by adding some structure to simple tap water (see examples of how to make
 
 In Ptok&rsquo;s the Master&rsquo;s thesis mentioned above, the author examines various tests that grew different plants using tap water and structured water.
 
-![](../Images/095-ptolks-images.png){width=100%}
+<img src="../Images/095-ptolks-images.png" style="width:100%;">
 
 One of his findings was that using structured water increased alfalfa growth by 15.1%. This may not sound like much, but in the U.S. alone a 15% increase in alfalfa growth represents an additional 20,700,000 tons of alfalfa, which has a value of over 4 billion dollars.
 
@@ -2129,7 +2129,7 @@ As Wheeler put it:
 
 Towards the end of his life he said he had only enough time left to work on one idea: that **awareness shapes not only the present but the past as well.**
 
-![](../Images/099-splitslit.png){width=80%}
+<img src="../Images/099-splitslit.png" style="width:80%;margin:auto;">
 
 We already have the proof of awareness causing waveforms to collapse into particles, as we saw in the _split-slit_ experiment.
 
@@ -2283,7 +2283,7 @@ When you want to send something to somewhere, how is that done? Maybe you use a 
 
 It is easy to imagine applying the well-developed model of telecommunications that we currently use, called the *Open Systems Interconnection* model, to a model of information sharing among various forms of intelligence.
 
-![](../Images/096-ISOstack.png){width=100%}
+<img src="../Images/096-ISOstack.png" style="width:100%;">
 
 To be clear, we are not saying that this is how it works, nor are we saying this is *not* how it works. We are suggesting that we might find new perspectives if we apply the models we have developed, which are based on natural laws, to things we do not yet understand. In this case, for example, we see that the physical body and intelligence are at the opposite ends of the pyramid, implying that the brain/nervous system is more of a receiver/transmitter rather than a generator, as creating new information requires intention, cognition, and intelligence. This is a radically different concept than the current mainstream and antiquated idea that the mind, consciousness, intelligence *must* arise out of brain activity. We contend that other successful models that we currently use today could also be applied to things we do not yet understand, at least as a starting point of investigation.
 
@@ -2305,7 +2305,7 @@ Another candidate is how the brain creates and stores memories. We have develope
 
 An important technical detail regarding holograms as it applies to memory is that many images can be recorded on top of each other, each with a different angle of illumination. All those images can be reconstructed simply by changing the angle of the hologram when viewing. This is why, and how, a holographic memory cube five meters square can store every word ever spoke or written by all humans.[^105]
 
-![](../Images/097-holograms.png){width=100%}
+<img src="../Images/097-holograms.png" style="width:100%;">
 
 This imprint, or &ldquo;mnemetic trace&rdquo;, so named after the Greek muse of memory &ldquo;Mneme&rdquo;, is also a precursor to Dawkins &ldquo;meme&rdquo;, as the meme is a cultural version of an engram. I suspect Dawkins was well aware of this when he created the &ldquo;meme.&rdquo;
 
@@ -2353,7 +2353,7 @@ OK, I know this is all a bit of a stretch, but it&rsquo;s not outside the realm 
 
 Another possibility is structure itself. It has been claimed that the structure of water can hold memory. Although this claim has not been properly tested by any means, there is at least some evidence to suggest it might be valid. Dr. Emoto has been the most public in his claims that water holds memory, and presents many examples and theories, but none have been thoroughly tested by scientific standards. There is quite a lot of information available about Emoto&rsquo;s work so I will not repeat any of it here. However, Dr. Emoto has participated in other, more stringent studies.
 
-![](../Images/098-waterdrops.png){width=50%}
+<img src="../Images/098-waterdrops.png" style="width:50%;margin:auto;">
 
 Speaking only for myself, one of the more compelling pieces of evidence I have seen comes from the experiment where four students created four drops of water, all from the same source. The image above shows the results of that experiment where each row of drops was created by a different student. Notice anything? Even if this is not bulletproof evidence (similar to the existence of Australia for anyone who has never been there), it is enough to raise the question. In addition, this test was also conducted using different types of flowers, and, according to the testers, the resulting patterns in the drops of water resembled the patterns of the flower. Tholonically, this is exactly what we would expect to see, as it is patterns of energy that create the instance of the flower.
 
@@ -2411,7 +2411,7 @@ Reality, as we know it, is the consequence of this processes of *decohering* the
 
 Applied to the tholonic model, each tholon has a set of stable properties, and given its self-similar structure, each tholon only needs to manage the properties that relate to its scope or that exist within its spectrum, leaving the parent properties to the parents, and any of the child properties to the child. Each tholon then &ldquo;knows&rdquo; what works and expresses this in the instances of that tholon, which is every archetypal idea and form that has the possibility to exist. When we look at a thing, like a rock, we are not just seeing the Darwinian results of the tholon of a rock, but also the aggregated results of all related tholons; mountain, planet, solar system, galaxy, silica, molecules, atoms, electrons, etc.
 
-![](../Images/100-real-tholons.png){width=50%}
+<img src="../Images/100-real-tholons.png" style="width:50%;margin:auto;">
 
 The language of reality begins with one &ldquo;letter&rdquo; (a tholon) of the alphabet, which becomes three in the next generations, which becomes 12, etc. Each of these letters is a record of what &ldquo;works.&rdquo; 
 
@@ -2437,7 +2437,7 @@ Test 4 with 4 coins, 2 came up heads
 
 Test 5 with 2 coins, 1 came up heads
 
-![](../Images/101-toincoss.png){width=100%}If we plotted the results, we would end up with a Bell curve that looked something like this &ldquo;Number of Heads&rdquo; graph.
+<img src="../Images/101-toincoss.png" style="width:100%;">If we plotted the results, we would end up with a Bell curve that looked something like this &ldquo;Number of Heads&rdquo; graph.
 
 So, when we run these five tests 50,000 times each, the chances of us ending up with one coin from 32 is 100%
 
@@ -2451,7 +2451,7 @@ Existence does not need to record its failures as it is the ultimate top-down ap
 
 In our example here, the person doing the flipping would be the intelligence that &ldquo;fixes&rdquo; the problem, but in the tholonic view, the experimenter is an instance of an aggregate intelligence (of the human tholon interacting with intelligence of the archetype of the experiment) which received feedback from the broken branch (bad results) that modified the curve (something&rsquo;s wrong) which resulted in a new stable pattern (new nickels). (I know this example sounds ridiculously trivial, but it&rsquo;s the simplest example I could think of.)
 
-![](../Images/102-tpaths.png){width=100%}
+<img src="../Images/102-tpaths.png" style="width:100%;margin:auto;">
 
 A simple example more aligned to the tholonic model would be how we can emerge Bell curves from stable points in a lineage of trigrams. By assigning a value for points on the spectrum, and a binary value representing the generation of the trigram, we can create a unique value for every point that identifies its place on the spectrum and its level. If we combine each of these numbers, we can create one value for the entire lineage that has an extractable record of every spectrum value at every level. This one number would then act as a memory of all the ancestors. We can see this easily in simple binary math. If we have five generations of numbers that double with each generation, such as 1,2,4,8,16, and we have the number 22 representing the sum of all the contributing generations, we can easily determine that only the 2<sup>nd</sup>, 3<sup>rd</sup> and 5<sup>th</sup> generations contributed, because only 16, 4 and 2 can create 22. The tholons are similar in that each tholon has a fingerprint that is encoded in every one of its descendants.
 
@@ -2476,7 +2476,7 @@ What was this study exactly?
 
 The results were impressive.
 
-![](../Images/103-tm-test.gif){width=100%}
+<img src="../Images/103-tm-test.gif" style="width:100%;">
 
 This is only one study, so it is not definitive, but it is certainly supportive of the idea that directed intention, what the participants called *coherence*, and what we are calling *order*, has an extended effect. The explanation, according to the tholonic model, is that the directed energy of coherent thought altered the curves of various archetypes thereby altering the probability of where the &ldquo;work&rdquo; will produce the most order, or where and how energy will be expressed across a scope&rsquo;s spectrum.
 
@@ -2550,7 +2550,7 @@ Let's jump back to the earlier pages where we asked how the growth pattern of li
 
 Every path that can be traveled by any instance already exists because the fields already exist. The path is the expression of the fields interacting. I suspect we tend to wander through this matrix of possibilities in the same manner bacteria wander aimlessly about in their puddles of plasma, or whatever their world is made of.
 
-![](../Images/graphs.png){width=100%}
+<img src="../Images/graphs.png" style="width:100%;margin:auto;">
 
 Perhaps the best instance of this is music. Consider that a finite number of notes exist, but within those notes an almost infinite number of tunes can be written. If we mapped every combination of notes, the tune could be seen as a path on that map. This is more than just a thought experiment… it&rsquo;s an actual undertaking by music theorist Julian Cook, who described in his article  "Mapping the Music",[^170] how the harmonic path of a Beethoven sonata can be visualized on a *Tonnetz* graph (left)&hellip; a graph that happens to look just like a 2D tholon map. In this example, the notes are acting like the fields, and the playing of those note are the balancing of those fields, like the lightning, or plant, or river.
 
@@ -2560,7 +2560,7 @@ Even in the world of bacterial meandering, we see a pattern. Not surprisingly, i
 
 In the early generations of the thologram, the numbers of paths are limited, and with the additional generations, the number of paths increase. This movement may appear random, but not only does it disperse according to a Bell curve, it actually follows the same rules as the thologram itself in that it is self-similar and fractal in nature.[^126]
 
-![](../Images/105-brownian-growth.png){width=100%}
+<img src="../Images/105-brownian-growth.png" style="width:100%;">
 
 Although this sounds like predeterminism, which it is, in effect, there are so many paths that can be traveled that for all intents and purposes predeterminism doesn&rsquo;t apply. Tholonically speaking, it appears as though we may have free will, but only with regard in determining which predetermined path we follow. It also looks like existence itself is the byproduct of the formation of every possible combination of sustainable patterns that exist to establish a balance between differing fields.
 
@@ -2675,7 +2675,7 @@ If using tholonic reasoning we apply the intentions of our own transhumanist eff
 
 Where our creations depend on and require laws and instructions in the form of computer code and technology, our reality depends on laws and instructions as well, which we call &ldquo;physics&rdquo; and the &ldquo;laws of nature&rdquo; and they may well be the programming language this simulation was written in. Where our creations require central processing units, our reality requires black holes, which are, according to some theories, holographic projectors of 3D reality[^133]. Where our creations use various forms of sophisticated communication protocols, our reality has quantum entanglement, dark energy, etc. Comparing the world&rsquo;s most sophisticated CPU, Google&rsquo;s Bristlecone 72-qubit quantum computing CPU, to the &ldquo;CPU&rdquo; of our creator&rsquo;s &ldquo;tech&rdquo;, such as the supermassive black hole NGC-1277, you can get an idea how powerful a Cosmic Gameboy this reality might be.
 
-![](../Images/106-cpu-blackhole.png){width=100%}
+<img src="../Images/106-cpu-blackhole.png" style="width:100%;">
 
 One can draw parallels between almost any class of &ldquo;thing&rdquo; in our human creations to similar &ldquo;things&rdquo; in the reality we exist in. We can also infer some conditions of our reality based on our creations. For example, our creations require knowledgeable people and a sophisticated infrastructure to exist, therefore, we might hypothesize that our reality likewise was created by, and is maintained by, skilled intelligence(s) and requires a sophisticated infrastructure to exist. On the slightly more existential side of things, our creations can be turned off simply by unplugging them, but such an act would have costly consequences, as we depend on our creations and related technology to keep our own reality operating in the manner we have chosen, require, or desire. It may be the same with our creators that they can &ldquo;unplug&rdquo; our reality at any instant, but choose not to as they too have come to depend on us.
 
@@ -2689,7 +2689,7 @@ As the AI of the gods, are we providing solutions to problems the gods are incap
 
 Perhaps the question that has humanity so concerned, &ldquo;Will AI ever attain consciousness?&rdquo; is our human version of our creators&rsquo; question &ldquo;Will man ever become a god?&rdquo; Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, therefore anything Man creates will have that same stolen fire. Unfortunately for Man, this larceny made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods &ldquo;**Behold, the man has become like one of Us.&rdquo;**[^134]. Perhaps one day our unhappy and nervous descendants we will say &ldquo;**Behold, the machine has become like one of Us.**&rdquo;
 
-![](../Images/last-image.png){width=20%}
+<img src="../Images/last-image.png" style="width:20%;">
 
 
 # Appendixes
@@ -2746,25 +2746,25 @@ One of the fundamental claims being made here is that a coherent and stable expr
 
 Within the tholons are numerous relationships. The one we have used in our examples are the twelve formulas that define Newton&rsquo;s 2<sup>nd</sup> law. If we map these formulas to the tholon (using Ohm&rsquo;s Law here as an example) using the reasoning described earlier, we get the following:
 
-![](../Images/108-tmath-sides.png){width=100%}
+<img src="../Images/108-tmath-sides.png" style="width:100%;">
 
 This shows the four trigrams that make up a tholon, however, depending on the perspective of view of the tholon the formulas will be different. Besides the basic twelve formulas, we also see that there is a &ldquo;direction&rdquo; to some of the formulas, counter-clockwise (*levo* or *lefthanded*), and clockwise (*dextro* or *right-handed*).
 
 We can enhance this diagram by showing the relationship between values that are squared and values that are square-rooted.
 
-![](../Images/109-tmath-bal.png){width=100%}
+<img src="../Images/109-tmath-bal.png" style="width:100%;">
 
 Here we see that wherever two corners share the same value, one of those two values is squared in the formulas. So, we have *I* and *V* that are squared, but then we also have *I* and *V* that are the products of square-roots, which shows that the tholons naturally balances itself.
 
 Every trigram has one edge that is a function (multiply or divide). If we order the trigrams by these functions we get the following:
 
-![](../Images/110-tmath-ordered.png){width=100%}
+<img src="../Images/110-tmath-ordered.png" style="width:100%;">
 
 If we organize the sides of the tholon by their function we see that we have three multiplications and six divides. This 3:6 ratio makes sense when you consider that multiplication works the same in both directions (3&times;2=2&times;3), but division only works in one direction (2/3 != 3/2).
 
 We also see that in the trigrams that are division-based (*Fig. v2 & v3*), three of them have clockwise flow, and three of them have counterclockwise flow.
 
-![](../Images/111-tmath-three-tholons.png){width=100%}
+<img src="../Images/111-tmath-three-tholons.png" style="width:100%" />
 
 In the figure above we show the three perspectives of a 2D tholon map. Notice that the outer boundaries of each figure show a consistent direction of flow, *Fig. v1* being neutral, *Fig. v2* clockwise, and *Fig. v3* counterclockwise, which matches the direction of the sides, however, the base (center trigram) is always counterclockwise.
 
@@ -2804,27 +2804,27 @@ There are many, many books on the origins and philosophy of the I-Ching, so we a
 
 The most obvious and important foundation of the I-Ching is that it is based on the polarity of yin and yang. Although this concept arose before the birth of Taoism, the Taoist symbol of Yin/Yang (called the *Taijitu*) has come to perfectly embody this concept.
 
-![](../Images/ic_yinyang.png){width=20%}
+<img src="../Images/ic_yinyang.png" style="width:20%;margin:auto;">
 
 This Taoist symbol does not represent the Oneness from which the first duality emerged, as it is often believed. Rather it represents the Oneness that emerges from an existing duality, in other words, an *N-state*.  The original Oneness, for which there is no image, is the source from which the initial 0-dimensional &ldquo;blue dot&rdquo; appears in nothingness, and as this dot  did not come from a duality (that we can see) there is nothing we can say about it for now other than &ldquo;it just is.&rdquo;  So, this image represents the Oneness that comes from the first duality of somethingness of the concept of a dot and nothingness. In the thologram, that first duality is the &ldquo;green dot&rdquo; and the &ldquo;red dot&rdquo;, and if you remember, it is only along the spectrum that is defined by, and connects, these two dots where a new N-state can emerge from.
 
 From the tholonic perspective, that which created the first duality is different from that which creates all the other dualities, but the process is the same. If we reuse a earlier diagram of the tholonic trigrams but replace the initial, and only the initial N-source with a Zen circle (because I have no ideas what *should* go there, just that is should not be the Taijitu), we have the following:
 
-![](../Images/tao-3-steps.png){width=100%}
+<img src="../Images/tao-3-steps.png"  style="width:100%;">
 
 The I-Ching also has a concept of an &ldquo;lower&rdquo; and an &ldquo;upper&rdquo; state. The lower state can be earth, matter, the subjective, the hidden, the inner, etc. depending on context. The &ldquo;upper&rdquo; state is that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context. A hexagram is made up of these two states, each state occupied by one of the eight trigrams. This results in a total of 64 hexagrams, the total number of hexagrams in the I-Ching (colored blue and red simply for easier viewing).
 
-![](../Images/i-ching-8.png){width=30%}
+<img src="../Images/i-ching-8.png" style="width:30%;">
 
 The I-Ching, like the thologram, has the basic concept of a trigram as the stable building block of ideas. In the I-Ching a trigram is simply three states of yin/yang together to form a stable concept. There are eight possible combinations when using yin and yang.
 
-![](../Images/ic_64hex.png){width=100%}
+<img src="../Images/ic_64hex.png"  style="width:100%;">
 
 An I-Ching trigram is a very simple concept of three states, earth at the bottom, heaven at the top and humanity in the middle. As you can see, this is not only a very simple concept, but a very limited one as these concepts only apply to a human context. The thologram has the same concept of a trigram that is quite compatible with the I-Ching but far more functional and also arranged a bit differently. The tholonic trigram is made of a source, and its two polar opposites that emerge from it, something like a *synthesis* that hold within it its own *thesis* and *antithesis*. Certainly the I-Ching model of a trigram fits into this if we view *humanity* as the synthesis and *heaven* and *earth* the two polarities contained within, rather than the I-Ching&rsquo;s view that humanity is the product of heaven and earth, however, tholonically this is true only for the resulting N-state that emerges from the spectrum of *heaven* and *earth*.
 
 The thologram also has a concept of *upper* and *lower* in that the *upper* trigram of the I-Ching equates nicely to the parent trigram of a tholon. The resulting *lower* trigram of the tholon is created by the new N-source of the parent. We can now see that the final hexagram is perfectly equivalent to a tholon map.
 
-![](../Images/tri-is-hex.png){width=100%}
+<img src="../Images/tri-is-hex.png"  style="margin:auto;width:100%;">
 
 It might see counterintuitive that the *upper* or *outer* trigrams of the I-Ching equates to the smaller and smaller embedded trigrams of the thologram, but not when you consider that it is the smallest and most embedded tholons that represent the bleeding edge of reality where new creations are being born, dying, and morphing. The farther up the thologram, the less things change. In the thologram, the parent trigram is what forms the environment or context for a new N-source to come into existence, so the parent trigram is the incubator, so to speak, for the yet to be manifest N-state. The smaller, inner trigram inside the parent is where the newly created N-state creates its own environment, which incubates yet another N-state, and so on. This is why the I-Ching&rsquo;s *lower* trigram equates to the tholon&rsquo;s *parent* tholon, and the *upper* trigram equates to the child tholon&rsquo;s instantiated *inner* trigram. 
 
@@ -2843,15 +2843,15 @@ Moving on, according to the I-Ching states there are 6 stages of change that des
 
 Not surprisingly then, when we bifurcate the original Tao 6 times, we end up with 64 points in total:
 
-![](../Images/ic-btree.png){width=100%}
+<img src="../Images/ic-btree.png" style="width:100%;">
 
 How would the thologram describe these six stages then?  Although this bifurcation produces 64 states, it is more useful to think of two different sets of 32 states each, and each set created by only 3 stages of bifurcation, or only 3 levels deep. In this way we can construct 8 trigrams from one set and 8 from another set. The reason this is more useful is because we now have the concept of 32 pairs of hexagrams (or 4 pairs of trigrams), and we can consider this pair as the duality of an even broader concept
 
-For example, take the most basic hexagrams (using their binary values), 0 ![](../Images/hexagram20.png){width=30px} *Obstruction*, which states (and I&rsquo;m paraphrasing):
+For example, take the most basic hexagrams (using their binary values), 0 <img src="/home/jw/sites/the-book/Images/hexagram0.png" style="width:30px"/> and 64 <img src="/home/jw/sites/the-book/Images/hexagram63.png" style="width:30px"/>, the *Receptive* and the *Creative*. Between these two hexagrams all other hexagrams exist, so together they represent one state that includes the  broadest context that everything exists within. Another example is is hexagram 20 <img src="/home/jw/sites/the-book/Images/hexagram20.png" style="width:30px"/>*Obstruction*, which states (and I&rsquo;m paraphrasing):
 
 > When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind. 
 
-… and it&rsquo;s opposite, 43 ![](../Images/hexagram43.png){width=30px}, *Opposition*, which states:
+… and it&rsquo;s opposite, 43 <img src="/home/jw/sites/the-book/Images/hexagram43.png" style="width:30px"/>, *Opposition*, which states:
 
 > When opposites meet that must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being.
 
@@ -2895,7 +2895,7 @@ In these models of creation we have 6 steps of creation of a hexagram, the tetra
 
 Let&rsquo;s rearrange the bifurcating tree that the I-Ching is based on (and arguably all forms of creations) and apply this concept of 6.
 
-![](../Images/taotree.png){width=80%}
+<img src="../Images/taotree.png" style="width:80%;">
 
 Here we have the same tree as before, but the starting point is in the middle as opposed to the top. The blue circles represent the yang lines and the red circles represent the yin lines. Following the path from the center to every endpoint will result in 64 paths, each path matching one of the I-Ching hexagrams.
 
@@ -2917,9 +2917,9 @@ If we create a binary tree of the I-Ching such that any of the the following con
 
 …we end up with bifurcations that will be 60&deg; apart from each other (which is also the angle that creates a tetrahedron/tholon), which would then create the following patterns for each of the 6 generations of bifurcations (this is easily done with the L-systems language described above with the rule ***F=F\[+F]\[-F]***):
 
-![](../Images/overlay-gen.png){width=100%}
+<img src="../Images/overlay-gen.png" style="width:100%;">
 
-Simply splitting one line into two lines, in accordance with the laws of energy, we naturally form a pattern of hexagons that perfectly matches the pattern we get when we expand a single dot to many dots. This is because the I-Ching and the thologram represent the same laws but in the context of a binary system (I-Ching) and a trinary system (thologram). Not surprisingly, the one point they both naturally center around is the N-source, which we have already shown to be equivalent to the Taijitu   ![](../Images/ic_yinyang-small.png){width=15px}
+Simply splitting one line into two lines, in accordance with the laws of energy, we naturally form a pattern of hexagons that perfectly matches the pattern we get when we expand a single dot to many dots. This is because the I-Ching and the thologram represent the same laws but in the context of a binary system (I-Ching) and a trinary system (thologram). Not surprisingly, the one point they both naturally center around is the N-source, which we have already shown to be equivalent to the Taijitu   <img src="../Images/ic_yinyang-small.png" style="width:15px" />
 
 It turns out the two systems are quite compatible to the point where not only can the entire I-Ching be mapped to the thologram, but the thologram can greatly elaborate on the I-Ching and give it a 3D structure, and given its recursive nature, infinitely so. 
 
@@ -2933,7 +2933,7 @@ Contrary to modern misconceptions, the I-Ching was never meant to be a tool for 
 
 ##### ~ Lu Dongbin, 9th c. Taoist master (introduction of The Taoist I Ching)
 
-![](../Images/hex2tree.png){width=100%}
+<img src="../Images/hex2tree.png" style="width:100%;">
 
 <p style="border:1px solid lightgrey;background-color:#ddd;font-size: 1rem;font-weight:100;font-family: 'Times New Roman', Times, serif;font-style: italic;"> When unfolding this binary hex pattern we see the classic tree pattern that is so popular among many forms of life, but where are the N-sources located in the tree pattern?  They do not exist as form because N-sources are dimensionless; concepts only.  The only parts of a pattern that can have form, or instantiate, are the children of the N-source. The N-sources exist within and around the form.  Literally, the form exists within the concept of the form.</p>
 Hexagons are formed by six N-sources.  This is the tholonic archetype of a hexagon.  Any hexagon, therefore, has a virtual N-source that is induced into being by virtue of its creations, the dimensional lines. As we can see the overlapping redundancy of the pattern as it unfolds, we see that the first hexagon formed is formed many times over, on top of itself.  We can see this overlapping by the density of the lines.  In the beginning, the originating hexagon(s) have a concentration of N-sources.  As the pattern unfolds as a result of a reduction in its angle of expansion, we see the density move from the center to the outer edge. If we apply this concept to the most obvious instance of an actual tree, we would see that the highest density of N-sources exist around the center, as a seed, and around its leaves and flowers when it is full-grown.  In its last stage, it returns to nothing more than a line, with all the N-sources spread out to infinity (according to the math, which is not shown here, as I have no idea how to draw it). This same process applies to the foundation of any instance, from the Big Bang to ideas.
@@ -2946,21 +2946,21 @@ Equating the *lower trigram* to the three attributes of N, D, C
 
 | Tholonic (parent) |                                                         | I-Ching (lower)                                            |
 | ----------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
-| Negotiation       | ![](../Images/dot-blue.png){width=30px}  |**Line 1:** creative, inception, seed                      |
-| Definition        | ![](../Images/dot-green.png){width=30px} |**Line 2:** limiting, restrictions, gestation, germination |
-| Contribution      | ![](../Images/dot-red.png){width=30px}   |**Line 3:** emergent, self-sufficient, growth              |
+| Negotiation       | <img src="../Images/dot-blue.png" style="width:30px"/>  |**Line 1:** creative, inception, seed                      |
+| Definition        | <img src="../Images/dot-green.png" style="width:30px"/> |**Line 2:** limiting, restrictions, gestation, germination |
+| Contribution      | <img src="../Images/dot-red.png" style="width:30px"/>   |**Line 3:** emergent, self-sufficient, growth              |
 
 Equating the *upper trigram* to the three attributes of N, D, C
 
 | Tholonic (child) |                                                         | I-Ching (upper)                                              |
 | ---------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| Negotiation      | ![](../Images/dot-blue.png){width=30px}  |**Line 4:** transmission, propagation, re-creation, reproduction |
-| Definition       | ![](../Images/dot-green.png){width=30px} |**Line 5:** fruitfulness, pollination, culmination           |
-| Contribution     | ![](../Images/dot-red.png){width=30px}   |**Line 6:** dispersion, integration, amalgamation, seeding   |
+| Negotiation      | <img src="../Images/dot-blue.png" style="width:30px"/>  |**Line 4:** transmission, propagation, re-creation, reproduction |
+| Definition       | <img src="../Images/dot-green.png" style="width:30px"/> |**Line 5:** fruitfulness, pollination, culmination           |
+| Contribution     | <img src="../Images/dot-red.png" style="width:30px"/>   |**Line 6:** dispersion, integration, amalgamation, seeding   |
 
 Let&rsquo;s run another test so see if the thologram and the I-Ching are two views of the same model.
 
-![](../Images/tritest.png){width=100%}
+<img src="../Images/tritest.png" style="width:100%;">
 
 Previously we assigned the positions of the points as 1,2,3,4,5,6 in order to work with the positions of the lines. Now we need to work with the hexagrams and their values so we need to use the position of the points as the exponential value of 2 (because we&rsquo;re working in binary), and to do that we need need to start counting at 0, not 1. In *Fig. e1* you can see the values arrived at for each point, and the exponent used to get that value.
 
@@ -2970,7 +2970,7 @@ In *Fig e3* we have added the name and the hexagram. Don&rsquo;t forget that all
 
 For clarity&rsquo;s sake (even though it may only make things more obtuse), I&rsquo;ve assigned variable names to each property to make the patterns easier to notate and read.
 
-![](../Images/trialgebra.png){width=100%}
+<img src="../Images/trialgebra.png" style="width:100%;">
 
 Here are some details worth noting:
 
@@ -2978,16 +2978,16 @@ Here are some details worth noting:
 
 | Tholonic                                                     |                                                              | I-Ching                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | ![](../Images/dots-blue-green.png){width=100px} | *Decrease*: Restrictions in outer resources requires one to discover and develop inner resources. |
-| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | ![](../Images/dots-green-red.png){width=100px} | *Duration*: The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth. |
-| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | ![](../Images/dots-red-blue.png){width=100px} | *After Completion:* In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay. |
+| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dots-blue-green.png" style="width:100px"/> | *Decrease*: Restrictions in outer resources requires one to discover and develop inner resources. |
+| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dots-green-red.png" style="width:100px"/> | *Duration*: The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth. |
+| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dots-red-blue.png" style="width:100px"/> | *After Completion:* In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay. |
 
 
 - The sum of any trigram and the side opposite that trigram always equal 63, the maximum number possible. This was exciting to discover as it supports the tholonic claim that the effect of any point can be seen on the side opposite that point.
 
 - The math pattern of the tholon also works is we replace multiplication with addition, for example, 14 + 21 = 35, or **H + S = P**
 
-- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  &ldquo;Peace&rdquo;, ![](../Images/hexagram11.png){width=30px} is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
+- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  &ldquo;Peace&rdquo;, <img src="/home/jw/sites/the-book/Images/hexagram11.png" style="width:30px"/>is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
 
   We have a number of other patterns, for example (and for those who enjoy numbers, because it's even *more* tedious if you don't):
 
@@ -3013,7 +3013,7 @@ I do not doubt that the thologram could be used as a tool for divination, mystic
 
 However, if you still have doubts, what follows is a demonstration of  how the value of *pi* (&pi;) can be derived using the tholonic model along with the values shown here derived from the I-Ching.
 
-![](../Images/times7.png){width=100%}
+<img src="../Images/times7.png" style="width:100%;">
 
 *Fig. h1* shows the hexagram values as multiples of 7. Lets apply the tholonic model to these numbers. The tholonic model states that the *green dot* (*[D]efinition*) is what limits and restricts the N-state, so D reduces N. The *red dot ([C]contribution)*, seeing as it contributes, will be added to N.
 
@@ -3021,7 +3021,7 @@ We start by assigning N=1. We then calculate D as 1/P (where P=5, as shown in *F
 
 This graph below diagrams the process (and shows the results already multiplied by 4). Notice how this is exactly the same model that was proposed for transforming a holon, from the holarchic model, to a tholon.
 
-![](../Images/pi-holons.png){width=100%}
+<img src="../Images/pi-holons.png" style="width:100%;">
 
 One detail that this demonstration reveals is that the value on the spectrum between C and D had to be *seeded* by the originating N-source. This detail was left out of the description provided in the chapter on &ldquo;STRUCTURE&rdquo; because the reader was already being bogged down with a mountain of details and even though it&rsquo;s an important technical point it&rsquo;s not needed to grasp the concept of a *spectrum*. But the representation of the spectrum along a 1D line is also inaccurate because in the case of a tetrahedron the spectrum is actually across, or within, a 3D space, with the highest probability in the center of the tholon, but that is quite impossible to show. The more accurate way to display this process would have been to use self-similar, embedded 2D trigrams, but that would be a bit messy and limiting, and the even more accurate model would be 3D tholons embedded within 3D tholons, which is almost impossible to conceive, let alone draw.
 
@@ -3051,7 +3051,7 @@ If we rebuild the I-Ching from the ground up using our tholonic model (while try
 
 *Note: As mentioned numerous times before, the interpretations, values and relationships shown here are not intended to be conclusive. While I tried to make them as meaningful as possible, they are more used as examples. There are many ways patterns and relationships can be formed and I am sure a better version than the one presented here can be made. If you, the reader, disagrees with some of the conclusions here then that is your invitation to improve upon it. That is why this book is open-sourced.*
 
-![](../Images/tholonic-pakua.png){width=100%}
+<img src="../Images/tholonic-pakua.png" style="width:100%;">
 
 Here is the explanation of *Fig c1*.
 
@@ -3077,47 +3077,47 @@ For the record, the *other* classic is referred to as the alchemical principles,
 
 There is another reasoning behind what trigrams are chosen to be cardinal, and dynamic. When applying tholonic logic to the I-Ching we have to find the perspective of each model that are compatible with each other. In the diagram below we graphically map the values of the I-Ching to the tholon to find the patterns.
 
-![](../Images/perspectives.png){width=100%}
+<img src="../Images/perspectives.png" style="width:100%">
 
 Both perspectives have patterns. Perspective 1 uses a binary top-down bifurcation model, similar to the I-Ching, and shows the cardinal points as being composed of only primary elements (red and green only), and it shows the dynamic trigrams as have a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. Perspective 2 uses the cyclical tholonic values as they are assigned to the tholonic trigrams. We definitely see patterns there, and no doubt they can shed new light on both the I-Ching and the thologram, but we will only be using Perspective 1 for now as it answers our question of which trigrams are static or dynamic, which is made very clear in the diagram on the right when the images are arranged in their proper order.
 
-![](../Images/threeviews.png){width=100%}
+<img src="../Images/threeviews.png" style="width:100%">
 
-So, how do we know what trigram is associated with what element? The reasoning is pretty simple… AIR ![](../Images/circle-2.png){width=20px}are the two opposite properties representing the spectrum of resources within that context. They are the only two trigrams that combine both pure elements of yin and yang but to not mix (overlap). WATER is certainly less yang than FIRE, so WATER is 2, which only has 1 yang and two yin, and FIRE is 5, which has two yang and one 
+So, how do we know what trigram is associated with what element? The reasoning is pretty simple… AIR <img src="../Images/circle-7.png" style="width:20px"/>and EARTH <img src="../Images/circle-0.png" style="width:20px"/>describe the opposite properties of what is above us and below us and frames the boundaries of our context. They are the maximum (highest) and the minimum (lowest), between which all else exists. FIRE <img src="../Images/circle-5.png" style="width:20px"/>and WATER <img src="../Images/circle-2.png" style="width:20px"/>are the two opposite properties representing the spectrum of resources within that context. They are the only two trigrams that combine both pure elements of yin and yang but to not mix (overlap). WATER is certainly less yang than FIRE, so WATER is 2, which only has 1 yang and two yin, and FIRE is 5, which has two yang and one 
 
 The dynamic trigrams are a bit less obvious. We need to look at the relationships between the cardinal trigrams to determine what dynamic property it describes via the three stages of *Negotiation*, *Definition*,  and *Contribution*. 
 
 ### AIR & FIRE 
-![](../Images/trigram-b06.png){width=30px}
+<img src="../Images/trigram-b06.png" style="width:30px"/>
 
-The quadrant of AIR ![](../Images/trigram-b00.png){width=20px}(high entropy chaos) though a process of *transmission and maintenance*. it is also the quadrant that results in the most balanced and ordered state between yin and yang in the form of FIRE. While all the elements were implicitly involved in the Big Bang, the event itself was mainly one of AIR and FIRE.
+The quadrant of AIR <img src="../Images/trigram-b07.png" style="width:20px"/> and FIRE <img src="../Images/trigram-b05.png" style="width:20px"/>is one of *descending expansion*. It is the first phase of pure yang <img src="../Images/trigram-b07.png" style="width:20px"/>(low entropy chaos) coming into contact with pure yin energy <img src="../Images/trigram-b00.png" style="width:20px"/>(high entropy chaos) though a process of *transmission and maintenance*. it is also the quadrant that results in the most balanced and ordered state between yin and yang in the form of FIRE. While all the elements were implicitly involved in the Big Bang, the event itself was mainly one of AIR and FIRE.
 
 - *Negotiation*: (yin) AIR represent not only air, but space, sky, outer-space, all that is &ldquo;above&rdquo; us, metaphorically and physically. Before anything can form, there needs to exist space for it form within and energy for create the form. The balance of AIR and FIRE creates the space our Universe exists within and the energy that fills it. While AIR as an element is pure yang because of its expansive and sustainable nature, the instance of AIR (space) in relation to FIRE (energy) is yin, because it acts as the medium through which the energy of FIRE is transmitted. 
 - *Definition*: (yang) As the medium through which energy is transmitted it is AIR that defines how and where that energy can operate. One example of this is the speed of light, *c*, which is the law that all existence must obey. It is AIR that allows the light and the heat of FIRE to be seen and shared by all existence. This is why *Definition* is yang, as it controls all else.
 - *Contribution*: (yang) All life requires the energy of FIRE to exist (heat, light, etc.). Energy (FIRE) must exist in space (AIR) before matter (EARTH) can form, because matter *is* energy in space, so the contribution of AIR & FIRE is the foundation for matter (EARTH).
 
 ### FIRE & EARTH 
-![](../Images/trigram-b04.png){width=30px}
+<img src="../Images/trigram-b04.png" style="width:30px"/>
 
-The quadrant of FIRE ![](../Images/trigram-b00.png){width=20px} is one of *descending contraction* where the balanced state of FIRE descends to the lowest point of the spectrum, EARTH,  through a process of *consumption, reduction and transformation*. 
+The quadrant of FIRE <img src="../Images/trigram-b05.png" style="width:20px"/> and EARTH <img src="../Images/trigram-b00.png" style="width:20px"/> is one of *descending contraction* where the balanced state of FIRE descends to the lowest point of the spectrum, EARTH,  through a process of *consumption, reduction and transformation*. 
 
 - *Negotiation*: (yin) FIRE and EARTH find a balance in matter and form.
 - *Definition*: (yin) The definition of matter (EARTH) is *m=E/c^2^* , where *m*=mass (EARTH), *E*=energy (FIRE), and *c* = speed of light (AIR). This is saying thet EARTH is FIRE that has been reduced by a product of AIR, hence, the yin property of this line. So EARTH is FIRE, but in a different form or context, but FIRE needs EARTH to sustain itself, whether it wood for the campfire or hydrogen atoms for the sun and stars. This is why   Any fair that As EARTH can not be ubiquitous like AIR, FIRE can only exist in specific areas where EARTH exists (stars). 
 - *Contribution*: (yang) It is the interaction of FIRE and EARTH that form planets and galaxies, create the engines of light and heat, and balances the opposing energy of creation.
 
 ### EARTH & WATER 
-![](../Images/trigram-b02.png){width=30px}
+<img src="../Images/trigram-b02.png" style="width:30px"/>
 
-The quadrant of EARTH ![](../Images/trigram-b01.png){width=20px} is one of *ascending contraction* where the polar state of EARTH begins to ascend to the most balanced state of WATER between the two poles via *consumption and restriction*. WATER symbolizes not only water, but the primal void, or the *heavenly waters* as it is also referred to in religious texts, but which we refer to as the nothingness that somethingness appeared in.
+The quadrant of EARTH <img src="../Images/trigram-b00.png" style="width:20px"/> and WATER <img src="../Images/trigram-b01.png" style="width:20px"/> is one of *ascending contraction* where the polar state of EARTH begins to ascend to the most balanced state of WATER between the two poles via *consumption and restriction*. WATER symbolizes not only water, but the primal void, or the *heavenly waters* as it is also referred to in religious texts, but which we refer to as the nothingness that somethingness appeared in.
 
 - *Negotiation*: (yang) The balance of EARTH and WATER is a prerequisite for life.
 - *Definition*: (yin) It is also the closest instantiation of the structure of creations and existence, which is ironic as WATER also symbolizes the primal void, or the *heavenly waters*, as it is also referred to in religious texts, but which we refer to as the nothingness that somethingness appeared in. In both cases WATER is yin. WATER is further yin in that it is constrained by EARTH. Water moves downward and is only stopped by earth. It is the earth that defines how water forms and where it goes.
 - *Contribution*: (yin) WATER is the blood of life, and metaphorically speaking, it is the glue that holds existence together just as every thing that exists can only do so due to the presence of nothingness, for nothingness is what separates one thing from another and allows the One to become Many. 
 
 ### WATER & AIR 
-![](../Images/trigram-b03.png){width=30px}
+<img src="../Images/trigram-b03.png" style="width:30px"/>
 
-The quadrant of WATER ![](../Images/trigram-b07.png){width=20px}is one of *ascending expansion* where the final balanced state of WATER ascends and expands into initial polar state of AIR  via *consumption and restriction*.
+The quadrant of WATER <img src="../Images/trigram-b01.png" style="width:20px"/> and AIR <img src="../Images/trigram-b07.png" style="width:20px"/>is one of *ascending expansion* where the final balanced state of WATER ascends and expands into initial polar state of AIR  via *consumption and restriction*.
 
 - *Negotiation*: (yang) The balance of WATER and AIR marks the beginning of a new cycle of creation.
 - *Definition*: (yang) While it is the yin nature of water to be absorbed by air, it is the very yang nature of water to condense and fall from the sky. So we can say WATER is expanded by AIR, but here the expansion refers to the distribution of WATER, not the collecting of WATER done by AIR. More so, if WATER is an instance of the structure of creation as well as a metaphor for the womb of creation, if it is the blood of life, then rather then seeing AIR as something WATER uses to distribute itself, it is AIR that see WATER as something that needs distribution, making the absorption of WATER a yang quality of AIR rather than a yin quality of WATER.
@@ -3129,7 +3129,7 @@ This shows us that WATER, AIR, and EARTH are the three primary elements, but FIR
 
 For myself, The message here is quite clear… the part that is missing, or rather, the part that is represented by the center of the circle where all opposites meet, is defined by our ability to reason and perceive, i.e. our consciousness. It is our own awareness that is at the center of all opposites and create the pattern that brings them together. This is especially true for the original duality of opposites, that of the chaos of nothingness and the chaos of somethingness.
 
-![](../Images/tholonic-pakua-tri.png){width=100%}
+<img src="../Images/tholonic-pakua-tri.png" style="width:100%;">
 
 # The End
 
