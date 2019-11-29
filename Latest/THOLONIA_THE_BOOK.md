@@ -2847,11 +2847,11 @@ Not surprisingly then, when we bifurcate the original Tao 6 times, we end up wit
 
 How would the thologram describe these six stages then?  Although this bifurcation produces 64 states, it is more useful to think of two different sets of 32 states each, and each set created by only 3 stages of bifurcation, or only 3 levels deep. In this way we can construct 8 trigrams from one set and 8 from another set. The reason this is more useful is because we now have the concept of 32 pairs of hexagrams (or 4 pairs of trigrams), and we can consider this pair as the duality of an even broader concept
 
-For example, take the most basic hexagrams (using their binary values), 0 ![](ok/Images/hexagram20.png){width=30px}*Obstruction*, which states (and I&rsquo;m paraphrasing):
+For example, take the most basic hexagrams (using their binary values), 0 ![](../Images/hexagram20.png){width=30px} *Obstruction*, which states (and I&rsquo;m paraphrasing):
 
 > When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind. 
 
-… and it&rsquo;s opposite, 43 ![](ok/Images/hexagram43.png){width=30px}, *Opposition*, which states:
+… and it&rsquo;s opposite, 43 ![](../Images/hexagram43.png){width=30px}, *Opposition*, which states:
 
 > When opposites meet that must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being.
 
@@ -2987,7 +2987,7 @@ Here are some details worth noting:
 
 - The math pattern of the tholon also works is we replace multiplication with addition, for example, 14 + 21 = 35, or **H + S = P**
 
-- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  &ldquo;Peace&rdquo;, ![](ok/Images/hexagram11.png){width=30px}is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
+- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  &ldquo;Peace&rdquo;, ![](../Images/hexagram11.png){width=30px} is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
 
   We have a number of other patterns, for example (and for those who enjoy numbers, because it's even *more* tedious if you don't):
 
