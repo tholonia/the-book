@@ -1298,11 +1298,15 @@ We start with a 0-dimensional dot represented by a blue dot in the middle of not
 
 This next step requires some philosophical conjecture because we have to ask why/how does a 2<sup>nd</sup> (green), dot appear *(Fig. c2).*
 
-If we accept the premise that everything that is created has the attributes of, and limitations of, whatever created it, then, the answer is clear and simple. As this lone imaginary dot in the middle of infinite nothingness only exists as an awareness of the concept of a point in the middle of infinite nothingness, the only attribute this point *can* have is awareness, as that is what it was created from.
+If we accept the premise that everything that is created has the attributes of, and limitations of, whatever created it, then, the answer is clear and simple. As this lone imaginary dot in the middle of infinite nothingness only exists as an awareness of the concept of a point in the middle of infinite nothingness, the only attribute this point *can* have is awareness, as that is what it was created from.  And what was this awareness?  We can on only presume that it was the most fundamental form of awareness, that being the awareness of existing (which is not the same as the meta-awareness of being aware that one is aware).
 
-There is one more attribute it has as well that is far less obvious, and that is *intention*, because whatever awareness conceived of a point in nothingness had to have the intention to conceive of it. So, our point in the middle of infinite nothingness has two attributes; awareness and intention.
+There is one more attribute it has as well that is far less obvious, and that is *intention*, because whatever awareness conceived of a point in nothingness had to have the intention to conceive of it. So, our point in the middle of infinite nothingness has two attributes; awareness and intention. 
 
-We see this concept that all of creation is the result of *divine* awareness and intention in the spiritual texts of every major belief system (except Buddhism, which has no concept of a divine being). This may sound like we&rsquo;re teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
+We see this same concept, that all of creation is the result of *divine* awareness and intention, in the spiritual texts of every major belief system (except Buddhism, which has no concept of a divine being). 
+
+In fact, in Jewish, Christan and Islamic lore, when Moses asked God what his name was, God was quite specific about this and not told only told him his name was "I Am That I Am", but also informed Moses he was but a messenger of "I AM", a messenger of the the most fundamental form of awareness.  Interestingly, the verb "I AM" in biblical Hebrew can also mean "I Will", as these was no *past* or *future* tense in those days, only *finished* and *unfinished*, so the act of being *what is* and being *what one wills to be* are one in the same as far as past and future goes, but has two states, one that is finished, and one that is *unfinished*.
+
+This may sound like we&rsquo;re teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
 
 #### **Claim 45:** Pure energy is primal awareness and intention. Energy as we know it, &ldquo;the ability to perform work&rdquo;, is the balancing of the imbalance between states of that ever-bifurcating energy.
 
@@ -2476,7 +2480,7 @@ What was this study exactly?
 
 The results were impressive.
 
-<img src="../Images/103-tm-test.gif" style="width:100%;">
+<img src="../Images/103-tm-test.png" style="width:100%;">
 
 This is only one study, so it is not definitive, but it is certainly supportive of the idea that directed intention, what the participants called *coherence*, and what we are calling *order*, has an extended effect. The explanation, according to the tholonic model, is that the directed energy of coherent thought altered the curves of various archetypes thereby altering the probability of where the &ldquo;work&rdquo; will produce the most order, or where and how energy will be expressed across a scope&rsquo;s spectrum.
 
@@ -2847,11 +2851,11 @@ Not surprisingly then, when we bifurcate the original Tao 6 times, we end up wit
 
 How would the thologram describe these six stages then?  Although this bifurcation produces 64 states, it is more useful to think of two different sets of 32 states each, and each set created by only 3 stages of bifurcation, or only 3 levels deep. In this way we can construct 8 trigrams from one set and 8 from another set. The reason this is more useful is because we now have the concept of 32 pairs of hexagrams (or 4 pairs of trigrams), and we can consider this pair as the duality of an even broader concept
 
-For example, take the most basic hexagrams (using their binary values), 0 <img src="/home/jw/sites/the-book/Images/hexagram0.png" style="width:30px"/> and 64 <img src="/home/jw/sites/the-book/Images/hexagram63.png" style="width:30px"/>, the *Receptive* and the *Creative*. Between these two hexagrams all other hexagrams exist, so together they represent one state that includes the  broadest context that everything exists within. Another example is is hexagram 20 <img src="/home/jw/sites/the-book/Images/hexagram20.png" style="width:30px"/>*Obstruction*, which states (and I&rsquo;m paraphrasing):
+For example, take the most basic hexagrams (using their binary values, indicated by the preceding &lsquo;b&rsquo; in front of the number), b0 <img src="/home/jw/sites/the-book/Images/hexagramB00.png" style="width:30px"/> and b63 <img src="/home/jw/sites/the-book/Images/hexagramB63.png" style="width:30px"/>, the *Receptive* and the *Creative*. Between these two hexagrams all other hexagrams exist, so together they represent one state that includes the  broadest context that everything exists within. Another example is is hexagram b20 <img src="/home/jw/sites/the-book/Images/hexagramB20.png" style="width:30px"/>*Obstruction*, which states (and I&rsquo;m paraphrasing):
 
 > When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind. 
 
-… and it&rsquo;s opposite, 43 <img src="/home/jw/sites/the-book/Images/hexagram43.png" style="width:30px"/>, *Opposition*, which states:
+… and it&rsquo;s opposite, b43 <img src="/home/jw/sites/the-book/Images/hexagramB43.png" style="width:30px"/>, *Opposition*, which states:
 
 > When opposites meet that must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being.
 
@@ -2987,7 +2991,7 @@ Here are some details worth noting:
 
 - The math pattern of the tholon also works is we replace multiplication with addition, for example, 14 + 21 = 35, or **H + S = P**
 
-- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  &ldquo;Peace&rdquo;, <img src="/home/jw/sites/the-book/Images/hexagram11.png" style="width:30px"/>is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
+- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of b7,  &ldquo;Peace&rdquo;, <img src="/home/jw/sites/the-book/Images/hexagramB07.png" style="width:30px"/>is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
 
   We have a number of other patterns, for example (and for those who enjoy numbers, because it's even *more* tedious if you don't):
 
@@ -3106,7 +3110,7 @@ The quadrant of FIRE <img src="../Images/trigram-b05.png" style="width:20px"/> a
 - *Contribution*: (yang) It is the interaction of FIRE and EARTH that form planets and galaxies, create the engines of light and heat, and balances the opposing energy of creation.
 
 ### EARTH & WATER 
-<img src="../Images/trigram-b02.png" style="width:30px"/>
+<img src="../Images/trigram-b01.png" style="width:30px"/>
 
 The quadrant of EARTH <img src="../Images/trigram-b00.png" style="width:20px"/> and WATER <img src="../Images/trigram-b01.png" style="width:20px"/> is one of *ascending contraction* where the polar state of EARTH begins to ascend to the most balanced state of WATER between the two poles via *consumption and restriction*. WATER symbolizes not only water, but the primal void, or the *heavenly waters* as it is also referred to in religious texts, but which we refer to as the nothingness that somethingness appeared in.
 
@@ -3130,6 +3134,50 @@ This shows us that WATER, AIR, and EARTH are the three primary elements, but FIR
 For myself, The message here is quite clear… the part that is missing, or rather, the part that is represented by the center of the circle where all opposites meet, is defined by our ability to reason and perceive, i.e. our consciousness. It is our own awareness that is at the center of all opposites and create the pattern that brings them together. This is especially true for the original duality of opposites, that of the chaos of nothingness and the chaos of somethingness.
 
 <img src="../Images/tholonic-pakua-tri.png" style="width:100%;">
+
+### Mapping to Hexagrams 
+
+Various attempts were made to map all the hexagrams to the tholon/tetrahedral.  The difficulty was to find a mapping that not only fit, but that could be validated in some way.
+
+One of the indicators as to how this mapping might work appeared when looking at how the Pa Kua was mapped (*Fig. c1*).
+
+We have four quadrants that continually mirror each other.  This is more clearly demonstrated in the following image which uses the binary values of the transitional trigrams <img src="../Images/trigram-b03.png" style="width:30px"/> 011 (3) <img src="../Images/trigram-b06.png" style="width:30px"/> 110 (6) <img src="../Images/trigram-b04.png" style="width:30px"/> 100 (4) <img src="../Images/trigram-b01.png" style="width:30px"/> 001 (1) 
+
+<img src="../Images/mirror.png" style="width:100%" />
+
+This was only using the 8 trigrams of the Pa Kua.  It would get a bit more complicated with 64 hexagrams, but the basic idea is the same... 4 quadrants mirrored quadrants.   Here is what that looks like.  Note the blue-framed hexagrams are those that are a product of those trigrams that define the scope, the red-framed hexagrams are a product of the trigrams that define the movement with that scope, and the green-framed hexagrams are a product of the transitional trigrams. The large number are the binary value, and the small numbers are the traditional King Wen sequence.
+
+<img src="../Images/64hexagrams-4.png" style="width:100%" />
+
+
+Each quadrant contains 16 hexagrams, but if we were to map these to the four sides of a tetrahedron, we would need exactly 15 hexagrams for a side.  This is because the natural progression of tholonic trigrams is 1, 2, 3, 4, 5, and that equals 15.  The hexagram 0 and 63 could easily be placed outside the side of the tetrahedron as neither of them represents something that exists, as there must be interactions between the two states for energy to move, but they could represent the primary poles within which everything comes into being.  That still leaves 2 hexagrams to many.  Another problem was; with the hexagrams laid out, whatever hexagrams occupied the three corners, they had to equal 63 so as to be able to form the 4th white dot point.  It turned out that the solution to one problem automatically solved the other problem.
+
+<img src="../Images/tetrahex.png" style="width:100%" />
+
+At first glance this looked very promising, as the cardinal (blue-framed) hexagrams remained cardinal, the two children of b63 <img src="/home/jw/sites/the-book/Images/hexagramB63.png" style="width:30px"/> were naturally b7 <img src="/home/jw/sites/the-book/Images/hexagramB07.png" style="width:30px"/> and b56 <img src="/home/jw/sites/the-book/Images/hexagramB56.png" style="width:30px"/>, and they equaled a product of 63, 126, which is 63 &times; 2.
+
+However, several other validating patterns emerged that were was pretty astounding, at least to me.
+
+<img src="../Images/tetrahex-hex-triplet-3.png" style="width:100%" />
+
+Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216. 
+
+Here, the 0-dimensional N-points are represented by 63 and 0, alternating back and forth, exactly as the self-similar thologram's N-points.  The one thing that N-points and the hexagrams b63 <img src="/home/jw/sites/the-book/Images/hexagramB63.png" style="width:30px"/> and b0 <img src="/home/jw/sites/the-book/Images/hexagramB00.png" style="width:30px"/> have in common is that both only exist as concepts and only their 'offspring' can instantiate.
+
+An interesting observation is; as the top trigram of the 2D map is a smaller instance of the parent that created it, looking at the traditional definitions of the scope of that trigram, which are hexagrams b36 <img src="/home/jw/sites/the-book/Images/hexagramB36.png" style="width:30px"/> and b44 <img src="/home/jw/sites/the-book/Images/hexagramB44.png" style="width:30px"/>, might give us some insight as to the nature of that which created this reality.  What we see there is, in the green-dot of Limitation, b36, <img src="/home/jw/sites/the-book/Images/hexagramB36.png" style="width:30px"/> "Keeping Still", which states "The hexagram signifies the end and the beginning of all movement.", and in the red-dot of Contribution, b44, <img src="/home/jw/sites/the-book/Images/hexagramB44.png" style="width:30px"/> "The Wanderer", which states, "(if one) is obliging toward others, he wins success."  Make of that what you will.  
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # The End
 
