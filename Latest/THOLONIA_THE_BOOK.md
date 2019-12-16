@@ -1,27 +1,25 @@
 <img src="../Images/titlepage.png" style="width:100%;margin:auto">
 
-<!-- SKIP-tochere -->
+
 
 <div style="font-size: 2rem; text-align:center;">INTRODUCTION</div>
-The concept that this reality is an illusion, a matrix, a simulation, or a dream, is not a new one.  From the very earliest creation stories of "God created the heavens and the earth" or up to our modern versions of the"Simulation Hypothesis" the story of creation has been the same.  It goes something like this:  Once upon a time there was nothing, then within that nothingness, something appeared.  The details are left to be filled in by the imagination of scientists, mystics, and philosophers, and poets, all seeking insight into the meaning and purpose of life, as if how one lives their life depends on whether their purpose here is to find happiness, provide food for Archonic overlords, or no purpose at all, as this is all a dream within a dream.  This book does not attempt to answer any of these questions.  This does not mean that is doesn't answer some of those questions, but just like the questions, the answers can mean many things to many people.
+The concept that this reality is an illusion, a matrix, a simulation, or a dream, is not a new one.  From the very earliest creation stories of "God created the heavens and the earth" or up to our modern versions of the"Simulation Hypothesis" the story of creation has been the same.  It goes something like this:  Once upon a time there was nothing, then within that nothingness, something appeared.  The details are left to be filled in by the imagination of scientists, mystics, philosophers, and poets, all seeking insight into the meaning and purpose of life, as if how one lives their life depends on whether their purpose here is to find happiness, provide food for Archonic overlords, or no purpose at all, as this is all a dream within a dream.  This book does not attempt to answer any of these questions.  This does not mean that is doesn't answer some of those questions, but just like the questions, the answers can mean many things to many people.
 
 This book is meant to describe the blueprint of creation, similar to a blueprint to a house, which only speaks to how a house is built, not what happens inside the house, how it will be used, or who did the actual building.  For those who believe life is a journey towards enlightenment, this is the blueprint of that path.  For those who believe they are enslaved in a matrix, this is the blueprint of that prison.  For those who believe life is a dream, this is the blueprint of the mind of the dreamer.
 
-This book means to introduce the idea that the laws of existence, and everything in existence, from atoms to cultures to galaxies, follow the same laws and has the same structure as it applies to their context, at least conceptually.
+This book means to introduce the idea that the mechanics of existence and reality, from atoms to cultures to galaxies, follow the same laws and have the same structure as it applies to their context.
 
-That said, it is worth noting that I am not a trained writer, scientist, philosopher or engineer. In fact, I have little-to-no formal education past the fourth grade. This is partly due to the environment in which I was raised, and to a much greater degree by the fact that I was a child on the spectrum in the early 60s public education system in a small, poor, working-class New England mill town. Consequently, my thinking and reasoning skills might be unorthodox, to the point of being completely whack. I will leave that for the reader to decide.
+The arguments put forth seem pretty self-evident, at least to me. However, when I passed some of these ideas by an actual philosopher he was able to follow the arguments all the way back to the originating premise from which this book claims all structure stems, at which point he firmly rebuked the idea that life has any sort predetermined direction. His counter argument was simply that the only valid claims are those of subjective beliefs. 
 
-The arguments put forth seem pretty self-evident, at least to me. However, when I passed some of these ideas by an actual philosopher he was able to follow the arguments all the way back to the originating premise from which I claim all structure stems, at which point he firmly rebuked the idea that life has any sort preprogrammed purpose or meaning. His counter argument was simply that one can believe anything they want to believe when it comes to the origins and purpose of reality. 
-
-He is not alone. It seems that this is a belief that is shared by many nonsectarians, so much so that there are countless new-age belief systems, essentially religions for the secular, that are based on the premise that one&rsquo;s personal belief systems is the ultimate truth. Even science ultimately resorts to this same axiomatic truth, for in our current theories of creation, where we can rationally explain how the universe expanded and formed starting from the first nanosecond of creation, to go further back in time and ask &ldquo;How did this microdot of super-condensed matter appear in the void of nothingness in the first place?&rdquo; requires an act of faith that no reasoning can penetrate.
+He is not alone. It seems that this is a philosophy that is shared by many nonsectarians, so much so that there are countless new-age belief systems, essentially religions for the secular, that are based on the premise that one&rsquo;s personal belief systems is the ultimate truth. Even science ultimately resorts to this same axiomatic truth, for in our current theories of creation, where we can rationally explain how the universe expanded and formed starting from the first nanosecond of creation, to go further back in time and ask &ldquo;How did this microdot of super-condensed matter appear in the void of nothingness in the first place?&rdquo; requires an act of faith that no reasoning can penetrate.
 
 He and I could agree that neither of us had any claim on the ultimate truth of existence, and we could even agree that how we perceive and understand our reality is completely subjective, but we arrived at this same conclusion by very different paths. Where he claimed that reality can be anything we collectively agree upon, my claim was that this only applies to how we *interpret* reality, and that reality itself was quite objective and stable, even when we only experience a micro-sliver of what it has to offer. Furthermore, I argued that his reasoning was more than just slightly flawed, but ultimately fatal to its subscribers. 
 
-The symptoms of subscribing to a belief system that has no foundation in a transcendent reality is quite literally a form of madness. This book attempts to outline the actual foundation of the reality upon which all existence is based, from ideas to things, and to shed light on where the boundaries and structure of reality lie. Once they are recognized they can be seen in every level of structure, be it atoms, galaxies or society. This is the purported path of the hard sciences, but even there we see the symptoms of this madness perverting the obvious conclusions of facts, at best, and at worst, denying that inconvenient facts even exist. Ironically, following the paths laid out by this blueprint of reality leads to places that are far beyond anything one&rsquo;s subjective imagination can conjure up. I say &ldquo;ironic&rdquo; because subscribers to the &ldquo;reality is anything you decide it to be&rdquo; model are quite proud of their liberated, progressive and evolved thinking, when in fact, it is a prison when compared to the landscape and horizon of possibilities laid out here in a model called &ldquo;Tholonia&rdquo;. 
+The symptoms of subscribing to an unsustainable belief system that has no foundation in a transcendent reality is quite literally a form of self-annihilation, which is  form of extreme folly, or as it is also known; madness. Of course, only history can judge what perspectives are sustainable, but it would be a tremendous advantage to have a general sense of where the boundaries lie.  This book attempts to outline the actual foundation of the reality upon which all existence is based, from ideas to things, and to shed light on these boundaries. Once they are recognized they can be seen in every level of structure, be it atoms, galaxies or society. This is the purported path of the hard sciences, but even there we see the symptoms of this madness perverting the obvious direction of evidence, at best, and at worst, denying the existence of inconvenient evidence. Ironically, following the paths laid out by this blueprint of reality leads to places that stretch one&rsquo;s subjective imagination. I say &ldquo;ironic&rdquo; because subscribers to the &ldquo;reality is anything you decide it to be&rdquo; model are quite proud of their liberated, progressive and evolved thinking, when in fact, this perspective alone will more often than not without any knowledge of the framework that defines existence laid out here in a model called &ldquo;Tholonia.&rdquo;
 
 In this writing I try to avoid social and cultural contexts as much as possible, and where they do exist, I try to keep them to a minimum. This book attempts to transcend these more worldly and exoteric contexts. However, the conclusions put forth here apply to society and culture, as well as science, politics, economics, self-realization, and life itself.
 
-Keep in mind that these conclusions are my own, drawn from connecting the dots laid out in the following pages. It is not my intention to promote my own conclusions, but rather, use them as an example of how one person has connected these dots. It is the *dots* that are important here, not the picture one can make from them. You may connect these dots differently, or, you may not see anything worth connecting at all;  just a bunch of random concepts that have no relationship to one another, in which case, this will be a very boring book. 
+Keep in mind that these conclusions are my own, drawn from connecting the dots laid out in the following pages. It is not my intention to promote my own conclusions, but rather, use them as an example of how one person has connected these dots. It is the *dots* that give clues to the objective structure of reality.  How we connect them certainly is a subjective experience.  You may connect these dots differently, or, you may not see anything worth connecting at all;  just a bunch of random concepts that have no relationship to one another, in which case, this will be a very boring book. 
 
 The reason this book is open-sourced is to allow other&rsquo;s insights to be integrated onto this skeleton in the hope that a clearer picture of the mechanics of existential awareness will continually evolve and emerge.
 
@@ -167,6 +165,10 @@ Another universal law might be simple fractal math formulas, like *f(x)= x<sup>2
 <img src="../Images/004-fractalprocesstri.png" style="width:100%;margin:auto;" />
 
 <img src="../Images/005-fracgened.png" style="width:100%;margin:auto;" />
+
+Perhaps the best visual example of the results of a universal law, perhaps the first universal law, is the distribution of energy across the known universe.  This is known as *cosmic microwave background* radiation.  This is a form of energy that fills the universe and it considered the smoking-gun evidence of the Big Bang[^174].  This chart below shows the temperature of the universe, in Kelvin, which happens to cover the range of cold (-3364 &micro;K) to hot (3364 &micro;K). Typically, this chart is shown more oval in shape, but it does not have to be.  Look familiar?
+
+<img src="../Images/CMB.png" style="width:80%" />
 
 Even though there are many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
@@ -324,11 +326,11 @@ There&rsquo;s one more comparison to look at as well. Did you notice how the for
 
 -   **Power** (*P*) is analogous to **energy** (*E*)
 -   **Resistance** (*R*) analogous to **mass** (*m*)
--   **Current** (*I*) analogous to the **speed of light** (*c*)
+-   **Current** (*I*) analogous to the **speed of light** squared (*c*^2^)
 
 <img src="../Images/013-emc2.png" style="width:100%;" />
 
-In fact, not only is *E=mc<sup>2</sup>* the exact same formula as *P=RI<sup>2</sup>*, but all twelve formulas work for *E=mc<sup>2</sup>*&rdquo; with a minor adjustment: in the Newtonian world of electricity and matter, all the variables can change in value, while in the world of relativity, *c* must always remain constant.
+In fact, not only is *E=mc<sup>2</sup>* the exact same formula as *P=RI<sup>2</sup>*, but all twelve formulas work for *E=mc<sup>2</sup>*&hellip; with a minor adjustment: in the Newtonian world of electricity and matter, all the variables can change in value, while in the world of relativity, *c* must always remain constant.
 
 <img src="../Images/014-fuse.png" style="width:20%;margin:auto;" />
 
@@ -342,25 +344,23 @@ We can calculate for these missing zvolts by applying the simple formula:
 
 *Voltage (V) = Current (I) &times; Resistance (R)*
 
-which equates to *zvolts (z) = Speed of Light (c) &times; Mass (m)*
+which equates to *zvolts (z) = Speed of Light (c^2^) &times; Mass (m)*.  
 
-This then becomes (using the ISU standard[^10] units of measure) *zvolts = 300,000,000 km/sec &times; 1 kg*, which makes zvolts = 300,000,000 
+This then becomes (using the ISU standard[^10] units of measure) *zvolts = 30,000,000 m/s &times; 1 g*, (or *8.98&times;10^16^ m^2^/s^2^*) which makes zvolts = 300,000,000. 
 
 So zvolts is the same value as *c*? Yes, but only when the *mass=1*. If we use a different mass, like 2, zvolts becomes *c&times;2.*
 
-*zvolts = 300,000,000 km/sec &times; 2 kg*, which makes zvolts = 600,000,000
+*zvolts = 300,000,000 m/s &times; 2 g*, which makes zvolts = 600,000,000, and if mass=0, then zvolts = 0.  
 
-But what *is* this number? It can&rsquo;t be speed, because nothing can exceed the speed of light. It can&rsquo;t be weight, because we are already using weight in the equation. Even more odd is that the number is always proportional to mass because *c* is always the same, so whatever zvolts are, they are essentially the same value as the weight of the mass, but 300,000,000 times larger, but the zvolt is the result of speed, time and mass, so it is like a unit of *kilograms per kilometers per second*, kg/km/sec.
+But what *is* this number? It can&rsquo;t be speed, because nothing can exceed the speed of light. It can&rsquo;t be weight, because we are already using weight in the equation. Even more odd is that the number is always proportional to mass because *c* is always the same, so whatever *zvolts* are, they are essentially the same value as the weight of the mass, but 300,000,000 times larger, but the *zvolt* is the result of speed, time and mass, so it is like a unit of *mass per distance per second*, kg/km/sec.  This also happens to be the parameters that define the unit of measure called a Newton, which is a measure of *force*.  One Newton is defined as *the force needed to accelerate one kilogram of mass at the rate of one meter per second squared in the direction of the applied force.*  Newtons only apply to mass, so this is how we measure things like Angular momentum, the force of the planets in orbit, and also how we measure the spin of elementary particles.  
 
-There&rsquo;s one more detail about voltage that might be relevant here, and that is: the greater the voltage, the greater the electric field. Can we then say &ldquo;the greater the zvolts the greater the energy field&rdquo;?
+However, applying *E=mc^2^* to massless photons where *m*=0 we get a value of *E*=0. Does this mean that things that have no mass have no energy?  Actually, yes&hellip; but we know this is not true, as in the case of light itself, photons, which has a lot of energy but no mass.  This is because *E=mc^2^* is only true for particles at rest, and photons, or any form of energy that has no mass, can never be at rest&hellip; they are *restless*, and while the massless particle itself has no inherent energy, it does have the energy of its movement (speed, frequency, amplitude, etc.). Were it to stop moving, it would exist only as a concept. So, in the case of massless energy, zvolts would always equal zero.  In the case of mass, however, is has a value that seems to be related to *force*.
 
-So, zvolts represent the difference between the two poles of - what? a *Reality Field*, as defined by Relativity? The value of zvolts are always proportional (by *c*) to the value of mass, and they determine the size of the energy field. As everything that exists can be described using *E=mc<sup>2</sup>,* this would imply that everything that exists has a zvolt field, and as zvolts measure the greatest difference between two opposing potentials, are zvolts one measure of the duality a thing exists within?
+There&rsquo;s one more detail about voltage that might be relevant here, and that is: the greater the voltage, the greater the electric field. Can we then say &ldquo;the greater the zvolts the greater the energy field&rdquo;?  If so, and given that *zvolts* only exist where there is mass, can we say *zvolts* is some measure of a *reality field*, given that *zvolts* measure the greatest difference between two opposing potentials between which mass can exist?
 
-We can now rewrite our original Ohm&rsquo;s law of *electric current is proportional to voltage and inversely proportional to resistance* to be: *zvolts are proportional to the speed of light (c) inversely proportional to mass*. 
+We can now rewrite our original Ohm&rsquo;s law of *electric current is proportional to voltage and inversely proportional to resistance* to be: *zvolts are proportional to the speed of light (c) inversely proportional to mass*. We know that as mass approaches the speed of light its mass increases, which means *zvolts* increase, and the formula *m=z<sup>2</sup>/E* would then describe how mass can increase while *c* remains constant.
 
-We know that as mass approaches the speed of light its mass increases, however zvolts do increase, and the formula *m=z<sup>2</sup>/E* would then describe how mass can increase while *c* remains constant.
-
-It&rsquo;s all quite fertile ground for speculation, at least to someone like myself who is too uneducated to know the thousands of reasons why such speculation is pointless.
+Of course, I am swimming in waters far deeper than my ability, but it&rsquo;s all quite fertile ground for speculation, at least to someone like myself who is too uneducated to know the thousands of reasons why such speculation is pointless.
 
 Getting back to these twelve formulas&hellip; we think about voltage, resistance, and current (or energy and mass) as separate things, similar to how we think about time and space as two different things. However, space and time are two parts of one larger thing called *space-time*. Likewise, voltage, current, and resistance are three aspects of one instance of energy, electricity. Frequency, wavelength, and velocity are three aspects of another instance, such as radiation. All areas where this law applies are themselves different aspects, or parts, of an even larger expression of energy.
 
@@ -1017,6 +1017,8 @@ The classic explanation of a dimension goes something like *&ldquo;If something 
 
 This is true when, and only when, the position of the measurer and the thing being measured share the same context, as the value of 6 is only relative to that context. If we wanted to give the absolute position of the dot, we would need to include the coordinates of where in the universe that dot exists, which would require the coordinates of who-knows-how-many larger contexts it was in when it was measured; where on the planet, in the solar system, in the galaxy, in the multiverse, and all of those with the dimension of time, as they are all moving, and even then it would only be relative to the Universe as we know it. So, even a simple 1-dimensional dot can have a lot of dimensions when measured in absolutes.
 
+*Sidenote: Consider that in every second of your life you travel around 627 km/s across every dimension in many scopes, if you account for the movement of the earth, sun, Milky Way, Andromeda, etc, and even then, our entire universe may just be one in a vast sea of Universes.*  
+
 With that in mind, and limiting ourselves to our 3D reality (we&rsquo;ll come back to the multidimensional stuff very soon), what can we say about *things* that are universally common among all of them? Well, we can say at least the following:
 
 -   All things have (at least) 3 dimensions.
@@ -1304,9 +1306,11 @@ If we accept the premise that everything that is created has the attributes of, 
 
 There is one more attribute it has as well that is far less obvious, and that is *intention*, because whatever awareness conceived of a point in nothingness had to have the intention to conceive of it. So, our point in the middle of infinite nothingness has two attributes; awareness and intention. 
 
-We see this same concept, that all of creation is the result of *divine* awareness and intention, in the spiritual texts of every major belief system (except Buddhism, which has no concept of a divine being). 
+We see this same concept, that all of creation is the result of *divine* awareness and intention, in the spiritual texts of every major belief system (except Buddhism, which has no concept of a divine being).
 
-In fact, in Jewish, Christan and Islamic lore, when Moses asked God what his name was, God was quite specific about this and not told only told him his name was "I Am That I Am", but also informed Moses he was but a messenger of "I AM", a messenger of the the most fundamental form of awareness.  Interestingly, the verb "I AM" in biblical Hebrew can also mean "I Will", as these was no *past* or *future* tense in those days, only *finished* and *unfinished*, so the act of being *what is* and being *what one wills to be* are one in the same as far as past and future goes, but has two states, one that is finished, and one that is *unfinished*.
+In fact, in Jewish, Christan and Islamic lore, when Moses asked God what his name was, God was quite specific about this and not told only told him his name was "I Am That I Am", but also informed Moses he was but a messenger of "I AM", a messenger of the the most fundamental form of awareness.  Interestingly, the verb "I AM" in biblical Hebrew can also mean "I Will", as there was no *past* or *future* tense in those days, only *finished* and *unfinished* tense, so the act of being *what is* and being *what one wills to be* are one in the same as far as past and future goes, but has two states, one that is *finished*, and one that is *unfinished*.
+
+We also see this in physics. Take the example of energy, mass and light, as we briefly addressed earlier.  Light has no mass, and without movement, it also has no energy and only exists as the concept of a 0-dimensionless point.  Without movement there would be nothing to measure nor would it interact with anything. This conceptual point, a result of *awareness*, only has properties when it moves (speed, frequency, amplitude), and this movement is an expression of *intention*, making light the purest expression of the awareness and intention that created, and creates, reality.
 
 This may sound like we&rsquo;re teetering on the edge of mysticism, but this is not our goal. We simply are following the most reasonable path that our ability to understand our reality allows. The fact that it shows that all of existence is a form of awareness that is ever becoming aware of itself is not mysticism, it is reality. Science is slowly beginning to consider that there might be a relationship between awareness and reality, but at some point, it will be common knowledge that awareness is not only the fabric of reality, but it is also the energy that drives all of creation and the most powerful energy in existence.
 
@@ -1341,6 +1345,8 @@ The RGB dot <img src="../Images/052-rgbdot.png" style="width:0.23in" /> or White
 We now have a tetrahedron.
 
 We can easily demonstrate this by simply folding the three outer trigrams up until their three points meet. The folding occurs naturally because it represents the most balanced and efficient interaction between a set of four unique dots (R, G, B, W), and as energy will always travel the path of least resistance, folding would naturally occur.
+
+*Note: This same concept is also explain is a mathematical manner in the chapter "How Creation Works" in Appendix C, "Tholonia and the I-Ching."*
 
 ## Holons to Tholons
 
@@ -2812,6 +2818,10 @@ The most obvious and important foundation of the I-Ching is that it is based on 
 
 <img src="../Images/ic_yinyang.png" style="width:20%;margin:auto;" />
 
+We have seen this pattern before, perhaps as an archetype of one of the most fundamental expressions of energy in our universe:
+
+<img src="../Images/CMB-only.png" style="width:20%;margin:auto;" />
+
 This Taoist symbol does not represent the Oneness from which the first duality emerged, as it is often believed. Rather it represents the Oneness that emerges from an existing duality, in other words, an *N-state*.  The original Oneness, for which there is no image, is the source from which the initial 0-dimensional &ldquo;blue dot&rdquo; appears in nothingness, and as this dot  did not come from a duality (that we can see) there is nothing we can say about it for now other than &ldquo;it just is.&rdquo;  So, this image represents the Oneness that comes from the first duality of somethingness of the concept of a dot and nothingness. In the thologram, that first duality is the &ldquo;green dot&rdquo; and the &ldquo;red dot&rdquo;, and if you remember, it is only along the spectrum that is defined by, and connects, these two dots where a new N-state can emerge from.
 
 From the tholonic perspective, that which created the first duality is different from that which creates all the other dualities, but the process is the same. If we reuse a earlier diagram of the tholonic trigrams but replace the initial, and only the initial N-source with a Zen circle (because I have no ideas what *should* go there, just that is should not be the Taijitu), we have the following:
@@ -2853,11 +2863,11 @@ Not surprisingly then, when we bifurcate the original Tao 6 times, we end up wit
 
 How would the thologram describe these six stages then?  Although this bifurcation produces 64 states, it is more useful to think of two different sets of 32 states each, and each set created by only 3 stages of bifurcation, or only 3 levels deep. In this way we can construct 8 trigrams from one set and 8 from another set. The reason this is more useful is because we now have the concept of 32 pairs of hexagrams (or 4 pairs of trigrams), and we can consider this pair as the duality of an even broader concept
 
-For example, take the most basic hexagrams (using their binary values, indicated by the preceding &lsquo;b&rsquo; in front of the number), b0 <img src="/home/jw/sites/the-book/Images/hexagramB00.png" style="width:30px"/> and b63 <img src="/home/jw/sites/the-book/Images/hexagramB63.png" style="width:30px"/>, the *Receptive* and the *Creative*. Between these two hexagrams all other hexagrams exist, so together they represent one state that includes the  broadest context that everything exists within. Another example is is hexagram b20 <img src="/home/jw/sites/the-book/Images/hexagramB20.png" style="width:30px"/>*Obstruction*, which states (and I&rsquo;m paraphrasing):
+For example, take the most basic hexagrams (using their binary values, indicated by the preceding &lsquo;b&rsquo; in front of the number), b0 <img src="/home/jw/sites/the-book/Images/bc/hexagramB00.png" style="width:30px"/> and b63 <img src="/home/jw/sites/the-book/Images/bc/hexagramB63.png" style="width:30px"/>, the *Receptive* and the *Creative*. Between these two hexagrams all other hexagrams exist, so together they represent one state that includes the  broadest context that everything exists within. Another example is is hexagram b20 <img src="/home/jw/sites/the-book/Images/bc/hexagramB20.png" style="width:30px"/>*Obstruction*, which states (and I&rsquo;m paraphrasing):
 
 > When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind. 
 
-… and it&rsquo;s opposite, b43 <img src="/home/jw/sites/the-book/Images/hexagramB43.png" style="width:30px"/>, *Opposition*, which states:
+… and it&rsquo;s opposite, b43 <img src="/home/jw/sites/the-book/Images/bc/hexagramB43.png" style="width:30px"/>, *Opposition*, which states:
 
 > When opposites meet that must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being.
 
@@ -2964,7 +2974,7 @@ Equating the *upper trigram* to the three attributes of N, D, C
 | Definition       | <img src="../Images/dot-green.png" style="width:30px"/> |**Line 5:** fruitfulness, pollination, culmination           |
 | Contribution     | <img src="../Images/dot-red.png" style="width:30px"/>   |**Line 6:** dispersion, integration, amalgamation, seeding   |
 
-Depending on the context (*upper* or *lower*), N, D, and C have slightly different expressions.  In the most general sense, N, D, and C represent beginning/middle/end, birth/life/death, build/use/discard,plant/grow/reap, chaos-to-order/structure/order-to-chaos, idea/implementation/etc.
+Depending on the context (*upper* or *lower*), N, D, and C have slightly different expressions.  In the most general sense, N, D, and C represent **beginning**/MIDDLE/*end*, **birth**/LIFE/*death*, **build**/USE/*discard*,**plant**/GROW/*reap*, **chaos-to-order**/STRUCTURE/*order-to-chaos*, **idea**/IMPLEMENTAT/*integration*, etc.
 
 Let&rsquo;s run another test so see if the thologram and the I-Ching are two views of the same model.
 
@@ -2995,7 +3005,7 @@ Here are some details worth noting:
 
 - The math pattern of the tholon also works is we replace multiplication with addition, for example, 14 + 21 = 35, or **H + S = P**
 
-- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of b7,  &ldquo;Peace&rdquo;, <img src="/home/jw/sites/the-book/Images/hexagramB07.png" style="width:30px"/>is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
+- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of b7,  &ldquo;Peace&rdquo;, <img src="/home/jw/sites/the-book/Images/bc/hexagramB07.png" style="width:30px"/>is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
 
   We have a number of other patterns, for example (and for those who enjoy numbers, because it's even *more* tedious if you don't):
 
@@ -3057,11 +3067,11 @@ There are many, many relationships, patterns, values and functions in this simpl
 
 If we rebuild the I-Ching from the ground up using our tholonic model (while trying to preserve its character) we get something like the following:
 
-*Note: As mentioned numerous times before, the interpretations, values and relationships shown here are not intended to be conclusive. While I tried to make them as meaningful as possible, they are more used as examples. There are many ways patterns and relationships can be formed and I am sure a better version than the one presented here can be made. If you, the reader, disagrees with some of the conclusions here then that is your invitation to improve upon it. That is why this book is open-sourced.*
+*Note: As mentioned numerous times before, the interpretations, values and relationships shown here are not intended to be conclusive. While I tried to make them as meaningful as possible, they are more used as examples. There are many ways patterns and relationships can be formed and I am sure a better version than the one presented here can be made. If you, the reader, disagree with some of the conclusions here then that is your invitation to improve upon it. That is why this book is open-sourced.*
 
 <img src="../Images/tholonic-pakua.png" style="width:100%;" />
 
-Here is the explanation of *Fig c1*… but first, a clarification.  In this chart we have three divisions per quadrant representing the three stages of tholonic movement; *Negotiation*, *Definition*, and *Contribution*.  However, it is more accurate to say there are three *phases* or cycles of movement, similar to how three phase electricity work.  All three phases are present all the time at every point, just at different points in the cycle, and presumably in the order of the image below. There are also two different structures in the model - the one formed by the trigrams and lines, which include the arrows, and the one that determined how energy moves through that structures, which is determined by the tholonic model of *Negotiation*, *Definition*, and *Contribution* sequence of creation.
+Here is the explanation of *Fig c1*… but first, a clarification.  In this chart we have three divisions per quadrant representing the three stages of tholonic movement; *Negotiation*, *Definition*, and *Contribution*.  However, it is more accurate to say there are three *phases* or cycles of movement, similar to how three phase electricity work.  All three phases are present all the time at every point, just at different points in the cycle, and presumably in the order of the image below. There are also two different structures in the model - the one formed by the trigrams and lines, and the one that determines how energy moves through that structures, which is described by the tholonic model of *Negotiation*, *Definition*, and *Contribution* sequence of creation.
 
 <img src="../Images/three_phase_waveform.png" style="width:80%" />
 
@@ -3071,7 +3081,7 @@ Here is the explanation of *Fig c1*… but first, a clarification.  In this char
 
 The tholonic model posits that in any sustainable model there are static properties that represent stable patterns, and dynamic properties that represent the interactions between those stable patterns. In *Fig. c1* we have arranged the 8 trigrams of the *Pa Kua* by the natural (binary) order. In doing so we end up with a pattern where all opposing numbers always equal 7, the maximum number that can be represented in binary using three places. Symmetry is preferred to asymmetry as a starting point, for where there is more order there is more movement of energy. The four cardinal points are represented by the most extreme trigrams (7, 0) for the &ldquo;north&rdquo; and the &ldquo;south&rdquo;, and the most balanced trigrams (5, 2) for the &ldquo;east&rdquo; and &ldquo;west&rdquo; points. This naturally follows the same order we use for the earth and all planets, so we have some self-similarity as well. The other 4 trigrams are the most imbalanced and are therefore more dynamic. As each trigram is made of three states (*Negotiation*, *Definition*, *Contribution*) that in the material 3D world manifest sequentially, they are represented as the stages that relate the static archetypes together.
 
-The first thing we see is how the lines in the north are a reverse image of the lines in the south, like a photo negative and a photo print, and the lines in the east are a mirror of the lines in the west. We now have four quadrants, each with three stages which are defined by the intermediary trigram. We also see how every positive line is matched with its opposite negative line. Although we are looking at 8 trigrams, tholonically this is 4 *meta-*trigrams, each having a duality. This 4 trigrams also have a duality, and up it goes until there is no more duality (see diagram below).
+The first thing we see is how the lines in the east are a mirror of the lines in the west.  This is also true for the lines in the north and the south, but in addition, they are also reversed, like a photo negative and a photo print and the . We now have four quadrants, each with three stages which are defined by the intermediary trigram. We also see how every positive line is matched with its opposite negative line. Although we are looking at 8 trigrams, tholonically this is 4 pairs of trigrams, or 4 *meta-*trigrams, each having a duality. These 4 trigrams are also made of 2 pairs of meta-trigrams, and up it goes until there is no more duality.
 
 Sometimes the words &ldquo;positive&rdquo; and &ldquo;negative&rdquo;, or the symbols &ldquo;+&rdquo; and &ldquo;-&rdquo;, are used to represent yang and yin. Here are some examples of yin and yang qualities that will help you get a feel for what they mean if you are not already familiar with them:
 
@@ -3126,90 +3136,94 @@ This may look like mental gymnastics, but the point is to show how these values 
 
 
 
-### Release (AIR & FIRE ) <img src="../Images/trigram-b06.png" style="width:30px"/> ^5^
+### Release (AIR & FIRE ) <img src="../Images/bc/trigram-b06.png" style="width:30px"/> ^5^
 
-*Release* represent accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. An instance of this is **lightening**, or the **Big Bang**.
+*Release* represent accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. Instance of this are **lightening**, **Big Bang**, **inspiration**.
 
-The trigram shows the symbol of yin energy entering the yang. The new yin line comes in at the lowest place of 1, but being yin it is -1, resulting in a new trigram of 6 when added to the trigram of AIR (7).
+The trigram shows the symbol of yin energy re-entering the solid yang. The new yin line comes in at the lowest place of 1, beginning, birth, plant, idea.  The yang is still dominant as the middle line is still yang, so the transition is yang in nature.
 
-The quadrant of AIR <img src="../Images/trigram-b07.png" style="width:20px"/> and FIRE <img src="../Images/trigram-b05.png" style="width:20px"/>is one of *outward descending*. Here, the yang pole of the limits of sustainability has been reached, so there will be a natural movement in the opposite direction.  When this extreme yang mixes with the yin there is a powerful releases of yang energy, and the result is FIRE.  The process of *release* is defined by the three states of trigram 6.  This is the quadrant is *outward* because the process of creation is that of energy (yang) taking form (yin), and form exists in the outer world.  *Descending* because the yang expands, and by doing do also dissipates itself.
+The quadrant of AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/> and FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/>is one of *outward descending*. Here, the yang pole of the limits of sustainability has been reached, so there will be a natural movement in the opposite direction.  When this extreme yang mixes with the yin there is a powerful release of yang energy, and the result is FIRE.  The process of *release* is defined by the three states of trigram 6.  This quadrant is *outward* because the process of creation is that of energy (yang) taking form (yin), and form exists in the outer world.  *Descending* because the yang expands, and by doing so also dissipates itself.
 
-- *Negotiation*: (yin) When the yang energy becomes complete, not only does it have nowhere left to go, but its existence depends on the yin at this point.  Here, the yang is subservient to the yin.
-- *Definition*: (yang) When yang meets yin it wants to release all of its energy and pushed against the limitations of the yin.
-- *Contribution*: (yang) The yang finds expression in FIRE, even if at the cost of the yin.  
+1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> When the yang energy becomes complete, not only does it have nowhere left to go, but its existence depends on the yin at this point.  Here, the yang is subservient to the yin.
+2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> When yang meets yin it wants to release all of its energy and pushed against the limitations of the yin.
+3. *Contribution*: <img src="../Images/bc/yang.png" style="width:30px"/> The yang finds expression in FIRE, even if at the cost of the yin.  
 
-### Emptying (FIRE & EARTH) <img src="../Images/trigram-b04.png" style="width:30px"/> ^4^
+### Emptying (FIRE & EARTH) <img src="../Images/bc/trigram-b04.png" style="width:30px"/> ^4^
 
 
 
-*Emptying* represent the dissipation and movement of energy via matter. It is the source of order out of chaos. An instance of this is **music**, or the **creation of the elements**.
+*Emptying* represents the dissipation and movement of energy via matter. It is the source of order out of chaos. Instances of this are **music**, **creation of the elements**, **heat**.
 
-The trigram shows the first two lines as yin, so it has a value of -3, which when added to  the trigram of FIRE (5) equals 2 (WATER), it's opposite.  Why not 0?  Because no two trigrams can ever equal 7 or 0 other that 7 and 0.
+The trigram shows the yin energy overtaking the center, making this trigram yin in nature. 
 
-The quadrant of FIRE <img src="../Images/trigram-b05.png" style="width:20px"/> and EARTH <img src="../Images/trigram-b00.png" style="width:20px"/> is one of *inward descending* where the energy of FIRE quickly dies. This is *inward* because it is FIRE transitioning to EARTH, and *descending* because the energy of creations is waning but in the process, matter is restructured (or born). This is the process that transforms energy to mass (*m=E/c^2^*).
+The quadrant of FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/> and EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"/> is one of *inward descending* where the energy of FIRE quickly dies. This is *inward* because it is FIRE transitioning to EARTH, and *descending* because the energy of creation is waning but in the process, matter is restructured (or born). This is the process that transforms energy to mass (*m=E/c^2^*).
 
-- *Negotiation*: (yin) In the dynamic between FIRE and EARTH, FIRE is always dependent on EARTH.
-- *Definition*: (yin) FIRE can only find expression in EARTH, just like energy can only be experienced via matter. Therefore, the limitations on the expression of FIRE are determined by the yin quality of EARTH.
-- *Contribution*: (yang) The restructuring of EARTH by FIRE is what brings all everything into existence.
+1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> In the dynamic between FIRE and EARTH, FIRE is always dependent on EARTH.
+2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> FIRE can only find expression in EARTH, just like energy can only be experienced via matter. Therefore, the limitations on the expression of FIRE are determined by the yin quality of EARTH.
+3. *Contribution*: <img src="../Images/bc/yang.png" style="width:30px"/> The restructuring of EARTH by FIRE is what brings everything into existence.
 
-### Filling (EARTH & WATER ) <img src="../Images/trigram-b01.png" style="width:30px"/> ^1^
+### Filling (EARTH & WATER ) <img src="../Images/bc/trigram-b01.png" style="width:30px"/> ^1^
 
-*Filling* represents form coming to life.  An instance of this is the **gestation**, or the **expansion of the Universe**.
+*Filling* represents form coming to life.  Instance of this are **gestation**, **dark matter (expansion of the Universe)**, **artificial intelligence**.
 
-The quadrant of EARTH <img src="../Images/trigram-b00.png" style="width:20px"/> and WATER <img src="../Images/trigram-b01.png" style="width:20px"/> is one of *inwards ascension* where the empty yin state of EARTH begins to return to life with energy.   *Inward* because the yang enters from the lowest place. *Ascending* because the yang continues to rise.
+This trigram shows the return of the yang energy in the bottom place, but as the center is still yin, it is in the domain of yin.
 
-- *Negotiation*: (yang) The lack of yang is what draws the yang to penetrate the EARTH
-- *Definition*: (yin) The yang must fill the empty yin vessel of EARTH before it can express itself.
-- *Contribution*: (yin) The omnipresence of yang is the universal reservoir that can be tapped into from anywhere, not unlike the ideas of the earth as the electrical ground for all electronics.
+The quadrant of EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"/> and WATER <img src="../Images/bc/trigram-b01.png" style="width:20px"/> is one of *inwards ascension* where the empty yin state of EARTH begins to return to life with energy.   *Inward* because the yang enters from the lowest place. *Ascending* because the yang continues to rise.
 
-### Collecting (WATER & AIR) <img src="../Images/trigram-b03.png" style="width:30px"/> ^3^
+1. *Negotiation*: <img src="../Images/bc/yang.png" style="width:30px"/> The lack of yang is what draws the yang to penetrate the EARTH
+2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> The yang must fill the empty yin vessel of EARTH before it can express itself.
+3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> The omnipresence of yang is the universal reservoir that can be tapped into from anywhere, not unlike the idea of the earth as the electrical ground for all electronics.
 
-*Collecting* represents the higher orders of structure that extend ever outward. An instance of this is the **Internet**, or the **space born virii**.
+### Collecting (WATER & AIR) <img src="../Images/bc/trigram-b03.png" style="width:30px"/> ^3^
 
-The quadrant of WATER <img src="../Images/trigram-b01.png" style="width:20px"/> and AIR <img src="../Images/trigram-b07.png" style="width:20px"/>is one of *outward ascending* where the balanced state of WATER ascends and expands into polar state of AIR.
+*Collecting* represents the higher orders of structure that extend ever outward. Instances of this are the **Internet**, **space-born viruses**, **Mongol Empire** .
 
-- *Negotiation*: (yang) The yang becomes dominant here, and the remaining yin is outnumbered. This is the time when the yang begins to reign.
-- *Definition*: (yang) The yang is no longer constrained by the limitation of the EARTH and is free to expand into what seems like limitless AIR.  This is the culmination of expression, and whatever the ultimate expression of an instance is, according to the nature of the instance, will be expressed here. 
-- *Contribution*: (yin) What remains of that expression or how it lives on is something only history will know.
+This trigram, with two emerging yang lines, is now in the domain of the yang.
+
+The quadrant of WATER <img src="../Images/bc/trigram-b01.png" style="width:20px"/> and AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/>is one of *outward ascending* where the balanced state of WATER ascends and expands into the polar state of AIR.
+
+1. *Negotiation*: <img src="../Images/bc/yang.png" style="width:30px"/> The yang becomes dominant here, and the remaining yin is outnumbered. This is the time when the yang begins to reign.
+2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> The yang is no longer constrained by the limitation of the EARTH and is free to expand into what seems like limitless AIR.  This is the culmination of expression, and whatever the ultimate expression of an instance is, according to the nature of the instance, will be expressed here. 
+3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> What remains of that expression or how it lives on is something only history will know.
 
 In this model there are 4 cardinal archetypes and 4 dynamic archetypes, each one composed of three lines. This maps quite nicely into a tholon as shown in *Fig. c2*. FIRE is shown here as (F) because it is a composite property, the *white dot*.  Also, *formation* corresponds to the *expanding* hemisphere of the Pa Kua circle, for it is there that the archetype is created during the *expansive* stage. *Expression*, as in what is that which is contributed back to the parent and to the thologram as a whole, what the purpose of the relationship is, equates to the contractive hemisphere of the Pa Kua, because it is in this phase that the archetype instantiates itself and is sent out into the world as a &ldquo;thing&rdquo; (physical or metaphorical).
 
-This shows us that WATER, AIR, and EARTH are the three primary elements, but FIRE is the composite element that bring all the elements into existence. It was initially unclear what the relationship would be between opposing elements, such as AIR and EARTH or FIRE and WATER, as their only point of interaction is via the very center of the cycle. When these were mapped onto a 2D tholon map the relationship became clear… all the opposing elements form a relationship that tholonically connects an *N-state* to its first instance of the *green dot* of *definition*, and that path that connects those two states is one of *limitation*, as in limiting the dimensionless *N-state* to be able to exist within a world of dimension in whatever context it is limited by. It is the process of moving an idea into a plan, like moving the idea of a house into a blueprint. For anyone who has ever had to make, or even deal with, blueprints, *limiting* is very apt word. This is clearly showing that the center point of our Pa Kua cycle represents the *Idea* of the Pa Kua, and through the use of numbers and math, diagrams and words, testing and application, we limit that idea into the 4 pairs of definitions that define the Pa Kua.  *(Note: In the image below I have attributed AIR to blue/negotiating, EARTH to green/limitation, and WATER to red/expression, but these are merely my suggestions.)*
+This shows us that WATER, AIR, and EARTH are the three primary elements, but FIRE is the composite element that bring all the elements into existence. It was initially unclear what the relationship would be between opposing elements, such as AIR and EARTH or FIRE and WATER, as their only point of interaction is via the very center of the cycle. When these were mapped onto a 2D tholon map the relationship became clear… all the opposing elements form a relationship that tholonically connects an *N-state* to its first instance of the *green dot* of *definition*, and that path that connects those two states is one of *limitation*, as in limiting the dimensionless *N-state* to be able to exist within a world of dimension in whatever context it is limited by. It is the process of moving an idea into a plan, like moving the idea of a house into a blueprint. For anyone who has ever had to make or deal with blueprints, *limiting* is very apt word. This is clearly showing that the center point of our Pa Kua cycle represents the *Idea* of the Pa Kua, and through the use of numbers and math, diagrams and words, testing and application, we limit that idea into the 4 pairs of definitions that define the Pa Kua.  *(Note: In the image below I have attributed AIR to blue/negotiating, EARTH to green/limitation, and WATER to red/expression, but these are merely my suggestions.)*
 
-For myself, The message here is quite clear… the part that is missing, or rather, the part that is represented by the center of the circle where all opposites meet, is defined by our ability to reason and perceive, i.e. our consciousness. It is our own awareness that is at the center of all opposites and create the pattern that brings them together. This is especially true for the original duality of opposites, that of the chaos of nothingness and the chaos of somethingness.
+For myself, The message here is quite clear… the part that is missing, or rather, the part that is represented by the center of the circle where all opposites meet, is defined by our ability to reason and perceive, i.e. our consciousness. It is our own awareness that is at the center of all opposites and creates the pattern that brings them together. This is especially true for the original duality of opposites, that of the chaos of nothingness and the chaos of somethingness.
 
 <img src="../Images/tholonic-pakua-tri.png" style="width:100%;" />
 
 ### Mapping to Hexagrams 
 
-Various attempts were made to map all the hexagrams to the tholon/tetrahedral.  The difficulty was to find a mapping that not only fit, but that could be validated in some way.
+Various attempts were made to map all the hexagrams to the tholon/tetrahedron.  The difficulty was to find a mapping that not only fit, but that could be validated in some way.
 
 One of the indicators as to how this mapping might work appeared when looking at how the Pa Kua was mapped (*Fig. c1*).
 
-We have four quadrants that continually mirror each other.  This is more clearly demonstrated in the following image which uses the binary values of the transitional trigrams <img src="../Images/trigram-b03.png" style="width:30px"/> 011 (3) <img src="../Images/trigram-b06.png" style="width:30px"/> 110 (6) <img src="../Images/trigram-b04.png" style="width:30px"/> 100 (4) <img src="../Images/trigram-b01.png" style="width:30px"/> 001 (1) 
+We have four quadrants that continually mirror each other.  This is more clearly demonstrated in the following image which uses the binary values of the transitional trigrams <img src="../Images/bc/trigram-b03.png" style="width:25px"/> 011 (3) <img src="../Images/bc/trigram-b06.png" style="width:25px"/> 110 (6) <img src="../Images/bc/trigram-b04.png" style="width:25px"/> 100 (4) <img src="../Images/bc/trigram-b01.png" style="width:25px"/> 001 (1) 
 
 <img src="../Images/mirror.png" style="width:100%" />
 
-This was only using the 8 trigrams of the Pa Kua.  It would get a bit more complicated with 64 hexagrams, but the basic idea is the same... 4 quadrants mirrored quadrants.   Here is what that looks like.  Note the blue-framed hexagrams are those that are a product of those trigrams that define the scope, the red-framed hexagrams are a product of the trigrams that define the movement with that scope, and the green-framed hexagrams are a product of the transitional trigrams. The large number are the binary value, and the small numbers are the traditional King Wen sequence.
+This was only using the 8 trigrams of the Pa Kua.  It would get a bit more complicated with 64 hexagrams, but the basic idea is the same... 4 mirrored quadrants.   Below is what that looks like when applied to the 64 hexagrams.  Note the blue-framed hexagrams are those that are a product of those trigrams that define the scope (<img src="../Images/bc/hexagramB63.png" style="width:18px" /><img src="../Images/bc/hexagramB56.png" style="width:18px" /><img src="../Images/bc/hexagramB07.png" style="width:18px" /><img src="../Images/bc/hexagramB00.png" style="width:18px" />), the red-framed hexagrams are a product of the trigrams that define the movement within that scope  (<img src="../Images/bc/hexagramB45.png" style="width:18px" /><img src="../Images/bc/hexagramB42.png" style="width:18px" /><img src="../Images/bc/hexagramB21.png" style="width:18px" /><img src="../Images/bc/hexagramB18.png" style="width:18px" />), and the green-framed hexagrams are a product of the transitional trigrams. The large numbers are the binary value, and the small numbers are the traditional King Wen sequence.
 
 <img src="../Images/64hexagrams-4.png" style="width:100%" />
 
 
-Each quadrant contains 16 hexagrams, but if we were to map these to the four sides of a tetrahedron, we would need exactly 15 hexagrams for a side.  This is because the natural progression of tholonic trigrams is 1, 2, 3, 4, 5, and that equals 15.  The hexagram 0 and 63 could easily be placed outside the side of the tetrahedron as neither of them represents something that exists, as there must be interactions between the two states for energy to move, but they could represent the primary poles within which everything comes into being.  That still leaves 2 hexagrams to many.  Another problem was; with the hexagrams laid out, whatever hexagrams occupied the three corners, they had to equal 63 so as to be able to form the 4th white dot point.  It turned out that the solution to one problem automatically solved the other problem.
+Each quadrant contains 16 hexagrams, but if we were to map these to the four sides of a tetrahedron, we would need exactly 15 hexagrams for a side.  This is because the natural progression of tholonic trigrams is 1, 2, 3, 4, 5, and that equals 15.  The hexagram 0 and 63 could easily be placed outside the side of the tetrahedron as neither of them represents something that exists, as there must be interactions between the two states for energy to move, but they could represent the primary poles within which everything comes into being.  That still leaves 2 hexagrams too many.  Another problem was; with the hexagrams laid out, whatever hexagrams occupied the three corners, they had to equal 63 so as to be able to form the 4th white dot point.  It turned out that the solution to one problem automatically solved the other problem.
 
 <img src="../Images/tetrahex.png" style="width:100%" />
 
-At first glance this looked very promising, as the cardinal (blue-framed) hexagrams remained cardinal, the two children of b63 <img src="/home/jw/sites/the-book/Images/hexagramB63.png" style="width:30px"/> were naturally b7 <img src="/home/jw/sites/the-book/Images/hexagramB07.png" style="width:30px"/> and b56 <img src="/home/jw/sites/the-book/Images/hexagramB56.png" style="width:30px"/>, and they equaled a product of 63, 126, which is 63 &times; 2.
+At first glance this looked very promising, as the cardinal (blue-framed) hexagrams remained cardinal, the two children of b63 <img src="/home/jw/sites/the-book/Images/bc/hexagramB63.png" style="width:25px"/> were naturally b7 <img src="/home/jw/sites/the-book/Images/bc/hexagramB07.png" style="width:25px"/> and b56 <img src="/home/jw/sites/the-book/Images/bc/hexagramB56.png" style="width:25px"/>, and they equaled a product of 63 (actually 126, which is 63 &times; 2).
 
-However, several other validating patterns emerged that were was pretty astounding, at least to me.
+However, several other validating patterns emerged that were pretty astounding, at least to me.
 
 <img src="../Images/tetrahex-hex-triplet-3.png" style="width:100%" />
 
 Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216. 
 
-Here, the 0-dimensional N-points are represented by 63 and 0, alternating back and forth, exactly as the self-similar thologram's N-points.  The one thing that N-points and the hexagrams b63 <img src="/home/jw/sites/the-book/Images/hexagramB63.png" style="width:30px"/> and b0 <img src="/home/jw/sites/the-book/Images/hexagramB00.png" style="width:30px"/> have in common is that both only exist as concepts and only their 'offspring' can instantiate.
+Here, the 0-dimensional N-points are represented by 63 and 0, alternating back and forth, exactly as the self-similar thologram's N-points.  The one thing that N-points and the hexagrams b63 <img src="/home/jw/sites/the-book/Images/bc/hexagramB63.png" style="width:25px"/> and b0 <img src="/home/jw/sites/the-book/Images/bc/hexagramB00.png" style="width:25px"/> have in common is that both only exist as concepts and only their 'offspring' can instantiate.
 
-An interesting observation is; as the top trigram of the 2D map is a smaller instance of the parent that created it, looking at the traditional definitions of the scope of that trigram, which are hexagrams b36 <img src="/home/jw/sites/the-book/Images/hexagramB36.png" style="width:30px"/> and b44 <img src="/home/jw/sites/the-book/Images/hexagramB44.png" style="width:30px"/>, might give us some insight as to the nature of that which created this reality.  What we see there is, in the green-dot of Limitation, b36, <img src="/home/jw/sites/the-book/Images/hexagramB36.png" style="width:30px"/> "Keeping Still", which states "The hexagram signifies the end and the beginning of all movement.", and in the red-dot of Contribution, b44, <img src="/home/jw/sites/the-book/Images/hexagramB44.png" style="width:30px"/> "The Wanderer", which states, "(if one) is obliging toward others, he wins success."  Make of that what you will.  
+An interesting observation is; as the top trigram of the 2D map is a smaller instance of the parent that created it, looking at the traditional definitions of the scope of that trigram, which are hexagrams b36 <img src="/home/jw/sites/the-book/Images/bc/hexagramB36.png" style="width:25px"/> and b44 <img src="/home/jw/sites/the-book/Images/bc/hexagramB44.png" style="width:25px"/>, might give us some insight as to the nature of that which created this reality, if we accept the traditional interpretation.  What we see there is, in the green-dot of Limitation, b36, <img src="/home/jw/sites/the-book/Images/bc/hexagramB36.png" style="width:25px"/> "Keeping Still", which states "The hexagram signifies the end and the beginning of all movement.", and in the red-dot of Contribution, b44, <img src="/home/jw/sites/the-book/Images/bc/hexagramB44.png" style="width:25px"/> "The Wanderer", which states, "(if one) is obliging toward others, he wins success."  Make of that what you will.  
 
 If we were to create a sequence of the I-Ching based on the tholonic model above, it would look like the following:
 
@@ -3221,18 +3235,18 @@ If we were to create a sequence of the I-Ching based on the tholonic model above
 
 Some interesting points regarding the above sequence:
 
-- Because the 4 cardinal points define the framework, and do not make up the dynamic part of the circle, there are exactly 60 point on the circle… just like the ancient Babylonian clock which introduced the idea of the 60 second minute and the 60 minute hour.  The modern argument is that they used 360 as a basis because it represented their estimate for the number of days in a year…  but this reasoning presumes the ancient Babylonians, who were the masters in their day of navigation, architecture, agriculture, astronomy and government, but they never bothered to actually count the days in a year, or worse, just ignored the extra days at the end.  The reason is because 60 is one of the most fundamental number that drives nature, given that it is the product of the first three primes… 2^2^&times;3&times;5.   p.s. 2^2^&times;3 =12, which is why we have 24 hours days, just like the Ancient Egyptians and Chinese developed. I will save you the embarrassingly myopic modern explanation as to why and how these two cultures came up with the same system.  
+- Because the 4 cardinal points define the framework, and do not make up the dynamic part of the circle, there are exactly 60 points on the circle… just like the ancient Babylonian clock which introduced the idea of the 60 second minute and the 60 minute hour.  The modern argument is that they used 360 as a basis because it represented their estimate for the number of days in a year…  but this reasoning presumes the ancient Babylonians, who were the masters in their day of navigation, architecture, agriculture, astronomy and government, never bothered to actually count the days in a year, or worse, just ignored the extra days at the end.  The reason the ancients used 60 is because 60 is one of the most fundamental numbers that drives nature, given that it is the product of the first three primes… 2^2^&times;3&times;5.   p.s. 2^2^&times;3 =12, which is why we have 24 hour days, just like the Ancient Egyptians and Chinese developed. I will save you the embarrassingly myopic modern explanation as to why and how these two cultures came up with the same system.  
 
-- While the number are not sequential, each pair of opposites equal 63.
+- While the numbers are not sequential, each pair of opposites equal 63.
 
-- I have added the octal (base 8) value because it is far more clear.  Base-8, if you are not familiarizer with it, is simply a number systems that is based on the eight values 0,1,2,3,4,5,6,7.  So, when you get to 8 you have to start with the double digit, so our base-10 number 8 in octal equal is written as "10".<img src="../Images/decoct.png" style="width:70%" />
-  The beauty of using octal numbers for the I-Ching is the number itself is telling you what trigrams it's made of.  For example hexagram b12 (001100) is octal o14 (we use 'o' for octal numbers, just like how 'b' is used for binary values).  Hexagram b12 composed of two trigrams; 001 and 100.  Converting from binary to octal (or decimal, as both numbers are less that 7, so they will be the same) 001 = 1, and 100 = 4… so we simply put the two numbers next to each other to get o14.    No addition is needed to arrive at the correct octal value for 001100.  Today, if we were to do this with our base-10 number system we would get meaningless results, and be chided for engaging in some silly form of numerology or superstition, however, in the past when numbers and letters were often shared, and when using with base-60 (Babylonian, Sumerian) or base-8 (Native American, Proto-Indo-European) systems, simple rearranging of numbers can produce valid mathematic solutions.  In, fact, that is exactly how computers (also base-8 for all 8-bit computers) do math… by simply putting numbers next to each other to perform addition.
+- I have added the octal (base 8) value because it is far more clear.  Base-8, if you are not familiar with it, is simply a number system that is based on the eight values 0,1,2,3,4,5,6,7.  So, when you get to 8 you have to start with the double digits, so our base-10 number 8 in octal is written as "10".<img src="../Images/decoct.png" style="width:70%" />
+  The beauty of using octal numbers for the I-Ching is the number itself is telling you what trigrams it's made of.  For example hexagram b12 (001100) is octal o14 (we use 'o' for octal numbers, just like how 'b' is used for binary values).  Hexagram is b12 composed of two trigrams; 001 and 100.  Converting from binary to octal (or decimal, as both numbers are less that 7, so they will be the same) 001 = 1, and 100 = 4… so we simply put the two numbers next to each other to get o14. No addition is needed to arrive at the correct octal value for 001100.  Today, if we were to do this with our base-10 number system we would get meaningless results, and be chided for engaging in some silly form of numerology or superstition, however, in the past when numbers and letters were often shared, and when using with base-60 (Babylonian, Sumerian) or base-8 (Native American, Proto-Indo-European) systems, simple rearranging of numbers can produce valid mathematical solutions.  In fact, that is exactly how computers, which use base-8, do math… by simply putting numbers next to each other to perform addition.
 
-- The four cardinal hexagrams are made of two absolute trigrams <img src="../Images/trigram-b07.png" style="width:30px"/> and <img src="../Images/trigram-b00.png" style="width:30px"/>. It makes sense that the first and the last hexagrams, <img src="../Images/hexagramB00.png" style="width:30px"/> and  <img src="../Images/hexagramB63.png" style="width:30px"/> , which are absolute in nature, would not be part of the circle where only dynamic interactions, or instances, exist, but why then are hexagrams b07 <img src="../Images/hexagramB07.png" style="width:30px"/> and b56 <img src="../Images/hexagramB56.png" style="width:30px"/> also separate from the rest?  The reason is that a hexagram in general is not a fundamental element.  It is more like a molecule, with the trigrams being the atoms, and the lines being the subatomic particles.  These trigrams, just like the absolute hexagrams, represent in the ideal and unmanifest state of a trigram, an archetype, and unless they join with another trigram that has the ability to instantiate, they will remain as archetypes 
+- The four cardinal hexagrams are made of two absolute trigrams <img src="../Images/bc/trigram-b07.png" style="width:25px"/> and <img src="../Images/bc/trigram-b00.png" style="width:25px"/>. It makes sense that the first and the last hexagrams, <img src="../Images/bc/hexagramB00.png" style="width:25px"/> and  <img src="../Images/bc/hexagramB63.png" style="width:25px"/> , which are absolute in nature, would not be part of the circle where only dynamic interactions, or instances, exist, but why then are hexagrams b07 <img src="../Images/bc/hexagramB07.png" style="width:25px"/> and b56 <img src="../Images/bc/hexagramB56.png" style="width:25px"/> also separate from the rest?  The reason is that a hexagram in general is not a fundamental element.  It is more like a molecule, with the trigrams being the atoms, and the lines being the subatomic particles.  These trigrams, just like the absolute hexagrams, represent the ideal and unmanifest state of a trigram, an archetype, and unless they join with another trigram that has the ability to instantiate, they will remain as archetypes 
 
-- The beauty of the tholographic model is that is accommodates both the binary and base-8 system of 64 states as well as the base-60 system, while also shedding light on how they work together.
+- The beauty of the tholographic model is that it accommodates both the binary and base-8 system of 64 states as well as the base-60 system, while also shedding light on how they work together.
 
-- Number are not as intuitive as images, so here are a few charts that clearly show the self-similarity and pattern of the sequence.  I have deliberately left out the numbers as the specifics of the numbers are not what is important in these charts.
+- Numbers are not as intuitive as images, so here are a few charts that clearly show the self-similarity and pattern of the sequence.  I have deliberately left out the numbers as the specifics of the numbers are not what is important in these charts.
 
   <img src="../Images/charts.png" style="width:100%" />
 
@@ -3240,9 +3254,69 @@ Some interesting points regarding the above sequence:
 
 
 
+### How Creation Works
+
+*Note: The chapter is best read after reading the entire book because it incorporates concepts that are brought up at different points in the book.*
+
+The tholonic model is based on the ancient premise that from a singularity comes a duality.   We see this in the idea that *nothingness* has no value until *something* appears within it, at which point, *nothingness* is represented as 0, and *somethingness* is represented as 1.  Without something, nothing would ever exist, because&hellip; it's nothing. We'll avoid the unsolvable argument which came first, nothingness or somethingness, but we can say from this that the first duality was of something (1) and its opposite, nothing (0).  
+
+So now we have 1 and 0.  What can we say about these two numbers?  We can say that they are two parts of a duality, and because we know that the sum of the parts of a whole equal the whole, we can they say that 1+0=1, which tells us the whole equals 1.  This sounds like 1^st^ grade math... but let's continue.
+
+We can plot this a few different ways:
+
+<img src="../Images/numbers-1.1.png" style="width:50%" />
+
+If this is true for 1, then it must be true for all numbers. Let's try this with the first 8 numbers, 0-7, by making every pair of numbers that equals 7; 7+0, 6+1, 5+2, and 4+3.
+
+<img src="../Images/numbers-1.2.png" style="width:80%" />
+
+Now we have a problem, because, as is shown in the above tree chart, we have four 7s, which when split make all the numbers 0-7, but what then are the two parents of these 7s? If we apply the same logic, then it would be 14 and 14, making the originating parent 28, but this is not allowed as we have no numbers that are greater than 7.  Even if we just use a base-8 number system, we still have the problem that any number we use as the top number will never create two children that are the same number, so we will never arrive a 7,7,7,7.  The reason it will never create a pair of numbers is because the top number is always odd. If the top number is even, the number of possible pairs is an odd number, which breaks the symmetry, and we assume that symmetry is a requirement based on the fact that the first number to represent something, 1, creates symmetry.  Zero, which represents nothing, is technically an even number.
+
+The problem then is that there is no number that can be used to represent the parents.  So, we have to invent some numbers.  This is done all the time in math, and they are called *imaginary numbers* and even *pure imaginary numbers*.  These are numbers like *i*, the square root of -1.  Let's invent some imaginary numbers.
+
+<img src="../Images/number-chart.png" style="width:60%" />
+
+We need a number that can be equal to two (or more) values at the same time but can only be expressed as one of these two values in real numbers, and whatever value is in one state, the other state has a different value, so no two states can share the same value. This is a familiar concept in quantum mechanics where we have the idea of spin and entanglement.  For an excellent and clear explanation of this subject, see Quantum Magazine's &ldquo;Entanglement Made Simple&rdquo; [^173]
+
+We can now apply to his all the numbers, going all the way to the top, where we have the meta-value of A that is one unit from which these eight numbers emerge from. 
+
+<img src="../Images/numbers-1.3.png" style="width:80%" />
+
+We start with A and its pair, which consists of A~0~ and A~1~.  On the next row, each one of those meta-values has its own pair, so A~0~ has A~01~ (sub 1 of sub 0) and A~00~, etc.  
+
+To represent this in circular charts, we need a new chart for each row.
+
+<img src="../Images/numbers-1.4.png" style="width:100%" />
+
+For the chart for row 3 I put a &ldquo;?&rdquo; in the center because I just don't know what to put there that will not make things more obtuse.  All we can say about &ldquo;?&rdquo; is that it is a meta-value that all four outer values equals when opposites are added.
+
+At the bottom of the tree we have seven states of A, each identified by the sub-index value, representing its lineage starting from A.  If you understand binary numbers you'll notice that the sub-indexes follow the perfect sequential order of 76543210 (starting from the left).
+
+This seems very odd when you look at the actual values assigned to the sub-indexes of A, which have a sequence of 70615243.  This seems to make no logical sense, but in fact, it is an amazing relationship.  
+
+The sub-index values represent the path of expression from A that resulted in a number value.  This is the *order of instantiation*, while the value itself is the instantiation.  Look at how these two sets of values relate to one another.  
+
+<img src="../Images/numbers-1.5.png" style="width:60%" />
+
+The *value of instantiation* (VI) axis is perpendicular to the *order of instantiation* (OI) axis.  These two axes are perfectly in sync with each other while not only being perfectly squared, but the natural process of reordering is a very efficient form of encoding (and therefore decoding).  It also shows us that the *value of instantiation* is an encoded version of the *order of instantiation*.
+
+Technically speaking (and I need to say that because what comes next sounds quite esoteric), every instance, which is every *thing* that exists, is not only a piece of the *One Thing* that all existence came from, which tholonically speaking is a 0-dimensional dot, but also a recombination of the very path that caused it to come into existence starting from the *One Thing* at the beginning of creation. If there was only one source from which everything grew from, then every instance, every thing, has a unique *order of instantiation* value which describes the path it has taken from 0-dimensions, similar in concept to the way any address works, be it physical, Internet or otherwise.  Because every order of instantiation is unique, so to is the *value of instantiation*.
+
+But there is one more perspective that is worth looking at.  If we arrange this tree in its most natural evolving form, we get the following:
 
 
 
+<img src="../Images/honeymap.png" style="width:90%" />
+
+There are many significant patterns here, but the ones I'd like to point out specifically are:
+
+- Only the numbers 7 and 2 are the same on both axes.  This is significant because it says that the value of 7 and 2 have the same measure when it comes to *how* something came to be, and *what* something came to be.  This is not only because they are the same in the map, but they are also the same as the sum of their axis.  When we look at the combined values of the axes, we see that this is the same case for 12.  They also are the first and last prime numbers (in the set of 0-8, the two in-between being 3 and 5)
+
+- Values A~011~ and A~100~ overlap, and of course, when combined they equal A~111~, which is supporting evidence that this model is viable, plus, the VI value, indicating how this unique double-value will instantiate itself is the number 1, and is also the first instance of an overlap that happens to be the reverse value of the original A source value. In short, the number 1 represents the instance of the source that created everything, and came into existence by the source dividing itself and then recombining itself.  Sound familiar?
+
+- Only meta-values that reach the *observable level* have some quality that is quantifiable as a number, but as everything beyond that point can have numerical values, the implication is that there are 7 meta-values across 2 generations and 3 levels that stand between A and all instances.  What is interesting about this is that we see this same concept in religion and  mythological cosmology (Mesopotamian, Islam, Judaism, Christianity, Hinduism, Jainism), where Heaven, that place from which our material reality was conceived, has seven divisions.  In addition we have the concept of a trinity, an even more fundamental concept that has been incorporated in our models of reality going back to the most ancient beliefs.
+
+  
 
 
 
@@ -3558,3 +3632,7 @@ Some interesting points regarding the above sequence:
 [^171]: Barton, George A. **On the Babylonian Origin of Plato&rsquo;s Nuptial Number: on an Old Babylonian Letter Addressed "to Lushtamar."**. New Haven: American Oriental Society, 1908. <https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst>
 
 [^172]: Siegel, Ethan. “**Ask Ethan: Can Free Quarks Exist Outside Of A Bound-State Particle?**” Forbes. Forbes Magazine, August 3, 2019. <https://www.forbes.com/sites/startswithabang/2019/08/03/ask-ethan-can-free-quarks-exist-outside-of-a-bound-state-particle/>
+
+[^173]:  <https://www.quantamagazine.org/entanglement-made-simple-20160428/>
+
+[^174]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO].
