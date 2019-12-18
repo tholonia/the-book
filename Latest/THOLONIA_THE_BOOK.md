@@ -206,6 +206,8 @@ Here is another example that perhaps better displays the idea. Below are four id
 
 The circle is *implicit* in the random dots of each separate page, and *explicit* when the pages line up together in the proper manner. In this example, the *local* pattern would be the random pattern on each page, which represent the scope, and the *universal* pattern would be the parts of the circle as it exists on every page.
 
+All of this addresses the relationship between instantiation and context, in that how something comes into existence and how it is expressed is dependent on the context and scope of where it is being expressed.  This concept is not only a technical or scientific one, but also a philosophical one that we can see is Buddhism as the principle of *Pratītyasamutpāda*, which means *dependent arising*, and states that all phenomena (dharma) arise in dependence upon other phenomena (dharmas).  More that that, it also implies that the significance of something is defined by its environment.  An obvious example of this is; a tiger in a zoo is not the same as a tiger in the wild.  A less obvious example is; A blue ball on a table is not the same as a blue ball floating in the ocean.
+
 
 # THE LAWS
 
