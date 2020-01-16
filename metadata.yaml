@@ -3,8 +3,6 @@ identifiers:
 - scheme:
   type: ISBN-10
   text: 1703984900
-  type: ISBN-13
-  text: 978-1703984903
 creator:
 - role: author
   text: Duncan Stroud
@@ -15,21 +13,20 @@ ISBN-10: 1703984900
 ISBN-13: 978-1703984903
 titlepage: false
 titlegraphic: /home/jw/sites/the-book/Images/titlepage.png
-title: THOLONIA
-pagetitle: THOLONIA
+title: 'THOLONIA'
 subtitle: 'The Existential Mechanics of Awareness'
-pubdate: 'November 17, 2019'
+pubdate: 'January 15, 2020'
 pagetitle: THOLONIA
 lang: en-US
 subject: philosphy,consciousness,energy,chaos,order,reason,creation,evolution
-rights: 'Copyright ©2019 Duncan Stroud CC BY-NC-SA 4.0'
+rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://tholonia.github.io/the-book/>. This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof. A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>. The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Noncommercial - You may not use the material for commercial purposes. Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 css: /home/jw/sites/the-book/Styles/THOLONIA_THE_BOOK.css
 cover-image: /home/jw/sites/the-book/i6.69x9.61_Front-Only.jpg
-version: 1.9
+version: 2.0
 series: 1
 publisher: 'Welkin Wall Publishing'
 cover: /home/jw/sites/the-book/i6.69x9.61_Front-Only.jpg
-status: 'DRAFT: beta  VERSION: Wed 25 Dec 2019 07:05:34 PM EST v.1.28.8'
+status: 'DRAFT: punblished VERSION: Wed 15 Jan 2020 11:29:25 PM -03 v.2.0.2'
 toc: true
 ...
