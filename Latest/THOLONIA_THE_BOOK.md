@@ -84,6 +84,8 @@ The definition of chaos that works for both is *&ldquo;the degree that order is 
 
 #### **Claim 3:** chaos is a measure of order. 
 
+Oddly, none of these definitions of chaos even begin to touch on it's most important significance, and that is that chaos is the unknowable wild-card variable of unpredictability that exists across the entire spectrum of existence.  It is chaos that prevents the laws of creations for churning out identical copies of creation. Chaos is what makes the future unknowable, and without chaos the difference between the past and the future would be slight.  Chaos is not the same as randomness.  Chaos is *deterministic*, meaning it adheres to rules, and has a pattern, but the effects over time makes it impossible to predict.  Randomness is *non-deterministic*, meaning it has no pattern or predictability.  Reality is born in chaos, not randomness.
+
 <div style="page-break-after: always; break-after: page;"></div>
 # 2: ENERGY
 
@@ -670,13 +672,13 @@ Take, for example, our reasoning behind the evolutionary drive for self-preserva
 
 Another way to see self-preservation is from the perspective of the larger organism that is composed of many contributing organisms.
 
-Take the example of a collective, such as a tribe. If the collective is destroyed, then all its members also suffer from that loss. The collective, then, has a strong responsibility to the members. On the other hand, if the members were to become damaged in some way, the collective suffers as well. So, the collective will both attempt to preserve itself for the sake of its members and preserve the members for the sake of itself. We don&rsquo;t think of a collective as an organism, but all organisms are collectives, therefore collectives *can* be organisms. Now apply this reasoning to an animal. The animal will attempt to preserve itself for the sake of its members (organs, limbs, cells, etc.), and preserve its members for the sake of itself.
+Take the example of a collective, such as a tribe. If the collective is destroyed, then all its members also suffer from that loss. The collective, then, has a strong responsibility to the members. On the other hand, if the members were to become damaged in some way, the collective suffers as well. So, the collective will both attempt to preserve itself for the sake of its members and preserve the members for the sake of itself. We don&rsquo;t think of a collective as an organism, but all organisms are collectives, therefore collectives *can* be organisms. Now apply this reasoning to an animal. The animal will attempt to preserve itself for the sake of its members (organs, limbs, cells, etc.), and preserve its members for the sake of itself.  In the case of a tree, a tree will attempt to protect itself for the sake of it's members which it needs to maintain sustainability.  For example, besides bark and thorns, a tree will emit chemicals that attract the enemies of the invading species, which is pretty amazing when you wonder about how it &ldquo;knows&rdquo; how to do that.  A leaf will attempt to protect itself with fine hairs, spines or thorns, bitter and even toxic substances.  We tend to think of a tree as a thing that has a trunk, branches and leaves, but tholonically it is a collective organism made up of other collective organisms, such as trunk, branch and leaf, each taking care of itself.
 
 From the perspective of the parent organism, such as the collective, it is worth losing a member if that means it will benefit the collective and/or the ability of the collective to preserve its members.
 
 One example of this are the cardiac muscle cells that have the self-preservation ability to duck, dart, and dodge foreign substances, but these actions may harm the cells to the point where they can cause a fatal heart attack, all in an attempt to preserve themselves, even though they are killing their parent organism.
 
-Some theorize that they do this because there is a greater chance of the heart surviving if the cells can avoid damage and hold out for the possibility of the heart being resuscitated. A far more reasonable explanation is that the component elements of a person (the cells, in this case) are compelled to preserve *their* component elements (nucleus, chromatins, cytoplasm, organelles, etc.). Killing the parent organism is not its concern, nor within the scope of its influence as preservation of the members is the concern of the parent organism, who has obviously failed to protect its components in this case. The sacrificed parent organism of *person*, which would be the collective (tribe, community, country, etc.) will only lose one (improperly functioning) member.
+Some theorize that they do this because there is a greater chance of the heart surviving if the cells can avoid damage and hold out for the possibility of the heart being resuscitated. A far more reasonable explanation is that the component elements of a person (the cells, in this case) are compelled to preserve *their* component elements (nucleus, chromatins, cytoplasm, organelles, etc.). Killing the parent organism is not its concern, nor within the scope of its influence as preservation of the members is the concern of the parent organism, who has obviously failed to protect its components in this case. The sacrificed parent organism of *person*, which would be the collective (tribe, community, country, etc.) will only lose one (improperly functioning) member. 
 
 In this particular example of cardiac cells, their self-preservation can be fatal to the collective (or *person*), but in most cases losing a few cells is not fatal to a person, but by the same token, the *uber* organism that humans are a part of (family, society, government, etc.) only forfeits one human. This is happening in our own bodies 60 billion times a day, as that is how many of our own cells die, and are created, every day.
 
@@ -767,7 +769,7 @@ If the two primal opposing end-points of the spectrum of our reality are *someth
 
 The range of possibilities between these two (or any two) states is naturally distributed and looks something like your standard Bell curve. There is a very good reason for this: because the probabilities of what can happen between two states, regardless of the number of variables at play, will always tend toward a *normal* (in the statistical sense of the word) distribution.
 
-If we had the ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would be in the middle. This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner. This chart below is a general concept of this idea. (JWFIX:fix lower case s in grphics 'somethingness)'
+If we had the ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would be in the middle. This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner. This chart below is a general concept of this idea. 
 
 <img src="../Images/021-supercurve1.png" style="width:100%;" />
 
@@ -1316,7 +1318,7 @@ We start with a 0-dimensional dot represented by a blue dot in the middle of not
 
 This next step requires some philosophical conjecture because we have to ask why/how does a 2<sup>nd</sup> (green), dot appear *(Fig. c2).*
 
-If we accept the premise that everything that is created has the attributes of, and limitations of, whatever created it, then, the answer is clear and simple. As this lone imaginary dot in the middle of infinite nothingness only exists as an awareness of the concept of a point in the middle of infinite nothingness, the one attribute this point *can* have is awareness, as that is what it was created from.  And what was this awareness?  We can on only presume that it was the most fundamental form of awareness, that being the awareness of existing (which is not the same as the meta-awareness of being aware that one is aware).
+If we accept the premise that everything that is created has the attributes of, and limitations of, whatever created it, then, the answer is clear and simple. As this lone imaginary dot in the middle of infinite nothingness only exists as an awareness of the concept of a point in the middle of infinite nothingness, the one attribute this point *can* have is awareness, as that is what it was created from.  And what was this awareness?  We can on only presume that it was the most fundamental form of awareness, that being the awareness of existing (which is not the same as the meta-awareness of being aware that one is aware).  Additionally, being the only awareness that exists, it is virtually *unlimited awareness*.
 
 There is one more attribute it has as well that is far less obvious, and that is *intention*, because whatever awareness conceived of a point in nothingness had to have the intention to conceive of it. So, our point in the middle of infinite nothingness has two attributes; awareness and intention. 
 
@@ -1332,13 +1334,13 @@ This may sound like we&rsquo;re teetering on the edge of mysticism, but this is 
 
 So, our first dot has two attributes, awareness and intention, and the limitation of 0-dimensions. This dot then is itself a form of awareness and being so, it will be aware of the existence of *dotness*, not *its dotness*, just *a dotness*. Just as the awareness of a conceptual point created the first dot, the first dot&rsquo;s awareness of dotness is what creates the 2<sup>nd</sup> (green) dot, and in doing so, creates the 1<sup>st</sup> instance of a dimension. With two dots, we now have a relationship between them as shown by a line *(Fig. c3)*.
 
-Each of these dots is aware of *its* dotness now, not just *a* dotness, because, with the existence of the other dot, each dot now has a center of its awareness *(Fig. c4)*, and the other dot defining its opposite and the limits of its awareness *(Fig. c5)*.
+Each of these dots is aware of *its* dotness now, not just *a* dotness, because, with the existence of the other dot, each dot now has a center of its awareness *(Fig. c4)*, and the other dot defining its opposite and the limits of its awareness *(Fig. c5)*.  Where before there was only that of unlimited awareness, now there is awareness that is limited by, or defined by, awareness. This results in two types of awareness; the *subjective*, which is the awareness of one's existence, and which is infinite by nature, and the *objective*, the awareness of another's existence, which is finite by nature.  
 
-(JWFIX:reword?)As both dots are aware of their own dotness and of the other&rsquo;s dotness they are also aware of where these two opposite awarenesses, one subjective and one objective, interact. These points of intersecting awareness are the (red) 3<sup>rd</sup> dot and 4<sup>th</sup> dot *(Fig. c6)*. The laws of geometry result in 2 dots being created, but philosophically, we have 2 identical dots because we have two identical conditions, the subjectivity of one dot aware of the objectivity of an other… two states of subjective awareness and two states of objective awareness.
+As both dots are aware of their own dotness and of the other&rsquo;s dotness they are also aware of where these two opposing awarenesses, one subjective and one objective, interact. These limits that define the interaction between these two states of awareness are the (red) 3<sup>rd</sup> dot and 4<sup>th</sup> dot *(Fig. c6)*. 
 
-(JWFIX: reword or delete)We now have the two poles of the first duality that was created within the duality of nothingness and somethingness. This duality might be described as that of *unlimited awareness/limitation of awareness*, or a number of other possible descriptions depending on what properties one sees in the green and red dots. We will use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
+We now have the two poles of the first polar-duality that was created within the non-polar duality of nothingness and somethingness. This polar-duality might be described as that of *unlimited awareness/limitation of awareness*, *subjective/objective,* or a number of other possible descriptions depending on what properties one sees in the green and red dots. We will use the colors of blue, green and red to symbolize the attributes of these dots. Here they are described and listed in their order of instantiation.
 
-<img src="../Images/dot-blue.png" style="width:0.23in" />The 1<sup>st</sup> blue dot represents the initial or parent 0-dimensional dot that has no ability to create dimension and exists only as a concept of awareness before there even exists the concept of subjective or objective. This is the dot that defines the simplest form of existence as pure awareness.
+<img src="../Images/dot-blue.png" style="width:0.23in" />The 1<sup>st</sup> blue dot represents the initial or parent 0-dimensional dot that has no ability to create dimension and exists only as a concept of awareness.  This is the dot that defines the simplest form of existence as pure awareness and is by nature.
 
 <img src="../Images/dot-green.png" style="width:0.23in" />The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot. This dot can add 1 dimension to 0-dimensions and defines separation and division, creating the conditions of subjective and objective, and consequently the idea of self-awareness as a result of a state of awareness with respect to another state of awareness.
 
@@ -1512,8 +1514,6 @@ This is worth a demonstration. Here is that same process described above but wit
 
 
 
-JWFIX: add t1,t2,t3 to figs
-
 <img src="../Images/colortree-top.png" style="width:100%" />
 
 In the first case *Fig. t1*&hellip;
@@ -1575,7 +1575,7 @@ We can also apply the same associative reasoning to the thologram as a whole to 
 
 <img src="../Images/066-serp-growth.png" style="width:100%;" />
 
-Here we are using the Sierpinski triangle which does not show the &ldquo;negative space&rdquo; of the thologram but simply a blank space. In the thologram, this blank space is just as full of implicit patterns as the positive space is full of explicit patterns. More on this shortly.
+Here we are using the Sierpinski triangle which does not show the &ldquo;negative space&rdquo; of the thologram but simply a blank space. In the thologram, this blank space accounts for 25% of the tholon and is just as full of implicit patterns as the positive space is full of explicit patterns. This suggests that we are only seeing 75% of a tholon&rsquo;s instance, the remaining 25% also being an integral part of the instance, but simply not visible. More on this later.
 
 There is no question that the natural processes of creation for nature follow these patterns, and with a little shift in perspective, for the natural process of creation for ideas as well when we apply this pattern to relationships rather than objects.
 
@@ -1635,17 +1635,17 @@ But wait, didn&rsquo;t the previous iteration have a base of three separate poin
 
 Interestingly, the growth pattern of tholons is the inverse of a recursive Fibonacci sequence. Inverse, because we are multiplying instead of dividing, recursive because we do that for each trigram, children of trigrams, children of children of trigrams, etc.
 
-***Fig. c2***. For this figure, because it would be too complicated to show and describe an entire 5<sup>th</sup> generation view, we are looking at only a small section of a 5<sup>th</sup> generation view by showing only four 4<sup>th</sup> generation tholons (like *Fig. b4*). JWFIX: is this confusing)
+***Fig. c1, c2, c3,*** and ***c4***. are orthographic views of the figures immediately above them. 
 
 ***Fig. d1, d2, d3***, and ***d4*** are isometric views of the figures immediately above them.
 
 ***Fig. d1*** shows the first instance of tetrahedrons. This first level is the foundation of all material existence because it is the first instance of a 3D form.  All form that follows (*Fig. d2, d3, d4)* is built upon these initial tetrahedrons.  This would (probably) be the domain elements and the quantum world.
 
-JWFIX:confusing[There are two details worth mentioning. The first is, you&rsquo;ll notice that in the front view of *Fig. c2* you see the center tholon is a virtual tholon, and behind it, you will see real tholons. This is because just as real tholons can create virtual tholons, virtual tholons can create real tholons.] This is where it really starts to sound like a fun-house of mirrors because how can you have real tholons inside virtual tholons? The simple answer is, real tholons in a virtual tholon are real relative to that virtual tholon they are within. These *virtual* real tholons are just as significant as the *real* real tholons because they function in the same manner as a real tholon, but virtually, which allows virtual tholons to be able to &ldquo;reflect&rdquo; back a real tholon. But, because they are all sourced originally from a virtual tholon, they only have virtual significance.
+There are two details worth mentioning. The first is, you&rsquo;ll notice that in the front view of *Fig. c2* you see the center tholon is a virtual tholon, and behind it, you will see real tholons. This is because just as real tholons can create virtual tholons, virtual tholons can create real tholons. This is where it really starts to sound like a fun-house of mirrors because how can you have real tholons inside virtual tholons? The simple answer is, real tholons in a virtual tholon are real relative to that virtual tholon they are within. These *virtual* real tholons are just as significant as the *real* real tholons because they function in the same manner as a real tholon, but virtually, which allows virtual tholons to be able to &ldquo;reflect&rdquo; back a real tholon. But, because they are all sourced originally from a virtual tholon, they only have virtual significance.
 
-The second detail is, to make things more complicated, in the above figures we have colored all the real tholons yellow (light gray in B&W) and the virtual tholons blue (darker gray), but in fact, there are yellows among the blue and blues among the yellows. These were left out for simplicity sake as they were not critically important to demonstrate our point. The basic principle is the same however, in that there is an oscillating between real and virtual at each iteration.
+The second detail is, to make things more complicated, in the above figures we have colored all the real tholons yellow (light gray in B&W) and the virtual tholons blue (darker gray), but in fact, there are yellows within the blues and blues within the yellows. These were left out for simplicity sake as they were not critically important to demonstrate our point and can&rsquo;t be properly illustrated. The basic principle is the same however, in that there is an oscillating between real and virtual at each iteration.
 
-Now we can start to fold this into itself. Each of the four sides that make up a tholon has their own domains of children as well, so this folding process happens at every generation.
+Now we can start to fold this into itself. Each of the four sides that make up a tholon has their own domains of children as well, so this folding process happens at every generation (again, impossible to illustrate).
 
 ***Fig. d4*** shows the small portion of a thologram we have built that we will now begin to fold.
 
