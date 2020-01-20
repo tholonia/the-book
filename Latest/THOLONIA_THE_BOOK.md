@@ -64,7 +64,7 @@ How many things other than zero are there? In theory, infinite, but in reality, 
 
 According to Einstein&rsquo;s Field Equations, the universe is not infinite, but rather &ldquo;infinite and unbounded&rdquo;, which is a clever way to say &ldquo;infinite, but finite.&rdquo; Think of the 2D surface of a ball. It is essentially infinite in that you can travel on it forever and never get to the end, but it is bounded, or finite, in that, it only occupies a finite space. The 3D reality that is our Universe is the same, according to Einstein, but like the 3D &ldquo;surface&rdquo; of a 4D space.
 
-I only mention this to raise the idea that the primal void in which all of existence exists may well be a big 4D ball, rather than an infinite space. True or not, I can&rsquo;t say, but at least it&rsquo;s a bit easier to get one&rsquo;s head around.
+This is mentioned only to raise the idea that the primal void in which all of existence exists may well be a big 4D ball, rather than an infinite space. True or not, I can&rsquo;t say, but at least it&rsquo;s a bit easier to get one&rsquo;s head around.
 
 In either case, the idea of a primal void, or chaos, in mythology as well as cosmology, is one where there is no matter, no energy, no anything.
 
@@ -84,7 +84,7 @@ The definition of chaos that works for both is *&ldquo;the degree that order is 
 
 #### **Claim 3:** chaos is a measure of order. 
 
-Oddly, none of these definitions of chaos even begin to touch on it's most important significance, and that is that chaos is the unknowable wild-card variable of unpredictability that exists across the entire spectrum of existence.  It is chaos that prevents the laws of creations for churning out identical copies of creation. Chaos is what makes the future unknowable, and without chaos the difference between the past and the future would be slight.  Chaos is not the same as randomness.  Chaos is *deterministic*, meaning it adheres to rules, and has a pattern, but the effects over time makes it impossible to predict.  Randomness is *non-deterministic*, meaning it has no pattern or predictability.  Reality is born in chaos, not randomness.
+Oddly, none of these definitions of chaos even begin to touch on its most important significance, and that is that chaos is the unknowable wild-card variable of unpredictability that exists across the entire spectrum of existence.  It is chaos that prevents the laws of creations for churning out identical copies of creation. Chaos is what makes the future unknowable, and without chaos the difference between the past and the future would be slight.  Chaos is not the same as randomness.  Chaos is *deterministic*, meaning it adheres to rules, and has a pattern, but the effects over time makes it impossible to predict.  Randomness is *non-deterministic*, meaning it has no pattern or predictability.  Reality is born in chaos, not randomness.
 
 <div style="page-break-after: always; break-after: page;"></div>
 # 2: ENERGY
@@ -710,7 +710,7 @@ This idea is essentially the same one that was put forth 250 years ago by the ma
 
 ##### \~ Adam Smith, 1776
 
-
+Applying this idea to society also suggests that the most sustainable practice for the world at large can be summed up in a phrase that is attributed to international banks, John Lennon and Yoko Ono, Buckminster Fuller and more[^175] &hellip; "Think globally, act locally." This is easily practiced by spending your money at local businesses rather than Walmart or Amazon, or simply, to quote Mother Theresa when asked “What can we do to promote world peace?”, “Go home and love your family.”
 
 
 #### **Claim 24:** There is an order to creative processes, and creations themselves are a product of order. 
@@ -1178,7 +1178,7 @@ Take the following sentence:
 
 > I can&rsquo;t untie that knot with one hand.
 
-The meanings of words, their order, the context of who is speaking and where they are, along with many other details, come into play to turn that sentence into structured information in our head. It is our brain's language processing abilitythat converts the often messy structure of words into meaningfulness. Were language more structured we might say this sentence as 
+The meanings of words, their order, the context of who is speaking and where they are, along with many other details, come into play to turn that sentence into structured information in our head. It is our brain's language processing ability that converts the often messy structure of words into meaningfulness. Were language more structured we might say this sentence as 
 
 > Not \[I \[Able \[\[\[Make \[Not \[Tied\]\]\] \[That knot\]\] \[With One Hand\]\]\]\]
 
@@ -1332,7 +1332,7 @@ This may sound like we&rsquo;re teetering on the edge of mysticism, but this is 
 
 #### **Claim 45:** Pure energy is primal awareness and intention. Energy as we know it, &ldquo;the ability to perform work&rdquo;, is the balancing of the imbalance between states of that ever-bifurcating energy.
 
-So, our first dot has two attributes, awareness and intention, and the limitation of 0-dimensions. This dot then is itself a form of awareness and being so, it will be aware of the existence of *dotness*, not *its dotness*, just *a dotness*. Just as the awareness of a conceptual point created the first dot, the first dot&rsquo;s awareness of dotness is what creates the 2<sup>nd</sup> (green) dot, and in doing so, creates the 1<sup>st</sup> instance of a dimension. With two dots, we now have a relationship between them as shown by a line *(Fig. c3)*.
+So, our first dot has two attributes, awareness and intention, and the limitation of 0-dimensions. This dot then is itself a form of awareness and being so, it will be aware of the existence of *dotness*, not *its dotness*, just *a dotness*. Just as the awareness of a conceptual point created the first dot, the first dot&rsquo;s awareness of dotness is what creates the 2<sup>nd</sup> (green) dot, and in doing so, creates the 1<sup>st</sup> instance of a dimension. Just as the first dot was created by an awareness, so to was the second dot created by the awareness of the first dot.  Perhaps this is what Nietzsche was referring to when he said (in *Beyond Good and Evil*) &ldquo;And if thou gaze long into an abyss, the abyss will also gaze into thee.&rdquo; With two dots, we now have a relationship between them as shown by a line *(Fig. c3)*.
 
 Each of these dots is aware of *its* dotness now, not just *a* dotness, because, with the existence of the other dot, each dot now has a center of its awareness *(Fig. c4)*, and the other dot defining its opposite and the limits of its awareness *(Fig. c5)*.  Where before there was only that of unlimited awareness, now there is awareness that is limited by, or defined by, awareness. This results in two types of awareness; the *subjective*, which is the awareness of one's existence, and which is infinite by nature, and the *objective*, the awareness of another's existence, which is finite by nature.  
 
@@ -3647,7 +3647,7 @@ There are many significant patterns here, but the ones I'd like to point out spe
 
 [^144]: Hubisz, John L. &ldquo;**The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman, by Carl Feynman and Michelle Feynman.**&rdquo; The Physics Teacher, vol. 38, no. 2, 2000, pp. 111. doi:10.1119/1.1558111.
 
-[^160]:  In that it applies the syntactic features of natural languages.  This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996.  This book is also available online.  The relevant chapter is  http://algorithmicbotany.org/papers/abop/abop-ch1.pdf.  This site in general is an excellent resource for algorithims of nature.
+[^160]:  In that it applies the syntactic features of natural languages.  This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996.  This book is also available online.  The relevant chapter is  http://algorithmicbotany.org/papers/abop/abop-ch1.pdf.  This site in general is an excellent resource for algorithms of nature.
 
 [^161]: Steingart, Dan. “**The Unfortunate Tetrahedron**.” Medium. the unfortunate tetrahedron, May 30, 2017. https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.
 
@@ -3671,4 +3671,6 @@ There are many significant patterns here, but the ones I'd like to point out spe
 
 [^173]:  <https://www.quantamagazine.org/entanglement-made-simple-20160428/>
 
-[^174]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO].
+[^174]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO]. 
+
+[^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htm
