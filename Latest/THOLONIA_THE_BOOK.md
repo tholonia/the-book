@@ -983,6 +983,12 @@ For consistency, here is the human eye sensitivity chart as well with the new y-
 
 #### **Claim 39:** Holons, or archetypes, are interdependent on one another, as well as independent.
 
+Another excellent example of both a holarchy and its self-similar nature is that of the neurological structure of the brain's memory processes along with the structure of language that evolved out of that structure. This also shows examples of the various scopes through which instances are expressed.
+
+<img src="../Images/language.png" style="width:100%;" />
+
+ 
+
 ## Memes
 
 More recently, this holarchical model was applied to Richard Dawkins concept of a *meme*[^35]. A meme is defined as:
@@ -1198,7 +1204,11 @@ Regardless of the language, they all depend on semantics. Semantics is the branc
 
 > The description of possible languages or grammars as abstract semantic systems whereby symbols are associated with aspects of the world. (a more objective view)
 
-The second kind is more relative.
+An example of this type of objective description might be the following bifurcating graph of a simple sentence. 
+
+<img src="../Images/symxbar.png" style="width:30%;margin:auto;" />
+
+The second kind is more relevant.
 
 > The description of the psychological and sociological facts whereby a particular one of these abstract semantic systems is the one used by a person or population. (contextual relevance)
 
@@ -1228,7 +1238,13 @@ As you can imagine, a computer can create millions of connections between triple
 
 With all these connections, we can ask the computer typical questions like &ldquo;*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15&deg;?*&rdquo; Of course, social media companies, who have their own data that they aggressively collect from their users, can ask questions like &ldquo;*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*&rdquo; More worrying are the queries of the near future, such as &ldquo;*Tell me all the names of people that are likely to commit a crime in the next week.*&rdquo; That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them. At Stanford University they have developed AI system that has a 91% accuracy rate of determining if you are gay or straight[^50], and that is just the beginning.
 
-Language is based on rules of nature and can be deconstructed into triplets.
+Language is based on rules of nature and can be deconstructed into triplets, and we can see these same rules applied to both the physiology required to support language, and language itself, as shown below.
+
+<img src="../Images/xbar.png" style="width:100%;margin:auto;" />
+
+It is also quite fascinating, though not surprising, that this information encoding  is the result of the bifurcated tree structure of tubulin proteins interacting with hexagonal structures called *Ca2+/calmodulin-dependent protein kinase II*, or *CaMKII*. The significance of binary trees and hexagonal structures will become increasingly apparent as we go deeper into the mechanics of awareness. 
+
+<img src="../Images/CaMKII.png" style="width:60%;margin:auto;" />
 
 #### **Claim 43:** Information must relate to something. 
 
@@ -2048,6 +2064,10 @@ Although there have been many allusions to the idea that awareness is an inheren
 
 If the concept of a thing and the thing itself are two orders of the same form of expression of energy, and order is a prerequisite to intelligence, does this imply that everything with order, i.e. everything that exists, potentially has a form of intelligence? In the tholonic model, yes, but more than that, even without order or intelligence there is awareness *and* intention.
 
+This chart below was presented by Stuart Hameroff in his lecture "Is Quantum Physics Necessary for the Account of Consciousness?" at the  Polytech Museum of Moscow. [^176] where Hameroff discussed, among other things, consciousness from a quantum perspective. The blue line represents the expanding universe, and the red line represents the the tholonic perspective of the (somewhat inverse) growth and expansion of the instances of consciousness.  Hameroff asks the question "When did consciousness arise?", but from the tholonic perspective, consciousness occurred when the first instance of awareness came into being, which would be the Big Bang itself, for all matter is an instance of awareness, and therefore must have a consciousness, no matter how faint or undeveloped.
+
+<img src="../Images/awareness.png" style="width:100%;" />
+
 This is not that radical of an idea, as many great thinkers in the past have come to the same conclusion.
 
 > &ldquo;There is a quality of life and intelligence to all matter. The living universe.&rdquo;
@@ -2102,7 +2122,7 @@ The tholonic view is that awareness and intention are not only attributes of exi
 
 #### **Claim 50:** Every archetype has an awareness, an intention, and an intelligence appropriate for its scope. 
 
-On this point, tholonic thinking has coincidentally arrived at the same conclusion recorded 3,000 years ago in the Sanskrit Vedas which states that first there was awareness, then there was consciousness, and because of this, and according to the Vedic path, consciousness or intelligence can never be the path to awareness. On the contrary, the path to awareness starts with quieting consciousness, according to the Vedas. This point starts to lead into a philosophical realm, so we&rsquo;ll just leave it at that and let the reader take it from there.
+On this point, tholonic thinking has coincidentally arrived at the same conclusion recorded 3,000 years ago in the Sanskrit Vedas which states that first there was awareness, then there was consciousness, and because of this, and according to the Vedic path, consciousness or intelligence can never be the path to awareness. On the contrary, the path to awareness starts with quieting consciousness, according to the Vedas. Tholonically speaking, it may be accurate to say that consciousness in the unique instantiation of awareness, and being an instance, it limited by the scope it is expressed in. This all starts to lead into a philosophical realm, so we&rsquo;ll just leave it at that and let the reader take it from there.1q2w3e
 
 However, the tholonic view is that intelligence precedes consciousness. This still complies with the traditional definition of intelligence as &ldquo;The ability to learn or understand or to deal with new or trying situations.&rdquo; The difference being, in the tholonic model, consciousness is not necessary to learn, understand or deal with challenges. We are seeing this today in AI systems that certainly can learn, understand and deal with the challenges before them, but these AI systems are not conscious… yet. Does that mean these AI systems have awareness? Only to the degree that everything has some level of awareness given that awareness is the source of existence, but not necessarily at the tholon level, meaning, the archetype for a toaster has a nominal form of intelligence as well as access to the existing primitive intelligences of its parents (metal, electricity, etc.), but it has effectively zero effect on the aggregate. This is similar to the idea that the wave function for any and every single electron extends to every corner of existence. The wave function of one electron in the ballpoint pen in your desk drawer is interfering with every electron in the Universe and even the gravitational field of Alpha Centauri… in theory, and on an infinitesimally small range.
 
@@ -2112,7 +2132,7 @@ The tholonic definition of *intelligence* is slightly different that the traditi
 
 As patterns come from order, which is the result of energy, and energy is awareness, then by this definition, intelligence is synonymous with &ldquo;ordered or structured awareness.&rdquo;
 
-According to this definition, each tholon has the potential to create its own form, or expression, of intelligence, its own patterns of energy (awareness) that are contextually appropriate for its scope. Rocks, then, have intelligence, as do planets, galaxies, chairs, and even what we would consider garbage. Any concept that satisfies the tholonic requirements to exist must have an expression of intelligence. Geometrically speaking, each tetrahedron in the thologram represents an awareness and an intelligence for that tholon.  The spectrum of that awareness and intelligence is as broad is existence itself.
+According to this definition (and the understanding that consciousness is an instance of awareness), each tholon has the potential to create its own form, or expression, of intelligence, its own patterns of energy (awareness) that are contextually appropriate for its scope. Rocks, then, as any of its hierarchical archetypes or an actual instance, have intelligence, as do planets, galaxies, chairs, and even what we would consider garbage. Any concept that satisfies the tholonic requirements to exist must have an expression of intelligence. Geometrically speaking, each tetrahedron in the thologram represents an awareness and an intelligence for that tholon.  The spectrum of that initiating awareness and intelligence is as broad is existence itself. 
 
 Because we consider tholonic instances (*things* like trees, humans, and planets) to be the result of these laws and patterns of energy that exist within the tholonic archetype of that instance, we also consider the intelligence of those instances to be an expression of the tholonic intelligence. In modern terms, this would be something like the collective mind of not only a species, or a community, or even a relationship, but also a belief, a fear, an idea.
 
@@ -3677,4 +3697,6 @@ There are many significant patterns here, but the ones I'd like to point out spe
 
 [^174]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO]. 
 
-[^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htm
+[^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htmco
+
+[^176]: https://www.youtube.com/watch?v=2_sgFETJzak
