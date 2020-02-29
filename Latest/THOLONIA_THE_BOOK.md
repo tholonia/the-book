@@ -9,7 +9,7 @@ This book is meant to describe the blueprint of creation, similar to a blueprint
 
 This book means to introduce the idea that the mechanics of existence and reality, from atoms to cultures to galaxies, follow the same laws and have the same structure as it applies to their context.
 
-The arguments put forth seem pretty self-evident, at least to me. However, when I passed some of these ideas by an actual philosopher he was able to follow the arguments all the way back to the originating premise from which this book claims all structure stems, at which point he firmly rebuked the idea that life has any sort predetermined direction. His counter argument was simply that the only valid claims are those of subjective beliefs. 
+The arguments put forth seemed fairly self-evident at the time writing. However, when I passed some of these ideas by an actual philosopher he was able to follow the arguments all the way back to the originating premise from which this book claims all structure stems, at which point he firmly rebuked the idea that life has any sort predetermined direction. His counter argument was simply that the only valid claims are those of subjective beliefs.  So, your mileage may vary.
 
 In this writing I try to avoid social and cultural contexts as much as possible, and where they do exist, I try to keep them to a minimum. The conclusions put forth here apply to society and culture, as well as science, politics, economics, self-realization, and life itself.
 
@@ -1262,7 +1262,7 @@ When modeling all elements of the supply chain they ended up with the following 
 
 <img src="../Images/048-truevalue-tris.png" style="width:60%;margin:auto;" />
 
-You can clearly see the triplet and holarchic design of this representation of the supply chain in the image above (left). This would be expected if you considered a supply chain as a large-scale version of a living system.  The image on the right seems to confirm this, or at least suggest that the brain and the central nervous system is an organic living instance of a large-scale supply chain.
+You can clearly see the triplet and holarchic design of this representation of the supply chain in the image above (left). This would be expected if you considered a supply chain as a large-scale version of a living system.  The image on the right seems to confirm this, or at least suggest that the brain and the central nervous system is an organic living instance of a large-scale supply chain of three levels of embedded interdependency.
 
 ## Law of Laws
 
@@ -1805,7 +1805,7 @@ Here is another example of how we might discover tholonic structures in subatomi
 
 Currently we understand that protons have a charge of +1 and are composed of two *up* quarks, which have a charge of +2/3, and *one* down quark, which has a charge of -1/3, and neutrons have a charge of 0 and are composed of one up quark and two down quarks.
 
-This is seen in a single tholon and its reflection tholon as shown in *Fig. q1* and *Fig. q1a* below. The upper trigram has a parent trigram at the top which we can assign a value of -1/3, and the two children can be assigned a value of +2/3. The center child trigram, which is always a reflection trigram, has a value of 0. The opposite is true for the lower reflection trigram as well. With these values, the upper tholon has a charge of 1 and its reflection tholon has a charge of 0. This also seems to indicate that a truly complete tholon requires two tholons; itself and its reflection tholon. 
+This is seen in a single tholon and its reflection tholon as shown in *Fig. q1* and *Fig. q1a* below. The upper trigram has a parent trigram at the top which we can assign a value of -1/3, and the two children can be assigned a value of +2/3. The center child trigram, which is always a reflection trigram, has a value of 0. The opposite is true for the lower reflection trigram as well. With these values, the upper tholon has a charge of 1, like a proton, and its reflection tholon has a charge of 0, like a neutron. This also seems to indicate that a truly complete tholon requires two tholons; itself and its reflection tholon. 
 
 <img src="../Images/087-tholo-quark.png" style="width:100%;" />
 
@@ -2406,7 +2406,7 @@ Before I describe this idea, I want to make it very clear that I am not a cosmol
 
 Dark energy occupies 70% of the known universe, can&rsquo;t be directly observed and emits no light or energy. Dark matter occupies another 25%, and the measly remaining 5% is the matter we can see. Dark matter can have dark electrons and dark protons and there is even dark chemistry (and maybe dark tholons?). Dark energy also produces dark electromagnetism and dark electricity. Dark matter does not interact with &ldquo;regular&rdquo; matter. Perhaps it interacts with something else? In fact, there are (believed to be) dark galaxies, which is the galaxy of dark energy/matter superimposed on a galaxy of &ldquo;regular&rdquo; energy/matter. In short, everything that exists has a &ldquo;dark&rdquo; clone that we can&rsquo;t detect. What better medium than dark energy is there that could collect information from every scale of reality? Dark matter is a good candidate for where the data is stored.
 
-Dark matter/energy is not just some weird thing we kind of guess is there. Evidence suggests it actually forms the structure of the entire universe, but all we really know about dark matter is it exists, it exists everywhere, and it interacts with gravity, one of the four fundamental forces of energy. This then makes gravity the nominee for how the information is transmitted between dark energy and the &ldquo;regular&rdquo; energy of our reality. Perhaps there is some entanglement involved, allowing information to travel faster than the speed of light?
+Dark matter/energy is not just some weird thing we kind of guess is there. Evidence suggests it actually forms the structure of the entire universe, but all we really know about dark matter is it exists, it exists everywhere, and it interacts with gravity, one of the four fundamental forces of energy. This then makes gravity the nominee for how the information is transmitted between dark energy and the &ldquo;regular&rdquo; energy of our reality. Perhaps there is some entanglement involved, allowing information to travel faster than the speed of light?  
 
 Dark energy is quite elusive, as we can&rsquo;t detect it or measure it, but we can see its effects in the expanding universe, as dark energy seems to be continually being created (as if it was some sort of dynamic memory system that keeps expanding to accommodate the exponentially increasing storage requirements of an expanding universe?). Perhaps there is a relationship between extrasensory phenomena and dark matter/energy in some way?
 
@@ -2420,6 +2420,58 @@ Has anyone tested this? I have scoured the Internet looking for such research an
 There were no replies.
 
 OK, I know this is all a bit of a stretch, but it&rsquo;s not outside the realm of investigation.
+
+## Gravity
+
+Regarding gravity&hellip; Roger Penrose also suggests that quantum gravity and how it relates to *quantum state reduction*, or the collapsing of a waveform, i.e. the instantiation of a archetype or concept, is the source of consciousness[^177]. If the tholonic idea that awareness is the source of existence, then this suggests that consciousness is not only the byproduct of awareness, which makes perfect sense, but it is also a integral part of the instantiation of tholonic patterns as consciousness serves as the expression of awareness necessary to complete the instantiation process, not unlike the way an electron must return to the source to complete a circuit.  Geometrically speaking, while the trigram is a result of the three states crated by awareness, as previously shown, the actual instance of that trigram requires a 4^th^ composite 'white dot' in order to take on form, or transform from a trigram into a tetrahedron.  Consciousness is the equivalent of this composite 'white dot', and quantum gravity is the instance of that force that causes the collapsing of the trigram to a tetrahedron.  This might also suggest that in the world of subatomic particles where we have the basic trinity of electrons, protons and neutrons, we would also expect to find a 4th particle that represents gravity, a *graviton*, and in fact, science has speculated that such a particle exists, they just haven't found it yet (probably because it is hiding in the virtual spaces with all of Wheeler's missing electrons). All of this is simply to suggest that if gravity is fundamental to consciousness and existence, it may also be fundamental to fields and field memory, and as gravity, or the field of a *graviton*, is both massless and infinite yet binds the entire universe together, it seems like an excellent candidate.
+
+This seems to suggest that gravity and consciousness are two instances of the same expressions in different scopes. Is there anything that supports such a wild claim? Yes, there is.
+
+Let's look at the simple formula that describes the gravitational force: *F=g&div;S^2^,* where *F* is the gravitational force, *g* is the gravitational field as it applies to two different masses, and *S* is the separation between those two masses.  This law was also discovered by Newton, so maybe it is not surprising that it looks similar to Newton&rsquo;s 2^nd^ law as expressed via Ohm's law for determining resistance of *R=P&div;I^2^*. If (and this is a giant "if") these are the same instances within different scopes, we can say that:
+
+- *Gravitational force* (*F*) is equivalent to *Resistance* (*R*)
+  
+  - This seems intuitively reasonable, given that much of the resistance we experience is directly related to gravity.
+- *Gravitational field* (*g*) is equivalent to *Power* (*P*) 
+  
+  - This seems odd, as *P* (power) is defined as " the amount of energy transferred or converted per unit time", like the watts in a light bulb, but here *g* is a field.  However, *g* is a field that is measured in *Newtons*, which are defined as "the force required to accelerate an object with a mass of 1 kilogram 1 meter per second per second", so Newtons are actually a measure or power, like watts, and can even be converted to watts as 1 watt is equal to 1 Newton per meter per second.
+- *Separation* (*S*) or distance between the two masses is equivalent to *amperage* (*I*)
+
+  - This was especially confusing given that voltage is defined as the difference in potential between two points, and what could be more exemplary of this than the distance between two masses? Yet, *S* does not equate to volts, but rather to *I*, amperage. The most likely explanation of this is due to the fact that electricity does not act the same as gravity, so the clear definitions of electrical terms such as voltage and amperage are only partial applicable to their gravitational equivalents.  However, there is one similarity that is consistent; the limits of an electrical circuit are defined by the number of electrons that are allowed to pass through a system at any given moment. The purpose of a fuse is to ensure no more electrons can pass through a system than is allowed.  For example, in a 40 Amp fuse, if the number of electrons passing through the fuse at any given moment exceeds 2.496^20^, the fuse will burn out, thereby stopping all current.  In the *E=mc^2^* equivalency we saw previously, it is *c*, the speed of light, that defines the limits of the systems we call the Universe, but unlike Amps, *c* can never change.  Here, in the gravity example, the defining limitation of the system is the distance between two fields. So, in the sense that *S* and *I* are both the measure of the limits of a systems, they are the same. One uses the volume of electrons and the other uses distance.
+
+    How can we test to see if this equivalency is correct?  We give an example of such a test in the next few paragraphs.
+    
+    
+
+Given the above, this would then mean that the gravitational equivalent to volts (which we'll call *hvolts* or *h*) is the *gravitational field* divided by *separation*, or h=g/S.
+
+However, we can reduce this a bit more because *g* is actually the product of *G&times;M~1~&times;M~2~*, where 
+
+> G = universal gravitational constant.
+> M~1~ = mass of the observing physical system (the observer).
+> M~2~ = mass of the observed physical system (the observed).
+
+What this tells us is that *hvolts* is the *relative* value of the *universal gravitational constant* (which, for the record, is 6.674&times;10^−11^&times;m^3^&times;kg^−1^&times;s^−2^,) as it applies to any two instances.  
+
+Why is this important? Because as we saw on the geometrical model, the initiating point, the *N-source*, the blue dots that form the centers upon which the other dots emerge, is that which is the equivalent to *volts*.  This then suggests that it is the relative value of the universal gravitational constant that is the source of creation as well as that which holds all structure together.  
+
+This would only be the case if *S* was the equivalent to *I*, meaning that *S* and *I* are equivalent in that they both define the limits of a system. 
+
+The reader might remember that in Chapter 7 we suggested this same *N-source* might represent a *gluon*, but this may be a contradiction as the relationship between gluons and gravity is quiet close. We'll leave it up to the quantum physicists to fill in the details, if any of this even applies.
+
+<img src="../Images/064-hexagram.png" style="width:30%;" />
+
+
+
+Even more directly applicable evidence come from an article written by theoretical physicist Swati Nigam entitled *Gravity As “Conscious Force” To Resolve Quantum Gravity*[^178], wherein she states:
+
+> According to current science, there is a missing connection between general relativity and quantum mechanics concepts of physics, which is needed to unify them into one, to conceptualize a unified field theory. 
+
+The article then goes on about the nature of the problem, ultimately concluding that consciousness itself is an additional force to the four forces of the Standard Model, a fifth force, and one that solves the challenges of the unified field theory in its attempt to unify general relativity with quantum mechanics.
+
+> Thus, we can use the term “conscious force” for gravitational force&hellip;. *Conscious force* is gravitational force which is the unidentified fifth force. This force is a synonym for gravitational force, works just like it on all matter entities, irrespective of their nature or position in space, both in macro or micro worlds.
+
+If consciousness is a fundamental force, it may itself be the field within which is stored the field memory.  Perhaps that is the very purpose of our memory abilities; perhaps life itself serves as a storage facility for gravitational field memory. OK, that may be way off the radar, but nothing is beyond consideration nor free from criticism.  In any case, there seems to be a strong correlation between consciousness and gravity.
 
 ## Structured Memory
 
@@ -3697,6 +3749,10 @@ There are many significant patterns here, but the ones I'd like to point out spe
 
 [^174]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO]. 
 
-[^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htmco
+[^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htmcfo
 
-[^176]: https://www.youtube.com/watch?v=2_sgFETJzak
+[^176]: https://www.youtube.com/watch?v=2_sgFETJzak 
+
+[^177]: Atmanspacher, Harald. “**Quantum Approaches to Consciousness.**” Stanford Encyclopedia of Philosophy. Stanford University, November 5, 2019. https://plato.stanford.edu/entries/qt-consciousness/#PenrHameQuanGravMicr. Section 3.5
+
+[^178]:   Swati Nigam , “Gravity As Conscious Force To Resolve Quantum Gravity.” Physics Foundations, July 31, 2017. DOI: https://doi.org/10.6084/m9.figshare.5234617.v1 Published in  https://physicsfoundationsblog.wordpress.com/2017/07/22/gravity-as-conscious-force-to-resolve-quantum-gravity/; Downloadable PDF available at https://www.academia.edu/33993443/GRAVITY_AS_CONSCIOUS_FORCE_TO_RESOLVE_QUANTUM_GRAVITY
