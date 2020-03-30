@@ -1292,6 +1292,20 @@ The relationship of music to trigrams is so profound that it deserves a book unt
 
 <img src="../Images/tonnetz.png" style="width:100%;" />
 
+## Drama
+
+Around 335 BC, Aristotle described the dramatic structure of a story as having a beginning, a middle, and an end.  Eight hundred years later, the Roman grammarian Aelius Donatus expanded that to three-part structure of the *protasis (introduction)*, *epitasis (main action)*, and *catastrophe (resolution)*.  Finally, German playwright and novelist Gustav Freytag turned the three-part structure into a five-part structure with the *Freytag Pyramid*.  
+
+The Freytag Pyramid can easily be defined as a trigram, as shown in the image below.
+
+<img src="../Images/freytag.png" style="width:100%;" />
+
+On the left is the Freytag Pyramid showing the five-part structure of *incitement*, *rising actions (inflation)*, *climax*, *falling action (deflation)*, and *resolution*.  Leading up to these five parts is *exposition*, which describes the baseline of the story, the characters, set and setting,.etc.  After the five parts, there is the *denouement*, or the returning to the baseline of the natural order.  It is easy to see how the Freytag Pyramid is the classic three-part structure of *incitement (beginning)*, *climax (middle)*, and *resolution (end)* with the additional dynamics of *inflation* and *deflation*.  While it is called a five-part structure, there is obviously the sixth part, that of the baseline, the condition before and after the action described by the five parts.  
+
+On the right is the trigram made from the Freytag Pyramid, but it is shown in a self-similar fashion, i.e. a Freytag Pyramid made of Freytag Pyramids, as when it comes to drama, there are usually plots within plots.  This self-similarity can apply to all the trigrams presented here.  
+
+
+
 ## Reduction
 
 You get the point, that being; every model can be described by a self-similar set of three axis. This is not arbitrary, as we claim that any system can be reduced to, and described by, a collection of *information primitives* (triplets or trigrams). From these essentially 2-dimensional *information primitives* (in that they can be described with only three points) we can build *knowledge primitives* that are tetrahedral (3D) in concept. 
