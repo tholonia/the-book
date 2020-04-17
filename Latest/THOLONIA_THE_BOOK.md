@@ -1,3 +1,5 @@
+ADD: https://www.snopes.com/fact-check/whether-balloon/
+
 <img src="../Images/titlepage.png" style="width:100%;margin:auto">
 
 
@@ -2714,6 +2716,16 @@ Applying this to the thologram, there are different patterns that dominate our r
 
 There are some real-world examples of how instances follow a preexisting path. Here are some of the fairly well-known stories of &ldquo;coincidences&rdquo; that demonstrate this concept.[^127]
 
+### Laura Buxton
+
+In June of 2001, a 10 year old girl named Laura Buxton released a balloon with her name and address on it, which floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton. On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans. The girls were the same height, which was unusual because they were both tall for their age. They both had brown hair and wore it in the same style. They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits. They both brought their guinea pigs, which were the same color and even had the same orange markings on their hindquarters. It was almost as though these two Laura Buxtons were the same person.[^179] Below is a picture of the two Laura Buxon girls, who are still friends today.
+
+
+
+<img src="../Images/buxtons.png" style="width:40%;" />
+
+*Here there are two instances of the same tholon in slight different contexts. What is fascinating about this is that if it was tholonically predetermined that a red balloon was to carry an address, then both instances, both girls, would have to experience it, which was the case when it was sent by one, and received by another.*
+
 ### King Umberto I&rsquo;s double
 
 In Monza, Italy, King Umberto I went to a small restaurant for dinner, accompanied by his aide-de-camp, General Emilio Ponzia-Vaglia. When the owner took King Umberto&rsquo;s order, the King noticed that he and the restaurant owner were virtual doubles, in face and in build. Both men began discussing the striking resemblances between each other and found many more similarities.
@@ -3772,3 +3784,5 @@ There are many significant patterns here, but the ones I'd like to point out spe
 [^177]: Atmanspacher, Harald. “**Quantum Approaches to Consciousness.**” Stanford Encyclopedia of Philosophy. Stanford University, November 5, 2019. https://plato.stanford.edu/entries/qt-consciousness/#PenrHameQuanGravMicr. Section 3.5
 
 [^178]:   Swati Nigam , “Gravity As Conscious Force To Resolve Quantum Gravity.” Physics Foundations, July 31, 2017. DOI: https://doi.org/10.6084/m9.figshare.5234617.v1 Published in  https://physicsfoundationsblog.wordpress.com/2017/07/22/gravity-as-conscious-force-to-resolve-quantum-gravity/; Downloadable PDF available at https://www.academia.edu/33993443/GRAVITY_AS_CONSCIOUS_FORCE_TO_RESOLVE_QUANTUM_GRAVITY
+
+[^179]:  Quited directly from https://www.snopes.com/fact-check/whether-balloon/
