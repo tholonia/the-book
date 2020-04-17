@@ -1,5 +1,3 @@
-ADD: https://www.snopes.com/fact-check/whether-balloon/
-
 <img src="../Images/titlepage.png" style="width:100%;margin:auto">
 
 
