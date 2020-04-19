@@ -2142,6 +2142,8 @@ On this point, tholonic thinking has coincidentally arrived at the same conclusi
 
 However, the tholonic view is that intelligence precedes consciousness. This still complies with the traditional definition of intelligence as &ldquo;The ability to learn or understand or to deal with new or trying situations.&rdquo; The difference being, in the tholonic model, consciousness is not necessary to learn, understand or deal with challenges. We are seeing this today in AI systems that certainly can learn, understand and deal with the challenges before them, but these AI systems are not conscious… yet. Does that mean these AI systems have awareness? Only to the degree that everything has some level of awareness given that awareness is the source of existence, but not necessarily at the tholon level, meaning, the archetype for a toaster has a nominal form of intelligence as well as access to the existing primitive intelligences of its parents (metal, electricity, etc.), but it has effectively zero effect on the aggregate. This is similar to the idea that the wave function for any and every single electron extends to every corner of existence. The wave function of one electron in the ballpoint pen in your desk drawer is interfering with every electron in the Universe and even the gravitational field of Alpha Centauri… in theory, and on an infinitesimally small range.
 
+However, some *neuromorphic* systems (systems that mimic neurology), such as AI systems and even some integrated chip technology, have evolved to the point where experts and lawmakers argue that they deserve the same status s people, *personhood* rights, including the right to own property. [^180]
+
 The tholonic definition of *intelligence* is slightly different that the traditional definition:
 
 > The ability to maintain a sustainable pattern of energy within the scope of its existence.
@@ -3784,3 +3786,5 @@ There are many significant patterns here, but the ones I'd like to point out spe
 [^178]:   Swati Nigam , “Gravity As Conscious Force To Resolve Quantum Gravity.” Physics Foundations, July 31, 2017. DOI: https://doi.org/10.6084/m9.figshare.5234617.v1 Published in  https://physicsfoundationsblog.wordpress.com/2017/07/22/gravity-as-conscious-force-to-resolve-quantum-gravity/; Downloadable PDF available at https://www.academia.edu/33993443/GRAVITY_AS_CONSCIOUS_FORCE_TO_RESOLVE_QUANTUM_GRAVITY
 
 [^179]:  Quited directly from https://www.snopes.com/fact-check/whether-balloon/
+
+[^180]:  Lim, Daniel (June 1, 2014). "**Brain simulation and personhood: a concern with the Human Brain Project**". Ethics and Information Technology. 16 (2): 77–89. doi:10.1007/s10676-013-9330-5. ISSN 1572-8439.
