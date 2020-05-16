@@ -1,4 +1,4 @@
-<img src="../Images/titlepage.png" style="width:100%;margin:auto">
+*img* src="../Images/titlepage.png" style="width:100%;margin:auto">
 
 
 
@@ -924,6 +924,12 @@ For those who do not know what a *standing wave pattern* (SWP) is, it is a stabl
 Here is a collection of SWPs that were created by placing white powder on a drum head and exposing that drum head to various stable sounds, like a single tone, or a collection of single tones. This process is called *cymatics*.
 
 <img src="../Images/027-cymatics.png" style="width:100%;" />
+
+
+
+Here are some more complex cymatic patterns from the twelve notes of the first octave of a piano.
+
+<img src="../Images/notes.png" style="width:100%;" />
 
 The difference between data and information is analogous to the difference between chaos and order, that difference being exclusively energy.
 
@@ -3138,13 +3144,13 @@ For clarity&rsquo;s sake (even though it may only make things more obtuse), I&rs
 
 Here are some details worth noting:
 
-- Comparing the three vectors of the parent trigram, as they apply to a social context, to their I-Ching equivalents we see amazingly similar values:
+- Comparing the three vectors of the parent trigram, as they apply to a social context, to their I-Ching equivalents we see amazingly similar values. Note: We use the values that are derived form the sides of a complete tholon, i.e. 4 triangles. So, while on a single triangle the first side connects blue &#8594; green <img src="../Images/dots-blue-green.png" style="width:35px"/>, but when we use the 4 triangles, which is what is required to make a complete tholon, the side connects from blue &#8594;red <img src="../Images/dots-blue-red.png" style="width:35px"/>. However, in the next generation, it goes back to the original of blue &#8594; green <img src="../Images/dots-blue-green.png" style="width:35px"/>. This is because all odd number generations, 1,3,5,etc., maintain the original order of colors, and all even number generations flip them.  We now can see there are two orders of color, the initial order of blue&#8594;green&#8594;red, and its child order of blue&#8594;red&#8594;green.  It it worth nothing that this reverse order only applies to the two side that extend form the blue dot, because the reg&#8594;green dot, when reversed, is green&#8594;red, effectively remaining the same.  We suggest that the first order is the order that is fundamental to all tholons, and the subsequent order of the children are layers of orders on top of orders, just like a fractal. For this reason we will only look as the first order in the following table. 
 
 | Tholonic                                                     |                                                              | I-Ching                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dots-blue-green.png" style="width:100px"/> | *Decrease*: Restrictions in outer resources requires one to discover and develop inner resources. |
-| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dots-green-red.png" style="width:100px"/> | *Duration*: The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth. |
-| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dots-red-blue.png" style="width:100px"/> | *After Completion:* In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay. |
+| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dots-blue-green.png" style="width:100px"/> | *Decrease* (hex 41, bin 35): &ldquo;Restrictions in outer resources requires one to discover and develop inner resources.&rdquo; |
+| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dots-green-red.png" style="width:100px"/> | *Duration* (hex 32, bin 14): &ldquo;The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth.&rdquo; |
+| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dots-red-blue.png" style="width:100px"/> | *After Completion (hex 63, bin 21):* &ldquo;In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay.&rdquo; |
 
 
 - The sum of any trigram and the side opposite that trigram always equal 63, the maximum number possible. This was exciting to discover as it supports the tholonic claim that the effect of any point can be seen on the side opposite that point.
@@ -3247,9 +3253,15 @@ For the record, the *other* classic is referred to as the alchemical principles,
 
 There is another reasoning behind what trigrams are chosen to be cardinal, and dynamic. When applying tholonic logic to the I-Ching we have to find the perspective of each model that are compatible with each other. In the diagram below we graphically map the values of the I-Ching to the tholon to find the patterns.
 
+Below, in *Perspective 1*,  we have taken the colored corners and joined them at their tips. The green corners have a value of 0, but the values of the red corner are determined by the row, where, row 0 red ahas a value of 1, row 1 red has a value of 2 and row 2 red has a value of 3. By selecting one corner form each of the three rows we can count to 7.  However, we keep the orientation of the corner in tact, so when there are two corners that have the same overlap, is is represented as yellow in the circle. For example, in the first instance we have row-1 green (0), row-2 green (0) and row-3 green (0), which is three 0s, hence 0+0+0=0. In the second instance we have row-0 red (1), row-1 green (0), and row-2 green (0), so 1+0+0=1. In the third instance we have row-0 green (0), row-1 red (2), row-2 green (0), so 0+2+0=2, etc.
+
+In *Perspective 2*, rather than use the values of the rows, we use the values of the trigrams. In this example we move from trigram 1, to 2, to 3 in clockwise order, as opposed to row 0, row 1 and row 2 from top down.
+
+ 
+
 <img src="../Images/perspectives.png" style="width:100%" />
 
-Both perspectives have patterns. Perspective 1 uses a binary top-down bifurcation model, similar to the I-Ching, and shows the cardinal points as being composed of only primary elements (red and green only), and it shows the dynamic trigrams as have a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. Perspective 2 uses the cyclical tholonic values as they are assigned to the tholonic trigrams. We definitely see patterns there, and no doubt they can shed new light on both the I-Ching and the thologram, but we will only be using Perspective 1 for now as it answers our question of which trigrams are static or dynamic, which is made very clear in the diagram on the right when the images are arranged in their proper order.
+Both perspectives have patterns. *Perspective 1* uses a binary top-down bifurcation model, similar to the I-Ching, and shows the cardinal points as being composed of only primary elements (red and green only), and it shows the dynamic trigrams as have a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. *Perspective 2* uses the cyclical tholonic values as they are assigned to the tholonic trigrams. We definitely see patterns there, and no doubt they can shed new light on both the I-Ching and the thologram, but we will only be using Perspective 1 for now as it answers our question of which trigrams are static or dynamic, which is made very clear in the diagram on the right when the images are arranged in their proper order.
 
 <img src="../Images/threeviews.png" style="width:100%" />
 
@@ -3282,13 +3294,70 @@ This may look like mental gymnastics, but the point is to show how these values 
 
 
 
-### Release (AIR & FIRE ) <img src="../Images/bc/trigram-b06.png" style="width:30px"/> ^5^
+Here are the explanations of the cardinal elements.
 
-*Release* represent accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. Instance of this are **lightening**, **Big Bang**, **inspiration**.
+
+### EARTH <img src="../Images/bc/trigram-b00.png" style="width:30px"/> ^0^
+
+*EARTH* represents the foundation upon which everything is built as well as the resources from which they are built. It is cardinal, winter solstice, inward, the non-moving point between deflation and inflation.  Instance of this are **resources**, **foundations**, **support**.
+
+The trigram shows the symbol of a perfect yin state.
+
+The quadrant of EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"/> exists between the dynamic properties of EMPTYING <img src="../Images/bc/trigram-b04.png" style="width:20px"/> and FILLING <img src="../Images/bc/trigram-b01.png" style="width:20px"/> and therefore represent the extreme yin pole, where the maximum point of EMPTYING is reached and where FILLING begins. 
+
+1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> A yin here indicates that anything can be negotiated, for it is receptive to anything, yin or yang.
+2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> The emerging definitions are determined by the whatever is acting upon it.
+3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> The contribution of the yin is that is allows a yang to appear simply by its existence. It doesn't need to do anything, just as 0 implies 1 by its nothingness. 
+
+
+### WATER <img src="../Images/bc/trigram-b02.png" style="width:30px"/> ^2^
+
+*WATER* represents the movement from dark to light, yin to yang, lifelessness to life.  It is cardinal, spring equinox, ascending, the perfect balance of lessening yin and increasing yang. Instance of this are **electricity**, **nourishment**, **cleansing**, **rivers**.
+
+The quadrant of WATER<img src="../Images/bc/trigram-b02.png" style="width:20px"/> exists between the dynamic properties of FILLING <img src="../Images/bc/trigram-b01.png" style="width:20px"/> and COLLECTING <img src="../Images/bc/trigram-b03.png" style="width:20px"/>and represents the balance between the yin and yang. that is achieved when yang penetrates the yin at is center. The oceans and lakes have filled and are stagnant until the rivers form which serves to collect the water to return it to its cycles..  It is the most *inward* moving of all the states.
+
+The trigram shows the symbol of yang energy penetrating the yin at its core. 
+
+1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> Water cedes to whatever holds it.
+2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> The movement of water is what gives it it power.
+3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> it is the yielding quality of water that is its contributions. If always follows the path of least resistance, is used by every form of life and Nature itself, and is then returned, essentially unchanged. It takes nothing, and gives everything.
+
+
+###  AIR <img src="../Images/bc/trigram-b07.png" style="width:30px"/> ^7^
+
+*AIR* represents the arena of growth and creation. What comes from the yin EARTH grows into the yang AIR. It holds all things in the Universe in place and is symbolic of spirit, which shows us a life beyond our mortal limitations.  It is cardinal, summer solstice, outward, the non-moving point between inflation and deflation. Instance of this are **birth**, **exploration**, **imagination**.
+
+The trigram shows the symbol of a perfect yang state. AIR is one of the three trigrams that is an ORIGINATING SOURCE.
+
+The quadrant of AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/> exists between the dynamic properties of COLLECTING <img src="../Images/bc/trigram-b03.png" style="width:20px"/> and RELEASING <img src="../Images/bc/trigram-b06.png" style="width:20px"/> and therefore represent the turning point from the internal journey to the external journey. This is the extreme yang pole, where the maximum point of COLLECTING is reached is reached and the RELEASING must soon begin.
+
+1. *Negotiation*: <img src="../Images/bc/yang.png" style="width:30px"/> It is the nature of air to move and to create; it therefore seeks out the yin.
+2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> While the unknown is yin in nature, exploring it is yang, and it is only by exploring that definitions and limitations are discovered.
+3. *Contribution*: <img src="../Images/bc/yang.png" style="width:30px"/> The contribution of AIR is to open new doors and find new horizons. 
+
+
+### FIRE <img src="../Images/bc/trigram-b05.png" style="width:30px"/> ^5^
+
+*FIRE* represents the quality that allow for manifestation, transforming idea to form. It is cardinal, fall equinox, descending, the perfect balance of lessening yang and increasing yin. Instance of this are **light**, **consumption**.
+
+The trigram shows the symbol of a yang on the outsides but dependent on a yin center, as the yang dissipates, much like a fire that shines light as the log is reduced to ashes.
+
+The quadrant of FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/> exists between the dynamic properties of RELEASE <img src="../Images/bc/trigram-b06.png" style="width:20px"/> and EMPTYING <img src="../Images/bc/trigram-b04.png" style="width:20px"/> and therefore represent the dissipation of energy, which bring form in to existence and light into the world. This is the balanced that represents the hight of outward expression.
+
+1. *Negotiation*: <img src="../Images/bc/yang.png" style="width:30px"/> The yang is built up and is ready to be released.
+2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> The yin returns as the yang is released, which is defined by dissipation and entropy.
+3. *Contribution*: <img src="../Images/bc/yang.png" style="width:30px"/> The energy is shared with the world, as light, heat, and movement. 
+
+Here are the explanations of the transitional or dynamic interactions.
+
+
+### Release (AIR & FIRE ) <img src="../Images/bc/trigram-b06.png" style="width:30px"/> ^6^
+
+*Release* represent accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. It is the initial outward movement that leads to expression. expression of Instance of this are **lightening**, **Big Bang**, **inspiration**.
 
 The trigram shows the symbol of yin energy re-entering the solid yang. The new yin line comes in at the lowest place of 1, beginning, birth, plant, idea.  The yang is still dominant as the middle line is still yang, so the transition is yang in nature.
 
-The quadrant of AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/> and FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/>is one of *outward descending*. Here, the yang pole of the limits of sustainability has been reached, so there will be a natural movement in the opposite direction.  When this extreme yang mixes with the yin there is a powerful release of yang energy, and the result is FIRE.  The process of *release* is defined by the three states of trigram 6.  This quadrant is *outward* because the process of creation is that of energy (yang) taking form (yin), and form exists in the outer world.  *Descending* because the yang expands, and by doing so also dissipates itself.
+The quadrant of AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/> and FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/>is one of outward descending, or external yang. Here, the yang pole of the limits of sustainability has been reached, so there will be a natural movement in the opposite direction.  When this extreme yang mixes with the yin there is a powerful release of yang energy, and the result is FIRE.  The process of *release* is defined by the three states of trigram 6.  This quadrant is *outward* because the process of creation is that of energy (yang) taking form (yin), and form exists in the outer world.  *Descending* because the yang expands, and by doing so also dissipates itself.
 
 1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> When the yang energy becomes complete, not only does it have nowhere left to go, but its existence depends on the yin at this point.  Here, the yang is subservient to the yin.
 2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> When yang meets yin it wants to release all of its energy and pushed against the limitations of the yin.
@@ -3296,13 +3365,11 @@ The quadrant of AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/>
 
 ### Emptying (FIRE & EARTH) <img src="../Images/bc/trigram-b04.png" style="width:30px"/> ^4^
 
+*Emptying* represents the dissipation and movement of energy via matter. It is the source of order out of chaos. It is the final outward deflation that returns to the initial chaos from which everything is born. Instances of this are **music**, **creation of the elements**, **death**.
 
+The trigram shows the yin energy overtaking the center, making this trigram yin in nature. EMPTYING is one of the three trigrams that is an ORIGINATING SOURCE.
 
-*Emptying* represents the dissipation and movement of energy via matter. It is the source of order out of chaos. Instances of this are **music**, **creation of the elements**, **heat**.
-
-The trigram shows the yin energy overtaking the center, making this trigram yin in nature. 
-
-The quadrant of FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/> and EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"/> is one of *inward descending* where the energy of FIRE quickly dies. This is *inward* because it is FIRE transitioning to EARTH, and *descending* because the energy of creation is waning but in the process, matter is restructured (or born). This is the process that transforms energy to mass (*m=E/c^2^*).
+The quadrant of FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/> and EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"/> is one of final descension, or external yin, where the energy of FIRE quickly dies. This is external because it is FIRE transitioning to EARTH, and *descending* because the energy of creation is waning, but in the process matter is restructured (or born). This is the process that transforms energy to mass (*m=E/c^2^*).
 
 1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> In the dynamic between FIRE and EARTH, FIRE is always dependent on EARTH.
 2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> FIRE can only find expression in EARTH, just like energy can only be experienced via matter. Therefore, the limitations on the expression of FIRE are determined by the yin quality of EARTH.
@@ -3310,11 +3377,11 @@ The quadrant of FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/
 
 ### Filling (EARTH & WATER ) <img src="../Images/bc/trigram-b01.png" style="width:30px"/> ^1^
 
-*Filling* represents form coming to life.  Instance of this are **gestation**, **dark matter (expansion of the Universe)**, **artificial intelligence**.
+*Filling* represents form coming to life.  It is the initial inward inflation of a new cycle. Instance of this are **gestation**, **dark matter (expansion of the Universe)**, **artificial intelligence**.
 
-This trigram shows the return of the yang energy in the bottom place, but as the center is still yin, it is in the domain of yin.
+This trigram shows the return of the yang energy in the bottom place, but as the center is still yin, it is in the domain of yin. FILLING is one of the three trigrams that is an ORIGINATING SOURCE.
 
-The quadrant of EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"/> and WATER <img src="../Images/bc/trigram-b01.png" style="width:20px"/> is one of *inwards ascension* where the empty yin state of EARTH begins to return to life with energy.   *Inward* because the yang enters from the lowest place. *Ascending* because the yang continues to rise.
+The quadrant of EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"/> and WATER <img src="../Images/bc/trigram-b01.png" style="width:20px"/> is one of new beginnings, or internal yin, where the empty yin state of EARTH begins to return to life with energy.   It is inward because the yang enters from the lowest place, and ascending because the yang continues to rise.
 
 1. *Negotiation*: <img src="../Images/bc/yang.png" style="width:30px"/> The lack of yang is what draws the yang to penetrate the EARTH
 2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> The yang must fill the empty yin vessel of EARTH before it can express itself.
@@ -3322,11 +3389,11 @@ The quadrant of EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"
 
 ### Collecting (WATER & AIR) <img src="../Images/bc/trigram-b03.png" style="width:30px"/> ^3^
 
-*Collecting* represents the higher orders of structure that extend ever outward. Instances of this are the **Internet**, **space-born viruses**, **Mongol Empire** .
+*Collecting* represents the higher orders of structure that extend ever outward. It is the final internal inflation, the final preparation.  Instances of this are the **Internet**, **space-born viruses**, **Mongol Empire** .
 
 This trigram, with two emerging yang lines, is now in the domain of the yang.
 
-The quadrant of WATER <img src="../Images/bc/trigram-b01.png" style="width:20px"/> and AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/>is one of *outward ascending* where the balanced state of WATER ascends and expands into the polar state of AIR.
+The quadrant of WATER <img src="../Images/bc/trigram-b01.png" style="width:20px"/> and AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/>is one of preparing, or internal yang, where the balanced state of WATER ascends and expands into the polar state of AIR.
 
 1. *Negotiation*: <img src="../Images/bc/yang.png" style="width:30px"/> The yang becomes dominant here, and the remaining yin is outnumbered. This is the time when the yang begins to reign.
 2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> The yang is no longer constrained by the limitation of the EARTH and is free to expand into what seems like limitless AIR.  This is the culmination of expression, and whatever the ultimate expression of an instance is, according to the nature of the instance, will be expressed here. 
@@ -3457,12 +3524,418 @@ But there is one more perspective that is worth looking at.  If we arrange this 
 There are many significant patterns here, but the ones I'd like to point out specifically are:
 
 - Only the numbers 7 and 2 are the same on both axes.  This is significant because it says that the value of 7 and 2 have the same measure when it comes to *how* something came to be, and *what* something came to be.  This is not only because they are the same in the map, but they are also the same as the sum of their axis.  When we look at the combined values of the axes, we see that this is the same case for 12.  They also are the first and last prime numbers (in the set of 0-8, the two in-between being 3 and 5)
-
 - Values A~011~ and A~100~ overlap, and of course, when combined they equal A~111~, which is supporting evidence that this model is viable, plus, the VI value, indicating how this unique double-value will instantiate itself is the number 1, and is also the first instance of an overlap that happens to be the reverse value of the original A source value. In short, the number 1 represents the instance of the source that created everything, and came into existence by the source dividing itself and then recombining itself.  Sound familiar?
-
 - Only meta-values that reach the *observable level* have some quality that is quantifiable as a number, but as everything beyond that point can have numerical values, the implication is that there are 7 meta-values across 2 generations and 3 levels that stand between A and all instances.  What is interesting about this is that we see this same concept in religion and  mythological cosmology (Mesopotamian, Islam, Judaism, Christianity, Hinduism, Jainism), where Heaven, that place from which our material reality was conceived, has seven divisions.  In addition we have the concept of a trinity, an even more fundamental concept that has been incorporated in our models of reality going back to the most ancient beliefs.
 
+## The Origin of Lines
+
+The individual lines were addressed in part earlier, but here we will try and pull it together into something more coherent.
+
+Because the I Ching is about the nature of unending change, it is better to view the stages of the change as a continuous stream of changes as I attempted to show in the image below.
+
+
+
+<img src="../Images/6stages.png" style="width:100%" />
+
+This continuity is confirmed in the I Ching when it states: "All movements are accomplished in six stages, and the seventh brings return."  Here we see how the seventh stage returns us to the first stage of the next cycle. Another validation of using this waveform as a model is that the lower trigram of lines 1, 2, and 3 are, in fact, in the lower part of the waveform, and the upper trigram of 4,5, and 6 are in the upper part.
+
+Below is a front view of the waveform that exposes more information.  Allow me to point out some of the details.  The upper half, being outward in nature is also yang in nature, and the bottom is yin. This is illustrated by brown, expanded, faded background of a solid yang like in the upper half, and a green, expanded, faded background of a solid yin line. But the left and right side are also yin and yang in nature, as the left side (yang) is ascending in nature, and the right side (yin) is descending in nature.  This results in four quadrants that are, respectively, yin-yin (0), yin-yang (2), yang-yang (3), and yang-yin (1), which are shown in each corner.
+
+The cycle is composed of six stages that alternate between yin (orange) and yang (blue). Within one complete cycle we have highlighted a number of significant axis and their yin and yang properties. 
+
+<img src="../Images/6stages-front.png" style="width:50%" />
+
+
+
+When these axis properties is combined with the quadrant bigrams, we get the following:
+
+
+
+<img src="../Images/bigrams-add.png" style="width:20%" />
+
+The first thing to notice is that there are only four, not six. This is because lines 2 (WATER) and 5 (FIRE) are in neither yin (right) or yang (right) sides.  The resulting values are also the values of the stages tat exist only in the quadrants. This suggest that the cardinal points of FIRE and WATER define the the axis around which all the others exist and are themselves not affected by the yin or yang influences of either side.  They are, in a sense, a more perfect form of yin and yang.  This is important to point out because of the significance that lines 2 and 5 have in the final hexagram.
+
+## The Origin of Trigrams
+
+Next, we will look closely at how a trigram evolves from nothing.  Below is a binary tree that begins with a point of unity that divides itself into two states, 0 and 1. This established the most fundamental concept of yin and yang. This is then followed by each of those children doing the same by creating their own two children of 0 and 1.  We can see that there are now 4 children, each defined by the parent's fundamental yin or yang, and then adding to that the yin or yang of the child. this produces the 4 children of values 0, 2, 1, and 3, as shown by the bigrams.  This is done one more time to create the final branch of 8 children, each with a value determined by adding their yin or yang value to the bigrams passed down by the parents. Now we have 8 trigrams or 0, 4, 2, 3, 1, 5, 3, and 7.  Unfortunately, this order seems to lack any symmetry or pattern that is compatible with our model, suggesting it is incorrect.  However, if we flip the tree upside down, like a mirror image, the order immediately appears!  This is important when we are adding lines, because if we start with <img src="../Images/bc/bigram00.png" style="width:25px">and add a <img src="../Images/bc/yang.png" style="width:25px">, you might expect we get a <img src="../Images/bc/trigram-b04.png" style="width:25px">, but as we will need to flip it to maintain the "mirrored" order, we will actually get a <img src="../Images/bc/trigram-b01.png" style="width:25px">.  
+
+
+
+
+
+<img src="../Images/btree-top-bottom.png" style="width:100%" />
+
+Now we can see the first order of 0, 1, the 2^nd^ order of 0, 1, 2, 3 and the final and 3^rd^ order of 0, 1, 2, 3, 4, 5, 6, 7
+
+This little example has tremendous philosophical implications, for example; the order of our world is one of bottom-up, not top-down. The top-down order is a mirror image of the bottom-up order and visa versa, and the top-down order, while being a perfect mirror of the bottom-up order, makes no sense to out sense to our bottom-up sense of order. 
+
+Now that we have our model in order, we can see if our trigrams fit into it in any way that makes sense. We do this simply by assigning the names of the trigrams that have the same values, while also assigning the first two branches of 0 and 1 to be that of the two branches of the tholonic trigram, like thus:  
+
+<img src="../Images/attr-btree.png" style="width:100%" />
+
+Notice how every cardinal element is symmetrical or balanced (<img src="../Images/bc/trigram-b00.png" style="width:25px" /><img src="../Images/bc/trigram-b02.png" style="width:25px" /><img src="../Images/bc/trigram-b05.png" style="width:25px" /><img src="../Images/bc/trigram-b07.png" style="width:25px" />) and every dynamic element is asymmetrical or imbalanced (<img src="../Images/bc/trigram-b01.png" style="width:25px" /><img src="../Images/bc/trigram-b03.png" style="width:25px" /><img src="../Images/bc/trigram-b04.png" style="width:25px" /><img src="../Images/bc/trigram-b06.png" style="width:25px" />)
+
+We can see that every pair of children is made up of two trigrams where one is a cardinal element and one in a dynamic element. This suggests that the parent is both a state (element) and an energy (dynamic) combined, but these merged can only find separation in the children. We can also see that the nature of the energy is compatible with the nature of state. Here we have a bit of a challenge, because we do not have words that describe a state and a movement. Computer programming languages do have such a concept.  It is called a "class," and a class contains both information and the code that can act on that information. We will have to make do with some create nouns and verbs.
+
+For example, what can we call the parent that has a state of EARTH and an energy of Filling? It would have to be some quality that is common to both of these things. I have chosen the word "Absorb," because the act of absorbing is the process of *Filling* (of the absorptive material), and the element of EARTH, being the perfect yin of 0, can only absorb and be filled. Readers my find better words or concepts to describe these pairs. Think of the ones used here are suggestions.
+
+"Contract" is used to describe the nature of WATER, because water, which always travels the path of least resistance, will always pool, *Collecting* at the lowest point. Of course, all energy travels the path of least resistance, but WATER is meant to describe that property, not just H^2^0, so we can say that all energy has the property of WATER. We have nouns and verbs.  
+
+"Consume" describes the nature of FIRE, as it consumes, or uses up its fuel. This is almost the textbook definition of *Emptying*.
+
+"Expand" describes the nature of AIR, as it will expand into every place of existence to the edge of the universe. AIR here does not simply mean the air we breath, but refers more to the space that exists between all things, be they atoms or planets. If one considered the expanding universe as a function of AIR, which was itself a function of the Big Bang, the Release fits nicely.  from this perspective, AIR might also be the element of dark matter.
+
+
+
+<img src="../Images/bigrams-ele.png" style="width:20%" />
+
+
+
+Let's recap how we are describing the elements and process of the eight trigrams.
+
+
+
+We have arrived at the first pair, the original 0 and 1, the parents of all things, which, according to the tholonic model, have the two attributes of the primal yin as LIMITATION and the primal yang as CONTRIBUTION. Here LIMITATION (or DEFINITION) refers to the limits that everything that exists must exist within. These are defined by the laws of physics and nature, the environment, the available resources, the integration with other processes, and, of course, the limitation of form itself with it's three dimensions. CONTRIBUTION refers to what the creation in questions returns to the source from which it came. Various models imply various ways to understand the purpose of existence. In this model, the purpose of existence, and of life, is to be able to contribute back to the parent, the source, from which all creation sprung.
+
+Here is an alternative way of looking at this model. Notice how all the horizontal pairs of pink dots equal 7, and all the pairs of orange dots equals 3, and how descriptions are opposite in nature for every pair.
+
+<img src="../Images/btree-circ.png" style="width:50%" />
+
+With the introduction of bigrams, let's look at the order of the trigrams again.
+
+<img src="../Images/8-fold.png" style="width:100%">
+
+|                                                              |                                                              | Filling <img src="../Images/bc/trigram-b01.png" style="width:25px" /> | Collecting <img src="../Images/bc/trigram-b03.png" style="width:25px" /> | Emptying <img src="../Images/bc/trigram-b04.png" style="width:25px" /> | Releasing <img src="../Images/bc/trigram-b06.png" style="width:25px" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              | **That which is empty can only be filled. Filling is the act of creation, of applying brush to canvas.** | **All is drawn to where it is best fits. This is what causes all thing to exist where they do. Collecting is like choosing what dots to connect. The word CONNECT would also apply here, just as it is the nature of water to connect with water.** | **The transformation of energy. FIRE consumes the wood to create heat and light.** | **The liberation of mounting pressure. This is the Big Bang, and how nature abhors a vacuum. AIR want to move wherever it can**. |
+| EARTH  <img src="../Images/bc/trigram-b00.png" style="width:25px" /> | **The canvas of creation. The perfect yin which is receptive to all creative energy. Earth has no directions or movement on its own. EARTH is that upon which we stand, create, and exist. It is the nothingness into which AIR penetrates.** | ABSORPTION <img src="../Images/bc/bigram00.png" style="width:25px" /> |                                                              |                                                              |                                                              |
+| WATER <img src="../Images/bc/trigram-b02.png" style="width:25px" /> | **The downward, or yin, energy. WATER is the womb of creation, the path of least resistance** |                                                              | CONTRACTION <img src="../Images/bc/bigram01.png" style="width:25px" /> |                                                              |                                                              |
+| FIRE <img src="../Images/bc/trigram-b05.png" style="width:25px" /> | **Upward or yang energy. FIRE is the energy of life.**       |                                                              |                                                              | CONSUMPTION <img src="../Images/bc/bigram10.png" style="width:25px" /> |                                                              |
+| AIR <img src="../Images/bc/trigram-b07.png" style="width:25px" /> | **That which we grow into. AIR penetrates all space and defines the outer limits of the Universe. AIR is the unknown that we explore.** |                                                              |                                                              |                                                              | EXPANSION <img src="../Images/bc/bigram11.png" style="width:25px" /> |
+
+
+
+While there may be many ways to create order of the trigrams, the tholonic model continually revalidates itself everything we look at it from a different perspective. How, then, do these trigrams relate to a tholon?  If you look back to where we mapped the binary to the tholon, the relationship is obvious and powerful, as shown in the graphic below.
+
+<img src="../Images/tri-tholon.png" style="width:100%">
+
+Here are some of the points spelled out:
+
+- Every corner trigram value, which is yang in nature, is reversed on the opposite side, which is the sum of all the values that define the side, which is yin in nature.
+- The two extremes, 7 and 0, and in the center, which, as a tetrahedron, represent the base of the tetrahedron (EARTH - 0) and the tip (AIR - 7). This is the only place they appear, for being the center, they have no polar opposite.
+- All hexagrams are made only of trigram pairs that equal 7
+- Inner trigrams progress clockwise (1,2,3), outer trigrams progress counter clockwise (4,5,6). 0 and 7 do not move at all.
+- The only point where all the elements (FIRE, WATER, AIR, EARTH) meet with all three *Originating Source* trigrams, i.e, trigrams that have the ability to create, is at the center bottom point pf the three blue dots, or three N-states, where a new N-state, on in this case, a new cycle of change, exists.
+
+Examining the I Ching from a tholonic perspective shine a light of new patterns and relationships within the I Ching that exist in nature, reality, energy, science, etc., above and beyond what it already demonstrates in it's binary model.
+
+This, however, brings up an overlooked pattern.  We showed before how descension from the primal 0 and 1 created the uber classes or Absorption, Contraction, Consumption, and Expansion, and from each of these came the pairs of 0 and 1, 2 and 3, 4 and 5, and 6 and 7.  But when we lay these out as we have above, another uber class emerges, which is that of the opposites.  For example, EARTH (0) and AIR (7) are one of the pairs that add up to 7, but these attributes share a common significance in that together they define the lowest place and the highest place, which essentially describes the limits of the third dimension of our space (as 2D space has no height).  Below is a graphic that shows these pairs and their (proposed) uber class of significance. The last column, "Example Instance" is meant to show how theses four basic qualities can instantiate in various way. Electricity is one. Chapter 4 covers a number of other instances.
+
+|                |                                                              |              |                                                              | Description of Uber class                | Example instance |
+| -------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ---------------------------------------- | ---------------- |
+| EARTH – 0      | <img src="../Images/bc/trigram-b00.png" style="width:50px"/> | AIR – 7      | <img src="../Images/bc/trigram-b07.png" style="width:50px"/> | Lowest, highest, limits of 3rd dimension | Voltage          |
+| Filling – 1    | <img src="../Images/bc/trigram-b01.png" style="width:50px"/> | Release – 6  | <img src="../Images/bc/trigram-b06.png" style="width:50px"/> | Flow control                             | Resistance       |
+| WATER – 2      | <img src="../Images/bc/trigram-b02.png" style="width:50px"/> | FIRE – 5     | <img src="../Images/bc/trigram-b05.png" style="width:50px"/> | Movement of energy, downward and upward  | Current          |
+| Collecting – 3 | <img src="../Images/bc/trigram-b03.png" style="width:50px"/> | Emptying – 4 | <img src="../Images/bc/trigram-b04.png" style="width:50px"/> | Transferring                             | Power            |
+
+## The Lines
+
+
+
+A hexagram is defined by a pair of trigram and the trigrams are defined by three lines, so rather than say there are 6 lines we say there is a pair of 3 lines.  We can also say a hexagram is composed of three bigrams, which, as shown, have their own significance. A line has properties based on its position in the hexagram as well as its position in the trigram.  
+
+Because a line can be either yin or yang we can state that a line is a yin or yang expression of a state that is both, just as we did in the binary tree above.  
+
+Our overriding presumption is that the three archetypes of creation are Negotiation, Limitation, and Contribution. We can see the three instantiations of these archetypes in sustainability, growth, and life cycle.
+
+*Sustainability* effectively nothing but negotiation. For something to continue to exist, it must maintain a relationship with its environment. When the environment can no longer come to terms with whatever it is, that thing will cease to exist. This applies to everything from pions to black holes.
+
+*Limitation* can also be called definition, for to define something is to limit it to that definition.  Growth is another word for expansion within the limits defined by some context, and why there are now flying pigs.
+
+Contribution happens only during the life cycle of something's existence.  Not coincidently, the two lines that are associated with contribution are line 3, which marks the beginning of a cycles external expression, and line 6, the end of the cycle.
+
+Each of these instances contains a pair of attributes, one yin, and one yang. The graphic below shows each yin/yang pair of attributes for each instance, as well as how a helix of yin and yang connected by the six lines.
+
+
+
+<img src="../Images/line-tao.png" style="width:100%" />
+
+Now we can show this, along with a few other attributes already mentioned, in the following table
+
+In fact, there are a number of models, for growth, recovery, behavior, production, etc., that neatly fit into six stages.  One popular model is called the *The Transtheoretical Model* [^181], included in th table below.
+
+|       | **Tao** | **Context**<br />(Hemisphere) | Movement<br />(Ascending/descending)<br />(Inflating/deflating) | **Nature**   | **Archetype** | **Example instance** | Transtheoretical Model example |
+| ----- | ------- | ----------------------------- | ------------------------------------------------------------ | ------------ | ------------- | -------------------- | ------------------------------ |
+| **6** | Yin     | Yang                          | Descending / deflate                                         | Contribution | Dissolution   | Death                | Termination                    |
+| **5** | Yang    | Yang                          | x                                                            | Limitation   | Integration   | Adult Life           | Maintenance                    |
+| **4** | Yin     | Yang                          | Ascending / inflate                                          | Negotiation  | Stability     | Growing up           | Action                         |
+| **3** | Yang    | Yin                           | Ascending / inflate                                          | Contribution | Deployment    | Birth                | Preparation                    |
+| **2** | Yin     | Yin                           | x                                                            | Limitation   | Requirements  | Pregnancy            | Contemplation                  |
+| **1** | Yang    | Yin                           | Descending / deflate                                         | Negotiation  | Conception    | Insemination         | Precontemplation               |
+
+~~From this alone we can construct simple statements.~~
+
+- ~~Line 1: The spreading of a seed is the final step in the process that brought that seed forth. Whether it will germinate and how it will grow depends on the nature of the seed and the environment that surrounds it.~~  
+- ~~Line 2: As the seed grows it must cede and adapt to what is available.~~
+- ~~Line 3: The inner development has grown to the point where it must expose itself to the world~~  
+- ~~Line 4: What has developed inwardly must now develop outwardly by learning, adapting. listening, following.~~
+- ~~Line 5: All that can be achieved, expressed, or realized will be expressed.~~
+- ~~Line 6: Once the creation has spent itself, it is beyond anyone's control or influence. Only history will know its value.~~
+
+
+
+We can see that each line has a natural quality of being yin or yang, ascending/inflating, or descending/deflating. On the table below we show the six lines with their yin and yang qualities. The bold lines indicate this is the natural state for that line. The "Bigram" column comes from the fact that *Limitation* has a yin quality, and and *Contribution* has a yang quality, so its two children of yin and yang create a bigram (the bottom line being the parent's). *Negotiation* is the balancing of these two qualities, so it has no bigram, however, it is from the *Negotiating* context that a new *Limitation* and *Contribution* can emerge from.  In fact, because the 1st live of every trigram is a *Negotiation*, we consider the 2nd line the *Limiting* aspect of the 1^st^ line, and the 3^rd^ line the *Contributing* aspect of the 1st line (as a result of the 2^nd^ line)
+
+|      | Yang        | Yin          | Bigram                                                   |              | Bigram Desc                     |
+| ---- | ----------- | ------------ | -------------------------------------------------------- | ------------ | ------------------------------- |
+| 1    | Conception  |              | <img src="../Images/bc/yang.png" style="width=50px">     | Negotiating  | Originating yang                |
+| 2    |             | Requirements | <img src="../Images/bc/bigram00.png" style="width=50px"> | Limiting     | Absorptive (EARTH, Filling)     |
+| 3    | Deployment  |              | <img src="../Images/bc/bigram11.png" style="width=50px"> | Contributing | Expansive (Release,AIR)         |
+| 4    |             | Stability    | <img src="../Images/bc/yin.png" style="width=50px">      | Negotiating  | Originating yin                 |
+| 5    | Integration |              | <img src="../Images/bc/bigram10.png" style="width=50px"> | Limiting     | Consumptive (Emptying, FIRE)    |
+| 6    |             | Dissolution  | <img src="../Images/bc/bigram01.png" style="width=50px"> | Contributing | Contraction (WATER, Collecting) |
+
+
+
+You might be wondering how an originating yang, like line 1, can create a child that is all yin, and visa versa for line 4.  This is possible because the two trigrams are originating form the same source that the trinity of *Negotiation*, *Limitation*, and *Contribution* arise from, which is the tholon itself, shown below (in case you forgot).  In other words, all possible combination already exist in this one source, and their order of appearance is not defined by the hexagram, trigram, or bigram;  the grams are defined by their order.  Just as an interesting aside, when WATER or FIRE the trigram is mapped to the tholon, it creates all eight trigrams. This means that one complete tholon (a tholon and its virtual tholon) holds all 64 hexagrams.
+
+<img src="../Images/058-interrules.png" style="width:30%;margin:auto;" />
+
+
+
+## xx
+
+
+
+A yin or yang line can mean many things depending on its context.
+
+| Example Context | Yin            | Yang        |
+| --------------- | -------------- | ----------- |
+| Planets         | Moon           | Dun         |
+| Orientation     | Shared         | Independent |
+| Intentions      | Covert         | Open        |
+| Visibility      | Hidden         | Exposed     |
+| Sides           | Shady          | Sunny       |
+| Weather         | Overcast       | Sunny       |
+| Gender          | Female         | Male        |
+| Humidity        | Wet            | Dry         |
+| Temperature     | Cold           | Hot         |
+| Formation       | Disintegrating | Integrating |
+| Day             | Dark           | Light       |
+
+Within the hexagram, the meaning of one line depends on the context of its parent's bigram, which exists within the context of the trigrams, which exist within the context of the entire hexagram.  This creates a problem, as how can we know the meaning of a hexagram without knowing the meaning of the lines, and visa versa?
+
+Let's show an example of hexagram 53, DEVELOPMENT (binary value 52). In the table below we show all the attributes as know about.
+
+**Stage**
+
+- This is the archetype of the stage in the six stages of progression, with the default, or natural, value for the Archetype.
+
+**Nature**
+
+- The nature of a single line is either yin or yang
+
+**Line**
+
+- The value of the line of the hexagram in question.
+
+**Context**
+
+- A line exists in either the lower, yin half of the cycle, or the upper, yang half of the cycle. The yin or yang here describes the environment the line is operating within.
+
+**Movement**
+
+- A line is either ascending, from yin (0) to yang (7), or descending form yang (7) to yin (0).  However, lines 2 and 5 are neither ascending or descending, for they are at the nadir (0) or zenith (7).
+
+**Intention**
+
+- The underlying purpose of a line is determined which if the three primal it belongs to, which are NEGOTIATION, DEFINITION, and CONTRIBUTION. This determines  is the primary nature and purpose of a line.
+
+**Concept**
+
+- The first children of the original duality of DEFINITION (0) and CONTRIBUTION (1) set the general concept for the line. This concept is the parent of two children which are instantiations of that concept.  The concept is represented as the four bigrams of ABSORPTION, CONTRACTION, CONSUMPTION,  and EXPANSION, and are defined by the lines 1 & 2, 3 & 4, and 5 & 6.
+
+**Source**
+
+- Because each bigram comes directly from its bipole parents of *Definition* and *Contribution*, we can assign which side of the bipole the bigram and its lines descended from.
+
+**Expression**
+
+- While this appears to be referring to a trigram, it is not.  It is referring to the yet uninstantiated yin or yang quality that is latent within the bigram. For example, the ABSORPTION bigram has the latent qualities of EARTH and Collecting, but these qualities will be instantiated until a yin or a yang line is added to the bigram. However, because we know that the bigram has these two latest qualities, one being yin and the other yang, we can say that the yin within the bigram is the latent quality of the yin child, EARTH, and the yang in the latent quality of the yang child, Filling.  Therefore, the line of the bigram that is in the yin place will tend to express itself like the yin quality of that bigram, and   when that line is in the yang place it will tend to express itself like the yang quality of the bigram. There can be yin or yang lines in both yin or yang places. The property of the line effects the nature of the expressions, so there can be a yang EARTH and a yin EARTH, or a yang FILLING and a yin FILLING, etc.
+
+**Instance**
+
+- This is the trigram and the final expression that has descended from the original duality, to the bigrams to this. It is one of the eight children of the four bigrams. These are the first stable, instantiated, manifestations of the original duality.
+
+
+
+
+
+| stage        | nature | Natural Default                                      | context | movement   | intention    | concept     | source     | expression | instance |
+| ------------ | ------ | ---------------------------------------------------- | ------- | ---------- | ------------ | ----------- | ---------- | ---------- | -------- |
+|              |        |                                                      |         |            |              |             |            |            |          |
+| Continuation | yin    | <img src="../Images/bc/yin.png" style="width=50px">  | Outer   | Descending | Contribution | Contraction | Definition | Collecting | WATER    |
+| Integration  | yang   | <img src="../Images/bc/yang.png" style="width=50px"> | Outer   | Still      | Definition   | Contraction | Definition | WATER      | WATER    |
+| Stability    | yin    | <img src="../Images/bc/yin.png" style="width=50px">  | Outer   | Ascending  | Negotiation  | Contraction | Definition | Collecting | WATER    |
+| Deployment   | yang   | <img src="../Images/bc/yang.png" style="width=50px"> | Inner   | Ascending  | Contribution | Contraction | Definition | WATER      | FIRE     |
+| Requirements | yin    | <img src="../Images/bc/yin.png" style="width=50px">  | Inner   | Still      | Definition   | Contraction | Definition | Collecting | FIRE     |
+| Conception   | yang   | <img src="../Images/bc/yang.png" style="width=50px"> | Inner   | Descending | Negotiation  | Contraction | Definition | WATER      | FIRE     |
+
+
+
+Line 1: CONCEPTION 
+
+
+
+| Archetype    | Natural Default                                      | Line                                                 | Tao   | Line Type    | bigram ()   | Bipole (orientation) | applied val | trigram   | applied val |
+| ------------ | ---------------------------------------------------- | ---------------------------------------------------- | ----- | ------------ | ----------- | -------------------- | ----------- | --------- | ----------- |
+|              |                                                      |                                                      |       |              |             |                      |             |           |             |
+| Continuation | <img src="../Images/bc/yin.png" style="width=50px">  | <img src="../Images/bc/yang.png" style="width=50px"> | Outer | Contribution | Expansion   | Contribution         | AIR         | Releasing | Development |
+| Integration  | <img src="../Images/bc/yang.png" style="width=50px"> | <img src="../Images/bc/yang.png" style="width=50px"> | Outer | Definition   | Expansion   | Contribution         | AIR         | Releasing | Development |
+| Stability    | <img src="../Images/bc/yin.png" style="width=50px">  | <img src="../Images/bc/yin.png" style="width=50px">  | Outer | Negotiation  | Contraction | Definition           | Collecting  | Releasing | Development |
+| Deployment   | <img src="../Images/bc/yang.png" style="width=50px"> | <img src="../Images/bc/yang.png" style="width=50px"> | Inner | Contribution | Contraction | Definition           | WATER       | Emptying  | Development |
+| Requirements | <img src="../Images/bc/yin.png" style="width=50px">  | <img src="../Images/bc/yin.png" style="width=50px">  | Inner | Definition   | Absorption  | Definition           | Filling     | Emptying  | Development |
+| Conception   | <img src="../Images/bc/yang.png" style="width=50px"> | <img src="../Images/bc/yin.png" style="width=50px">  | Inner | Negotiation  | Absorption  | Definition           | EARTH       | Emptying  | Development |
+
+
+
+This sort of hierarchical nesting is, as was argued earlier, the very nature of existence, but physical and conceptual. Here were those previous examples:
+
+<img src="../Images/nested.png" style="width:80%">
+
+
+
+ The problem is, how can we know the meaning of a hexagram without knowing the meaning of the lines, and visa versa?
+
+
+
+First we will break down the natural order.
+
+**Line 1** <img src="../Images/bc/yang.png" style="width:25px">refers to the archetypal property of CONCEPTION with an intention of NEGOTIATION. This can mean many different thing; mitosis, ideas, small movements that will grow to large movement, such as getting pregnant to the beginning of an avalanche.  The act of something beginning is itself a NEGOTIATION, for the elements and conditions at hand must all be compatible with the outcome, but even then, the outcome is not guaranteed. Mountains and snow alone does not guarantee an avalanche, nor does a fertilized egg guarantee a viable life.  A NEGOTIATION is not always cooperative. It can also be a battle, with two forces attempt to take over or eliminate the other. War is just a very aggressive and destructive form of NEGOTIATING. Regardless of the contextual instance CONCEPTION takes, it has the archetypal nature of being yang, suggesting it is the first impulse that begins the cycle.
+
+**Line 2** <img src="../Images/bc/yin.png" style="width:25px">refers to the archetypal property of REQUIREMENTS. This deals directly with the context of that Line 1 must contend with. The REQUIREMENTS of an avalanche are mountains and snow, and for a pregnancy, compatible chromosomes. In this case REQUIREMENTS is similar to *resources available*, but this line also has the intention of DEFINITION.  It is in this line that the nature of the creation of this cycle is defined. There may be elements avails that can create numerous different instances in the same context, but here is where which instance will be DEFINED. This line is yin because it is subject to the REQUIREMENTS and resources at hand.
+
+#### <img src="../Images/bc/bigram01.png" style="width:25px">Now we have two lines, which forms the first bigram of CONTRACTION , which is the yang child of the yin parent DEFINITION. Once we know the bigram, we can look at its children and see that Line 1 is the yin child of CONTRACTION, which is the cardinal element of WATER in a yang line, and line 2 is the yang child, which is the process of COLLECTING, in a yang line. We can now say that **the first two lines are DEFINED by a CONTRACTION which created a yin, or negative, energy, that fills the womb of creation, into which is COLLECTS that which belongs there, i.e. the REQUIREMENTS, and which will find their correct place.**
+
+**Line 3** <img src="../Images/bc/yang.png" style="width:25px"> refers to the archetypal property of DEPLOYMENT, when that which has been growing is at the point where it ready to become expressed. This line has the intention of CONTRIBUTION, as it has arrived at its final state of development and is ready to be delivered. This line is hang because CONTRIBUTION is an act of delivery, which is yang. This is the line of giving birth, or the small vibration that can shift the snow.
+
+#### <img src="../Images/bc/trigram-b05.png" style="width:25px">This result of the CONTRACTING womb of life that COLLECTED all that is REQUIRES and is ready to be DEPLOY its creations as a CONTRIBUTION to the OUTER world created the trigram of FIRE , the upward, yang, energy of life.
+
+**Line 4** <img src="../Images/bc/yin.png" style="width:25px"> refers to the STABILITY of that which was just delivered.  It has left the INNER world and now exists in the OUTER world. Here is where it seeks to remain viable on its own, and this again requires a NEGOTIATION between the creations nature and the OUTER context is now has to contend with.
+
+#### <img src="../Images/bc/bigram01.png" style="width:25px">Now we have the next two lines which forms the second bigram of CONTRACTION , just like the first bigram. Here, the yin WATER of the yang Line 3 with the intention of DEPLOYMENT suggests an flowing out of what was INSIDE to OUTSIDE. Line 4 is yin, but occupied by the yang nature of COLLECTING with the intention of achieving STABILITY, both of which are negative, or downward, in nature.  The creation will find its place by traveling the path of least resistance to find its place in the same way that WATER travels downward and COLLECTS to form lakes and oceans.  We can now say **these two lines are DEFINED by a CONTRACTION of the WATERS it was created in that leaves the INNER and enters the OUTER, seeking its most STABLE state. **
+
+
+
+**Line 5** <img src="../Images/bc/yang.png" style="width:25px"> refers to the INTEGRATION of this now stable creation with the environment it exists within. Here is where the expression of the creation is DEFINED.
+
+**Line 6** <img src="../Images/bc/yin.png" style="width:25px"> refers to the CONTINUATION of the creation after is completed expression, and where the CONTRIBUTION of its OUTER expression is determined and recognized.
+
+#### <img src="../Images/bc/bigram01.png" style="width:25px">These are the last two lines, which form the third bigram of CONTRACTION , just like the previous two bigrams. Here, the yin WATER of the yang Line 5 with the intention of INTEGRATION suggests a cooperative and broad relationship with its environment, as the WATER is yin (yielding) but the line is yang (expansive). Line 6 is yin, but occupied by the yang nature of COLLECTING with the intention of CONTINUING, both of which are negative, or downward, in nature.  We can now say about this line: **The creations CONTRIBUTION is an expanding downward energy, INTEGRATED with its environment, that COLLECTS with the purpose of CONTINUING. ** 
+
+#### <img src="../Images/bc/trigram-b02.png" style="width:25px">The upper trigram WATER, is produced by the RELEASING quality of the upper trigram of WATER STABILITY of the NEGOTIATIONS of Line 4 resulting in the CONTRIBUTION is an expanding downward energy, INTEGRATED with its environment, that COLLECTS with the purpose of CONTINUING.
+
+
+
+
+
+
+
+## ???
+
+When we have one line alone, all we can say about it is that it is yin or yang, 0 or 1. However, we can compare this value to the natural order of line 1, which is a yang line.  In our example, line 1 is a yin line, so we already know that our line 1 varies from the natural order.
+
+
+
+We first construct the entire hexagram with the six lines. Once we have the hexagram, we can reverse engineer it to discover its attributes. In this example, we first constructed a hexagram with the binary value of 52. Starting from the top and moving down, we begin with the primary bipole orientation. This can be only Definition (yin) or Contribution (yang). Given the lack of context at this level there is little more we can say.
+
+
+
+
+
+
+
+|      |              | yang                                                         | yin                                                          |
+| ---- | ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | Conception   | **(STRONG) This begins a new cycle.  It could be a new idea, concept, impulse,  desire, etc., but it has yet to have any perceivable effect** | WEAK The writing on the wall, a hunch, a yet manifest unintended consequence |
+| 2    | Requirements | WEAK exploration, experimentation                            | **(STRONG) Absorbing, learning, organizing, optimizing, careful assembly** |
+| 3    | Deployment   | **(STRONG) Expansion, releasing, separation, pushing forth, advancing** | WEAK pulling back, retreating                                |
+| 4    | Stability    | WEAK aggressive, forceful, oppressive                        | **(STRONG) Whatever started in Line 1 has begun to appear in whatever way it can given the context it exists in ** |
+| 5    | Integration  | **(STRONG) The peak of expression has been seen, the energy spent. ** | WEAK unsustainable, no value, ??                             |
+| 6    | Dissolution  | WEAK far reaching consequences/changes?                      | **(STRONG) Balance of energy returns to the source. Movement ends, peace of stillness returns.** |
+
+
+
+Applying this to  hexagram 17, <img src="../Images/bc/hexagramB25.png" style="width:25px">
+
+Line 1
+
+- **STRONG New idea or concept, a cause that has yet to have any perceivable effect,  a desire** (results in WEAK aggressive, forceful, oppressive)
+- changes to 
+  - WEAK The writing on the wall, a hunch, a yet manifest unintended consequence
+
+Line 2
+
+- **STRONG Research, organizing and optimizing, careful assembly** (results in STRONG **functional, adding value, sustainable**)
+- changes to
+  - WEAK exploration, experimentation
+
+Line 3
+
+- WEAK pulling back, retreating (results in  STRONG **surrender, recycle**)
+- changes to 
+  - **STRONG separation, pushing forth, advancing**
+
+Line 4 
+
+- WEAK aggressive, forceful, oppressive (depends on STRONG **New idea or concept, a cause that has yet to have any perceivable effect,  a desire**)
+- changes to 
+  - **STRONG responsive, flexible, negotiable**
+
+Line 5
+
+- **STRONG functional, adding value, sustainable** (depends on STRONG **Research, organizing and optimizing, careful assembly**)
+- changes to
+  - WEAK unsustainable, no value, ??
+
+Line 6
+
+-   **STRONG surrender, recycle** (depends on WEAK pulling back, retreating)
+- changes to
+  - WEAK far reaching consequences/changes?
+
+## The Hexagram
+
+If each hexagram is to have its own unique story, then there must be some dynamic between the lines, how they relate to and effect one another. Unfortunately, the traditional I Ching does not elaborate on these rules and relationships. Consequently there are many different ideas about these unspoken rules and many different interpretations, for example; Richard Wilhelm and Cary F. Baynes. [^182]Wilhelm, R., Baynes, C. F., Jung, C. G.[^182], Rudolf Ritsema and Stephen Karcher.[^183], Gregory Whincup.[^184], Kerson and Rosemary Huang.[^185], Alfred Huang. [^186], Henry Wei.  [^187], Wei Tat.  [^188], Chu Hsi.[^189], Richard Rutt.[^190], to name some of the various interpretations and rules. Some of these rules are oddly complex and convolute with little to no apparent reasoning behind them.  This is what we hope to address here.
+
+The traditional I Ching has two features that we will incorporate, that of the *image* and the *judgment* of the hexagram.  For example, hexagram 17, <img src="../Images/bc/hexagramB25.png" style="width:25px">, *Following*, is composed of a lower trigram of *TUI / The Joyous / Lake*, and an upper trigram of *CHEN / The Arousing / Thunder*, so an image of "Thunder in the middle of the lake." is assigned.  They then say "The image of FOLLOWING. Thus the superior man at nightfall Goes indoors for rest and recuperation." How they came to that conclusion is so unclear, at best.
+
+In the tholonic version, we have the lower trigram of *Filling*, and an upper trigram of *Collecting*. From this we can make an image of, say, the filling of something as a result of collecting. Given that the lower trigram in inner in nature, and the upper outer in nature, we could say 
+
+> "One collects that which he finds and values, and fills his bags."
+
+But what more can we say about this? 
+
+- Both trigrams are ascending in nature as they are on the left side of the *Cycle of Change*, suggesting a time of ascension.
+- Collecting represents "The higher orders of structure that extend ever outward.", suggesting a return to order.
+- Filling represent "form coming to life.", suggesting new beginnings.
+- Filling is also one of the three trigrams that is an ORIGINATING SOURCE, suggesting a new path in life.
+- Filling is the first action that begins the path that leads away from yin (EARTH, 0), towards yang. Symbolically, this is the time that follows the winter solstice, when the darkness of the night begins to retreat. This suggests a return from darkness, although spring has yet to arrive.
+- Both trigrams are dynamic, or imbalanced, suggesting that this is a hexagram of a journey, not a destination.
+
+With this addition insight we could say something like:
+
+> One's inspired journey not only leads one away from the chaos of darkness and back to the natural order of things, but signifies a new direction in life. This is not a time to rest, for the path is not easy in the beginning, but rest does not cross the travelers mind as he is busy filling his bags with the wonders he discovers on his way. 
+
+Oddly, this is almost the exact opposite of "Thus the superior man at nightfall Goes indoors for rest and recuperation."
+
+The image here would be :
+
+> A person walking a rocky path that leads to the east where the sun will soon rise. He is carrying a partly full bag while picking a plant bud. In the, west the sky is dark. He is wearing hiking boots that can withstand the journey.
+
+
 <div style="page-break-after: always; break-after: page;"></div>  
+
 # The End
 
 [^1]: Gleick, J. (1998). **Making a New Science**.
@@ -3787,4 +4260,25 @@ There are many significant patterns here, but the ones I'd like to point out spe
 
 [^179]:  Quited directly from https://www.snopes.com/fact-check/whether-balloon/
 
-[^180]:  Lim, Daniel (June 1, 2014). "**Brain simulation and personhood: a concern with the Human Brain Project**". Ethics and Information Technology. 16 (2): 77–89. doi:10.1007/s10676-013-9330-5. ISSN 1572-8439.
+[^180]:  Lim, Daniel (June 1, 2014). "**Brain simulation and personhood: a concern with the Human Brain Project**". Ethics and Information Technology. 16 (2): 77–89. doi:10.1007/s10676-013-9330-5. ISSN 1572-8439. 
+
+[^181]:   Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
+
+[^182]: Wilhelm, R., & Baynes, C. F. (1997). The I Ching: or, book of changes. Princeton, NJ: Princeton University Press. ISBN-10: 069109750X, ISBN-13: 978-0844295909
+
+[^183]: Ritsema, R. (1994). I ching: the classic chinese oracle of change: the first complete translation with concordance. Shaftesbury: Element. ISBN-10: 1852306696, ISBN-13: 978-1852306694
+
+[^184]: Whincup, G. (1996). Rediscovering the I ching. New York: St. Martins Griffin. ISBN-10: 0312141319, ISBN-13: 978-0312141318
+
+[^185]: Huang, K., & Huang, R. (1987). I ching. New York (N.Y.): Workman. ISBN-10: 9780894803192, ISBN-13: 978-0894803192, ASIN: 0894803190
+
+[^186]: Huang, A. (2004). The complete I Ching: the definitive translation. Rochester, VT: Inner Traditions. ISBN-10: 0892811455, ISBN-13: 978-0892811458
+
+[^187]: Wei, H. (1990). The authentic I-ching: a new translation with commentary. San Bernardino, CA: Borgo Press. ISBN-10: 0878770917, ISBN-13: 978-0878770915
+
+[^188]: Zhu, X., & Adler, J. A. (2002). Introduction to the study of the classic of change (I-hsüeh chi-meng), Provo, UT: Global Scholarly Publications. ISBN-10: 1592673341, ISBN-13: 978-1592673346
+
+[^189]: Zhu, X., & Adler, J. A. (2002). Introduction to the study of the classic of change (I-hsüeh chi-meng). Provo, UT: Global Scholarly Publications.ISBN-10: 1592673341, ISBN-13: 978-1592673346
+
+[^190]: Rutt, R. (2002). The book of changes (Zhouyi): a Bronze Age document. Richmond, Surrey: Curzon. ISBN-10: 070071491X, ISBN-13: 978-0700714919
+
