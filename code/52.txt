@@ -1,0 +1,41 @@
+
+        
+In hexagram 52, line 1 --  -- is a YIN line occupying a INNER YANG place of CONCEPTION , so it is NOT in its natural place, and therefore weak (0). 
+This is an INNER ABSORBING aspect of the DEFINING side of creation intended to NEGOTIATION and is expressed as EARTH.
+EARTH is also the quality of NEGOTIATION in the trigram of EMPTYING.
+
+--------------------------------------------------
+        
+In hexagram 52, line 6 ------ is a YANG line occupying a OUTER YIN place of CONTINUATION , so it is NOT in its natural place, and therefore weak (0). 
+This is an OUTER EXPANDING aspect of the CONTRIBUTION side of creation intended to CONTRIBUTION and is expressed as AIR.
+AIR is also the quality of CONTRIBUTION in the trigram of RELEASING.
+NEGOTIATION is strong in the upper trigram because it is a yin line in yin place.
+
+--------------------------------------------------
+        
+In hexagram 52, line 5 ------ is a YANG line occupying a OUTER YANG place of INTEGRATION , so it is in its natural place, and therefore strong (1). 
+This is an OUTER EXPANDING aspect of the CONTRIBUTION side of creation intended to DEFINITION and is expressed as AIR.
+AIR is also the quality of DEFINITION in the trigram of RELEASING.
+DEFINITION is very strong because it is a yang line in a yang place and supported by the DEFINITION in line 2 which is a yin line in a yin place.
+
+--------------------------------------------------
+        
+In hexagram 52, line 4 --  -- is a YIN line occupying a OUTER YIN place of STABILITY , so it is in its natural place, and therefore strong (1). 
+This is an OUTER CONTRACTING aspect of the DEFINING side of creation intended to NEGOTIATION and is expressed as COLLECTING.
+COLLECTING is also the quality of NEGOTIATION in the trigram of RELEASING.
+
+--------------------------------------------------
+        
+In hexagram 52, line 3 ------ is a YANG line occupying a INNER YANG place of DEPLOYMENT , so it is in its natural place, and therefore strong (1). 
+This is an INNER CONTRACTING aspect of the DEFINING side of creation intended to CONTRIBUTION and is expressed as WATER.
+WATER is also the quality of CONTRIBUTION in the trigram of EMPTYING.
+CONTRIBUTION is strong in the lower trigram because it is a yang line in a yang place.
+
+--------------------------------------------------
+        
+In hexagram 52, line 2 --  -- is a YIN line occupying a INNER YIN place of REQUIREMENTS , so it is in its natural place, and therefore strong (1). 
+This is an INNER ABSORBING aspect of the DEFINING side of creation intended to DEFINITION and is expressed as FILLING.
+FILLING is also the quality of DEFINITION in the trigram of EMPTYING.
+DEFINITION is very strong because it is a yin line in a yin place and supported by the DEFINITION in line 5 which is a yang line in a yang place.
+
+--------------------------------------------------
