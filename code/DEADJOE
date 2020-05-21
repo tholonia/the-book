@@ -1,0 +1,46 @@
+
+*** These modified files were found in JOE when it aborted on Tue May 19 15:08:58 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+ 
+\n\n
+${TITLE}
+CELUSAL
+_
+SinTACC
+rm 
+## Chapter
+'111111'
+'111111'
+
+*** File '(Unnamed)'
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+*** File '(Unnamed)'
+terms.txt
+/home/jw/.histfile
+x
+x
+./terms.sh
+out
+x
+out
+terms.txt
+terms.txt
+x
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
