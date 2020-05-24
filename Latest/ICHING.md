@@ -294,9 +294,9 @@ If we rebuild the I-Ching from the ground up using our tholonic model (while try
 
 *Note: As mentioned numerous times before, the interpretations, values and relationships shown here are not intended to be conclusive. While I tried to make them as meaningful as possible, they are more used as examples. There are many ways patterns and relationships can be formed and I am sure a better version than the one presented here can be made. If you, the reader, disagree with some of the conclusions here then that is your invitation to improve upon it. That is why this book is open-sourced.*
 
-<img src="../Images/tholonic-pakua.png" style="width:100%;" />
+<img src="../Images/tholonic-pakua.png" style="width:50%;" />
 
-Here is the explanation of *Fig c1*… but first, a clarification.  In this chart we have three divisions per quadrant representing the three stages of tholonic movement; *Negotiation*, *Definition*, and *Contribution*.  However, it is more accurate to say there are three *phases* or cycles of movement, similar to how three phase electricity work.  All three phases are present all the time at every point, just at different points in the cycle, and presumably in the order of the image below. There are also two different structures in the model - the one formed by the trigrams and lines, and the one that determines how energy moves through that structures, which is described by the tholonic model of *Negotiation*, *Definition*, and *Contribution* sequence of creation.
+The above image is an example of applying the tholoinic model to the eight trigrams of the Pakua.  the vertical and horizontal axis ref;ect, and the horizontal axis reflest as we  reverses (like a photo negattive). Here is the explanation of *Fig c1*… but first, a clarification.  In this chart we have three divisions per quadrant representing the three stages of tholonic movement; *Negotiation*, *Definition*, and *Contribution*.  However, it is more accurate to say there are three *phases* or cycles of movement, similar to how three phase electricity work.  All three phases are present all the time at every point, just at different points in the cycle, and presumably in the order of the image below. There are also two different structures in the model - the one formed by the trigrams and lines, and the one that determines how energy moves through that structures, which is described by the tholonic model of *Negotiation*, *Definition*, and *Contribution* sequence of creation.
 
 <img src="../Images/three_phase_waveform.png" style="width:80%" />
 
@@ -384,7 +384,7 @@ The quadrant of EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"
 
 1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> A yin here indicates that anything can be negotiated, for it is receptive to anything, yin or yang.
 2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> The emerging definitions are determined by the whatever is acting upon it.
-3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> The contribution of the yin is that is allows a yang to appear simply by its existence. It doesn't need to do anything, just as 0 implies 1 by its nothingness. 
+3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> The contribution of the yin is that is allows a yang to appear simply by its existence. It doesn't need to do anything, just as 0 implies 1 by its nothingness, especially when we consider that *0^0^*, or *nothingness^nothingness^* , = 1.
 
 
 ### WATER <img src="../Images/bc/trigram-b02.png" style="width:30px"/> ^2^
@@ -604,6 +604,56 @@ There are many significant patterns here, but the ones I'd like to point out spe
 - Values A~011~ and A~100~ overlap, and of course, when combined they equal A~111~, which is supporting evidence that this model is viable, plus, the VI value, indicating how this unique double-value will instantiate itself is the number 1, and is also the first instance of an overlap that happens to be the reverse value of the original A source value. In short, the number 1 represents the instance of the source that created everything, and came into existence by the source dividing itself and then recombining itself.  Sound familiar?
 - Only meta-values that reach the *observable level* have some quality that is quantifiable as a number, but as everything beyond that point can have numerical values, the implication is that there are 7 meta-values across 2 generations and 3 levels that stand between A and all instances.  What is interesting about this is that we see this same concept in religion and  mythological cosmology (Mesopotamian, Islam, Judaism, Christianity, Hinduism, Jainism), where Heaven, that place from which our material reality was conceived, has seven divisions.  In addition we have the concept of a trinity, an even more fundamental concept that has been incorporated in our models of reality going back to the most ancient beliefs.
 
+
+
+We see this same pattern of progression in the most fundamental form of creations, genetics.  For example, here is a list of true statement about the I Ching's lines and hexagrams:
+
+- The **I Ching** contains **hexagrams**.
+- **Lines** make a **hexagrams**. 
+- A **line** contains instruction.
+- Every **line** has a specific location on the **hexagram**.
+- Every **line** has its complement.
+- Every **hexagram** has its complement.
+- ~~A pair of **lines** is required to work properly.~~ [JWFIX: need to first reference bigram]
+- **Cast lines** are a specific instance of a **line.**
+- **Cast lines** are **yin** or **yang.**
+- A **yang** and a **yang** produces a **yang**.
+- A **yang** and a **yin** produces a **yang.**
+- A **yin** and a **yin** produces a **yin.**
+
+If we replace the I Ching terms with genetic terms…
+
+- DNA = I Ching
+- Genes = line
+- Chromosomes = hexagram
+- Allele = Cast line
+- Recessive = yin
+- Dominant = yang
+
+We get:
+
+- **DNA** contains **chromosomes**
+- **Genes** make a **chromosome**. 
+- A **gene** contains instructions.
+- Every **gene** has a specific location on the **chromosome**.
+- Every **gene** has its complement.
+- Every **chromosome** has its complement.
+- ~~A pair of **genes** is required to work properly.~~
+- **Alleles** are a specific instance of a **gene.**
+- **Alleles** are **recessive** or **dominant.**
+- A **dominant** and **dominant** produces a **dominant.**
+- A **dominant** and **recessive** produces a **dominant.**
+- A **recessive** and **recessive** produces a **recessive.**
+
+There are some other interesting correlations as well, such as:
+
+- There are 8^2^ (64) **codons** (triplet **nucleotides**)
+  - There are 8 **trigrams** (made of three **lines**) that code for 20 **amino acids**
+- The **codons** create 20 amino acids
+  - The **trigrams** create 20 **balanced hexagrams** (three yin and three yang) 
+
+Of course, there is a not a one-to-one correlation, but we do see many of the same mechanics, patterns and relationships in both systems (I Ching and genetics) that we also see in the binary and the tholonic models.
+
 ## The Origin of Lines
 
 The individual lines were addressed in part earlier, but here we will try and pull it together into something more coherent.
@@ -761,9 +811,57 @@ One minor difference between the western and eastern models is that while they b
 
 - The 2s and 3s occupy the DEFINING (green) points.  The 3s represent the most energized, or yang state, and, interestingly, it is that same axis that divides the planets.
 
+## The Lines, Part 1
+
+There is another reason why we bring up astrology, and that is because, as we can see in the number wheel above and the tholon model, it is based on six pairs of attributes that define and describe a complete journey through the cycle, and which happen to map neatly onto the six lines of change in the I Ching.  If we apply the rules of the tholonic, I Ching and binary models to astrology, we get the chart shown below.
 
 
-## The Lines
+
+<img src="../Images/tho-zod.png" style="width:70%"/>
+
+it works like this… All blue characters are yang in nature, and all red are yin. All yellow backgrounds are INNER (yin/0) in nature, and all green backgrounds are OUTER (yang/1). To correlate astrology to tholonic, we start with the topmost value, which is either 1 or 0 in the columns of DEFINITION or CONTRIBUTION. N has no value so we it is skipped.  Then we choose INNER (0) or OUTER (1), finally the color of the text, red (0) or blue (1).   The bold text represent the archetypal ideal value for the cell.
+
+Here is how we want to look at this graph as it applis to the hexagram.
+
+
+
+<img src="../Images/tho-zod-2.png" style="width:100%"/>
+
+To validate this we can look at a few details.
+
+- The progression of the *Nature* column fit perfectly for both the inner (yellow) and outer (green) definitions.
+- In tin, inner lines only use the descending (increasing yin) elements of FIRE and EARTH, while the outer use only the ascending (increasing yang) WATER and AIR.
+- 
+
+Let's make this even simpler to illustrate another point.
+
+
+
+<img src="../Images/tho-zod-3.png" style="width:100%"/> 
+
+We've added the the value of the quality within the line. As you can see, the yin (0) values that exist within the  yellow, yin (0) side are the values that are the natural archetypes for that place. The same it true for the 1 values inside the green/yang side. Hexagram 21 (binary value) is the hexagram where every yin line exists in a yin place, and every yang line exists in a yang place.  Hex 21 is the ideal archetype of a hexagram, and its opposite, hex 42, is the reverse, or inverted, or "negative image" archetype.   If we were to apply the above charts to hex 21 and 42 using the *Nature* and *Personal values*, we would get the following.
+
+<img src="../Images/tho-zod-4.png" style="width:60%"/>
+
+This shows that, according to the tholonic model using traditionally Western values, the archetype of INCEPTION is *Harmony*, and it inverted concept, *Activity*. Likewise, on a more individual, subjective front, the archetype of INCEPTION is *I Balance*, and it inverted concept, *I Am*. Looking at all the pairs we see the same well-matched dualities. 
+
+There is still one last step, and that is to reduce the twelve pairs down to six pairs. This is fairly easy, and it looks something like the left image in the graph below. We have added the blue text circle to describe the qualities of the pair of the previously opposing six pair, or twelve attributes of Western astrology. It obvious how these sic *uber* attributes match well with the pink circle that lists the I Ching's attributes for the six lines 
+
+On the right is the previous graph that describe the eight trigrams.  Here we have together the model for trigrams and the model for the lines. The lines model (left) is based on the *tholonic tree*, where we begin with 1, which creates 2 more, which is mirrored, creating 6, and then inverted, which creates 12.  The trigram model (right) is a *binary tree*, beginning with 1, which creates 2, each of which creates 2 (4) each of which creates 2 (8).
+
+Both of these models describe only the structure, the contexts of which is constantly changing.
+
+
+
+<img src="../Images/astro6.png" style="float:left;width:40%"/><img src="../Images/tholonic-pakua.png" style="width:40%"/>
+
+While there is no "top" to either one of these maps, their orientation is relative to one another.  In their most reasonable orientation above, the predominant yin or yang is at the top.  For the line model, yang is at the top, and for the trigram model, it is yin. If we highlight the yin and yang triangles that are created by each, we see they do not create the Saturn Star, or 6-pointed Star of David.  However, they do create a tholon.  because every tholon exist within a parent tholon (except for the first tholon), and because the "top" of the inner tholon is at the bottom of the outer tholon, we get a yang parent (yang because the lines are the dynamic part), and a yin child (yin because it is a structure only). And because a complete tholon has a virtual tholon (the lower half), we end up with the 2D tholon shown below, which is then turned into a 3D tholon.
+
+
+
+<img src="../Images/astro-tholon.png" style="width:60%"/>
+
+## The Lines, Part II
 
 A hexagram is defined by a pair of trigram and the trigrams are defined by three lines, so rather than say there are 6 lines we say there is a pair of 3 lines.  We can also say a hexagram is composed of three bigrams, which, as shown, have their own significance. A line has properties based on its position in the hexagram as well as its position in the trigram.  
 
@@ -1141,9 +1239,9 @@ The image here would be :
 
 <img src="../Images/bc/hexagramB21.png">
 
-## 21 THE IDEAL
+## 21 
 
-The powers of creation all work together in their ideal form. This brings the ideal order to that which is without order.
+
 
 ## Trigrams
 
@@ -1169,7 +1267,44 @@ There is only one road to choose from, it is the correct path, and you are alrea
 
 
 
+Line 1
 
+- DESC: INCEPTION is a yang place of *Harmony* with the intention to NEGOTIATE occupied by a yang line.  
+- NATURE: NEGOTIATION for an INCEPTION are HARMONIOU
+- PERSONAL: you are BALANCE to UNDERTAKE a NEGOTIATIO
+  - The Moon was said to be in Libra when [Rome](https://en.wikipedia.org/wiki/Rome) was founded
+
+Line 2
+
+- SPECIFICATION is a yin place with the intention to DEFINE occupied by a yin line
+- the specifications in place define are stable, meaning they will endure
+-  You have what you require
+
+Line 3
+
+- DEPLOYMENT  is a yang place of *Visualization* with the intention to CONTRIBUTE occupied by a yang line
+- visualization of what is being created is clear.
+- You understand what you are doing
+
+Line 4
+
+- EMERGENCE is a yin place of Nurturing with the intention to NEGOTIATE occupied by a yin line
+- the fruits of this creation will be nurturing.
+- You feel what is emerging
+
+Line 5
+
+- SYNTHESIS is a yang place of *Imagination* occupied by a yang line
+- what was imagined has bloomed
+- You know that what you are imaging is real
+
+line 6
+
+- DEPARTING is a yin place with the intention to CONTRIBUTE occupied by a yin line
+- was has come to past is applied practically
+- Examine what you have done
+
+<img src="../Images/tho-zod-4.png" style="width:70%">
 
 ## Lines
 
@@ -1217,9 +1352,13 @@ The King Wen *sequence*: 63, "After Completion"
 
 - **Line 1** <img src='../Images/bc/yang.png' style='width:30px'> is a [YANG 1] line occupying a [INWARD FACING 0 YANG 1] place of [INCEPTION 1] , so it is in its natural place, and therefore it is a strong [YANG 1]. 
   **Line 1** <img src='../Images/bc/yang.png' style='width:30px'> is a [YANG 1] line occupying a [Self-Awareness] place of [INCEPTION 1] , so it is in its natural place, and therefore it is a strong [YANG 1]. 
+
   - From [NEGOTIATES CHAOS 0] emerges [INWARD FACING 0 CONSUMPTION 0] of [INCEPTION 1] which creates [YANG 1 FIRE 1] that appear as [DESCENDING 0 EMPTYING 0] 
+
   - #### From [New beginning] emerges [ Desire] of [INCEPTION 1] which creates [ Decisive Action] that appear as [ Pouring out]
+
   - NEGOTIATION is very strong because it is a yang line in a yang place and supported by the NEGOTIATION in line 4 which is a yin line in a yin place.
+
   - A strong line 1 is further supported by a strong line 4.
 
 1<img src='../Images/bc/yang.png' style='width:45px;height:15px'>  **From a new beginning that is in harmony with the moment, emerges a naturally strong desire to create. One feels strongly compelled to give of one's self to the world. What emerges from this action has the support of the Universe.**|
@@ -1227,31 +1366,49 @@ The King Wen *sequence*: 63, "After Completion"
 > The first movement that begins a new cycle of change starts with the awareness of that movement. New beginnings are a chaotic time, when even the slightest change can alter the outcome, but this is not a time to wait, rather, one should fearlessly and proactively negotiate with the chaos of the unknown, for the moment supports them. Success is assured if one's desire to give of their self is rooted in their true purpose.
 
 **Line 2** <img src='../Images/bc/yin.png' style='width:30px'> is a [YIN 0] line occupying a [INWARD FACING 0 YIN 0] place of [SPECIFICATION 0] , so it is in its natural place, and therefore it is a strong [YIN 0]. 
+
 - From [DEFINES 1 CHAOS 0] emerges [INWARD FACING 0 CONSUMPTION 0] of [SPECIFICATION 0] which creates [YIN 0 EMPTYING 0] that appear as [STILL EMPTYING 0] 
+
 - #### From [application of laws] emerges [ Desire] of [SPECIFICATION 0] which creates [ Emptying from within] that appear as [ Limit of Emptiness]
+
 - DEFINITION is very strong because it is a yin line in a yin place and supported by the DEFINITION in line 5 which is a yang line in a yang place.
+
 - A strong line 2 is further supported by a strong line 5.
 
 **Line 3** <img src='../Images/bc/yang.png' style='width:30px'> is a [YANG 1] line occupying a [INWARD FACING 0 YANG 1] place of [DEPLOYING 1] , so it is in its natural place, and therefore it is a strong [YANG 1]. 
+
 - From [CONTRIBUTES 0 CHAOS 0] emerges [INWARD FACING 0 CONSUMPTION 0] of [DEPLOYING 1] which creates [YANG 1 FIRE 1] that appear as [ASCENDING 1 EMPTYING 0] 
+
 - #### From [Potential possibilities] emerges [ Desire] of [DEPLOYING 1] which creates [ Decisive Action] that appear as [ work]
+
 - CONTRIBUTION is strong in the lower trigram because it is a yang line in a yang place.
+
 - A strong line 3 is further supported by a strong line 6.
 
 **Line 4** <img src='../Images/bc/yin.png' style='width:30px'> is a [YIN 0] line occupying a [OUTWARD FACING 1 YIN 0] place of [EMERGING 0] , so it is in its natural place, and therefore it is a strong [YIN 0]. 
+
 - From [NEGOTIATES CHAOS 0] emerges [OUTWARD FACING 1 CONSUMPTION 0] of [EMERGING 0] which creates [YIN 0 EMPTYING 0] that appear as [ASCENDING 1 WATER 0] 
+
 - #### From [New beginning] emerges [ Creative expression] of [EMERGING 0] which creates [ Emptying from within] that appear as [ Productivity ??]
+
 - NEGOTIATION is very strong because it is a yin line in a yin place and supported by the NEGOTIATION in line 1 which is a yang line in a yang place.
+
 - A strong line 4 is further supported by a strong line 1.
 
 **Line 5** <img src='../Images/bc/yang.png' style='width:30px'> is a [YANG 1] line occupying a [OUTWARD FACING 1 YANG 1] place of [SYNTHESIZING 1] , so it is in its natural place, and therefore it is a strong [YANG 1]. 
+
 - From [DEFINES 1 CHAOS 0] emerges [OUTWARD FACING 1 CONSUMPTION 0] of [SYNTHESIZING 1] which creates [YANG 1 FIRE 1] that appear as [STILL WATER 0] 
+
 - #### From [application of laws] emerges [ Creative expression] of [SYNTHESIZING 1] which creates [ Decisive Action] that appear as [ Limits of Water]
+
 - DEFINITION is very strong because it is a yang line in a yang place and supported by the DEFINITION in line 2 which is a yin line in a yin place.
+
 - A strong line 5 is further supported by a strong line 2.
 
 **Line 6** <img src='../Images/bc/yin.png' style='width:30px'> is a [YIN 0] line occupying a [OUTWARD FACING 1 YIN 0] place of [DEPARTING 0] , so it is in its natural place, and therefore it is a strong [YIN 0]. 
+
 - From [CONTRIBUTES 0 CHAOS 0] emerges [OUTWARD FACING 1 CONSUMPTION 0] of [DEPARTING 0] which creates [YIN 0 EMPTYING 0] that appear as [DESCENDING 0 WATER 0] 
+
 - #### From [Potential possibilities] emerges [ Creative expression] of [DEPARTING 0] which creates [ Emptying from within] that appear as [ Rain, life nourishing]
 
 - A strong line 6 is further supported by a strong line 3.
@@ -1275,6 +1432,7 @@ The King Wen *sequence*: 63, "After Completion"
 **Line 2** <img src='../Images/bc/yin.png' style='width:30px'> is a YIN 0 line occupying a INWARD FACING 0 YIN 0 place of SPECIFICATION 0 , so it is in its natural place, and therefore it is a strong YIN 0. 
 
 - From [DEFINES 1 CHAOS 0] emerges [INWARD FACING 0 CONSUMPTION 0] of [SPECIFICATION 0] which creates [YIN 0 EMPTYING 0] that appear as [STILL EMPTYING 0] - DEFINITION is very strong because it is a yin line in a yin place and supported by the DEFINITION in line 5 which is a yang line in a yang place.
+
 - A strong line 2 is further supported by a strong line 5.
 
 - #### From the **Formation of Laws** emerges **desire** to **specify, design,or plan**, which provides **blank slate** that appear as **a finished blueprint** - DEFINITION is very strong because it is a yin line in a yin place and supported by the DEFINITION in line 5 which is a yang line in a yang place.
@@ -1292,6 +1450,7 @@ The King Wen *sequence*: 63, "After Completion"
 - #### Seeing the potential for possibilities one feels the desire to deploy oneself. With decisive action, one begins to work in order to contribute to this new world.  
 
 **Line 4** <img src='../Images/bc/yin.png' style='width:30px'> is a YIN 0 line occupying a OUTWARD FACING 1 YIN 0 place of EMERGING 0 , so it is in its natural place, and therefore it is a strong YIN 0. 
+
 - From [NEGOTIATES CHAOS 0] emerges [OUTWARD FACING 1 CONSUMPTION 0] of [EMERGING 0] which creates [YIN 0 EMPTYING 0] that appear as [ASCENDING 1 WATER 0] - NEGOTIATION is very strong because it is a yin line in a yin place and supported by the NEGOTIATION in line 1 which is a yang line in a yang place.
 
 - A strong line 4 is further supported by a strong line 1.
@@ -1762,3 +1921,4 @@ The King Wen *sequence*: 63, "After Completion"
 
 [^190]: Rutt, R. (2002). The book of changes (Zhouyi): a Bronze Age document. Richmond, Surrey: Curzon. ISBN-10: 070071491X, ISBN-13: 978-0700714919
 
+###### 
