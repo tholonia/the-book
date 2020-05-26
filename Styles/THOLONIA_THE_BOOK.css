@@ -869,10 +869,18 @@ header, footer {
 }
 */
 @page {
-    /*    size: 6.69in 9.61in; */
-    size: 170mm 244mm; 
     /*margin: 0.5in; /*25*/
     /*margin-inside: 0.5in;*/
+
+/* larer size */
+/* 8.5" x 11" (21.59 x 27.94 cm) */
+
+size: 215.9mm 279.4mm;
+
+/*    size: 6.69in 9.61in; */
+/*    size: 170mm 244mm; */
+    
+    
 }    
 
 

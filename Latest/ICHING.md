@@ -106,23 +106,13 @@ It is both difficult and misleading to use one word to define an archetype that 
 
 The two trigrams, which well call *upper* and *lower*, are essentially mirror aspects of each other.  We define the 6 stages as follows:
 
-
-
-| Line | Word                  | Concept                                          |                                                              |                                                              | Examples                                                     |
-| ---- | --------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | Inception             | Starting point                                   | Line 1&rsquo;s tholonic equivalent is the originating N-state, the topmost blue dot which itself is a synthesis of a previous parent tholon. The yang of Inception is reflected in the yin of the line line 4. | Line 1 (yang) is that of  **ideation** and represents the purest and simplest form of a concept. This is the stage of **inception**. In the life-cycle of plants this represents the seed **germination** stage. | Germination,Formation, Rise, Commencement, Initiation,Opening, Beginning, conception |
-| 2    | Specification, Growth | That which is needed or wanted as a precondition | Line 2 connects the blue N-state of Inception and the green dot of Definition.  This is the dynamic line that establishes limitations, restrictions, laws, etc., that inevitably appear in the process towards definition. It is the yin side of the yang of Synthesis, line 5 | Line 2 (yin) is defining and restricting and represents the nature of **gestation**, where exacting rules must be followed. This is where the N-state, or dimensionless concept, has to define itself with the **resources at hand**. This is where the concept begin to come into form. In the life-cycle of plants this represents the **mitosis**, or cell **growth** stage. | Growth, Requirements, Prerequisites, Need, Desire, Precondition, gestation |
-| 3    | Deploy                | Bring into effective action                      | Line 3's tholonic equivalent is the green dot of Definition which imposes the the limitations of line 2 on the N-state concept when it expresses itself beyond its original N-state. This Deployment is the source for the green line of 6, Effects. | **Line 3** is emergent (yang) and represents the completion of its growth. Whatever it can produce is defined. This is where the first Contribution occurs in the "**blooming**" or **utilization** of  whatever started in line 1. | blooming, Utilization, Birth                                 |
+<img src="/home/jw/sites/the-book/Images/line-desc-1.png" style="width:100%"/>
 
 
 
 Once we cross the line from *lower* to the *upper*, the quality of the line positions flip making what was **yang** in the *lower* trigram **yin** in the *upper* trigram, and visa versa. In the tholon we see this same reversal in the *reflection* trigrams and *virtual* tholons. 
 
-| Line | Word      | Concept                                                |                                                              |                                                              | Examples                                                     |
-| ---- | --------- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 4    | Emergence | Becoming visible                                       | Line 4’s tholonic equivalent is that spectrum between Definition (2) and Contribution (3). This is the only place in the tholonic model where a new creation can emerge. Here is where a new yang N-state can be formed by the yang energy of the original N-state (line 1) emerging as a stable pattern somewhere within the yin scope of the blue line, or spectrum, defined by the Definition (3) and Contribution (5) created by the parent tholon's Inception of the top N-state (1) | **Line 4** (yin) is the creation’s ability to transmit, propagate, or recreate itself.  This is where the "**fruiting**" of the cycles appear. While fruits contain seeds, the purpose of the fruit support, protect, and benefit the seeds, | Fruiting, Lifetime, Blooming, Surfacing                      |
-| 5    | Synthesis | Inclusion into the whole                               | Line 5’s tholonic equivalent is the red dot of Contribution. It’s a contribution because this is where the N-source, the original creation, is given form, and from where it effects are returned to the source. The red of Synthesis is the yang source for the red line of Specification | **Line 5** (yang) represents the **seeding** of the creation, and the **integration** of the cycles seeds into the whole, a **unification**. This is the **culmination** of a creation’s expression. | Seeding, Integration, Incorporation, Unification, Fusion, Reproduction |
-| 6    | Departure | Journey's end, but also the contribution to the whole. | Line 6's is the green line that connects Synthesis (5) with Inception (1). This is where the creation's journey changes as it becomes part of the whole, the effects of which are returned to the source. The green line of Effects is the yin result of the green dot's yang of Deployment. | Line 6 (yin) is the stage of **dispersion**, when the life cycle of a creation is over, but its effects continue. This represents the **integration** of the creation into the larger whole, or tholonically speaking, how it is amalgamated into the thologram. In the life-cycle of plants this represents the **death** of the plant, but the rebirth of the next **generation**. | Recycling, Consequence, End, Closing, Termination, Return, Death/Rebirth |
+<img src="/home/jw/sites/the-book/Images/line-desc-2.png" style="width:100%"/>
 
 ### Lots of 6s
 
@@ -195,11 +185,11 @@ Equating the *upper trigram* to the three attributes of N, D, C
 
 Depending on the context (*upper* or *lower*), N, D, and C have slightly different expressions.  In the most general sense, N, D, and C can represent many different concepts depending on its context.
 
-|      | Archetype    | Traveling | Life cycle | Production | Agriculture | Cosmology      | Creativity     |
-| ---- | ------------ | --------- | ---------- | ---------- | ----------- | -------------- | -------------- |
-| N    | Negotiation  | Beginning | Birth      | Build      | Sow         | Chaos to Order | Idea           |
-| D    | Definition   | Middle    | Life       | Use        | Grow        | Structure      | Implementation |
-| C    | Contribution | End       | Death      | Discard    | Reap        | Order to Chaos | Integration    |
+| Archetype        | Generic   | Life cycle | Production | Farm | Cosmology      | Ideas      |
+| ---------------- | --------- | ---------- | ---------- | ---- | -------------- | ---------- |
+| **Negotiation**  | Beginning | Birth      | Build      | Sow  | Chaos to Order | Thesis     |
+| **Definition**   | Middle    | Life       | Use        | Grow | Structure      | Antithesis |
+| **Contribution** | End       | Death      | Recycle    | Reap | Order to Chaos | Synthesis  |
 
 Let&rsquo;s run another test so see if the thologram and the I-Ching are two views of the same model.
 
@@ -270,21 +260,9 @@ One detail that this demonstration reveals is that the value on the spectrum bet
 
 For anyone that wants to replicate/test this process, here is some code (PHP).
 
-```
-<?php
-# call recursive function
-# with starting value of the first 
-# N and the values of the vectors
-iteration(1,3,5,2); 
-function iteration($N, $s, $p, $h) {
-    $d=1/$s;
-    $c=1/$p;
-    $N1 = $N-$d+$c;
-    print ($N1*4)." - $N1)\n";
-    iteration($N1, $s+$h**2, $p+$h*2, $h);
-}
-?>
-```
+<img src="../Images/code.png" style="width:32%;" />
+
+
 
 We can also calculate the value for Phi (φ, 1.618) using the formula (N+√S)/H where N=1 (not recursive), and the Fibonacci sequence by sequencing the Fibonacci math function around all sides, beginning with H.
 
@@ -574,7 +552,9 @@ We can now apply to his all the numbers, going all the way to the top, where we 
 
 We start with A and its pair, which consists of A~0~ and A~1~.  On the next row, each one of those meta-values has its own pair, so A~0~ has A~01~ (sub 1 of sub 0) and A~00~, etc.  
 
-To represent this in circular charts, we need a new chart for each row.
+*Note: Don't be confused if you are looking at the binary sub-indexes and seeing they do not match the decimal values. They are not suppose to be the same. This is explained in the next paragraphs.*
+
+ To represent this in circular charts, we need a new chart for each row.
 
 <img src="../Images/numbers-1.4.png" style="width:100%" />
 
@@ -590,7 +570,7 @@ The sub-index values represent the path of expression from A that resulted in a 
 
 The *value of instantiation* (VI) axis is perpendicular to the *order of instantiation* (OI) axis.  These two axes are perfectly in sync with each other while not only being perfectly squared, but the natural process of reordering is a very efficient form of encoding (and therefore decoding).  It also shows us that the *value of instantiation* is an encoded version of the *order of instantiation*.
 
-Technically speaking (and I need to say that because what comes next sounds quite esoteric), every instance, which is every *thing* that exists, is not only a piece of the *One Thing* that all existence came from, which tholonically speaking is a 0-dimensional dot, but also a recombination of the very path that caused it to come into existence starting from the *One Thing* at the beginning of creation. If there was only one source from which everything grew from, then every instance, every thing, has a unique *order of instantiation* value which describes the path it has taken from 0-dimensions, similar in concept to the way any address works, be it physical, Internet or otherwise.  Because every order of instantiation is unique, so to is the *value of instantiation*.
+Technically speaking (and I need to say that because what comes next sounds quite esoteric), every instance, which is every *thing* that exists, is not only a piece of the *One Thing* that all existence came from, the ultimate A, which tholonically speaking is a 0-dimensional dot, but also a recombination of the very path that caused it to come into existence starting from the dot, the A, at the beginning of creation. If there was only one source from which everything grew from, then every instance, every thing, has a unique *order of instantiation* value which describes the path it has taken from 0-dimensions, similar in concept to the way any address works, be it physical, Internet or otherwise.  Because every order of instantiation is unique, so to is the *value of instantiation*.
 
 But there is one more perspective that is worth looking at.  If we arrange this tree in its most natural evolving form, we get the following:
 
@@ -604,53 +584,49 @@ There are many significant patterns here, but the ones I'd like to point out spe
 - Values A~011~ and A~100~ overlap, and of course, when combined they equal A~111~, which is supporting evidence that this model is viable, plus, the VI value, indicating how this unique double-value will instantiate itself is the number 1, and is also the first instance of an overlap that happens to be the reverse value of the original A source value. In short, the number 1 represents the instance of the source that created everything, and came into existence by the source dividing itself and then recombining itself.  Sound familiar?
 - Only meta-values that reach the *observable level* have some quality that is quantifiable as a number, but as everything beyond that point can have numerical values, the implication is that there are 7 meta-values across 2 generations and 3 levels that stand between A and all instances.  What is interesting about this is that we see this same concept in religion and  mythological cosmology (Mesopotamian, Islam, Judaism, Christianity, Hinduism, Jainism), where Heaven, that place from which our material reality was conceived, has seven divisions.  In addition we have the concept of a trinity, an even more fundamental concept that has been incorporated in our models of reality going back to the most ancient beliefs.
 
+We see this same pattern of progression in the most fundamental form of creation; genetics. Below is a graph that illustrates the how the bases (adenine, cytosine, guanine, and thymine) pair together to form nucleotides.  An A can only double bond with a T, and  C can only triple bond with a G. This is accomplished by taking one side, inverting it (negative image), then reversing it (vertical). When we to that, the pairs automatically line up in their proper order.  The binary values of the path are shown, and as you can see, every pair has two values that equals 3.
+
+While this does not represent the actual mechanics of a DNA strand, it represents the order, or pattern, of the mechanics. For example, the parent of the bonded bases could be the concept of the class of compounds called purines or pyrimidines.  Their parent, the source, could be the class of aromatic heterocyclic organic compound, which all the children re a member of.  Or perhaps it could be *Chargaff's Rule*,  which states "DNA must have equal parts of GC and AT nucleotides."  There could be many different instances of these parents, but in every case (where this model is applies), they will follow the same pattern of expression.
+
+<img src="../Images/dna-clr.png" style="width:80%" />
+
+This inverting and reversing is the exact same process used in the I Ching, and how only 16 original hexagrams are needed to create 64. What is especially interesting is how the opposite (inverted and flipped) of the purine adenine is the pyrimidine thymine. This is interesting because there can't really be an 'opposite' of a compound or molecule or atom, but two compounds can effectively be opposite in the way they function within a given context for a particular task, and yet functional different in a different context or other task, such as how adenine is used in cellular metabolism to transfer chemical energy between chemical reactions.  From a tholonic perspective, this shows that the structure of a process is independent of the instances that attempt to apply that process, which also then suggests that the processes archetype existed before it was instantiated..
+
+Perhaps this is clearer to see by looking at the correlations between the I Ching and DNA.  For example, is we replace DNA concepts with I Ching concepts, we can say the following:
 
 
-We see this same pattern of progression in the most fundamental form of creations, genetics.  For example, here is a list of true statement about the I Ching's lines and hexagrams:
 
-- The **I Ching** contains **hexagrams**.
-- **Lines** make a **hexagrams**. 
-- A **line** contains instruction.
-- Every **line** has a specific location on the **hexagram**.
-- Every **line** has its complement.
-- Every **hexagram** has its complement.
-- ~~A pair of **lines** is required to work properly.~~ [JWFIX: need to first reference bigram]
-- **Cast lines** are a specific instance of a **line.**
-- **Cast lines** are **yin** or **yang.**
-- A **yang** and a **yang** produces a **yang**.
-- A **yang** and a **yin** produces a **yang.**
-- A **yin** and a **yin** produces a **yin.**
+| DNA Statements                                               | I Ching Statements                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| The **purine** and **pyrimidine** classes have two **bases** each, one being **two bonded** and one being  **three bonded.** | The **YIN** and **YANG** classes have two **children** each, one being of **yin** and one being  **yang.** |
+| This results is four **bases**, **A**, **G**, **T** and **C**, respectively. | This results is four **bigrams**, **yin YIN (A)**<img src="../Images/bc/bigram00.png" style="width:35px" />, a **yang YIN (G)<img src="../Images/bc/bigram01.png" style="width:35px" />, **a **yin YANG (T)**<img src="../Images/bc/bigram10.png" style="width:35px" />, and a **yang YANG (C)**<img src="../Images/bc/bigram11.png" style="width:35px" />. This describes the four types of lines. |
+| **purines/pyrimidines pairs**  form **nucleotides**, AT, TA, GC, CG. | **YIN/YANG pairs**  form **lines**, extreme yin (A) <img src="../Images/bc/yinx.png" style="width:35px" />, stable yin (G) <img src="../Images/bc/yin.png" style="width:35px" />, stable yang (T) <img src="../Images/bc/yang.png" style="width:35px" />, extreme yang (C)<img src="../Images/bc/yangx.png" style="width:35px" />, |
+| Three **nucleotides** creates a **codons** .                 | Three **lines** creates **trigrams**                         |
+| These **codons** form the building blocks of **physical life**. | These **trigrams** form the building blocks of **metaphysical life**. |
+| **Genes** have an address at a specific location.            | **Hexagrams** have an address at a specific location.        |
+| Different **nucleotides** makes **alleles** of **genes**.    | Different **lines** makes **varied trigrams**.               |
+| With only half of the **DNA**, the other half can be created. | With only half of the **I Ching**, the other half can be created. |
+| Everything that defines the DNA exists between two opposing **strands**. | Everything that defines the I Ching exists between two opposing **polarities**. |
 
-If we replace the I Ching terms with genetic terms…
 
-- DNA = I Ching
-- Genes = line
-- Chromosomes = hexagram
-- Allele = Cast line
-- Recessive = yin
-- Dominant = yang
 
-We get:
-
-- **DNA** contains **chromosomes**
-- **Genes** make a **chromosome**. 
-- A **gene** contains instructions.
-- Every **gene** has a specific location on the **chromosome**.
-- Every **gene** has its complement.
-- Every **chromosome** has its complement.
-- ~~A pair of **genes** is required to work properly.~~
-- **Alleles** are a specific instance of a **gene.**
-- **Alleles** are **recessive** or **dominant.**
-- A **dominant** and **dominant** produces a **dominant.**
-- A **dominant** and **recessive** produces a **dominant.**
-- A **recessive** and **recessive** produces a **recessive.**
+*(Chromosomes are subdivisions of the DNA used for the purpose of transportation and duplication (and probably quality assurance), so this doesn not really have anything to do with the process described here.)*
 
 There are some other interesting correlations as well, such as:
 
-- There are 8^2^ (64) **codons** (triplet **nucleotides**)
-  - There are 8 **trigrams** (made of three **lines**) that code for 20 **amino acids**
+- There are 8^2^ (64) **codons** 
+  
+  - There are 8 **trigrams** (although, perhaps there is a stronger correlation between the hexagrams and the codons themselves).
+  
 - The **codons** create 20 amino acids
-  - The **trigrams** create 20 **balanced hexagrams** (three yin and three yang) 
+  
+  - The **trigrams** create 20 balanced hexagrams (three yin and three yang lines).
+  
+- There are 44 autosomal chromosomes (all human chromosomes minus the sex chromosome)
+
+  - There are 44 imbalanced hexagram
+
+  
 
 Of course, there is a not a one-to-one correlation, but we do see many of the same mechanics, patterns and relationships in both systems (I Ching and genetics) that we also see in the binary and the tholonic models.
 
@@ -670,7 +646,7 @@ Below is a front view of the waveform that exposes more information.  Allow me t
 
 The cycle is composed of six stages that alternate between yin (orange) and yang (blue). Within one complete cycle we have highlighted a number of significant axis and their yin and yang properties. 
 
-<img src="../Images/6stages-front.png" style="width:50%" />
+<img src="../Images/6stages-front.png" style="width:70%" />
 
 
 
@@ -698,7 +674,7 @@ Now that we have our model in order, we can see if our trigrams fit into it in a
 
 <img src="../Images/attr-btree.png" style="width:100%" />
 
-Notice how every cardinal element is symmetrical or balanced (<img src="../Images/bc/trigram-b00.png" style="width:25px" /><img src="../Images/bc/trigram-b02.png" style="width:25px" /><img src="../Images/bc/trigram-b05.png" style="width:25px" /><img src="../Images/bc/trigram-b07.png" style="width:25px" />) and every dynamic element is asymmetrical or imbalanced (<img src="../Images/bc/trigram-b01.png" style="width:25px" /><img src="../Images/bc/trigram-b03.png" style="width:25px" /><img src="../Images/bc/trigram-b04.png" style="width:25px" /><img src="../Images/bc/trigram-b06.png" style="width:25px" />). 
+Notice how every cardinal element is symmetrical or balanced (<img src="../Images/bc/trigram-b00.png" style="width:25px" /> <img src="../Images/bc/trigram-b02.png" style="width:25px" /> <img src="../Images/bc/trigram-b05.png" style="width:25px" /> <img src="../Images/bc/trigram-b07.png" style="width:25px" />) and every dynamic element is asymmetrical or imbalanced (<img src="../Images/bc/trigram-b01.png" style="width:25px" /> <img src="../Images/bc/trigram-b03.png" style="width:25px" /> <img src="../Images/bc/trigram-b04.png" style="width:25px" /> <img src="../Images/bc/trigram-b06.png" style="width:25px" />). 
 
 However, we will run into a problem of semantics if we use the words Limitaiton and Contract in the binary model, as well as the words Negotiation, Definition, and Contribution in the tholonic model.  We needs to create different words for the binary model.  This has been done already by many religions and myths, for example, The two faces of Shakti, Sambhuthi (that which is manifested) and Asambhuti (that which is not manifested); the Zoroastrian's Ahura Mazda (eternal spirit of creation) and Angra Mainyu (spirit of destruction); The Persian Manichaeism, where the first creation was that of the World of Light,  "good," ruled by the *Father of Greatness* and the the *World of Darkness*, "evil," ruled by the *King of Darkness*. There are countless examples, but here we would like to stay away from religious concepts, so we will refer to the primal binary as simple *Order* and *Chaos*.   Part I covers these two concepts in greater details. *Order* here refers to the movement of chaos to order, coming into form, creation, explicity, and *Chaos* referring to the movement of order to chaos, dissolution of form, implicity, dissolution.
 
@@ -732,13 +708,9 @@ With the introduction of bigrams, let's look at the order of the trigrams again.
 
 <img src="../Images/8-fold.png" style="width:100%">
 
-|                                                              |                                                              | Filling <img src="../Images/bc/trigram-b01.png" style="width:25px" /> | Collecting <img src="../Images/bc/trigram-b03.png" style="width:25px" /> | Emptying <img src="../Images/bc/trigram-b04.png" style="width:25px" /> | Releasing <img src="../Images/bc/trigram-b06.png" style="width:25px" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              | **That which is empty can only be filled. Filling is the act of creation, of applying brush to canvas.** | **All is drawn to where it is best fits. This is what causes all thing to exist where they do. Collecting is like choosing what dots to connect. The word CONNECT would also apply here, just as it is the nature of water to connect with water.** | **The transformation of energy. FIRE consumes the wood to create heat and light.** | **The liberation of mounting pressure. This is the Big Bang, and how nature abhors a vacuum. AIR want to move wherever it can**. |
-| EARTH  <img src="../Images/bc/trigram-b00.png" style="width:25px" /> | **The canvas of creation. The perfect yin which is receptive to all creative energy. Earth has no directions or movement on its own. EARTH is that upon which we stand, create, and exist. It is the nothingness into which AIR penetrates.** | ABSORPTION <img src="../Images/bc/bigram00.png" style="width:25px" /> |                                                              |                                                              |                                                              |
-| WATER <img src="../Images/bc/trigram-b02.png" style="width:25px" /> | **The downward, or yin, energy. WATER is the womb of creation, the path of least resistance** |                                                              | CONTRACTION <img src="../Images/bc/bigram01.png" style="width:25px" /> |                                                              |                                                              |
-| FIRE <img src="../Images/bc/trigram-b05.png" style="width:25px" /> | **Upward or yang energy. FIRE is the energy of life.**       |                                                              |                                                              | CONSUMPTION <img src="../Images/bc/bigram10.png" style="width:25px" /> |                                                              |
-| AIR <img src="../Images/bc/trigram-b07.png" style="width:25px" /> | **That which we grow into. AIR penetrates all space and defines the outer limits of the Universe. AIR is the unknown that we explore.** |                                                              |                                                              |                                                              | EXPANSION <img src="../Images/bc/bigram11.png" style="width:25px" /> |
+<img src="../Images/elementsgrid.png" style="width:100%">
+
+
 
 
 
@@ -758,12 +730,12 @@ Examining the I Ching from a tholonic perspective shine a light of new patterns 
 
 This, however, brings up an overlooked pattern.  We showed before how descension from the primal 0 and 1 created the uber classes or Absorption, Contraction, Consumption, and Expansion, and from each of these came the pairs of 0 and 1, 2 and 3, 4 and 5, and 6 and 7.  But when we lay these out as we have above, another uber class emerges, which is that of the opposites.  For example, EARTH (0) and AIR (7) are one of the pairs that add up to 7, but these attributes share a common significance in that together they define the lowest place and the highest place, which essentially describes the limits of the third dimension of our space (as 2D space has no height).  Below is a graphic that shows these pairs and their (proposed) uber class of significance. The last column, "Example Instance" is meant to show how theses four basic qualities can instantiate in various way. Electricity is one. Chapter 4 covers a number of other instances.
 
-|                |                                                              |              |                                                              | Description of Uber class                | Example instance |
-| -------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ | ---------------------------------------- | ---------------- |
-| EARTH – 0      | <img src="../Images/bc/trigram-b00.png" style="width:50px"/> | AIR – 7      | <img src="../Images/bc/trigram-b07.png" style="width:50px"/> | Lowest, highest, limits of 3rd dimension | Voltage          |
-| Filling – 1    | <img src="../Images/bc/trigram-b01.png" style="width:50px"/> | Release – 6  | <img src="../Images/bc/trigram-b06.png" style="width:50px"/> | Flow control                             | Resistance       |
-| WATER – 2      | <img src="../Images/bc/trigram-b02.png" style="width:50px"/> | FIRE – 5     | <img src="../Images/bc/trigram-b05.png" style="width:50px"/> | Movement of energy, downward and upward  | Current          |
-| Collecting – 3 | <img src="../Images/bc/trigram-b03.png" style="width:50px"/> | Emptying – 4 | <img src="../Images/bc/trigram-b04.png" style="width:50px"/> | Transferring                             | Power            |
+|              |                                                              |            |                                                              | Description of Parent class              | Example Instance |
+| ------------ | ------------------------------------------------------------ | ---------- | ------------------------------------------------------------ | ---------------------------------------- | ---------------- |
+| 0_EARTH      | <img src="../Images/bc/trigram-b00.png" style="width:50px"/> | 7_AIR      | <img src="../Images/bc/trigram-b07.png" style="width:50px"/> | Lowest, highest, limits of 3rd dimension | Voltage          |
+| 1_Filling    | <img src="../Images/bc/trigram-b01.png" style="width:50px"/> | 6_Release  | <img src="../Images/bc/trigram-b06.png" style="width:50px"/> | Flow control                             | Resistance       |
+| 2_WATER      | <img src="../Images/bc/trigram-b02.png" style="width:50px"/> | 5_FIRE     | <img src="../Images/bc/trigram-b05.png" style="width:50px"/> | Movement of energy, downward and upward  | Current          |
+| 3_Collecting | <img src="../Images/bc/trigram-b03.png" style="width:50px"/> | 4_Emptying | <img src="../Images/bc/trigram-b04.png" style="width:50px"/> | Transferring                             | Power            |
 
 
 
@@ -853,13 +825,17 @@ Both of these models describe only the structure, the contexts of which is const
 
 
 
-<img src="../Images/astro6.png" style="float:left;width:40%"/><img src="../Images/tholonic-pakua.png" style="width:40%"/>
+<img src="../Images/astro6.png" style="float:left;width:50%"/><img src="../Images/tholonic-pakua.png" style="width:50%"/>
 
 While there is no "top" to either one of these maps, their orientation is relative to one another.  In their most reasonable orientation above, the predominant yin or yang is at the top.  For the line model, yang is at the top, and for the trigram model, it is yin. If we highlight the yin and yang triangles that are created by each, we see they do not create the Saturn Star, or 6-pointed Star of David.  However, they do create a tholon.  because every tholon exist within a parent tholon (except for the first tholon), and because the "top" of the inner tholon is at the bottom of the outer tholon, we get a yang parent (yang because the lines are the dynamic part), and a yin child (yin because it is a structure only). And because a complete tholon has a virtual tholon (the lower half), we end up with the 2D tholon shown below, which is then turned into a 3D tholon.
 
+<img src="../Images/astro-tholon.png" style="width:100%"/>
 
+How can we validate this? There are various ways, but the simplest test to see if we are still in the ballpark is to look at the number, as we did with the hexagrams within the tholon previously. For example, if we take the numerical values of the lines (rather, the value of their place) and the value of the trigrams (either the axis or the quadrant) to their appropriate triangles, we get the following:
 
-<img src="../Images/astro-tholon.png" style="width:60%"/>
+<img src="../Images/astro-tholon-val.png" style="width:60%"/>
+
+Pages could be written about the significance of these numbers, but the short version is; we would expect to see values that are the result of 2 (binary), 3 (tholonic and value of all bigram pairs) and 7 (value of all the trigram pairs), and this is exactly what we do see. If any of these numbers were off by 1, this would not be the case. Also note how the brown values of the all the side differ by 6, and any of the pink values differs by multiples of 3.
 
 ## The Lines, Part II
 
@@ -885,14 +861,7 @@ Now we can show this, along with a few other attributes already mentioned, in th
 
 In fact, there are a number of models, for growth, recovery, behavior, production, etc., that neatly fit into six stages.  One popular model is called the *The Transtheoretical Model* [^181], included in th table below.
 
-|       | **Tao** | **Context**<br />(Hemisphere) | Movement<br />(Ascending/descending)<br />(Inflating/deflating) | **Nature**   | **Archetype** | **Example instance** | Transtheoretical Model example |
-| ----- | ------- | ----------------------------- | ------------------------------------------------------------ | ------------ | ------------- | -------------------- | ------------------------------ |
-| **6** | Yin     | Yang                          | Descending / deflate                                         | Contribution | Departure     | Death                | Termination                    |
-| **5** | Yang    | Yang                          | x                                                            | Definition   | Integration   | Adult Life           | Maintenance                    |
-| **4** | Yin     | Yang                          | Ascending / inflate                                          | Negotiation  | Stability     | Growing up           | Action                         |
-| **3** | Yang    | Yin                           | Ascending / inflate                                          | Contribution | Deployment    | Birth                | Preparation                    |
-| **2** | Yin     | Yin                           | x                                                            | Definition   | Specification | Pregnancy            | Contemplation                  |
-| **1** | Yang    | Yin                           | Descending / deflate                                         | Negotiation  | Conception    | Insemination         | Precontemplation               |
+<img src="../Images/6line-stats.png" style="width:100%" />
 
 We can see that each line has a natural quality of being yin or yang, ascending/inflating, or descending/deflating. On the table below we show the six lines with their yin and yang qualities. The bold lines indicate this is the natural state for that line. The "Bigram" column comes from the fact that *Definition* has a yin quality, and and *Contribution* has a yang quality, so its two children of yin and yang create a bigram (the bottom line being the parent's). *Negotiation* is the balancing of these two qualities, so it has no bigram, however, it is from the *Negotiating* context that a new *Definition* and *Contribution* can emerge from.  In fact, because the 1st live of every trigram is a *Negotiation*, we consider the 2nd line the *Defining* aspect of the 1^st^ line, and the 3^rd^ line the *Contributing* aspect of the 1st line (as a result of the 2^nd^ line)
 
