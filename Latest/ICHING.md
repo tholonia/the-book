@@ -4,6 +4,12 @@ n the West, the I Ching was discovered in the late 17th century by Jesuit missio
 
 <div style="page-break-after: always; break-after: page;"></div>
 
+## New
+
+
+
+
+
 # C - Tholonia and the I-Ching
 
 ###### **!!! this section was added after the book was finished. It is a work-in-progress and may end up a book unto itself !!!**
@@ -24,18 +30,16 @@ Finally, we have the ancient Chinese I-Ching, or Book of Changes, which dates ba
 
 Of these, the I-Ching is the best candidate for the following reasons&hellip;
 
-- It, like most models of reality, is based on the same basic idea that every exists between a state of somethingness and nothingness.
+- It, like most models of reality, is based on the same basic idea that everything exists between a state of somethingness and nothingness.
 - It&rsquo;s origins come from the 5,000 year old legendary and mythical ruler *Fu Xi*&rsquo;s desire to &ldquo;become thoroughly conversant with the numinous and bright and to classify the myriad things.&rdquo; (*from Fu Xi&rsquo;s work the &lsquo;Great Commentary&rsquo;*, 168 BC) which is the same motivation behind the birth of philosophy and ontology in the West.
-- Unlike the Hindu texts, and to a lesser degree the Kabbalah, the I-Ching is constantly evolving. What began as a primitive ritual of comparing tortoise shell cracks to the stars in the sky has evolved into a form of binary math that even great thinkers of today are trying to decipher. The I-Ching&rsquo;s ability to adapt to and incorporate new perspectives is critical in this case.
+- Unlike the Hindu texts, and to a lesser degree the Kabbalah, the I-Ching is constantly evolving. What began as a primitive ritual of comparing tortoise shell cracks to the stars in the sky has evolved into a form of binary math that even great thinkers of today appreciate. The I-Ching&rsquo;s ability to adapt to and incorporate new perspectives is critical in this case.
 - It has found a home in every major culture in the world; Western, Jewish, Islamic, Asian and East Asian and its ideas have been incorporated into philosophy, religion, art, literature, science, technology and medicine and is studied at major universities (Oxford, Cambridge, Columbia, Stanford, etc.).
 
 So, let&rsquo;s deconstruct the I-Ching using the tholonic modal and see what we find.
 
-For the record, I had no idea how this would turn out when I began integrating these two models. In fact, only after the entire book was written did I have the idea to test against the I-Ching. The results I report here were all new to me at the time of the writing, and I was astonished as I hope the reader will be.
-
 There are many, many books on the origins and philosophy of the I-Ching, so we are not going to get into that here. If you want to know more about some of the details we present regarding the I-Ching you are going to have to do your own research.
 
-The most obvious and important foundation of the I-Ching is that it is based on the polarity of yin and yang. Although this concept arose before the birth of Taoism, the Taoist symbol of Yin/Yang (called the *Taijitu*) has come to perfectly embody this concept.
+The most obvious and important foundation of the I-Ching is that it is based on the polarity of yin and yang. Although this concept arose before the birth of Taoism, the Taoist symbol of Yin/Yang (called the *Taijitu*) has come to embody this concept.
 
 <img src="../Images/ic_yinyang.png" style="width:20%;margin:auto;" />
 
@@ -43,21 +47,39 @@ We have seen this pattern before, perhaps as an archetype of one of the most fun
 
 <img src="../Images/CMB-only.png" style="width:20%;margin:auto;" />
 
-This Taoist symbol does not represent the Oneness from which the first duality emerged, as it is often believed. Rather it represents the Oneness that emerges from an existing duality, in other words, an *N-state*.  The original Oneness, for which there is no image, is the source from which the initial 0-dimensional &ldquo;blue dot&rdquo; appears in nothingness, and as this dot  did not come from a duality (that we can see) there is nothing we can say about it for now other than &ldquo;it just is.&rdquo;  So, this image represents the Oneness that comes from the first duality of somethingness of the concept of a dot and nothingness. In the thologram, that first duality is the &ldquo;green dot&rdquo; and the &ldquo;red dot&rdquo;, and if you remember, it is only along the spectrum that is defined by, and connects, these two dots where a new N-state can emerge from.
+This Taoist symbol does not represent the Oneness from which the first duality emerged, as it is often believed. Rather it represents the first duality, as well as the Oneness that emerges from an existing duality, in other words, an *N-state*.  The original Oneness, for which there is no image, is the source from which the initial 0-dimensional &ldquo;blue dot&rdquo; appears in nothingness, and as this dot  did not come from a duality (that we can see) there is nothing we can say about it for now other than &ldquo;it just is.&rdquo;  So, this image represents the Oneness that comes from the first duality of somethingness of the concept of a dot and nothingness. In the thologram, that first duality is the &ldquo;green dot&rdquo; and the &ldquo;red dot&rdquo;, and if you remember, it is only along the spectrum that is defined by, and connects, these two dots where a new N-state can emerge from.
 
 From the tholonic perspective, that which created the first duality is different from that which creates all the other dualities, but the process is the same. If we reuse a earlier diagram of the tholonic trigrams but replace the initial, and only the initial N-source with a Zen circle (because I have no ideas what *should* go there, just that is should not be the Taijitu), we have the following:
 
 <img src="../Images/tao-3-steps.png"  style="width:100%;" />
 
-The I-Ching also has a concept of an &ldquo;lower&rdquo; and an &ldquo;upper&rdquo; state. The lower state can be earth, matter, the subjective, the hidden, the inner, etc. depending on context. The &ldquo;upper&rdquo; state is that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context. A hexagram is made up of these two states, each state occupied by one of the eight trigrams. This results in a total of 64 hexagrams, the total number of hexagrams in the I-Ching (colored blue and red simply for easier viewing).
+## Basics
+
+The I-Ching, like the thologram, has the basic concept of a trigram as the stable building block of structure. In the I-Ching a trigram, is simply three states of yin/yang together to form a stable concept. There are eight possible combinations when using yin and yang (shown below).
+
+The I-Ching also has a concept of an &ldquo;lower&rdquo; and an &ldquo;upper&rdquo; state. It describes the lower state can be earth, matter, the subjective, the hidden, the inner, etc. depending on context, and the &ldquo;upper&rdquo; state  as that of heaven, ideas, archetypes, the outer, exposed and the arena of creation, etc, also depending on context. 
 
 <img src="../Images/i-ching-8.png" style="width:30%;" />
 
-The I-Ching, like the thologram, has the basic concept of a trigram as the stable building block of ideas. In the I-Ching a trigram is simply three states of yin/yang together to form a stable concept. There are eight possible combinations when using yin and yang.
+This result is a total of 64 hexagrams, shown below (even values are blue, odd values are red,  for easier viewing).  The number under the hexagram is the binary value of the hexagram, which differs from the numbers in the I Ching.  Unless otherwise notes, we will be using only the binary value to identify a hexagram.
 
-<img src="../Images/ic_64hex.png"  style="width:100%;" />
+<img src="../Images/ic_64hex.png"  style="width:80%;" />
 
-An I-Ching trigram is a very simple concept of three states, earth at the bottom, heaven at the top and humanity in the middle. As you can see, this is not only a very simple concept, but a very limited one as these concepts only apply to a human context. The thologram has the same concept of a trigram that is quite compatible with the I-Ching but far more functional and also arranged a bit differently. The tholonic trigram is made of a source, and its two polar opposites that emerge from it, something like a *synthesis* that hold within it its own *thesis* and *antithesis*. Certainly the I-Ching model of a trigram fits into this if we view *humanity* as the synthesis and *heaven* and *earth* the two polarities contained within, rather than the I-Ching&rsquo;s view that humanity is the product of heaven and earth, however, tholonically this is true only for the resulting N-state that emerges from the spectrum of *heaven* and *earth*.
+While there are 64 hexagram, it is more useful to think of two different sets of 32 states (shown in two columns). The reason this is more useful is because we now have the concept of 32 pairs of hexagrams, and we can consider this pair as the duality of an even broader concept
+
+For example, take the most basic hexagrams (using their binary values, not the numbers given in the I Ching), 0 <img src="/home/jw/sites/the-book/Images/bc/hexagramB00.png" style="width:30px"/> and 63 <img src="/home/jw/sites/the-book/Images/bc/hexagramB63.png" style="width:30px"/>, the *Receptive* and the *Creative*. Between these two hexagrams all other hexagrams exist, so together they represent one state that includes the  broadest context that everything exists within. Another example is the pair hexagram 20 <img src="/home/jw/sites/the-book/Images/bc/hexagramB20.png" style="width:30px"/>*Obstruction*, which states (and I&rsquo;m paraphrasing):
+
+> When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind. 
+
+… and it&rsquo;s opposite, 43 <img src="/home/jw/sites/the-book/Images/bc/hexagramB43.png" style="width:30px"/>, *Opposition*, which states:
+
+> When opposites meet that must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being.
+
+The *uber* concept here is one of opposites and how they can interact either through cooperation, as polarity, or conflict, as obstruction.   
+
+## Trigrams 
+
+A tholonic trigram is a bit different, but quite compatible with the the I Ching trigram. Instead of three states of beginning, middle, end, or earth, man heaven, it is made of a source, and its two polar opposites that emerge from it, something like a *synthesis* that holds within it its own *thesis* and *antithesis*. 
 
 The thologram also has a concept of *upper* and *lower* in that the *upper* trigram of the I-Ching equates nicely to the parent trigram of a tholon. The resulting *lower* trigram of the tholon is created by the new N-source of the parent. We can now see that the final hexagram is perfectly equivalent to a tholon map.
 
@@ -67,7 +89,11 @@ It might see counterintuitive that the *upper* or *outer* trigrams of the I-Chin
 
 *Note: One interesting detail when we use the outer trigram on the parent level with the inner trigram on the child level; all the numbers for each side equal 9 (1+6+2, 2+4+3, 3+5+1). That does not mean this mapping is &ldquo;correct&rdquo;, but it does mean there is natural symmetry, and symmetry is an excellent indicator of order, and therefore the movement of energy.*
 
-Moving on, according to the I-Ching states there are 6 stages of change that describe the life-cycle of a creation, or instance. This is stated very clearly:
+
+
+## The six stages (in the I-Ching and the thologram)
+
+According to the I-Ching there are 6 stages of change that describe the life-cycle of a creation, or instance. This is stated very clearly:
 
 > All movements are accomplished in **six stages**, and the seventh brings return.
 
@@ -78,41 +104,80 @@ Moving on, according to the I-Ching states there are 6 stages of change that des
 
 ##### ~ Commentary on hexagram #1, the Creative (The I Ching,  Wilhelm/Baynes edition)
 
-Not surprisingly then, when we bifurcate the original Tao 6 times, we end up with 64 points in total:
+This shows a general idea of the 6 steps from an I Ching and tholonic perspective.
 
-<img src="../Images/ic-btree.png" style="width:100%;" />
+<img src="../Images/simple_lines.png" style="width:100%;" />
 
-How would the thologram describe these six stages then?  Although this bifurcation produces 64 states, it is more useful to think of two different sets of 32 states each, and each set created by only 3 stages of bifurcation, or only 3 levels deep. In this way we can construct 8 trigrams from one set and 8 from another set. The reason this is more useful is because we now have the concept of 32 pairs of hexagrams (or 4 pairs of trigrams), and we can consider this pair as the duality of an even broader concept
+One way to understand the 6 step is by looking at the 6 steps of bifurcation needed to create 64 children form one source.
 
-For example, take the most basic hexagrams (using their binary values, indicated by the preceding &lsquo;b&rsquo; in front of the number), b0 <img src="/home/jw/sites/the-book/Images/bc/hexagramB00.png" style="width:30px"/> and b63 <img src="/home/jw/sites/the-book/Images/bc/hexagramB63.png" style="width:30px"/>, the *Receptive* and the *Creative*. Between these two hexagrams all other hexagrams exist, so together they represent one state that includes the  broadest context that everything exists within. Another example is is hexagram b20 <img src="/home/jw/sites/the-book/Images/bc/hexagramB20.png" style="width:30px"/>*Obstruction*, which states (and I&rsquo;m paraphrasing):
+<img src="../Images/ic-btree-labels.png" style="width:100%;" />
 
-> When faced with dangerous obstacles it is wise to retreat and prepare accordingly with those of like mind. 
+Another way of looking at the 6 stages is from the tholonic model in the following way. 
 
-… and it&rsquo;s opposite, b43 <img src="/home/jw/sites/the-book/Images/bc/hexagramB43.png" style="width:30px"/>, *Opposition*, which states:
+ <img src="/home/jw/sites/the-book/Images/tri-tetra.png" style="width:70%"/>
 
-> When opposites meet that must proceed with care, for brusqueness will lead to calamity, but through understanding and cooperation we can change an opposition into a polarity. This is how all things come into being.
+Notice how the #4 blue line, which is the tholonic *Negotiation* line and the only area where new *N-states* can form to create children, is also defined a *Emergence* in the I Ching, which is consistent with the traditional definition of line 4. Also note how a point (which is yang), such as 1, 3, and 5, results in lines (which are yin) 2, 4, and 6) of the similar but opposite quality.
 
-The *uber* concept here is one of opposites and how they can interact either through cooperation, as polarity, or conflict, as obstruction.
 
-### The six stages (in the I-Ching and the thologram)
 
-The 6 stages of the I Ching follow the tholonic model in the following way.
+There is yet anotehr way to look at the structure of the lines, and one that is arguably the one that is the basis of the current intrepreation.
 
-<img src="/home/jw/sites/the-book/Images/tri-tetra.png" style="width:70%"/>
+ 
 
-Notice how the #4 blue line, which is the tholonic Negotiation line and the only area where new N-states can form to create children, is also defined a Emergence in the I Ching, which is consistent with the traditional definition of line 4. Also note how a yang point, such as 1, 3, and 5, results in a yin line (, 2, 4, and 6) of the similar but opposite quality.
 
-It is both difficult and misleading to use one word to define an archetype that can have many different instances, nevertheless, we do exactly that, but remind the reader that these words are simply hints to a much larger significance.
 
-The two trigrams, which well call *upper* and *lower*, are essentially mirror aspects of each other.  We define the 6 stages as follows:
+<img src="../Images/dot-cicrle-ary.png" style="width:100%;margin:auto;" />
+
+
+
+*Fig. k1* shows a simple binary tree that starts at the center and bifurcates outward to 64 end-points.  This form is especially useful because it so clearly show the direction of the YIN movement (*Fig. k2a*) and the YANG movement (*Fig. k2b*).  When we add these two opposite moving pattern together we can see an impressive fractalated pattern that looks quite similar to a navigational compass (*Fig. k3*). *Fig. k4* shows the dot and the lines together, but in addition, each of the six concentric bands has been colorized, and the connective lines have been greatly thickened, with a Tao symbol added to the middle to represent the original duality.
+
+<img src="../Images/dot-circle-anatomy.png" style="width:80%;margin:auto;" />
+
+Each of these concentric rings represents each successive bifurcation and represent each of the lines in a hexagram.  The above image show the path from the beginning to the end for hexagram 23 (binary).  
+
+This structure tells us a lot about the I Ching. For example, we would expect to see the more cardinal points hold somewhat of a "cardinal" value.  To see this, we highlighted the paths of each of the cardinal and semi-cardinal paths and show the hexagrams they produce aling with there meaning (and their traditional number).
+
+<img src="../Images/dot-circle-3a-2.png" style="width:100%;margin:auto;" />
+
+
+
+#### Note: All hexagrams that have a solid yang in the 6^th^ place, at the top have values greater than 31, and demonstrate *internal* or *descending* qualities. These hexagrams are shows in *italics* in in this chapter.  All hexagrams that have a broken yin line in the 6^th^ place have values less than 32, and demonstrate *external* or *ascending* qualities.  These hexagrams are shown in all CAPS in this chapter.
+
+The first thing we notice is that the exactly opposite the cycle that begins and ends with the hexagrams 0 and 63 at the top, is the hexagrams *Return* and COMING TO MEET. Considering this is exactly the point where the cycle begins to return, it suggests that the ancient interpreter of the I Ching saw this same pattern.  The other thing we notice is the symmetry of the numbers, wherein all ever pair of opposite (ascending and descending) values on opposite sides of the vertical axis always equals 63. The same is true for every lower and upper trigram, but in the case of the ascending trigrams, the axis is diagonal from area 4/5 to 8/1, and for the descending trigrams, the axis is mirrored, from 5/6 to 1/2. 
+
+We can also see that each pair of hexagrams for the same point has a meaning that is similar from two different aspects.  On the graph on the right, above, we have renamed these points according to the theme they share. Below we look at hos this was arrived at.  it is recommended that you look at the meaning in full is Wilhelm/Baynes version.  Pay attention the that detail that in the case of *ascending* hexagrams, the influence is always from the nature, or the times, or other influence beyond the control of man, while in the *descending* hexagrams, it focuses on the same quality but in the hands of man.  This is the duality that the authors worked with, that of nature vs man, state vs individual. This gives us a great insight into the moral agenda of the authors, who, of course, worked for the state.  
+
+1. Both of these hexagrams define an extreme end point, the polarity that defines the spectrum within which every other hexagrams exists. This defined **arena of creation**.
+2. Both of these describe a time when the high and the low are in **harmony**. In one case (*Peace*), it is the result of the times, and in the other (TREADING), it is the result of decorum and pleasant manners succeed. 
+3. Both hexagrams speak of **progress**. In one case (*Approach*), it is the result of the time, such as spring time. The other case (FELLOWSHIP) speaks of progress in difficult times as long as people unify and are working towards the goals of humanity.
+4. Both hexagrams refer to find the inner light for **guidance**. In one case (*Darkening*), when external circumstances are unfavorable, and in the other (INNOCENCE), when one is at risk of wandering off the path of righteousness.
+5. Both hexagrams speak of a **reversing course**. In one case (*Return*), it is the natural turn of the cycle when the light returns to the darkness. In the other (COMING TO MEET), this change is the result of a decision but warns one of allowing the inferior to gain access to the superior. However, it also admits that this meeting of inferior and superior is what brings about all life.
+6. Both hexagrams speak of the need for **adaptation** if progress is to succeed. In the one case (*Pushing Upward*), because of one's modesty and adaptability, progress is assured. In the other, (CONFLICT) there is a warning to avoid treachery and only consider modest and amicable means of progressing when met with resistance.
+7. Both hexagrams speak of the management of **force**. In one case (*Army*), it speaks of the discipline, as well as trust in a leader, that are necessary for a force to be effective. In the other (RETREAT), the wise use of force is needed when facing a stronger force. In the other 
+8. Both hexagrams describe a time when **the end** has arrived. In one case (*Modesty*), it tells of how the law of nature is to raise that which is low, and lower that which is high. In the other case (STANDSTILL), the end has arrived as confusion and disorder because the dark waxing power has given rise to lowly people.  In such times, faith in one's principles is the only recourse. In the other case 
+
+This can be reduced again to a more abstracted four pairs, and they can be reduced further to two, which would be the duality from which everything emerges. I ague here that this duality is that of *Definition* and *Contribution*, and everything exists as a result of *Negotiation* between those two states.  The reader my discover something very different.
+
+
+
+## The Lines 
+
+Here is a charts that shows a a more in-depth descriptions of the 6 steps from a tholonic and I Ching perspective. It is divided into two hexagrams, *lower* and up*p*er. Pay attention to the similarity of the three concepts that each line in the trigram share with each other, as they are essentially mirror aspects of each other.
+
+*Note: It is both difficult and misleading to use one word to define an archetype that can have many different instances, nevertheless, we do exactly that, but remind the reader that these words are simply hints to a much larger significance.*
 
 <img src="/home/jw/sites/the-book/Images/line-desc-1.png" style="width:100%"/>
-
-
 
 Once we cross the line from *lower* to the *upper*, the quality of the line positions flip making what was **yang** in the *lower* trigram **yin** in the *upper* trigram, and visa versa. In the tholon we see this same reversal in the *reflection* trigrams and *virtual* tholons. 
 
 <img src="/home/jw/sites/the-book/Images/line-desc-2.png" style="width:100%"/>
+
+
+
+
+
+
 
 ### Lots of 6s
 
