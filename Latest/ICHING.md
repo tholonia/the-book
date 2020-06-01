@@ -39,13 +39,9 @@ So, let&rsquo;s deconstruct the I-Ching using the tholonic modal and see what we
 
 There are many, many books on the origins and philosophy of the I-Ching, so we are not going to get into that here. If you want to know more about some of the details we present regarding the I-Ching you are going to have to do your own research.
 
-The most obvious and important foundation of the I-Ching is that it is based on the polarity of yin and yang. Although this concept arose before the birth of Taoism, the Taoist symbol of Yin/Yang (called the *Taijitu*) has come to embody this concept.
+The most obvious and important foundation of the I-Ching is that it is based on the polarity of yin and yang. Although this concept arose before the birth of Taoism, the Taoist symbol of Yin/Yang (called the *Taijitu*) has come to embody this concept.  We have seen this pattern before, perhaps as an archetype of one of the most fundamental expressions of energy in our universe:
 
-<img src="../Images/ic_yinyang.png" style="width:20%;margin:auto;" />
-
-We have seen this pattern before, perhaps as an archetype of one of the most fundamental expressions of energy in our universe:
-
-<img src="../Images/CMB-only.png" style="width:20%;margin:auto;" />
+<img src="../Images/ic_yinyang.png" style="width:50%;margin:auto;" />
 
 This Taoist symbol does not represent the Oneness from which the first duality emerged, as it is often believed. Rather it represents the first duality, as well as the Oneness that emerges from an existing duality, in other words, an *N-state*.  The original Oneness, for which there is no image, is the source from which the initial 0-dimensional &ldquo;blue dot&rdquo; appears in nothingness, and as this dot  did not come from a duality (that we can see) there is nothing we can say about it for now other than &ldquo;it just is.&rdquo;  So, this image represents the Oneness that comes from the first duality of somethingness of the concept of a dot and nothingness. In the thologram, that first duality is the &ldquo;green dot&rdquo; and the &ldquo;red dot&rdquo;, and if you remember, it is only along the spectrum that is defined by, and connects, these two dots where a new N-state can emerge from.
 
@@ -120,7 +116,7 @@ Notice how the #4 blue line, which is the tholonic *Negotiation* line and the on
 
 
 
-There is yet anotehr way to look at the structure of the lines, and one that is arguably the one that is the basis of the current intrepreation.
+There is yet another way to look at the structure of the lines, and one that is arguably the one that is the basis of the current traditional interpretation.
 
  
 
@@ -130,11 +126,11 @@ There is yet anotehr way to look at the structure of the lines, and one that is 
 
 
 
-*Fig. k1* shows a simple binary tree that starts at the center and bifurcates outward to 64 end-points.  This form is especially useful because it so clearly show the direction of the YIN movement (*Fig. k2a*) and the YANG movement (*Fig. k2b*).  When we add these two opposite moving pattern together we can see an impressive fractalated pattern that looks quite similar to a navigational compass (*Fig. k3*). *Fig. k4* shows the dot and the lines together, but in addition, each of the six concentric bands has been colorized, and the connective lines have been greatly thickened, with a Tao symbol added to the middle to represent the original duality.
+*Fig. k1* shows a simple binary tree that starts at the center and bifurcates outward to 64 end-points.  This form is especially useful because it so clearly show the direction of the YIN movement (*Fig. k2a*) and the YANG movement (*Fig. k2b*), and when we add these two opposite moving patterns together we can see an impressive fractalated pattern that looks quite similar to a navigational compass (*Fig. k3*). *Fig. k4* shows the dots and the lines together, but in addition, each of the six concentric bands has been colorized, and the connective lines have been greatly thickened, with a Tao symbol added to the middle to represent the original duality.
 
 <img src="../Images/dot-circle-anatomy.png" style="width:80%;margin:auto;" />
 
-Each of these concentric rings represents each successive bifurcation and represent each of the lines in a hexagram.  The above image show the path from the beginning to the end for hexagram 23 (binary).  
+Each of these concentric rings represents each successive bifurcation which defines each of the lines in a hexagram.  The above image show the path from the beginning to the end for hexagram 23 (binary).  
 
 This structure tells us a lot about the I Ching. For example, we would expect to see the more cardinal points hold somewhat of a "cardinal" value.  To see this, we highlighted the paths of each of the cardinal and semi-cardinal paths and show the hexagrams they produce aling with there meaning (and their traditional number).
 
@@ -155,9 +151,13 @@ We can also see that each pair of hexagrams for the same point has a meaning tha
 5. Both hexagrams speak of a **reversing course**. In one case (*Return*), it is the natural turn of the cycle when the light returns to the darkness. In the other (COMING TO MEET), this change is the result of a decision but warns one of allowing the inferior to gain access to the superior. However, it also admits that this meeting of inferior and superior is what brings about all life.
 6. Both hexagrams speak of the need for **adaptation** if progress is to succeed. In the one case (*Pushing Upward*), because of one's modesty and adaptability, progress is assured. In the other, (CONFLICT) there is a warning to avoid treachery and only consider modest and amicable means of progressing when met with resistance.
 7. Both hexagrams speak of the management of **force**. In one case (*Army*), it speaks of the discipline, as well as trust in a leader, that are necessary for a force to be effective. In the other (RETREAT), the wise use of force is needed when facing a stronger force. In the other 
-8. Both hexagrams describe a time when **the end** has arrived. In one case (*Modesty*), it tells of how the law of nature is to raise that which is low, and lower that which is high. In the other case (STANDSTILL), the end has arrived as confusion and disorder because the dark waxing power has given rise to lowly people.  In such times, faith in one's principles is the only recourse. In the other case 
+8. Both hexagrams describe a time when the end of a cycle has arrived, and as it is returning to the point it started, this is its final **destination** . In one case (*Modesty*), it tells of how the law of nature is to raise that which is low, and lower that which is high. In the other case (STANDSTILL), the end has arrived as confusion and disorder because the dark waxing power has given rise to lowly people.  In such times, faith in one's principles is the only recourse. 
 
-This can be reduced again to a more abstracted four pairs, and they can be reduced further to two, which would be the duality from which everything emerges. I ague here that this duality is that of *Definition* and *Contribution*, and everything exists as a result of *Negotiation* between those two states.  The reader my discover something very different.
+This can be reduced again to a more abstracted four pairs, and they can be reduced further to two, which would be the duality from which everything emerges. I argue here that this duality is the same duality that everything evolved from as well, that of *Definition* and *Contribution*, and everything exists as a result of *Negotiation* between those two states.  The reader my discover something very different.
+
+
+
+<img src="../Images/revtree.png" style="width:70%;margin:auto;" />
 
 
 
@@ -183,37 +183,37 @@ Once we cross the line from *lower* to the *upper*, the quality of the line posi
 
 In these models of creation we have 6 steps of creation of a hexagram, the tetrahedron (tholon structure) is composed of 6 vectors, and the the N-source has a value of 6. In creation myths we see the number 6 play a significant role in creation myths such as Genesis and the Quran where all of creation was accomplished in 6 days, and in the Babylonian creation myth, the Enuma Elis, where God created 6 gods, each in charge of the 6 different aspects of creation (where they spent 2 days creating everything and the rest of their days fighting with each other). In the building blocks of creation (chemistry) we see six electrons in carbon, the foundation of life. 6 seems to be a very significant number and is firmly associated with the concept of creation.
 
-Let&rsquo;s rearrange the bifurcating tree that the I-Ching is based on (and arguably all forms of creations) and apply this concept of 6.
 
-<img src="../Images/taotree.png" style="width:80%;" />
 
-Here we have the same tree as before, but the starting point is in the middle as opposed to the top. The blue circles represent the yang lines and the red circles represent the yin lines. Following the path from the center to every endpoint will result in 64 paths, each path matching one of the I-Ching hexagrams.
+<img src="../Images/dot-circle-plant.png" style="width:20%;" />
 
-The first thing to notice is two-fold: 1) the top and the bottom are the same but opposite, and 2) this is the same archetypal structure that we see in all growing and alive systems, the most obvious being plants and trees with their roots and stems, which provide a very good instantiated example of the concept of *inner* and *outer*, *upper* and *lower*. etc. 
 
-The second to notice is that all the *inner* paths start with a red (yin) dot and move downward, and all the outer paths start with a blue (yang) dot and move upward. This is significant because in the thologram there is a similar concept of a real tholon and a virtual tholon which are matched to create a complete tholon. We saw an example of this when looking at how the complete tholon models quarks to the proton. 
+
+We can easily recognize this same archetypal structure in all growing and alive systems, from the process of mitosis to the shape of trees and plants with their *inner* roots and *outer* branches and leaves.  In this form, we see the *inner* paths move downward, and the *outer* paths move upward. This is significant because in the thologram there is a similar concept of a real tholon and a virtual tholon which are matched to create a complete tholon. We also saw an example of this when looking at how the complete tholon models quarks to the proton. 
 
 In the thologram all odd numbered tholons are *real* and all even numbered tholons are *virtual*. Likewise all hexagrams that begin with a yin line are even numbered hexagrams, and those that begin with  a yang are odd numbered. We now have a very clean mapping between the thologram and the I-Ching of *virtual* as yin and *real* as yang. 
 
-We arrived at the same results of 6 fundamental concepts formed by a pair of trigrams from two completely different processes; the process of the thologram was based creating a tetrahedron from a point, while the I-Ching is based solely in the binary system which was never used in the thologram.
+We arrived at the same results of 6 fundamental concepts formed by a pair of trigrams from two completely different processes; the process of the thologram was based creating a tetrahedron from a point, while the I-Ching is based solely in the binary system which is never used in the thologram.
 
 There are many mappings and similarities between the tholon and the I-Ching, but I will only show one more because it not only maps hexagrams to tholons, but to basic physical structures in nature.
 
-If we create a binary tree of the I-Ching such that any of the the following conditions are true:
-
-- The bifurcations will expand into the most available space.
-- The bifurcations follow the same process that the bifurcating process used when describe the original 0-dimensional dot in the void of nothingness that began the cycles of creation.
-- The bifurcations follow the path of least resistance.
-
-…we end up with bifurcations that will be 60&deg; apart from each other (which is also the angle that creates a tetrahedron/tholon), which would then create the following patterns for each of the 6 generations of bifurcations (this is easily done with the L-systems language described above with the rule ***F=F\[+F]\[-F]***):
+If we create a binary tree of the I-Ching where the bifurcations follow the path of least resistance, meaning they will always move into the emptiest space, we end up with bifurcations that will be 60&deg; apart from each other (which is also the angle that creates a tetrahedron/tholon), which would then create the following patterns for each of the 6 generations of bifurcations (this is easily done with the L-systems language described above with the rule ***F=F\[+F]\[-F]***):
 
 <img src="../Images/overlay-gen.png" style="width:100%;" />
 
 Simply splitting one line into two lines, in accordance with the laws of energy, we naturally form a pattern of hexagons that perfectly matches the pattern we get when we expand a single dot to many dots. This is because the I-Ching and the thologram represent the same laws but in the context of a binary system (I-Ching) and a trinary system (thologram). Not surprisingly, the one point they both naturally center around is the N-source, which we have already shown to be equivalent to the Taijitu   <img src="../Images/ic_yinyang-small.png" style="width:15px" />
 
-It turns out the two systems are quite compatible to the point where not only can the entire I-Ching be mapped to the thologram, but the thologram can greatly elaborate on the I-Ching and give it a 3D structure, and given its recursive nature, infinitely so. 
+The image below is a more in-depth version of the overlay above.  Here, we follow each bifurcation starting with the one point from which the original duality emerged from. The arrows show the direction of the movement.  Blue lines lead to yang, yellow lines lead to yin.  Some lines (green) are overlapping, and some are bidirectional, which means that movement within these lines continuously recycles while at the same time expanding. As it expands, it never exceeds the boundaries of the hexagram. I have run this iteration to thousands of lines, and it remains a hexagram. As we would would expect, the 'top of tree' point is always, and only, synchronous with an N-state, suggesting they are the same concept in two different models. 
 
-Contrary to modern misconceptions, the I-Ching was never meant to be a tool for divination. It was, and is, a technical manual:
+Also of interest in this diagram is how it shows that the original N-source is the result of its own creation.  We see in the center of the diagram the two hexagrams, one all yin, and one all yang.  This two hexagrams define the limits of the arena integrating in the 5th place, the place of integration, and separating as the 6th place, the place of departure.
+
+<img src="../Images/hexgrid-final.png" style="width:100%;" />
+
+
+
+All of this is to demonstrate how the two systems are quite compatible to the point where not only can the entire I-Ching be mapped to the thologram, but the thologram can greatly elaborate on the I-Ching and give it a 3D structure, and given its recursive nature, infinitely so. 
+
+The I Ching always was, and is, a technical manual:
 
 > After meeting genuine teachers all my doubts disappeared, so that for the first time I realized that the Tao of spiritual alchemy is none other than the Tao of I Ching, the Tao of sages is none other than the Tao of immortals, and that the I Ching is not a book of divination, but rather a study of investigation, of principles, fulfillment of nature, and arrival at the meaning of life. 
 
@@ -226,11 +226,11 @@ Contrary to modern misconceptions, the I-Ching was never meant to be a tool for 
 <img src="../Images/hex2tree.png" style="width:100%;" />
 
 <p style="border:1px solid lightgrey;background-color:#ddd;font-size: 1rem;font-weight:100;font-family: 'Times New Roman', Times, serif;font-style: italic;"> When unfolding this binary hex pattern we see the classic tree pattern that is so popular among many forms of life, but where are the N-sources located in the tree pattern?  They do not exist as form because N-sources are dimensionless; concepts only.  The only parts of a pattern that can have form, or instantiate, are the children of the N-source. The N-sources exist within and around the form.  Literally, the form exists within the concept of the form.</p>
-Hexagons are formed by six N-sources.  This is the tholonic archetype of a hexagon.  Any hexagon, therefore, has a virtual N-source that is induced into being by virtue of its creations, the dimensional lines. As we can see the overlapping redundancy of the pattern as it unfolds, we see that the first hexagon formed is formed many times over, on top of itself.  We can see this overlapping by the density of the lines.  In the beginning, the originating hexagon(s) have a concentration of N-sources.  As the pattern unfolds as a result of a reduction in its angle of expansion, we see the density move from the center to the outer edge. If we apply this concept to the most obvious instance of an actual tree, we would see that the highest density of N-sources exist around the center, as a seed, and around its leaves and flowers when it is full-grown.  In its last stage, it returns to nothing more than a line, with all the N-sources spread out to infinity (according to the math, which is not shown here, as I have no idea how to draw it). This same process applies to the foundation of any instance, from the Big Bang to ideas.
+Hexagons are formed by six N-sources.  This is the tholonic archetype of a hexagon.  Any hexagon, therefore, has a virtual N-source that is induced into being by virtue of its creations, the dimensional lines.  The image above shows the progression of an evenly distributed bifurcating tree (60&deg; separation), which includes many overlaps. The overlapping redundancy of the pattern unfolds as we narrow the separation, which we can see by the density of the lines.  In the beginning, the originating hexagon(s) have an evenly distributed  concentration of N-sources.  As the pattern unfolds, we see the density move from the center to the outer edge. If we apply this concept to the most obvious instance of an actual tree as a metaphor, we would see that the highest density of N-sources exist around the center, as a seed, and around its leaves and flowers when it is full-grown.  In its last stage, it returns to nothing more than a line, with all the N-sources spread out to infinity (according to the math, which is not shown here, as I have no idea how to draw it). This same process applies to the foundation of any instance, from the Big Bang to ideas.
 
 Let&rsquo;s review the 6 steps of each model.
 
-The thologram was created by the three properties of the the three original dots, and these three dots align perfectly with the three stages of creation as they appear on the inner and the outer. 
+The thologram was created by the three properties of the the three original dots, and these three dots align describe the three stages of creation as they appear in the (tholonic) concept of *parent* and *child*, or the (I Ching) concept *lower* and *upper*. 
 
 Equating the *lower trigram* to the three attributes of N, D, C
 
@@ -245,7 +245,7 @@ Equating the *upper trigram* to the three attributes of N, D, C
 | Tholonic (child) |                                                         | I-Ching (upper)                       |
 | ---------------- | ------------------------------------------------------- | ------------------------------------- |
 | Negotiation      | <img src="../Images/dot-blue.png" style="width:30px"/>  | **Line 4:** Emergence (fruiting)      |
-| Definition       | <img src="../Images/dot-green.png" style="width:30px"/> | **Line 5:** Synthesis (seeding)       |
+| Definition       | <img src="../Images/dot-green.png" style="width:30px"/> | **Line 5:** Integration (seeding)     |
 | Contribution     | <img src="../Images/dot-red.png" style="width:30px"/>   | **Line 6:** Departure (death/rebirth) |
 
 Depending on the context (*upper* or *lower*), N, D, and C have slightly different expressions.  In the most general sense, N, D, and C can represent many different concepts depending on its context.
