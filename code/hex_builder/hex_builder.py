@@ -4,7 +4,6 @@ import numpy as np
 import random
 
 
-
 def diff(list1, list2):
     c = set(list1).union(set(list2))  # or c = set(list1) | set(list2)
     d = set(list1).intersection(set(list2))  # or d = set(list1) & set(list2)
@@ -19,8 +18,12 @@ def change_color(t):
     B = random.randrange(0, 257, 10)
     t.color(R, G, B)
 
-def dl(t, lx, ly,h):
+def dl(t, lx, ly,h,clr):
     # set the position to a previous point
+    global cpi
+    global p
+    cpi =  cpi + 1
+
     t.setheading(h)
     t.penup()
     t.setposition(lx, ly)
@@ -29,6 +32,7 @@ def dl(t, lx, ly,h):
     # drae the left line
     t.left(60)  # turn left
     t.forward(L)  # drawl line
+
     angl = t.heading()
     # t.dot(20)
 
@@ -38,12 +42,16 @@ def dl(t, lx, ly,h):
 
     ldat=[lpos[0],lpos[1],angl,pi]
 
+    larrow(clr);
     poss.append(ldat)
+
+
     return(ldat)
 
-def dr(t, lx, ly,h):
+def dr(t, lx, ly,h,clr):
+    global cpi
+    global p
     t.setheading(h)
-    # set the position to a previous point
     t.penup()
     t.setposition(lx, ly)
     t.pendown()
@@ -51,6 +59,8 @@ def dr(t, lx, ly,h):
     # draw the right line
     t.right(60)
     t.forward(L)
+
+    cpi =  cpi + 1
     angr = t.heading()
     # t.dot(25)
 
@@ -61,21 +71,83 @@ def dr(t, lx, ly,h):
 
     # get the end poijt position
     rpos = t.position()  # store pos
+
     t.left(60)  # face front
 
-    rdat=[rpos[0],rpos[1],angr,pi]
+    rdat = [rpos[0], rpos[1], angr, pi]
 
     poss.append(rdat)
-    return(rdat)
+    rarrow(clr);
+    return (rdat)
+
+
+def larrow(clr):
+    t.fillcolor(clr)
+    t.begin_fill()
+
+    t.left(210)
+    t.forward(sz)
+
+    t.left(120)
+    t.forward(sz/2)
+
+    t.left(90)
+    t.forward(sz*.8)
+
+    t.end_fill()
+
+def rarrow(clr):
+    t.fillcolor(clr)
+    t.begin_fill()
+
+    # t.left(90)
+    # t.forward(sz)
+    #
+    # t.left(120)
+    # t.forward(sz/2)
+    #
+    # t.left(90)
+    # t.forward(sz*.8)
+    #
+    t.right(210)
+    t.forward(sz)
+
+    t.right(120)
+    t.forward(sz/2)
+
+    t.right(90)
+    t.forward(sz*.8)
+
+    t.end_fill()
+
+    #
+    # t.right(210)
+    # t.forward(sz)
+    # t.back(sz)
+    # t.left(210)
+    #
+    # t.left(90)
+    # t.forward(sz)
+    #
+    # t.left(120)
+    # t.forward(sz)
+    # t.back(sz)
+    # t.right(210) #add the left that was skipped
+
+
+
+
+
+
 
 def pause():
     t.getscreen()._root.mainloop()
 
 
-def bifur(t, lx, ly,h):
+def bifur(t, lx, ly,h,clr):
     global cc
-    lp=dl(t, lx, ly,h)
-    rp=dr(t, lx, ly,h)
+    lp=dl(t, lx, ly,h,clr)
+    rp=dr(t, lx, ly,h,clr)
     # print ("------",cc)
     cc = cc+1
     # print ("++++++",cc)
@@ -84,17 +156,29 @@ def bifur(t, lx, ly,h):
 # ----------------------------------------------------------
 # ----------------------------------------------------------
 # ----------------------------------------------------------
+sz = 27
 L = 50
-W = [39,30,22,14,8,4]
+ps = 5
 
+count = 20
+
+sz = 14
+L = 25
+ps = 1
+
+cpi = 0;
+# W = [39,30,22,14,3]
+W = [ps,ps,ps,ps,ps,ps,ps]
+# W = [2,2,2,2,2,2]
+# W = [1,1,1,1,1,1]
 
 poss = []
 cc = 0
 pi=0
+
 t = Turtle()
 t.color(255,255,255)
-
-t.pensize(8)
+t.pensize(ps)
 t.setx(0)
 t.sety(0)
 #t.right(90)
@@ -106,27 +190,38 @@ y = pos[1]
 t.speed(9)
 
 poss=[]
+# clr = [ "red","brown","green","cyan","blue","violet"]
+clr = [
+    "magenta"
+    ,"Blue Violet"
+    ,"medium turquoise"
+    ,"sea green"
+    ,"goldenrod"
+    ,"maroon"
+    ,"deep pink"
+
+    ]
+
 # ----------------------------------------------------
 
 
 # FIRST
 # change_color(t)
 # t.color("pink")
-bifur(t, x, y, 0);
+bifur(t, x, y, 0,"white");
 print("FIRST: ")
 print(cc,len(poss))
 pprint(poss)
 pi=pi+1
 
-clr = [ "red","orange","pink","lightgreen","darkblue","violet"]
-
 # clr = [252,225,200,175,150,125,0]
 die=0;
-for p in range(5):
-    # SECOND
+
+for p in range(count):
+
     # change_color(t)
-    t.color(clr[p])
-    t.pensize(W[p])
+    t.color(clr[p % len(clr)])
+    t.pensize(W[p % len(W)])
 ####3
     # if p == 5:
     #     die=1;
@@ -134,21 +229,24 @@ for p in range(5):
     # else:
     #     t.color("lightgray")
 ####
+    cpi=0
     for i in range(len(poss)):
         u=i
         if poss[u][3] == p:
-            bifur(t, poss[u][0], poss[u][1], poss[u][2]);
+            if p <= count:
+                bifur(t, poss[u][0], poss[u][1], poss[u][2],clr[p % len(clr)]);
+    print("--------------------------ROUND: ", p, ": ", cpi)
     pi=pi+1
-    print("SECOND: ")
-    print(cc,len(poss),i)
-    pprint(poss)
-###
-    # if die:
-    #     t.penup()
-    #     t.setposition(1000,1000)
-    #     t.color("white")
-    #     pause()
-###
+    cpi = cpi + 2
+    # print(cc,len(poss),i)
+    # pprint(poss)
+    ###
+        # if die:
+        #     t.penup()
+        #     t.setposition(1000,1000)
+        #     t.color("white")
+        #     pause()
+    ###
 t.penup()
 t.setposition(1000,1000)
 t.color("white")

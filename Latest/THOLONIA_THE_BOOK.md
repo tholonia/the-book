@@ -323,7 +323,7 @@ Ohm&rsquo;s law is just one of a number of contexts where Newton&rsquo;s 2<sup>n
 
 ## E=mc^2^
 
-There&rsquo;s one more comparison to look at as well. Did you notice how in formula wheel above how the *Power = Resistance x Current<sup>2</sup>* (*P=RI<sup>2</sup>)* looks exactly like another popular formula: *E=mc<sup>2</sup>*? Could we find parallels between these two formulas? Maybe there is a relationship such that…
+There&rsquo;s one more comparison to look at as well *(note: let me say that when the following was presented a hard-nosed physicist, he adamantly refuted it as pure malarkey. However, this does not take away from the greater idea, and observation, that patterns of order can be found in their various expressions across different contexts).*   Did you notice how in formula wheel above how the *Power = Resistance x Current<sup>2</sup>* (*P=RI<sup>2</sup>)* looks exactly like another popular formula: *E=mc<sup>2</sup>*? Could we find parallels between these two formulas? Maybe there is a relationship such that…
 
 -   **Power** (*P*) is analogous to **energy** (*E*)
 -   **Resistance** (*R*) analogous to **mass** (*m*)
@@ -3246,8 +3246,6 @@ Tholonically, we can easily map things like Ragone and utility space (as in the 
 
 [^172]: Siegel, Ethan. “**Ask Ethan: Can Free Quarks Exist Outside Of A Bound-State Particle?**” Forbes. Forbes Magazine, August 3, 2019. <https://www.forbes.com/sites/startswithabang/2019/08/03/ask-ethan-can-free-quarks-exist-outside-of-a-bound-state-particle/>
 
-[^173]:  <https://www.quantamagazine.org/entanglement-made-simple-20160428/>
-
 [^174]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO]. 
 
 [^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htmcfo
@@ -3262,23 +3260,4 @@ Tholonically, we can easily map things like Ragone and utility space (as in the 
 
 [^180]:  Lim, Daniel (June 1, 2014). "**Brain simulation and personhood: a concern with the Human Brain Project**". Ethics and Information Technology. 16 (2): 77–89. doi:10.1007/s10676-013-9330-5. ISSN 1572-8439. 
 
-[^181]:   Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
-
-[^182]: Wilhelm, R., & Baynes, C. F. (1997). The I Ching: or, book of changes. Princeton, NJ: Princeton University Press. ISBN-10: 069109750X, ISBN-13: 978-0844295909
-
-[^183]: Ritsema, R. (1994). I ching: the classic chinese oracle of change: the first complete translation with concordance. Shaftesbury: Element. ISBN-10: 1852306696, ISBN-13: 978-1852306694
-
-[^184]: Whincup, G. (1996). Rediscovering the I ching. New York: St. Martins Griffin. ISBN-10: 0312141319, ISBN-13: 978-0312141318
-
-[^185]: Huang, K., & Huang, R. (1987). I ching. New York (N.Y.): Workman. ISBN-10: 9780894803192, ISBN-13: 978-0894803192, ASIN: 0894803190
-
-[^186]: Huang, A. (2004). The complete I Ching: the definitive translation. Rochester, VT: Inner Traditions. ISBN-10: 0892811455, ISBN-13: 978-0892811458
-
-[^187]: Wei, H. (1990). The authentic I-ching: a new translation with commentary. San Bernardino, CA: Borgo Press. ISBN-10: 0878770917, ISBN-13: 978-0878770915
-
-[^188]: Zhu, X., & Adler, J. A. (2002). Introduction to the study of the classic of change (I-hsüeh chi-meng), Provo, UT: Global Scholarly Publications. ISBN-10: 1592673341, ISBN-13: 978-1592673346
-
-[^189]: Zhu, X., & Adler, J. A. (2002). Introduction to the study of the classic of change (I-hsüeh chi-meng). Provo, UT: Global Scholarly Publications.ISBN-10: 1592673341, ISBN-13: 978-1592673346
-
-[^190]: Rutt, R. (2002). The book of changes (Zhouyi): a Bronze Age document. Richmond, Surrey: Curzon. ISBN-10: 070071491X, ISBN-13: 978-0700714919
 

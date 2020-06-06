@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hex_builder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/hex2tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/hex2tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/line-desc-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/line-desc-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/overlay-gen.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/overlay-gen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/revtree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/revtree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Latest/ICHING.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/ICHING.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Styles/THOLONIA_THE_BOOK.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/THOLONIA_THE_BOOK.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../line-desc.ods" beforeDir="false" afterPath="$PROJECT_DIR$/../line-desc.ods" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyc/hex_builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../metadata.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../version.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1cm9gTzbyP2dKEdDJwJMbEeQWyZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="pi" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="" />
+      <created>1591123012961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591123012961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2181" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591393258261">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="261" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591374776347" />
+    <state x="2181" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393258261" />
+    <state x="2654" y="339" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591393068232">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2654" y="339" key="#com.intellij.fileTypes.FileTypeChooser/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393068232" />
+    <state x="584" y="280" key="FileChooserDialogImpl" timestamp="1591374802326">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state x="584" y="280" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591374802326" />
+    <state width="1377" height="279" key="GridCell.Tab.0.bottom" timestamp="1591393928555">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1377" height="279" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
+    <state width="1377" height="279" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928555" />
+    <state width="1377" height="279" key="GridCell.Tab.0.center" timestamp="1591393928554">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1377" height="279" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
+    <state width="1377" height="279" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928554" />
+    <state width="1377" height="279" key="GridCell.Tab.0.left" timestamp="1591393928554">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1377" height="279" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
+    <state width="1377" height="279" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928554" />
+    <state width="1377" height="279" key="GridCell.Tab.0.right" timestamp="1591393928555">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1377" height="279" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
+    <state width="1377" height="279" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928555" />
+    <state x="2493" y="215" key="SettingsEditor" timestamp="1591125812805">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2493" y="215" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591125812805" />
+    <state x="197" y="163" width="1200" height="746" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591328064492">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state x="197" y="163" width="1200" height="746" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591328064492" />
+  </component>
+</project>
