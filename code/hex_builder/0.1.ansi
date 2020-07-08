@@ -1,0 +1,41 @@
+Traceback (most recent call last):
+  File "./moon_dat.py", line 103, in <module>
+    obstime = Time(argfix(ts))
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/time/core.py", line 390, in __new__
+    update_leap_seconds()
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/time/core.py", line 2586, in update_leap_seconds
+    from astropy.utils import iers
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/utils/iers/__init__.py", line 2, in <module>
+    from .iers import *
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/utils/iers/iers.py", line 26, in <module>
+    from astropy.io.ascii import convert_numpy
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/io/ascii/__init__.py", line 20, in <module>
+    from .basic import (Basic, BasicHeader, BasicData,
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/io/ascii/basic.py", line 85, in <module>
+    class NoHeader(Basic):
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/io/ascii/core.py", line 1041, in __init__
+    connect.io_registry.register_writer(io_format, Table, func)
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/io/registry.py", line 288, in register_writer
+    _update__doc__(data_class, 'write')
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/io/registry.py", line 179, in _update__doc__
+    format_table = get_formats(data_class, readwrite.capitalize())
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/io/registry.py", line 140, in get_formats
+    format_table = Table(data, names=('Data class', 'Format', 'Read', 'Write',
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/table/table.py", line 610, in __init__
+    init_func(data, names, dtype, n_cols, copy)
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/table/table.py", line 908, in _init_from_list
+    col = self._convert_data_to_col(col, copy, default_name, dtype, name)
+  File "/home/jw/.local/lib/python3.8/site-packages/astropy/table/table.py", line 1017, in _convert_data_to_col
+    np_data = np.ma.array(data, dtype=dtype)
+  File "/home/jw/.local/lib/python3.8/site-packages/numpy/ma/core.py", line 6467, in array
+    return MaskedArray(data, mask=mask, dtype=dtype, copy=copy,
+  File "/home/jw/.local/lib/python3.8/site-packages/numpy/ma/core.py", line 2831, in __new__
+    mask = np.array([getmaskarray(m) for m in data],
+  File "/home/jw/.local/lib/python3.8/site-packages/numpy/ma/core.py", line 2831, in <listcomp>
+    mask = np.array([getmaskarray(m) for m in data],
+  File "/home/jw/.local/lib/python3.8/site-packages/numpy/ma/core.py", line 1479, in getmaskarray
+    mask = make_mask_none(np.shape(arr), getattr(arr, 'dtype', None))
+  File "<__array_function__ internals>", line 4, in shape
+  File "/home/jw/.local/lib/python3.8/site-packages/numpy/core/fromnumeric.py", line 1899, in _shape_dispatcher
+    def _shape_dispatcher(a):
+KeyboardInterrupt

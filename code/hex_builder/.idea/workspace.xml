@@ -20,19 +20,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hex_builder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/hex2tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/hex2tree.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/line-desc-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/line-desc-2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/overlay-gen.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/overlay-gen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/revtree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/revtree.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Latest/ICHING.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/ICHING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Latest/ICHING~betaWIP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hex_builder_lapse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/increment_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moon_dat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moon_dat_FF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moon_dat_p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moon_dat_r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moon_im.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetra2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetra3-ok1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetra3_linecolor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetra3_rgb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetra4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetra5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetra_tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tetrahedron.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vpy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/64hexagrams-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/64hexagrams-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/astro6.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/astro6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/attr-btree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/attr-btree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/bc/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/bc/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/bc/bigram00.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/bc/bigram00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/bc/bigram01.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/bc/bigram01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/bc/bigram10.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/bc/bigram10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/bc/bigram11.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/bc/bigram11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/btree-circ.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/btree-circ.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/elementsgrid.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/elementsgrid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/tetrahex-hex-triplet-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/tetrahex-hex-triplet-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/tetrahex.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/tetrahex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/tri-tholon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/tri-tholon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Latest/ICHING.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Styles/THOLONIA_THE_BOOK.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/THOLONIA_THE_BOOK.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../line-desc.ods" beforeDir="false" afterPath="$PROJECT_DIR$/../line-desc.ods" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pyc/hex_builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hex_builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hex_builder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hex_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/hex_builder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../metadata.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../version.txt" afterDir="false" />
@@ -59,9 +85,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/moon_dat_p.py" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -69,8 +97,50 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="pi" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.moon_dat_FF">
+    <configuration name="Lorentz-force-scipy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../tetra/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../helix" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../helix/Lorentz-force-scipy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helix" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../tetra/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../helix" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../helix/helix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hex_builder" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="hex_builder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +152,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hex_builder.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,6 +161,385 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="hex_builder_lapse" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hex_builder_lapse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="increment_test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/increment_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moon" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moon_dat" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moon_dat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moon_dat_FF" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moon_dat_FF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moon_dat_p" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moon_dat_p.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moon_dat_r" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moon_dat_r.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="moon_im" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moon_im.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="planet_locations" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/planet_locations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="relist" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dat" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dat/relist.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tetra2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tetra2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tetra3_rgb" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tetra3_rgb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tetra4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tetra4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tetra5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tetra5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tetrahedron" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tetrahedron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="timetest" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/timetest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="vert" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.hex_builder" />
+      <item itemvalue="Python.hex_builder_lapse" />
+      <item itemvalue="Python.moon" />
+      <item itemvalue="Python.moon_dat" />
+      <item itemvalue="Python.moon_im" />
+      <item itemvalue="Python.planet_locations" />
+      <item itemvalue="Python.tetra2" />
+      <item itemvalue="Python.tetra3_rgb" />
+      <item itemvalue="Python.tetra4" />
+      <item itemvalue="Python.tetra5" />
+      <item itemvalue="Python.tetrahedron" />
+      <item itemvalue="Python.timetest" />
+      <item itemvalue="Python.vert" />
+      <item itemvalue="Python.relist" />
+      <item itemvalue="Python.moon_dat_p" />
+      <item itemvalue="Python.moon_dat_r" />
+      <item itemvalue="Python.helix" />
+      <item itemvalue="Python.Lorentz-force-scipy" />
+      <item itemvalue="Python.increment_test" />
+      <item itemvalue="Python.moon_dat_FF" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -118,46 +567,186 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2181" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591393258261">
+    <state x="3138" y="491" key="#Custom_Plugin_Repositories" timestamp="1591673056899">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="261" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591374776347" />
-    <state x="2181" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393258261" />
+    <state x="3138" y="491" key="#Custom_Plugin_Repositories/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591673056899" />
+    <state x="733" y="1223" key="#Lorentz-force-scipy" timestamp="1593499931548">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="733" y="1223" key="#Lorentz-force-scipy/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593499931548" />
+    <state x="941" y="411" key="#Notifications" timestamp="1591646070342">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state x="941" y="411" key="#Notifications/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591646070342" />
+    <state x="261" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591815566518">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state x="261" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591815566518" />
+    <state x="2181" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591674553522" />
     <state x="2654" y="339" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591393068232">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2654" y="339" key="#com.intellij.fileTypes.FileTypeChooser/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393068232" />
-    <state x="584" y="280" key="FileChooserDialogImpl" timestamp="1591374802326">
+    <state x="733" y="1223" key="#helix" timestamp="1593498146611">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="733" y="1223" key="#helix/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593498146611" />
+    <state x="643" y="147" key="#hex_builder" timestamp="1592376427401">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="643" y="147" key="#hex_builder/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592376427400" />
+    <state x="727" y="1247" width="588" height="815" key="#hex_builder_lapse" timestamp="1592591783589">
+      <screen x="0" y="1128" width="1920" height="986" />
+    </state>
+    <state x="727" y="1247" width="588" height="815" key="#hex_builder_lapse/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592591783589" />
+    <state x="733" y="1214" key="#increment_test" timestamp="1593718769146">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="733" y="1214" key="#increment_test/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593718769146" />
+    <state x="724" y="1248" key="#moon" timestamp="1592972164954">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="724" y="1248" key="#moon/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1592972164954" />
+    <state x="725" y="1220" key="#moon_dat" timestamp="1593113691844">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="725" y="1220" key="#moon_dat/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593113691844" />
+    <state x="733" y="1214" key="#moon_dat_FF" timestamp="1593795623683">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="733" y="1214" key="#moon_dat_FF/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593795623683" />
+    <state x="733" y="1223" key="#moon_dat_p" timestamp="1593451019374">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="733" y="1223" key="#moon_dat_p/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593451019374" />
+    <state x="733" y="1223" key="#moon_dat_r" timestamp="1593454043193">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="733" y="1223" key="#moon_dat_r/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593454043193" />
+    <state x="725" y="1220" key="#moon_im" timestamp="1593106096858">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="725" y="1220" key="#moon_im/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593106096858" />
+    <state x="724" y="1248" key="#planet_locations" timestamp="1592969051755">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="724" y="1248" key="#planet_locations/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1592969051755" />
+    <state x="733" y="1223" key="#relist" timestamp="1593449853120">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="733" y="1223" key="#relist/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593449853120" />
+    <state x="2636" y="150" key="#tetra2" timestamp="1591674596428">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2636" y="150" key="#tetra2/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591674596428" />
+    <state x="2636" y="150" key="#tetra3" timestamp="1591674622016">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2636" y="150" key="#tetra3/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591674622016" />
+    <state x="562" y="138" key="#tetra3_rgb" timestamp="1591747375630">
       <screen x="0" y="46" width="1920" height="986" />
     </state>
-    <state x="584" y="280" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591374802326" />
-    <state width="1377" height="279" key="GridCell.Tab.0.bottom" timestamp="1591393928555">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1377" height="279" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
-    <state width="1377" height="279" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928555" />
-    <state width="1377" height="279" key="GridCell.Tab.0.center" timestamp="1591393928554">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1377" height="279" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
-    <state width="1377" height="279" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928554" />
-    <state width="1377" height="279" key="GridCell.Tab.0.left" timestamp="1591393928554">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1377" height="279" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
-    <state width="1377" height="279" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928554" />
-    <state width="1377" height="279" key="GridCell.Tab.0.right" timestamp="1591393928555">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1377" height="279" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591387208307" />
-    <state width="1377" height="279" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393928555" />
-    <state x="2493" y="215" key="SettingsEditor" timestamp="1591125812805">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2493" y="215" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591125812805" />
-    <state x="197" y="163" width="1200" height="746" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591328064492">
+    <state x="562" y="138" key="#tetra3_rgb/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591747375630" />
+    <state x="733" y="125" key="#tetra4" timestamp="1591751926374">
       <screen x="0" y="46" width="1920" height="986" />
     </state>
+    <state x="733" y="125" key="#tetra4/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591751926373" />
+    <state x="666" y="138" key="#tetra5" timestamp="1591812742116">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state x="666" y="138" key="#tetra5/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591812742116" />
+    <state x="725" y="1220" key="#timetest" timestamp="1593131941841">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="725" y="1220" key="#timetest/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593131941841" />
+    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl" timestamp="1593849249283">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="279" y="118" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592370872275" />
+    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593849249283" />
+    <state x="279" y="1236" width="434" height="488" key="FileChooserDialogImpl/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592603524177" />
+    <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591812373104" />
+    <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591677824454" />
+    <state width="1381" height="249" key="GridCell.Tab.0.bottom" timestamp="1593809919455">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1375" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
+    <state width="1381" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593809919455" />
+    <state width="1381" height="246" key="GridCell.Tab.0.bottom/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
+    <state width="1377" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
+    <state width="688" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
+    <state width="1381" height="249" key="GridCell.Tab.0.center" timestamp="1593809919455">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1375" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
+    <state width="1381" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593809919455" />
+    <state width="1381" height="246" key="GridCell.Tab.0.center/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
+    <state width="1377" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
+    <state width="688" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
+    <state width="1381" height="249" key="GridCell.Tab.0.left" timestamp="1593809919455">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1375" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
+    <state width="1381" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593809919455" />
+    <state width="1381" height="246" key="GridCell.Tab.0.left/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
+    <state width="1377" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
+    <state width="688" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
+    <state width="1381" height="249" key="GridCell.Tab.0.right" timestamp="1593809919455">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1375" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
+    <state width="1381" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593809919455" />
+    <state width="1381" height="246" key="GridCell.Tab.0.right/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
+    <state width="1377" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
+    <state width="688" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
+    <state width="1377" height="290" key="GridCell.Tab.1.bottom" timestamp="1591481874389">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state width="1377" height="290" key="GridCell.Tab.1.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
+    <state width="1377" height="290" key="GridCell.Tab.1.center" timestamp="1591481874389">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state width="1377" height="290" key="GridCell.Tab.1.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
+    <state width="1377" height="290" key="GridCell.Tab.1.left" timestamp="1591481874389">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state width="1377" height="290" key="GridCell.Tab.1.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
+    <state width="1377" height="290" key="GridCell.Tab.1.right" timestamp="1591481874389">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state width="1377" height="290" key="GridCell.Tab.1.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
+    <state x="2825" y="267" width="320" height="594" key="RollbackChangesDialog" timestamp="1591678232910">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2825" y="267" width="320" height="594" key="RollbackChangesDialog/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591678232910" />
+    <state x="791" y="131" width="997" height="734" key="SettingsEditor" timestamp="1593498119417">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="261" y="233" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592376597156" />
+    <state x="791" y="131" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593498119417" />
+    <state x="261" y="1341" width="997" height="734" key="SettingsEditor/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592594189031" />
+    <state x="2181" y="233" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591815719635" />
+    <state x="2219" y="143" width="997" height="739" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591680214735" />
+    <state x="197" y="1208" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1593831811812">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="197" y="128" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544454305" />
+    <state x="197" y="1208" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593831811812" />
     <state x="197" y="163" width="1200" height="746" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591328064492" />
+    <state x="415" y="1232" width="1214" height="790" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1593831811812">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="415" y="1232" width="1214" height="790" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593831811812" />
+    <state x="674" y="155" width="592" height="783" key="find.popup" timestamp="1591824043762">
+      <screen x="0" y="46" width="1920" height="986" />
+    </state>
+    <state x="674" y="155" width="592" height="783" key="find.popup/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591824043762" />
+    <state x="711" y="1326" width="672" height="743" key="search.everywhere.popup" timestamp="1593113463163">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="711" y="1326" width="672" height="743" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593113463163" />
+    <state x="711" y="271" width="672" height="678" key="search.everywhere.popup/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591822042886" />
+    <state x="2631" y="246" width="672" height="743" key="search.everywhere.popup/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591683215627" />
   </component>
 </project>
