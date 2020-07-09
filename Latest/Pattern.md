@@ -157,10 +157,10 @@ Some of the point of interest are:
 
   
 
-From a Tholonic perspective, 2&pi; represents a complete tholon.  What is interesting is if we use Ohm's Law and replace &pi; with 2&pi;, and $\alpha$ with $\boldsymbol{\frac{\pi ^{2}}{6}}$ (which is the result of &zeta;(2), then $\beta$ = $\sqrt{3.81971863420549}$ . Why is that interesting?  Because, 3.81971863420549 is especially relevant to moving bodies, like the Sun and the Moon. I have no idea if the following are in any way related to the Sun-Moon dataset, but this number is:
+From a Tholonic perspective, 2&pi; represents a complete tholon (a *real* and *virtual* tholong together).  What is interesting is if we use Ohm's Law and replace &pi; with 2&pi;, and $\alpha$ with $\boldsymbol{\frac{\pi ^{2}}{6}}$ (which is the result of &zeta;(2), then $\beta$ = $\sqrt{3.81971863420549}$ . Why is that interesting?  Because, 3.81971863420549 is especially relevant to moving bodies, like the Sun and the Moon. I have no idea if the following are in any way related to the Sun-Moon data-set, but this number is:
 
-- Neutron g-factor, "which is is a dimensionless quantity that characterizes the magnetic moment and angular momentum of an atom, a particle or nucleus"
-- The revolutions per day in one radian/hour (1 radian/hour = 3.819718634205 revolution/day).  You may have never heard of these units of measurement, but they are used in both subatomic and planetary sciences.  One full turn is 2π radians. A Hour Angle is 1/24^th^ of a full turn, or &pi;/12 radians.   Like the neutron g-factor, it is a unit that measure angular velocity and rotational frequency.
+- Neutron g-factor, "which is a dimensionless quantity that characterizes the magnetic moment and angular momentum of an atom, a particle or nucleus"
+- The revolutions per day in one radian/hour (1 radian/hour = 3.819718634205 revolution/day).  You may have never heard of these units of measurement, but they are used in both subatomic and planetary sciences.  One full turn is 2π radians. A Hour Angle is 1/24^th^ of a full turn, or &pi;/12 radians.   Like the neutron g-factor, it is a unit that measures angular velocity and rotational frequency.
 
 We also see that $\gamma$ equals $\sqrt{10.3354255600999}$, and that it interesting because:
 

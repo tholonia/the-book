@@ -1484,16 +1484,18 @@ Like every theory, it has its fans, but also its critics. In any case, it applie
 
 Newton&rsquo;s Laws of Motion are similar in this regard, as the laws of motion describe the energy that relates to mass, not mass itself. Because of this we can show a direct relationship between these tholonic concepts and Newton&rsquo;s laws:
 
-**Newton&rsquo;s 1<sup>st</sup> law states** *&ldquo;Every object in a state of uniform motion will remain in that state of motion unless an external force acts on it.&rdquo;* This law introduces the concept of an instance of mass, putting it the realm of the 2<sup>nd</sup> &ldquo;green dot&rdquo;, and its limitations. Its inability to move or change without an external forcing acting upon it puts it in the tholonic realm of
-**Definition.**  The concept of *inertia* is defined here, being the restrictions on mass.
+**Newton&rsquo;s 1<sup>st</sup> law states** *&ldquo;Every object in a state of uniform motion will remain in that state of motion unless an external force acts on it.&rdquo;* 
+
+- This law introduces the concept of an instance of mass, putting it the realm of the 2<sup>nd</sup> &ldquo;green dot&rdquo;, and its limitations. Its inability to move or change without an external forcing acting upon it puts it in the tholonic realm of **Definition.**  The concept of *inertia* is defined here, being the restrictions on mass.
 
 **Newton&rsquo;s 2<sup>nd</sup> law states** *&ldquo;Force equals mass times acceleration.&rdquo;*
-**Force** is the result of time and space (acceleration and mass), so it is within the realm of the 3<sup>rd</sup> &ldquo;red dot&rdquo;, scope and area, and tholonically is within the realm of
-**Contribution**, as it creates a new concept that describes the most fundamental property of energy, that being the *force* of movement. 
 
-**Newton&rsquo;s 3<sup>rd</sup> law states** &ldquo;*For every action there is an equal and opposite reaction.*&rdquo; This equates to
-**Balance.** No mass energy is defined here, just as no dimension is defined in the 1<sup>st</sup> dot. This law only describes the result of existing energies acting against each other, associating it with the 1<sup>st</sup> &ldquo;blue dot&rdquo; realm of
-**Negotiation**. The concept of *balance* (which includes the concept of imbalance) is born of energies interacting with one another.
+- **Force** is the result of time and space (acceleration and mass), so it is within the realm of the 3<sup>rd</sup> &ldquo;red dot&rdquo;, scope and area, and tholonically is within the realm of
+  **Contribution**, as it creates a new concept that describes the most fundamental property of energy, that being the *force* of movement. 
+
+**Newton&rsquo;s 3<sup>rd</sup> law states** &ldquo;*For every action there is an equal and opposite reaction.*&rdquo; 
+
+- This equates to **Balance.** No mass energy is defined here, just as no dimension is defined in the 1<sup>st</sup> dot. This law only describes the result of existing energies acting against each other, associating it with the 1<sup>st</sup> &ldquo;blue dot&rdquo; realm of **Negotiation**. The concept of *balance* (which includes the concept of imbalance) is born of energies interacting with one another.
 
 Tholonically speaking, Newton&rsquo;s Law of Motions should probably be in the following order:
 
@@ -1943,7 +1945,7 @@ Addition and subtraction are easy concepts to grasp in the real world. We take s
 
 What are multiplication and division then? It is the definition of one value by the units of another value. For example, in division, such as $\boldsymbol{3=\frac{12}{4}}$, we are stating that 3 is what we get when we measure an existing value (12) by a unit of 4. In multiplication, such as *12=3&times;4,* we are determining a new value by taking one of these units-of-4 and adding it some number (3) of times. The 4, as the divisor or multiplier, is the *unit of measurement* and the 3 is the *number of units*. Every kid knows what was just stated, but when we apply those same simple rules and concept to a non-math context, they become very significant.
 
-As mentioned above, we would expect to see the same laws expressed in different ways across all the scopes that the laws apply to, so we would expect to see an example of Newton&rsquo;s 2<sup>nd</sup> law in the tholonic realms of society, or planets, or organisms, and we do.
+As mentioned above, we would expect to see the same laws expressed in different ways across all the scopes that the laws apply to, so we would expect to see an example of Newton&rsquo;s 2<sup>nd</sup> law in the tholonic realms of society, or planets, or organisms, and we do.  For comparison, we also show how the attributes of the tholon would appear using the same laws.  (Note: The lower case 'neg' represent is new N-state that results from the children of  'NEG'.)
 
 <img src="../Images/hor-laws.png" style="width:100%" />
 
@@ -2017,11 +2019,11 @@ For these, and other reasons, we can not start counting with the number 1, but n
 
 For those who enjoy playing with numbers, the following will keep you entertained for days. I found many fascinating and significant relationships and values. I can&rsquo;t tell you what they mean or represent, but it would be irrational to assume they have no significance without knowing anything more about them. Everything that leads up to these new values is quite reasonable and provable. It is just a matter of discovering where these new values and formulas apply. To explain these new values here would border on sadistic given what the reader has had to suffer through already, and as it qualifies as a book unto itself I will spare the reader. However, there are just a couple I would like to share.
 
-If we look at current (I, red, #2) &ldquo;dividing&rdquo; resistance (R, green, #3), on the right <img src="../Images/right-div.png" style="width:25px">, and apply the function of division associated with the 6-2 vector, or side, we have 3^2^&div;2, which is simply 4.5 (which we&rsquo;ll call R~i~). On the left we have resistance (R) &ldquo;constrained&rdquo; by current (I) <img src="../Images/left-div.png" style="width:25px">, which is 2^2^&div;3, which is 1.33333 (which we&rsquo;ll call I~r~). Neither number *seems* particularly significant, but if we multiply these numbers together, which we would because they are connected via the &ldquo;base&rdquo; of the trigram, the 3-2 vector, which has the property of multiplication (as shown above) we get R~i~&times;I~r~=6, which is the value for V. This proves that ohm's Law has not been broken. Using this same reasoning we can apply this to the three 6s, but as they are on a vector of multiplications, we would use 6^2^&times;6, or simply 6^3^, which yields 216 (which we&rsquo;ll call V~3~).
+If we look at *current* (I, red, #2) &ldquo;dividing&rdquo; *resistance* (R, green, #3), on the right <img src="../Images/right-div.png" style="width:25px">, and apply the function of division associated with the 6-2 vector, or side, we have 3^2^&div;2, which is simply 4.5 (which we&rsquo;ll call R~i~). On the left we have *resistance* (R) &ldquo;constrained&rdquo; by *current* (I) <img src="../Images/left-div.png" style="width:25px">, which is 2^2^&div;3, which is 1.33333 (which we&rsquo;ll call I~r~). Neither number *seems* particularly significant, but if we multiply these numbers together, which we would because they are connected via the &ldquo;base&rdquo; of the trigram, the 3-2 vector which has the property of multiplication (as shown above) we get R~i~&times;I~r~=6, which is the value for V. This proves that ohm's Law has not been broken. Using this same reasoning we can apply this to the three 6s, but as they are on a vector of multiplication, we would use 6^2^&times;6, or simply 6^3^, which yields 216 (which we&rsquo;ll call V~3~).
 
 In any case, we have new properties of R~i~, I~r~, V~3~, all of which only emerging when the the complete tholon is defined. We can now say R~i~&times;I~r~=V. This means we can also say $\boldsymbol{\frac{V}{R_{i}} =I_{r}}$  and $\boldsymbol{\frac{V}{I_{r}} =R_{i}}$, all in accordance to Ohms Law. We can also calculate a new value for P as V&times;I~r~=P, but this gives us the value 8, which is a different value from P=12, so we will call this P~1~. Let&rsquo;s test that these values by applying the other formulas and see if we get the correct results. We can apply the formula I~r~^2^&times;R~i~=P~1~ where we&rsquo;d expect P~1~ to equal 8, and it does. $\boldsymbol{\frac{P_{1}}{I_{r}} =V}$ also gives the correct answer of 6.  
 
-We have exposed at four new values within the tholon map; R~i~, I~r~,  V~3~, and P~1~ (being 4.5, 1.333, 216, and 8 when I=2, R=3, V=6, and P=12). Now all we have to do is find out what they mean and where they are applied in the real world.
+We have exposed at least four new values within the tholon map; R~i~, I~r~,  V~3~, and P~1~ (being 4.5, 1.333, 216, and 8 when I=2, R=3, V=6, and P=12). Now all we have to do is find out what they mean and where they are applied in the real world.
 
 Regarding V~3~, 216, however, well, this is a fascinating number that has a history that goes back to at least Plato, because we know (generally accepted by experts) that 216 is called *Plato&rsquo;s Number* and was described to Plato by Socrates who said (when explaining how to properly breed humans):
 
@@ -2051,15 +2053,17 @@ The point of all this is to show one way that the tholon can be used and viewed.
 
 <img src="../Images/093-DNA.png" style="width:70%;" />
 
-We showed examples of quarks and molecules, but in higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships. One example might be recent creation of tetrahedrally structured DNA, or TDN.  TDN is the cutting edge of DNA nanotechnology, and has various applications such as drug delivery, inhibiting certain gene expressions, and of course, interfacing with bio-sensors.  These TDNs assemble themselves from scratch and offers greater strength and stability. There is little to no non-genetic engineer information of TDNs so there is not much more that can be said here, other then they are pretty awesome and will most likely be the origin of a new form of life that, with the help of the TDN-interfacing AI quantum computers, will user in the epoch of transhumanism… or something like that.
+We showed examples of quarks and molecules, but in higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships. 
 
-<img src="../Images/tdn.png" style="width:100%;" />example migth be 
+Although DNA's relationship with tetrahedrons is particularly unique given the creation of tetrahedrally structured DNA, or TDN.  TDN is the cutting edge of DNA nanotechnology, and has various applications such as drug delivery, inhibiting certain gene expressions, and of course, interfacing with bio-sensors.  These TDNs assemble themselves from scratch and offer greater strength and stability. There is little-to-no non-genetic-engineer information on TDNs so there is not much more that can be said here, other then they look pretty awesome and will most likely be the origin of a new form of life powered by TDN-interfacing A.I. DNA-integrated quantum computers.
 
-Another fascinating example of tetrahedrally structured information is the recent creation of tetrahedral DNA, or TDN.  TDN is the cutting edge of DNA nanotechnology, and has various applications such as drug delivery, inhibiting certain gene expressions, and of course, interfacing with bio-sensors.  These TDNs assemble themselves from scratch and offers greater strength and stability. There is little to no non-genetic engineer information of TDNs so there is not much more that can be said here, other then they are pretty awesome and will most likely be the origin of a new form of life that, with the help of the TDN-interfacing AI quantum computers, will user in the epoch of transhumanism… or something like that.
+
 
 <img src="../Images/tdn.png" style="width:100%;" />
 
-Now, our simple *trigrams* of relationships, such as Ohm&rsquo;s Law, becomes a *tetrahedron* or *tholon* of relationships. Whereas before it was stated that every piece of knowledge can be deconstructed into a trigram, the more accurate statement is that every piece of knowledge form a tetrahedron (but we had to get through all this first before that could be stated).
+
+
+Our simple *trigrams* of relationships, such as Ohm&rsquo;s Law, becomes a *tetrahedron* or *tholon* of relationships. Whereas before it was stated that every piece of knowledge can be deconstructed into a trigram, the more accurate statement is that every piece of knowledge forms a tetrahedron (but we had to get through all this first before that could be stated).
 
 ## Batteries
 
@@ -2096,6 +2100,43 @@ According to the tholonic model, the only place where a new stable pattern capab
 As the author relates in his article, which so aptly fits into the tholonic mode as well, &ldquo;You can have it good, fast or cheap; pick two out of three.&rdquo;
 
 I could continue, but you get the point, which is (in case you didn&rsquo;t get the point), the model of the tholon can be used to describe any functional system or functional concept, from global supply chains to human language to batteries.  
+
+## Calculus
+
+Calculus is another tetrahedral model that fits into the tholon nicely and could only be brought up at this point in the story.  Calculus is the study of continuous change (and therefore the study of reality) and has three main concepts that are quite compatible with the three main concepts of the Tholon.
+
+**Limits**
+
+- **The values a function approaches.**
+- For example, the *N-state* is effectively 0 as it exists in a 1-dimensional space that has no form and is only a concept. 
+
+**Differentiation**
+
+- **Defines the measure of things, resulting in derivatives.**
+- The existence of this conceptual 0-point implies the next point, *Definition*, which is the domain of 2 points and 1 dimension.  This makes *Definition* the domain of measurement, as measurement is fundamentally a 1-dimensional concept. There can me many 1-D measurements to describe a multi-dimensionality but in any scenario, a measurement can be described as one or more 1-D measurements. The existence of 1 now allows for the concept of 1/0, which is infinity and the other side of the **Limits** spectrum. However, these 1-D measurements can't describe anything but a line. To describe more than a line those 1D measurements need to relate to other 1D measurements. 
+
+**Integration** 
+
+- **Uses the derivatives to calculate the area.** 
+- The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality, which is described by two 1D measurements.  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points) that is separated by time.  The less time between these 2D points, the more accurate the results.  So, as the time approaches 0, the result approaches an increasingly finite number, or infinity. This is most obvious when calculating &pi; using calculus; the accuracy of &pi; increases as we use smaller and smaller divisions of the radius. The even simple example of how 0 is the approachable limit of all numbers is simply $\boldsymbol{x=\frac{1}{n}}$ where *x* approaches 0 as *n* increases.  
+
+The functional part of calculus exists between the **Differentiation** and **Integration** as that is the spectrum within which the fundamental theorem of calculus exists.  This is also the spectrum where N-states can exist when it is defined by *Definition* and  *Contribution.*
+
+<img src="../Images/calculus-tri.png" style="width:30%;margin:auto;" />
+
+Perhaps there is a way to apply calculus to non-mathematical systems, like psychology, society,law, etc.?  This is far beyond my abilities, but I imagine it would look something like:
+
+### $\boldsymbol{\lim\limits _{n\rightarrow \infty ^{n}} \ \frac{1}{n} =0}$  
+
+becomes 
+
+### $\boldsymbol{\lim\limits _{DEF\rightarrow CON^{NEG}} \ \frac{neg}{CON} =NEG}$  
+
+becomes 
+
+### $\boldsymbol{\lim\limits _{Laws\rightarrow Society^{Ethics}} \ \frac{Regeneration}{Society} =Ethics}$
+
+This is not being presented as a working formula. I have no idea if this is valid or ridiculous (but $\boldsymbol{\frac{Regeneration}{Society} =Ethics}$ does 'hold up' according to the values associated), but it is an example of how applying patterns to different contexts might work.
 
 ### Adding Structure
 
