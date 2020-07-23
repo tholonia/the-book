@@ -315,12 +315,8 @@ t.setposition(1000, 1000)
 t.color("white")
 
 ts = t.getscreen()
-
 ang = "{:02d}".format(int(angle))
-
 ts.getcanvas().postscript(file=f"eps/hex-{ang}.eps")
-
-
 cmd = f"epstopdf eps/hex-{ang}.eps"
 print(cmd)
 os.system(cmd)

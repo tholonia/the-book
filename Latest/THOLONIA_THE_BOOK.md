@@ -290,7 +290,7 @@ They are partially correct in the same way elephants have nothing to do with tur
 
 To not consider that patterns have inherent qualities that exist beyond our perceptions or knowledge, or that any pattern should not be at least be investigated before claiming it has no validity in any particular context, is a form of scientific dogma or modern superstition, as such thinking is based on a logic dictated by the dominant narrative of the time.
 
-We refer to these similarities of patterns across heterogeneous contexts by the *pattern position* of various elements.  For example, *voltage* and *pressure* have the same *pattern position* in Ohm's law. Below, we also show how *society*, *behavior* and *electrical current* also share the *same pattern* position.
+We refer to these similarities of patterns across heterogeneous contexts by the *pattern-position* ( or *PP* for brevity) of various elements.  For example, *voltage* and *pressure* have the same *pattern-position* in Ohm's law. Below, we also show how *society*, *behavior* and *electrical current* also share the *same pattern* position.
 
 ## Oscillation
 
@@ -335,6 +335,10 @@ The following concepts are the same in both examples:
 
 Ohm&rsquo;s law is actually Newton&rsquo;s 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity[^9], defining the *object* as *electricity*, the *force* as *current*, the *mass* as *resistance*, and the *acceleration* as *voltage*.
 
+##### A word on patterns and Ohm's Law…
+
+Ohm's Law is not really a *universal law* like it's famous parent, Newton's 2^nd^ Law of Thermodynamics, which is universal. It's more of a *local law* as it only applies to linear systems and conductive materials. The reason it was chosen as an example is because is so neatly shows some fundamental proprieties of relationships.  Ohm's Law follows the simple pattern of $ab=c, bc=d$, which we experience as *2&times;3=6, 3&times;6=18*, or *resistance&times;amps=volts, amps&times;volts=power.* Any of the reasoning being applied here regarding Ohm's Law could just as easily be applied to other natural laws.  Ohm's law is just a simple law that everyone can understand and relate to. Other simple patterns could also be $\boldsymbol{\frac{1}{1} ,\frac{1}{2} ,\frac{1}{3} ,\frac{1}{4} ,\frac{1}{5} ,\frac{1}{6} ,\frac{1}{7} ,\frac{1}{8} ...}$, which is the *Harmonic Series* and describes music, or *1+1=**2**, 1+3=**3**, 2+3=**5**, 3+5=**8**, 5+8=**13**, 8+13=**21**..*, which is the famous *Fibonacci Sequence* (and is almost identical to Ohm's Law except is uses addition instead of multiplication), or how the primes numbers can create $\pi$, $\boldsymbol{\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}}$
+
 ##### A word on electricity…
 
 We are using Ohm&rsquo;s law, the laws of electricity, as an example for another reason as well. We are all familiar with lightening. Watching the bolts of light shoot instantly across the sky and into (or from) the earth is awe-inspiring and exciting. We also know that lightning is dangerous. Contrary to the statement &ldquo;Lightning never strikes the same place twice&rdquo;, lighting often strikes the same place many times, and for good reason. Ben Franklin suspected why, which gave birth to the lightning rod, saving millions of building from burning to the ground. 
@@ -355,14 +359,54 @@ Ohm&rsquo;s law is just one of a number of contexts where Newton&rsquo;s 2<sup>n
 
 <img src="../Images/012-relatedlaws.png" style="width:100%;" />
 
+## Light
+
+<img src="../Images/013-emc2-light.png" style="width:50%;" />
+
+Let's look at an example of light.  If we use the "Light" formulas, we can say the velocity (i.e. frequency) of light is equal to the speed of light divided by the wavelength, or $\displaystyle v =\frac{c}{w}$. We know that the speed of light is 3$\times$10^8^ meters/sec, and we know that green light has a wavelength of 555 manometers, or 5.55x10^-7^ meters, so we can just do the simple math of $\displaystyle (3.0\times 10^{8}) /(5.55\times 10^{-7}) = (5.4054054\times 10^{14})$ to discover that green light has a frequency of 5.405 terahertz. All we have to do to convert Ohm's Law to some other domain is adjust out measurement for the context.  In this case, what was Ohms, which measures resistance, is now Hertz, which measure cycles-in-time.
+
+All the formulas work out when:
+
+- **Velocity** has the *PP* of **resistance**
+
+- **Speed-of-light** has the *PP* of **volts**
+
+- **Wavelength** has the *PP* of **current**. 
+- **Power** (of light), by process of elimination, must have the *PP* of **power** (of electricity). 
+
+What does **power** in the context of light even mean? That is hard to say because it is not clear how the concept of power applies to light. In electrical terms, *power* of defined as the rate of transfer of energy, and the less resistance and greater the current, the greater the power.  With light, that would be equivalent to saying the less velocity and the greater the wavelength, the greater the *power*. 
+
+For example, high energy gamma rays with a frequency of 3.33 nanometers (3.33 $\times$ 10^-9^) has a *power* rating of 1, while an ultra-low frequency wave with a wavelength of 1000 kilometers has a *power* rating of 300,000,000,000,000 (3$\times$10^14^)!  For perspective, the Earth's natural resonant frequency, the *Schumann resonance*, is 7.83 Hz, which is a wavelength of 33,830,000 meters (3.83$\times$10^7^), and a *power* value of 1.15$\times$10^16^, and green light as a *power* rating of 166.5. 
+
+This initially seems odd because we know that the less the velocity and greater the wavelength, the less energy light has, but our power calculations say the exact opposite, as if the less energy the light has the more *power* it has. 
+
+The energy that light has is referring to the energy contained in the photon itself, not the *transference* of that energy. When we examine electromagnetic energy we can easily see that the lower frequencies are much better and transferring energy, even though they have less energy to transfer.  
+
+For example, the entire universe is filled with a very low frequency energy of microwaves which maintains an average temperature of 2.725 Kelvin above absolute zero  (-273.15 ºC or -459 ºF).  This is a pretty good example of energy transfer. Higher frequency energy tands to be less uniquitous and more focused.
+
+
+
+<img src="../Images/rays-universe.png" style="width:100%;" />
+
+
+
+
+
+Higher energy waves, such as infrared, visible light, and ultraviolet are fundamental to life exactly because of the manner in which they can transfer energy that is most efficient for the more complex instances of creation.  Beyond that, the higher energy X-rays and gamma rays do not transfer energy efficiently if we define *efficient* as that which can interact with other matter.  Perhaps *efficient* can be defined as that which is most effective for *life*, if we redficen the meaning of *life* to mean something like "an instance of awareness," or something like that.  I know hard-core scientists will balk at the idea that life should be the standard by which we measure anything, but this would be the case if the Universe was itself intelligent, which we address later.  Beyond the philosophical issues, high energy waves, like gamma rays, can pass through all sorts of material without interacting with that material at all, and given its high energy, if it does happen to interact with anything alive, it will cause serious damage.   In general, higher frequency (shorter wavelength/higher energy = lower *power* rating) waves travel through objects more easily than lower frequency (longer wavelength/lower energy = higher *power* rating) waves, which interact with matter more easily that higher-frequency waves.
+
+All of this is pure speculation and spit-balling, as there is nothing to suggest what that *power* value actually represents, but it does exist, which is the relevant detail here.
+
 ## E=mc^2^
 
-There&rsquo;s one more comparison to look at as well *(note: let me say that when the following was presented a hard-nosed physicist, he adamantly refuted it as pure malarkey. However, this does not take away from the greater idea, and observation, that patterns of order can be found in their various expressions across different contexts).*   Did you notice how in formula wheel above how the *Power = Resistance x Current<sup>2</sup>* (*P=RI<sup>2</sup>)* looks exactly like another popular formula: *E=mc<sup>2</sup>*? Could we find parallels between these two formulas? Maybe there is a relationship such that…
+There&rsquo;s one more comparison to look at as well *(note: let me say that when the following was presented a hard-nosed physicist, he adamantly refuted it as pure malarkey. However, this does not take away from the greater idea, and observation, that patterns of order can be found in their various expressions across different contexts).*   Did you notice how in formula wheel above how the *Power = Resistance x Current<sup>2</sup>* (*P=RI<sup>2</sup>)* looks exactly like another popular formula: *E=mc<sup>2</sup>*? *Is this a pattern position* or just a coincidence?  Maybe there is a relationship such that…
 
 -   **Power** (*P*) is analogous to **energy** (*E*)
 -   **Resistance** (*R*) analogous to **mass** (*m*)
 -   **Current** (*I*) analogous to the **speed of light** squared (*c*^2^)
--   **Volts** (V) analogous to **zvolts** (z) 
+
+From this, we have to calculate the missing value that is shared with **volts**, which we will call **zvolts**.  More on this in a moment…
+
+
 
 <img src="../Images/013-emc2.png" style="width:100%;" />
 
@@ -399,6 +443,16 @@ Of course, I am swimming in waters far deeper than my ability, but it&rsquo;s al
 Getting back to these twelve formulas&hellip; we think about voltage, resistance, and current (or energy and mass) as separate things, similar to how we think about time and space as two different things. However, space and time are two properties of one larger thing called *space-time*. Likewise, voltage, current, and resistance are three properties of one instance of energy as electricity. Frequency, wavelength, and velocity are three properties of another instance, such as radiation. All areas where this law applies are themselves different properties of some expression of energy.
 
 Here we are using Ohm&rsquo;s Law to show how one law can be expressed across many scopes, but this same reasoning applies to all natural laws in physics, or elsewhere.
+
+
+
+## Light
+
+Unfortunatly, every just mention in the above section is wrong, but easily fixed.
+
+If we look at the same formunma for light, which is the same as that of "Frequency", but where the velocity is the speed of light, we see that $c$ = wavelenth * frequency.  The problem is that now $c$ equated to volts, not amps, but we just said $c$ equated to amps, and we created zvolts
+
+
 
 ## Alchemy
 
@@ -2113,30 +2167,50 @@ Calculus is another tetrahedral model that fits into the tholon nicely and could
 **Differentiation**
 
 - **Defines the measure of things, resulting in derivatives.**
+
 - The existence of this conceptual 0-point implies the next point, *Definition*, which is the domain of 2 points and 1 dimension.  This makes *Definition* the domain of measurement, as measurement is fundamentally a 1-dimensional concept. There can me many 1-D measurements to describe a multi-dimensionality but in any scenario, a measurement can be described as one or more 1-D measurements. The existence of 1 now allows for the concept of 1/0, which is infinity and the other side of the **Limits** spectrum. However, these 1-D measurements can't describe anything but a line. To describe more than a line those 1D measurements need to relate to other 1D measurements. 
+
+- Derivatives are what calculus calls the the results of comparing two points, and it is defined by the notation…
+
+  ### $\boldsymbol{\lim\limits _{\Delta x\rightarrow 0} \ \frac{f( x+\Delta x) -f( x)}{\Delta x} =\lim _{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x} =\frac{dx}{dy} \ =\ n}$
+
+  …which simply means our results (the derivative of $n$) will approach its limits (exactness) as the difference in our measurements ($\Delta x$) approaches its limit (0).
 
 **Integration** 
 
 - **Uses the derivatives to calculate the area.** 
-- The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality, which is described by two 1D measurements.  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points) that is separated by time.  The less time between these 2D points, the more accurate the results.  So, as the time approaches 0, the result approaches an increasingly finite number, or infinity. This is most obvious when calculating &pi; using calculus; the accuracy of &pi; increases as we use smaller and smaller divisions of the radius. The even simple example of how 0 is the approachable limit of all numbers is simply $\boldsymbol{x=\frac{1}{n}}$ where *x* approaches 0 as *n* increases.  
+
+- The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality, which is described by two 1D measurements.  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points, the *Derivatives*).  The less separation ($\Delta x$, where $x$ can be time, space, some numerical variable, etc.)  between these points, the more accurate the results.  The smaller $\Delta x$, the more points ($n)$ we have. This sume of these points is expressed as the inverse notation of above
+
+  ### $\boldsymbol{\lim\limits _{n\rightarrow \infty } \ \sum\limits ^{n}_{i=1} f( x_{i}) \Delta x_{i}}$
+
+  … which simply means the sum of all the derivatives ($n$) staring from the first ($n_{1}$) up to the last ($n_{\infty }$), which will always be the inverse of the limit of the derivative, $\boldsymbol{\frac{1}{0} =\infty }$
+
+  But because we are dealing with infinitesimally small pieces, we use the integral function:
+
+  ### $\boldsymbol{\int ^{z}_{a} f( x) dx}$
+
+  … which says that we have an infinitesimally small difference between points ($dx$) that exist between points $a$ and $z$.   
 
 The functional part of calculus exists between the **Differentiation** and **Integration** as that is the spectrum within which the fundamental theorem of calculus exists.  This is also the spectrum where N-states can exist when it is defined by *Definition* and  *Contribution.*
 
 <img src="../Images/calculus-tri.png" style="width:30%;margin:auto;" />
 
-Perhaps there is a way to apply calculus to non-mathematical systems, like psychology, society,law, etc.?  This is far beyond my abilities, but I imagine it would look something like:
+Perhaps there is a way to apply calculus to non-mathematical systems, like psychology, society,law, etc.?  This is far beyond my abilities, but I imagine it would look something like the following:
 
-### $\boldsymbol{\lim\limits _{n\rightarrow \infty ^{n}} \ \frac{1}{n} =0}$  
+Let's take a basic concept like the Harmonic Series ($\boldsymbol{\frac{1}{1} +\frac{1}{2} +\frac{1}{3} +\frac{1}{4} +\frac{1}{5} +\frac{1}{6} +\frac{1}{7} +\frac{1}{8} ...}$), which is the foundation of music. This is described as…
 
-becomes 
+### $\boldsymbol{\lim\limits _{n\rightarrow \infty } \ \frac{1}{n} =0}$  
 
-### $\boldsymbol{\lim\limits _{DEF\rightarrow CON^{NEG}} \ \frac{neg}{CON} =NEG}$  
+…which states that when $n$ =  $\infty$, approaches infinity $\frac{1}{n} =0$. If we associate the concept of an individual number to that of *Definition*, the concept of $\infty $ to that of the opposite of an individual numbers (i.e. all numbers), the concept of 1, or unity, to the concept of a completion (i.e. the generation of a new N-state), and then apply the logic of Ohm's Law, we would get the following:
 
-becomes 
+### $\boldsymbol{\lim\limits _{DEF\rightarrow CON} \ \frac{neg}{CON} =NEG}$  
 
-### $\boldsymbol{\lim\limits _{Laws\rightarrow Society^{Ethics}} \ \frac{Regeneration}{Society} =Ethics}$
+If we did the same with the association made earlier regarding society, we would get (were *regeneration* is the creation of a new N-state):
 
-This is not being presented as a working formula. I have no idea if this is valid or ridiculous (but $\boldsymbol{\frac{Regeneration}{Society} =Ethics}$ does 'hold up' according to the values associated), but it is an example of how applying patterns to different contexts might work.
+### $\boldsymbol{\lim\limits _{Laws\rightarrow Society} \ \frac{Regeneration}{Society} =Ethics}$
+
+This is not being presented as a working formula. I have no idea if this is valid or ridiculous, but using calculus to analyze social issues is not only common, it is a study unto itself in the form of Game Theory or the Nash Equilibrium (John Forbes Nash Jr. was an American mathematician who created the Nash Equilibrium, for which he awarded both the Nobel Memorial Prize in Economic Sciences and the Abel Prize. He was the subject of the movie "A Beautiful Mind").
 
 ### Adding Structure
 
@@ -3028,6 +3102,197 @@ Tholonically, we can easily map things like Ragone and utility space (as in the 
 
 # C - An Unexpected Pattern
 
+Numbers were generated by calculating the longitude position of the Sun and the Moon (from Earth's coordinates of -34.61262S, -58.41048W, Buenos Aires, Argentina on the 24^th^ of each month at 5:31:07 PM UT) down to 10^-15^  radians. The individual digits of these two values were then concatenated; for example, the Sun's longitude in radians at one moment is 4.2430033683776855, and the Moon's position at that same moment is 2.399298667907715.  These were then cross-summed  until they are reduced to a single digit value.
+
+$ \begin{array}{l} 4+2+4+3+0+0+3+3+6+8+3+7+7+6+8+5+5\ \ +\ \ 2+3+9+9+2+9+8+6+6+7+9+0+7+7+1+5\ =\ 164\\ 1+6+4\ =\ 11\\ 1+1\ =\ 2 \end{array}$
+
+The data was tested for randomness, and while not perfectly random, the Chi squared results put it in "mostly random."
+
+<img src="/home/jw/books/tholonia/Images/rng.png" style="width:100%" />
+
+
+
+When these data points assigned colors $1=red  \rightarrow blue=9$ and plotted, resulting in the following plots.  The (below) left plot shows only 1 number being plotted at a time, and the right plot shows cumulative plots.  The distribution of the numbers within the data set of 33,000,000 is shown in the bar chart. This pattern matches that of a Fresnel diffraction.
+
+<img src="../Images/123456789comp.png" style="width:100%" />
+
+The source data is the combined longitudinal coordinate of two moving planet, and it is extremely linear, however, it can be seen that the distance between each data point is slightly different at the most microscopic level around 0.00000007 radians, which equates to about 23 kilometers of movement for the Sun and only 64 millimeters of movement of the Moon.
+
+Because all the digits in a cross-summed value have equal significance, the slightest measurable movement of the sun is equal to the two-thousands years it takes to pass through a constellation.  Below is a plot of 300,000 data points that covers 25 minutes of observation.
+
+<img src="../Images/CS-totals.png" style="width:100%" />
+
+This raises questions like:
+
+- Where do these patterns come from?
+
+- Do they tell us anything about the thing being measured?
+- Given that these patterns describe the propagation and near-field diffraction of light, can we apply any other attributes of light to whatever we are observing?
+
+## Addition details for the curious
+
+Below are some of the visual results of the plot, which are added here just because they are interesting.
+
+Plots of data captured every 0.005 and .01 seconds. This only used prime number cross-summed results (2,3,5,7), but the this was the same as using all numbers.  These twelve plots represent sampled data from each month of the year at the same time.
+
+<img src="/home/jw/books/tholonia/Images/sun-moon-patterns.png" style="width:100%" />It is interesting to see how the 0.005s and 0.01s give generally similar results.
+
+If we change the time between samples from microseconds to days, we see another pattern.  Below are ten sets representing ten months with the same starting point as the sets above, but each pixel represents an entire day (86480 seconds), i.e., the position of the Sun and the Moon was recorded only one a day.  This means that the entire set represents 1,095 years.  Each plot looked almost identical and appeared completely random, but upon closer examination, they were not random at all.  It is clearer to see the pattern if we only show the blue dots of a small section of the image.
+
+<img src="/home/jw/books/tholonia/Images/day-sun-moon.png" style="width:80%" />
+
+My first assumption was the farther "out" we zoom, in time, the clearer the patterns, but it seems to be the exact opposite;  the smaller the time delta, the larger the pattern.  This might make sense if we were looking at the linear difference between, say, 1.234567 and 1.2345678, as the difference would be 0.0000008, and such a small change would need a lot of samples to make itself apparent, but this does not apply here because we cross-summing the numbers together.  That means that 1.234567 reduces to 10, which reduces to 1, but so does 7.654321, which reduces to 9, the opposite extreme of 1.  
+
+Below is a comparison of the patterns at each scale.  The values beneath each image is the interval sampling time, and the values below that is the entire duration of the sample. No obvious pattern can be seen at 5s, but a slight pattern begins to emerge at 0.5s, becomes more clear at 0.05s, and is most dominant at 0.005s.  A pattern is equally visible in 0.0005s, but it appears only as a simple oscillation or wave. 0.00005 is identical to 0.0005 because once we start going below 0.002 we hit the limits of resolution.  This is the point where we begin getting duplicate data because the Sun or Moon has not moved enough in the small amount of time between samples, and the smaller we go the more duplicates we get.  For example, at 0.00001, to get the 155,520 data points to create the graph, we need to sample 50,000,000 times.  This simple wave pattern is the first wave pattern we can detect (given the limitation of my laptop and/or the ephemeris used to calculate planetary positions). This simple wave pattern is what then evolves into the more complex patterns. Presumably, the difference between samples points in the wave patterns is only the rightmost last digit being increased by 1.
+
+
+
+<img src="../Images/sun-moon-grades.png" style="width:1000%" />
+
+How do we have patterns when we sample of 0.01, but nothing (significant) when we sample as .05?  I think this has to do with where we are sampling from within the entire pattern.   The two images below shows that the Fresnel pattern is slightly altered with time, but eventually returns. At it's most ordered point it looks like Fresnel diffraction, but at it's least ordered pint it looks identical to pure random data (but we know it is just as ordered, only difficult to see that order).
+
+<img src="../Images/allnumcomp.png" style="width:100%" />
+
+When the data is sampled we have no idea where within the cycle of repeating patterns we are, so it is only by chance that we will end up in an ordered section. 
+
+For those not familiar with Fresnel diffraction, it is the way that light interferes with itself as it travels around the edge of an object
+
+<img src="../Images/diffraction.png" style="width:80%" />
+
+## Digging Deeper
+
+Having no idea where to look for more information I posted this to various mathematics forums, and even though the question was read my many, no one had an answer.  I then sent this question to my old friend who is an accomplished physicist, but who also considers these speculative ideas to be a waste of time, so I knew any answer he gave would include an unabashed commentary on the silliness of it all.
+
+He did not disappoint on either front.  I'll forego the commentary and just focus on the relevant part of his reply, which was very short.  Essentially he told me that no matter how hard you try to create random numbers from non-random data, you will always end up with some sort of a pattern.  "Why?" was my naive response, to which he replied only "Look into Zipf's Law."  
+
+Zipf's Law is (from Wikipedia):
+
+>  an *empirical law*… that refers to the fact that many types of data …can be approximated with [certain types of] power law probability distributions. Zipf distribution is related to the *zeta distribution*, but is not identical.
+
+There are two very significant points in this definition. The first is that it is an *empirical law.*  Something is called an *empirical law* when it can be observed but science has no clue why.  The second important detail is that *Zipf distribution* is related to *Zeta distribution*.  We'll get to that in a moment.
+
+Zipf's Law was not discovered by physicists or even within the hard sciences.  It was a French stenographer, Jean-Baptiste Estoup (1868 - 1950) that first discovered the patterns of words which became Zipf's Law after it was popularized by the American linguist George Kingsley Zipf (1902 - 1050).
+
+It seems that languages, all languages, from every corner of the world, both modern and ancient, follow Zipf's law in the way words are distributed in both writing and speaking (and by inference, the manner in which we think).  We don't need to drill into the details, but what is significant is that this same distribution pattern is also seen in city populations, solar flare intensities, protein sequences and immune receptors, the amount of traffic websites get, earthquake magnitudes, the number of times academic papers are cited, last names, the firing patterns of neural networks, ingredients used in cookbooks, the number of phone calls people received, the diameter of Moon craters, the number of people that die in wars, the popularity of opening chess moves, even the rate at which we forget… and countless more.[^182] 
+
+<img src="/home/jw/books/tholonia/Images/many-zipfs.png" style="width:100%" /> 
+
+In short, Zipf's law is an example of power laws, and power laws touch everything in existence in one way or another.  But what does this have to to with anything?  This is where the second point applies.  The charts above are called *Zipf Distributions*, and they all have different scales of values based on the kind of data being sampled.  If we reduce all the scales to 1, we have what is called a normalised *Zipf distribution*, also known as a *Zeta distribution*. Mathematicians use the *Riemann zeta function (RZF)* to study and test these distributions.  This function is written as  **ζ(*s*)**, where ***s*** is any complex number other than 1.   
+
+<img src="/home/jw/books/tholonia/Images/rzf-form.png" style="width:80%" />
+
+
+
+Related sidenote, using just prime numbers you can also determine &pi;:    $$\displaystyle 1-\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}$$
+
+One of the useful feature of the RZF is that is can can turn a *divergent* series of numbers (number that when you add then together approach infinity) and turn it into a *convergent* series (when sum approached a specific value, like $-\frac{1}{12}$ or $\frac{\pi ^{2}}{6}$). It can do this does because the hypothesis uses the concept of *analytic continuation* and *complex numbers*. You can play with this function using an online Riemann Zeta Function Calculator. [^186]
+
+The RZF is based on the *Riemann hypothesis*, which also states that  ζ($s$)=0 only when $s$ is a negative even integer or a complex number with real part of $\frac{1}{2}$. This hypothesis is really quite profound in the way it relates to the distribution of prime numbers. That won't be explained here, but it is understandable when properly explained.  There are a couple of excellent videos on the subject at https://www.youtube.com/watch?v=sD0NjbwqlYw and https://www.youtube.com/watch?v=d6c6uIyieoo.  
+
+This 160 years old hypothesis has yet to be proven, however, and because it is considered by many mathematicians to the  most important unsolved problem in pure mathematics, the Clay Mathematics Institute has a reward of US$1 million to anyone who could solve it. *(Update. September 24, 2018.  Michael Atiyah , the 89 year old mathematician emeritus at The University of Edinburgh, claims he has proved this, but many experts doubt its validity)*
+
+Understanding how the RZF works would (probably) help explain the how and why patterns of prime numbers appear organically in any data-set of naturally occurring samples, such as the charts above.
+
+What value would we get if we applied the RZF to the series of square roots of natural numbers?  Some really smart person did exactly this [^187], and the answer is…  voilà!
+
+<img src="/home/jw/books/tholonia/Images/sqrt2pi.png" style="width:50%" />
+
+The inverse $\boldsymbol{\sqrt{2\pi }}$ is $\boldsymbol{\sqrt{\frac{\pi }{2}}}$.  This is interesting because now we have formulas that fit into the *pattern-position* of Ohms' Law.  *Pattern-positions* (*PP*) refers to functions or formulas that are the same across different contexts, similar to how the energy of nature interacts with itself across various contexts as, was previously shown.
+
+<img src="/home/jw/books/tholonia/Images/lightning-3.png" style="width:50%" />
+
+In this case, as we are only looking at Ohm's Law, we are only looking at its twelve formulas. $\boldsymbol{\sqrt{\frac{\pi }{2}}}$ has the same *pattern* as $\boldsymbol{\sqrt{\frac{18 }{2}}}$  and $\boldsymbol{\sqrt{\frac{P }{R}}}$ at *position* 11:00 (as in the 12-hour clock) on the twelve-part wheel we are using, and we can test that by plugging in the appropriate values.  The table below shows these pi-based values that seem to describe the data-set applied Ohm's Law.  For the sake of clarity, I assigned some of the formulas to variables, otherwise it's too bothersome to read (or compose).  In the table below I show Ohm's Law, some example data demonstrating the math of Ohm's Law, and then the application to$\boldsymbol{\sqrt{\frac{\pi }{2}}}$  and $\boldsymbol{\sqrt{2\pi }}$.  Those two values alone were enough to fill in all the missing values.  In the third column of the table I show the actual numbers, and to the right, the formulas.
+
+
+
+<img src="/home/jw/books/tholonia/Images/ohmslaw-pi.png" style="width:100%" />
+
+All of this may have nothing to do with unraveling the mystery of the Fresnel pattern hidden in the data, but it is interesting nonetheless, specifically:
+
+- $\alpha$ is in the same *PP* as *resistance*, *mass*, *DEFINITION* and the first, and only even, prime number of 2. It is the only number unrelated to $\pi$. In the RZF, the inverse of this prime number,  $\boldsymbol{\frac{1}{2}}$, is the only value that returns 0, as in $\boldsymbol{ζ(2 ^{-1}) = 0}$, or $\boldsymbol{ζ(\frac{1}{2}) = 0}$, This marks the center of the symmetry for all numbers produced by the RZF, natural and complex. In other words, the $\boldsymbol{\frac{1}{2}}$ point, not the 0 point, is the pivotal point that mirrors all the values on one side the $\frac{1}{2}$ and which are reflected on the equal but opposite side of $\boldsymbol{\frac{1}{2}}$. This is relevant because the RZF seems to be very related to the creation of the Fresnel pattern.
+- $\beta$ is the opposite *PP* of $\alpha$ and the inverse of $\gamma$ and occupies the *PP* of *CONTRIBUTION*,  *current*, *the speed of light*, and the next prime number, 3.
+
+- $\gamma$  is defined as $\sqrt{2\pi }$ , which is also the result of RZF of the square-roots of all natural numbers greater than 1, which is the sequence of values that defines a Fresnel lens and our distance-delta. That sequence of natural numbers is created by ζ(-1). The $\gamma $ *PP* is that of *volts* (the amount of potential that exists between two opposing limits) and of *NEGOTIATION* and share the *PP* with 6, the product of 2 and 3.
+- $\pi$ is in the same *PP* as *Power* (electrical),  *Energy*, and the *white-dot* of the tholon where all three points combine to create a 3D tholon.  However, it could also represent the new N-state that is created on the spectrum between $\alpha$ and $\beta$ (or *DEFINE* and *CONTRIBUTE*), as the tetrahedron can not become 3D until the child N-state is created. 
+- The spectrum of $\alpha$ and $\beta$ where all new N-states appear is also the spectrum between the only two prime numbers, 2 and 3.
+- $\alpha$ and $\beta$ are in the same *PP* as the prime numbers, and the remaining two variables are products of these two numbers.  In this specific case, for the pi-based formulas to work, the value of 2 must be in the *PP* of 2.
+
+- From a Tholonic perspective, 2&pi; represents a complete tholon (a *real* and *virtual* tholon together).  If we replace &pi; with 2&pi;, and $\alpha$ with $\boldsymbol{\frac{\pi ^{2}}{6}}$ (which is what &zeta;(2) converges to), then $\beta$ = $\sqrt{3.81971863420549}$ which is the *neutron g-factor*, "a dimensionless quantity that characterizes the magnetic moment and angular momentum of an atom, a particle or nucleus" as well as the revolutions per day in one radian/hour (1 radian/hour = 3.819718634205 revolution/day).  You may have never heard of these units of measurement, but they are used in both subatomic and planetary sciences.  One full turn is 2π radians. A Hour Angle is 1/24^th^ of a full turn, or &pi;/12 radians.   Like the neutron g-factor, it is a unit that measures angular velocity and rotational frequency.
+
+- We also see that $\gamma$ equals $\sqrt{10.3354255600999}$, which is the volume of a pyramid with a base length and height of $\pi$ (because &pi;^3^/3 = 10.3354255600999).
+
+## The Cornu Spiral
+
+While the manner in which prime numbers create a diffraction pattern may be a mystery (to me), how diffraction patterns are created are not. Properly described, it would require a lot of math which we won't get in to there, but a quick search on "What is the Cornu's spiral method for diffraction pattern?" will reveal all to the more curious.  In short, because we know that the intensity of light at any point is always proportional to two values known as the *Fresnel integrals*  $\begin{cases} x( t) =\int ^{t}_{0}\cos\left( u^{2}\right) du & \\ y( t) =\int ^{t}_{0}\sin\left( u^{2}\right) du &  \end{cases}$, we can plot the intensity of each point along the diffraction pattern on a 2-Dimensional plot. When we do this this, we end up with an amazing figure called the *Cornu Spiral*, shown below as "2D Cornu Spiral (Fresnel).
+
+<img src="/home/jw/books/tholonia/Images/cornu.png" style="width:100%" />
+
+
+
+
+
+Can we say…
+
+>  The Cornu Spiral describes the diffraction pattern formed by the Zipf distribution of prime numbers (in accordance to the RZF).
+
+Another interesting thing about the Cornu Spiral is that it also describes the path of the sun over the course of the year (from Earth's perspective)[^185], which is pretty poetic. It appears as though the Cornu spiral describes not only how light and matter interact in the nanometer scale, but also on the planetary scale on at least one sense.
+
+Not surprisingly, the Riemann Zeta Function also creates not just one Cornu Spiral, but an entire series of spirals, as shown in "Cornu Spiral (RZF)", that emerge from nothing to the final spiral.   
+
+The *x* and the *y* values are the result of a function based on a single value, as in *x(t)*=blah, *y(t)*=blahblah (see *Fresnel Integrals* above), but there can be a third dimension based on *t*. When this new *z(t)* dimension is proportional to the x and y dimensions, a cone is created on the z-axis, which, I suspect, could also explain the diminishing angles of the node-frame cycles.  
+
+In one way, it is like the prime numbers are similar to photons in that it is the individual photons that create the diffraction pattern just like the individual primes also create the diffraction pattern.  Both of these 'particles' (photons and prime numbers) are presumably following some of the same rules in some fashion.  Given my lack of training in this area, I can only wonder if the wave/particle properties of photons also apply (contextually) to prime numbers. Perhaps related are the Feynman Sunshine Numbers, which relates prime number and photons, among other things. These are numbers include RZF values that appear in the description of sunshine as well as ancient relics of the Big Bang, and in the theory of photons, electrons and positrons.
+
+
+
+## Cross Sum Patterns
+
+Cross-summing two unrelated numbers will generate meaningless data, at least with respect to the quantitative significance of that data, but it will have plenty of information about how each number relates to the others, regardless of the source of the data, as long as that source is not perfectly random.
+
+We can see this by creating a list of number that increase by 8, as in $8, 16, 24, 32, 40, 48, 56, 64, 72$, etc.  When these are cross-summed that list becomes:
+
+$8 = 8$
+$16 = 1+6 = 7$
+$24 = 2+4 = 6$
+$32 = 3+2 = 5$
+$40 = 4+0 = 4$
+$48 = 4+8 = 12, 1+2 = 3$
+$56 = 5+6 = 11, 1+1 = 2$
+$64 = 6+4 = 1-, 1+0 = 1$
+$72 = 7+2 = 9$
+
+The resulting sequence is now  $8, 7, 6, 5, 4, 3, 2, 1, 9$
+
+Our original data was sequential because it was tracking the linear movement of planet, so that means that the progression of values will always represent progressive points on a linear path, with each value being slightly larger (in this case) that the previous value, but when we cross-sum these values, all spacial or temporal information is lost leaving only the pattern of the relationship of the numbers.  For example, 10 is larger than 9, but cross-sums to 1.  Here, 1 represents the *lower octave* of 10. Cross-summing essentially lowers all the numbers to the same octave. We see this in the number matrix below (left), as any consecutive sequence of digits will always repeat one of those nine patterns. While this removes a lot of quantitative data, it does not remove the relationship between the data. In fact, it makes that relationship clearer, much like listening to a ten octave piano piece in only one octave.
+
+This grid shows the repeating pattern of every sequence of numbers that increases by the number in the left column. The middle chart shows this changing progression is actually the 6 stages of transformation between the straight line at the bottom (1) and the perfectly ordered line at the top (8).  The line above that (9) are the totals of each line, which also happens to be exactly the same pattern as line 8.  The graphic on the right shows the same number but non-stacked, and here you can see the symmetry of the progressive changes.   This example applied to any sequence of *rational* numbers, i.e. number that are not *irrational* and never have a repeating sequence. 
+
+<img src="/home/jw/books/tholonia/Images/crossnumpatterns.png" style="width:100%" />
+
+In our example of the series of numbers based on 8, we have two types of numbers; the quantitative values and the values that represent their 'position' or relation to other numbers within the context of a base-10 number system.  The chart below (left) shows how these two values can appear opposite to each other. The images on the right show seemingly unrelated data when their quantitative values are spread out over many octaves, but the relation to one another is perfectly ordered.
+
+<img src="../Images/crossnumoctaves8.png" style="width:100%" />
+
+Attempts to replicate the patterns that appeared in the planetary data with various other inputs, such as incremental counting, seconds from some moment, a number and some function of that number, such as square root, but nothing was able to get even close.  This suggests that the Fresnel patterns is not solely an inherent pattern of cross-sums, but it a result of the source data.  If that is the case, they we can say that this Fresnel pattern is a property of the movement of the Sun and the Moon.
+
+The image below is more fun that informative because it fuels the imagination.  These are two charts that show 64 samples of the position of the Sun to 14 places.  the values of each place are then plotted as one set of data.  For example, if there are three samples of data of 1.23, 4.56, and 7.89, we plot the first line as 1,4,7, the 2nd line as 2,5,8 and the third line as 3,6,9.  Were this a live, real-time plot, we would see the outermost circle (top-most line), changing thousands of time s second, and the innermost (bottom) changing every couple of months.  If we just plotted time, the outer would change a billion times a seconds, and the inner would change once every eleven days.
+
+The bottom image is simply a graph where each value is a dot over the course of 3,000 samples.
+
+
+
+<img src="../Images/stacker64.png" style="width:100%" />
+
+
+
+The following images were created by plotting each digit of the position of the Sun. Each number is assigned a value. 
+
+- In *Img. 1*, we begin with the first number at the bottom. Each subsequent digit is plotted $3 \times number$ degrees to the left or right, with even numbers to the right, odd numbers to the left.  For example, the number 9 would be plotted 27 degrees to the left, and the number 8 would be plotted 24 degrees to the right.  The image below, *Img. 1a*, is the same  algorithm but based on random numbers. The purpose of this graph is to visually show the expanding scope that starts from one point. The reason for odd=left and even=right was to see what pattern we would get if we used the traditional yin/yang and ancient Greek concept that even numbers are yin in nature and odd numbers yang in nature[^192].  If this was any validity to this then we would expect to see a pattern common in nature, which is exactly what we get.   *Img. 1b* is the same as *Img. 1a*, but where the directions of the plot is not random.
+- *Img. 2* is similar, except each number is plotted adjacent to the previous number (and the colors were changed and the length of the plot was slight shortened).  
+- *Img. 3* is something quite different. Rather than using the position of the Sun, we used the recurring cross-summed patterns of the sequence of numbers when we increase counting by 1 through 9 (as shown in the table above).  The image below, *Img. 3a*, is that same sequence but with a much larger value so as to see its larger pattern. Interestingly, we end up with three distinct group ; 2,5,8 (cs=6), 1,4,7 (cs=3), and 3,6 (cs=9).  The number 9 is all alone by itself and is at the center.
+
+<img src="../Images/cstrees.png" style="width:100%" />
+
 
 
 
@@ -3367,3 +3632,4 @@ Tholonically, we can easily map things like Ragone and utility space (as in the 
 [^185]: Styer, D. (2019). Entropy as Disorder: History of a Misconception. *The Physics Teacher,* *57*(7), 454-458. doi:10.1119/1.5126822
 [^190]: Ball, P. (2016). *Patterns in nature: Why the natural world looks the way it does*. Chicago: The University of Chicago Press. ISBN-10: 022633242X ISBN-13: 978-0226332420
 [^191]: Bodei, R., & Doebler, G. W. (2018). *Geometry of the passions: Fear, hope, happiness: Philosophy and political use*. Toronto: University of Toronto Press.
+[^192]: Nishiyama, Yutaka. "**A Study of Odd- and Even-Number Cultures.**" *Bulletin of Science, Technology & Society* 26, no. 6 (2006): 479-84. doi:10.1177/0270467606295408.

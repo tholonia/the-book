@@ -349,6 +349,8 @@ However, if you still have doubts, what follows is a demonstration of  how the v
 
 *Fig. h1* shows the hexagram values as multiples of 7. *Fig h2* shows the same values, but shows how the same border values of 2, 3 and 5 apply to all the trigrams. Let's apply the tholonic model to these numbers.   We arrived at these numbers by taking the sums of the binary values for each side, as shown above, which gave us 14, 21 and 35, and taking their multiplier of the number 7 (7&times;**2**=14, 7&times;**3**=21, 7&times;**5**=35) and applying that to the respective side.
 
+Notice how the edges that are univeral to all trigrams are the first three prime numbers, 2, 3, 5, and the multiplier is the 4^th^ prime, and top trigram, 7.
+
 The tholonic model states that the *green dot* (*Definition*) is what creates limits and restricts the N-state, so D reduces N. The *red dot (Contribution)*, seeing as it contributes, will be added to N.
 
 We start by assigning N=1. We then calculate D as 1/P (where P=5, as shown in *Fig. h2*), and C as 1/S (where S=3, as shown in *Fig. h2*). To create a new instance of N we start with N, subtract D, and add C, which gives us 0.78539822525372. This is the value of the child instance of N, which we&rsquo;ll call N~1~. We repeat this process again, but we increment the S and P by H^2^ . After doing this a million or so times, we get the number 0.7853982294712. Multiply this number by H^2^ (4) and you get *pi*.

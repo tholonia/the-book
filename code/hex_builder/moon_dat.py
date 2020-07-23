@@ -19,6 +19,7 @@ argv = sys.argv[1:]
 # pprint(argv)
 
 tdelta = ".005"
+w=4096
 ts = "2020-06-24 17:31:07.0"
 try:
     opts, args = getopt.getopt(argv, "hd:t:", ["help=", "delta=", "timestamp="])
@@ -47,15 +48,7 @@ def is_prime(n):
     return True
 
 
-def ssum(l):
-    s = 0
-    for i in l:
-        try:
-            jn = int(i)
-        except:
-            continue
-        s = s + jn
-    return s
+
 
 
 def totimestamp(dt):
@@ -77,7 +70,15 @@ def cleanstr(s):
 def argfix(s):
     return s.replace("_", " ")
 
-
+def ssum(l):
+    s = 0
+    for i in l:
+        try:
+            jn = int(i)
+        except:
+            continue
+        s = s + jn
+    return s
 def reduce(ni):
     n = f'{ni}'
     n = n.replace('.', '')
@@ -132,6 +133,9 @@ prevut = ""
 filename = f'dat/data-{tdelta}sec_{cleanstr(argfix(ts))}.dat'
 savedata = open(filename, 'w')
 
+filenameNP = f'dat/data-{tdelta}sec_{cleanstr(argfix(ts))}_NP.dat'
+savedataNP = open(filenameNP, 'w')
+
 obstime = Time(argfix(ts))
 
 ct = 0
@@ -184,12 +188,13 @@ while True:
     else:
         show('YE', tms)
         nonprimes += 1
+        print(f"{maz}  {mas}  {saz}  {sas}  {tms}  {obstime} ^{flag}", file=savedataNP, flush=True)
     try:
-        # rs = "P: %8d NP: %8d %8.5f %40s C: %8d D: %8d V: %6d/%d" % (primes, nonprimes, primes / nonprimes, filename, ct, dups, valid, int(valid / 216))
-        # print(rs, flush=True, end="\r")
+        rs = "P: %8d NP: %8d %8.5f %40s C: %8d D: %8d V: %6d/%d" % (primes, nonprimes, primes / nonprimes, filename, ct, dups, valid, int(valid / w))
+        print(rs, flush=True, end="\r")
 
         rs = "%8.5f " % (primes / nonprimes)
-        print(rs, flush=True)
+        # print(rs, flush=True)
     except:
         print("not data...")
 
@@ -197,7 +202,7 @@ while True:
     ct = ct + 1
     # print(f"{filename}  {ct}             ",end="\r",flush=True)
 
-    if valid >= 216 * 720:
+    if valid >= 4096*4096: #216 * 720:
         print(
             f"PRIMES: {primes} {(primes / ct) * 100}%     NON-PRIMES: {nonprimes}  {(nonprimes / ct) * 100}%              ",
             end="\r")

@@ -25,10 +25,11 @@ redrawonly = False
 tdelta=1.618
 height=720
 width=216
+numtype="P"
 ts = "2020-06-24 17:31:07.0"
-hlp = "-h -d <time delta> -t <timestamp> -r -x <width> -y <height>"
+hlp = "-h -d <time delta> -t <timestamp> -r -x <width> -y <height> -u <numtype> (P, N, A)"
 try:
-    opts, args = getopt.getopt(argv, "hrd:t:x:y:", ["help=","redrawonly==","delta=","timestamp=","width==","height=="])
+    opts, args = getopt.getopt(argv, "hrd:t:x:y:u:", ["help=","redrawonly==","delta=","timestamp=","width==","height==","numtype=="])
 except getopt.GetoptError:
     print("Oops...")
     print(hlp)
@@ -45,9 +46,11 @@ for opt, arg in opts:
     if opt in ("-r", "--redrawonly"):
         redrawonly = True
     if opt in ("-x", "--width"):
-        width = int(arg)
-    if opt in ("-y", "--height"):
         height = int(arg)
+    if opt in ("-y", "--height"):
+        width = int(arg)
+    if opt in ("-u", "--numtype"):
+        numtype = arg
 
 
 def is_prime(n):
@@ -56,6 +59,18 @@ def is_prime(n):
     for number in islice(count(2), int(sqrt(n) - 1)):
         if n % number == 0:
             return False
+    return True
+
+def is_not_prime(n):
+
+    if n < 2:
+        return True
+    for number in islice(count(2), int(sqrt(n) - 1)):
+        if n % number == 0:
+            return True
+    return False
+
+def is_any(n):
     return True
 
 def ssum(l):
@@ -75,16 +90,6 @@ def reduce(ni):
         mas = reduce(mas)
     return int(f'{mas}')
 
-def ipru(c):
-    if (c == 2): #hyper yin
-        return(255,0,0) # t.color('blue')
-    if (c == 3): #yang
-        return(0,0,255) # t.color('red')
-    if (c == 5): #yin
-        return(0,255,0) # t.color('green')
-    if (c == 7): #hyper yang
-        return(0,255,255) # t.color('yellow')
-
 def cleanstr(s):
     remove_characters = [":", " ", "."]
 
@@ -102,21 +107,65 @@ def fillrec(img,width,height,clr):
             img[x, y] = clr
     return img
 ##############################################################################
-"""
-data[0]     {maz}   moon.az radians
-data[1]     {mas}   moon.az reduced
-data[2]     {saz}   sun.az radians
-data[3]     {sas}   sun.az reduced
-data[4]     {tms}   total reduced - reduced
-data[5]             date 
-data[6]             time
-data[7]     {flag}  ^N or ^P
-"""
 fs=[tdelta]
+newx = 0
+newy = 0
+size = 1
+i = 0
+# colors are BGR, not RGB
+#1
+iclr=[]
+iclr.append([0,0,0]) # skip because index 0
+iclr.append([0,0,255])
+iclr.append([0,128,255])
+iclr.append([64,255,255])
+iclr.append([0,255,128])
+iclr.append([0,255,0])
+iclr.append([128,255,0])
+iclr.append([255,255,0])
+iclr.append([255,128,0])
+iclr.append([255,0,0])
 
-fmi=""
+for i in range(len(iclr)):
+    iclr[i]=[255,255,255]
+
+iclr[1]=[0,0,150]
+iclr[2]=[0,80,150]
+iclr[3]=[0,150,150]
+iclr[4]=[0,150,80]
+iclr[5]=[0,150,0]
+iclr[6]=[80,150,0]
+iclr[7]=[150,150,0]
+iclr[8]=[150,80,0]
+iclr[9]=[150,0,0]
+
+
+#iclr[0]=[255,255,255]
+# iclr[1]=[255,255,255]
+# iclr[2]=[255,255,255]
+# iclr[3]=[255,255,255]
+# iclr[4]=[255,255,255]
+# iclr[5]=[255,255,255]
+# iclr[6]=[255,255,255]
+# iclr[7]=[255,255,255]
+# iclr[8]=[255,255,255]
+#iclr[9]=[255,255,255]
+
+#36
+#2589
+
+
+
+#iclr[3]=[0,255,255]
+#iclr[4]=[0,255,128]
+#iclr[5]=[0,255,0]
+#iclr[6]=[128,255,0]
+#iclr[7]=[255,255,0]
+#iclr[8]=[255,128,0]
+#iclr[9]=[255,0,0]
+
+
 for fp in fs:
-
     cmd=f"./moon_dat.py -d {fp} -t {ts}"
     print(f"EXECUTE: {cmd}",end="")
     if redrawonly:
@@ -124,60 +173,37 @@ for fp in fs:
     else:
         os.system(cmd)
     print("\n")
-
-    datfn = f"dat/data-{fp}sec_{cleanstr(ts)}.dat"
+    datfn = f"dat/{numtype}data-{fp}sec_{cleanstr(ts)}.dat"
     print(f"DATFILE: {datfn}")
+    print("... reading  file")
     dat = open(datfn,"r")
-    fmi = f"eps/moon_im_{fp}_{cleanstr(ts)}.png"
+    fmi = f"eps/{numtype}moon_im_{fp}_{cleanstr(ts)}_{height}x{width}.png"
     print(f"IMGFILE: {fmi}")
-
-    data = []
+    img = np.zeros((width + 2, height + 2, 3), np.uint8)
+    img = fillrec(img, width, height, [0, 0, 0])
     for line in dat:
+        # print(f"{i}        ",end="\r")
+        # i+=1
         stripped_line = line.strip()
         line_list = stripped_line.split()
-        data.append(line_list)
+        data = (line_list)
+        tms = data[4]
+        # type=data[7]
 
-    # height=720
-    newx=0
-    newy=0
-    size=1
-    img = np.zeros((width,height,3),np.uint8)
 
-    img=fillrec(img,width,height,[0,0,0])
-    for d in data:
-        # mas = reduce(d[1])
-        # sas = reduce(d[3])
-        mas = d[1]
-        sas = d[3]
-        # ut = f"{repr(moon.az)}.{repr(sun.az)}"
-        tms = d[4]
-
-        # print(d[7], end="",flush=True)
-        # if (d[7] == "^P"):
-        # if is_prime(int(d[4])) and is_prime(int(d[1])) and is_prime(int(d[3])):
-        if is_prime(int(d[4])):
-            # print(f"{ut     },{str},{datetime.datetime.now()}", file=savedata, flush=True)
-            clr = ipru(int(tms))
-            # print(clr)
-
-            # print(newx)
-            img[newx,newy] = clr
-
+        # if type == "^P":
+        if is_any(int(tms)):
+            # clr = ipru(int(tms))
+            img[newx, newy] = iclr[int(tms)]
             newx = newx + size
-            # ct = ct + 1
-            # print(f"{clr}/{newx}/{width}")
-            if (newx >= width ):
-                newy = newy + size
-                newx = 0
-                # print(".",end="")
-
-            if (newy >= height):
-                # print(f"writing image {fmi}")
+            if (newy == height) and (newx == width):
                 cv2.imwrite(fmi, img)
                 print(f"WIDTH: {newy}")
                 newx = 0
                 newy = 0
-                continue
+                break
+            if (newx == width):
+                newy = newy + size
+                newx = 0
     print(f"end of data, {newy} of {height}")
-
     cv2.imwrite(fmi, img)
