@@ -20,24 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Images/012-relatedlaws.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/012-relatedlaws.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/013-emc2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/013-emc2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/diffraction.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/diffraction.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/ohmslaw-pi.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/ohmslaw-pi.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/pnp-dots-sm3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/pnp-dots-sm3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/space-fresnel-layer.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/space-fresnel-layer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/sun-moon-grades.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/sun-moon-grades.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Latest/ICHING~betaWIP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/ICHING~betaWIP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Latest/Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/Pattern.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hex_builder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hex_builder.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hex_builder_lapse.py" beforeDir="false" afterPath="$PROJECT_DIR$/hex_builder_lapse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moon_dat.py" beforeDir="false" afterPath="$PROJECT_DIR$/moon_dat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moon_im.py" beforeDir="false" afterPath="$PROJECT_DIR$/moon_im.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ohmslaw-pi.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../ohmslaw-pi.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../metadata.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../version.txt" afterDir="false" />
@@ -67,7 +52,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/hex_builder_lapse.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -76,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.numtree">
+  <component name="RunManager" selected="Python.brownian">
     <configuration name="Lorentz-force-scipy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="hex_builder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,6 +75,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../helix/Lorentz-force-scipy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="brownian" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/brownian.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -628,6 +634,7 @@
       <item itemvalue="Python.timetest" />
       <item itemvalue="Python.vert" />
       <item itemvalue="Python.numtree" />
+      <item itemvalue="Python.brownian" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -672,6 +679,10 @@
       <screen x="0" y="46" width="1920" height="986" />
     </state>
     <state x="941" y="411" key="#Notifications/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591646070342" />
+    <state x="557" y="1211" key="#brownian" timestamp="1595537058032">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="557" y="1211" key="#brownian/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595537058032" />
     <state x="560" y="1227" key="#chart_2" timestamp="1594839213461">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -781,35 +792,35 @@
     <state x="279" y="1236" width="434" height="488" key="FileChooserDialogImpl/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592603524177" />
     <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591812373104" />
     <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591677824454" />
-    <state width="1358" height="249" key="GridCell.Tab.0.bottom" timestamp="1595139704092">
+    <state width="1523" height="249" key="GridCell.Tab.0.bottom" timestamp="1595540081989">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1358" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595139704092" />
+    <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081989" />
     <state width="1381" height="246" key="GridCell.Tab.0.bottom/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
     <state width="688" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1358" height="249" key="GridCell.Tab.0.center" timestamp="1595139704092">
+    <state width="1523" height="249" key="GridCell.Tab.0.center" timestamp="1595540081989">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1358" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595139704092" />
+    <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081989" />
     <state width="1381" height="246" key="GridCell.Tab.0.center/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
     <state width="688" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1358" height="249" key="GridCell.Tab.0.left" timestamp="1595139704092">
+    <state width="1523" height="249" key="GridCell.Tab.0.left" timestamp="1595540081988">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1358" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595139704092" />
+    <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081988" />
     <state width="1381" height="246" key="GridCell.Tab.0.left/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
     <state width="688" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1358" height="249" key="GridCell.Tab.0.right" timestamp="1595139704092">
+    <state width="1523" height="249" key="GridCell.Tab.0.right" timestamp="1595540081989">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1358" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595139704092" />
+    <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081989" />
     <state width="1381" height="246" key="GridCell.Tab.0.right/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
     <state width="688" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
@@ -833,11 +844,11 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2825" y="267" width="320" height="594" key="RollbackChangesDialog/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591678232910" />
-    <state x="791" y="131" width="992" height="732" key="SettingsEditor" timestamp="1595133883888">
+    <state x="791" y="131" width="992" height="732" key="SettingsEditor" timestamp="1595537167638">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="261" y="233" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592376597156" />
-    <state x="791" y="131" width="992" height="732" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595133883888" />
+    <state x="791" y="131" width="992" height="732" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595537167638" />
     <state x="261" y="1341" width="997" height="734" key="SettingsEditor/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592594189031" />
     <state x="2181" y="233" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591815719635" />
     <state x="2219" y="143" width="997" height="739" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591680214735" />
