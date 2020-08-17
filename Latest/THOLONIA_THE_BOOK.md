@@ -2169,65 +2169,6 @@ On the opposite side, between **C** (capital cost) and **E** (energy density), w
 
 According to the tholonic model, the only place where a new stable pattern capable of replication can occur is between *define* and *contribute*, which here is **P** (power density) and **C** (capital cost). Across this spectrum of &ldquo;cooperation or conflict&rdquo; you will have all the various instances of batteries that can deliver power at a cost, most of the instances landing in the middle, representing the best delivery of power at the best cost. *Power* and *cost* are the two poles, the contrasting forces, the thesis and antithesis, of this spectrum. Here you would have instances like alkaline cell batteries (Duracell), lead-acid batteries (car batteries), nickel-cadmium batteries (rechargeable batteries), etc., etc. Each of these new instances (stable patterns), can then go on to create their own tholonic archetype.  As the author relates in his article, which so aptly fits into the tholonic mode as well, &ldquo;You can have it good, fast or cheap; pick two out of three.&rdquo;
 
-## Calculus
-
-Calculus is another tetrahedral model that fits into the tholon nicely and could only be brought up at this point in the story.  Calculus is the study of continuous change (and therefore the study of reality) and has three main concepts that are quite compatible with the three main concepts of the tholon.
-
-**Limits**
-
-- **The values a function approaches.**
-- The *N-state* is effectively 0 as it exists in a 0-dimensional space that has no form and is only a concept of what is the ultimate limit, and its implied inverse and opposite, infinity.
-
-**Differentiation**
-
-- **Defines the measure of things, resulting in derivatives.**
-
-- The existence of this conceptual 0-point implies the next point, *Definition*, which is the domain of 2 points and 1 dimension.  This makes *Definition* the domain of measurement, as measurement is fundamentally a 1-dimensional concept. There can me many 1-D measurements to describe a multi-dimensionality but in any scenario, a measurement can be described as one or more 1-D measurements. The existence of 1 now allows for the concept of all numbers (that are not 0). However, these 1-D measurements can&rsquo;t describe anything but a line. To describe more than a line those 1D measurements need to relate to other 1D measurements. 
-
-- Derivatives are what calculus calls the results of comparing two points, and it is defined by the notation…
-
-  ### $\boldsymbol {\lim\limits _{\Delta x\rightarrow 0} \ \frac{f( x+\Delta x) -f( x)}{\Delta x} =\lim _{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x} =\frac{dx}{dy} \ =\ n}$
-
-  …which simply means our results (the derivative of $ n$) will approach its limits (exactness) as the difference in our measurements ($\Delta x$) approaches its limit (0).
-
-**Integration** 
-
-- **Uses the derivatives to calculate the area.** 
-
-- The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality (described by two 1D measurements).  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points, the *Derivatives*).  The less separation ($\Delta x$, where $ x$ can be time, space, some numerical variable, etc.)  between these points, the more accurate the results.  The smaller $\Delta x$, the more points ($ n)$ we have. The sum of these points is expressed as the inverse notation of above:
-
-  ### $\boldsymbol{\lim\limits _{n\rightarrow \infty } \ \sum\limits ^{n}_{i=1} f( x_{i}) \Delta x_{i}}$
-
-  … which simply means the sum of all the derivatives ($ n$) staring from the first ($ n_{1}$) up to the last ($ n_{\infty }$), which will always be the inverse of the limit of the derivative, $\boldsymbol{\frac{1}{0} =\infty }$
-
-  But because we are dealing with infinitesimally small pieces, we use the integral function:
-
-  ### $\boldsymbol{\int ^{z}_{a} f( x) dx}$
-
-  … which says that we have an infinitesimally small difference between points ($ dx$) that exist between points $ a$ and $z$.   
-
-The functional part of calculus exists between the **Differentiation** and **Integration** as that is the spectrum within which the fundamental theorem of calculus exists.  This is also the spectrum where N-states can exist when it is defined by *Definition* and  *Contribution.*
-
-<img src="../Images/calculus-tri.png" style="width:30%;margin:auto;" />
-
-[JWFIX:rewrite this section below]
-
-Perhaps there is a way to apply calculus to non-mathematical systems, like psychology, society,law, etc.?  This is far beyond my abilities, but I imagine it would look something like the following:
-
-Let&rsquo;s  take a basic concept like the Harmonic Series ($\boldsymbol{\frac{1}{1} +\frac{1}{2} +\frac{1}{3} +\frac{1}{4} +\frac{1}{5} +\frac{1}{6} +\frac{1}{7} +\frac{1}{8} ...}$), which is the foundation of music. This is described as…
-
-### $\boldsymbol{\lim\limits _{n\rightarrow \infty } \ \frac{1}{n} =0}$  
-
-…which states that when $n = \infty$, approaches infinity $\frac{1}{n} =0$. If we associate the concept of an individual number to that of *Definition*, the concept of $\infty $ to that of the opposite of an individual numbers (i.e. all numbers), the concept of 1, or unity, to the concept of a completion (i.e. the generation of a new N-state), and then apply the logic of Ohm&rsquo;s  Law, we would get the following:
-
-### $  \boldsymbol{\lim\limits _{DEF\rightarrow CON} \ \frac{neg}{CON} =NEG}$  
-
-If we did the same with the association made earlier regarding society, we would get (were *regeneration* is the creation of a new N-state):
-
-### $  \boldsymbol{\lim\limits _{Laws\rightarrow Society} \ \frac{Regeneration}{Society} =Ethics}$
-
-This is not being presented as a working formula. I have no idea if this is valid or ridiculous, but using calculus to analyze social issues is not only common, it is a study unto itself in the form of Game Theory or the Nash Equilibrium (John Forbes Nash Jr. was an American mathematician who created the Nash Equilibrium, for which he awarded both the Nobel Memorial Prize in Economic Sciences and the Abel Prize. He was the subject of the movie "A Beautiful Mind").
-
 ## Circuits
 
 There is one more instance of this trigram model that holds tremendous potential, and that is electronic circuits.  One of the most common and important circuits in electrical systems is the very simple *resistor-capacitor circuit*, or *RC circuit*.  It is used to filter and control signals not only in man-made electrical circuits, but in natural electrical circuits such as neuro-transmission in the brain and throughout the entire nervous systems of any living organism. 
@@ -2276,7 +2217,48 @@ One last related note… remember that seemingly obscure reference to the Ragone
 
 <img src="../Images/Supercapacitors-vs-batteries-chart.png" style="width:50%;margin:auto;" />
 
+## Calculus
 
+Calculus is another tetrahedral model that fits into the tholon nicely and could only be brought up at this point in the story.  Calculus is the study of continuous change (and therefore the study of reality) and has three main concepts that are quite compatible with the three main concepts of the tholon.
+
+**Limits**
+
+- **The values a function approaches.**
+- The *N-state* is effectively 0 as it exists in a 0-dimensional space that has no form and is only a concept of what is the ultimate limit, and its implied inverse and opposite, infinity.
+
+**Differentiation**
+
+- **Defines the measure of things, resulting in derivatives.**
+
+- The existence of this conceptual 0-point implies the next point, *Definition*, which is the domain of 2 points and 1 dimension.  This makes *Definition* the domain of measurement, as measurement is fundamentally a 1-dimensional concept. There can me many 1-D measurements to describe a multi-dimensionality but in any scenario, a measurement can be described as one or more 1-D measurements. The existence of 1 now allows for the concept of all numbers (that are not 0). However, these 1-D measurements can&rsquo;t describe anything but a line. To describe more than a line those 1D measurements need to relate to other 1D measurements. 
+
+- Derivatives are what calculus calls the results of comparing two points, and it is defined by the notation…
+
+  ### $\boldsymbol {\lim\limits _{\Delta x\rightarrow 0} \ \frac{f( x+\Delta x) -f( x)}{\Delta x} =\lim _{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x} =\frac{dx}{dy} \ =\ n}$
+
+  …which simply means our results (the derivative of $ n$) will approach its limits (exactness) as the difference in our measurements ($\Delta x$) approaches its limit (0).
+
+**Integration** 
+
+- **Uses the derivatives to calculate the area.** 
+
+- The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality (described by two 1D measurements).  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points, the *Derivatives*).  The less separation ($\Delta x$, where $ x$ can be time, space, some numerical variable, etc.)  between these points, the more accurate the results.  The smaller $\Delta x$, the more points ($ n)$ we have. The sum of these points is expressed as the inverse notation of above:
+
+  ### $\boldsymbol{\lim\limits _{n\rightarrow \infty } \ \sum\limits ^{n}_{i=1} f( x_{i}) \Delta x_{i}}$
+
+  … which simply means the sum of all the derivatives ($ n$) staring from the first ($ n_{1}$) up to the last ($ n_{\infty }$), which will always be the inverse of the limit of the derivative, $\boldsymbol{\frac{1}{0} =\infty }$
+
+  But because we are dealing with infinitesimally small pieces, we use the integral function:
+
+  ### $\boldsymbol{\int ^{z}_{a} f( x) dx}$
+
+  … which says that we have an infinitesimally small difference between points ($ dx$) that exist between points $ a$ and $z$.   
+
+The functional part of calculus exists between the **Differentiation** and **Integration** as that is the spectrum within which the fundamental theorem of calculus exists.  This is also the spectrum where N-states can exist when it is defined by *Definition* and  *Contribution.*
+
+<img src="../Images/calculus-tri.png" style="width:30%;margin:auto;" />
+
+Perhaps there is a way to apply calculus to non-mathematical systems, like psychology, society,law, etc.?  This is far beyond my abilities, but I imagine it would look something like the calculus used in such things as Game Theory or the Nash Equilibrium (John Forbes Nash Jr. was an American mathematician who created the Nash Equilibrium, for which he awarded both the Nobel Memorial Prize in Economic Sciences and the Abel Prize. He was the subject of the movie "A Beautiful Mind").
 
 ## Consciousness
 
@@ -2548,7 +2530,17 @@ The current idea that MFs can be formed as a result of a self-organizing system,
 
 Sheldrake implicitly answers this question when he describes the morphic field as &ldquo;organizing fields which are systems that self-organize, create structure, and have patterns.&rdquo; This description is the description of a form of intelligence, and therefore the morphic fields that share a morphic resonance or morphic cloud are themselves the transmitters and receivers. Tholonically speaking, this means that the archetypes, the tholons, are both transmitters and receivers of information and we actual humans are simply the instances of that aggregate field of the human tholon.
 
-For example, rather then the MF case of, say, ideas that spread to humans through the MF such as calculus, or communication between humans and their dogs as cited in Sheldrake&rsquo;s  book *&ldquo;Dogs That Know When Their Owners Are Coming Home*&rdquo;[^66], the ideas of tholonic fields claims that archetypes can have direct communication without having to go through any of their instances.  That interaction can also include negotiation via cooperation and/or conflict, or result in a redefining or contributing of both archetypes, etc., tholons can battle, join together, form alliances, trade, aid, lie, extort, and even destroy other tholons. This could do a better job explaining the wasp/roach or honeybee/human relationship, but also shed light on everything form religion to economics.  At the time of this writing (August, 2020), within the social arena, which includes economics, politics, government, culture, civil rights, and so much more, we are seeing an rapid growth of tholonic activity as a result of the Wuhan virus (a.k.a COVID-19), itself a creation of a tholonic intention, which will alter all aspects of society. As the activity increases more and more tholons will be affected to the point where seemingly unrelated concepts such as Information Technology, fashion, architecture, etc., will also change, and in ways we may not be able to imagine.  Who imagined that oil, the fuel that runs the world and over which wars are fought,would drop to \$-40 a barrel in April., 2020? Who imagined the explosive rise of cryptocurrency? If enough energy is released during this activity it could alter parent tholons, which could change the very fabric of society at levels similar to discovering life on other planets, or UFOs landing on the White House lawn, or new DNA appearing spontaneously all over the planet, or proof of life after death, or anything else that would rock our concept of reality.  [JWFIX: keep this last part?] 
+For example, rather then the MF case of, say, ideas that spread to humans through the MF such as calculus, or communication between humans and their dogs as cited in Sheldrake&rsquo;s  book *&ldquo;Dogs That Know When Their Owners Are Coming Home*&rdquo;[^66], the ideas of tholonic fields claims that archetypes can have direct communication without having to go through any of their instances.  That interaction can also include negotiation via cooperation and/or conflict, or result in a redefining or contributing of both archetypes, etc., tholons can battle, join together, form alliances, trade, aid, lie, extort, and even destroy other tholons. This could do a better job explaining the wasp/roach or honeybee/human relationship, but also shed light on everything form religion to economics.  At the time of this writing (August, 2020), within the social arena, which includes economics, politics, government, culture, civil rights, and so much more, we are seeing some extraordinary movement of tholonic activity in the social realm as a result of the Wuhan virus (a.k.a COVID-19), itself a creation of a tholonic intention, which will alter all aspects of society. As the activity increases, a wider array of tholons will be contributing to the cause and effect of the situation-at-large to the point where seemingly unrelated concepts such as information technology, fashion, architecture, concepts of god, etc., will also change, and in ways we may not be able to imagine.  Of course, what we are seeing today is itself a child of the changes that have been happening for hundreds, and even thousands of years.  While there have been many tholonically seismic events over the past 300 years, some of the most disruptive would be: 
+
+- The discovery of quantum phenomena in 1801 with the split slit experiment.
+- Nuclear fission and fusion (late 1930s, early 1940s).
+- The invention of digital information (1948).
+- The invention of genetic engineering (1970s).
+- The privatization of the Internet (1995).  
+
+These are just some of the changes that permanently altered the direction of growth for many archetypes and their instances, and consequently, our understanding and perception of reality. 
+
+It is a small step from here to presume that with even a little understanding of reality, the tholonic model could easily &ldquo;predict&ldquo; future discoveries.  This has already happened to some degree when self-learning AI that scanned only the words (which are themselves tholonic archetypes) and &rdquo;realized&ldquo; that the words “chalcogenide” (material containing *chalcogen elements* such as sulfur or selenium), “optoelectronic” (electronic devices that source, detect and control light), and “photovoltaic applications” would most likely share an instance[^205], or as we would say, three tholons that exist within the same tholon of a thermometric archetype, which it called *CsAgGa~2~Se~4~*. That was in 2009. In 2012, that compound was discovered. 
 
 ### Ideas
 
@@ -2685,48 +2677,59 @@ OK, I know this is all a bit of a stretch, but it&rsquo;s not outside the realm 
 
 ## Gravity
 
-Regarding gravity&hellip; Roger Penrose also suggests that quantum gravity and how it relates to *quantum state reduction*, or the collapsing of a waveform, i.e. the instantiation of a archetype or concept, is the source of consciousness[^177]. If the tholonic idea that awareness is the source of existence, then this suggests that consciousness is not only the byproduct of awareness, which makes perfect sense, but it is also a integral part of the instantiation of tholonic patterns as consciousness serves as the expression of awareness necessary to complete the instantiation process, not unlike the way an electron must return to the source to complete a circuit.  Geometrically speaking, while the trigram is a result of the three states created by awareness, as previously shown, the actual instance of that trigram requires a 4^th^ composite &ldquo;white dot&rdquo; in order to take on form, or transform from a trigram into a tetrahedron.  Consciousness is the equivalent of this composite &ldquo;white dot&rdquo;, and quantum gravity is the instance of that force that causes the collapsing of the trigram to a tetrahedron.  This might also suggest that in the world of subatomic particles where we have the basic trinity of electrons, protons and neutrons, we would also expect to find a 4th particle that represents gravity, a *graviton*, and in fact, science has speculated that such a particle exists, they just haven&rsquo;t found it yet (probably because it is hiding in the virtual spaces with all of Wheeler&rsquo;s  missing electrons). All of this is simply to suggest that if gravity is fundamental to consciousness and existence, it may also be fundamental to fields and field memory, and as gravity, or the field of a *graviton*, is both mass-less and infinite yet binds the entire universe together, it seems like an excellent candidate.
+Roger Penrose also suggests that quantum gravity and how it relates to *quantum state reduction*, or the collapsing of a waveform, i.e. the instantiation of a archetype or concept, is the source of consciousness[^177]. If the tholonic idea that awareness is the source of existence, then this suggests that consciousness is not only the byproduct of awareness, which makes perfect sense, but it is also a integral part of the instantiation of tholonic patterns as consciousness serves as the expression of awareness necessary to complete the instantiation process, not unlike the way an electron must return to the source to complete a circuit.  Geometrically speaking, while the trigram is a result of the three states created by awareness, as previously shown, the actual instance of that trigram requires a 4^th^ composite *white dot* in order to take on form, or transform from a trigram into a tetrahedron.  Consciousness is the equivalent of this composite *white dot*, and quantum gravity is the instance of that force that causes the collapsing of the trigram to a tetrahedron.  This might also suggest that in the world of subatomic particles where we have the basic trinity of electrons, protons and neutrons, we would also expect to find a 4th particle that represents gravity, a *graviton*, and in fact, science has speculated that such a particle exists, they just haven&rsquo;t found it yet (probably because it is hiding in the virtual spaces with all of Wheeler&rsquo;s  missing electrons). All of this is simply to suggest that if gravity is fundamental to consciousness and existence, it may also be fundamental to fields and field memory, and as gravity, or the field of a *graviton*, is both mass-less and infinite yet binds the entire universe together, it seems like an excellent candidate.
 
 This would also suggest that gravity and consciousness are two instances of the same expressions in different scopes. Is there anything that supports such a wild claim? Yes, there is.
 
-Let&rsquo;s  look at the simple formula that describes the gravitational force: $\boldsymbol{F=\frac{g}{S^{2}}}$ , where *F* is the gravitational force, *g* is the gravitational field as it applies to two different masses, and *S* is the separation between those two masses.  This law was also discovered by Newton, so maybe it is not surprising that it looks similar to Newton&rsquo;s 2^nd^ law as expressed via Ohm&rsquo;s  law for determining resistance of $\boldsymbol{R=\frac{P}{I^{2}}}$. If (and this is a giant "if") these are the same instances within different scopes, we can say that:
-
-[JWFIX:this section needs rewrite and needs to refer to fields the medium through which energy is transferred.  Also, a better argument do Separation]
+Let&rsquo;s  look at another one of Newton&rsquo;s formulas that describes the gravitational force: $\boldsymbol{F=\frac{g}{S^{2}}}$ , where *F* is the gravitational force, *g* is the gravitational field as it applies to two different masses, and *S* is the separation between those two masses.  And yes, it also looks just like the Ohm&rsquo;s Law for *resistance* $\boldsymbol{R=\frac{P}{I^{2}}}$, which raises questions about the relationship between consciousness, gravity and resistance; could they be are the same archetype instantiated across three different scopes? If so, then we can say the following:
 
 - *Gravitational force* (*F*) is equivalent to *Resistance* (*R*)
   
-  - This seems intuitively reasonable, given that much of the resistance we experience is directly related to gravity.
+  - This seems intuitively reasonable, given that much of the (albeit different type of) resistance we experience is directly related to gravity.
 - *Gravitational field* (*g*) is equivalent to *Power* (*P*) 
   
-  - This seems odd, as *P* (power) is defined as " the amount of energy transferred or converted per unit time", like the watts in a light bulb, but here *g* is a field.  However, *g* is a field that is measured in *Newtons*, which are defined as "the force required to accelerate an object with a mass of 1 kilogram 1 meter per second per second", so Newtons are actually a measure or power, like watts, and can even be converted to watts as 1 watt is equal to 1 Newton per meter per second.
+  - *P* (power) is defined as "the amount of energy transferred or converted per unit time," like the watts in a light bulb. Here *g* is a field, and it is vie the field that the effect of gravity is transferred.  The *g* field is also measured in *Newtons*, which are defined as "the force required to accelerate an object with a mass of 1 kilogram 1 meter per second per second", so Newtons are actually a measure or power, like watts, and can even be converted to watts as 1 watt is equal to 1 Newton per meter per second.
 - *Separation* (*S*) or distance between the two masses is equivalent to *amperage* (*I*)
 
-  - This was especially confusing given that voltage is defined as the difference in potential between two points, and what could be more exemplary of this than the distance between two masses? Yet, *S* does not equate to volts, but rather to *I*, amperage. The most likely explanation of this is due to the fact that electricity does not act the same as gravity, so the clear definitions of electrical terms such as voltage and amperage are only partially applicable to their gravitational equivalents.  However, there is one similarity that is consistent; the limits of an electrical circuit are defined by the number of electrons that are allowed to pass through a system at any given moment. The purpose of a fuse is to ensure no more electrons can pass through a system than is allowed.  For example, in a 40 Amp fuse, if the number of electrons passing through the fuse at any given moment exceeds 2.496^20^, the fuse will burn out, thereby stopping all current.  In the *E=mc^2^* equivalency we saw previously, it is *c*, the speed of light, that defines the limits of the systems we call the Universe, but unlike Amps, *c* can never change.  Here, in the gravity example, the defining limitation of the system is the distance between two fields. So, in the sense that *S* and *I* are both the measure of the limits of a systems, they are the same. One uses the volume of electrons and the other uses distance.
+  - This is especially interesting as we would expect the distance between two masses to be more like difference in potential between two charges, which is *volts*. Instead, we have $S$ as a measure of space, and $I$ as a measure of time, as an ampere is defined as $1\ Amp\ =\ 1\ Coulomb/second$ (and $1\ Coulomb\ =\ 1\ Amp/second$).  But we already know time and space are not two things, but two ways to measure the one thing that is *spacetime*. This is the same relationship between the frequency (time) and wavelength (space), both of describing the exact same thing.
+
+    However, and this is the most relevant detail, up until 2019 the ampere was measured in a very different manner.
+
+    > The ampere is that constant current which, if maintained in two straight parallel conductors of infinite length, of negligible circular cross-section, and placed 1 m apart in vacuum, would produce between these conductors a force equal to 2×10−7 newton per meter of length.
+
+    Did you catch that? $\boldsymbol{I}$ and $\boldsymbol{S}$ are both measured by the distance between by two objects. 
+
+    $\boldsymbol{S}$ uses space (meters) and $\boldsymbol{I}$ uses time (Newtons), and both are denominators for time-based measurement (Newtons and watts).
+    
+    *(Note: The reason the definition of am ampere was changed in 2019 was simply because the new definition is more accurate in high-precision and easier to use.)* 
+  
+  - There is another correlation as well. The limits of an electrical circuit are defined by the number of electrons that are allowed to pass through a system at any given moment. This is controlled by a fuse. In a 40 Amp fuse, if the number of electrons passing through the fuse at any given moment exceeds a certain amount, the fuse will automatically cut the circuit, stopping all current.  In the *E=mc^2^* equivalency we saw previously, it is $c$, the speed of light, that defines the limits of the systems we call the Universe, but unlike Amps, $c$ can never change.  Here, in the gravity example, the defining limitation of the system is the distance between two fields. So, in the sense that $\boldsymbol{S}$ and $\boldsymbol{I}$ are both the measure of the limits of a systems, they are the similar.
+  
 
 
 How can we test to see if this equivalency has any validity?  Here&rsquo;s  one example.
 
-Given the above, this would then mean that the gravitational equivalent to volts (which we&rsquo;ll call *hvolts* or *h*) is the *gravitational field* divided by *separation*, or $h=\frac{g}{S}$.
+Given the above, this would then mean that the gravitational equivalent to volts (which we&rsquo;ll call *hvolts* or *h*) is the *gravitational field* divided by *separation*, or $\boldsymbol{h=\frac{g}{S}}$ (using the formulas for volts).
 
-However, we can reduce this a bit more because *g* is actually the product of *G&times;M~1~&times;M~2~*, where 
+However, we can reduce this a bit more because *g* is actually the product of $G\times M_{1} \times M_{2}$, where 
 
 > G = universal gravitational constant.
 > M~1~ = mass of the observing physical system (the observer).
-> M~2~ = mass of the observed physical system (the observed).
+> M~2~ = mass of the observed physical system (the observed). 
 
 What this tells us is that *hvolts* is the *relative* value of the *universal gravitational constant* (which, for the record, is 6.674&times;10^−11^&times;m^3^&times;kg^−1^&times;s^−2^,) as it applies to any two instances.  
 
-Why is this important? Because as we saw on the geometrical model, the initiating points of the N-sources form the centers upon which the other dots emerge is the equivalent to *volts*.  This then suggests that it is the relative value of the universal gravitational constant that is the source of creation as well as that which holds all structure together.  
+Why is this important? Because as we saw on the geometrical model, the initiating points of the N-sources form the centers upon which the other N-states emerge is the equivalent to *volts*.  This then suggests that it is the relative value of the universal gravitational constant that is the source of creation as well as that which holds all structure together.  
 
-This would only be the case if *S* was the equivalent to *I*, meaning that *S* and *I* are equivalent in that they both define the limits of a system. 
+This would only be the case if $\boldsymbol{S}$ was the equivalent to $\boldsymbol{I}$, meaning that $\boldsymbol{S}$ and $\boldsymbol{I}$ are equivalent in that they both define the limits of their respective system.   
 
-The reader might remember that in Chapter 7 we suggested this same *N-source* might represent a *gluon*, but this may be a contradiction as the relationship between gluons and gravity is quiet close. We&rsquo;ll leave it up to the quantum physicists to fill in the details, if any of this even applies.
+The reader might remember that in Chapter 7 we suggested this same *N-source* might represent a *gluon*, but this may be a contradiction to what is being suggested here. We&rsquo;ll leave it up to the quantum physicists to fill in the details, if any of this even applies.
 
 <img src="../Images/064-hexagram.png" style="width:30%;" />
 
 
 
-Even more directly applicable evidence comes from an article written by theoretical physicist Swati Nigam entitled *Gravity As “Conscious Force” To Resolve Quantum Gravity*[^178], wherein she states:
+Even more directly applicable evidence comes from an article written by theoretical physicist Swati Nigam entitled ""*Gravity As Conscious Force To Resolve Quantum Gravity*[^178], wherein she states:
 
 > According to current science, there is a missing connection between general relativity and quantum mechanics concepts of physics, which is needed to unify them into one, to conceptualize a unified field theory. 
 
@@ -2735,6 +2738,25 @@ The article then goes on about the nature of the problem, ultimately concluding 
 > Thus, we can use the term “conscious force” for gravitational force&hellip;. *Conscious force* is gravitational force which is the unidentified fifth force. This force is a synonym for gravitational force, works just like it on all matter entities, irrespective of their nature or position in space, both in macro or micro worlds.
 
 If consciousness is a fundamental force, it may itself be the field within which is stored the field memory.  Perhaps that is the very purpose of our memory abilities; perhaps life itself serves as a storage facility for gravitational field memory. OK, that may be way off the radar, but nothing is beyond consideration nor free from criticism.  In any case, there seems to be a strong correlation between consciousness and gravity.
+
+## Limits of Consciousness?
+
+This ideas that there might be a relationship between consciousness and gravity raises another question, and that is, if observation is required to collapse a wave function, then can we define consciousness as that which has the ability to observe?
+
+First, let's hear what Werner Heisenberg has to say about what *observation* means 
+
+> Of course the introduction of the observer must not be misunderstood to imply that some kind of subjective features are to be brought into the description of nature. The observer has, rather, only the function of registering decisions, i.e., processes in space and time, and *it does not matter whether the observer is an apparatus or a human being*; but the registration, i.e., the transition from the "possible" to the "actual," is absolutely necessary here and cannot be omitted from the interpretation of quantum theory.
+>
+
+##### ~ Werner Heisenberg, *Physics and Philosophy*, p. 137
+
+And by &ldquo;registering decisions&rdquo; he means any sort of recording of effect that is the result of the interacting with the cause, as long as that recording is a time-irreversible process.  This would imply that if one atom was altered as a result of  interacting with the wave function, it will collapse into a particle, so even a rock could be an "observer." It turns out that the act of observation is more analog that digital, meaning, the more something is observed, the more effect levels of observations that have levels of collapse.  In a recent experiment[^206] is was shown that:
+
+> …the greater the amount of "watching," the greater the observer's influence on what actually takes place.
+
+So, a rock might be able to &ldquo;observe,&rdquo; but it would probably be an observation too weak to have any effect on reality. The experimenters built a machine with variable observation strength levels, but it would be very interesting to see what the observation strength levels of different forms of life are.  Certainly humans have a strong level, but is there an even stringer level? And what about monkeys, cats, insects, plants, etc.?  It seems to me this could be easily tested.
+
+With this in mind, it might be useful to think of awareness as a wave functions, a sea of &ldquo;possibilities,&rdquo; but consciousness as the "actual" instance of a collapsing wave of awareness. This might imply that everything that exists potentially has a consciousness, but weak observers will have a weak wave function collapse, a instantiation of consciousness.
 
 ## Structured Memory
 
@@ -2827,25 +2849,31 @@ The peak of the Bell curve is going to tell us what the most likely result will 
 
 <img src="../Images/101-toincoss.png" style="width:100%;" />If we plotted the results, we would end up with a Bell curve that looked something like this &ldquo;Number of Heads&rdquo; graph.
 
-[JWFIX:next 3 para need more clarity]
+So, when we run these five tests 50,000 times each, the chances of us ending up with 1 coin from 32 coins is obviously 100%.
 
-So, when we run these five tests 50,000 times each, the chances of us ending up with one coin from 32 is 100%
+Now imagine we use different coins for each test;
 
-Now imagine we use different coins for each test; 32 quarters, 16 nickels, 8 dimes, 4 half-dollars, and 2 pennies. We are still going to end up with 1 penny at the end, along with 16 quarters, 8 nickels, and 4 dimes and 2 half-dollars. This is a total of 62 coins, two of which are pennies.
+- Test 1, 32 quarters
+- Test 2, 16 nickels
+- Test 3, 8 dimes
+- Test 4, 4 half-dollars
+- Test 5, 2 pennies.
 
-If all someone knew about was that you started with 62 coins and ended up with a penny, they would say there is a 2:62, or 3.2%, chance of you ending up with a penny, when, in fact, there is a 100% chance of you ending up with a penny.
+We start out with 62 coins but end up with 31 coins (16 quarters, 8 nickels, and 4 dimes, 2 half-dollars and 1 penny).
 
-The process the person who calculated the 3.2% chance based on his observations has a 96.8% margin of error, while you have a 0% margin of error. The person, in an attempt to replicate your success, but not knowing your process, will begin to run tests and keep notes as to what worked and what didn&rsquo;t work. He checks these notes every time he runs a new test to make sure he is not doing something that has been shown to fail. Once he discovers your process, he can archive the failed notes and simply describe the process that works. He does not need to record all the failures once he has discovered the process that works, but he does so as to pass them on to the next generation of researchers who will approach similar problems in the same bottom-up fashion.
+If all someone knew was the final result of one penny, but that you started out with 62 coins, they would say there is a 2:62, or 3.2%, chance of you ending up with a penny, when, in fact, you know there is a 100% chance of you ending up with a penny.
 
-Existence does not need to record its failures as it is the ultimate top-down approach, from the tholonic perspective. From the very first instance of creation, nothing progressed unless the previous process worked, i.e. new child tholons created from the stable patterns of the parent tholon. No reverse engineering is necessary for existence. If a branch of existence fails it will only fail up to the first successful parent. This is like saying that if all your nickels were swapped out for double-tailed nickels, then all flips after the nickels would come up as zero, killing the entire branch below nickels and preventing it from creating any new children. The quarters are still fine, and because you had decided to run the tests the way you did, you would need to get new nickels or some other coin in order to fix the problem. In the thologram, once a branch does fail, there is no longer any contributing feedback to the aggregate intelligence (exemplified here as the averaged results) of the parent of that failed branch, which will change the curve of the parent, resulting in a new type of stable pattern that can create new child tholons/branches.
+The process the person who calculated the 3.2% chance based on his observations has a 96.8% margin of error, while you have a 0% margin of error. The observer, in an attempt to replicate your success but not knowing your process, will begin to run tests and keep notes as to what worked and what didn&rsquo;t work. He checks these notes every time he runs a new test to make sure he is not doing something that has been shown to fail. Once he discovers your process, he can archive the failed notes and simply describe the process that works. He does not need to record all the failures once he has discovered the process that works, but he does so as to pass them on to the next generation of researchers who will approach similar problems in the same bottom-up fashion.
 
-In our example here, the person doing the flipping would be the intelligence that &ldquo;fixes&rdquo; the problem, but in the tholonic view, the experimenter is an instance of an aggregate intelligence (of the human tholon interacting with intelligence of the archetype of the experiment) which received feedback from the broken branch (bad results) that modified the curve (something&rsquo;s wrong) which resulted in a new stable pattern (new nickels). (I know this example sounds ridiculously trivial, but it&rsquo;s the simplest example I could think of.)
+Existence does not need to record its failures as it is the ultimate top-down approach, from the tholonic perspective. From the very first instance of creation, nothing progressed unless the previous process worked, i.e. new child tholons created from the stable patterns of the parent tholon. No reverse engineering is necessary for existence as it is an exclusively forward engineering process. If a branch of existence fails it will only fail up to the first successful parent. This is like saying that if all your nickels were swapped out for double-tailed nickels, then all flips after the nickels would come up as zero, killing the entire branch below nickels and preventing any opportunity for the dimes, half-dollars and pennies. The quarters are still fine, and because you want the tests to continue to work properly you would need to get new nickels in order to fix the problem. 
+
+In our example here, the experimenter doing the flipping is analogous to the intelligence that &ldquo;fixes&rdquo; the problem, but in the tholonic view, the experimenter is itself an instance of an aggregate intelligence (in our example that would be an instance of the human tholon interacting with intelligence of the archetype of the experiment) which received feedback from the broken branch (i.e. bad results) that modified the curve (realizing something&rsquo;s wrong) which resulted in a new stable pattern (new nickels). (I know this example sounds ridiculously trivial, but it&rsquo;s the simplest example I could think of.)
 
 <img src="../Images/102-tpaths.png" style="width:60%;margin:auto;" />
 
-A simple example more aligned to the tholonic model would be how we can emerge Bell curves from stable points in a lineage of trigrams. By assigning a value for points on the spectrum, and a binary value representing the generation of the trigram, we can create a unique value for every point that identifies its place on the spectrum and its level. If we combine each of these numbers, we can create one value for the entire lineage that has an extractable record of the chain of tholons and their spectrum&rsquo;s  value at every level. This one number would then act as a memory of all the ancestors. We can see this easily in simple binary math. If we have five generations of numbers that double with each generation, such as 1,2,4,8,16, and we have the number 22 representing the sum of all the contributing generations, we can easily determine that only the 2<sup>nd</sup>, 3<sup>rd</sup> and 5<sup>th</sup> generations contributed, because only 16, 4 and 2 can create 22. The tholons are similar in that each tholon has a fingerprint that is encoded in every one of its descendants.
+A simple example more aligned to the tholonic model would be how N-states emerge along the Bell curves from which N-sources create new trigrams. By assigning a value for points on the spectrum, and a binary value representing the generation of the trigram, we can create a unique value for every point that identifies its place on the spectrum and its level. If we combine each of these numbers, we can create one value for the entire lineage that has an extractable record of the chain of tholons and their spectrum&rsquo;s  value at every level. This one number would then act as a memory of all the ancestors. We can see this easily in simple binary math. If we have five generations of numbers that double with each generation, such as 1,2,4,8,16, and we have the number 22 representing the sum of all the contributing generations, we can easily determine that only the 2<sup>nd</sup>, 3<sup>rd</sup> and 5<sup>th</sup> generations contributed, because only 16, 4 and 2 can create 22. The tholons are similar in that each tholon has a fingerprint that is encoded in every one of its descendants.
 
-What this means is that everything that exists is *already* a record of what works from the first moment of creation, through every generation, up to and including the thing that exists. Life, Reality, and Everything *is* the warehouse of all knowledge. We just haven&rsquo;t yet figured out how to decode (most of) it. Appendix F,*"The Thologram and the I-Ching"*, specifically addresses this and shows exactly how each tholon has a naturally existing binary signature.
+What this means is that everything that exists is *already* a record of what works from the first moment of creation, through every generation, up to and including the thing that exists. Life, Reality, and Everything *is* the warehouse of all knowledge. We just haven&rsquo;t yet figured out how to decode (most of) it. Appendix F,*"The Thologram and the I-Ching"*, specifically addresses this and shows exactly how each tholon has a naturally existing binary signature. It may actually be the case that the thing itself ***is*** the value.  We think of numbers a digits, but some unfathomably complex and multidimensional reality perhaps the cumulative value of that plant is expressed not as numbers, but as the plant itself. 
 
 One possible instance of this idea is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants. In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^120] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome. Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
 
@@ -3538,6 +3566,14 @@ This is effectively the same distinction between *quantitative* and *qualitative
 
 This is metaphorically equivalent to something using its own properties to evaluate its own existence, not unlike the first dot that became aware of itself through the second dot, creating the two states of objective and subjective.  Remember, this is referring to the non-math contexts, so none of these claims are meant to apply to math.
 
+This is a good place to bring the reader back to an earlier section that looked at the relationship between gravity and consciousness.  In that section we showed how the gravitational field $g$ was a product of $G\times M_{1} \times M_{2}$, where (and these definitions are verbatim from the research paper[^178])
+
+> G = universal gravitational constant.
+> M~1~ = mass of the observing physical system (the observer).
+> M~2~ = mass of the observed physical system (the observed). 
+
+Here we have the very same concept of subjective/objective, quantitative/qualitative being used to define perhaps the most fundamental force in reality; gravity.
+
 Can we say that when something is squared, it is the objective measure of a subjective existence?  Can we see these two conditions, subjective and objective, as two dimensions of something's existence? We know that two dimensions defines an area, and we also know that when two equal 1-dimensions (lines) are at their two most contrasting position (90&deg;) they automatically define a third 1-dimension that is a multiple of $\sqrt{2}$.  
 
 <img src="../Images/squares.png" style="width:80%">
@@ -3933,3 +3969,6 @@ This is fantastically elegant is so many ways, and the recurring principle seems
 
 [^203]: These tests are: monobit frequency test, block frequency test, runs test, longest run ones10000, binary matrix rank test, spectzral test, nonoverlapping template matching test, overlapping template matching test, Maurers universal statistic test, linear complexity test, serial test, approximate entropy test, cumulative sums test, random excursions test, random excursions variant test, cumulative sums test reverse. These tests are provided by the National Institute of Standards and Technology as implemented by the program *testrandom.py* by Ilja Gerhardt, https://gerhardt.ch/random.php  The numbers published here are the result of the program "ent", a a pseudo-random number sequence test program by John Walker of Fourmilab Switzerland, https://en.wikipedia.org/wiki/John_Walker_(programmer)
 [^204]: Shiga, David. “**Lasers Could Make Virtual Particles Real.**” *New Scientist*, 17 Aug. 2010, www.newscientist.com/article/dn19327-lasers-could-make-virtual-particles-real/. Full PDF of "Physical Review Letter" available at https://www.researchgate.net/publication/46424619_Limitations_on_the_Attainable_Intensity_of_High_Power_Lasers/link/0deec517bda95ef500000000/download.
+[^205]: Tshitoyan, Vahe, et al. “Unsupervised Word Embeddings Capture Latent Knowledge from Materials Science Literature.” *Nature*, vol. 571, no. 7763, 2019, pp. 95–98., doi:10.1038/s41586-019-1335-8.
+
+[^206]: Weizmann Institute Of Science. "**Quantum Theory Demonstrated: Observation Affects Reality.**" ScienceDaily. ScienceDaily, 27 February 1998. <www.sciencedaily.com/releases/1998/02/980227055013.htm>
