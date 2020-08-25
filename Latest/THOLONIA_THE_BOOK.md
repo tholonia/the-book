@@ -1,5 +1,3 @@
-
-
 <img src='../Images/titlepage.png' style='width:100%;margin:auto'>
 
 <div style='font-size: 2rem; text-align:center;'>INTRODUCTION</div>
@@ -265,7 +263,13 @@ In fact, the definition of entropy is so varied that it is not uncommon for expe
 
 Here are just some of the different formulas used to define entropy, depending on how it is being defined:
 
-$ \begin{array}{l} S=Q/T\\ \Delta S=\Delta Q/T\\ \Delta S=( \Delta U-\Delta W/T\\ \Delta S=( \Delta H-\Delta F) /T\\ \Delta F=\Delta H-T\Delta S\\ S=-k\sum [ PiLog( Pi)]\\ S=k\log( N) \end{array}$
+$S=Q/T$
+$\Delta S=\Delta Q/T$
+$\Delta S=( \Delta U-\Delta W/T)$
+$\Delta S=( \Delta H-\Delta F) /T$
+$\Delta F=\Delta H-T\Delta S$
+$S=-k\sum [ PiLog( Pi)]$
+$S=k\log( N)$
 
 This is partly due to that fact there can be many conditions to consider, depending on the context (energy, volume, quantity, temperature, pressure, potential, etc.) Perhaps the best definition of entropy, as some scientists have claimed, is simply &ldquo;entropy is whenever the formula says it is&rdquo;.  OK, a bit post-modern, perhaps, but hard to argue with.  For our purposes, we will use the classical, albeit slightly inaccurate definition of entropy as a *measure of disorder*, where *disorder* is defined as the *lack of pattern in form or movement of energy*. This definition would then include the Big Bang (lots of energy, little little), as we all dead batteries (lots of structure, but little movement of energy).
 
@@ -322,6 +326,12 @@ People have been fascinated with this obvious commonality across all of creation
 #### **Claim 13:** Everything exists in a state of duality.  
 
 #### **Claim 14:** Everything sustainable oscillates.  
+
+<img src='../Images/rotation1.png' style='width:80%;' />
+
+*(Image from Grant Sanderson's video "But what is a Fourier series? From heat flow to circle drawings" at https://www.3blue1brown.com/) [JWFIX]*
+
+By the same token, everything, can see and hear, can be described as a collection of oscillations.  This was proven by the famous French mathematician Joseph Fourier (1768–1830) when he was researching how heat moves.  From his work came the famous and brilliant *Fourier Series* and *Fourier Transformation*.  The Fourier Series describes the hierarchical order of frequencies, or rotations, that would be needed to produce a specific output.  For example, the image above shows a portrait of Joseph Fourier being drawn by a pen at the end of a long series of oscillating circles, shown by the rotating arrows, each subsequent oscillation originating from the tip of the previous circle's arrow. The Fourier Transform is the math that can reverse engineer some collection of oscillations, such as music or a painting, and discover the recipe of its various frequencies and their quantities. By extension, this can apply to 3 (or more) dimensions as well.  
 
 Ratios like *e*, &phi; and &pi; are at the foundation of many patterns that define reality, and while any two instances of these ratios may not have a direct connection, they do share the fact that they are a product of that ratio.  We don&rsquo;t say a basketball is the same as a planet, but we do say they are both round, and anything we can say about roundness applies to both.  This may sound childishly simple, but when this is applied to the 2nd Law of Thermodynamics and, for example Ohm&rsquo;s  Law (which will be explained shortly), some trained physicists will claim they have nothing to do with each other.  
 
@@ -384,7 +394,7 @@ Ohm&rsquo;s law is just one of a number of contexts where Newton&rsquo;s 2<sup>n
 
 <img src='../Images/013-emc2-light.png' style='width:50%;' />
 
-Let&rsquo;s  look at an example of light.  If apply Ohm&rsquo;s  Law to light, we can say the velocity (i.e.  frequency) of light is equal to the speed of light divided by the wavelength, or $\displaystyle v =\frac{c}{w}$.  We know that the speed of light is 3$\times$10^8^ meters/sec, and we know that green light has a wavelength of 555 manometers, or 5.55x10^-7^ meters, so we can just do the simple math of $\displaystyle (3.0\times 10^{8}) /(5.55\times 10^{-7}) = (5.4054054\times 10^{14})$ to discover that green light has a frequency of 5.405 terahertz.  All we have to do to convert Ohm&rsquo;s  Law to some other (linear) domain is adjust our measurement for the context.  In this case, what was Ohms, which measures resistance, is now Hertz, which measure cycles-in-time.
+Let&rsquo;s  look at an example of light.  If apply Ohm&rsquo;s  Law to light, we can say the velocity (i.e.  frequency) of light is equal to the speed of light divided by the wavelength, or $v =\frac{c}{w}$.  We know that the speed of light is $3 \times 10^8$ meters/sec, and we know that green light has a wavelength of 555 manometers, or 5.55x10^-7^ meters, so we can just do the simple math of $\displaystyle (3.0\times 10^{8}) /(5.55\times 10^{-7}) = (5.4054054\times 10^{14})$ to discover that green light has a frequency of 5.405 terahertz.  All we have to do to convert Ohm&rsquo;s  Law to some other (linear) domain is adjust our measurement for the context.  In this case, what was Ohms, which measures resistance, is now Hertz, which measure cycles-in-time.
 
 All the formulas work out when:
 
@@ -397,7 +407,7 @@ All the formulas work out when:
 
 What does **power** in the context of light even mean? That is hard to say because it is not clear how the concept of power applies to light.  In electrical terms, *power* of defined as the rate of transfer of energy, and the less resistance and greater the current, the greater the power.  With light, that would be equivalent to saying the less velocity and the greater the wavelength, the greater the *power*.  
 
-For example, using these formulas we can calculate that high energy gamma rays with a frequency of 3.33 nanometers (3.33 $\times$ 10^-9^) has a *power* rating of 1, while an ultra-low frequency wave with a wavelength of 1000 kilometers has a *power* rating of 300,000,000,000,000 (3$\times$10^14^)!  For perspective, the Earth&rsquo;s  natural resonant frequency, the *Schumann resonance*, is 7.83 Hz, which is a wavelength of 33,830,000 meters (3.83$\times$10^7^), and a *power* value of 1.15$\times$10^16^, and green light as a *power* rating of 166.5.  
+For example, using these formulas we can calculate that high energy gamma rays with a frequency of 3.33 nanometers ($3.33 \times 10^-9$) has a *power* rating of 1, while an ultra-low frequency wave with a wavelength of 1000 kilometers has a *power* rating of 300,000,000,000,000 ($3\times10^{14}$)!  For perspective, the Earth&rsquo;s  natural resonant frequency, the *Schumann resonance*, is 7.83 Hz, which is a wavelength of 33,830,000 meters ($3.83\times10^7$), and a *power* value of $1.15\times10^{16}$, and green light as a *power* rating of 166.5.  
 
 This initially seems odd because we know that the less the velocity and greater the wavelength, the less energy light has, but our power calculations say the exact opposite, as if the less energy the light has the more *power* it has.  This is because the energy that that we say light has is referring to the energy contained in the photon itself, not the *transference* of that energy, and as we saw earler, power is defined as &ldquo;the rate, over time, at which energy is **transferred**&rdquo;.  When we examine electromagnetic energy we can easily see that the lower frequencies are much better and transferring energy, even though they have less energy to transfer.  
 
@@ -1270,7 +1280,7 @@ The above was a somewhat circuitous route to get to this point of looking at kno
 
 How would we begin to test such an idea?  We can start in the same way we would test the idea of a tetrahedron, by deconstructing it into its even more basic component, the triangle, and if we can discover a triad of information, we can form a tetrahedron of knowledge.
 
-Let&rsquo;s look as some example of how we can identify conceptual trinities in systems of knowledge and/or information.
+Let&rsquo;s look as some example of how we can identify conceptual trinities in systems of knowledge and/or information. 
 
 ### Language
 
@@ -1416,9 +1426,11 @@ This, like all trigrams, can be self-similar fashion, i.e.  a Freytag Pyramid ma
 
 ## Reduction
 
-the overarching ideas here is that every model can be described by a self-similar set of three axis.  This is not arbitrary, as we claim that any system can be reduced to, and described by, a collection of *information primitives* (triplets or trigrams).  From these essentially 2-dimensional *information primitives* (in that they can be described with only three points) we can build *knowledge primitives* that are tetrahedral (3D) in concept.  
+The overarching ideas here is that every model can be described by a self-similar set of three axis.  This is not arbitrary, as we claim that any system can be reduced to, and described by, a collection of *information primitives* (triplets or trigrams).  From these essentially 2-dimensional *information primitives* (in that they can be described with only three points) we can build *knowledge primitives* that are tetrahedral (3D) in concept.  
 
 Furthermore, we hope to demonstrated that these three axis are essentially three different perspectives of one state.  An example of this is how unmanifest energy is expressed as four different properties of volts, ohms, and amps, which are them capable of describing a fourth property it instantiates within the context and scope of sub-atomic particles.  These 3+1 primitives are represented as a tetrahedron.  We go even further and claim that the 3+1 dimensions of our reality (X,Y,Z, + time), is itself the most fundamental expression of this same model.  
+
+ We will return to some more in-depth examples after some exploration into these concepts.
 
 ## Info-atoms
 
@@ -1490,11 +1502,11 @@ As both dots are aware of their own dotness and of the other&rsquo;s dotness the
 
 We now have the two poles of the first polar-duality that was created within the non-polar duality of nothingness and somethingness.  This polar-duality might be described as that of *unlimited awareness/limitation of awareness*, *subjective/objective,* or a number of other possible descriptions depending on what properties one sees in the green and red dots.  We will use the colors of blue, green and red to symbolize the attributes of these dots.  Here they are described and listed in their order of instantiation.
 
-<img src='../Images/dot-blue.png' style='width:0.23in' />The 1<sup>st</sup> blue dot represents the initial or parent 0-dimensional dot that has no ability to create dimension and exists only as a concept of awareness.  This is the dot that defines the simplest form of existence as pure awareness.
+<img src='../Images/dot-blue.png' style='width:0.23in' />The 1<sup>st</sup> blue dot represents the initial or parent 0-dimensional dot that has no ability to create dimension and exists only as a concept of awareness.  This is the dot that defines the simplest form of existence as pure awareness. it is equivalent to the number 0 as it is the concept of nothing.
 
-<img src='../Images/dot-green.png' style='width:0.23in' />The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot.  This dot can add 1 dimension to 0-dimensions and defines separation and division, creating the conditions of subjective and objective, and consequently the idea of self-awareness as a result of a state of awareness with respect to another state of awareness.
+<img src='../Images/dot-green.png' style='width:0.23in' />The 2<sup>nd</sup> green dot represents the first-generation dot created by the blue dot.  This dot can add 1 dimension to 0-dimensions and defines separation and division, creating the conditions of subjective and objective, and consequently the idea of self-awareness as a result of a state of awareness with respect to another state of awareness. This is equivalent to the number 1, and by extension, all non-complex numbers.
 
-<img src='../Images/dot-red.png' style='width:0.23in' />The 3<sup>rd</sup> red dot represents where the blue dot and the green dot interact.  The 3<sup>rd</sup> dot is always created as a pair, one for each of the opposite states of blue dot-green dot interactions.  This dot can add 1 dimension to an existing 1-dimensional space and defines the concept of *scope* and *area* as a result of the *union*.  
+<img src='../Images/dot-red.png' style='width:0.23in' />The 3<sup>rd</sup> red dot represents where the blue dot and the green dot interact.  The 3<sup>rd</sup> dot is always created as a pair, one for each of the opposite states of blue dot-green dot interactions.  This dot can add 1 dimension to an existing 1-dimensional space and defines the concept of *scope* and *area* as a result of the *union*.  This is equivalent to 2-dimensional numbers, or complex numbers, such as $i=\sqrt{-1}$.
 
 Now a perfect trigram exists, but so do three others.  It seems that from here on we can&rsquo;t make just one trigram without three additional trigrams coming into existence.  Instantly we have an infinite loop of self-similarity.  From the tholonic perspective, the instantiation of this concept of instant expansion was instantiated when an atom-sized point representing all matter in existence quickly expanded to fill the universe, at least according to the Big Bang Theory.
 
@@ -2271,6 +2283,58 @@ The functional part of calculus exists between the **Differentiation** and **Int
 
 Perhaps there is a way to apply calculus to non-mathematical systems, like psychology, society,law, etc.?  This is far beyond my abilities, but I imagine it would look something like the calculus used in such things as Game Theory or the Nash Equilibrium (John Forbes Nash Jr.  was an American mathematician who created the Nash Equilibrium, for which he awarded both the Nobel Memorial Prize in Economic Sciences and the Abel Prize.  He was the subject of the movie &ldquo;A Beautiful Mind&rdquo;).
 
+## Stock Exchange
+
+The stock market also operates tholonically and as it is so well studies and understood, it offers insights into the mechanics of the thologram in general.  In fact, the stock market, and perhaps economy in general, is one of the best instances of tholonic processes. This is not surprising as economics is as organic and natural an archetype as is any life form. 
+
+The stock market is an aggregate of numerous values that are determined by the two constantly opposing forces of buying and selling.  While there may be many influential factors that drive those forces, the authoritative value in any one moment of time is a clear and indisputable number that has been agreed upon.  These opposing forces are illustrated in the chart below, where it shows the *depth* of each force and the ever-moving point where they cooperatively meet.  The X-axis is money, and the Y-axes is volume. 
+
+<img src='../Images/depthchart.png' style='width:80%;margin:auto;' />
+
+The record of these changes is what we recognize as a classic stock market chart.
+
+<img src='../Images/3-30-min.png' style='width:100%;margin:auto;' />
+
+You'll notice the chart is not made up of dots, but of what are called *candlesticks*.  The candlestick is a very clever way to show information and was created by the Japanese in the 17^th^ century for the rice markets, and it is very applicable to the thologram.  The candlestick record is also called the HOCL bar because it records the  hi, open, close and low prices for a given period of time.
+
+<img src='../Images/candlestick.png' style='width:50%;margin:auto;' />
+
+Why this is relevant is because each candlestick shows the two maximum opposing values valid for the time period. These would be the highest and lowest prices.  These two prices define the spectrum within which any cooperation *could* exist. The START and END prices represent the area within that spectrum where a cooperation *does* exist. As you can see by the 3 minute and 30 minute charts above, the spectrum and the agreements can vary wildly. Both of those scale are of the same asset and start at the same time. Equally significant is that what is ascending on the 3-minute scale can also be descending on a different scale. Of course, if we showed the two scales in proportion, you could see the the 3 minute scale agrees with the 30 minute scale, but that is irrelevant if the context of the trader is 3 minutes, not 30 minutes. 
+
+Another interesting process is how multiple candlesticks can be added together. The graph below shows two candlestick of some time period ($t$), which when added together show show the aggregate of those two candlesticks.  That aggregate is equal to the single candlestick of $t\times 2$. So, if you want to see the aggregate of 64 1-minute period candlesticks you just need to look at the one candlestick of one 64 minute period. 
+
+<img src='../Images/candlesticks.png' style='width:50%;margin:auto;' />
+
+
+
+What was just explained is exactly how tholons works as well. If that is so, then we should be able to apply some of the laws of the tholon onto market data.  If we were to use one of the simpler laws, such as Ohm's Law, we get the graph below (all data normalized to a scale of 0-1 and shows a moving average of Bitcoin/U.S. Dollar trades).  But what values would we use?  Fortunately, the choices seem obvious.
+
+- **Volts** (blue line) is defined as the potential between the high and the lowest charge, so the **highest and lowest bids** would fit perfectly here.
+
+- **Amps** (orange line), or current, is the volume of electrons in play and one moment, so volume of trades would seem to apply here.
+
+- **Power** (green line) is defined as $Power=volts \times current$, so we have to calculate the the power value here as $Power=price\ range \times trading\ volume$, even though I don't know what this would represent at this point. 
+
+- **Resistance** (maroon line) is also calculated, but we know that this value must equate to the agreed upon **price**, but it doesn't, as we have the actual price (yellow line) on record and it is not the same.  This number is called the **Balanced Price**, as it represents the price that is perfectly matched to the volume and the price range.
+
+<img src='../Images/ma-resistance.png' style='width:100%;margin:auto;' />
+
+The light blue line on top of the maroon line shows two lines that represent the balanced price, but were arrived at in two different ways;  $\frac{Range}{Volume}$ and $\frac{Power}{Volume^2}$, just to ensure they matched as expected.
+
+However, we can't trust our eyes.  The following chart shows the results of testing for randomness in a file made of over two years of hourly trade data using the same process.  The more *compressible* the data, the more pattern and order it has.  Also included are other random test scores, and as you can see, all indicators show that the generated data using Ohm's Law has more pattern that the source data.
+
+<img src='../Images/compressible.png' style='width:80%;margin:auto;' />
+
+What is surprising about this is that one might assume that one thing that has $X$ amount to randomness added to another thing with $Y$ amount of randomness they would result in something that is *more* random, but here it looks like it is *less* random. Isn't that like throwing two handfuls of sand onto the grounds, and wherever they overlap there is a picture of a flower?
+
+While this may not set Wall Street on fire, for our purposes it is very interesting to see that the *balanced price*, which is derived from the market data, has a pretty clear and predictable pattern, and from data that arguably has only a trivial, or no, relationship to each other i.e. the amount of assets traded and the range in which their prices were agreed upon. The yellow line is the actual price that took place (and the most random), and the only obvious relationship is that *balanced price* appears to move somewhat contra to both the actual price and the trading volume.  
+
+Approaching this tholonically, we'd say that the balanced price will always represent the optimum relationship between volume and price range, both of which are always changing.  However, the actual traded price rarely reflects that relationship.  Consequently, the other variables in play will naturally adjust because (hypothetically) all three variables of price, volume, and range are actually three perspectives of one thing, one instance, one tholon.  Below, the upper chart shows the actual price (blue line) and the balanced price (orange line). Both values have been adjusted to a moving average for the day and normalized to a scale of 0-1.  Each vertical line represents one day and the 24 hourly candlesticks of that day.  The first thing you can see is how the balanced price remains within a tight and consistent range, while to actual price wanders all over the place.  The middle chart shows the same two lines, but the balanced price vales are added on top of the actual price values. We would have to assume that sometimes the force of the balanced price affects the actual price (by effecting changes in the other variables), and sometimes the actual price affects the balanced price due to the forces of the other variables effect on those variables. The bottom charts shows the two line on the same scale. Most notably the two line appear to counteract each other, pulling and pushing the actual price as if it was acting as a force of *resistance*.  This is especially interesting as the differencces between the two lines, as we can see in the middle chart, appear very minor.
+
+<img src='../Images/balpri-close.png' style='width:100%;margin:auto;' />
+
+I have no doubt that serious research would yield interesting results. From the tholonic perceptive, knowing that perhaps the stock market, music, story telling, batteries, electrical circuits, and much more, all have a correlation is interesting, but suggesting they are all effects of a higher-order cause is much more interesting.
+
 ## Consciousness
 
 The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid in it their paper &ldquo;*Objects of consciousness*&rdquo; [^202] can&rsquo;t be ignored.  What also can&rsquo;t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first publication of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.) 
@@ -2447,7 +2511,7 @@ There are countless examples of tholonic cooperation and competition, and some o
 <div style='page-break-after: always; break-after: page;'></div>
 # 9: FIELDS
 
-If tholons are themselves forms of information then we come back to the question, &ldquo;Where is this information stored?&rdquo;
+If tholons are themselves forms of information then we come back to the question, &ldquo;Where is this information stored?&rdquo; This is a question that has been pondered for ages. One example would be the somewhat Buddhist concept (in that it was coined by a Buddhist in 1884, but adopted by other beliefs) called the *Akashic Records* which is said to be &ldquo;a compendium of all human events, thoughts, words, emotions, and intent ever to have occurred in the past, present, or future". This might be a bit ambitious for our purposes, but the idea is essentially the same… that of a ubiquitous, timeless non-physical record of (at least) all aggregate thought forms. If our claim is that this also describes the thologram, then where and how does it store this data?
 
 Let&rsquo;s review…
 
@@ -2551,7 +2615,7 @@ For example, rather then the MF case of, say, ideas that spread to humans throug
 
 These are just some of the changes that permanently altered the direction of growth for many archetypes and their instances, and consequently, our understanding and perception of reality.  
 
-It is a small step from here to presume that with even a little understanding of reality, the tholonic model could easily &ldquo;predict&ldquo; future discoveries.  This has already happened to some degree when in one of numerous cases a self-learning AI that scanned only the words (which are themselves tholonic archetypes) and &rdquo;realized&ldquo; that the concepts labeled *chalcogenide*, *optoelectronic*, and *photovoltaic applications* had a high probility of creating a new concept of a thermometric archetype that the AI called *CsAgGa~2~Se~4~* .  That was in 2009.  In 2012, that compound was discovered.  
+It is a small step from here to presume that with even a little understanding of reality, the tholonic model could easily &ldquo;predict&ldquo; future discoveries.  This has already happened to some degree when in one of numerous cases a self-learning AI that scanned only the words (which are themselves tholonic archetypes) and &rdquo;realized&ldquo; that the concepts labeled *chalcogenide*, *optoelectronic*, and *photovoltaic applications* had a high probility of creating a new concept of a thermometric archetype that the AI called *CsAgGa~2~Se~4~*[^205] .  That was in 2009.  In 2012, that compound was discovered.  
 
 ### Ideas
 
@@ -2888,18 +2952,22 @@ A simple example more aligned to the tholonic model would be how N-states emerge
 
 What this means is that everything that exists is *already* a record of what works from the first moment of creation, through every generation, up to and including the thing that exists.  Life, Reality, and Everything *is* the warehouse of all knowledge.  We just haven&rsquo;t yet figured out how to decode (most of) it.  Appendix F,*&ldquo;The Thologram and the I-Ching&rdquo;*, specifically addresses this and shows exactly how each tholon has a naturally existing binary signature.  It may actually be the case that the thing itself ***is*** the value.  We think of numbers a digits, but some unfathomably complex and multidimensional reality perhaps the cumulative value of that plant is expressed not as numbers, but as the plant itself.  
 
-One possible instance of this idea is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants.  In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^120] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome.  Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
+This is similar in concept to the way a piece of music is the combination of many *atoms* of sound (yes, that's a real thing, and it's about 0.093 seconds[^211]), each an aggregate of many individual frequencies.  Over time, these frequencies change (unless the sound never changes). Within the information of those sounds can be more information.<img src='../Images/wavetypes.png' style='width:100%;margin:auto;' />
+
+The resulting waveform contains only and every frequency that was required for it to exist. Once we learned how to read that waveform using such concepts as the Fourier Transform we were able to discover all of its components. In the example of "Hidden Information" above, the image made by the *history* of the sound tells us much more than just the entire history of that sound and all of its ingredients.  (for more examples, see Appendix G, "*Hidden Images*")
+
+One possible, yet small instance of this idea of reality of the moment is the record of its history as well is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants.  In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^120] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome.  Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
 
 In this case it would probably be more accurate to show Bell curves as Gaussian curves that show the distribution of Brownian movement.  Below are three examples of Brownian movement and a typical distribution curve of the values that define that movement.  This is the movement of such things as the stock market, the path traveled by an amoeba, the motion of pollen grains on still water, diffusion of calcium through bones, movement of &ldquo;holes&rdquo; of electrical charge in semiconductors, and, as we&rsquo;ll soon hypothesize, the paths of predeterminism.
 
 <img src='../Images/brownian.png' style='width:100%;margin:auto;' />
 
 <div style='page-break-after: always; break-after: page;'></div>
-# 10: CASES & EXAMPLES
+# 10: RELEVANT EXAMPLES
 
 ## Mythology
 
-It may sound childish or even superstitious to suggest that archetypes can have intentions that can result in conflicting and/or cooperative relationships, which implies allies and enemies, and therefore some sort of diplomacy and politics.  To a certain degree, it is childish, in the sense that it leaves so much open to the imagination. Beliefs quickly fill in the blanks of our limited understanding of the mechanics of the elements of awareness, intention, and intelligence.  This is what leads to the reasoning of myth and religion.  However, it is the tholonic view that the ancient myths were a way to understand the workings of the reality (or perhaps tholons are a way to understanding the workings of the gods?).  The interactions of the gods and that of archetypes are quite easily comparable, as seen in the chart below.  Myths are *childish* as well in the sense that they represent an early form of intuitive understanding, similar to a child&rsquo;s, but within the thologram there is plenty of what we would call drama as a result of archetypal characteristics we can see in the gods… and man.  
+It may sound childish or even superstitious to suggest that archetypes can have intentions that can result in conflicting and/or cooperative relationships, which implies allies and enemies, and therefore some sort of diplomacy and politics.  To a certain degree, it is childish, in the sense that it leaves so much open to the imagination. Beliefs quickly fill in the blanks of our limited understanding of the mechanics of the elements of awareness, intention, and intelligence.  This is what leads to the reasoning of myth and religion.  However, it is the tholonic view that the ancient myths were a way to understand the workings of the reality (or perhaps tholons are a way to understanding the workings of the gods?).  The interactions of the gods and that of archetypes are quite easily comparable, as seen in the chart below.  Myths are *childish* in the sense that they represent an early form of intuitive understanding. The Gods are and their unending drama are understood as anthropomorphized concepts of the tholonic archetype and their in interactions. To get a general idea on the Mexican-soap-opera-on-steroids that was the life of the Gods, see appendix F, "Greek Gods".  It is short, and quite entertaining.
 
 *(Note: On the left is the lineage of the Greek Gods according to Gaius Julius Hyginus, a scholar born in 64 B.C.  On the right is one of many archetypes that represents the deity on the left.)*
 
@@ -2917,7 +2985,7 @@ The answer to &ldquo;Why&rdquo; to the question of the Cambrian explosion, or an
 
 ## Maharishi Effect
 
-There have been many experiments on how thought affects external reality, but most have not been subjected to scientific scrutiny.  This does not mean they are not valid by any means.  Given the general direction of mainstream science, I doubt we&rsquo;ll be seeing much real investigation into the subject.  However, one study that stands out is the research report *&ldquo;Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.  C.: Results of the National Demonstration Project, June-July 1993&rdquo;*[^121] published in the journal *&ldquo;Social Indicators Research.&rdquo;*
+Given the general direction of mainstream science, we do not see a lot of investigation into how thought affects external reality, but some do exist[^218][^219].  We will look at one research report here, *&ldquo;Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.  C.: Results of the National Demonstration Project, June-July 1993&rdquo;*[^121] published in the journal *&ldquo;Social Indicators Research.&rdquo;*
 
 This study, which was monitored by a 27-member project review board comprised of independent scientists and leading citizens, found that there was a significant statistical result.
 
@@ -2957,12 +3025,20 @@ There are other studies that conclude the exact opposite, such as Dr.  Byrd&rsqu
 
 The difference between the coherence of Transcendental Meditation and prayer is the former follows a very specific set of rules, has a beginning, a middle and an end, has a clearly defined non-personal target subject, and never attempts to force change.  Prayer can follow these same rules, but it rarely does because there are no rules to prayer and varies greatly depending culture, tradition, perspective, intention, etc.
 
-An example of coherent prayer is a practice used by the not-so-secret society of the *Order of the Rosy Cross*, or *Rosicrucians*.  Members who have reached a certain level of initiation are introduced to a schedule of &ldquo;prayers.&rdquo; This is a globally synchronized schedule of times when people are requested to focus their energy on a particular topic, such as health or family or finances, and ina specific manner.  If one is not in need, they send their benevolence into a &ldquo;pool&rdquo; of energy specific to that topic.  If one has a need in these areas they can join in at the scheduled times and &ldquo;tap into&rdquo; that pool.  This is a very coherent technique because it has specific archetypal and sustainable patterns of energy, and it (reportedly) works surprisingly well.
+An example of coherent prayer is a practice used by the not-so-secret society of the *Order of the Rosy Cross*, or *Rosicrucians*.  Members who have reached a certain level of initiation are introduced to a schedule of &ldquo;prayers.&rdquo; This is a globally synchronized schedule of times when people are requested to focus their energy on a particular topic, such as health or family or finances, and in a specific manner.  If one is not in need, they send their benevolence into a &ldquo;pool&rdquo; of energy specific to that topic.  If one has a need in these areas they can join in at the scheduled times and &ldquo;tap into&rdquo; that pool.  This is a very coherent technique because it has specific archetypal and sustainable patterns of energy, and it (reportedly) works surprisingly well.
+
+The effect of the *Consciousness Field*, as it is referred by Roger Nelson of Princeton University and director of the *The Global Consciousness Project* (http://noosphere.princeton.edu/), is not limited to humans, but can affect matter [^212] and machines[^213].
 
 ## Other Experiments
 
 Here is a very short list of books and papers that delve into experiments and perspectives that supports some of the tholonic claims:
 
+- *Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation.*[^212]
+
+- *FieldREG Anomalies in Group Situations*.[^213]
+
+-   *Test of a field theory of consciousness and social change*. [^218]
+-   *International Peace Project in the Middle East: The Effects of the Maharishi Technology of the Unified Field.*[^219]
 -   *The Intention Experiment,* Lynne McTaggart
 -   *Groundbreaking New Results in Consciousness, Quantum Brain & Nonlocality Research,* Maoxin Wu
 -   *Conditioning of Space-Time: The Relationship between Experimental Entanglement, Space-Memory and Consciousness.  Journal of Nonlocality Round Table Series, Colloquium \#4*, Rajendra Bajpai and +2
@@ -2976,7 +3052,58 @@ Here is a very short list of books and papers that delve into experiments and pe
 -   *Eleonore Zugun: the Re-Evaluation of a Historic RSPK (Recurrent Spontaneous Psychokinesis) Case*, Peter Mulacz
 -   *Intention,* Jeanne Lim
 
-<div style='page-break-after: always; break-after: page;'></div>
+## Are Archetypes Alive?
+
+If ideas are archetypes that have energy and fields, then it would be reasonable to think that an idea could be reinforced and strengthened by adding more energy to it.  How would one go about adding energy to an idea? If awareness is energy, then one obvious way would be to simply increase the awareness that an idea is exposed to.  This sort of thing is done all the time.  Take, for example, National Prayer Day in the U.S. (May 7th) when the President signs a proclamation encouraging all Americans to pray on this day and “to turn to God”.
+
+Now, imagine the potential power of 114,000,000 consciousnesses all being exposed to the same symbolism at the same time. This is exactly what happened during the broadcast of Super Bowl XLIX, but unlike National Prayer Day where the participants voluntarily focused their awareness towards one idea, it was more like a National Mind Harvesting Minute of the awareness of the 114,000,000 unwitting spectators.  Unlike the barrage of commercials and propaganda we are subjected to on a daily basis, this particular event was unique. According to a very suspicious article[^214] that was written by a conveniently anonymous designer who claimed to have once worked in the graphics department of a huge media company, out of boredom and his opposition to the then administration of President Bush, he deliberately hid pyramid eyes, pentagrams, and symbols from John Dee, the infamous sixteenth century occultist to the Queen of England, into the intro and promo videos for everything from war events to major sports events, including Super Bowl XLIX. Ignoring the question of why the designer thought secret occult symbols were a good choice to subliminally oppose President Bush, it was not the claim that was suspicious, as with just a little investigation his claims can be confirmed, but that this published article, which appeared overnight on over 36,000 websites, conveniently provided a “plausible deniability” defense for the media companies when Internet sleuths were discovering these symbols. regardless of the intentions of those responsible, the effect was that a tremendous amount of awareness, albeit unconscious awareness, was pumped into these images; images that have existing archetypes, and therefore, according to the tholonic model, their own awareness, intention and intelligence. 
+
+Considering the average American youth spends 900 hours a year in school, and another 1,200 hours a year watching television, and that 70 percent of the American adult waking life is spent in front of digital media, [^224] and that the average 78.6 year old American will spend nine years of his life watching TV, two years of which is just watching commercials, we talking about a tremendous amount of awareness up for grabs. How is that currently being used? 
+
+The more pessimistic reader might begin to suspect that the manipulation of awareness as energy is perhaps already well understood by some perhaps less than noble folks. Other may think this is bordering on mystical conspiracy theories.  Our intention is not to support either of these ideas, but to suggest that ideas have a life of their own. This include ancient, even if they seem to have been forgotten by modern society.
+
+We have the ability to tap into these archetypal realities whenever we like or need, and often do unconsciously. This is the purpose and power of myths, be they ancient or modern. As these archetypes originate in the uninstantiated tholonic state, they are free from the limitations of our space-time reality, and therefore they are eternal, or at least, long-lived. The myths and beliefs of the ancient past continue to live on in ever-evolving meaning and symbolism that promote their existence, almost like a self-mutating virus. This is the source of talismanic, totem or symbolic “magic” and the invoking of deities, intelligences, energies, be they “good guys” or “bad guys” (although it’s often hard to tell them apart).
+
+Much of our everyday culture is inextricably bound to these archetypes and thereby further empowering them, usually without our knowledge. Jung described these archetypes as “ordering factors in the collective unconscious”. There are the twelve archetypes of the human psyche organized into four cardinal types, which we described earlier. 
+
+For example, the modern word “hell” comes from the ancient Norse goddess named *Hel* whose job it was to not only judge the dead but also help the apocalypse along by leading an army of the dead in a ship made of the fingernails of corpses.
+
+The concept of Hell, or whatever it happens to be called, is deeply ingrained into the worldview of billions of people who have little knowledge of the roots of their beliefs. These believers, through the energy of their awareness, bring into creation associated or parasitic archetypes that are attached to primary archetype which they are completely unaware of, but which are energized by that awareness nevertheless. While this can't be proven, I suspect that the more people who believe in hell, the more empowered and manifest the concept of an apocalypse. The ironic part is that believing in the traditional Christian or Islamic heaven by default empowers their concept of a hell, as they are presented as two side of one state, the afterlife.
+
+What we have referred to as an uninstantiated tholon can, al least in this context, be an archetypes as a form of *metameme,* which is a form of a *meme* that only exists in the collective unconscious and/or in the world of archetypes, the thologram. If a meme is “an idea, behavior, style, or usage that spreads from person to person within a culture, then a metameme is an “an idea or belief formed within the tholonic field (i.e. universal mind,  collective unconscious, morphic field, etc.) and spreads from tholonic field to tholonic field”.   You make have heard phrases like  "If it looks like a duck, and quacks like a duck, its probably a duck.", or "When you hear hooves, think horses, not zebras.", or "The simplest explanation is most likely the right one", otherwise known as *Occam's Razor*. Applying the wisdom of these practical practices, what are we to make of the fact that research out of Princeton University supports the theory that ideas, in the form of social media networks, follow the same growth models as viruses (in the form of diseases.)?[^215] Outside of the conclusion that perhaps Facebook is actually a viral disease, it tells us that ideas follow the same patterns as existing natural patterns of growth, suggesting we might learn more about the life of archetypes if we considered them living.  OK, viruses *may* not be &ldquo;alive&rdquo;, but I say *may* because some experts in the field are redefining &ldquo;life&rdquo; to include viruses. [^216] [^217] Regardless, the growth, survival and creation of ideas follow the same patterns as everything else that grows, survives and creates. For this reason, a clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a leading geophysicist and founder of the Center for Bio-Earth Planetology, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms.
+
+This idea, however, has a dark side to it because so many of our beliefs are manipulated and controlled by others whose agenda is less than altruistic, hidden, and who are aware of the mechanics of reality and consciousness. From the most powerful laser in the world named after the Hindu god of destruction to trivial tarot cards based on movie stars, we can find countless examples of how these imposed archetypes infiltrate our understanding of the world.
+
+So, what kind of world are we creating with our awareness, desires, and beliefs, as a planet? To find out, I wrote a mobile phone app that allows people to send out into the universe either a blessing or a curse.  The app was (unsurprisingly) called "Bless or Curse".
+
+The majority of both blesses and curses are about…wait for it…love, money, and health (surprise!). Some were touching, such as the blessing of “May he win lotto,” cast upon the bus driver who “stopped just for me”. Some are bizarrely dark, such as the curse of “Torture Rape Murder die die die die die,” cast upon Noisy Walgreen Employees.
+
+Humanity seems to be pretty well split down the middle between the *blessers* and the *cursers*, as you can see by this report map below. In general, it tends to waver back and forth just around the 50/50 mark. 
+
+<img src='../Images/ondamap.png' style='width:70%;' />
+
+Like a marble balanced on the top of a mountain, the slightest tilt toward on one side or the other can reverse the direction the future will roll. Even one thought, one blessing or curse, one act of love or hate, can shift the balance for all, according to the research.
+
+## Tulpas
+
+Oddly, one of the better legends of how ideas can take on a life of their own comes form the well-known book *Magic And Mystery In Tibet in 1932*, by Belgian-French explorer Alexandra David Neel.
+
+If one is to believe the writings of this Belgian-French explorer then we must consider the power and potential of what science today considers irrational and impossible.
+
+ dressed as a beggar with only a compass, money (for ransom in case she was kidnapped) and a gun, snuck in to Lhasa, Tibet that was forbidden for foreigners to enter,
+
+In the Far East there is the concept of a *tulpa*, which is a type of thought-form. They are understood to be a sentient consciousness that resides in the brain of the host and can have separate feelings, thoughts, and memories from the host and can communicate through thought, imagination, feelings, or verbally. With enough practice and concentration, the host can see the tulpa’s form in the real world, and for the truly advanced *tulpamancer*, can be seen by others as well. Of course, this is an preposterous ides to Western thinkers. Alexandra David Neel was a woman of remarkable courage. She recounts how the only way she could enter the forbidden (to foreigners) city of Lhasa, Tibet, was to sneak in dressed as a beggar carrying only a compass, money (for ransom in case she was kidnapped) and a gun. She was also known for her sound scientific thinking and her opinions and observation carried weight in academic and scientific circles. Doctor A. D’Arsonval, a member of the French Academy of Sciences, The Academy of Medicine, professor at the College of France and president of the Institute of General Psychology, said of Alexandra David-Néel:
+
+> This well-known and courageous explorer of Tibet unites in herself all the physical, moral and intellectual qualities that could be desired of one who is to observe and examine a subject of this kind.[^223]
+
+So when she described how she used the techniques taught to her by the Tibetan magicians to conjure up her own *tulpa*, it is not as easy to discard them as pure fantasy. In her case, she manifested a short, pudgy, jolly monk, as per her intentions.  Perhaps even more interesting was that this tulpa, once it began to be visible to others, began to have its own free will, a life of its own; the jolly, fat monk began to grow lean and taller, and less jolly. It eventually became a major problem for her, and she had to spend six months “dissolving” it. As she states:
+
+> The fat, chubby-cheeked fellow grew leaner, his face assumed a vaguely mocking, sly, malignant look. He became more troublesome and bold. In brief, he escaped my control. I ought to have let the phenomenon follow its course, but the presence of that unwanted companion began to prove trying to my nerves; it turned into a ‘day-nightmare.’ Moreover, I was beginning to plan my journey to Lhasa and needed a quiet brain devoid of other preoccupations, so I decided to dissolve the phantom. I succeeded, but only after six months of hard struggle. My mind-creature was tenacious of life. There is nothing strange in the fact that I may have created my own hallucination. The interesting point is that in these cases of materialization, others see the thought-forms that have been created.
+
+Whether tulpas exist or not is left to the reader. The point is that the belief that ideas can take on a life if their own is neither new nor unique.
+
+On a related note, keep an eye on the research into what is essentially the collective consciousness of artificial intelligence, or *A.I. Swarms*, as they are called,[^220][^221]and the early attempts to create artificial humans.[^222] Science and technology is attempting to create their own tulpas, and one day they may also prove to be “more troublesome and bold, escaping our control.”
+
 # 11: PREDETERMINISM
 
 Remember the explanation of how a lightning rod works?  It simply creates a path of least resistance between two different states that seek balance, and, as energy always travels the path of least resistance, lightning will always seek the lightning rod over a brick chimney.  We can say that the path of the lightening was predetermined before it even began, but it would be more accurate to say that the lightening only came into existence because such a path even existed in the first place.  In other words, the instance of lightening is a consequence of the preexisting energy fields.
@@ -3207,7 +3334,7 @@ What could our creators possibly want from us? Well, why do we create new forms 
 
 When it comes to making rational decisions, AI is much better than humans.  Based on this, can we then speculate &ldquo;Our reality was created to efficiently optimize the higher order of reality based on our creators understanding of the laws of creations and existence in a manner based on strict forms of logic and reasoning?&rdquo;
 
-If we look at the crazy and irrational antics of the mythological gods, humans are considerably tamer and more disciplined by comparison, and when it comes to making rational decisions Mankind is much better than the gods, so perhaps our purpose is to accomplish what our creators cannot.
+If we look at the crazy and irrational antics of the mythological gods (see appendix G, *Greek Gods*), humans are considerably tamer and more disciplined by comparison, and when it comes to making rational decisions Mankind also seems to be better qualified than the gods, so perhaps our purpose is to accomplish what our creators cannot.
 
 As the AI of the gods, are we providing solutions to problems our creators, whatever form of intelligence they take, are incapable of developing themselves? Perhaps life is simply a viability test bed, an experimental sandbox.  Who knows?
 
@@ -3300,9 +3427,9 @@ In the course of writing this book there was the need to generate sets of number
 
 Numbers were generated by periodically calculating the longitudinal position of the Sun and the Moon (from Earth&rsquo;s coordinates of -34.61262S, -58.41048W, Buenos Aires, Argentina on the 24^th^ of each month at 5:31:07 PM UT) down to 10^-15^  radians.  The individual digits of these two values were then concatenated, or cross-summed.  For example, the Sun&rsquo;s longitude in radians at one moment was 4.2430033683776855, and the Moon&rsquo;s position at that same moment was 2.399298667907715.  These were then cross-summed until they are reduced to a single digit value.
 
-$  \begin{array}{l} 4+2+4+3+0+0+3+3+6+8+3+7+7+6+8+5+5\ \ +\ \ 2+3+9+9+2+9+8+6+6+7+9+0+7+7+1+5\ =\ 164\\ 1+6+4\ =\ 11\\ 1+1\ =\ 2 \end{array}$
+$  4+2+4+3+0+0+3+3+6+8+3+7+7+6+8+5+5\ \ +\ \ 2+3+9+9+2+9+8+6+6+7+9+0+7+7+1+5\ =\ 164\\ 1+6+4\ =\ 11\\ 1+1\ =\ 2 $
 
-Millions of samples were recorded and reduced to one number.  The input data of the Son and Moon positions was perfectly non-random and linear, but the single-number series of data was &ldquo;mostly random&rdquo; according to the *Chi squared* results of a randomness test[^203].  Below shows the test results of the single-number data and data from a random number generator (RNG), for comparison[^183].
+Millions of samples were recorded and reduced to one number.  The input data of the Son and Moon positions was perfectly non-random and linear, but the single-number series of data was &ldquo;mostly random&rdquo; according to the *Chi squared* results of a randomness test[^203].  Below shows the test results of the single-number data and data from a random number generator (RNG), for comparison[^183] [^181].
 
 <img src='../Images/rng.png' style='width:100%' />
 
@@ -3385,9 +3512,9 @@ In short, Zipf&rsquo;s law is an example of power laws, and power laws touch eve
 
 
 
-Related sidenote, using just prime numbers you can also determine &pi;, but this has nothing to do with RZF:    $$\displaystyle 1-\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}$$
+Related sidenote, using just prime numbers you can also determine &pi;, but this has nothing to do with RZF:    $1-\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}$
 
-One of the useful features of the RZF is that is can turn a *divergent* series of numbers (numbers that when you add then together approach infinity) into a *convergent* series (when the sum approaches a specific value, like $ -\frac{1}{12}$ or $\frac{\pi ^{2}}{6}$).  It can do this does because the hypothesis uses the concept of *analytic continuation* and *complex numbers*.  You can play with this function using an online Riemann Zeta Function Calculator.  [^186]
+One of the useful features of the RZF is that is can turn a *divergent* series of numbers (numbers that when you add then together approach infinity) into a *convergent* series (when the sum approaches a specific value, like $-\frac{1}{12}$ or $\frac{\pi ^{2}}{6}$).  It can do this does because the hypothesis uses the concept of *analytic continuation* and *complex numbers*.  You can play with this function using an online Riemann Zeta Function Calculator.  [^186]
 
 The RZF is based on the *Riemann hypothesis*, which also states that  ζ($s$)=0 only when $s$ is a negative even integer or a complex number with real part of $\frac{1}{2}$.  This hypothesis is really quite profound in the way it relates to the distribution of prime numbers.  That won&rsquo;t be explained here, but it is understandable when properly explained.  There are a couple of excellent videos on the subject at https://www.youtube.com/watch?v=sD0NjbwqlYw and https://www.youtube.com/watch?v=d6c6uIyieoo.  
 
@@ -3399,7 +3526,7 @@ What value would we get if we applied the RZF to the series of square roots of n
 
 <img src='../Images/sqrt2pi.png' style='width:50%' />
 
-The inverse $\boldsymbol{\sqrt{2\pi }}$ is $\boldsymbol{\sqrt{\frac{\pi }{2}}}$.  This is interesting because now we have formulas that fit into the *pattern-position* of Ohms&rsquo;s Law.  *Pattern-positions* (*PP*) refers to functions or formulas that are the same across different contexts, similar to how the energy of nature interacts with itself across various contexts as was previously shown.
+The inverse $\boldsymbol{\sqrt{\frac{\pi }{2}}}$.  This is interesting because now we have formulas that fit into the *pattern-position* of Ohms&rsquo;s Law.  *Pattern-positions* (*PP*) refers to functions or formulas that are the same across different contexts, similar to how the energy of nature interacts with itself across various contexts as was previously shown.
 
 <img src='../Images/lightning-3.png' style='width:80%' />
 
@@ -3427,7 +3554,7 @@ All of this may have nothing to do with unraveling the mystery of the Fresnel pa
 
 While the manner in which the cross-summed numbers create a diffraction pattern may be a mystery (to me), how diffraction patterns are created are not.  Properly described, it would require a lot of math which we won&rsquo;t get in to there, but a quick search on &ldquo;What is the Cornu&rsquo;s spiral method for diffraction pattern?&rdquo; will reveal all to the more curious.  In short, because we know that the intensity of light at any point is always proportional to two values known as the *Fresnel integrals*  $\begin{cases} x( t) =\int ^{t}_{0}\cos\left( u^{2}\right) du & \\ y( t) =\int ^{t}_{0}\sin\left( u^{2}\right) du &  \end{cases}$, we can plot the intensity of each point along the diffraction pattern on a 2-Dimensional plot.  When we do this this, we end up with an amazing figure called the *Cornu Spiral*, shown below as 2D Cornu Spiral (Fresnel).
 
-Another interesting thing about the Cornu Spiral is that it also describes the path of the sun over the course of the year (from Earth&rsquo;s perspective)[^185], which is pretty poetic.  It appears as though the Cornu spiral describes not only how light and matter interact in the nanometer scale, but also on the planetary scale, at least in one sense.
+Another interesting thing about the Cornu Spiral is that it also describes the path of the sun over the course of the year (from Earth&rsquo;s perspective)[^210], which is pretty poetic.  It appears as though the Cornu spiral describes not only how light and matter interact in the nanometer scale, but also on the planetary scale, at least in one sense.
 
 Not surprisingly, the Riemann Zeta Function also creates not just one Cornu Spiral, but an entire series of spirals, as shown in &ldquo;Cornu Spiral (RZF)&rdquo;, that emerge from nothing to the final spiral.  
 
@@ -3568,7 +3695,7 @@ Because 216 = 6&times;6&times;6 it gained a dubious reputation by association wi
 
 What is the significance of a square or square root?  We know what it means mathematically, but how would that meaning be understood in a different context, such as society or law?  The challenge with applying one relationship from one context to another is that without well-understood metrics, attributing foreign attributes to a relationship runs the risk of being very subjective, biased, and filtered through a cultural or moral lens that itself may be very biased.  This is the reasoning behind many beliefs and superstitions.  Nevertheless, we will try our best to avoid those pitfalls.
 
-If you measure the long end of any A or B series piece of paper, such as the standard A4 size of paper, and divide that length by the short edge, you get the square root of 2.  This is not a coincidence, but rather the very clever work of the Germans in 1922.  The reason for this is so that a piece of paper of the dimensions $ \boldsymbol{\begin{array}{l} \frac{height}{width} =\sqrt{2} \end{array}}$ , when folded in half (along the long edge), will remain $ \boldsymbol{\begin{array}{l} \frac{height}{width} =\sqrt{2} \end{array}}$.  So, no matter how many times you fold it in half, it will always remain the same relative size.  This can only occur when the ratio is $\sqrt{2}$, making $\sqrt{2}$ a very self-similar or fractal concept.  
+If you measure the long end of any A or B series piece of paper, such as the standard A4 size of paper, and divide that length by the short edge, you get the square root of 2.  This is not a coincidence, but rather the very clever work of the Germans in 1922.  The reason for this is so that a piece of paper of the dimensions $\boldsymbol{\frac{height}{width} =\sqrt{2}}$ , when folded in half (along the long edge), will remain $\boldsymbol{\frac{height}{width} =\sqrt{2}}$.  So, no matter how many times you fold it in half, it will always remain the same relative size.  This can only occur when the ratio is $\sqrt{2}$, making $\sqrt{2}$ a very self-similar or fractal concept.  
 
 <img src='../Images/papersize.png' style='width:30%'>
 
@@ -3639,13 +3766,97 @@ So far, this falls more on the supportive side on the claim that 0.414 is the va
 
 What if we test this magic number of 0.414 on the number 3? Would be get something equally interesting? let&rsquo;s see.  
 
-$\frac{3}{0.414} = 7.242$, and this number also happens to be $2.414 \times 3$, or $1+\sqrt{2}\times 3$.  Again, the Silver Ratio appears, but this time as a multiple of 3.  So far, so good, but there&rsquo;s more, because this number is also the ratio of the two sides of a right triangle when when that triangle is 67.5 &deg;,  which is the same as  22.5&deg; $\times$ 3, and what is 22.5&deg;?  it is $\frac{1}{16}$ of a circle, or the angle between each section of a circle when it is made by 2^4^ sides each with a length of 1.  Simply put, it is the tangent of $ 360\times (\frac{1}{2^4}\times 3)$ or  $\tan((2^3\times 3^2\times 5)\times (\frac{1}{2^4}\times 3))$.  
+$\frac{3}{0.414} = 7.242$, and this number also happens to be $2.414 \times 3$, or $1+\sqrt{2}\times 3$.  Again, the Silver Ratio appears, but this time as a multiple of 3.  So far, so good, but there&rsquo;s more, because this number is also the ratio of the two sides of a right triangle when when that triangle is 67.5 &deg;,  which is the same as  22.5&deg; $\times 3$ , and what is 22.5&deg;?  it is $\frac{1}{16}$ of a circle, or the angle between each section of a circle when it is made by 2^4^ sides each with a length of 1.  Simply put, it is the tangent of $360\times (\frac{1}{2^4}\times 3)$ or  $\tan((2^3\times 3^2\times 5)\times (\frac{1}{2^4}\times 3))$.  
 
 This is fantastically elegant is so many ways, and the recurring principle seems to be the Silver Ratio.
 
 
 
+# F - Greek Gods 
 
+According to the Greek mythology, the world began with several primordial beings who begat more gods, who begat even more gods, and so on. What follows is a brief overview of that begetting and the cosmic drama that typically follows the begetting gods. 
+
+*(The following is a slightly modified transcript reprinted with permission from "The Life Guide" YouTube channel (https://www.youtube.com/c/TheLifeGuide), entitled "Greek Gods Explained In 12 Minutes".)*
+
+
+
+First came **Chaos**.  Then **Gaia**, earth.  And finally, **Eros**, love.  From **Gaia** then came **Uranus**, heaven, who both created the **Titans**.  
+
+**Uranus** disliked his children and locked them deep within the earth. **Gaia**, sick of having her children imprisoned, made a great sickle that she gave to her son **Cronus**. **Cronus** hid until Uranus came to lie with his mother, then leaped out and sliced off his father's genitals, which fell into the sea. **Cronus** proceeded to release his fellow **Titans** from prison, and so, the age of the **Titans** began. 
+
+**Cronus** married the **Titan** **Rhea**, who gave birth to most of the major gods. **Cronus**, scared by a prophecy that his children would take his power, imprisoned them as soon as they were born, swallowing them whole. **Rhea** pleaded to **Gaia** for help, who took pity hid **Zeus** after he was born on Mount Ida in Crete. When **Cronus** came to eat his son, **Rhea** fed him a stone instead, tricking the **Titan**.
+
+**Gaia** raised **Zeus** until he was strong enough to take on his father. The two fought, and upon defeat, **Cronus** was forced to release **Zeus's** siblings, starting the war between the gods and the **Titans**. The war lasted 12 years until **Zeus** freed the **cyclopes** and the **Hundred-Handed Giants** whom **Cronus** had imprisoned. The **Cyclopes** gifted **Zeus** his famous thunderbolt, **Poseidon** his trident, and **Hades** a Hat of Darkness, tipping the balance of battle. 
+
+The **Titans**, defeated, were thrown into **Tartarus**, a prison deep within the underworld. And so started the reign of the gods. **Zeus**, **Poseidon**, and **Hades** decided to share power, drawing lots to decide where they will rule over. **Zeus** got the sky, **Poseidon** the seas, and **Hades** the dead. 
+
+**Zeus**, king of the gods, ruled from his throne on Mount Olympus, home of the immortals, often using his symbols of the thunderbolt and eagle to warn or encourage mortals. **Zeus** was responsible for all weather changes, from lightning to snow, depending on his mood. He was also a protector of the home and strangers, meaning being a bad host could land you in deep trouble. **Zeus** married his sister **Hera**, who birthed the gods **Ares** and **Hephaestus**.
+
+**Zeus** was also infamous for his many affairs with other goddesses from which **Athena**, **Hermes**, **Apollo**, **Artemis**, and **Persephone** came. He also engaged in many affairs with mortal women, where he created the god **Dionysus** and many heroes like **Perseus** and **Hercules**, most of whom experienced the wrath of the jealous **Hera**.
+
+**Poseidon**, one of the most powerful gods, ruled the sea, created earthquakes, and was the god of horses, much prized in ancient society. He had a palace on Mount Olympus, but an even more magnificent one under the sea where he spent most of his time. Sailors would have to pray to **Poseidon** and offer sufficient sacrifice, otherwise risked a painful death at sea. It was very unwise to cross **Poseidon** as he held a grudge and could deal out very harsh punishments.  
+
+In the story of **Theseus** and the **Minotaur**, **King Minos** rules over the island Crete. Every year he sacrificed his best bull to **Poseidon**. One year, he withheld his favorite bull, a huge white animal. **Poseidon** noticed, but instead of punishing **Minos** directly, he decided to target his wife. He made her fall in love with the bull, which eventually led to the birth of the half-man half-bull creature called the **Minotaur**. 
+
+**Hades**, the oldest of the brothers, ruled over the underworld where the spirits of the dead resided. He shared his throne with his wife, **Persephone** and the two were considered to be gods of fertility. The underworld had several guardians and trials, making it difficult for the dead and near impossible for the living to enter. The gates lay past the deadly river **Styx**. The only way to enter was to get passage from the ferryman, **Charon**. **Charon** required payment, which is why Greek burials included placing coins on the eyes of the deceased. If the soul could not afford to enter, then they were fated to wait on the shores of the **Styx** forever.
+
+Past **Charon** lay **Cerberus**, the fabled three-headed dog who guards the gates of the underworld. Ultimately, the soul will reach the three judges of the underworld, who decide where it should go. They can choose **Elysium**, the Fields of **Asphodel**, or **Tartarus**. **Elysium** is akin to heaven, a peaceful place where the souls of heroes, demigods, and especially good mortals reside. The **Asphodel Meadows** is the place for ordinary folk who did not achieve anything notable in life, good or evil.
+
+**Tartarus** is very similar to Hell and contains not only the **Titans** but also criminals who upset the gods and  who are tortured for eternity. **Hera**, sister and wife of **Zeus**, and queen of the Gods was the protector of marriage and women. She was deeply respected in Greek society. She was one of the most vengeful and spiteful gods, punishing women who lay with her husband and any subsequent children. When **Leto** was pregnant with **Apollo** and **Artemis**, Hera stopped her giving birth. She kept **Io**, another of **Zeus's** mistresses, as a heifer and had her guarded by the hundred-eyed monster, **Argos**.
+
+A famous tale of her jealous vengeance is the story of **Hercules**. **Hercules** was an illegitimate child of **Zeus**. **Hera** sent serpents to kill the future hero when he was just a child, but the demigod crushed the creatures with his bare hands. She later drove him to madness, making him kill his wife and children, the event that sent him on his 12 labors.
+
+**Athena**, goddess of wisdom and war, the child of **Zeus** and **Metis**, was not born in a conventional way. **Zeus** received an omen that their children would take the throne from him and so swallowed **Metis** while she was pregnant. After this, **Zeus** began to get a terrible headache. He asked a fellow immortal, thought to be **Hephaestus**, to split his head open with an ax. **Athena** was then born from his forehead, jumping out in full battle gear while letting out a war cry. 
+
+**Athena** had an affinity for heroics, coming to the aid of heroes like **Perseus** and **Hercules**. Her favorite was **Odysseus**, who she worked hard to keep safe so he could return to his homeland. **Athena** was highly revered in Athens, which was named after her. She competed with **Poseidon** for the city, both of whom attempted to give it the best gift. **Poseidon** struck the ground with his trident, making a stream of water rise up. **Athena** kicked the earth and caused the first olive tree to emerge. The gods deemed **Athena** victorious, and the city took her name. **Athena** was also one of the sacred virgin goddesses, and so in her honor, the temple built on the Acropolis in Athens was named the **Parthenon**, which comes from **Parthenos**, meaning "the virgin". 
+
+**Ares** was the bloodthirsty and cruel god of war. Neither god nor mortal particularly liked **Ares**. The warfare he represents is not honorable nor heroic, but rather the primal rage and bloodshed of the battlefield. **Ares** had a relationship with the goddess **Aphrodite** who was married to the god **Hephaestus**. The two would sleep together whenever her husband was away. When **Hephaestus** found out, he made an invisible net and hung it over his bed and told his wife he was going away. He hid, and as soon as **Ares** and **Aphrodite** got into bed together, they were trapped in the net and unable to move. **Hephaestus** called upon all the gods, inviting them to see the two naked immortals trapped in the net. Laughter burst out everywhere, and it was only due to the intervention of **Poseidon** that they were released.
+
+**Aphrodite** was the goddess of beauty and love, responsible for sexual attraction in both mortal and immortal alike, often using her powers for her own amusement. Accounts of her birth vary with her either being born from the genitals of **Uranus** or as another illegitimate child of **Zeus**. **Aphrodite** had a pivotal role in the **Trojan War** when Prince **Paris of Troy** was tasked with giving an apple to the fairest goddess. **Hera**, **Athena**, or **Aphrodite**, each promising him something different in return. **Paris** chose **Aphrodite**, who promised him the most beautiful woman in the world, **Helen**. **Helen** was married to the king of **Sparta**, **Menelaus**. **Aphrodite** put Helen under a spell when **Paris** came to visit **Sparta**, making her run away with him. **King Menelaus** and his brother **Agamemnon** raised a massive army to go take **Helen** back from **Troy**, and so started the **Trojan War.** 
+
+Goddess of the hunt and twin sister of **Apollo**, **Artemis** was a deadly Archer and an important member of Olympus. She watched over hunters as well as their prey, ensuring the wilderness was kept in check. **Artemis** is also prized for her virginity and guarded it jealously. The hunter **Actaeon** once stumbled upon her naked as she was bathing. **Artemis** proceeded to change the man into a deer and set his fifty hunting dogs upon him, giving him a painful death for his mistake. 
+
+Twin brother of **Artemis**, **Apollo** was a god of many things. He was a god of archery, but also of light and music, seen with a lyre as much as a bow. **Apollo** is closely linked with prophecy. He was born on **Delos** and honored the island by setting up an Oracle there. He later traveled to Mount Parnassus and slew the great snake **Pytho**. He created a temple where he had achieved the feat of marking the foundations for where the famous **Oracle of Delphi** would reside.
+
+**Hermes** was the messenger of god and patron of thieves. Known as a trickster amongst the gods. He often pulled pranks and stole from his fellow divinities. When he came of age, he assumed the role of messenger, taking a golden rod with him as a mark of his authority. He is often seen with a winged helmet and sandals, which he used to fly around and deliver messages.
+
+**Demeter** was the goddess of farming and watcher of the harvest. The one thing she prized more than anything else was her daughter, **Persephone**. It happened that **Hades** was also interested in **Persephone** as he had fallen in love with her. One day, while the girl was picking flowers, he opened up the ground and dragged her down to the underworld. **Demeter** was distraught when she found out and searched for her daughter for nine days and nights until the Sun God **Helios** revealed her captor's identity. **Demeter** locked herself indoors for an entire year, refusing to come out until **Persephone** was returned. Without the goddess of farming, the world went into famine. In order to save the world, **Zeus** ordered Hades to release **Persephone**. **Hades** had fed the girl the food of the dead, a pomegranate, meaning that she was bound to him. After much discussion, **Zeus** decided that **Hades** could have **Persephone** for three months of the year, and **Demeter** could have her for the other nine months. This explains why the winter months are cold,and the plants die as **Demeter** waits for her daughter to return. 
+
+God of smithing, **Hephaestus**, had a difficult start to life. He was born lame, and so his mother **Hera** decided to throw him off Olympus into the sea to drown. He later returned to the home of the gods and was given **Aphrodite** as a wife by **Hera** to reconcile with him. He was a great inventor and fashioned many of the palaces on Olympus. He also fashioned the equipment of many heroes such as **Achilles**, who he created armor and a magnificent shield for. 
+
+God of wine and parties, Di**o**nysus was perhaps the most fun of the Olympians. Frenzied women called **maenads**, and half-goat men called **satyrs** followed him. He had a huge cult following in Greece, where his followers would participate in mass drinking and the orgies his mythological companions were so well known for. The Greek Gods represent humanity at its best and worst, from the violent and destructive **Ares** to the beautiful and seductive **Aphrodite**. Greek mythology demonstrates the epic power struggle between parents and children in an endless quest to gain control over the world. Tales passed down from each generation, showing them to be some of the most influential deities in human history that continued to have a significant impact to this day.
+
+# G - Hidden Images
+
+<img src='../Images/embedded-page.png' style='width:100%'>
+
+
+
+## Credits, left to right, top to bottom.
+
+**[Equation]** by *Aphex Twin*. Image via Jarmo Niinisalo
+
+**Windowlicker** by *Aphex Twin*. Image via Jarmo Niinisalo
+
+**Continuum** by *Disasterpeace* (FEZ Soundtrack). Image via Black Coffee Spirit
+
+**My Violent Heart** by *Nine Inch Nails*. Image via the nine inch nails wiki
+
+**Beyond** by *Disasterpeace* (FEZ Soundtrack). Image via Black Coffee Spirit
+
+**Transitions** by *DJ Sonix*. Photograph via guru3d forums
+
+**Compass** by *Disasterpeace* (FEZ Soundtrack). Image via Black Coffee Spirit
+
+**Stripes** by *sippenaken*. Image via sippenaken on YouTube. Image via sippenaken on YouTube
+
+**Flow** by *Disasterpeace* (FEZ Soundtrack). Image via Black Coffee Spirit
+
+**Compass** by *Disasterpeace* (FEZ Soundtrack). Image via Black Coffee Spirit
+
+**Look** by *Venetian Snares*. Image via Jarmo Niinisal 
+
+Complete images and more at https://twistedsifter.com/2013/01/hidden-images-embedded-into-songs-spectrographs/
 
 
 
@@ -3967,7 +4178,7 @@ This is fantastically elegant is so many ways, and the recurring principle seems
 
 [^177]: Atmanspacher, Harald. “**Quantum Approaches to Consciousness.**” Stanford Encyclopedia of Philosophy. Stanford University, November 5, 2019. https://plato.stanford.edu/entries/qt-consciousness/#PenrHameQuanGravMicr. Section 3.5
 
-[^178]:  Swati Nigam , “Gravity As Conscious Force To Resolve Quantum Gravity.” Physics Foundations, July 31, 2017. DOI: https://doi.org/10.6084/m9.figshare.5234617.v1 Published in https://physicsfoundationsblog.wordpress.com/2017/07/22/gravity-as-conscious-force-to-resolve-quantum-gravity/; Downloadable PDF available at https://www.academia.edu/33993443/GRAVITY_AS_CONSCIOUS_FORCE_TO_RESOLVE_QUANTUM_GRAVITY
+[^178]:  Swati Nigam , “**Gravity As Conscious Force To Resolve Quantum Gravity.**” Physics Foundations, July 31, 2017. DOI: https://doi.org/10.6084/m9.figshare.5234617.v1 Published in https://physicsfoundationsblog.wordpress.com/2017/07/22/gravity-as-conscious-force-to-resolve-quantum-gravity/; Downloadable PDF available at https://www.academia.edu/33993443/GRAVITY_AS_CONSCIOUS_FORCE_TO_RESOLVE_QUANTUM_GRAVITY
 
 [^179]: Quited directly from https://www.snopes.com/fact-check/whether-balloon/
 
@@ -3975,19 +4186,17 @@ This is fantastically elegant is so many ways, and the recurring principle seems
 
 [^181]: These tests are: monobit frequency test, block frequency test, runs test, longest run ones10000, binary matrix rank test, spectzral test, nonoverlapping template matching test,	overlapping template matching test, Maurers universal statistic test, linear complexity test, serial test, approximate entropy test, cumulative sums test, random excursions test, random excursions variant test, cumulative sums test reverse. These tests are provided by the National Institute of Standards and Technology as implemented by the program *testrandom.py* by Ilja Gerhardt, https://gerhardt.ch/random.php The numbers published here are the result of the program "ent", a a pseudo-random number sequence test program by John Walker of Fourmilab Switzerland, https://en.wikipedia.org/wiki/John_Walker_(programmer)
 
-[^182]: Stevens, M. (2015, September 15). The Zipf Mystery. Retrieved June 30, 2020, from https://www.youtube.com/watch?v=fCn8zs912OE. The page of this video has dozens of excellent related links [
+[^182]: Stevens, M. (2015, September 15). **The Zipf Mystery**. Retrieved June 30, 2020, from https://www.youtube.com/watch?v=fCn8zs912OE. The page of this video has dozens of excellent related links 
 
-[^182]:Saad-Cook, J., Ross, C., Holt, N., & Turrell, J. (1988). **Touching the Sky: Artworks using Natural Phenomena, Earth, Sky and Connections to Astronomy**. *Leonardo* *21*(2), 123-134. [https://www.muse.jhu.edu/article/600628](https://muse.jhu.edu/article/600628). Charles Ross, the creator, describes: "1972. I had placed this simple lens set-up on the roof so the sun would burn a path across a wooden plank as the day progressed. The idea was to collect a portrait of the weather each day. As the work progressed, I noticed that the burn&rsquo;s curvature was changing with the seasons. We took photos of the burns and placed them end to end following their curvature to see what a year&rsquo;s worth looked like. The sum of days generated a double spiral figure. At first, it did not make any sense-this primitive lens set-up was producing a complex spiral shape. A few of the astronomers I showed it to said, "Well, it must be coming from somewhere, but we have no idea what it is". Most of the scientists insisted that there had to be some anomaly in the set-up and that the shape had nothing to do with astronomy -just some weirdness in the lens. In reality, it made no difference at all if the lens faced one way or the other as long as it faced generally toward south. The elements of the spiral are in sunlight itself; it was an archetypal image falling from the sky. I finally contacted Kenneth Franklin at the Hayden Planetarium. He directed me to the Naval Observatory, where LeRoy Doggett, an astronomer with the Nautical Almanac office…". Authors note: This Sun Spiral was pieces together manually from many separate samples, and should not be seen as an accurate representation of the suns paths, but only an approximation.
+[^183]:Data generated with the command "ent" with the following variables: Is Intel CPU; AESNI Supported in instruction set; Format=Hex model=pure size = 1000 kilobytes XOR mode off XOR range mode; off Output to file x Hardware Random Seeding on. Non deterministic mode;  Reseed c_max=511;  Using RdRand as nondeterministic source; Total Entropy = 0.000000; Per bit Entropy = 0.000000 %
 
-[^183]:Data generated with the command "djenrandom -s -v -k 1000" with the following variables: Is Intel CPU; AESNI Supported in instruction set; Format=Hex model=pure size = 1000 kilobytes XOR mode off XOR range mode; off Output to file x Hardware Random Seeding on. Non deterministic mode;  Reseed c_max=511;  Using RdRand as nondeterministic source; Total Entropy = 0.000000; Per bit Entropy = 0.000000 %
-
-[^184]: Lesne, A. (2014). Shannon entropy: A rigorous notion at the crossroads between probability, information theory, dynamical systems and statistical physics. *Mathematical Structures in Computer Science,* *24*(3). doi:10.1017/s0960129512000783
+[^184]: Lesne, A. (2014). **Shannon entropy: A rigorous notion at the crossroads between probability, information theory, dynamical systems and statistical physics**. *Mathematical Structures in Computer Science,* *24*(3). doi:10.1017/s0960129512000783
 
 [^185]: Styer, D. (2019). **Entropy as Disorder: History of a Misconception**. *The Physics Teacher,* *57*(7), 454-458. doi:10.1119/1.5126822
 
 [^186]: https://solvemymath.com/online_math_calculator/number_theory/riemann_function/index.php or https://keisan.casio.com/exec/system/1180573439, for example
 
-[^187]: Snehal Shekatkar, The sum of the r'th roots of first n natural numbers and new formula for factorial, 2012, arXiv:1204.0877v2 [math.NT], https://arxiv.org/abs/1204.0877v2
+[^187]: Snehal Shekatkar, **The sum of the r'th roots of first n natural numbers and new formula for factorial**, 2012, arXiv:1204.0877v2 [math.NT], https://arxiv.org/abs/1204.0877v2
 
 [^190]: Ball, P. (2016). **Patterns in nature: Why the natural world looks the way it does**. Chicago: The University of Chicago Press. ISBN-10: 022633242X ISBN-13: 978-0226332420
 
@@ -4026,3 +4235,19 @@ This is fantastically elegant is so many ways, and the recurring principle seems
 [^207]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 [^208]: Banaclocha, M.a.m. “**Are Neuronal Activity-Associated Magnetic Fields the Physical Base for Memory?**” *Medical Hypotheses*, vol. 59, no. 5, 2002, pp. 555–559., doi:10.1016/s0306-9877(02)00237-2.
 [^209]: Banaclocha, M. “**Architectural Organisation of Neuronal Activity-Associated Magnetic Fields: a Hypothesis for Memory.**” *Medical Hypotheses*, 2004, doi:10.1016/s0306-9877(04)00188-4.
+[^210]: Saad-Cook, J., Ross, C., Holt, N., & Turrell, J. (1988). **Touching the Sky: Artworks using Natural Phenomena, Earth, Sky and Connections to Astronomy**. *Leonardo* *21*(2), 123-134. [https://www.muse.jhu.edu/article/600628](https://muse.jhu.edu/article/600628). Charles Ross, the creator, describes: "1972. I had placed this simple lens set-up on the roof so the sun would burn a path across a wooden plank as the day progressed. The idea was to collect a portrait of the weather each day. As the work progressed, I noticed that the burn&rsquo;s curvature was changing with the seasons. We took photos of the burns and placed them end to end following their curvature to see what a year&rsquo;s worth looked like. The sum of days generated a double spiral figure. At first, it did not make any sense-this primitive lens set-up was producing a complex spiral shape. A few of the astronomers I showed it to said, "Well, it must be coming from somewhere, but we have no idea what it is". Most of the scientists insisted that there had to be some anomaly in the set-up and that the shape had nothing to do with astronomy -just some weirdness in the lens. In reality, it made no difference at all if the lens faced one way or the other as long as it faced generally toward south. The elements of the spiral are in sunlight itself; it was an archetypal image falling from the sky. I finally contacted Kenneth Franklin at the Hayden Planetarium. He directed me to the Naval Observatory, where LeRoy Doggett, an astronomer with the Nautical Almanac office…". Authors note: This Sun Spiral was pieces together manually from many separate samples, and should not be seen as an accurate representation of the suns paths, but only an approximation.
+[^211]: “**How Large Is an Atom of Music? A Tour through Today's Spectral Music and Software at UCSD.**” *Rhizome.org*, 27 Apr. 2011, classic.rhizome.org/editorial/2011/apr/27/how-large-atom-music-tour-through-todays-spectral-/.
+
+[^212]:Radin, D., G. Hayssen, M. Emoto, and T. Kizu. “**Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation.**” National Center for Biotechnology Information. September 2006. Accessed May 30, 2016. http://www.ncbi.nlm.nih.gov/pubmed/16979104.
+[^213]:  Nelson, R.d., G.j. Bradish, Y.h. Dobyns, B.j. Dunne, and R.g. Jahn. “**FieldREG Anomalies in Group Situations.**” EXPLORE: The Journal of Science and Healing 3, no. 3 (2007): 278. doi:10.1016/j.explore.2007.03.013.“We attribute this result to a real correlation that should be detectable in future replications. This study suggests the existence of some form of consciousness-related anomaly in random physical systems.”
+[^214]: Anonymous. “**I Hid Illuminati Symbols in Broadcast News Graphics Because I Was Bored.**” Hopes&Fears. 2015. Accessed May 30, 2016. http://www.hopesandfears.com/hopes/now/media/214739-illuminati-conspiracy-news-hidden.
+[^215]: Cannarella, John, and Joshua A. Spechler. “**Epidemiological Modeling of Online Social Network Dynamics.**” Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ, USA, January 17, 2004. http://arxiv.org/pdf/1401.4208v1.pdf.
+[^216]: Forterre P. (2010). **Defining life: the virus viewpoint. *Origins of life and evolution of the biosphere : the journal of the International Society for the Study of the Origin of Life***, *40*(2), 151–160. https://doi.org/10.1007/s11084-010-9194-1
+[^217]: Pearson H. '**Virophage**' suggests viruses are alive. *Nature*. 2008;454(7205):677. doi:10.1038/454677a
+[^218]: Dillbeck, M.C. **Test of a field theory of consciousness and social change: Time series analysis of participation in the TM-Sidhi program and reduction of violent death in the U.S.**. Soc Indic Res 22, 399â418 (1990). https://doi.org/10.1007/BF00303834
+[^219]: Orme-Johnson, D., Alexander, C., Davies, J., Chandler, H., & Larimore, W. (1988). **International Peace Project in the Middle East: The Effects of the Maharishi Technology of the Unified Field. The Journal of Conflict Resolution**, 32(4), 776-812. Retrieved August 24, 2020, from http://www.jstor.org/stable/174032
+[^220]: Orkin, Jeffrey David. “**Collective Artificial Intelligence: Simulated Role-playing from Crowdsourced Data.**” Master’s thesis, MASSACHUSETTS INSTITUTE OF TECHNOLOGY, 2013. Accessed May 30, 2016. http://alumni.media.mit.edu/~jorkin/papers/orkin_phd_thesis_2013.pdf.
+[^221]: Fisher, Len. **The Perfect Swarm: The Science of Complexity in Everyday Life.** New York: Basic Books, 2009.
+[^222]: Jef D. Boeke,George Church, Andrew Hessel, Nancy J. Kelley, Adam Arkin, Yizhi Cai, Rob Carlson, Aravinda Chakravarti, Virginia W. Cornish, Liam Holt, Farren J. Isaacs, Todd Kuiken, Marc Lajoie, Tracy Lessor, Jeantine Lunshof, Matthew T. Maurano, Leslie A. Mitchell, Jasper Rine, Susan Rosser, Neville E. Sanjana, Pamela A. Silver, David Valle, Harris Wang, Jeffrey C. Way, Luhan Yang. “**The Genome Project–Write.**” Science. June 2, 2016. Accessed June 10, 2016. doi: 10.1126/science.aaf6850. http://science.sciencemag.org/content/early/2016/06/03/science.aaf6850.
+[^223]: Goodrich, Chauncey S., and Alexandra David-Neel. “**Magic and Mystery in Tibet.**” Journal of the American Oriental Society 93, no. 3 (1973): 415. doi:10.2307/599607.
+[^224]: Average time Americans adults (18+) send with electronic media Q4 2014. Source: Neilsen.

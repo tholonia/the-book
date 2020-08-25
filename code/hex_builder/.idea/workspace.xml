@@ -61,7 +61,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.brownian">
+  <component name="RunManager" selected="Python.crosssum">
     <configuration name="Lorentz-force-scipy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="hex_builder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,6 +159,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crossgen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crosssum" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crosssum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -610,9 +631,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Lorentz-force-scipy" />
+      <item itemvalue="Python.brownian" />
       <item itemvalue="Python.chart_2" />
       <item itemvalue="Python.chart_dat" />
       <item itemvalue="Python.crossgen" />
+      <item itemvalue="Python.crosssum" />
       <item itemvalue="Python.helix" />
       <item itemvalue="Python.hex_builder" />
       <item itemvalue="Python.hex_builder_lapse" />
@@ -624,6 +647,7 @@
       <item itemvalue="Python.moon_dat_p" />
       <item itemvalue="Python.moon_dat_r" />
       <item itemvalue="Python.moon_im" />
+      <item itemvalue="Python.numtree" />
       <item itemvalue="Python.planet_locations" />
       <item itemvalue="Python.relist" />
       <item itemvalue="Python.tetra2" />
@@ -633,8 +657,6 @@
       <item itemvalue="Python.tetrahedron" />
       <item itemvalue="Python.timetest" />
       <item itemvalue="Python.vert" />
-      <item itemvalue="Python.numtree" />
-      <item itemvalue="Python.brownian" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -704,6 +726,10 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="774" y="1214" key="#crossgen/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1594767614423" />
+    <state x="677" y="1205" key="#crosssum" timestamp="1598109369781">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="677" y="1205" key="#crosssum/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598109369781" />
     <state x="733" y="1223" key="#helix" timestamp="1593498146611">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -792,35 +818,35 @@
     <state x="279" y="1236" width="434" height="488" key="FileChooserDialogImpl/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592603524177" />
     <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591812373104" />
     <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591677824454" />
-    <state width="1523" height="249" key="GridCell.Tab.0.bottom" timestamp="1595540081989">
+    <state width="1523" height="249" key="GridCell.Tab.0.bottom" timestamp="1598121774915">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081989" />
+    <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774915" />
     <state width="1381" height="246" key="GridCell.Tab.0.bottom/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
     <state width="688" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1523" height="249" key="GridCell.Tab.0.center" timestamp="1595540081989">
+    <state width="1523" height="249" key="GridCell.Tab.0.center" timestamp="1598121774915">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081989" />
+    <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774915" />
     <state width="1381" height="246" key="GridCell.Tab.0.center/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
     <state width="688" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1523" height="249" key="GridCell.Tab.0.left" timestamp="1595540081988">
+    <state width="1523" height="249" key="GridCell.Tab.0.left" timestamp="1598121774914">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081988" />
+    <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774914" />
     <state width="1381" height="246" key="GridCell.Tab.0.left/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
     <state width="688" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1523" height="249" key="GridCell.Tab.0.right" timestamp="1595540081989">
+    <state width="1523" height="249" key="GridCell.Tab.0.right" timestamp="1598121774915">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595540081989" />
+    <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774915" />
     <state width="1381" height="246" key="GridCell.Tab.0.right/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
     <state width="688" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
