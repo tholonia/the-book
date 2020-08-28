@@ -170,15 +170,19 @@ Once we cross the line from *lower* to the *upper*, the quality of the line posi
 
 
 
+Here we equate the *upper* and *lower* trigrams of the I-Ching to the three tholonic attributes of N, D, C
 
+<img src="../Images/tho-table.png" style="width:80%;" />
+
+Depending on the context (*upper* or *lower*), N, D, and C have slightly different expressions.  In the most general sense, N, D, and C can represent many different concepts depending on its context.
+
+<img src="../Images/tho-table-2.png" style="width:80%;" />
 
 
 
 ### Lots of 6s
 
-These and other models of creation are all based on the number 6.
-
-- There are 6 steps of creation to form a hexagram.
+These, and other models of creation, are all based on the number 6. To name just a few:
 
 - The simplest form of creation, the tetrahedron (and tholonic structure) is composed of 6 vectors.
 
@@ -210,7 +214,7 @@ We arrived at the same results of 6 fundamental concepts formed by a pair of tri
 
 There are many mappings and similarities between the tholon and the I-Ching, but I will only show one more because it not only maps hexagrams to tholons, but to basic physical structures in nature.
 
-If we create a binary tree of the I-Ching where the bifurcations follow the path of least resistance, meaning they will always move into the emptiest space, we end up with bifurcations separated by 60&deg; (which is also the angle that creates a tetrahedron/tholon). This would then create the following patterns for each of the 6 generations of bifurcations (this is easily done with the *L-systems* language previously described with the rule ***F=F\[+F]\[-F]***):
+If we create a binary tree of the I-Ching where the bifurcations follow the path of least resistance, meaning they will always move into the emptiest space, we end up with bifurcations separated by 60&deg; (which is also the angle that creates a tetrahedron/tholon). This would then create the following patterns for each of the 6 generations of bifurcations (this is easily done with the *L-systems* language previously described with the rule ***F=F\[+F]\[-F]***):  *(Note: the angle appears to be 120&deg;, but this is because the lines are drawn 60&deg; from the parent in opposite directions.)*
 
 <img src="../Images/overlay-gen.png" style="width:100%;" />
 
@@ -238,21 +242,33 @@ The I Ching always was, and is, a technical manual:
 
 ##### ~ Lu Dongbin, 9th c. Taoist master (introduction of The Taoist I Ching)
 
-Hexagons are formed by six N-sources.  This is the tholonic archetype of a hexagon.  Any hexagon, therefore, has a virtual N-source that is induced into being by virtue of its creations, the dimensional lines.  The image below shows the progression of an evenly distributed bifurcating tree (60&deg; separation), which includes many overlaps. The overlapping redundancy of the pattern unfolds as we narrow the separation, which we can see by the density of the lines.  In the beginning, the originating hexagon(s) have an evenly distributed  concentration of N-sources.  As the pattern unfolds, we see the density move from the center to the outer edge. If we apply this concept to the most obvious instance of an actual tree as a metaphor, we would see that the highest density of N-sources exist around the center, as a seed, and around its leaves and flowers when it is full-grown.  In its last stage, it returns to nothing more than a line, with all the N-sources spread out to infinity (according to the math, which is not shown here, as I have no idea how to draw it). This same process applies to the foundation of any instance, from the Big Bang to ideas.
+In the tholon, hexagons are formed by six N-sources.  This is the tholonic archetype of a hexagon.  Any hexagon, therefore, has a virtual N-source that is induced into being by virtue of its creations, the dimensional lines.  The image below shows the progression of an evenly distributed bifurcating tree (60&deg; separation), which includes many overlaps. The overlapping redundancy of the pattern unfolds as we narrow the separation, which we can see by the density of the lines.  In the beginning, the originating hexagon(s) have an evenly distributed  concentration of N-sources (represented as a red-tinted density cloud of the general area where the virtual N-sources will be located).  As the pattern unfolds, we see the density move from the center to the outer edge. If we apply this concept to the most obvious instance of an actual tree as a metaphor, we would see that, as a seed, the highest density of N-sources exist around the center. As a full grown tree, they collect around its leaves and flowers.  In its final stage, the N-sources form nothing more than a line that extends infinitely (according to the math). 
+
+This is the progression of the ordered pattern (*Inception*) of balanced distribution of to a pattern (*Departure*) that is imbalanced and with an uninstantiated distribution (because it goes to infinity). 
+
+Referring back to our definition of chaos as a *measure of disorder* or *the degree that order is present in any state*, and our definition of entropy as *energy transference*.
+
+In short, this the the **cycle of order to chaos**. This transition is caused by the reduction of the angles or expression.
+
+At the every beginning of the book we defined chaos, as the *measure of disorder* or *the degree that order is present in any state*, and entropy as the degree of *energy transference*.
+
+With those definitions, we can say that *Inception* is the least chaotic because it has the most order and *Departure* is the most chaotic because it has the least order.  We assume that the energy remains equal in every state.
 
 <img src="../Images/hex2tree.png" style="width:100%;" />
 
-<p style="border:1px solid lightgrey;background-color:#ddd;font-size: 1rem;font-weight:100;font-family: 'Times New Roman', Times, serif;font-style: italic;"> When unfolding this binary hex pattern we see the classic tree pattern that is so popular among many forms of life, but where are the N-sources located in the tree pattern?  They do not exist as form because N-sources are dimensionless; concepts only.  The only parts of a pattern that can have form, or instantiate, are the children of the N-source. The N-sources exist within and around the form.  Literally, the form exists within the concept of the form.</p>
+<p style="border:1px solid lightgrey;background-color:#ddd;font-size: 1rem;font-weight:100;font-family: 'Times New Roman', Times, serif;font-style: italic;"> When unfolding this binary hex pattern we see the classic tree pattern that is so popular in nature, but where are the N-sources located in the tree pattern?  They do not exist as form because N-sources are dimensionless; concepts only.  The only parts of a pattern that can have form, or instantiate, are the children of the N-source and their lines. The N-sources exist within and around the the resulting form.  Literally, the form exists within the concept of the form.</p>
 
+Above, we look only at the lines created by the dimensional children of the N-state, the lines. This cycle of **order to chaos** is what we also call the *ascending* phase.  In the context of life, this represents not just a a recycling or returning to the *implicit* state, but a re-informing.  The instance's effect on the archetype, the archetype's effect on the idea, the idea's effect on the concept, and the concept's effect on the awareness that it originated from.  
 
+Below, we see the N-states and the lines moving from **chaos to order.**  This is what we call the *descending* phase. In the context of life, this represent growth. Chaos to order represent the awareness that becomes a concept, that becomes an idea, that becomes an archetype that becomes instantiated. It is the emergence of an *explicit* state in come context.
 
-However,the following graphic shows the stages of development of the products of the N-states  over the course of its progression. It begins where the previous ended.
+The two phases move opposite one another, but sequentially, creating order from chaos, and chaos from from order. 
 
 <img src="../Images/ctree.png" style="width:100%;" />
 
-You can see they are exactly opposite. This is because the source of creation and the expression of creation move in opposite directions.  The I Ching hexagram deals with the creative expression, not the creative source, which is the Tao itself, of which nothing can be said.
+You can see they are exactly opposite in sequence. This is because the source of creation and the expression of creation move in opposite directions.  
 
-Lao Tzu alludes to this duality of oneness when describing the nature of the Tao:
+Lao Tzu not only alludes to this duality of oneness when describing the nature of the Tao, but is quite is clear that the end of one begets the other, alternating in sequence, each being the cause and the effect of the other.
 
 >As soon as beauty is known by the world as beautiful, it becomes ugly. 
 >As soon as virtue is being known as something good, it becomes evil. 
@@ -265,128 +281,93 @@ Lao Tzu alludes to this duality of oneness when describing the nature of the Tao
 
 ##### ~ Lao Tzu,Tao Te Ching
 
-The following is a bit of a tangent, but worth sharing before we move on to the lines.  Below is a graphic that shows three conditions of the binary tree above.  The first conditions is *Maximum Freedom*, where the direction of the children is undetermined and completely unlimited.  The second condition, *Limited Freedom*, is where the direction of the children is limited by 96% (give or take 4%). The final condition, *No Freedom*, is where there can be no deviation from the rule.  Much can be said about the significance of this, but it's probably wiser to leave any conclusions to the reader.
+The following is a bit of a tangent, but worth sharing before we continue with the lines.  Below is a graphic that shows three conditions of the binary tree above.  The first conditions is *Maximum Freedom*, where the direction of the children is undetermined and completely unlimited.  The second condition, *Limited Freedom*, is where the direction of the children is limited by 96% (4% freedom). The final condition, *No Freedom*, is where there can be no deviation from the rule.  
 
 
 
 <img src="../Images/3stage-freedom.png" style="width:100%;" />
 
-
-
-Here is a general idea of how the transformation progresses from its minimal state to its most open state (with no randomness):
-
-<img src="../Images/60-steps2.png" style="width:100%;" />
-
-The images above represents a progression with no randomness, making them essentially "perfect." This progression can be considered an archetype, or a pattern that reality generally follows, but imperfectly.  If we added just a little bit of variation into this process, on just two variables, length and angle, we get the following.  The upper images are the variations due to a little bit of randomness,and the images below them are teh archytype for the same angle of bifurcation.
+The forms used to represent the stages of change are "perfect" archetypes, in that they adhere strictly to a very tight set of rules. In reality, there are many other forces in play other than an isolated set or rules making it rare, if not impossible, for a perfect archetypes to instantiate.  These other forces introduce variations. If we added just a little bit of variation to our perfect process on just two variables, length and angle, we get the images below.  The upper images are the variations due to a little bit of variation, and the images below are they perfect archetypes they attempted to follow.
 
 <img src="../Images/arch-hex-sm.png" style="width:80%;" />
 
-There is one more way we can look at this progression:
 
-<img src="../Images/circle6-3.png" style="width:80%;" />
 
-In the image above, we have two sets of images.  The inner images show the six stages of progression from the beginning to the end, starting with 0 degrees of bifircations, and ending at 60 degrees. Also shown is the 7^th^ stage and final stage that completes teh cycles, as the I Ching states when it describes how "*All movements are accomplished in six stages, and the seventh brings return.*"    This type of progression is similar to the way the six lines of the I Ching progress.  The outer images show two phases of a three-stage progression, which is modeled after the two trigrams that form a hexagram.  Both perspectives are valid for the context they are applied to. 
+## By the Numbers
 
-Let&rsquo;s review the 6 steps of each model.
+Let&rsquo;s run another test to see if the thologram and the I-Ching are two views of the same model.
 
-The thologram was created by the three properties of the the three original dots, and these three dots align describe the three stages of creation as they appear in the (tholonic) concept of *parent* and *child*, or the (I Ching) concept *lower* and *upper*. 
+Previously we assigned the positions of the points on the tholon as 1, 2, 3, 4, 5, 6 in order to work with the positions of the I Ching lines. Now we need to work with the hexagrams and their values, so we need to use the position of the points as the exponential value of 2 (because we&rsquo;re working in binary), and to do that we need need to start counting at 0, not 1. In ***Fig. e1*** (below) you can see the values arrived at for each point, and the exponent used to get that value.
 
-Equating the *upper* and *lower* trigrams to the three attributes of N, D, C
+***Fig. e2*** shows the sum of these values for each trigram and each side. 
 
-<img src="../Images/tho-table.png" style="width:80%;" />
-
-Depending on the context (*upper* or *lower*), N, D, and C have slightly different expressions.  In the most general sense, N, D, and C can represent many different concepts depending on its context.
-
-<img src="../Images/tho-table-2.png" style="width:80%;" />
-
-Let&rsquo;s run another test so see if the thologram and the I-Ching are two views of the same model.
-
-Previously we assigned the positions of the points on the tholon as 1, 2, 3, 4, 5, 6 in order to work with the positions of the I Ching lines. Now we need to work with the hexagrams and their values, so we need to use the position of the points as the exponential value of 2 (because we&rsquo;re working in binary), and to do that we need need to start counting at 0, not 1. In *Fig. e1* (below) you can see the values arrived at for each point, and the exponent used to get that value.
-
-*Fig. e2* shows the sum of these values for each trigram and each side. 
-
-In *Fig e3* we have added the name and the hexagram. Don&rsquo;t forget that all these numbers are binary, and not the numbers as they appear in the traditional I-Ching layout.
+In ***Fig e3*** we have added the name and the hexagram. Don&rsquo;t forget that all these numbers are binary, and not the numbers as they appear in the traditional I-Ching layout.
 
 <img src="../Images/tritest.png" style="width:100%;" />
 
-For clarity&rsquo;s sake (even though it may only make things more obtuse), I&rsquo;ve assigned variable names to each property to make the patterns easier to notate and read.
+Note: For clarity&rsquo;s sake, when refering to the connecting line between two point, we will use the *overline* symbol. For example, the line connecting D and C is written as  $\overline{DC}$ .  If thete is no index to N, D or C, it refers to the outermost border, otherwise, indexes are used to identidy the specific line, for example $\overline{N_{0}C_{3}}$
 
-<img src="../Images/trialgebra.png" style="width:100%;" />
+<img src="../Images/trialgebra.png" style="width:70%;" />
 
 Here are some details worth noting:
 
-- Comparing the three vectors of the parent trigram, as they apply to a social context, to their I-Ching equivalents we see amazingly similar values. Note: We use the values that are derived form the sides of a complete tholon, i.e. 4 triangles. So, while on a single triangle the first side connects blue &#8594; green <img src="../Images/dots-blue-green.png" style="width:35px"/>, but when we use the 4 triangles, which is what is required to make a complete tholon, the side connects from blue &#8594;red <img src="../Images/dots-blue-red.png" style="width:35px"/>. However, in the next generation, it goes back to the original of blue &#8594; green <img src="../Images/dots-blue-green.png" style="width:35px"/>. This is because all odd number generations, 1,3,5,etc., maintain the original order of colors, and all even number generations flip them.  We now can see there are two orders of color, the initial order of blue&#8594;green&#8594;red, and its child order of blue&#8594;red&#8594;green.  It it worth nothing that this reverse order only applies to the two sides that extend form the blue dot, because the red&#8594;green dot, when reversed, is green&#8594;red, effectively remaining the same.  We suggest that the first order is the order that is fundamental to all tholons, and the subsequent order of the children are layers of orders on top of orders, just like a fractal. For this reason we will only look as the first order in the following table. 
+- Comparing the three vectors of the parent trigram (as they apply to a social context) to their I-Ching equivalents we see amazingly similar values. 
+- 
+- On a single trigram the first side connects $\overline{ND}$, blue &#8594; green, <img src="../Images/dots-blue-green.png" style="width:35px"/>. When a child tholon is created within that single trigram, it then has 4 triangles, which is what is required to make a complete tholon, but now the D point has been replace with a C point, so what was $\overline{NC} $ is now $\overline{ND} $, blue&#8594;red. <img src="../Images/dots-blue-red.png" style="width:35px"/>. However, in the next generation, it goes back to the original of $\overline{ND}$, blue &#8594; green <img src="../Images/dots-blue-green.png" style="width:35px"/>. This is because all odd number generations, 1,3,5, etc., maintain the original order of colors, and all even number generations flip them.  We now can see there are two orders of sequence, the initial order of blue&#8594;green&#8594;red <img src="../Images/dots-blue-green-red.png" style="width:35px"/>, and its child order of blue&#8594;red&#8594;green <img src="../Images/dots-blue-red-green.png" style="width:35px"/>.  We'll only look as the first order in the following table. 
+
+Here are the traditional definitions of the hexagrams that are teh same value as the side of the tholon.  There is a 1:>250,000 chance their similarity is coincidental.
 
 | Tholonic Definitions                                         |                                                              | I-Ching Definitions                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dots-blue-green.png" style="width:100px"/> | *Decrease* (hex 41, bin 35): &ldquo;Restrictions in outer resources requires one to discover and develop inner resources.&rdquo; |
-| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dots-green-red.png" style="width:100px"/> | *Duration* (hex 32, bin 14): &ldquo;The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth.&rdquo; |
-| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dots-red-blue.png" style="width:100px"/> | *After Completion (hex 63, bin 21):* &ldquo;In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay.&rdquo; |
+| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dots-blue-green.png" style="width:100px"/> | **Decrease** (hex 41, bin 35): **&ldquo;Restrictions in outer resources requires one to discover and develop inner resources.&rdquo;** |
+| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dots-green-red.png" style="width:100px"/> | **Duration** (hex 32, bin 14): **&ldquo;The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth.&rdquo**; |
+| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dots-red-blue.png" style="width:100px"/> | **After Completion** (hex 63, bin 21): **&ldquo;In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay.&rdquo;** |
 
 The following are some of the observations (super nerdy):
 
 
 - The sum of any trigram and the side opposite that trigram always equal 63, the maximum number possible. This was exciting to discover as it supports the tholonic claim that the effect of any point can be seen on the side opposite that point.
 
-- The math pattern of the tholon also works is we replace multiplication with addition, for example, 14 + 21 = 35, or **H + S = P**
+- The math pattern of the tholon also works if we replace multiplication with addition, for example, 14 + 21 = 35, or $\overline{DC} + \overline{CN}=\overline{ND}$
 
-- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **T~0~**,&rdquo;standstill.&rdquo;  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of b7,  &ldquo;Peace&rdquo;, <img src="../Images/bc/hexagramB07.png" style="width:30px"/>is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
+- What about the middle trigram?  It does not have any other value to pair with. Not only is there no room for its pair, it would need to be the value of 7. However, the value of 7 does exist of we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the &ldquo;white dot&rdquo; of the tetrahedron, and it also is exactly opposite the center trigram of **Standstill**.  This math validated the tholonic claim that the &ldquo;white point&rdquo; is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  **Peace**, <img src="../Images/bc/hexagramB07.png" style="width:30px"/>is defined as &ldquo;heaven on earth&rdquo; in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
 
   We have a number of other patterns, for example (and for those who enjoy numbers, because it's even *more* tedious if you don't):
 
 - Every number (14, 21, 28, 35, 42, 49, 56, 63, 70) is a product of the *white dot*, which has a value of 7 (7x2, 7x3, 7x4, 7x5, 7x6, 7x7, 7x8, 7x9, 7x10)
 
-- Every value of a trigram plus its opposite border equals 9 (6+3, 7+2, 5+4, 8+1). This lends more support to the tholonic idea that a corner point (or in this case, corner trigram) is paired with it&rsquo;s opposite border.
+- Every value of a trigram plus its opposite border equals 9 $(6+3, 7+2, 5+4, 8+1)$. This lends more support to the tholonic idea that a corner point (or in this case, corner trigram) is paired with it&rsquo;s opposite border.
 
-- Ever hexagram as an equal number of yin and yang lines (10 of the 32 pairs of  hexagrams have an equal number of yin and yang)
+- Ever hexagram as an equal number of yin and yang lines (only 10 of the 32 pairs of  hexagrams have an equal number of yin and yang)
 
 - Only the numbers of the top trigram, which is the originating trigram, are odd.
-
-- T~0~ - T~3~ = H ; *Standstill (56)  - Before Completion (42) = Duration (14)*, ergo, T~0~ - H = T~3~, T~3~ + H = T~0~
-
-- T~0~ - T~1~ = W ; *Standstill (56)  - Increase (49) = Peace (7)*, ergo, T~0~ - W = T~1~,  T~1~ + W = T~0~
-
-- T~0~ + T~3~ = P ; *Standstill (56) + Before Completion (42) = Decrease (35)* , ergo P - T~3~ = T~0~, P - T~0~ = T~3~
-
-- T~0~ + T~1~ = T~3~ ; *Standstill (56) + Increase (49) = Before Completion (42) (after lowering  one octave; 105 - 63)*, ergo T~3~ - T~1~ = T~0~, T~3~ - T~0~ = T~1~
-
-- T~0~ + H = W  ; *Standstill (56) + Duration (14) = Peace (7)*. ergo W - H = T~0~, W - T~0~ = H
-
-- S + W = T~2~ ; *After Completion (21) + Peace (7) = Wooing (28)*, ergo T~2~ - S = W, T~2~ - W = S
-
-- S - W = H ; *After Completion (21) - Peace (7) = Duration (14)*, ergo W + H = S, S - H = W
-
-- (P - S) + T~1~ = (T~0~ + W) ; *(Decrease 35 - After Completion 21) + Increase 49 = (Standstill 56 + Peace 7)* 
 
 - There are many more patterns and relationships as well, and this is only within one tholon that has no parents or children!
 
 
 
+
 ## Better Proof
 
-Given that every number has a patterned relationship with one or more numbers, we can reverse engineer where every hexagram sits in the thologram, meaning, we can assign a unique binary value to every vector (or point, but we are only showing vectors here). Remember the chapter that hypothesized how if each tholon had a unique binary value then we could unfold the history of that tholon from the moment of creation to the present? Using the I-Ching as a very small set of unique binary numbers, we just demonstrated this.
+Given that every number has a patterned relationship with one or more numbers, we can reverse engineer where every hexagram sits in the thologram, meaning, we can assign a unique binary value to every vector (or point, but we are only showing vectors here). Remember the chapter that hypothesized how if each tholon had a unique binary value then we could unfold the history of that tholon from the moment of creation to the present? The I-Ching is an example of just that, with a very small set of unique binary numbers.
 
-I think it is quite obvious and provable that the I-Ching and the thologram are based on the same model. Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can say that there is an underlying model that many perspectives of understanding are based on.
+There is some significant evidence that the I-Ching and the thologram are based on the same model. Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can speculate that there is an underlying model that many perspectives of understanding are based on. I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy, etc. as much as it could for chemistry, physics, electronics, and many other applications. Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another. The only limitation is the creative imagination of the perceiver.
 
-I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy, etc. as much as it could for chemistry, physics, electronics, and many other applications. Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another. The only limitation is the creative imagination of the perceiver.
+However, if you still have doubts, what follows is a demonstration of  how the value of *pi* (&pi;) can be derived using the tholonic model along with the values shown here derived from the I-Ching.  We can also find *pi* in the thologram alone, as previously described, by using the total number of N-sources for all the real and virtual tholons for each generations.  While this technique uses the same method, it is using very different data. <img src="../Images/times7.png" style="width:100%;" />
 
-However, if you still have doubts, what follows is a demonstration of  how the value of *pi* (&pi;) can be derived using the tholonic model along with the values shown here derived from the I-Ching.  We can also find *pi* in the thologram, as previously described, by using the total number of N-sources for all the real and virtual tholons for each generations.  While this technique uses the same method, it it using very different data. 
+***Fig. h1*** shows the hexagram values as multiples of 7. ***Fig h2*** shows the same values, but shows how the same border values of 2, 3 and 5 apply to all the trigrams. Let's apply the tholonic model to these numbers.   We arrived at these numbers by taking the sums of the binary values for each side, as shown above, which gave us 14, 21 and 35, As these numbers are all multiples of 7, we use the multiple values.
 
-<img src="../Images/times7.png" style="width:100%;" />
-
-*Fig. h1* shows the hexagram values as multiples of 7. *Fig h2* shows the same values, but shows how the same border values of 2, 3 and 5 apply to all the trigrams. Let's apply the tholonic model to these numbers.   We arrived at these numbers by taking the sums of the binary values for each side, as shown above, which gave us 14, 21 and 35, and taking their multiplier of the number 7 (7&times;**2**=14, 7&times;**3**=21, 7&times;**5**=35) and applying that to the respective side.
-
-Notice how the edges that are univeral to all trigrams are the first three prime numbers, 2, 3, 5, and the multiplier is the 4^th^ prime, and top trigram, 7.
+Notice how the edges that are universal to all trigrams are the first three prime numbers, 2, 3, 5, and the multiplier is the 4^th^ prime, and top trigram, 7. We'll assign these values to the lower case version of their opposite point; $n=2, d=3, c=5$.  This also means that $\overline{ND}=5, \overline{DC}=2, \overline{CN}=3$.  
 
 The tholonic model states that the *green dot* (*Definition*) is what creates limits and restricts the N-state, so D reduces N. The *red dot (Contribution)*, seeing as it contributes, will be added to N.
 
-We start by assigning N=1. We then calculate D as 1/P (where P=5, as shown in *Fig. h2*), and C as 1/S (where S=3, as shown in *Fig. h2*). To create a new instance of N we start with N, subtract D, and add C, which gives us 0.78539822525372. This is the value of the child instance of N, which we&rsquo;ll call N~1~. We repeat this process again, but we increment the S and P by H^2^ . After doing this a million or so times, we get the number 0.7853982294712. Multiply this number by H^2^ (4) and you get *pi*.
+We start by assigning N=1. As D and C are part of, or children of N, we then calculate D as $\frac{1}{c}$ and C as $\frac{1}{d}$ . To create a new instance of N we start with the original N, subtract D, and add C.  So,  $N_{1}=N_{0}-\frac{1}{d}+\frac{1}{c}$ , or  $N_{1}=1-\frac{1}{5}+\frac{1}{2}= 0.78539822525372$. We repeat this process again, but we increment $d$ and $c$ by  $n^2$. After doing this a million or so times, we get the number 0.7853982294712. Multiply this number by $n^2$ (which is 4) and you get *pi*.
 
-This graph below diagrams the process (and shows the results already multiplied by 4). Notice how this is exactly the same model that was proposed for transforming a holon, from the holarchic model, to a tholon.
+This graph below diagrams the process (and shows the results already multiplied by 4). Notice how this is exactly the same model that was proposed for transforming a holon from the holarchic model, to a tholon. Included are the formulas that show how to do the calculations with nothing but the existing I-Ching values and using the mathematical relationships of the tholon. [JWFIX:ref tholonic math appendix] 
 
-<img src="../Images/pi-holons.png" style="width:70%;" />
+<img src="../Images/pi-holons2.png" style="width:100%;" /> 
 
-One detail that this demonstration reveals is that the value on the spectrum between C and D had to be *seeded* by the originating N-source. This detail was left out of the description provided in the chapter on &ldquo;STRUCTURE&rdquo; because the reader was already being bogged down with a mountain of details and even though it&rsquo;s an important technical point it&rsquo;s not needed to grasp the concept of a *spectrum*. But the representation of the spectrum along a 1D line is also inaccurate because in the case of a tetrahedron the spectrum is actually across, or within, a 3D space, with the highest probability in the center of the tholon, but that is quite impossible to show. The more accurate way to display this process would have been to use self-similar, embedded 2D trigrams, but that would be a bit messy and limiting, and the even more accurate model would be 3D tholons embedded within 3D tholons, which is almost impossible to conceive, let alone draw.
+One interesting observation sis that the first triad if NCD uses a simple formulas, and all the rest use that same formula, but modified by $n$, which didn't exist in the first triad.  This is an excellent example of the two types of duality; the 1^st^ duality that creates the 2^nd^ duality, that creates everything else.
 
 For anyone that wants to replicate/test this process, here are the five lines of Python code.
 
@@ -395,18 +376,12 @@ def iteration(N,h,s,p):
     n=N-(1/s)+(1/p)
     print(n*4)
     iteration(n,h,s+h**2,p+h*2)
-iteration(1,2,3,5) # <= note these are the first four values of the fibonacci sequence (1, 2, 3, 5, 8, 13, 21, 34, ...)
+iteration(1,2,3,5) # <= first four values of the fibonacci sequence 
 ```
 
-We can also calculate the value for Phi (φ, 1.618) using the formula (N+√S)/H where N=1 (not recursive), and the Fibonacci sequence by sequencing the Fibonacci math function around all sides, beginning with H.
+We can also calculate the value for Phi (φ, 1.618) and the Fibonacci sequence using a similar process. There are many, many relationships, patterns, values and functions in this simple trigram, but for many of them it is hard to say which of their products are *data* and which are *information*.
 
-As presented earlier, we also see this same pattern in the mathematics of tetrahedral coordinates…
-
-<img src="../Images/SQRT.png" style="width:100%;" />
-
-There are many, many relationships, patterns, values and functions in this simple trigram, but for most of them it is impossible to say which of their products are *data*, which are *information*.
-
-## Rebuild
+## Reconstruction
 
 If we rebuild the I-Ching from the ground up using our tholonic model (while trying to preserve its character) we get something like the following:
 
@@ -464,9 +439,9 @@ The dynamic trigrams are a bit less obvious. We need to look at the relationship
 
 But before we do that, let's look at some math.  Looking at the cardinal numbers of 7,5,0,2 and the transitional numbers of 6,4,1,3, it does not appear that that have any relationship other then that they are in order - meaning, we can't use the transitional number to calculate the cardinal number, at least not at first glance.  However, there is a way&hellip;
 
-Start with 7, add the starting cardinal number (*c*), subtract the sum of the transitional value (*t*), plus it's mirror value (*t~1~*), and then subtract 7 if the result is 7 or greater, and we get the new cardinal number (*c~1~*).
+Start with 7, add the starting cardinal number (*c*), subtract the sum of the transitional value (*t*), plus it's mirror value (*T~1~*), and then subtract 7 if the result is 7 or greater, and we get the new cardinal number (*c~1~*).
 
-*c~1~ = 7+c-(t+t~1~)*
+*c~1~ = 7+c-(t+T~1~)*
 
 For example:
 
