@@ -18,8 +18,8 @@ The reason this book is open-sourced is to allow other&rsquo;s insights to be in
 On a more mundane level, and for those readers who are sticklers about writing style conventions in the U.S., I have deliberately chosen to: 
 
 - Place punctuation (that are not part of the quote) outside of quotes.  The convention of placing punctuation inside the quotes was adopted due to the limitations of fixed width fonts in the pre-digital age.  The British convention has punctuation outside of quotes, but that is because they use single quotes, not double quotes.  To quote William Strunk and E. B. White, &ldquo;[t]ypographical usage dictates the comma be inside the marks, though logically it seems not to belong there&rdquo;.  I agree, and take the side of Canadian poet, typographer and author Robert Bringhurst who bravely stated that is “makes no *typographic* difference” if quotation marks “follow commas and periods or precede them”.
-
 - Follow periods with two spaces, not one.  The two-space rule was also in place due to fixed width fonts, but unlike the punctuation-quotes rules, it has fierce opposition. Even the American Psychological Association has gone form officially recommending one space, to one or two spaces, to two spaces (6th addition), then back to one space (7th edition). I will be using two spaces because it has been shown that using two spaces after a period increases text processing ability [^207].  
+- While it is customary to spell out numbers in a sentence, for the most part numbers in a sentence are shown as numerals. This is to allow for numerical values to be easily recognizable, which, like the above point, increases text processing overhead.
 
 <div style='page-break-after: always; break-after: page;'></div>
 # 1: CHAOS
@@ -1627,6 +1627,10 @@ Notice that in the first example when we used the three points of Parent, Child,
 <img src='../Images/059-ruleexposure-4.png' style='width:100%;margin:auto;' />
 
 Hopefully, using colors as an example will add some clarity.  Above left we show the three dynamic domains of the archetypes of N, C and D, and their resulting three static domains of the archetypes Parent, Peer and Child.  On the right, we use the same colors to arrive at the three dynamic domains of N, D, C.  
+
+More accurately, this is a better representation if we are going to use colors, but it is more difficult to use, so keep this in your head as a reference.
+
+<img src='../Images/colorfog-2-(tholon).png' style='width:40%;margin:auto;' />
 
 This trigram is the basic tholonic model that describes the movement of energy in the process of creation.  What would be the simplest instance of this trigram? Most likely it would be something like an atom, the first instance of matter, with a neutral (N), negative (D), and positive (C) particle.  This is the description of hydrogen, the very first atom created, with one neutron, one proton, and one electron, the most abundant element in the universe and from which every other element that exists is created from.  On the biological level, this describes mitosis, the process of cell duplication, or reproduction, where one cell gives rise to two genetically identical daughter cells.  In the realm of philosophy, we have the Hegelian Dialectic of thesis, antithesis, and synthesis.  In fact, for a tholonic concept to exist as a potentially viable and sustainable expression it must satisfy a form of the Hegelian Dialectic, in that it must support a thesis (D), antithesis (C), and synthesis (N).
 
