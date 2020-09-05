@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Images/hex2tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/hex2tree.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Latest/ICHING~betaWIP.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/ICHING~betaWIP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/059-ruleexposure-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/059-ruleexposure-4.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tetra5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tetra5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../metadata.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../version.txt" afterDir="false" />
@@ -54,7 +54,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tetra5.py" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.crosssum">
+  <component name="RunManager" selected="Python.tricircles">
     <configuration name="Lorentz-force-scipy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="hex_builder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -610,6 +610,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tricircles" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tricircles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="vert" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="hex_builder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -659,6 +680,7 @@
       <item itemvalue="Python.tetrahedron" />
       <item itemvalue="Python.timetest" />
       <item itemvalue="Python.vert" />
+      <item itemvalue="Python.tricircles" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -812,43 +834,47 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="725" y="1220" key="#timetest/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593131941841" />
-    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl" timestamp="1595011041600">
+    <state x="677" y="1205" key="#tricircles" timestamp="1599008064675">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="677" y="1205" key="#tricircles/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599008064675" />
+    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl" timestamp="1599009362873">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="279" y="118" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592370872275" />
-    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595011041600" />
+    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599009362873" />
     <state x="279" y="1236" width="434" height="488" key="FileChooserDialogImpl/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592603524177" />
     <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591812373104" />
     <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591677824454" />
-    <state width="1523" height="249" key="GridCell.Tab.0.bottom" timestamp="1598121774915">
+    <state width="1523" height="249" key="GridCell.Tab.0.bottom" timestamp="1599101618498">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774915" />
+    <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
     <state width="1381" height="246" key="GridCell.Tab.0.bottom/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
     <state width="688" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1523" height="249" key="GridCell.Tab.0.center" timestamp="1598121774915">
+    <state width="1523" height="249" key="GridCell.Tab.0.center" timestamp="1599101618498">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774915" />
+    <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
     <state width="1381" height="246" key="GridCell.Tab.0.center/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
     <state width="688" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1523" height="249" key="GridCell.Tab.0.left" timestamp="1598121774914">
+    <state width="1523" height="249" key="GridCell.Tab.0.left" timestamp="1599101618497">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774914" />
+    <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618497" />
     <state width="1381" height="246" key="GridCell.Tab.0.left/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
     <state width="688" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1523" height="249" key="GridCell.Tab.0.right" timestamp="1598121774915">
+    <state width="1523" height="249" key="GridCell.Tab.0.right" timestamp="1599101618498">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state width="1375" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598121774915" />
+    <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
     <state width="1381" height="246" key="GridCell.Tab.0.right/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
     <state width="688" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />

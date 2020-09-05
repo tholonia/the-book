@@ -91,7 +91,7 @@ We are not claiming here that the Big Bang theory is correct (because it sounds 
 
 The definition of chaos that works for both is *&ldquo;the degree that order is present in any state.&rdquo;* Both of those states, of total nothingness and total somethingness, have no order.  In one case because that state is empty of anything, and in the other case because that state is full of everything in a moment that everything was happening at once.  Granted, that total state of chaos (after the Big Bang) only lasted 10<sup>-36</sup> seconds, but that doesn&rsquo;t change the fact that total chaos existed at the birth of the Universe.
 
-Perhaps the most useful definition of chaos comes from the authors of &ldquo;*Introduction to Complex Systems, Sustainability and Innovations*rdquo;[^193], which simply states:
+Perhaps the most useful definition of chaos comes from the authors of &ldquo;*Introduction to Complex Systems, Sustainability and Innovations*&rdquo;[^193], which simply states:
 
 > Chaos explores the transitions between order and disorder.  An order arises from the ever growing disorder of the Universe - chaos and order together.
 
@@ -323,7 +323,7 @@ People have been fascinated with this obvious commonality across all of creation
 
 <img src='../Images/rotation1.png' style='width:80%;' />
 
-*(Image from Grant Sanderson's video "But what is a Fourier series? From heat flow to circle drawings" at https://www.3blue1brown.com/) [JWFIX]*
+*(Image from Grant Sanderson's video "But what is a Fourier series? From heat flow to circle drawings" at https://www.3blue1brown.com/)*
 
 By the same token, everything, can see and hear, can be described as a collection of oscillations.  This was proven by the famous French mathematician Joseph Fourier (1768–1830) when he was researching how heat moves.  From his work came the famous and brilliant *Fourier Series* and *Fourier Transformation*.  The Fourier Series describes the hierarchical order of frequencies, or rotations, that would be needed to produce a specific output.  For example, the image above shows a portrait of Joseph Fourier being drawn by a pen at the end of a long series of oscillating circles, shown by the rotating arrows, each subsequent oscillation originating from the tip of the previous circle's arrow. The Fourier Transform is the math that can reverse engineer some collection of oscillations, such as music or a painting, and discover the recipe of its various frequencies and their quantities. By extension, this can apply to 3 (or more) dimensions as well.  
 
@@ -1438,6 +1438,14 @@ We are working from the premise that everything that exists is a product of a st
 
 This simplest of concepts can explain the holarchy, tetrahedrons, magic crystals, all the laws of physics and every form of intelligence in existence.
 
+There is a less simple, but far more interesting concept, that shows this as well, and one that everyone has at least seen, and that is the classic fractal of the famous Mandelbrot Set.  This image is actually a stability map of a very simple concept that we see all around us, iteration, which is the very definition of a pattern.   Iteration is another word for rule.  When a pattern follows a rule, it is iterative, and with all iterative rules, eventually it will either stabilize to something or nothing.  For example, $x=x+1$ is a very simple iterative rule that creates the numbers 1, 2, 3, 4, &hellip;, etc., but where does it ultimately end up?  At infinity, hence, it is an unstable rule.  By contrast, an iterative formulas such as $=x+S/x$, where $S$ is any real number, will stabilize to one value, which in this case will be the square-root of $S$. If the results of an iterative function narrow down on a number is it called *convergent*, and of the results are ever-expanding, it is called *divergent*.  But one function can be convergent sometimes and divergent at other times.  For example, $z=z^2+c$.  If $z$ starts at $0$ and $c=1$, very quickly $z$ approaches infinity, but if we use $c=-1$, $z$ simply alternates between $-1$ and $0$.  
+
+This is exactly the formula used in the Mandelbrot set. The image, commonly called the *Mandelbrot Bug* (left), is 2D because it uses complex numbers, which are also 2D, but it is the same process.  If the formula converges to a stable number, that number is plotted as a black dot on a 2D graphs. If the number diverges to infinity, it is unstable and plotted as a white dot. The more interesting and colorful image on the right shows the same thing, but the colors are used to represent how unstable the function is, the lighter the colors, the more unstable.
+
+<img src='../Images/manbw.png' style='width:100%;' />
+
+As you can see, all the interesting stuff exists on the narrow but infinitely deep frontier between the perfectly stable and impossibly unstable.  How does this apply to the thologram? It is an example of not only the stable patterns that exist (the black bug), but also of patterns that are quasi-stable, in that they exist for a time, but eventually diffuse into the nothingness of infinity.   The tholonic contention that the expansive and growing edge of reality exists in this frontier.  Keep that concept in mind as you read on.
+
 ### Geometry I
 
 The most effective way to describe this process of emergence from a dot to everything in existence is with the language of geometry.
@@ -1612,17 +1620,13 @@ This trigram of relationships are present in every instance of creation and will
 
 <img src='../Images/lorentz_force.png' style='width:30%;margin:auto;' />
 
-Notice that in the first example when we used the three points of Parent, Child, and Peer, these elements are static (nouns), and their relationships of Negotiation, Definition, and Contribution are dynamic (verbs).  Now when we use Negotiation, Definition, and Contribution as the three points, the relations between them are once again static.  Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic.  This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
+Notice that in the first example when we used the three points of *Parent*, *Child*, and *Peer*, these elements are static (nouns), and their relationships of *Negotiation*, *Definition*, and *Contribution* are dynamic (verbs).  Now when we use *Negotiation*, *Definition*, and *Contribution* as the three points, the relations between them are once again static.  Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic.  This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
 
 #### **Claim 48:** Static instances (stable patterns) form dynamic relationships (movement of energy).  Dynamic relationships  (movement of energy) form static instances (stable patterns).
 
 <img src='../Images/059-ruleexposure-4.png' style='width:100%;margin:auto;' />
 
 Hopefully, using colors as an example will add some clarity.  Above left we show the three dynamic domains of the archetypes of N, C and D, and their resulting three static domains of the archetypes Parent, Peer and Child.  On the right, we use the same colors to arrive at the three dynamic domains of N, D, C.  
-
-More accurately, this is a better representation if we are going to use colors, but it is more difficult to use, so keep this in your head as a reference.
-
-<img src='../Images/colorfog-2-(tholon).png' style='width:40%;margin:auto;' />
 
 This trigram is the basic tholonic model that describes the movement of energy in the process of creation.  What would be the simplest instance of this trigram? Most likely it would be something like an atom, the first instance of matter, with a neutral (N), negative (D), and positive (C) particle.  This is the description of hydrogen, the very first atom created, with one neutron, one proton, and one electron, the most abundant element in the universe and from which every other element that exists is created from.  On the biological level, this describes mitosis, the process of cell duplication, or reproduction, where one cell gives rise to two genetically identical daughter cells.  In the realm of philosophy, we have the Hegelian Dialectic of thesis, antithesis, and synthesis.  In fact, for a tholonic concept to exist as a potentially viable and sustainable expression it must satisfy a form of the Hegelian Dialectic, in that it must support a thesis (D), antithesis (C), and synthesis (N).
 
@@ -1762,7 +1766,7 @@ If we take the parent trigrams and fold it according to its four children, we ge
 
 The implication of this transformation from 2D to 3D is significant, for if we take our 2D model and turn it into a bunch of connected tetrahedrons of tholonic structures, we get the first instance of a 3D model that, among other things, shows the first instance of 3D oscillation (see *Fig.b1* below).
 
-The mathematics of a equilateral triangle are fairly straight forward, but the math of a tetrahedron is quite fascinating in the the way is supports the tholonic model.  Rather than detail that relationship, here is a small table that holds the formulas for calculating the x,y,z coordinates of a tetrahedron (with the tip along the Z-axis and the base facing the XY plane).  Perhaps the reader can see how the patterns of 2s, 3s, and 4s could map easily to this data.  I have left in seemingly useless data, like 0+0 and $\boldsymbol{0-\frac{1}{\sqrt{3}}}$ but adding them makes the patterns a little more obvious.  Some highlights worth pointing out is how the first point, which would equate to the blue dot, or N-state, references the direct value of 3 as a whole, while all of the other values reference only the inverse of the whole.  This is consistent with the idea that the N-state holds all the possibilities of the two children as well as the limits of the children.  We can also see how the 2^nd^ point, the green dot, adds value and the 3^rd^ point, the red dot, subtracts value.  We applied these same rules to the two children when calculating *pi*.  Also notice how the only points that can generate new creations exist between 1 and -1 (on the 2D X axis graph) where there is a value of 0 (as opposed____ to the 1, -1, 1 or -1, 1, -1).
+The mathematics of a equilateral triangle are fairly straight forward, but the math of a tetrahedron is quite fascinating in the the way is supports the tholonic model.  Rather than detail that relationship, here is a small table that holds the formulas for calculating the x,y,z coordinates of a tetrahedron (with the tip along the Z-axis and the base facing the XY plane).  Perhaps the reader can see how the patterns of 2s, 3s, and 4s could map easily to this data.  I have left in seemingly useless data, like 0+0 and $\boldsymbol{0-\frac{1}{\sqrt{3}}}$ but adding them makes the patterns a little more obvious.  Some highlights worth pointing out is how the first point, which would equate to the blue dot, or N-state, references the direct value of 3 as a whole, while all of the other values reference only the inverse of the whole.  This is consistent with the idea that the N-state holds all the possibilities of the two children as well as the limits of the children.  We can also see how the 2^nd^ point, the green dot, adds value and the 3^rd^ point, the red dot, subtracts value.  We applied these same rules to the two children when calculating *pi*.  Also notice how the only points that can generate new N-states exist between 1 and -1, but these N-states can only create children in teh axis where there is a 0, and that is only on the 2D X axis.
 
 <img src='../Images/SQRT.png' style='width:100%;margin:auto;' />
 
@@ -4076,7 +4080,7 @@ These, and other models of creation, are all based on the number 6. To name just
 
 ## Form
 
-[JWFIX: this para is confusing]We can easily recognize this same archetypal structure of the I-Ching and the tholon in many systems, from the process of mitosis to the shape of trees and plants with their *inner* roots and *outer* branches and leaves.  In this form, we see the *inner* paths expanding downward and the *outer* paths expanding upward. This is significant because in the thologram there is a similar concept of a real tholon and a virtual tholon which are matched to create a complete tholon. We also saw an example of this when looking at how the complete tholon models quarks to the proton. 
+We can easily recognize this same archetypal structure of the I-Ching and the tholon in many systems, from the process of mitosis to the shape of trees and plants with their *inner* roots and *outer* branches and leaves. This is significant because in the thologram there is a similar concept of a real tholon and a virtual tholon which are matched to create a complete tholon. We also saw an example of this when looking at how the complete tholon models quarks to the proton. 
 
 In the thologram all odd numbered tholons are *real* and all even numbered tholons are *virtual*. Likewise all hexagrams that begin with a yin line are even numbered hexagrams, and those that begin with a yang are odd numbered. We now have a very clean mapping between the thologram and the I-Ching of *virtual* as yin and *real* as yang. 
 
@@ -4099,6 +4103,12 @@ Also of interest in this diagram is how it shows that the original N-source is t
 <img src="/home/jw/store/books/tholonia/Images/hex_builder.png" style="width:100%;" />
 
 All of this is to demonstrate how the two systems are quite compatible to the point where not only can the entire I-Ching be mapped to the thologram, but the thologram can greatly elaborate on the I-Ching and give it a 3D structure, and given its recursive nature, infinitely so. 
+
+One last observation regarding binary growth, form and chaos.  The classic bifurcation diagram below is determined by the variors rates of equilibrium for any growth rate.  As something grows, it doubles the states of equilibriam it sustains. this applies to everything, apparently.  It applies here because not only in the I-Ching a simple bifurcation diagram, but it also could apply to the growthrates of tholons. 
+
+<img src="../Images/lyman2d.png" style="width:60%;" />
+
+
 
 ## Tech
 
@@ -4185,13 +4195,9 @@ Here are some details worth noting:
 - 
 - On a single trigram the first side connects $\overline{ND}$, blue &#8594; green, <img src="/home/jw/store/books/tholonia/Images/dots-blue-green.png" style="width:35px"/>. When a child tholon is created within that single trigram, it then has 4 triangles, which is what is required to make a complete tholon, but now the D point has been replace with a C point, so what was $\overline{NC} $ is now $\overline{ND} $, blue&#8594;red. <img src="../Images/dots-blue-red.png" style="width:35px"/>. However, in the next generation, it goes back to the original of $\overline{ND}$, blue &#8594; green <img src="/home/jw/store/books/tholonia/Images/dots-blue-green.png" style="width:35px"/>. This is because all odd number generations, 1,3,5, etc., maintain the original order of colors, and all even number generations flip them.  We now can see there are two orders of sequence, the initial order of blue&#8594;green&#8594;red <img src="../Images/dots-blue-green-red.png" style="width:35px"/>, and its child order of blue&#8594;red&#8594;green <img src="/home/jw/store/books/tholonia/Images/dots-blue-red-green.png" style="width:35px"/>.  We'll only look as the first order in the following table. 
 
-Here are the traditional definitions of the hexagrams that are teh same value as the side of the tholon.  There is a 1:>250,000 chance their similarity is coincidental.
+Here are the traditional definitions of the hexagrams that are the same value as the side of the tholon.  There is a 1:>250,000 chance their similarity is coincidental.
 
-| Tholonic Definitions                                         |                                                              | I-Ching Definitions                                          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| The vector from *Negotiation* to *Definitions* is ***Laws, rules and limits.*** | <img src="../Images/dots-blue-green.png" style="width:100px"/> | **Decrease** (hex 41, bin 35): **&ldquo;Restrictions in outer resources requires one to discover and develop inner resources.&rdquo;** |
-| The vector from *Definition* to *Contribution* is ***Cooperation or conflict.*** | <img src="../Images/dots-green-red.png" style="width:100px"/> | **Duration** (hex 32, bin 14): **&ldquo;The self-renewing movement of an organized, firmly integrated whole is what allows all things to endure and is the secret to understanding the nature of all beings in heaven and on earth.&rdquo;** |
-| The vector from *Contribution* to *Negotiation* is ***work, dedication, service*** | <img src="../Images/dots-red-blue.png" style="width:100px"/> | **After Completion** (hex 63, bin 21): **&ldquo;In this time of harmonious transformation, indifference to one's obligation and responsibility will lead to decay.&rdquo;** |
+<img src="../Images/definitions.png" style="width:100%;" />
 
 The following are some of the observations (super nerdy):
 
@@ -4233,7 +4239,7 @@ The tholonic model states that the *green dot* (*Definition*) is what creates li
 
 We start by assigning N=1. As D and C are part of, or children of N, we then calculate D as $\frac{1}{c}$ and C as $\frac{1}{d}$ . To create a new instance of N we start with the original N, subtract D, and add C.  So,  $N_{1}=N_{0}-\frac{1}{d}+\frac{1}{c}$ , or  $N_{1}=1-\frac{1}{5}+\frac{1}{2}= 0.78539822525372$. We repeat this process again, but we increment $d$ and $c$ by  $n^2$. After doing this a million or so times, we get the number 0.7853982294712. Multiply this number by $n^2$ (which is 4) and you get *pi*.
 
-This graph below diagrams the process (and shows the results already multiplied by 4). Notice how this is exactly the same model that was proposed for transforming a holon from the holarchic model, to a tholon. Included are the formulas that show how to do the calculations with nothing but the existing I-Ching values and using the mathematical relationships of the tholon. [JWFIX:ref tholonic math appendix] 
+This graph below diagrams the process (and shows the results already multiplied by 4). Notice how this is exactly the same model that was proposed for transforming a holon from the holarchic model, to a tholon. Included are the formulas that show how to do the calculations with nothing but the existing I-Ching values and using the mathematical relationships of the tholon (see *Appendix B - &ldquo;Tholinic Math&rdquo;*)
 
 <img src="/home/jw/store/books/tholonia/Images/pi-holons2.png" style="width:100%;" /> 
 
@@ -4316,19 +4322,27 @@ We have also adopted the astrological/Neo-Platonic qualities of these elements. 
 
 There is another reasoning behind what trigrams are chosen to be cardinal or dynamic. When applying tholonic logic to the I-Ching we have to find the perspective of each model that are compatible with each other. In the diagram below we graphically map the values of the I-Ching to the tholon to find the patterns.
 
-### ??? [JWFIX: rw]
+### Which Pattern?
 
-*Note: The following section might be a bit difficult, or boring,  to follow. It is the process that was used to discover the optimum pattern needed to validate the positions of the trigrams. Feel free to skip this part, as nothing in it will be reference anywhere else.*
+*Note: The following section might be a bit difficult, or boring,  to follow. It is the process that was used to discover the optimum pattern needed to validate the positions of the trigrams. Feel free to skip this part, as nothing in it will be referenced anywhere else.*
 
-Below, in *Perspective 1*,  we have taken the colored corners and joined them at their tips. The green corners have a value of 0, but the values of the red corner are determined by the row, where, row 0-red has a value of 1, row 1-red has a value of 2 and row 2-red has a value of 3. By selecting one corner form each of the three rows we can count to 7.  However, we keep the orientation of the corner in tact, so when there are two corners that have the same overlap, is is represented as yellow in the circle. For example, in the first instance we have row-1 green (0), row-2 green (0) and row-3 green (0), which is three 0s, hence 0+0+0=0. In the second instance we have row-0 red (1), row-1 green (0), and row-2 green (0), so 1+0+0=1. In the third instance we have row-0 green (0), row-1 red (2), row-2 green (0), so 0+2+0=2, etc.
+The question is, which is the &ldquo;best&rdquo; way to view the tholon?  Top-down or concentrically? The top-down seems bore compatible with binary progression, while the concentric seems to *object-oriented*.  
 
-In *Perspective 2*, rather than use the values of the rows, we use the values of the trigrams. In this example we move from trigram 1, to 2, to 3 in clockwise order, as opposed to row 0, row 1 and row 2 from top down.
+Below, in *Perspective 1*,  we have taken the colored corners of a trigrams and then assembled those corners together by joining them at their tips with while preserving their alignment. The idea here is to find a pattern of progression among the N, D and C properties that can work for either perspective.
+
+We don&rsquo;t assign any value to N, or the blue corner, because we are only looking at the two poles within which all things come into being.. We assign the green corners a value of 0 simply because it is first, but the value of the red corners are determined by the row. This is done by using the row numbers as the exponent of 2 (because we have two corners), which result in the red corners of *Row 0*, *Row 1*, and *Row 2* having the respective vales of 0, 1 and 4. Using this method we can create 8 combinations of corners that have the values 0 - 7.  Because we keep the orientation of the corner in tact, there can be overlapping corners. These are represented by a yellow corner. For example, in the first instance we have *Row 1* green (0), *Row 2* green (0) and *Row 3* green (0), which is three 0s, hence 0+0+0=0. In the second instance we have *Row 0* red (1), *Row 1* green (0), and *Row 2* green (0), so 1+0+0=1. In the third instance we have *Row 0* green (0), *Row 1* red (2), *Row 2* green (0), so 0+2+0=2, etc.
+
+In *Perspective 2*, rather than assign values to the rows, we assign them to the trigrams. In this example we move from trigram 1, to 2, to 3 in clockwise order, as opposed to *Row 0* to *Row 1* to *Row 2* from the top down.
 
  
 
 <img src="/home/jw/store/books/tholonia/Images/perspectives.png" style="width:100%" />
 
-Both perspectives have patterns. *Perspective 1* uses a binary top-down bifurcation model, similar to the I-Ching, and shows the cardinal points as being composed of only primary elements (red and green only), and it shows the dynamic trigrams as have a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. *Perspective 2* uses the cyclical tholonic values as they are assigned to the tholonic trigrams. We definitely see patterns there, and no doubt they can shed new light on both the I-Ching and the thologram, but we will only be using Perspective 1 for now as it answers our question of which trigrams are static or dynamic, which is made very clear in the diagrams below when the images are arranged in their proper order.
+Both perspectives have patterns. The top-down binary modal of *Perspective 1*, similar to the I-Ching, shows the cardinal points (0, 1, 5, 7) as being composed of only primary elements (red and green only), and it shows the dynamic points (2, 3, 4, 6) as having a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. We also see that the opposing pairs and the negatives  (as in photo negatives) of each other and alternate mirroring one another and 
+
+The object-oriented *Perspective 2* uses the cyclical tholonic values as they are assigned to the tholonic trigrams. We definitely see patterns there, and no doubt they can shed new light on both the I-Ching and the thologram. 
+
+<img src="../Images/patternposition.png" style="width:100%" />We will only be using Perspective 1. In addition to its preferred symmetry,  it answers the question of which trigrams are static or dynamic, which is made very clear in the diagrams below when the images are arranged in their proper order. 
 
 <img src="/home/jw/store/books/tholonia/Images/threeviews.png" style="width:100%" />
 
@@ -4336,7 +4350,7 @@ So, how do we know what trigram is associated with what element? The reasoning i
 
 The dynamic trigrams are a bit less obvious. We need to look at the relationships between the cardinal trigrams to determine what dynamic property it describes via the three stages of *Negotiation*, *Definition*,  and *Contribution*. 
 
-But before we do that, let's look at some math.  Looking at the cardinal numbers of 7,5,0,2 and the transitional numbers of 6,4,1,3, it does not appear that that have any relationship other then that they are in order - meaning, we can't use the transitional number to calculate the cardinal number, at least not at first glance.  However, there is a way&hellip;
+But before we do that, let's look at some math.  Looking at the cardinal numbers of 7,5,0,2 and the transitional numbers of 6,4,1,3, it does not appear that that have any relationship other then that they are in order - meaning, we can't use the transitional numbers to calculate the cardinal number, at least not at first glance.  However, there is a way&hellip;
 
 Start with 7, add the starting cardinal number (*c*), subtract the sum of the transitional value (*t*), plus it's mirror value (*T~1~*), and then subtract 7 if the result is 7 or greater, and we get the new cardinal number (*c~1~*).
 
@@ -4353,16 +4367,13 @@ We can re-describe the above by also saying: One static property transitions int
 - The mirrored values must be considered as a one value with two instances, not as two separate values.
 - The property of the cardinal values are integral to every transition because the transition *is* the remains of the previous cardinal value added to the next cardinal value.
 - The pattern of the static cardinal points is simple, and therefore more fundamental by nature, while the pattern for the dynamic transitional point is less so.
+- The yang properties must first be removed before the transition, suggesting that transitioning has the quality of yin.
 
 This pattern only works on the cardinal values, and fails if we apply it to the transitional values.
 
 ## Explanations
 
 Now that we have these sequences, what do they mean?  Here are the explanations of the cardinal and transitional elements with the reasoning.
-
-
-
-[JWFIX: what is the concept of an originating source?]
 
 
 ### EARTH <img src="/home/jw/store/books/tholonia/Images/bc/trigram-b00.png" style="width:30px"/> 0
@@ -4421,7 +4432,7 @@ Here are the explanations of the transitional or dynamic interactions.
 
 ### Release (AIR & FIRE ) <img src="/home/jw/store/books/tholonia/Images/bc/trigram-b06.png" style="width:30px"/> 6
 
-*Release* represents accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. [JWFIX: is next sentence ok?] It is the initial outward movement that leads to expression. Instances of this are **lightening**, **Big Bang**, **inspiration**.
+*Release* represents accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. It is the initial outward movement that leads to expression. Instances of this are **lightening**, **Big Bang**, **inspiration**.
 
 The trigram shows the symbol of yin energy re-entering the solid yang. The new yin line comes in at the lowest position of beginning, birth, idea.  The yang is still dominant as the middle line is still yang, so the transition is yang in nature.
 
@@ -4441,7 +4452,7 @@ The quadrant of FIRE <img src="/home/jw/store/books/tholonia/Images/bc/trigram-b
 
 1. *Negotiation*: <img src="/home/jw/store/books/tholonia/Images/bc/yin.png" style="width:30px"/> In the dynamic between FIRE and EARTH, FIRE is always dependent on EARTH.
 2. *Definition*: <img src="/home/jw/store/books/tholonia/Images/bc/yin.png" style="width:30px"/> FIRE can only find expression in EARTH, just like energy can only be experienced via matter. Therefore, the limitations on the expression of FIRE are determined by the yin quality of EARTH.
-3. *Contribution*: <img src="/home/jw/store/books/tholonia/Images/bc/yang.png" style="width:30px"/> [JWFIX:reword?] The restructuring of EARTH by FIRE is what brings everything into existence.
+3. *Contribution*: <img src="/home/jw/store/books/tholonia/Images/bc/yang.png" style="width:30px"/> The restructuring of matter (EARTH) by energy (FIRE) is what brings everything into existence.
 
 ### Filling (EARTH & WATER ) <img src="/home/jw/store/books/tholonia/Images/bc/trigram-b01.png" style="width:30px"/> 1
 
@@ -4499,11 +4510,11 @@ However, several other validating patterns emerged that were pretty astounding.
 
 <img src="/home/jw/store/books/tholonia/Images/tetrahex-hex-triplet-3.png" style="width:100%" />
 
-Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or $6\times 6\times 6$ (referring back to the topic of 216 in *Tholonia*, the book).  [JWFIX: here]
+Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or $[Math Processing Error]6\times 6\times 6$ (see *Appendix D &ldquo;New Data&rdquo;*).
 
 Notice how each of the four triangular sections (in ***Fig. h3a***, and by implication, ***Fig.h3***) have values that exist within each triangle as either red-framed *moving* or green-framed *transitional* values, i.e. hexagrams 36, *Keeping Still*<img src="/home/jw/store/books/tholonia/Images/bc/hexagramB36.png" style="width:25px"/>, 27, *Joyous* <img src="/home/jw/store/books/tholonia/Images/bc/hexagramB27.png" style="width:25px"/>, 21, *After Completion* <img src="/home/jw/store/books/tholonia/Images/bc/hexagramB21.png" style="width:25px"/>, and 42, *Before Completion* <img src="/home/jw/store/books/tholonia/Images/bc/hexagramB42.png" style="width:25px"/> . 
 
-If we were to create a sequence of the I-Ching based on the tholonic model above, it would look like the following image:[JWFIX: these are mirrored]
+If we were to create a sequence of the I-Ching based on the tholonic model above, it would look like the following image:
 
 
 
@@ -4519,8 +4530,10 @@ Some interesting points regarding the above sequence:
 
 - While the numbers are not sequential, each pair of opposites equal 63.
 
-- [JWFIX: is this correct?] I have added the octal (base 8) value because it is far more clear.  Base-8, if you are not familiar with it, is simply a number system that is based on the eight values 0,1,2,3,4,5,6,7.  This means when you get to 8 you have to start with the double digits, so our base-10 number 8 in octal is written as "10".<img src="/home/jw/store/books/tholonia/Images/decoct.png" style="width:70%" />
-  [JWFIX: check if this base-8 claim is true] The beauty of using octal numbers for the I-Ching is the number itself is telling you what trigrams it's made of.  For example hexagram 12 (001100) is octal o14 (we use 'o' for octal numbers).  Hexagram 12 is composed of two trigrams; 001 and 100.  Converting from binary to octal, 001 = 1, and 100 = 4… so we simply put the two numbers next to each other to get o14. No addition is needed to arrive at the correct octal value for 001100.  Today, if we were to do this with our base-10 number system we would get meaningless results, and be chided for engaging in some silly form of numerology or superstition, however, in the past when numbers and letters were often shared, and when using with base-60 (Babylonian, Sumerian) or base-8 (Native American, Proto-Indo-European) systems, simple rearranging of numbers can produce valid mathematical solutions.  In fact, that is exactly how computers, which use base-8 (or nbase-16, 32, 64, etc.), do math… by simply putting numbers next to each other to perform addition.
+- I have added the octal (base 8) value because it is far more clear.  Base-8, if you are not familiar with it, is simply a number system that is based on the eight values 0,1,2,3,4,5,6,7.  This means when you are counting and you get to 8 you have to start with the double digits, so our base-10 number 8 in octal is written as "10".
+  
+- <img src="/home/jw/store/books/tholonia/Images/decoct.png" style="width:70%" />
+  The beauty of using octal numbers for the I-Ching is the number itself is telling you what trigrams it's made of.  For example hexagram 12 (001100) is octal o14 (we use 'o' for octal numbers).  Hexagram 12 is composed of two trigrams; 001 and 100.  Converting from binary to octal, 001 = 1, and 100 = 4… so we simply put the two numbers next to each other to get o14. If we trued to do that with 12, or any number not based on 2, it would fail. No addition is needed to arrive at the correct octal value for 001100.  Today, if we were to do this with our base-10 number system we would get meaningless results, and be chided for engaging in some silly form of numerology or superstition, however, in the past when numbers and letters were often shared, and when using with base-60 (Babylonian, Sumerian) or base-8 (Native American, Proto-Indo-European) systems, simple rearranging of numbers can produce valid mathematical solutions.  In fact, that is exactly how computers, which use base-8 (or base-16, 32, 64, etc.), do math… by simply putting numbers next to each other to perform addition.
 
 - Numbers are not as intuitive as images, so here are a couple of charts that clearly show the self-similarity trigram-ish and pattern of the sequence.  Both of these plots plot the series in each of the quadrants of the tholonic I-Ching whuch makes its binary and tholonically fractal nature clear.
 
@@ -4544,7 +4557,7 @@ If this is a true statement, then it must be true for all numbers. Let's try thi
 
 <img src="/home/jw/store/books/tholonia/Images/numbers-1.2.png" style="width:80%" />
 
-Now we have a problem, because, as is shown in the above 1-level tree chart, we have four 7s, which when split make all the numbers 0-7, but what then are the two parents of these 7s? If we apply the same logic, then it would be 14 and 14, making the originating parent 28, but this is not allowed as we have no numbers that are greater than 7.  Even if we just use a base-8 number system, we still have the problem that any number we use as the top number will never create two children that are the same number.  One reason why we can never create a parent pair of numbers for the four 7s is because the top number is always odd. If the top number is even, the number of possible pairs is an odd number, which breaks the symmetry, and we assume that symmetry is a requirement based on the fact that the first number to represent something, 1, creates symmetry.  Zero, which represents nothing, is technically an even number. [JWFIX: confusing]
+Now we have a problem, because, as is shown in the above 1-level tree chart, we have four 7s, which when split make all the numbers 0-7, but what then are the two parents of these 7s? If we apply the same logic, then those four 7s would have the two parents of 14 and 14, making the originating parent 28, but this is not allowed as we have no numbers that are greater than 7.  But even we did have such numbers we still have the problem that any number we use as a parent number will never create two children that are the same number because the parent number *must* be odd to create different children. In addition, if the top number is even, the number of possible pairs is an odd number.  For example, if 6 is the parent, we have 4 possible child pairs of 0-6, 1-5, 2-4, and 3-3, but 3-3 is not allowed as they are the same number, leaving 3 pairs.  This breaks the binary symmetry, and we assume that symmetry is a requirement based on the fact that the first number to represent something, 1, creates perfect symmetry.  0, which represents nothing, is technically an even number. 
 
 The problem then is that there is no number that can be used to represent the parents.  So, we have to invent some numbers.  This is done all the time in math, for example *imaginary numbers* and even *pure imaginary numbers*.  These are numbers like *i*, the square root of -1.  Let's invent some imaginary numbers, but let's call them *primordial numbers*.
 
@@ -4564,15 +4577,13 @@ We start with A and its pair, which consists of A~0~ and A~1~.  On the next row,
 
 <img src="/home/jw/store/books/tholonia/Images/numbers-1.4.png" style="width:100%" />
 
-For the chart for **Row 3** I put a &ldquo;?&rdquo; in the center because I just don't know what to put there that will not make things more obtuse.  All we can say about &ldquo;?&rdquo; is that it is a meta-value that all four outer values equals when opposites are added. [JWFIX: fix graphic, add A0 and A1 to center]
-
 At the bottom of the tree above we have seven states of A, each identified by the sub-index value, representing its lineage from A.  If you understand binary numbers you'll notice that the sub-indexes follow the perfect sequential order of 76543210 (starting from the left), yet the number they represent have a very different order 70615243.  This seems to make no logical sense, but in fact, it is an amazing relationship.  
 
-The sub-index values represent the path of expression from A that resulted in a number value.  This is the *order of instantiation*, while the value itself is the *value of instantiation*.  Look at how these two sets of values relate to one another.   Below (left) are the binary values for the sub-indexes and the decimal value of that number.  This is not the actual number it represents, just the index.  For example, if we were to use the decimal values of the binary value as an index we would write: $A_{7}=7$, $A_{6}=0$, $A_{5}=6$ ,$A_{4}=1$, $A_{3}=5$, $A_{2}=2$, $A_{1}=4$, $A_{0}=3$
+The sub-index values represent the path of expression from A that resulted in a number value.  This is the *order of instantiation*, while the value itself is the *value of instantiation*.  Look at how these two sets of values relate to one another.   Below (left) are the binary values for the sub-indexes and the decimal value of that number.  This is not the actual number it represents, just the index.  For example, if we were to use the decimal values of the binary value as an index we would write: $[Math Processing Error]A_{7}=7$, $[Math Processing Error]A_{6}=0$, $[Math Processing Error]A_{5}=6$ ,$[Math Processing Error]A_{4}=1$, $[Math Processing Error]A_{3}=5$, $[Math Processing Error]A_{2}=2$, $[Math Processing Error]A_{1}=4$, $[Math Processing Error]A_{0}=3$
 
 <img src="/home/jw/store/books/tholonia/Images/numbers-1.5.png" style="width:60%" />
 
-The *value of instantiation* ($VI$) axis is perpendicular to the *order of instantiation* ($OI$) axis.  These two axes are perfectly in sync with each other while not only being perfectly squared [JWFIX: squared?], but the natural process of reordering is a very efficient form of encoding (and therefore decoding).  It also shows us that the *value of instantiation* is an encoded version of the *order of instantiation*.
+The *value of instantiation* ($[Math Processing Error]VI$) axis is perpendicular to the *order of instantiation* ($[Math Processing Error]OI$) axis.  These two axes are perfectly in sync with each other in two different axis and seem to be a natural process of reordering is a very efficient form of encoding (and therefore decoding) as the *value of instantiation* is an encoded version of the *order of instantiation* and visa versa.
 
 Technically speaking (and I need to say that because what comes next sounds quite esoteric), every instance, which is every *thing* that exists, is not only a piece of the *One Thing* that all existence came from, the ultimate A, which tholonically speaking is a 0-dimensional dot, but also a recombination of the very path that caused it to come into existence starting from the dot, the A, at the beginning of creation. If there was only one source from which everything grew from, then every instance, every thing, has a unique *order of instantiation* value which describes the path it has taken from 0-dimensions.  Because every order of instantiation is unique, so too is the *value of instantiation*.
 
@@ -4580,7 +4591,7 @@ But there is one more perspective that is worth looking at.  If we arrange this 
 
 
 
-<img src="/home/jw/store/books/tholonia/Images/honeymap.png" style="width:90%" />
+<img src="../Images/honeymap.png" style="width:90%" />
 
 There are many significant patterns here, but the ones I'd like to point out specifically are:
 
@@ -4591,14 +4602,12 @@ There are many significant patterns here, but the ones I'd like to point out spe
   - The 12:00 7(7) line is 3rd because while $OI= VI$, it also has the addition 5(6) so the sum does not match the $OI$ or $VI$. The the other two have the same sums for $OI$ and $VI$.  Given this is the only 7(7) line that adds a new instantiable value, this equates to the *Contribute* point of the tholon. 
   - The 2(2) line equates to the child N-state because it includes all the *meta* children of $A$ ($A_{1}$ and $A_{11}$) that leads to the final value of $A_{111}$ which is 7.
   - Also of interest is how the only values that relate to these three lines create an oscillation of 7 points <img src="/home/jw/store/books/tholonia/Images/honeymapsin.png" style="width:90px" />, and how the total value of the sub-indexes equals 14 (7+3+1+0+0+1+2)
-- [JWFIX: bad paragraph]Values A~011~ and A~100~ overlap, and of course, when combined they equal A~111~, which is supporting evidence that this model is viable, plus, the VI value, indicating how this unique double-value will instantiate itself is the number 1, and is also the first instance of an overlap that happens to be the reverse value of the original A source value. In short, the number 1 represents the instance of the source that created everything, and came into existence by the source dividing itself and then recombining itself.  Sound familiar?
+- Values A~011~ and A~100~ overlap, and of course, when combined they equal A~111~, which is supporting evidence that this model is viable. In addition, the sums of the  $OI$ values is the limit of the *order*, 7, and the sums of the $VI$ values shows it will express itself (the *value*) as 6.
 - Only meta-values that reach the *observable level* have some quality that is quantifiable as a number, but as everything beyond that point can have numerical values, the implication is that there are 7 meta-values across 2 generations and 3 levels that stand between A and all instances or numbers.  What is interesting about this is that we see this same concept in religion and  mythological cosmology (Mesopotamian, Islam, Judaism, Christianity, Hinduism, Jainism), where Heaven, that place from which our material reality was conceived, has seven divisions.  In addition we have the concept of a trinity, an even more fundamental concept that has been incorporated in our models of reality going back to the most ancient beliefs.
 
 ## DNA
 
-We see this same pattern of progression in the most fundamental form of creation; genetics. Below is a graph that illustrates the how the bases (adenine, cytosine, guanine, and thymine) pair together to form nucleotides.  An $A$ can only double bond with a $T$, and  $C$ can only triple bond with a $G$. This is accomplished by taking one side, inverting it (line a negative image), then reversing it (horizontal flip). When we do that, the pairs automatically line up in their proper order.  In the image below we the same concepts as above by considering the bases of $A,T,G,C$ to be the instantiable of some *meta-base*, or some unstantiable archetype. These are represented as the half-circles and full circles. We also assign sun-index vales representing their paths, and, as you can see, every pair has two values that equals 3.
-
-[EDITED TO HERE]
+We see this same pattern of progression in the most fundamental form of creation; genetics. Below is a graph that illustrates the how the bases (adenine, cytosine, guanine, and thymine) pair together to form nucleotides.  An $[Math Processing Error]A$ can only double bond with a $[Math Processing Error]T$, and  $[Math Processing Error]C$ can only triple bond with a $[Math Processing Error]G$. This is accomplished by taking one side, inverting it (line a negative image), then reversing it (horizontal flip). When we do that, the pairs automatically line up in their proper order.  In the image below we the same concepts as above by considering the bases of $[Math Processing Error]A,T,G,C$ to be the instantiable of some *meta-base*, or some unstantiable archetype. These are represented as the half-circles and full circles. We also assign sun-index vales representing their paths, and, as you can see, every pair has two values that equals 3.
 
 The intention is to show how at least one aspect of mechanics of a DNA strand follows the same the order, or pattern, of this archetype of *hierarchical primordial numbers* and that of many natural processes, and, of course, the I-Ching. For example, the parent of the bonded bases could be the concept of the class of compounds called purines or pyrimidines.  Their parent, the source, could be the class of aromatic heterocyclic organic compounds, which all the children are a member of.  Or perhaps it could be *Chargaff's Rule*,  which states "DNA must have equal parts of GC and AT nucleotides."  There could be many different instances of these parents, but in every case (where this model is applies), they will follow the same pattern of expression.
 
@@ -4736,11 +4745,31 @@ While there may be many ways to create order of the trigrams, the tholonic model
 
 Here are some of the points spelled out: 
 
-- Every corner trigram value (28,42,49, or 7$\times$ 4,6,7) which is yang in nature, is reversed on its opposite edge (35,21,14, or 7$\times$5,3,2), which are yin in nature. 
+- The same two I-Ching trigrams of 1 and 6 exist in both the parent tholonic trigram and the across the spectrum of instantiations. In the parent the trigrams are arranged as *inner filling* and *outer release* to create hexagram (binary) 49 (traditional 42) of **Increase**, wherein it states: 
+
+  > Sacrifice on the part of those above for the increase of those below
+
+  Across the spectrum they are arranged as *inner release* and *outer filling* to creates the hexagram (binary) 14 (traditional 32) of **Duration**, wherein is states:
+
+  >  Duration is rather the self-contained and therefore self-renewing movement of an organized, firmly integrated whole, taking place in accordance with immutable laws and beginning anew at every ending.
+
+- Every corner trigram value (28, 42, 49, or 7$\times$ 4, 6, 7) which is yang in nature, is reversed on its opposite edge (35, 21, 14, or 7$\times$5, 3, 2), which are yin in nature. 
+
 - The two extremes, 7 and 0, are in the center as **Standstill** of AIR and EARTH. This would appear to be a good candidate for the base of the tetrahedron, but as have seen, it is is the top trigram **Increase** and the unending cycles of *Filling* and *Releasing* that seems to be the foundation of existence.  This is confirmed the the fact that reversing the trigrams of **Increase** gives us **Duration**, which is the value of the child of this tholon.
+
 - All hexagrams are made only of trigram pairs that equal 7.
-- ~~Inner trigrams progress clockwise (1,2,3), outer trigrams progress counter clockwise (4,5,6). 0 and 7 do not move at all.~~
-- The only point where all the elements (FIRE, WATER, AIR, EARTH) meet with all three [JWFIX]*Originating Source* trigrams, i.e, trigrams that have the ability to create, is at the center bottom point of the three blue dots, or three N-states, where a new N-state, or in this case, a new cycle of change, exists.
+
+- The lower I-Ching trigrams of both the tholonic trigrams and the edges are 1, 2, 4, in clockwise-ascending order, and the same upper I-Ching trigrams are 6, 5, 3 in clockwise-descending order.
+
+- The only point where all the elements (FIRE, WATER, AIR, EARTH) meet is along the side mapped to hexagram (binary) 42 (traditional 64) **Before Completion**, which is the archetypal hexagram for the entire I-Ching. The other two hexagrams along this axis are 
+
+  **Increase** (b49, t42), wherein it states: 
+
+  > Sacrifice on the part of those above for the increase of those below.
+
+  **Wooing** (b28, t31):
+
+  > … their powers attract each other so that they unite.
 
 Examining the I Ching from a tholonic perspective shines a light on new patterns and relationships within the I-Ching that exist in nature, reality, energy, science, etc., above and beyond what it already demonstrates in it's binary model.
 
@@ -4758,13 +4787,13 @@ In astrology, each sign is assigned a element property of FIRE, EARTH, AIR or WA
 
 
 
-<img src="/home/jw/store/books/tholonia/Images/astrigrid.png" style="width:80%"/>
+<img src="/home/jw/store/books/tholonia/Images/astrigridv2.1.png" style="width:60%"/>
 
 In the above chart, we assign the same yin/yang values for the elements and tholonic descriptions as we have been using all along. NEGOTIATION has no value (because it is both values combined). In the lower left of each cell is the binary value (and the decimal equivalent) of the the column and row. What we see is on the left we have 6 cells made up of 2 primary lines, and 4 cells made up of bigrams. The right is the reflected equivalent, which is consistent with the scheme of duality which exists in both models. 
 
 We have to decide in what order the binary values should be assigned, i.e. EARTH-DEFINITION is 10, but DEFINITION-EARTH is 01, yet both apply to the same cell. How do we choose the order? The first thing to understand is that either order is correct, as they are two different perspectives of the same thing.  In our case, we want to select the order that displays the most symmetry and coherence. 
 
-If we map this to the tholon, we should expect to see some significant relationships.  Below we show both options using their numerical values. The one on the right definitely has more symmetry; all cross-cell additions equal 3 and column and row totals equal 7. These are exactly the same values we see when we added up the horizontal pairs of pink dots (7) and orange dots (3) in the binary tree that described how we arrived at the trigrams.[JWFIX: there is another ref to 7/3 as well]
+If we map this to the tholon, we should expect to see some significant relationships.  Below we show both options using their numerical values. The one on the right definitely has more symmetry; all cross-cell additions equal 3 and column and row totals equal 7. These are exactly the same values we see when we added up the horizontal pairs of pink dots (7) and orange dots (3) in the binary tree that described how we arrived at the trigrams. 7 and 3 seem to be significant numbers in our model as they naturally keep reappearing.
 
 <img src="/home/jw/store/books/tholonia/Images/math.png" style="width:40%"/>
 
@@ -4784,17 +4813,17 @@ One minor difference between the western and eastern models is that while they b
 
 <img src="/home/jw/store/books/tholonia/Images/zodgrid.png" style="width:100%"/>
 
-However, if we arrange them in a circle, and color them to represent the *Negotiation*, *Define*, *Contribute* elements, the tholonic and binary information becomes quite clear.
+However, if we arrange them in a circle, and color them to represent the *Negotiation*, *Define*, *Contribute* elements, the tholonic and binary information becomes quite clear. [JWFIX:fix colors above]
 
 <img src="/home/jw/store/books/tholonia/Images/numberwheel.png" style="width:50%"/>
 
 - All values are equal to their opposite.
 
-- The single NEGOTIATION (blue) points, which represent the point form which new children can be produced, are 1 and 0, which is no surprise as we only have these two single numbers.
+- The single NEGOTIATION (blue) points, which represent the point form which new children can be produced, are 1 <img src="../Images/bc/yang.png" style="width:35px"/>and 0 <img src="../Images/bc/yin.png" style="width:35px"/>.
 
-- But there is another set of 1 and 0 which are made of the bigrams, and these are represent the CONTRIBUTE (red) points, which are the points that return to the N-state, so 1s and 0s leave the N-state as single digit 1s and 0s, but return to the N-state as double digit 1s and 0s.[JWFIX:?]
+- But there is another set of 1 and 0 which are made of the bigrams <img src="../Images/bc/bigram01.png" style="width:35px"/><img src="../Images/bc/bigram00.png" style="width:35px"/>, and these are represent the CONTRIBUTE (red) points, which are the points that return to the N-state, so 1s and 0s leave the N-state as single line of 0 or 1, yin or yang, but return to the N-state as a bigram also of 0 or 1, yin or yang.
 
-- The 2s and 3s occupy the DEFINING (green) points.  The 3s represent the most energized, or yang state, never appear more than once is that same axis that divides the planets in the traditional layout.[JWFIX:?]
+- The 2s <img src="../Images/bc/bigram10.png" style="width:35px"/>and 3s <img src="../Images/bc/bigram11.png" style="width:35px"/>occupy the DEFINING (green) points and only appear once, unlike the 1/0s.  3 represents the most energized, or extreme yang state, and is that same axis that divides the planets in the traditional astrological layout.
 
 ## The Lines, Part 1
 
@@ -4802,15 +4831,13 @@ There is another reason why we bring up astrology, and that is because, as we ca
 
 
 
-<img src="/home/jw/store/books/tholonia/Images/tho-zod.png" style="width:70%"/>
+<img src="../Images/tho-zod.png" style="width:70%"/>
 
-It works like this… All blue characters are yang in nature, and all red are yin. All yellow backgrounds are INNER (yin/0) in nature, and all green backgrounds are OUTER (yang/1). To correlate astrology to tholonic, we start with the topmost value, which is either 1 or 0 in the columns of DEFINITION or CONTRIBUTION. NEGOTIATION has no value, so it is skipped.  Then we choose INNER (0) or OUTER (1), and finally, the color of the text, red (0) or blue (1).   The bold text represent the archetypal ideal value for the cell.[JWFIX: confusing]
+It works like this… All blue characters are YANG in nature, and all red are YIN. All yellow backgrounds are INNER in nature, and all green backgrounds are OUTER. We can see that for a specific context each tholonic property has four states, for example, NEGOTIATION in the context of NATURE can be *Active, Nurturing, Harmonious* or *Ambitious*. These states represent the INNER-YANG, INNER-YIN, OUTER-YANG, and OUTER-YIN. Of these four states, the default INNER-YIN is Nurturing, and the default OUTER-YANG is Harmony. These are default because they are the states most archetypal, or conducive. to their context for a given property.
 
-Here is how we want to look at this graph as it applies to the hexagram.
+Here is how we want to look at this graph as it applies to the hexagram. 
 
-
-
-<img src="/home/jw/store/books/tholonia/Images/tho-zod-2.png" style="width:100%"/>
+<img src="../Images/tho-zod-2.png" style="width:100%"/>
 
 To validate this we can look at a few details.
 
@@ -4820,17 +4847,13 @@ To validate this we can look at a few details.
   - DEPLOYMENT requires knowing what and where something will be deployed.
   - EMERGENCE requires Nurturing, for it is fraught with challenges and demands.
   - SYNTHESIS requires the creation is useful.
-  - DEPARTING is the ultimate Practicality
-- In tin, inner lines only use the descending (increasing yin) elements of FIRE and EARTH, while the outer use only the ascending (increasing yang) WATER and AIR.[JWFIX:?]
-- 
+  - DIFFUSION is the ultimate Practicality, as returning to the source is not only the end of the cycle, but the absolutely one thing nothing that exists can escape.
 
 Let's make this even simpler to illustrate another point.
 
-
-
 <img src="/home/jw/store/books/tholonia/Images/tho-zod-3.png" style="width:100%"/> 
 
-We've added the value of the quality within the line. As you can see, the yin (0) values that exist within the yellow/yin side are the values that are the natural archetypes for that place. The same it true for the 1 values inside the green/yang side. Hexagram 21 (binary value) is the hexagram where every yin line exists in a yin place, and every yang line exists in a yang place.  Hex 21 is the ideal archetype of a hexagram, and its opposite, hex 42, is the reverse, or inverted, or "negative image" archetype.   If we were to apply the above charts to hex 21 and 42 using the values from the *Nature* and *Personal* columns, we would get the following.
+Looking at the 0/1 value of the yin/yang quality of the lines and properties, you can see the yin (0) values that exist within the yellow/yin side are the values that are the natural archetypes for that place. The same it true for the 1 values inside the green/yang side. Hexagram 21 (binary value) is the hexagram where every yin line exists in a yin place, and every yang line exists in a yang place.  Hex 21 is the ideal archetype of a hexagram, and its opposite, hex 42, is the reverse, or inverted, or "negative image" archetype.   If we were to apply the above charts to hex 21 and 42 using the values from the *Nature* and *Personal* columns, we would get the following.
 
 <img src="/home/jw/store/books/tholonia/Images/tho-zod-4.png" style="width:60%"/>
 
@@ -4838,7 +4861,7 @@ This shows that, according to the tholonic model using traditionally Western val
 
 There is still one last step, and that is to reduce the twelve pairs down to six pairs. This is fairly easy, and it looks something like the left image in the graph below. We have added the blue text circle to describe the qualities of the pair of the previously opposing six pairs, or twelve attributes, of Western astrology. It obvious how these six *uber* attributes match well with the pink circle that lists the I Ching's attributes for the six lines 
 
-On the right is the previous graph that describe the eight trigrams.  Here we have together the model for trigrams and the model for the lines. The lines model (left) is based on the *tholonic tree*, where we begin with 1, which creates 2 more, which is mirrored, creating 6, and then inverted, which creates 12.  The trigram model (right) is a *binary tree*, beginning with 1, which creates 2, each of which creates 2 (4) each of which creates 2 (8). [JWFIX: explain tholon model/etc]
+On the right is the previous graph that describe the eight trigrams.  Here we have together the model for trigrams and the model for the lines. The lines model (left) is based on the *tholonic tree*, where we begin with 1, which creates 2 more, which is mirrored, creating 6, and then inverted, which creates 12.  The trigram model (right) is a *binary tree*, beginning with 1, which creates 2, each of which creates 2 (4) each of which creates 2 (8). 
 
 Both of these models describe only the structure, the contexts of which is constantly changing.
 
@@ -4848,21 +4871,19 @@ Both of these models describe only the structure, the contexts of which is const
 
 
 
-## [Pending…]
+With all that we have learned so far, let's attempt to decipher and translate the I-Ching.
 
-A hexagram is defined by a pair of trigrams and the trigrams are defined by three lines, so rather than say there are 6 lines we say there is a pair of 3 lines.  We can also say a hexagram is composed of three bigrams, which, as shown, have their own significance. A line has properties based on its position in the hexagram as well as its position in the trigram.  
 
-Because a line can be either yin or yang we can state that a line is a yin or yang expression of a state that is both, just as we did in the binary tree above.  
 
-Our overriding presumption is that the three archetypes of creation are Negotiation, Definition, and Contribution. We can see the three instantiations of these archetypes in sustainability, growth, and life cycle.
+# PART II
 
-*Sustainability* effectively nothing but negotiation. For something to continue to exist, it must maintain a relationship with its environment. When the environment can no longer come to terms with whatever it is, that thing will cease to exist. This applies to everything from pions to black holes.
+# The Way of Change 
 
-*Definition* is the source of limitation, for to define something is to limit it to that definition.  Growth is another word for expansion within the limits defined by some context, and why there are now flying pigs.
+###### In interpretation of the tholonic model in the style of the I Ching
 
-*Contribution* happens only during the life cycle of something's existence.  Not coincidently, the two lines that are associated with contribution are line 3, which marks the beginning of a cycles external expression, and line 6, the end of the cycle.
+## Coming Soon&hellip;
 
-Each of these instances contains a pair of attributes, one yin, and one yang. The graphic below shows each yin/yang pair of attributes for each instance, as well as how a helix of yin and yang connected by the six lines.
+
 
 # The End
 

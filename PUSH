@@ -1,5 +1,8 @@
 #!/usr/bin/bash
 
+#bin/IMGCLEAN
+
+
 #SCRIPT TO EASILY COMMIT AND PUSH CHANGES TO GITHUB
 
 # import the 2nd ssh-key used fro github

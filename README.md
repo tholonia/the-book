@@ -1,7 +1,7 @@
 
 see <https://tholonia.github.io/the-book/>
 
-Version {!Mon 31 Aug 2020 01:17:31 AM -03 v.2.28.0}
+Version {!Fri 04 Sep 2020 07:50:19 PM -03 v.2.29.1}
 
 Tholonia: The Existential Mechanics of Awareness
 Copyright © 2020 Duncan Stroud
