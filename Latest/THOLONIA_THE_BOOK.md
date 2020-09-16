@@ -1,7 +1,5 @@
 <img src='../Images/titlepage.png' style='width:100%;margin:auto'>
 
-
-
 <div style='font-size: 2rem; text-align:center;'>INTRODUCTION</div>
 The concept that this reality is an illusion, a matrix, a simulation, or a dream, is not a new one.  From the very earliest creation stories of &ldquo;*God created the heavens and the earth*&rdquo; or up to our modern versions of the &ldquo;*Simulation Hypothesis*&rdquo;, the story of creation has been the same.  It goes something like this:  Once upon a time there was nothing and within that nothingness something appeared.  The details are left to be filled in by the imagination of scientists, mystics, philosophers, and poets, all seeking insight into the meaning and purpose of life, as if how one lives their life depends on whether their purpose here is to find happiness, provide food for Archonic overlords, or no purpose at all, as this is all a dream within a dream.  This book does not attempt to answer any of these questions.  This does not mean that is doesn&rsquo;t answer some of those questions, but just like the questions, the answers can mean many things to many people.
 
@@ -298,8 +296,6 @@ While the subjects of this comparison can be defined by patterns of culture, eco
 
 ##### ~ Remo Bodei, professor, history of philosophy, UCLA.[^191]
 
-
-
 ## Oscillation
 
 One law, or pattern, that can be seen in every part of the universe, is that everything oscillates.
@@ -408,13 +404,7 @@ This initially seems odd because we know that the less the velocity and greater 
 
 For example, the entire universe is filled with a very low frequency energy of microwaves which maintains an average temperature of 2.725 Kelvin above absolute zero  (-273.15 ºC or -459 ºF).  This is a pretty good example of energy transfer.  Higher frequency energy tends to be less ubiquitous and more focused.
 
-
-
 <img src='../Images/rays-universe.png' style='width:100%;' />
-
-
-
-
 
 Higher energy waves, such as infrared, visible light, and ultraviolet are fundamental to life exactly because of the manner in which they can transfer energy that is most efficient for the more complex instances of creation.  Beyond that, the higher energy X-rays and gamma rays do not transfer energy efficiently if we define *efficient* as that which can interact with other matter.  Perhaps *efficient* can be defined as that which is most effective for *life*, if we redefine the meaning of *life* to mean something like &ldquo;an instance of awareness&rdquo;, or something like that.  I know hard-core scientists will balk at the idea that life should be the standard by which we measure anything, but this would be the case if the Universe was itself intelligent, which we address later.  Beyond the philosophical issues, high energy waves, like gamma rays, can pass through all sorts of material without interacting with that material at all, and given its high energy, if it does happen to interact with anything alive, it will cause serious damage.  In general, higher frequency (shorter wavelength/higher energy = lower *power* rating) waves travel through objects more easily than lower frequency (longer wavelength/lower energy = higher *power* rating) waves, which interact (i.e.  transfer energy) with matter more easily that higher-frequency waves.
 
@@ -429,8 +419,6 @@ There&rsquo;s one more comparison to look at as well *(note: let me say that whe
 -   **Current** (*I*) analogous to the **speed of light** squared (*c*^2^)
 
 From this, we have to calculate the missing value that is shared with **volts**, which we will call **zvolts**.  More on this in a moment…
-
-
 
 <img src='../Images/013-emc2.png' style='width:100%;' />
 
@@ -895,9 +883,11 @@ If we look at a typical wave model, which is one cycle of a quantity of energy m
 
 As meaningless as these terms are for such cases, it does not take away from the idea that these natural cycles are the expressions of the same law that light waves operate under in the transference of energy, but on a different level of expression, on a higher order of complexity, size and dependency where instead of photons we have birds and planets.
 
-Another example might be the interdependent cycles of cohabiting rabbits and coyotes.  It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic function, the transference of energy in an attempt to create balance, just in two very different scopes and contexts.
+Another example might be the interdependent cycles of cohabiting rabbits and coyotes.  It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic function, the transference of energy in an attempt to create balance, just in two very different scopes and contexts. 
 
 <img src='../Images/024-predcycle.png' style='width:100%;' />
+
+
 
 ### Not Just a Cycle
 
@@ -929,11 +919,19 @@ This begs the questions &ldquo;What *is* energy? &ldquo; And the answer is… ar
 
 #### **Claim 30:** A high state of order delivers more &ldquo;work&rdquo;
 
-## Simple Cycle
+## Simple Cycles
 
-##### Let&rsquo;s look at the simple cycle again as the archetypal pattern that describes the movement of energy through a medium, regardless of the medium.  In some contexts, this pattern is quite measurable, in others, it is analogous, such as in the migration pattern of the Arctic Tern.
+Let&rsquo;s look at the simple cycle again as the archetypal pattern that describes the movement of energy through a medium, regardless of the medium.  In some contexts, this pattern is quite measurable, in others, it is analogous, such as in the migration pattern of the Arctic Tern.
 
-<img src='../Images/026-sinewaveplus.png' style='width:100%;' />
+When we examine the predator-prey cycles, we can see they follow the same cyclical archetype of light, or electricity, or sound.  Below we show a typical predator pray cycle (taken from a Northern Arizona University biology online-class). On the left is the data over time, and on the right is the &ldquo;Phase plan&rdquo;, or the graph of the relationship between the two variable (wolves and rabbits).  This is a naturally occurring cycle, but you'll notice that the two cycles natural  $\frac{1}{4}$ a wavelength apart, which is the maximum difference any two waves can have.  We also see this in electricity, where voltage lags current by $\frac{1}{4}$ wave, so here wolves are acting like *voltage*, and rabbits are acting like *current*. Or perhaps, given that the electric and magnetic fields in a wave are 90&deg; apart, perhaps the wolves are equivalent to *electricity* and the rabbits, *magnetism*? 
+
+The middle graph shows the same relationship between two waves, but for perfect sine-wave, like the kind you would see with light or energy, and beside it, relationship of a perfect circle.  This is the archetype of the predator pray cycle.  The bottom shows the same charts, but in the case of no energy, or no wolves or rabbits, and therefore represents the highest order of archetypes, which is just a dot and a line.  
+
+<img src='../Images/predprey.png' style='width:100%;' />
+
+If we combine the two wolf/rabbit or sine-wave frequencies, we can see the frequency of the change between the two variables.
+
+<img src='../Images/predpreydelta.png' style='width:100%;' />
 
 You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, positive/negative, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.
 
@@ -1026,8 +1024,6 @@ Here is a collection of SWPs that were created by placing white powder on a drum
 
 <img src='../Images/027-cymatics.png' style='width:100%;' />
 
-
-
 Here are some more complex cymatic patterns from the twelve notes of the first octave of a piano.
 
 <img src='../Images/notes.png' style='width:100%;' />
@@ -1093,8 +1089,6 @@ For consistency, here is the human eye sensitivity chart as well with the new y-
 Another excellent example of both a holarchy and its self-similar nature is that of the neurological structure of the brain&rsquo;s  memory processes along with the structure of language that evolved out of that structure.  This also shows examples of the various scopes through which instances are expressed.
 
 <img src='../Images/language.png' style='width:100%;' />
-
- 
 
 ## Memes
 
@@ -1413,8 +1407,6 @@ Around 335 BC, Aristotle described the dramatic structure of a story as having a
 
 The Freytag Pyramid can easily be defined as a trigram (below) showing the five-part structure of *incitement*, *rising actions (inflation)*, *climax*, *falling action (deflation)*, and *resolution*.  Leading up to these five parts is *exposition*, which describes the baseline of the story, the characters, set and setting,.etc.  After the five parts, there is the *denouement*, or the returning to the baseline of the natural order.  It is easy to see how the Freytag Pyramid is the classic three-part structure of *incitement (beginning)*, *climax (middle)*, and *resolution (end)* with the additional dynamics of *inflation* and *deflation*.  While it is called a five-part structure, there is obviously the sixth part, that of the baseline, the condition before and after the action described by the five parts.  
 
-
-
 <img src='../Images/freytag2.png' style='width:40%;' />
 
 This, like all trigrams, can be self-similar fashion, i.e.  a Freytag Pyramid made of Freytag Pyramids, as when it comes to story and drama, there are usually plots within plots.  
@@ -1464,8 +1456,6 @@ The most effective way to describe this process of emergence from a dot to every
 ##### ~Lao Tzu, Dao De Ching
 
 <img src='../Images/050-dot-line-tri.png' style='width:30%;margin:auto;' />
-
-
 
 We are taught that the progression from point to tetrahedron follows a very clear and simple path of *point → line → trigram → tetrahedron*.
 
@@ -1633,8 +1623,6 @@ This trigram is the basic tholonic model that describes the movement of energy i
 
 Chemically it describes (among many other things) the balancing of pH, which is critical as most life (except for some hardcore microbes) requires a balanced pH around 7, which is right in the middle of the two extremes of pH 0 (battery acid) and pH 14 (liquid drain cleaner).  This is especially applicable when we see how acids and alkalies violently interact with one another, in a way competing and cooperating on an atomic level, to find a stable balance.  The most common example of this is how the explosive reactions of hydrochloric acid and sodium hydroxide come to terms with one another to form pure water and table salt (and a lot of heat).  We can even map this trigram to a number of different process, for example, here might be two very high-level examples out of many that could apply across many scopes and contexts.  
 
- 
-
 <img src='../Images/ph.png' style='width:70%;margin:auto;' />
 
 We can learn a number of things from this trigram, but the one detail that is important before moving on is that the initial 0-dimensional blue dot, or what we will call the N-point, is the originating point, and the only point that is able to replicate itself.  Why this is so will be explained shortly.  We will also refer to the blue-dot N-point as an N-state or an N-source, depending on how it is being viewed.
@@ -1644,8 +1632,6 @@ We can learn a number of things from this trigram, but the one detail that is im
 The tholographic claim is that within the trigram there is energy, and therefore movement, and therefore patterns and oscillations from which stable states will arise that are sustainable enough to form a new N-state that is capable of transferring energy across the scope defined by C and D.  Even though one particular state will exist at one specific point on the 1-dimensional spectrum/line between C and D, all possible states will cover the entire range between C and D.  We can generally guess where along the line various states will arise by applying a Bell curve to this line.
 
 <img src='../Images/059-ruleexposure-3.png' style='width:100%;margin:auto;' />
-
-
 
 We can now say this about the trigram and its properties:
 
@@ -1689,8 +1675,6 @@ In the 1<sup>st</sup> generation of a simple trigram, we see a few fundamental r
 You&rsquo;re probably thinking &ldquo;What? Red and green don&rsquo;t make blue!&rdquo;  This is half true.  Red and green make yellow, and yellow, when blended with the parent blue, make magenta and cyan… and cyan and magenta make blue.  So, red and green parents do not make blue children, but they make blue grandchildren.  We see an instance of this in the way recessive genetic traits can be become dominant in every other generation (in the absence of an existing dominant trait), which is what we would expect tholonically as genetics are one of the better examples of an instance of tholonic fundamentals.  
 
 This is worth a demonstration.  Here is that same process described above but with simple colors from the color wheel to show how the children interact with the parents.  These are the same colors we used above to represent the domains.  This is an important point, but because the process is the same for every generation, we are going to just use red, green and blue in our later examples to keep things simpler; i.e.  going forward we will only show the dominant colors of RBG and ignore the intermediary children of CMY.
-
-
 
 <img src='../Images/colortree-top.png' style='width:100%' />
 
@@ -1771,8 +1755,6 @@ The mathematics of a equilateral triangle are fairly straight forward, but the m
 
 <img src='../Images/SQRT.png' style='width:100%;margin:auto;' />
 
-
-
 Below is a more complete, step-by-step description of this transition from beginning to end, but before we look at that, here are various 3D views of what such a tetrahedron would look like.  
 
 <img src='../Images/068-dot2tholon.png' style='width:100%;' />
@@ -1810,10 +1792,6 @@ This may look familiar to a mineral chemist, as this is the exact same structure
 It would be helpful to have a better idea of what kind of structure we are talking about.  Below are various 3D renderings of 4 tetrahedron in this structure.  While we used the same colors for N, D, and C in the previous diagrams for the balls, here we also used them for the connecting lines as the line colors are determined by the color of the ball, or point, that it emanates from.  However, this is mainly to show the relationships with the lines and balls, and not to suggest they have the same qualities.
 
 <img src='../Images/33d-tholons.png' style='width:100%;margin:auto;' />
-
-
-
-
 
 ***Fig.  b1***.  This is a side view of ***Fig.  a5***, with the yellow (bottom) tholons being virtual, and the blue (top) tholons being real.  The black dots represent the peaks are also shown in ***Fig.  c1***, for clarity.  This is where we see the first instance of oscillation, with the tholons alternating in their movement away from and towards their originating plane, or between the virtual and real states.
 
@@ -2047,8 +2025,6 @@ Compare the crudely drawn 2D map of overlapping tholons (below right) a diagram 
 
 <img src='../Images/quarks.png' style='width:100%'/>
 
-
-
 ### Back to Basics
 
 We can now map Newton&rsquo;s 2^nd^ law (in the form of Ohm&rsquo;s  Law) to the tholon, which fits nicely.
@@ -2082,8 +2058,6 @@ As mentioned above, we would expect to see the same laws expressed in different 
 <img src='../Images/hor-laws.png' style='width:100%' />
 
 For example, if we claim that a society is based on its ethics and we also posit that ethics are to be measured by laws, we can say *society=ethics/laws*, and likewise, *ethics=laws x society*.  If we measure the *power* of a *society* by its ability to function, and the measure of a *society* by its sustainability, then, according to these formulas, a *society* with a lot of *laws* and very little *ethics* will be functional but is less sustainable.  On the other hand, a *society* that had a lot of *ethics* and very few *laws* will have the same level of functionality but will also be very sustainable.
-
-
 
 How do we know this? 
 
@@ -2153,11 +2127,7 @@ We showed examples of quarks and molecules, but in higher orders, such as DNA, w
 
 Although DNA&rsquo;s  relationship with tetrahedrons is particularly unique given the creation of tetrahedrally structured DNA, or TDN as it is referred to.  TDN is the cutting edge of DNA nanotechnology and has various applications such as drug delivery, inhibiting certain gene expressions, and of course, interfacing with bio-sensors.  These TDNs assemble themselves from scratch and offer greater strength and stability that the ol&rsquo; fashioned dual-strand DNA.  Given that there is little accessible information on TDNs there is not much more that can be said here, other then they look pretty awesome and will most likely be the origin of a new form of life powered by TDN-interfacing A.I.  DNA-integrated quantum computers.
 
-
-
 <img src='../Images/tdn.png' style='width:100%;' />
-
-
 
 Our simple trigrams of relationships, such as Newton&rsquo;s  2^nd^ Law, becomes a *tetrahedron* or *tholon* of relationships.  Whereas before it was stated that every piece of knowledge can be deconstructed into a trigram, by the same token, every piece of knowledge forms a tetrahedron.
 
@@ -2207,8 +2177,6 @@ Let&rsquo;s  look at a simple RC circuit.
 
 <img src='../Images/rccircuit.png' style='width:80%;margin:auto;' />
 
-
-
 We have two basic elements of a circuit, one that limits and divides, and one that collects and stores.  These two concepts are perfectly in line with the two basic concepts of *Definition* and *Contribution* as shown in the *Alternate View* above.
 
 How can we validate this similarity? Let&rsquo;s  look at the following:
@@ -2224,8 +2192,7 @@ How can we validate this similarity? Let&rsquo;s  look at the following:
   - Each circle in the row is alternately flipped ob both the blue-yellow axis (parent-child N-states) and the across red-green axis and (*Definition-Contribution*) The direction of the overlaps are the same as the path of the lineage.  We see this in the tholon as well.
   - The overlapping values are a product of 3 (except 0 of course), and in an order that creates a continuous oscillation <img src='../Images/036.png' style='height:25px' />. In addition, as binary exponent they all add up to 81:  $\boldsymbol{2^{3} +2^{6} +2^{3} +2^{0} \ =\ 8+64+8+1\ =\ 81=9^{2} =3^{2^{2}}}$. We would expect to see a lot of 3-based numbers if this relates to the thologram.
 
-
- <img src='../Images/rcgrid.png' style='width:100%;margin:auto;' />
+<img src='../Images/rcgrid.png' style='width:100%;margin:auto;' />
 - The field in which the child N-state can be created exists between *Definition* and *Contribution*.  Here, that field is defined by R and C, which creates a field of *time*.  In electronics it is called the $time\ constant$ and is written as  $\boldsymbol{\tau = RC}$ (where $\tau$ is the Greek *tau* representing the $time\  constant$)  and proves that the voltage (V) and the current (I) are always inverse to one another at any moment in time and increase/decrease as a function of time.
 
 <img src='../Images/rcgraphs.png' style='width:80%;margin:auto;' />
@@ -2316,8 +2283,6 @@ Another interesting process is how multiple candlesticks can be added together. 
 
 <img src='../Images/candlesticks.png' style='width:50%;margin:auto;' />
 
-
-
 What was just explained is exactly how tholons works as well. If that is so, then we should be able to apply some of the laws of the tholon onto market data.  If we were to use one of the simpler laws, such as Ohm&rsquo;s Law, we get the graph below (all data normalized to a scale of 0-1 and shows a moving average of Bitcoin/U.S. Dollar trades).  But what values would we use?  Fortunately, the choices seem obvious.
 
 - **Volts** (blue line) is defined as the potential between the high and the lowest charge, so the **highest and lowest bids** would fit perfectly here.
@@ -2351,8 +2316,6 @@ I have no doubt that serious research would yield interesting results. From the 
 The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid in it their paper &ldquo;*Objects of consciousness*&rdquo; [^202] can&rsquo;t be ignored.  What also can&rsquo;t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first publication of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.) 
 
 <img src='../Images/cagents-tholon.png' style='width:90%;margin:auto;' />
-
-
 
 ## Adding Structure
 
@@ -2522,7 +2485,7 @@ There are countless examples of tholonic cooperation and competition, and some o
 <div style='page-break-after: always; break-after: page;'></div>
 # 9: FIELDS
 
-If tholons are themselves forms of information then we come back to the question, &ldquo;Where is this information stored?&rdquo; This is a question that has been pondered for ages. One example would be the somewhat Buddhist concept (in that it was coined by a Buddhist in 1884, but adopted by other beliefs) called the *Akashic Records* which is said to be &ldquo;a compendium of all human events, thoughts, words, emotions, and intent ever to have occurred in the past, present, or future". This might be a bit ambitious for our purposes, but the idea is essentially the same… that of a ubiquitous, timeless non-physical record of (at least) all aggregate thought forms. If our claim is that this also describes the thologram, then where and how does it store this data?
+If tholons are themselves forms of information then we come back to the question, &ldquo;Where is this information stored?&rdquo; This is a question that has been pondered for ages. One example would be the somewhat Buddhist concept (in that it was coined by a Buddhist in 1884, but adopted by other beliefs) called the *Akashic Records* which is said to be &ldquo;a compendium of all human events, thoughts, words, emotions, and intent ever to have occurred in the past, present, or future&rdquo;. This might be a bit ambitious for our purposes, but the idea is essentially the same… that of a ubiquitous, timeless non-physical record of (at least) all aggregate thought forms. If our claim is that this also describes the thologram, then where and how does it store this data?
 
 Let&rsquo;s review…
 
@@ -2790,8 +2753,6 @@ Let&rsquo;s  look at another one of Newton&rsquo;s formulas that describes the g
     *(Note: The reason the definition of am ampere was changed in 2019 was simply because the new definition is more accurate in high-precision and easier to use.)* 
   
   - There is another correlation as well.  The limits of an electrical circuit are defined by the number of electrons that are allowed to pass through a system at any given moment.  This is controlled by a fuse.  In a 40 Amp fuse, if the number of electrons passing through the fuse at any given moment exceeds a certain amount, the fuse will automatically cut the circuit, stopping all current.  In the *E=mc^2^* equivalency we saw previously, it is $c$, the speed of light, that defines the limits of the systems we call the Universe, but unlike Amps, $c$ can never change.  Here, in the gravity example, the defining limitation of the system is the distance between two fields.  So, in the sense that $\boldsymbol{S}$ and $\boldsymbol{I}$ are both the measure of the limits of a systems, they are the similar.
-  
-
 
 How can we test to see if this equivalency has any validity?  Here&rsquo;s  one example.
 
@@ -2813,8 +2774,6 @@ The reader might remember that in Chapter 7 we suggested this same *N-source* mi
 
 <img src='../Images/064-hexagram.png' style='width:30%;' />
 
-
-
 Even more directly applicable evidence comes from an article written by theoretical physicist Swati Nigam entitled *Gravity As Conscious Force To Resolve Quantum Gravity*[^178], wherein she states:
 
 > According to current science, there is a missing connection between general relativity and quantum mechanics concepts of physics, which is needed to unify them into one, to conceptualize a unified field theory.  
@@ -2834,7 +2793,6 @@ This ideas that there might be a relationship between consciousness and gravity 
 First, let&rsquo;s hear what Werner Heisenberg has to say about what *observation* means 
 
 > Of course the introduction of the observer must not be misunderstood to imply that some kind of subjective features are to be brought into the description of nature.  The observer has, rather, only the function of registering decisions, i.e., processes in space and time, and *it does not matter whether the observer is an apparatus or a human being*; but the registration, i.e., the transition from the &ldquo;possible&rdquo; to the &ldquo;actual&rdquo;, is absolutely necessary here and cannot be omitted from the interpretation of quantum theory.
->
 
 ##### ~ Werner Heisenberg, *Physics and Philosophy*, p.  137
 
@@ -2934,7 +2892,6 @@ The peak of the Bell curve is going to tell us what the most likely result will 
 
 - Test 5 with 2 coins, 1 came up heads
 
-
 <img src='../Images/101-toincoss.png' style='width:100%;' />If we plotted the results, we would end up with a Bell curve that looked something like this &ldquo;Number of Heads&rdquo; graph.
 
 So, when we run these five tests 50,000 times each, the chances of us ending up with 1 coin from 32 coins is obviously 100%.
@@ -2965,7 +2922,7 @@ What this means is that everything that exists is *already* a record of what wor
 
 This is similar in concept to the way a piece of music is the combination of many *atoms* of sound (yes, that&rsquo;s a real thing, and it&rsquo;s about 0.093 seconds[^211]), each an aggregate of many individual frequencies.  Over time, these frequencies change (unless the sound never changes). Within the information of those sounds can be more information.<img src='../Images/wavetypes.png' style='width:100%;margin:auto;' />
 
-The resulting waveform contains only and every frequency that was required for it to exist. Once we learned how to read that waveform using such concepts as the Fourier Transform we were able to discover all of its components. In the example of &ldquo;Hidden Information&rdquo;above, the image made by the *history* of the sound tells us much more than just the entire history of that sound and all of its ingredients.  (for more examples, see Appendix G, &ldquo;*Hidden Images*")
+The resulting waveform contains only and every frequency that was required for it to exist. Once we learned how to read that waveform using such concepts as the Fourier Transform we were able to discover all of its components. In the example of &ldquo;Hidden Information&rdquo;above, the image made by the *history* of the sound tells us much more than just the entire history of that sound and all of its ingredients.  (for more examples, see Appendix G, &ldquo;*Hidden Images*&rdquo;)
 
 One possible, yet small instance of this idea of reality of the moment is the record of its history as well is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants.  In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^120] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome.  Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
 
@@ -2978,7 +2935,7 @@ In this case it would probably be more accurate to show Bell curves as Gaussian 
 
 ## Mythology
 
-It may sound childish or even superstitious to suggest that archetypes can have intentions that can result in conflicting and/or cooperative relationships, which implies allies and enemies, and therefore some sort of diplomacy and politics.  To a certain degree, it is childish, in the sense that it leaves so much open to the imagination. Beliefs quickly fill in the blanks of our limited understanding of the mechanics of the elements of awareness, intention, and intelligence.  This is what leads to the reasoning of myth and religion.  However, it is the tholonic view that the ancient myths were a way to understand the workings of the reality (or perhaps tholons are a way to understanding the workings of the gods?).  The interactions of the gods and that of archetypes are quite easily comparable, as seen in the chart below.  Myths are *childish* in the sense that they represent an early form of intuitive understanding. The Gods are and their unending drama are understood as anthropomorphized concepts of the tholonic archetype and their in interactions. To get a general idea on the Mexican-soap-opera-on-steroids that was the life of the Gods, see appendix F, &ldquo;Greek Gods".  It is short, and quite entertaining.
+It may sound childish or even superstitious to suggest that archetypes can have intentions that can result in conflicting and/or cooperative relationships, which implies allies and enemies, and therefore some sort of diplomacy and politics.  To a certain degree, it is childish, in the sense that it leaves so much open to the imagination. Beliefs quickly fill in the blanks of our limited understanding of the mechanics of the elements of awareness, intention, and intelligence.  This is what leads to the reasoning of myth and religion.  However, it is the tholonic view that the ancient myths were a way to understand the workings of the reality (or perhaps tholons are a way to understanding the workings of the gods?).  The interactions of the gods and that of archetypes are quite easily comparable, as seen in the chart below.  Myths are *childish* in the sense that they represent an early form of intuitive understanding. The Gods are and their unending drama are understood as anthropomorphized concepts of the tholonic archetype and their in interactions. To get a general idea on the Mexican-soap-opera-on-steroids that was the life of the Gods, see appendix F, &ldquo;Greek Gods&rdquo;.  It is short, and quite entertaining.
 
 *(Note: On the left is the lineage of the Greek Gods according to Gaius Julius Hyginus, a scholar born in 64 B.C.  On the right is one of many archetypes that represents the deity on the left.)*
 
@@ -3081,11 +3038,11 @@ For example, the modern word “hell” comes from the ancient Norse goddess nam
 
 The concept of Hell, or whatever it happens to be called, is deeply ingrained into the worldview of billions of people who have little knowledge of the roots of their beliefs. These believers, through the energy of their awareness, bring into creation associated or parasitic archetypes that are attached to primary archetype which they are completely unaware of, but which are energized by that awareness nevertheless. While this can&rsquo;t be proven, I suspect that the more people who believe in hell, the more empowered and manifest the concept of an apocalypse. The ironic part is that believing in the traditional Christian or Islamic heaven by default empowers their concept of a hell, as they are presented as two side of one state, the afterlife.
 
-What we have referred to as an uninstantiated tholon can, al least in this context, be an archetypes as a form of *metameme,* which is a form of a *meme* that only exists in the collective unconscious and/or in the world of archetypes, the thologram. If a meme is “an idea, behavior, style, or usage that spreads from person to person within a culture, then a metameme is an “an idea or belief formed within the tholonic field (i.e. universal mind,  collective unconscious, morphic field, etc.) and spreads from tholonic field to tholonic field”.   You make have heard phrases like  &ldquo;If it looks like a duck, and quacks like a duck, its probably a duck.", or &ldquo;When you hear hooves, think horses, not zebras.", or &ldquo;The simplest explanation is most likely the right one", otherwise known as *Occam&rsquo;s Razor*. Applying the wisdom of these practical practices, what are we to make of the fact that research out of Princeton University supports the theory that ideas, in the form of social media networks, follow the same growth models as viruses (in the form of diseases.)?[^215] Outside of the conclusion that perhaps Facebook is actually a viral disease, it tells us that ideas follow the same patterns as existing natural patterns of growth, suggesting we might learn more about the life of archetypes if we considered them living.  OK, viruses *may* not be &ldquo;alive&rdquo;, but I say *may* because some experts in the field are redefining &ldquo;life&rdquo; to include viruses. [^216] [^217] Regardless, the growth, survival and creation of ideas follow the same patterns as everything else that grows, survives and creates. For this reason, a clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a leading geophysicist and founder of the Center for Bio-Earth Planetology, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms.
+What we have referred to as an uninstantiated tholon can, al least in this context, be an archetypes as a form of *metameme,* which is a form of a *meme* that only exists in the collective unconscious and/or in the world of archetypes, the thologram. If a meme is “an idea, behavior, style, or usage that spreads from person to person within a culture, then a metameme is an “an idea or belief formed within the tholonic field (i.e. universal mind,  collective unconscious, morphic field, etc.) and spreads from tholonic field to tholonic field”.   You make have heard phrases like  &ldquo;If it looks like a duck, and quacks like a duck, its probably a duck.&rdquo;, or &ldquo;When you hear hooves, think horses, not zebras.&rdquo;, or &ldquo;The simplest explanation is most likely the right one&rdquo;, otherwise known as *Occam&rsquo;s Razor*. Applying the wisdom of these practical practices, what are we to make of the fact that research out of Princeton University supports the theory that ideas, in the form of social media networks, follow the same growth models as viruses (in the form of diseases.)?[^215] Outside of the conclusion that perhaps Facebook is actually a viral disease, it tells us that ideas follow the same patterns as existing natural patterns of growth, suggesting we might learn more about the life of archetypes if we considered them living.  OK, viruses *may* not be &ldquo;alive&rdquo;, but I say *may* because some experts in the field are redefining &ldquo;life&rdquo; to include viruses. [^216] [^217] Regardless, the growth, survival and creation of ideas follow the same patterns as everything else that grows, survives and creates. For this reason, a clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a leading geophysicist and founder of the Center for Bio-Earth Planetology, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms.
 
 This idea, however, has a dark side to it because so many of our beliefs are manipulated and controlled by others whose agenda is less than altruistic, hidden, and who are aware of the mechanics of reality and consciousness. From the most powerful laser in the world named after the Hindu god of destruction to trivial tarot cards based on movie stars, we can find countless examples of how these imposed archetypes infiltrate our understanding of the world.
 
-So, what kind of world are we creating with our awareness, desires, and beliefs, as a planet? To find out, I wrote a mobile phone app that allows people to send out into the universe either a blessing or a curse.  The app was (unsurprisingly) called &ldquo;Bless or Curse".
+So, what kind of world are we creating with our awareness, desires, and beliefs, as a planet? To find out, I wrote a mobile phone app that allows people to send out into the universe either a blessing or a curse.  The app was (unsurprisingly) called &ldquo;Bless or Curse&rdquo;.
 
 The majority of both blesses and curses are about…wait for it…love, money, and health (surprise!). Some were touching, such as the blessing of “May he win lotto,” cast upon the bus driver who “stopped just for me”. Some are bizarrely dark, such as the curse of “Torture Rape Murder die die die die die,” cast upon Noisy Walgreen Employees.
 
@@ -3167,8 +3124,6 @@ There are some real-world examples of how instances follow a preexisting path.  
 
 In June of 2001, a 10 year old girl named Laura Buxton released a balloon with her name and address on it, which floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both brought their guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person.[^179] Below is a picture of the two Laura Buxon girls, who are still friends today.
 
-
-
 <img src='../Images/buxtons.png' style='width:40%;' />
 
 *Here there are two instances of the same tholon (which may be one among many) in slight different contexts.  What is fascinating about this is that if it was tholonically predetermined that a red balloon was to carry an address, then both instances, both girls, would have to experience it, which was the case when it was sent by one, and received by another.*
@@ -3243,7 +3198,7 @@ From one perspective you could see all these stories as extremely unlikely coinc
 
 ## Life, Death, Afterlife
 
-This subject raises questions about life after death.  Every creation, including tholons, goes through the cycles of instantiation, this being inception, gestation, emergence, propagation, culmination, and dispersion.  This is just one description that identifies six stages.  There can be many others.  When a tholon &ldquo;disperses,&rdquo; whether due to loss of energy, destruction, absorption, or any number of ways, its stable pattern of energy can come to an end.  What then survives and where does the energy go?  The energy goes to wherever it can go with the least resistance.  This might be the parent tholon but perhaps it could be a peer as well.  It could also stay right where it is if there are no immediately available paths of lesser resistance, not unlike a static charge that is held until is can be released.  There are many possibilities.  ~~In some cases, perhaps, and as we put forth in the section above, there can be multiple instances of the same individual human tholon.  The various possibilities could easily describe what we commonly called the *oversoul*, or reincarnation, ghosts, spirits of the dead, poltergeists, and various other types of disincarnates that are something like an *implicit instance*, or an instance that does not have the structure necessary to take form, like the ink dots in the glycerin example.~~ 
+This subject raises questions about life after death.  Every creation, including tholons, goes through the cycles of instantiation, this being inception, gestation, emergence, propagation, culmination, and dispersion.  This is just one description that identifies six stages.  There can be many others.  When a tholon &ldquo;disperses,&rdquo; whether due to loss of energy, destruction, absorption, or any number of ways, its stable pattern of energy can come to an end.  What then survives and where does the energy go?  The energy goes to wherever it can go with the least resistance.  This might be the parent tholon but perhaps it could be a peer as well.  It could also stay right where it is if there are no immediately available paths of lesser resistance, not unlike a static charge that is held until is can be released.  There are many possibilities.  In some cases, perhaps, and as we put forth in the section above, there can be multiple instances of the same individual human tholon.  The various possibilities could easily describe what we commonly called the *oversoul*, or reincarnation, ghosts, spirits of the dead, poltergeists, and various other types of disincarnates that are something like an *implicit instance*, or an instance that does not have the structure necessary to take form, like the ink dots in the glycerin example. 
 
 ### Sadhguru explains
 
@@ -3355,7 +3310,6 @@ Perhaps the question that has humanity so concerned, &ldquo;Will AI ever attain 
 
 <div style='page-break-after: always; break-after: page;'></div>
 # Appendixes
-
 
 # A - How to Make Structured Water
 
@@ -3485,8 +3439,6 @@ My first assumption was the farther &ldquo;out&rdquo; we zoom, in time, the clea
 
 Below is a comparison of the patterns at each scale.  The values beneath each image is the interval sampling time, and the values below that is the entire duration of the sample.  No obvious pattern can be seen at 5s, but a slight pattern begins to emerge at 0.5s, becomes more clear at 0.05s, and is most dominant at 0.005s.  A pattern is equally visible in 0.0005s, but it appears only as a simple oscillation or wave.  0.00005 is identical to 0.0005 because (it seems that) once we start going below 0.002 we hit the limits of resolution.  This is the point where we begin getting duplicate data because the Sun or Moon has not moved enough in the small amount of time between samples, and the smaller we go the more duplicates we get.  For example, at 0.00001 second intervals of sampling , to get the 155,520 unique data points to create the graph, we need to sample 50,000,000 times.  This simple wave pattern is the first wave pattern we can detect (given the limitation of my laptop and/or the ephemeris used to calculate planetary positions).  This simple wave pattern is what then evolves into the more complex patterns.  Presumably, the difference between samples points in the wave patterns is only the rightmost last digit being increased by 1, given that we keep sampling until er get the next or unique number.
 
-
-
 <img src='../Images/sun-moon-grades.png' style='width:1000%' />
 
 How do we have patterns when we sample of 0.01, but nothing (significant) when we sample as .05?  I think this has to do with where we are sampling from within the entire pattern.  The two images below shows that the Fresnel pattern is slightly altered with time, but eventually returns.  At its most ordered point it looks like Fresnel diffraction, but at its least ordered pint it looks identical to pure random data (but we know it is just as ordered, only difficult to see that order).
@@ -3521,8 +3473,6 @@ In short, Zipf&rsquo;s law is an example of power laws, and power laws touch eve
 
 <img src='../Images/rzf-form.png' style='width:80%' />
 
-
-
 Related sidenote, using just prime numbers you can also determine &pi;, but this has nothing to do with RZF:    $1-\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}$
 
 One of the useful features of the RZF is that is can turn a *divergent* series of numbers (numbers that when you add then together approach infinity) into a *convergent* series (when the sum approaches a specific value, like $-\frac{1}{12}$ or $\frac{\pi ^{2}}{6}$).  It can do this does because the hypothesis uses the concept of *analytic continuation* and *complex numbers*.  You can play with this function using an online Riemann Zeta Function Calculator.  [^186]
@@ -3542,8 +3492,6 @@ The inverse $\boldsymbol{\sqrt{\frac{\pi }{2}}}$.  This is interesting because n
 <img src='../Images/lightning-3.png' style='width:80%' />
 
 In this case, as we are only looking at Ohm&rsquo;s Law and its twelve formulas.  $\boldsymbol{\sqrt{\frac{\pi }{2}}}$ has the same *pattern* as $\boldsymbol{\sqrt{\frac{18 }{2}}}$  and $\boldsymbol{\sqrt{\frac{P }{R}}}$ at *position* 11:00 (as in the 12-hour clock) on the twelve-part wheel we are using, and we can test that by plugging in the appropriate values.  The table below shows these pi-based values that seem to describe the pi-based values we are seeing with regard to Ohm&rsquo;s Law.  For the sake of clarity, I assigned some of the formulas to variables, otherwise it&rsquo;s too bothersome to read (or compose).  In the table below I show Ohm&rsquo;s Law, some example data demonstrating the math of Ohm&rsquo;s Law, and then the application to$\boldsymbol{\sqrt{\frac{\pi }{2}}}$  and $\boldsymbol{\sqrt{2\pi }}$.  Those two values alone were enough to fill in all the missing values.  In the middle column of the table I show the actual numbers, and to the right, the formulas.
-
-
 
 <img src='../Images/ohmslaw-pi.png' style='width:100%' />
 
@@ -3610,8 +3558,6 @@ Below, the left chart is a plot of what appears to be un-patterned data, but whe
 
 <img src='../Images/crossnumoctaves8.png' style='width:100%' />
 
-
-
 The point of this is to demonstrate how there can be hidden patterns in seemingly un-patterned data that has nothing to do with how it exists in time and space.
 
 Attempts were made to replicate the patterns that appeared in the planetary data with various other inputs, such as incremental counting, the number of seconds from some moment, a number and some function of that number, such as square root, but nothing was able to get even close to the Sun/Moon patterns.  This suggests that the Fresnel pattern is not solely an inherent pattern of cross-sums, but is a result of the source data.  If that is the case, could it be possible that the Fresnel pattern is a property of the movement of the Sun and the Moon, or at least two bodies that have a similar relationship? 
@@ -3620,11 +3566,7 @@ The image below is more fun than informative because it fuels the imagination.  
 
 The bottom image is simply a graph where each value is a dot over the course of 3,000 samples.
 
-
-
 <img src='../Images/stacker64.png' style='width:100%' />
-
-
 
 The following images were created by plotting each digit of the position of the Sun.  Each number is assigned a value.  
 
@@ -3634,15 +3576,11 @@ The following images were created by plotting each digit of the position of the 
 
 <img src='../Images/cstrees.png' style='width:100%' />
 
-
-
 # D - New Data?
 
 Applying this Ohm&rsquo;s Law model to the tetrahedron shows some new relationships.  Readers who enjoy numbers will find this next (short) section interesting.
 
 So, we can satisfy all twelve formulas of Ohm&rsquo;s Law as they appear on a tetrahedron, but we can also find some new data now which may appear as useless, or may be meaningful if we know how to use it.
-
-.
 
 #### **Claim:** There is no useless data, only data we have yet to understand how to use.  
 
@@ -3781,14 +3719,11 @@ $\frac{3}{0.414} = 7.242$, and this number also happens to be $2.414 \times 3$, 
 
 This is fantastically elegant is so many ways, and the recurring principle seems to be the Silver Ratio.
 
-
-
 # F - Greek Gods 
 
 According to the Greek mythology, the world began with several primordial beings who begat more gods, who begat even more gods, and so on. What follows is a brief overview of that begetting and the cosmic drama that typically follows the begetting gods. 
 
-*(The following is a slightly modified transcript reprinted with permission from &ldquo;The Life Guide&rdquo;YouTube channel (https://www.youtube.com/c/TheLifeGuide), entitled &ldquo;Greek Gods Explained In 12 Minutes".)*
-
+*(The following is a slightly modified transcript reprinted with permission from &ldquo;The Life Guide&rdquo;YouTube channel (https://www.youtube.com/c/TheLifeGuide), entitled &ldquo;Greek Gods Explained In 12 Minutes&rdquo;.)*
 
 
 First came **Chaos**.  Then **Gaia**, earth.  And finally, **Eros**, love.  From **Gaia** then came **Uranus**, heaven, who both created the **Titans**.  
@@ -3819,7 +3754,7 @@ A famous tale of her jealous vengeance is the story of **Hercules**. **Hercules*
 
 **Athena**, goddess of wisdom and war, the child of **Zeus** and **Metis**, was not born in a conventional way. **Zeus** received an omen that their children would take the throne from him and so swallowed **Metis** while she was pregnant. After this, **Zeus** began to get a terrible headache. He asked a fellow immortal, thought to be **Hephaestus**, to split his head open with an ax. **Athena** was then born from his forehead, jumping out in full battle gear while letting out a war cry. 
 
-**Athena** had an affinity for heroics, coming to the aid of heroes like **Perseus** and **Hercules**. Her favorite was **Odysseus**, who she worked hard to keep safe so he could return to his homeland. **Athena** was highly revered in Athens, which was named after her. She competed with **Poseidon** for the city, both of whom attempted to give it the best gift. **Poseidon** struck the ground with his trident, making a stream of water rise up. **Athena** kicked the earth and caused the first olive tree to emerge. The gods deemed **Athena** victorious, and the city took her name. **Athena** was also one of the sacred virgin goddesses, and so in her honor, the temple built on the Acropolis in Athens was named the **Parthenon**, which comes from **Parthenos**, meaning &ldquo;the virgin". 
+**Athena** had an affinity for heroics, coming to the aid of heroes like **Perseus** and **Hercules**. Her favorite was **Odysseus**, who she worked hard to keep safe so he could return to his homeland. **Athena** was highly revered in Athens, which was named after her. She competed with **Poseidon** for the city, both of whom attempted to give it the best gift. **Poseidon** struck the ground with his trident, making a stream of water rise up. **Athena** kicked the earth and caused the first olive tree to emerge. The gods deemed **Athena** victorious, and the city took her name. **Athena** was also one of the sacred virgin goddesses, and so in her honor, the temple built on the Acropolis in Athens was named the **Parthenon**, which comes from **Parthenos**, meaning &ldquo;the virgin&rdquo;. 
 
 **Ares** was the bloodthirsty and cruel god of war. Neither god nor mortal particularly liked **Ares**. The warfare he represents is not honorable nor heroic, but rather the primal rage and bloodshed of the battlefield. **Ares** had a relationship with the goddess **Aphrodite** who was married to the god **Hephaestus**. The two would sleep together whenever her husband was away. When **Hephaestus** found out, he made an invisible net and hung it over his bed and told his wife he was going away. He hid, and as soon as **Ares** and **Aphrodite** got into bed together, they were trapped in the net and unable to move. **Hephaestus** called upon all the gods, inviting them to see the two naked immortals trapped in the net. Laughter burst out everywhere, and it was only due to the intervention of **Poseidon** that they were released.
 
@@ -3840,8 +3775,6 @@ God of wine and parties, Di**o**nysus was perhaps the most fun of the Olympians.
 # G - Hidden Images
 
 <img src='../Images/embedded-page.png' style='width:100%'>
-
-
 
 ## Credits, left to right, top to bottom.
 
@@ -3869,13 +3802,9 @@ God of wine and parties, Di**o**nysus was perhaps the most fun of the Olympians.
 
 Complete images and more at https://twistedsifter.com/2013/01/hidden-images-embedded-into-songs-spectrographs/
 
-
-
 # H - The Tholonic I-Ching
 
 ## This section of very beta!  Most of it will change!!
-
-
 
 It&rsquo;s been mentioned several times already that the basic principles of the tholonic model should be discoverable in any sustainable model, be it form or idea, if all creation follows the same rules. 
 
@@ -3908,7 +3837,7 @@ The most obvious and important foundation of the I-Ching is that it is based on 
 
 This Taoist *Taijitu* symbol does not represent the Oneness from which the first duality emerged, as it is often believed. Rather it represents the first duality, as well as the Oneness that emerges from an existing duality, in other words, an *N-state*.  The original Oneness, the Tao itself, for which there is no image, is the source from which the initial 0-dimensional &ldquo;blue dot&rdquo; appears in nothingness, and as this dot did not come from a duality (that we can see) there is nothing we can say about it for now other than &ldquo;it just is.&rdquo;  
 
-There are two types of duality which we need to define. The first duality emerged from the Tao. Nothing can be said of the Tao. This first duality is that of the something and nothing. For the concept of something to &ldquo;be", there must be the concept of &ldquo;not be", hence nothing.  In the tholonic view, it is the awareness of nothing that creates the concept of something, that being the awareness itself.  This is the original 0, and 1, or the first two dots of a tholonic trigram. From this duality comes the third dot which creates the second duality that defines of the division, difference and separation of all things. That is the *Taijitu*. It is within this duality that new N-states can emerge.
+There are two types of duality which we need to define. The first duality emerged from the Tao. Nothing can be said of the Tao. This first duality is that of the something and nothing. For the concept of something to &ldquo;be&rdquo;, there must be the concept of &ldquo;not be&rdquo;, hence nothing.  In the tholonic view, it is the awareness of nothing that creates the concept of something, that being the awareness itself.  This is the original 0, and 1, or the first two dots of a tholonic trigram. From this duality comes the third dot which creates the second duality that defines of the division, difference and separation of all things. That is the *Taijitu*. It is within this duality that new N-states can emerge.
 
 From the tholonic perspective, that which created the first duality is different in nature from that which creates all the other dualities, but the process is the same. If we reuse a earlier diagram of the tholonic trigrams but replace the initial, and only the initial N-source with a Zen circle (because I have no better idea what *should* go there, just that is should not be the Taijitu), we have the following:
 
@@ -3950,8 +3879,6 @@ It might see counter intuitive that the *upper* or *outer* trigrams of the I-Chi
 
 *Note: One interesting detail is when we use the outer trigram on the parent level with the inner trigram on the child level; all the numbers for each side equal 9, $(1+6+2), (2+4+3), (3+5+1)$, but if we associated the lower trigram with the inner trigram, and the upper trigram with the outer, all the numbers for each side equal 12,  $(4+3+5), (5+1+6), (6+2+4)$. 9 is more elegant than 12 because it is smaller and $3^3$. That does not mean this mapping is &ldquo;correct&rdquo;, but simplicity and symmetry are excellent indicators of order, and therefore the movement of energy.*
 
-
-
 ## The six stages (in the I-Ching and the thologram)
 
 According to the I-Ching there are 6 stages of change that describe the life-cycle of a creation, or instance. This is stated very clearly:
@@ -3970,7 +3897,7 @@ This shows a general idea of the 6 steps from an I-Ching and tholonic perspectiv
 
 Here is another way to look at the tholonic/I-Ching relationship:
 
- <img src="../Images/line-tao.png" style="width:80%" />
+<img src="../Images/line-tao.png" style="width:80%" />
 
 One way to understand the 6 steps is by looking at the 6 steps of bifurcation needed to create 64 children form one source.
 
@@ -3978,19 +3905,13 @@ One way to understand the 6 steps is by looking at the 6 steps of bifurcation ne
 
 Another way of looking at the 6 stages is from the tholonic model is by comparison: 
 
- <img src="../Images/colorfog-tri.png" style="width:100%"/>
+<img src="../Images/colorfog-tri.png" style="width:100%"/>
 
 Notice how the 4^th^ level of bifurcation (blue shaded line), which is the tholonic *Negotiation* line and the only area where new *N-states* can form to create children, is also defined as *Emergence* in the I Ching, which is consistent with the traditional definition of the 4^th^ line of an I-Ching hexagram. Also note how a point (which are yang in nature), such as 1, 3, and 5, results in lines (which are yin in nature) 2, 4, and 6, of the similar but opposite quality, as in a pair of qualities the describe two aspects of one idea; germination &rarr;fruit, blooming &rarr; recycled, seeds &rarr; growth.  
 
 There is yet another way to look at the structure of the lines, and one that is arguably the basis of the current traditional interpretation of the I-Ching.
 
- 
-
-
-
 <img src="../Images/dot-cicrle-ary.png" style="width:100%;margin:auto;" />
-
-
 
 ***Fig. k1*** shows a simple binary tree that starts at the center and bifurcates outward to 64 end-points.  This form is especially useful because it so clearly show the direction of the YIN movement (***Fig. k2a***) and the YANG movement (***Fig. k2b***), and when we add these two opposite moving patterns together we can see an impressive self-similar fractal pattern (***Fig. k3***). ***Fig. k4*** shows the dots and the lines together, but in addition, each of the six concentric bands has been colorized, and the connective lines have been greatly thickened, with a Tao symbol added to the middle to represent the original duality.
 
@@ -4029,9 +3950,23 @@ This can be reduced again to a more abstracted four pairs, and they can be reduc
 
 <img src="../Images/revtree.png" style="width:70%;margin:auto;" />
 
-
-
 ## The Lines 
+
+There are not 6 lines in order to make 64 hexagrams, there are 64 hexagrams because there are 6 lines.  The creators of the I-Ching deliberately chose to use 6 lines because they knew that 6 is the minimum needed to create a complete archetype.  This is an idea that we see not only across many cultures all over the wolds, specifically in their stories of creation, but in science and geometry:
+
+- The simplest form of creation, the tetrahedron (and tholonic structure) is composed of 6 vectors.
+
+- The Bible and the Quran say all of creation was accomplished in 6 days.
+
+- The Babylonian creation myth, the Enuma Elis, where the one God created 6 gods, each in charge of the 6 different aspects of creation (where they spent 2 days creating everything and the rest of their days fighting with each other). 
+
+- The original Greek Titans were 6 men (Oceanus, Coeus, Crius, Hyperion, Iapetus, and Cronus), and their sisters, the Titanides (Theia, Rhea, Themis, Mnemosyne, Phoebe, and Tethys). They were all the the children of the original 2 primordial gods, Uranus (primordial sky) and Gaia (primordial earth).
+
+- In the building blocks of creation (chemistry) we see 6 electrons in carbon, the foundation of life. 
+
+- And, as we we'll show shorty, The N-source has a value of 6. 
+
+6 seems to be a very significant number and is firmly associated with the concept of creation.
 
 Here is a chart that shows a more in-depth descriptions of the 6 steps from a tholonic and I Ching perspective. It is divided into two hexagrams, *lower* and *upper*. Pay attention to the similarity of the three concepts that each line in the trigram share with each other, as they are essentially mirror aspects of each other.
 
@@ -4043,8 +3978,6 @@ Once we cross the line from *lower* to the *upper*, the quality of the line posi
 
 <img src="../Images/line-desc-2.png" style="width:100%"/>
 
-
-
 Here we equate the *upper* and *lower* trigrams of the I-Ching to the three tholonic attributes of N, D, C
 
 <img src="../Images/tho-table.png" style="width:80%;" />
@@ -4053,31 +3986,17 @@ Depending on the context (*upper* or *lower*), N, D, and C have slightly differe
 
 <img src="../Images/tho-table-2.png" style="width:80%;" />
 
+Because the I Ching is about the nature of unending change, it might serve us to view the stages of change as a continuous stream of changes in the form of a wave, which we attempt to do in the image below.
 
+<img src="../Images/6stage-side-front.png" style="width:100%" />
 
-### Lots of 6s
+This continuity is confirmed in the I Ching when it states: &ldquo;*All movements are accomplished in six stages, and the seventh brings return.*&rdquo; Here we see how the seventh stage returns us to the first stage of the next cycle. Another validation of using this waveform as a model is that the lower trigram of lines 1, 2, and 3 are, in fact, in the lower part of the waveform, and the upper trigram of 4,5, and 6 are in the upper part.
 
-These, and other models of creation, are all based on the number 6. To name just a few:
+On the right is a front view of the waveform that shows how the cycle is composed of six stages that alternate between yin (orange) and yang (blue). Within one complete cycle we have highlighted the significant axis and their yin and yang properties.  We also see that the upper half, being outward in nature, and the left half, being ascending in nature, are yang. The lower half, being inner in nature, and the right half, being descending in nature, and both yin. This results in four quadrants that are, respectively, yin-yin (0), yin-yang (2), yang-yang (3), and yang-yin (1), which are shown in each corner as bigrams.  
 
-- The simplest form of creation, the tetrahedron (and tholonic structure) is composed of 6 vectors.
-
-- The Bible and the Quran say all of creation was accomplished in 6 days.
-
-- The Babylonian creation myth, the Enuma Elis, where the one God created 6 gods, each in charge of the 6 different aspects of creation (where they spent 2 days creating everything and the rest of their days fighting with each other). 
-
-- The original Greek Titans were 6 men (Oceanus, Coeus, Crius, Hyperion, Iapetus, and Cronus), and their sisters, the Titanides (Theia, Rhea, Themis, Mnemosyne, Phoebe, and Tethys), all the the children of the original 2 primordial gods, Uranus (primordial sky) and Gaia (primordial earth).
-
-- In the building blocks of creation (chemistry) we see 6 electrons in carbon, the foundation of life. 
-
-- And, as we we'll show shorty, The N-source has a value of 6. 
-
-6 seems to be a very significant number and is firmly associated with the concept of creation.
-
-
+It might seem odd that the cycle start at the 4:00 position, and not the 6:00 position, but the positions of the lines were determined by their yin/yang qualities.  The vertical axis in the only axis that aligns with the 6 axis of the lines, and as line 2 is a yin line within a yin hemisphere, it naturally represent the nadir. The same is true for its opposite, line 5.
 
 <img src="../Images/dot-circle-plant.png" style="width:20%;" />
-
-
 
 ## Form
 
@@ -4108,8 +4027,6 @@ All of this is to demonstrate how the two systems are quite compatible to the po
 One last observation regarding binary growth, form and chaos.  The classic bifurcation diagram below is determined by the variors rates of equilibrium for any growth rate.  As something grows, it doubles the states of equilibriam it sustains. this applies to everything, apparently.  It applies here because not only in the I-Ching a simple bifurcation diagram, but it also could apply to the growthrates of tholons. 
 
 <img src="../Images/lyman2d.png" style="width:60%;" />
-
-
 
 ## Tech
 
@@ -4164,15 +4081,11 @@ Lao Tzu not only alludes to this duality of oneness when describing the nature o
 
 The following is a bit of a tangent, but worth sharing before we continue with the lines.  Below is a graphic that shows three conditions of the binary tree above.  The first conditions is *Maximum Freedom*, where the direction of the children is undetermined and completely unlimited.  The second condition, *Limited Freedom*, is where the direction of the children is limited by 96% (4% freedom). The final condition, *No Freedom*, is where there can be no deviation from the rule.  
 
-
-
 <img src="../Images/3stage-freedom.png" style="width:100%;" />
 
 The forms used to represent the stages of change are &ldquo;perfect&rdquo;archetypes, in that they adhere strictly to a very tight set of rules. In reality, there are many other forces in play other than an isolated set or rules making it rare, if not impossible, for a perfect archetypes to instantiate.  These other forces introduce variations. If we added just a little bit of variation to our perfect process on just two variables, length and angle, we get the images below.  The upper images are the variations due to a little bit of variation, and the images below are they perfect archetypes they attempted to follow.
 
 <img src="../Images/arch-hex-sm.png" style="width:80%;" />
-
-
 
 ## By the Numbers
 
@@ -4202,7 +4115,6 @@ Here are the traditional definitions of the hexagrams that are the same value as
 
 The following are some of the observations (super nerdy):
 
-
 - The sum of any trigram and the side opposite that trigram always equal 63, the maximum number possible. This was exciting to discover as it supports the tholonic claim that the effect of any point can be seen on the side opposite that point.
 
 - The math pattern of the tholon also works if we replace multiplication with addition, for example, 14 + 21 = 35, or $\overline{DC} + \overline{CN}=\overline{ND}$
@@ -4220,9 +4132,6 @@ The following are some of the observations (super nerdy):
 - Only the numbers of the top trigram, which is the originating trigram, are odd.
 
 - There are many more patterns and relationships as well, and this is only within one tholon that has no parents or children!
-
-
-
 
 ## Better Proof
 
@@ -4287,8 +4196,6 @@ Here are some point about this model:
 
 - **Ring 4**: The upper hemisphere is yang and the lower is yin (ring 4). Because the upper hemisphere consists of 4 yang lines and 2 yin line (ring 6) and has the cardinal value of 7 (ring 8), it is predominantly yang in nature. The opposite is true for the lower hemisphere which is predominantly yin in nature.
 
-
-
 ## More Definitions
 
 ### Yin Yang
@@ -4335,8 +4242,6 @@ We don&rsquo;t assign any value to N, or the blue corner, because we are only lo
 
 In *Perspective 2*, rather than assign values to the rows, we assign them to the trigrams. In this example we move from trigram 1, to 2, to 3 in clockwise order, as opposed to *Row 0* to *Row 1* to *Row 2* from the top down.
 
- 
-
 <img src="../Images/perspectives.png" style="width:100%" />
 
 Both perspectives have patterns. The top-down binary modal of *Perspective 1*, similar to the I-Ching, shows the cardinal points (0, 1, 5, 7) as being composed of only primary elements (red and green only), and it shows the dynamic points (2, 3, 4, 6) as having a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. We also see that the opposing pairs and the negatives  (as in photo negatives) of each other and alternate mirroring one another and 
@@ -4376,7 +4281,6 @@ This pattern only works on the cardinal values, and fails if we apply it to the 
 
 Now that we have these sequences, what do they mean?  Here are the explanations of the cardinal and transitional elements with the reasoning.
 
-
 ### EARTH <img src="../Images/bc/trigram-b00.png" style="width:30px"/> 0
 
 *EARTH* represents the foundation upon which everything is built as well as the resources from which they are built. It is cardinal, winter solstice, inward, the non-moving point between deflation and inflation.  Instance of this are **resources**, **foundations**, **support**.
@@ -4388,7 +4292,6 @@ The quadrant of EARTH <img src="../Images/bc/trigram-b00.png" style="width:20px"
 1. *Negotiation*: <img src="../Images/bc/yin.png" style="width:30px"/> A yin here indicates that anything can be negotiated, for it is receptive to anything, yin or yang.
 2. *Definition*: <img src="../Images/bc/yin.png" style="width:30px"/> The emerging definitions are determined by the whatever is acting upon it.
 3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> The contribution of the yin is that is allows a yang to appear simply by its existence. It doesn&rsquo;t need to do anything, just as 0 implies 1 by its nothingness, especially when we consider that *0^0^*, or *nothingness^nothingness^* , = 1.
-
 
 ### WATER <img src="../Images/bc/trigram-b02.png" style="width:30px"/> 2
 
@@ -4402,7 +4305,6 @@ The trigram shows the symbol of yang energy penetrating the yin at its core.
 2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> The movement of water is what gives it its power.
 3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> The yielding quality of water that is its contributions. If always follows the path of least resistance, is used by every form of life and Nature itself, and is then returned, essentially unchanged. It takes nothing, and gives everything. It is the nature of growth and expansion.
 
-
 ###  AIR <img src="../Images/bc/trigram-b07.png" style="width:30px"/> 7
 
 *AIR* represents the arena of growth and creation. What comes from the yin EARTH grows *into* the yang AIR. It holds all things in the Universe in place and is symbolic of spirit, which shows us a life expanding beyond our earthly limitations.  It is cardinal, summer solstice, outward, the non-moving point between inflation and deflation. Instance of this are **birth**, **exploration**, **imagination**.
@@ -4414,7 +4316,6 @@ The quadrant of AIR <img src="../Images/bc/trigram-b07.png" style="width:20px"/>
 1. *Negotiation*: <img src="../Images/bc/yang.png" style="width:30px"/> It is the nature of air to move and to create; it therefore seeks out the yin.
 2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> While the unknown is yin in nature, exploring it is yang, and it is only by exploring that definitions and limitations are discovered.
 3. *Contribution*: <img src="../Images/bc/yang.png" style="width:30px"/> The contribution of AIR is to open new doors and find new horizons. 
-
 
 ### FIRE <img src="../Images/bc/trigram-b05.png" style="width:30px"/> 5
 
@@ -4429,7 +4330,6 @@ The quadrant of FIRE <img src="../Images/bc/trigram-b05.png" style="width:20px"/
 3. *Contribution*: <img src="../Images/bc/yang.png" style="width:30px"/> The energy is shared with the world, as light, heat, and movement. 
 
 Here are the explanations of the transitional or dynamic interactions.
-
 
 ### Release (AIR & FIRE ) <img src="../Images/bc/trigram-b06.png" style="width:30px"/> 6
 
@@ -4479,8 +4379,6 @@ The quadrant of WATER <img src="../Images/bc/trigram-b01.png" style="width:20px"
 2. *Definition*: <img src="../Images/bc/yang.png" style="width:30px"/> The yang is no longer constrained by the limitation of the EARTH and is free to expand into what seems like limitless AIR.  This is the culmination of expression, and whatever the ultimate expression of an instance is, according to the nature of the instance, will be expressed here. 
 3. *Contribution*: <img src="../Images/bc/yin.png" style="width:30px"/> What remains of that expression or how it lives on is something only history will know.
 
-
-
 ## Hexagrams
 
 With the hexagrams in their binary order we can put together the 64 hexagrams (below). 
@@ -4503,25 +4401,19 @@ Here, we place the 63 <img src="../Images/bc/hexagramB63.png" style="width:25px"
 
 > This also shows an association between the tholonic concept of *DEFINITION* and **Standstill** and *CONTRIBUTION* and **Peace**.  Let&rsquo;s compare them: *DEFINITION* describes *limitation, division, and separation*. It is the domain of laws, restrictions, cause and effect.  **Standstill** describes a time when &ldquo;*The great departs; the small approaches"*, and goes on to say how *perseverance* in one&rsquo;s principles is critical; *principles*, as in *&ldquo;a moral rule or standard of good behavior or fair dealing."* (It goes on to say much about inferior or superior men and their ways, but this is because of the Confucian-based, state-financed interpretations of the day.) *CONTRIBUTION* describes the *unification* of things and the *creation of form*, as well as a *return* to the source and of one&rsquo;s *responsibility*.  **Peace** describes a time when *&ldquo; …heaven seems to be on earth"* and &ldquo;*their powers unite in deep harmony*".
 
-
-
 At first glance this arrangement looks very promising, as the cardinal (blue-framed) hexagrams hold cardinal positions and the three corners equal 63 (actually, a multiple of 63, as 56+7+63 = 63*2). Arguably, hex 0 and hex 63 could be reversed, but the result are effective the same.
 
 However, several other validating patterns emerged that were pretty astounding.
 
 <img src="../Images/tetrahex-hex-triplet-3.png" style="width:100%" />
 
-Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or $[Math Processing Error]6\times 6\times 6$ (see *Appendix D &ldquo;New Data&rdquo;*).
+Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or $6\times 6\times 6$ (see *Appendix D &ldquo;New Data&rdquo;*).
 
 Notice how each of the four triangular sections (in ***Fig. h3a***, and by implication, ***Fig.h3***) have values that exist within each triangle as either red-framed *moving* or green-framed *transitional* values, i.e. hexagrams 36, *Keeping Still*<img src="../Images/bc/hexagramB36.png" style="width:25px"/>, 27, *Joyous* <img src="../Images/bc/hexagramB27.png" style="width:25px"/>, 21, *After Completion* <img src="../Images/bc/hexagramB21.png" style="width:25px"/>, and 42, *Before Completion* <img src="../Images/bc/hexagramB42.png" style="width:25px"/> . 
 
 If we were to create a sequence of the I-Ching based on the tholonic model above, it would look like the following image:
 
-
-
 <img src="../Images/t-sequence.png" style="width:100%" />
-
-
 
 Some interesting points regarding the above sequence:
 
@@ -4538,9 +4430,7 @@ Some interesting points regarding the above sequence:
 
 - Numbers are not as intuitive as images, so here are a couple of charts that clearly show the self-similarity trigram-ish and pattern of the sequence.  Both of these plots plot the series in each of the quadrants of the tholonic I-Ching whuch makes its binary and tholonically fractal nature clear.
 
-  <img src="../Images/graphs-seq.png" style="width:100%" />
-
-  
+<img src="../Images/graphs-seq.png" style="width:100%" />
 
 ## How Creation Works
 
@@ -4580,17 +4470,15 @@ We start with A and its pair, which consists of A~0~ and A~1~.  On the next row,
 
 At the bottom of the tree above we have seven states of A, each identified by the sub-index value, representing its lineage from A.  If you understand binary numbers you'll notice that the sub-indexes follow the perfect sequential order of 76543210 (starting from the left), yet the number they represent have a very different order 70615243.  This seems to make no logical sense, but in fact, it is an amazing relationship.  
 
-The sub-index values represent the path of expression from A that resulted in a number value.  This is the *order of instantiation*, while the value itself is the *value of instantiation*.  Look at how these two sets of values relate to one another.   Below (left) are the binary values for the sub-indexes and the decimal value of that number.  This is not the actual number it represents, just the index.  For example, if we were to use the decimal values of the binary value as an index we would write: $[Math Processing Error]A_{7}=7$, $[Math Processing Error]A_{6}=0$, $[Math Processing Error]A_{5}=6$ ,$[Math Processing Error]A_{4}=1$, $[Math Processing Error]A_{3}=5$, $[Math Processing Error]A_{2}=2$, $[Math Processing Error]A_{1}=4$, $[Math Processing Error]A_{0}=3$
+The sub-index values represent the path of expression from A that resulted in a number value.  This is the *order of instantiation*, while the value itself is the *value of instantiation*.  Look at how these two sets of values relate to one another.   Below (left) are the binary values for the sub-indexes and the decimal value of that number.  This is not the actual number it represents, just the index.  For example, if we were to use the decimal values of the binary value as an index we would write: $A_{7}=7$, $A_{6}=0$, $A_{5}=6$ ,$A_{4}=1$, $A_{3}=5$, $A_{2}=2$, $A_{1}=4$, $A_{0}=3$
 
 <img src="../Images/numbers-1.5.png" style="width:60%" />
 
-The *value of instantiation* ($[Math Processing Error]VI$) axis is perpendicular to the *order of instantiation* ($[Math Processing Error]OI$) axis.  These two axes are perfectly in sync with each other in two different axis and seem to be a natural process of reordering is a very efficient form of encoding (and therefore decoding) as the *value of instantiation* is an encoded version of the *order of instantiation* and visa versa.
+The *value of instantiation* ($VI$) axis is perpendicular to the *order of instantiation* ($OI$) axis.  These two axes are perfectly in sync with each other in two different axis and seem to be a natural process of reordering is a very efficient form of encoding (and therefore decoding) as the *value of instantiation* is an encoded version of the *order of instantiation* and visa versa.
 
 Technically speaking (and I need to say that because what comes next sounds quite esoteric), every instance, which is every *thing* that exists, is not only a piece of the *One Thing* that all existence came from, the ultimate A, which tholonically speaking is a 0-dimensional dot, but also a recombination of the very path that caused it to come into existence starting from the dot, the A, at the beginning of creation. If there was only one source from which everything grew from, then every instance, every thing, has a unique *order of instantiation* value which describes the path it has taken from 0-dimensions.  Because every order of instantiation is unique, so too is the *value of instantiation*.
 
 But there is one more perspective that is worth looking at.  If we arrange this tree in its most natural evolving form (the synergetics of 60&deg;), we get the following:
-
-
 
 <img src="../Images/honeymap.png" style="width:90%" />
 
@@ -4608,7 +4496,7 @@ There are many significant patterns here, but the ones I'd like to point out spe
 
 ## DNA
 
-We see this same pattern of progression in the most fundamental form of creation; genetics. Below is a graph that illustrates the how the bases (adenine, cytosine, guanine, and thymine) pair together to form nucleotides.  An $[Math Processing Error]A$ can only double bond with a $[Math Processing Error]T$, and  $[Math Processing Error]C$ can only triple bond with a $[Math Processing Error]G$. This is accomplished by taking one side, inverting it (line a negative image), then reversing it (horizontal flip). When we do that, the pairs automatically line up in their proper order.  In the image below we the same concepts as above by considering the bases of $[Math Processing Error]A,T,G,C$ to be the instantiable of some *meta-base*, or some unstantiable archetype. These are represented as the half-circles and full circles. We also assign sun-index vales representing their paths, and, as you can see, every pair has two values that equals 3.
+We see this same pattern of progression in the most fundamental form of creation; genetics. Below is a graph that illustrates the how the bases (adenine, cytosine, guanine, and thymine) pair together to form nucleotides.  An $A$ can only double bond with a $T$, and  $C$ can only triple bond with a $G$. This is accomplished by taking one side, inverting it (line a negative image), then reversing it (horizontal flip). When we do that, the pairs automatically line up in their proper order.  In the image below we the same concepts as above by considering the bases of $A,T,G,C$ to be the instantiable of some *meta-base*, or some unstantiable archetype. These are represented as the half-circles and full circles. We also assign sun-index vales representing their paths, and, as you can see, every pair has two values that equals 3.
 
 The intention is to show how at least one aspect of mechanics of a DNA strand follows the same the order, or pattern, of this archetype of *hierarchical primordial numbers* and that of many natural processes, and, of course, the I-Ching. For example, the parent of the bonded bases could be the concept of the class of compounds called purines or pyrimidines.  Their parent, the source, could be the class of aromatic heterocyclic organic compounds, which all the children are a member of.  Or perhaps it could be *Chargaff&rsquo;s Rule*,  which states &ldquo;DNA must have equal parts of GC and AT nucleotides.&rdquo; There could be many different instances of these parents, but in every case (where this model is applies), they will follow the same pattern of expression.
 
@@ -4619,35 +4507,6 @@ This inverting and reversing is the exact same process used in the I Ching and s
 There are correlations between the I Ching and DNA.  For example, is we replace DNA concepts with I Ching concepts, we can say the following:
 
 <img src="../Images/iching-dna.png" style="width:100%" />
-
-## ~~The Origin of Lines~~
-
-~~The individual lines were addressed in part earlier, but here we will try and pull them together into something more coherent.~~
-
-~~Because the I Ching is about the nature of unending change, it might serve us to view the stages of change as a continuous stream of changes, which we attempt to do in the image below.~~
-
-
-
-~~<img src="../Images/6stages.png" style="width:100%" />~~
-
-~~This continuity is confirmed in the I Ching when it states: &ldquo;*All movements are accomplished in six stages, and the seventh brings return.*&rdquo; Here we see how the seventh stage returns us to the first stage of the next cycle. Another validation of using this waveform as a model is that the lower trigram of lines 1, 2, and 3 are, in fact, in the lower part of the waveform, and the upper trigram of 4,5, and 6 are in the upper part.~~
-
-~~Below is a front view of the waveform that exposes more information.  Allow me to point out some of the details.~~  
-
-- ~~The upper half, being outward in nature is also yang in nature, and the bottom is yin.~~
-- ~~Numerical ascencion begins at the 4:00 position and ends at 10:00, and the dBecause the left hemisphere is ascending (numericallyand right side are also yin and yang in nature, as the left side (yang) is ascending in nature, and the right side (yin) is descending in nature.  This results in four quadrants that are, respectively, yin-yin (0), yin-yang (2), yang-yang (3), and yang-yin (1), which are shown in each corner.~~
-
-~~The cycle is composed of six stages that alternate between yin (orange) and yang (blue). Within one complete cycle we have highlighted a number of significant axis and their yin and yang properties.~~ 
-
-~~<img src="../Images/6stages-front.png" style="width:70%" />~~
-
-
-
-~~When these axis properties is combined with the quadrant bigrams, we get the following:~~
-
-~~<img src="../Images/bigrams-add.png" style="width:20%" />~~
-
-~~The first thing to notice is that there are only four, not six. This is because lines 2 (WATER) and 5 (FIRE) are in neither yin (right) or yang (right) sides.  The resulting values are also the values of the stages tat exist only in the quadrants. This suggest that the cardinal points of FIRE and WATER define the the axis around which all the others exist and are themselves not affected by the yin or yang influences of either side.  They are, in a sense, a more perfect form of yin and yang.  This is important to point out because of the significance that lines 2 and 5 have in the final hexagram.~~
 
 ## Binary Tholons
 
@@ -4660,26 +4519,25 @@ We start with the 1^st^ line and move counter-clockwise, then continue with the 
 - All opposing numbers equal 7
 - The central lines of a hexagram, 2 and 5, and the central lines of tetrahedron.
 - The parent (1,3) is yang that creates a yin (2) spectrum, and the child (4,6) is a yin that creates a yang (5) spectrum.
-- The total for the yang is 3^2^ (9),and the total for the yin is 2^2^&times;3 (=12)
+- The total for the yang is 3^2^ (=9),and the total for the yin is 2^2^&times;3 (=12)
 - As a tetrahedron, it nicely positions all the yang lines central and foundational. However, it is not the obvious central trigram that acts as the base of the tetrahedron, but the top trigram.  If you remember back, we showed that it is the top trigram that always maintains the same pattern as the parent. This makes the top trigram a perfect duplicate of the original trigram while also being the foundation for all future generations of tholons. This detail has a profpund effect on the thologram as a whole, for now there is definitely a bottom or base in the process of creating the thologram.  Not only is there a bottom during the growth of the thologram, as shown in the right image below, but when the thologram is folded into itself, creating the tholonic tetrahedron, all the bases land on top of each other in the same place.  
 
 <img src="../Images/pyramid-bottom.png" style="width:60%" />
 
-- All the yin lines extending to create the integrating 4^th^ point, or *white dot*, at the top .
+- All the yin lines extending from the base to create the integrating 4^th^ point, or *white dot*, at the top .
+- There are 4 trigrams created in this 2D tholon defined by the edges; lower right (2,4,1), center (4,5,6), lower left (3,6,2), and top (1,3,5). These creates the 4 sides of the tetrahedron.  These 4 sides naturally define 4 trigrams, <img src="../Images/bc/trigram-b04.png" style="width:25px"> (4), <img src="../Images/bc/trigram-b02.png" style="width:25px"> (2), <img src="../Images/bc/trigram-b01.png" style="width:25px"> (1), and <img src="../Images/bc/trigram-b07.png" style="width:25px"> (7), respectfully.  Notice how the first three shows have yangs in the 1^st^, 2^nd^ and 3^rd^ position, and the 4^th^ trigram has yangs in all 3 positions, in other words, the first 3 equal the 4^th^ as $4+2+1=7$. The values of these trigrams are the VI values, *values of instantiation*.   However, if we look at their OI values as well, we see that 2 of these trigrams are the only 2 trigrams that have the same OI and VI values, those being <img src="../Images/bc/trigram-b02.png" style="width:25px">(2) and <img src="../Images/bc/trigram-b07.png" style="width:25px"> (7). The other 2 trigrams, <img src="../Images/bc/trigram-b04.png" style="width:25px"> (4) and <img src="../Images/bc/trigram-b01.png" style="width:25px"> (1), also happen to be the mirror versions of each other. If we look at the OI/VI Chart above, we'll see that these 4 pairs define each of the 3 axis required to create a tholonic trigram.  Thois alone is intersting, but even more so how these three OI/VI pairs, 1-4, 2-2, 7-7, also implicitly define all trigrams.
 
-- ~~If we apply the yin and yang lines counting from the top, we have 4 variations. If we consider that each trigram implies its opposite, then the have 4 pairs of hexagrams that describes all 8 trigrams. Note,this only works when the base is the center trigram. If we look at the binary values of those trigrams we see they are 1,2,4 and 7.  This seems very irregular and asymmetrical, but these are the only 4 numbers that relate to each other when we compare the OI (*order of instantiation*) and VI (*value of instantiation*) values. Notice how the &ldquo;bottom&rdquo; and the &ldquo;back&rdquo; locations have the same number, but the &ldquo;left&rdquo; and &ldquo;right' locations alternate values.~~
+  In the image below, left, we show these 4 relationships. In the middle, we visually show the relationship between all the OI and VI numbers. The connections that are grayed out are those where there is a one-to-many relationship, while the bold lines are one-to-one, and of these 4 one-to-one relationships, if you look back at the OI/VI Chart, the 4(1) and the 3(5) merge together at the A~011~/A~100~ point, and the only point where any merging occurs. This is significant because we can then represent all 4 hexagrams and 3 axis with only three OI/VI pairs, 1-4, 2-2, and 7-7, and these happen to be the three pairs defined by the tetrahedron when mapped to the I-Ching. Notice in the center image how these 3 pairs are also the one-to-one lines.  The image on the right is there to clear up any confusion about why sometimes count the positions *continuously*, and sometimes we count then *split*.  This chart shows there is really no difference between either model other then in the way we relate the pairs; *continuous* pairs are added to always arrive as the value of 7, and *split* pairs are subtracted to always arrive as the (absolute) value of 4. 
 
-  ~~<img src="../Images/oivi.png" style="width:40%" />~~
+  Of course, with these 4 trigrams we also have their 4 opposites to create the 8 trigrams of the I-Ching.  This is how the tholon defines all 8 trigrams.
 
-~~The reader may notice that it looks like we are cheating a bit here, because according to the tholonic pattern, the 4 and the 6 should be reversed, but here we are deliberately reversing the count direction of the inner triangle in accordance with the pairing requirements of the binary model.  These values then are those that apply to the binary mode and not the same as those that apply to the tholonic model, even though they are in a tholonic context.~~ 
+<img src="../Images/oivi-vioinet.png" style="width:80%" />
+
+The reader may notice that it looks like we are cheating a bit here, because according to the tholonic pattern, the 4 and the 6 should be reversed, but here we are deliberately reversing the count direction of the inner triangle in accordance with the pairing requirements of the binary model (all opposites add to 7).  These values then are those that apply to the binary mode and not the same as those that apply to the tholonic model, even though they are in a tholonic context, but referring to the *continuous/split* image above, were they in the order of the tholon, the opposites would always equal 3 when subtracted.  Again, we have that 7/3 pattern appearing.
 
 ## The Origin of Trigrams
 
 We have yet to look closely at how a trigram evolves from nothing.  Below is a binary tree that begins with a point of unity that divides itself into two states, 0 and 1. This establishes the most fundamental concept of yin and yang. This is then followed by each of those children doing the same by creating their own two children of 0 and 1.  We can see that there are now 4 children, each defined by the parent&rsquo;s fundamental yin or yang, and then adding to that the yin or yang of the child. These 4 children have the values 0, 2, 1, and 3, as shown by the bigrams.  This is done one more time to create the final branch of 8 children, each with a value determined by adding their yin or yang value to the bigrams passed down by the parents. Now we have 8 trigrams or 0, 4, 2, 3, 1, 5, 3, and 7.  Unfortunately, this order seems to lack any symmetry or pattern that is compatible with our model, suggesting it is incorrect.  However, if we flip the tree upside down, like a mirror image, the order immediately appears!  This is important when we are adding lines, because if we start with <img src="../Images/bc/bigram00.png" style="width:25px">and add a <img src="../Images/bc/yang.png" style="width:25px">, you might expect we get a <img src="../Images/bc/trigram-b04.png" style="width:25px">, but as we will need to flip it to maintain the "mirrored" order, we will actually get a <img src="../Images/bc/trigram-b01.png" style="width:25px">.  
-
-
-
-
 
 <img src="../Images/btree-top-bottom.png" style="width:100%" />
 
@@ -4716,11 +4574,7 @@ For example, what can we call the parent that has the combined of a state of EAR
 
 Here are the properties of the 4 bigrams:
 
-
-
 <img src="../Images/bigrams-ele.png" style="width:20%" />
-
-
 
 Let&rsquo;s recap how we are describing the elements and processes of the eight trigrams.
 
@@ -4737,8 +4591,6 @@ With the introduction of bigrams, let&rsquo;s look at the order of the trigrams 
 The chart below shows the two dimension of the bigram as described by their children. The cardinal elements are across the top, and the dynamic properties down the side. Using what we know about the trigrams we can deduce the nature of the bigrams.
 
 <img src="../Images/elementsgrid.png" style="width:100%">
-
-
 
 While there may be many ways to create order of the trigrams, the tholonic model continually re-validates itself every time we look at it from a different perspective. How, then, do these trigrams relate to a tholon?  If we mapped the binary to the tholon, the relationship is obvious and powerful, as shown in the graphic below.
 
@@ -4786,8 +4638,6 @@ The fundamental structure that the I-Ching and related Eastern thinking is built
 
 In astrology, each sign is assigned a element property of FIRE, EARTH, AIR or WATER, and a characteristic of Cardinal, Fixed, or Mutable.  We can easily map the binary and tholonic attributes to these properties, and when we do, we see binary and tholonic patterns appearing in astrological models.
 
-
-
 <img src="../Images/astrigridv2.1.png" style="width:60%"/>
 
 In the above chart, we assign the same yin/yang values for the elements and tholonic descriptions as we have been using all along. NEGOTIATION has no value (because it is both values combined). In the lower left of each cell is the binary value (and the decimal equivalent) of the the column and row. What we see is on the left we have 6 cells made up of 2 primary lines, and 4 cells made up of bigrams. The right is the reflected equivalent, which is consistent with the scheme of duality which exists in both models. 
@@ -4800,13 +4650,11 @@ If we map this to the tholon, we should expect to see some significant relations
 
 What validates this order, among other things, is how the resulting bigrams so closely describe the qualities of the signs when we apply the values.
 
-
-
 <img src="../Images/tho-ast-bin.png" style="width:80%"/>
 
 Using the values we determined in the chart above, we apply the sign&rsquo;s bigram to the tholon. The cardinal signs, which only have one line and are all the NEGOTIATION signs, neatly fit perfectly. For example, the left side of the upper tholon is made up of EARTH-FIRE-EARTH, and the cardinal EARTH sing is Capricorn. Additionally, the diagonal axis that crosses this side is the boundary between Leo and Taurus which are equidistant to the Capricorn cusp. This is the pattern we see for all four quadrants. Also significant is that the NEGOTIATION signs, which are those of the N-state and capable of creating new children, not only form the outer boundary, but all non-N signs converge to the tholonic N-cluster in the middle of the resulting hexagrams, creating the central N-state.
 
-An historically interesting observation is the two center triangles that meet are Leo and Aquarius.  Looking at a zodiac, this would appear to be &ldquo;off", for why would such a critically significant intersection appear so asymmetrical?  This suggests that the original creators of the zodiac were well aware of this significance,  as it was this same axis that defined the planetary assignments back in the day when there were only, and conveniently, six planets. Perhaps they designed it this way to ensure that planet earth would be exactly where the perpendicular axis would be, between Venus and Mars, placing earth in the center. Even though astrology dates back to 2000 BC, given that Saturn and Jupiter weren&rsquo;t discovered until 1610, presumably this assignment came about in the 17th century. In any case, it was pretty clever.
+An historically interesting observation is the two center triangles that meet are Leo and Aquarius.  Looking at a zodiac, this would appear to be &ldquo;off&rdquo;, for why would such a critically significant intersection appear so asymmetrical?  This suggests that the original creators of the zodiac were well aware of this significance,  as it was this same axis that defined the planetary assignments back in the day when there were only, and conveniently, six planets. Perhaps they designed it this way to ensure that planet earth would be exactly where the perpendicular axis would be, between Venus and Mars, placing earth in the center. Even though astrology dates back to 2000 BC, given that Saturn and Jupiter weren&rsquo;t discovered until 1610, presumably this assignment came about in the 17th century. In any case, it was pretty clever.
 
 <img src="../Images/zodiac.png" style="width:40%"/>
 
@@ -4814,7 +4662,7 @@ One minor difference between the western and eastern models is that while they b
 
 <img src="../Images/zodgrid.png" style="width:100%"/>
 
-However, if we arrange them in a circle, and color them to represent the *Negotiation*, *Define*, *Contribute* elements, the tholonic and binary information becomes quite clear. [JWFIX:fix colors above]
+However, if we arrange them in a circle, and color them to represent the *Negotiation*, *Define*, *Contribute* elements, the tholonic and binary information becomes quite clear.
 
 <img src="../Images/numberwheel.png" style="width:50%"/>
 
@@ -4829,8 +4677,6 @@ However, if we arrange them in a circle, and color them to represent the *Negoti
 ## The Lines, Part 1
 
 There is another reason why we bring up astrology, and that is because, as we can see in the number wheel above and the tholon model, it is based on six pairs of attributes that define and describe a complete journey through the cycle, and which happen to map neatly onto the six lines of change in the I-Ching.  If we apply the rules of the tholonic, I Ching and binary models to astrology, we get the chart shown below.
-
-
 
 <img src="../Images/tho-zod.png" style="width:70%"/>
 
@@ -4866,15 +4712,9 @@ On the right is the previous graph that describe the eight trigrams.  Here we ha
 
 Both of these models describe only the structure, the contexts of which is constantly changing.
 
-
-
 <img src="../Images/astro6.png" style="float:left;width:50%"/><img src="../Images/tholonic-pakua.png" style="width:50%"/>
 
-
-
 With all that we have learned so far, let&rsquo;s attempt to decipher and translate the I-Ching.
-
-
 
 # PART II
 
@@ -4883,8 +4723,6 @@ With all that we have learned so far, let&rsquo;s attempt to decipher and transl
 ###### In interpretation of the tholonic model in the style of the I Ching
 
 ## Coming Soon&hellip;
-
-
 
 # The End
 
