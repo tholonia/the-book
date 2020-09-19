@@ -1,0 +1,1512 @@
+<!doctype html>
+<html style='font-size:12px !important'>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>01-CHAOS</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+  .typora-export h1::after, .typora-export h2::after, .typora-export h3::after, .typora-export h4::after, .typora-export h5::after, .typora-export h6::after { content: ""; display: block; height: 100px; margin-bottom: -100px; }
+}
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
+}
+
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        border-top: 1px solid #eee;
+        margin-top: .3em;
+    }
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  font-size: 1rem;
+  line-height: 1.42857;
+  overflow-x: hidden;
+  background: inherit;
+  tab-size: 4;
+}
+
+iframe {
+  margin: auto;
+}
+
+a.url {
+  word-break: break-all;
+}
+
+a:active, a:hover {
+  outline: 0;
+}
+
+
+
+#write {
+  margin: 0 auto;
+  height: auto;
+  width: inherit;
+  word-break: normal;
+  overflow-wrap: break-word;
+  position: relative;
+  white-space: normal;
+  overflow-x: visible;
+  padding-top: 40px;
+}
+
+body.typora-export {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.typora-export .footnote-line, .typora-export li {
+  white-space:pre-wrap;
+}
+
+@media screen and (max-width: 500px) {
+  body.typora-export {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #write {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .CodeMirror-sizer {
+    margin-left: 0 !important;
+  }
+  .CodeMirror-gutters {
+    display: none !important;
+  }
+}
+
+#write li > figure:last-child {
+  margin-bottom: 0.5rem;
+}
+
+#write ol, #write ul {
+  position: relative;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+button, input, select, textarea {
+  color: inherit;
+  font: inherit;
+}
+
+input[type="checkbox"], input[type="radio"] {
+  line-height: normal;
+  padding: 0;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre {
+  width: inherit;
+}
+
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p {
+  position: relative;
+}
+
+p {
+  line-height: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  break-after: avoid-page;
+  break-inside: avoid;
+  orphans: 2;
+}
+
+p {
+  orphans: 4;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align:center;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  cursor: pointer;
+}
+
+#write input[type="checkbox"] {
+  cursor: pointer;
+  width: inherit;
+  height: inherit;
+}
+
+figure {
+  overflow-x: auto;
+  margin: 1.2em 0;
+  max-width: calc(100% + 16px);
+  padding: 0;
+}
+
+figure > table {
+  margin: 0 !important;
+}
+
+tr {
+  break-inside: avoid;
+  break-after: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  overflow: auto;
+  break-inside: auto;
+  text-align: left;
+}
+
+.CodeMirror-gutters {
+  border-right: 0;
+  background-color: inherit;
+}
+
+.CodeMirror {
+  text-align: left;
+}
+
+.CodeMirror-lines {
+  padding: 0;
+}
+
+#write pre {
+  white-space: pre-wrap;
+}
+
+#write pre.ty-contain-cm {
+  white-space: normal;
+}
+
+.CodeMirror-gutters {
+  margin-right: 4px;
+}
+
+.md-fences {
+  font-size: 0.9rem;
+  display: block;
+  break-inside: avoid;
+  text-align: left;
+  overflow: visible;
+  white-space: pre;
+  background: inherit;
+  position: relative !important;
+}
+
+#write .md-fences.mock-cm {
+  white-space: pre-wrap;
+}
+
+.md-fences.md-fences-with-lineno {
+  padding-left: 0;
+}
+
+#write.fences-no-line-wrapping .md-fences.mock-cm {
+  white-space: pre;
+  overflow-x: auto;
+}
+
+.md-fences.mock-cm.md-fences-with-lineno {
+  padding-left: 8px;
+}
+
+.CodeMirror-line, twitterwidget {
+  break-inside: avoid;
+}
+
+li div {
+  padding-top: 0;
+}
+
+blockquote {
+  margin: 1rem 0;
+}
+
+li p {
+  margin: 0.5rem 0;
+}
+
+li {
+  margin: 0;
+  position: relative;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+blockquote > :first-child, li > :first-child {
+  margin-top: 0;
+}
+
+@media print {
+  body, html {
+    border: 1px solid transparent;
+    height: 99%;
+    break-after: avoid;
+    break-before: avoid;
+  }
+  #write {
+    margin-top: 0;
+    padding-top: 0;
+    border-color: transparent !important;
+  }
+  .typora-export * {
+    -webkit-print-color-adjust: exact;
+  }
+  .typora-export #write {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 0;
+    break-after: avoid;
+  }
+  .typora-export #write::after {
+    height: 0;
+  }
+}
+
+a img, img a {
+  cursor: pointer;
+}
+
+p > img:only-child {
+  display: block;
+  margin: auto;
+}
+
+[contenteditable="true"]:active, [contenteditable="true"]:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+
+
+kbd {
+  margin: 0 0.1em;
+  padding: 0.1em 0.6em;
+  font-size: 0.8em;
+  color: rgb(36, 39, 41);
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(173, 179, 185);
+  border-radius: 3px;
+  box-shadow: rgba(12, 13, 14, 0.2) 0 1px 0, rgb(255, 255, 255) 0 0 0 2px inset;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+code {
+  text-align: left;
+  vertical-align: initial;
+}
+
+[lang="mermaid"] svg, [lang="flow"] svg {
+  max-width: 100%;
+  height: auto;
+}
+
+table tr th {
+  border-bottom: 0;
+}
+
+video {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+iframe {
+  max-width: 100%;
+  width: 100%;
+  border: none;
+}
+
+.CodeMirror {
+  height: auto;
+}
+
+.CodeMirror.cm-s-inner {
+  background: inherit;
+}
+
+.CodeMirror-scroll {
+  overflow: auto hidden;
+  z-index: 3;
+}
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler {
+  background-color: rgb(255, 255, 255);
+}
+
+.CodeMirror-gutters {
+  border-right: 1px solid rgb(221, 221, 221);
+  background: inherit;
+  white-space: nowrap;
+}
+
+.cm-s-inner .cm-keyword {
+  color: rgb(119, 0, 136);
+}
+
+.cm-s-inner .cm-atom, .cm-s-inner.cm-atom {
+  color: rgb(34, 17, 153);
+}
+
+.cm-s-inner .cm-number {
+  color: rgb(17, 102, 68);
+}
+
+.cm-s-inner .cm-def {
+  color: rgb(0, 0, 255);
+}
+
+.cm-s-inner .cm-variable {
+  color: rgb(0, 0, 0);
+}
+
+.cm-s-inner .cm-variable-2 {
+  color: rgb(0, 85, 170);
+}
+
+.cm-s-inner .cm-variable-3 {
+  color: rgb(0, 136, 85);
+}
+
+.cm-s-inner .cm-string {
+  color: rgb(170, 17, 17);
+}
+
+.cm-s-inner .cm-property {
+  color: rgb(0, 0, 0);
+}
+
+.cm-s-inner .cm-operator {
+  color: rgb(152, 26, 26);
+}
+
+.cm-s-inner .cm-comment, .cm-s-inner.cm-comment {
+  color: rgb(170, 85, 0);
+}
+
+.cm-s-inner .cm-string-2 {
+  color: rgb(255, 85, 0);
+}
+
+.cm-s-inner .cm-meta {
+  color: rgb(85, 85, 85);
+}
+
+.cm-s-inner .cm-qualifier {
+  color: rgb(85, 85, 85);
+}
+
+.cm-s-inner .cm-builtin {
+  color: rgb(51, 0, 170);
+}
+
+.cm-s-inner .cm-bracket {
+  color: rgb(153, 153, 119);
+}
+
+.cm-s-inner .cm-tag {
+  color: rgb(17, 119, 0);
+}
+
+.cm-s-inner .cm-attribute {
+  color: rgb(0, 0, 204);
+}
+
+.cm-s-inner .cm-header, .cm-s-inner.cm-header {
+  color: rgb(0, 0, 255);
+}
+
+.cm-s-inner .cm-quote, .cm-s-inner.cm-quote {
+  color: rgb(0, 153, 0);
+}
+
+.cm-s-inner .cm-hr, .cm-s-inner.cm-hr {
+  color: rgb(153, 153, 153);
+}
+
+.cm-s-inner .cm-link, .cm-s-inner.cm-link {
+  color: rgb(0, 0, 204);
+}
+
+div.CodeMirror span.CodeMirror-matchingbracket {
+  color: rgb(0, 255, 0);
+}
+
+div.CodeMirror span.CodeMirror-nonmatchingbracket {
+  color: rgb(255, 34, 34);
+}
+
+.cm-s-inner .CodeMirror-activeline-background {
+  background: inherit;
+}
+
+.CodeMirror {
+  position: relative;
+  overflow: hidden;
+}
+
+.CodeMirror-scroll {
+  height: 100%;
+  outline: 0;
+  position: relative;
+  box-sizing: content-box;
+  background: inherit;
+}
+
+.CodeMirror-sizer {
+  position: relative;
+}
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar {
+  position: absolute;
+  z-index: 6;
+  display: none;
+}
+
+.CodeMirror-scrollbar-filler {
+  right: 0;
+  bottom: 0;
+}
+
+.CodeMirror-gutter-filler {
+  left: 0;
+  bottom: 0;
+}
+
+.CodeMirror-gutters {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-bottom: 30px;
+  z-index: 3;
+}
+
+.CodeMirror-gutter-background {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 4;
+}
+
+.CodeMirror-lines {
+  cursor: text;
+}
+
+.CodeMirror-linebackground {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.CodeMirror-wrap .CodeMirror-scroll {
+  overflow-x: hidden;
+}
+
+.CodeMirror-measure {
+  position: absolute;
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.CodeMirror div.CodeMirror-cursor {
+  position: absolute;
+  visibility: hidden;
+  border-right: none;
+  width: 0;
+}
+
+.CodeMirror div.CodeMirror-cursor {
+  visibility: hidden;
+}
+
+@media print {
+  .CodeMirror div.CodeMirror-cursor {
+    visibility: hidden;
+  }
+}
+
+
+
+body {
+  font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(51, 51, 51);
+  line-height: 1.6;
+}
+
+#write {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 30px 30px 100px;
+}
+
+#write > ul:first-child, #write > ol:first-child {
+  margin-top: 30px;
+}
+
+a {
+  color: rgb(65, 131, 196);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  line-height: 1.4;
+  cursor: text;
+}
+
+h6:hover a.anchor {
+  text-decoration: none;
+}
+
+h1 tt,h1 code {
+  font-size: inherit;
+}
+
+h2 tt, h2 code {
+  font-size: inherit;
+}
+
+h3 tt, h3 code {
+  font-size: inherit;
+}
+
+h4 tt, h4 code {
+  font-size: inherit;
+}
+
+h5 tt, h5 code {
+  font-size: inherit;
+}
+
+h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 1em;
+  color: rgb(119, 119, 119);
+}
+
+p, blockquote, ul, ol, dl, table {
+  margin: 0.8em 0;
+}
+
+li > ol, li > ul {
+  margin: 0;
+}
+
+hr {
+  height: 2px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: rgb(231, 231, 231);
+  border: 0 none;
+  overflow: hidden;
+  box-sizing: content-box;
+}
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul:first-child, ol:first-child {
+  margin-top: 0;
+}
+
+ul:last-child, ol:last-child {
+  margin-bottom: 0;
+}
+
+blockquote {
+  border-left: 4px solid rgb(223, 226, 229);
+  padding: 0 15px;
+  color: rgb(119, 119, 119);
+}
+
+blockquote blockquote {
+  padding-right: 0;
+}
+
+table {
+  padding: 0;
+  word-break: initial;
+}
+
+table tr {
+  border-top: 1px solid rgb(223, 226, 229);
+  margin: 0;
+  padding: 0;
+}
+
+table tr:nth-child(2n), thead {
+  background-color: rgb(248, 248, 248);
+}
+
+table tr th {
+  font-weight: bold;
+  border-width: 1px 1px 0;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(223, 226, 229);
+  border-right-color: rgb(223, 226, 229);
+  border-left-color: rgb(223, 226, 229);
+  border-image: initial;
+  border-bottom-style: initial;
+  border-bottom-color: initial;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr td {
+  border: 1px solid rgb(223, 226, 229);
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr th:first-child, table tr td:first-child {
+  margin-top: 0;
+}
+
+table tr th:last-child, table tr td:last-child {
+  margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+  padding-left: 4px;
+}
+
+.md-fences, code, tt {
+  border: 1px solid rgb(231, 234, 237);
+  background-color: rgb(248, 248, 248);
+  border-radius: 3px;
+  padding: 2px 4px 0;
+  font-size: 0.9em;
+}
+
+code {
+  background-color: rgb(243, 244, 244);
+  padding: 0 2px;
+}
+
+.md-fences {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-top: 8px;
+  padding-bottom: 6px;
+}
+
+@media print {
+  html {
+    font-size: 13px;
+  }
+  table, pre {
+    break-inside: avoid;
+  }
+  pre {
+    overflow-wrap: break-word;
+  }
+}
+
+.md-fences {
+  background-color: rgb(248, 248, 248);
+}
+
+#typora-quick-open {
+  border: 1px solid rgb(221, 221, 221);
+  background-color: rgb(248, 248, 248);
+}
+
+#typora-quick-open-item {
+  background-color: rgb(250, 250, 250);
+  border-color: rgb(254, 254, 254) rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238);
+  border-style: solid;
+  border-width: 1px;
+}
+
+header, footer {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+@page {
+  width: 6.69in;
+  height: 9.61in;
+  margin: 0.75in 0.18in;
+}
+
+.reflink {
+  font-size: larger;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#write h1 {
+  text-align: center;
+  break-before: page !important;
+}
+
+h6 {
+  color: black;
+  font-weight: 100;
+  border-right: 0 solid white;
+  border-left: 0 solid white;
+  border-image: initial;
+  font-family: Tahoma, Verdana, Segoe, sans-serif !important;
+  text-align: center !important;
+  border-top: 1px solid black !important;
+  border-bottom: 1px solid black !important;
+}
+
+h5 {
+  font-size: 10pt;
+  font-weight: 100;
+  color: grey;
+  display: inline-block;
+  border: 0 solid white;
+  text-align: right !important;
+  position: relative !important;
+  right: 0 !important;
+}
+
+h4 {
+  border: 1px solid lightgrey !important;
+  background-color: rgb(221, 221, 221) !important;
+  font-size: 12pt !important;
+  font-weight: 100 !important;
+}
+
+#md-inner-link {}
+
+
+
+
+
+
+
+
+
+
+/* this si git.user.css appended to esure compatibility? */
+
+
+
+@page {
+    width: 6.69in; height: 9.61in;
+    margin: 0.75in 0.18in 0.75in 0.18in;
+    
+    #write h1 {
+      text-align:center;
+      page-break-before:always !important;
+    }
+}
+
+
+.editnote {
+    color: black;
+    font-weight: 100;
+    border: 1px solid black !important;
+    background-color: yellow;
+}
+.reflink {
+  font-size:larger;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+ 
+#write h1 {
+    text-align:center;
+    page-break-before:always !important;
+}
+
+.break {
+  page-break-before:always;
+}
+
+h6 { /* this is the sub-headimg */
+    font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+    text-align: center !important;
+    color: black;
+    border-top:1px solid black !important;
+    border-bottom:1px solid black !important;
+    font-weight:100;
+    border: 0px solid white;
+}
+
+h5 { /* this is the authours format */
+    font-size: 10pt;
+    font-weight:100;
+    font-style: italics;
+    color:grey;
+    display: inline-block;
+    text-align: right !important;
+    position:relative !important;
+    right:0 !important; 
+    border: 0px solid white;
+}
+
+h4 { /* this is the CLAIM format */
+    border:1px solid lightgrey !important;
+    background-color:#ddd !important;
+    font-size: 12pt !important;
+    font-weight: 100 !important;
+}
+
+#md-inner-link {
+/* text-decoration: none; */
+}
+
+.md-toc-h6 {
+  display: none;
+}
+.md-toc-h5 {
+  display: none;
+}
+.md-toc-h4 {
+  display: none;
+}
+a.md-toc-inner {
+    font-size: 14pt !important;
+    color: black !important;
+}
+
+/* hide book title in TOC */
+.md-toc-inner strong {
+    display:none;
+}
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+</style>
+</head>
+<body class='typora-export'>
+<div id='write'  class=''><div style="page-break-after: always; break-after: page;"></div><h1><a name="1-chaos" class="md-header-anchor"></a><span>1: CHAOS</span></h1><h6><a name="everything-begins-and-ends-in-chaos" class="md-header-anchor"></a><span>Everything begins and ends in chaos.</span></h6><p><span>Oxford English Dictionary gives three definitions of the word </span><em><span>chaos</span></em><span>.</span></p><p><span>These are:</span></p><ul><li><span>The formless matter supposed to have existed before the creation of the universe.</span></li><li><span>The formless and disordered state of matter before the creation of the cosmos.</span></li><li><span>A state of extreme confusion and disorder.</span></li></ul><p><span>I am not really sure what the difference is between the first two definitions.  Regardless, we</span>&rsquo;<span>ll skip over the obvious contradiction of </span>&ldquo;<span>formless matter</span>&rdquo;<span> existing before creation </span>&hellip;<span> for now.</span></p><p><span>There is also the Ancient Greek mythological definition of the word χάος, </span><em><span>Khaos</span></em><span>, referring to the void state preceding the creation of the universe or cosmos and personified in the Greek creation myths as the god who was </span>&ldquo;<em><span>the first created being, from which came the primeval deities Gaia, Tartarus, Erebus, and Nyx.</span>&rdquo;</em></p><p><span>In physics, chaos is defined as </span>&ldquo;<span>The property of a complex system whose behavior is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions.</span>&rdquo;<span>, but as science writer James Gleick points out</span><sup class='md-footnote'><a href='#dfref-footnote-1' name='ref-footnote-1'>1</a></sup><span>:</span></p><blockquote><p><span>No one </span><span>[</span><span>of the chaos scientists he interviewed</span><span>]</span><span> could quite agree on </span><span>[</span><span>a definition of</span><span>]</span><span> the word itself, and so instead gives descriptions from a number of practitioners in the field.  Those scientists that do have a definition are hardly in agreement, as Philip Holmes defined </span>&ldquo;<span>chaotic</span>&rdquo;<span> as, </span>&ldquo;<span>The complicated aperiodic attracting orbits of certain, usually low-dimensional dynamical systems.</span>&rdquo;<span> while Bai-Lin Hao describes chaos as </span>&ldquo;<span>a kind of order without periodicity.</span>&rdquo;</p></blockquote><p><span>Another term for </span><em><span>chaos</span></em><span> comes from cosmology, and that is the </span><em><span>primal void.</span></em></p><p><span>Modern cosmology</span>&rsquo;<span>s Big Bang theory is quite compatible with this idea that before there was anything, there was nothing but a primal void, a term often used by scientists themselves.  The primal void is a descriptive synonym for at least one state of chaos.</span></p><p><span>The primal void has also been called the </span><em><span>gap between heaven and earth</span></em><span>, the </span><em><span>abyss</span></em><span>, </span><em><span>absolute-limitless nothing</span></em><span>, </span><em><span>ex nihilo</span></em><span>, and a number of other terms all trying to convey the idea of total and absolute nothingness, a concept that may well be impossible for the human mind to grasp.  This nothingness also includes (or rather, excludes) the concept of time, as there can be no time in a void of nothingness, at least according to Stephen Hawking.</span><sup class='md-footnote'><a href='#dfref-footnote-2' name='ref-footnote-2'>2</a></sup></p><p><span>Everyone from scientists to mystics seems to agree that before there was something, there was nothing, and then, presto, somethingness appeared in the nothingness.</span></p><p><span>How </span>&ldquo;<span>big</span>&rdquo;<span> was this nothingness? Is there a limit to nothingness? If there is, how is that defined? If there is no limit, then is nothingness infinite? There are a lot of sticky questions around the challenging concept of nothingness, which would explain why it</span>&rsquo;<span>s symbolic representation in the number 0 (zero) is a fairly modern invention.</span></p><h2><a name="zero" class="md-header-anchor"></a><span>Zero</span></h2><p><span>Zero was first recorded in Mesopotamia around 3 B.C., followed by its appearance in Mayan Mesoamerica circa 4 A.D., India in the 5th century, Cambodia in the 7th century, and China and the Islamic countries in the 8th century.  The concept of zero didn</span>&rsquo;<span>t reach Western Europe until the 12th century, and even then, was not fully accepted as a legitimate number concept for hundreds of years.</span></p><p><span>One of the conceptual challenges of zero is that 0</span><sup><span>0</span></sup><span> = 1.  In addition, this single number represents the antithesis of all other numbers.  The other conceptual problem is that zero can also represents the sum of all numbers! See for yourself.  Just start adding all numbers together and don</span>&rsquo;<span>t stop until you get to infinity</span>&hellip;<span> </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="63.369ex" height="2.91ex" viewBox="0 -860.5 27283.7 1252.7" role="img" focusable="false" style="vertical-align: -0.911ex;"><defs><path stroke-width="0" id="E4-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path><path stroke-width="0" id="E4-MJMAIN-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path stroke-width="0" id="E4-MJMAIN-2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path><path stroke-width="0" id="E4-MJMAIN-2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path><path stroke-width="0" id="E4-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path><path stroke-width="0" id="E4-MJMAIN-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path stroke-width="0" id="E4-MJMAIN-33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"></path><path stroke-width="0" id="E4-MJMAIN-2E" d="M78 60Q78 84 95 102T138 120Q162 120 180 104T199 61Q199 36 182 18T139 0T96 17T78 60Z"></path><path stroke-width="0" id="E4-MJMAIN-3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path><path stroke-width="0" id="E4-MJMAIN-30" d="M96 585Q152 666 249 666Q297 666 345 640T423 548Q460 465 460 320Q460 165 417 83Q397 41 362 16T301 -15T250 -22Q224 -22 198 -16T137 16T82 83Q39 165 39 320Q39 494 96 585ZM321 597Q291 629 250 629Q208 629 178 597Q153 571 145 525T137 333Q137 175 145 125T181 46Q209 16 250 16Q290 16 318 46Q347 76 354 130T362 333Q362 478 354 524T321 597Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E4-MJMAIN-28" x="0" y="0"></use><use xlink:href="#E4-MJMAIN-31" x="389" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="1111" y="0"></use><use xlink:href="#E4-MJMAIN-28" x="2111" y="0"></use><use xlink:href="#E4-MJMAIN-2212" x="2500" y="0"></use><use xlink:href="#E4-MJMAIN-31" x="3278" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="3778" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="4167" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="4778" y="0"></use><use xlink:href="#E4-MJMAIN-28" x="5778" y="0"></use><use xlink:href="#E4-MJMAIN-32" x="6167" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="6890" y="0"></use><use xlink:href="#E4-MJMAIN-28" x="7890" y="0"></use><use xlink:href="#E4-MJMAIN-2212" x="8279" y="0"></use><use xlink:href="#E4-MJMAIN-32" x="9057" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="9557" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="9946" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="10557" y="0"></use><use xlink:href="#E4-MJMAIN-28" x="11557" y="0"></use><use xlink:href="#E4-MJMAIN-33" x="11946" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="12669" y="0"></use><use xlink:href="#E4-MJMAIN-28" x="13669" y="0"></use><use xlink:href="#E4-MJMAIN-2212" x="14058" y="0"></use><use xlink:href="#E4-MJMAIN-33" x="14836" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="15336" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="15725" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="16114" y="0"></use><use xlink:href="#E4-MJMAIN-2E" x="16892" y="0"></use><use xlink:href="#E4-MJMAIN-2E" x="17336" y="0"></use><use xlink:href="#E4-MJMAIN-2E" x="17781" y="0"></use><use xlink:href="#E4-MJMAIN-3D" x="18226" y="0"></use><use xlink:href="#E4-MJMAIN-30" x="19282" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="20004" y="0"></use><use xlink:href="#E4-MJMAIN-30" x="21004" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="21726" y="0"></use><use xlink:href="#E4-MJMAIN-30" x="22726" y="0"></use><use xlink:href="#E4-MJMAIN-2B" x="23226" y="0"></use><use xlink:href="#E4-MJMAIN-2E" x="24004" y="0"></use><use xlink:href="#E4-MJMAIN-2E" x="24449" y="0"></use><use xlink:href="#E4-MJMAIN-2E" x="24894" y="0"></use><use xlink:href="#E4-MJMAIN-3D" x="25338" y="0"></use><use xlink:href="#E4-MJMAIN-30" x="26394" y="0"></use><use xlink:href="#E4-MJMAIN-29" x="26894" y="0"></use></g></svg></span><script type="math/tex">(1 + (-1)) + (2 + (-2)) + (3 + (-3)) +...  = 0 + 0 + 0 + ...  = 0)</script><span>.  I am not being hyperbolic here in any way, as this is an ongoing debate in both mathematics and philosophy, and many will claim that, in fact, 0=</span>&infin;<span> We</span>&rsquo;<span>ll let the philosophers figure that out.  In the meantime, to deal with the finite world of everyday life we</span>&rsquo;<span>ll try and stear clear of infinity and stick to actual things which are quite finite and often have no negative equivalents, like the number of cars in Idaho or the number of tomatoes consumed annually.</span></p><p><span>How it applies here is that we have the idea of zero or nothing, and the idea of everything not-zero or not-nothing, which is every thing.  The idea of zero being the antithesis of all numbers is equivalent to the equally challenging idea that all that ever did, does or will exist does so b</span>
+<span>ecause of the existence of nothingness.  These are heady and paradoxical concepts, like the oxymoronic phrase </span>&ldquo;<span>the existence of nothingness</span>&rdquo;<span>.</span></p><p><span>Nevertheless, we accept the story, in one form or another, that once upon a time, before time even existed, there was an infinite void of nothingness, and then, badda-boom, badda-bing, something appeared in this nothingness</span>&hellip;<span> and not just any something, but the totality of all somethingness that has, does, or ever will exist.  Just as 0</span><sup><span>0</span></sup><span>=1, nothing to the power of nothing apparently equals something, and from that something, all things.</span></p><p><span>How many things other than zero are there? In theory, infinite, but in reality, nothing is actually infinite even if it appears so.  This apparent contradiction plagued philosophy and science for quite a long time</span><sup class='md-footnote'><a href='#dfref-footnote-3' name='ref-footnote-3'>3</a></sup><span> until Einstein came up with a clever answer.</span></p><p><span>According to Einstein</span>&rsquo;<span>s Field Equations, the universe is not infinite, but rather </span>&ldquo;<span>finite and unbounded</span>&rdquo;<span>, which is a clever way to say </span>&ldquo;<span>infinite, but finite.</span>&rdquo;<span> Think of the 2D surface of a ball.  It is essentially infinite in that you can travel on it forever and never get to the end, but it is bounded, or finite, in that it only occupies a finite space.  The 3D reality that is our Universe is the same, according to Einstein, but like the 3D </span>&ldquo;<span>surface</span>&rdquo;<span> of a 4D space.</span></p><p><span>This is mentioned only to raise the idea that the primal void in which all of existence exists may well be a big 4D ball, rather than an infinite space.  True or not, I can</span>&rsquo;<span>t say, but at least it</span>&rsquo;<span>s a bit easier to get one</span>&rsquo;<span>s head around.</span></p><p><span>In either case, the idea of a primal void, or chaos, in mythology as well as cosmology, is one where there is no matter, no energy, no anything.</span></p><p><span>Some colloquial, older definitions of chaos describe it as matter before there was any energy, but as we now know that matter itself is nothing but energy, that description no longer applies.</span></p><h4><a name="claim-1-chaos-is-a-state-lacking-any-order-time-or-energy--total-nothingness" class="md-header-anchor"></a><strong><span>Claim 1:</span></strong><span> Chaos is a state lacking any order, time or energy.  Total nothingness.  </span></h4><p><span>Chaos also has another definition that means exactly the opposite, similar to the </span>&infin;<span>=0 concept (scientists do that a lot).  Take, for example, the study of chaos in the origins of the universe that was undertaken by Chicago</span>&rsquo;<span>s Northwestern University physicist Adilson Motter, who concluded that 10</span><sup><span>-36</span></sup><span> seconds after the Big Bang happened there was a state of </span><em><span>total chaos</span></em><span>.  Do you know what was happening at 10</span><sup><span>-36</span></sup><span> seconds after the Big Bang? Everything, and in a temperature of over 1 trillion degrees.  Motter concluded from his study </span><sup class='md-footnote'><a href='#dfref-footnote-4' name='ref-footnote-4'>4</a></sup><span>:</span></p><blockquote><p><span> </span>&ldquo;<span>Now we establish once and for all that </span><span>[</span><span>the universe</span><span>]</span><span> is chaotic.</span>&rdquo;<span> </span></p></blockquote><p><span>Motter may have been referring to the other definition of </span><em><span>chaos</span></em><span> that scientists also use, which is essentially </span><em><span>unpredictability</span></em><span>. There can be some confusion here because if something lacks any order, time or energy, it is certainly unpredictable, but there are also things that have lots of order, time and energy and are still unpredictable, like the weather. We are going to stick with our definition above because unpredictability can be the result of any of the above.  But, surely, something is predictable is if has no energy, because it will never change, right?  if something now no energy, it can</span>&lsquo;<span>t even exist, and it</span>&lsquo;<span>s pretty hard to predict what does exist. If is has very little energy, like a rock floating in space, it sill has time and order, so it is not chaotic.</span></p><h4><a name="claim-2-chaos-is-a-state-of-total-energy-and-matter--total-somethingness" class="md-header-anchor"></a><strong><span>Claim 2:</span></strong><span> Chaos is a state of total energy and matter.  Total somethingness.  </span></h4><p><span>We are not claiming here that the Big Bang theory is correct (because it sounds completely insane), but we are asking the question; How can the concept of </span><em><span>chaos</span></em><span> describe the state of the void of total nothingness as well as the state of all matter and energy in the universe?</span></p><p><span>The definition of chaos that works for both is </span><em>&ldquo;<span>the degree that order is present in any state.</span>&rdquo;</em><span> Both of those states, of total nothingness and total somethingness, have no order.  In one case because that state is empty of anything, and in the other case because that state is full of everything in a moment that everything was happening at once.  Granted, that total state of chaos (after the Big Bang) only lasted 10</span><sup><span>-36</span></sup><span> seconds, but that doesn</span>&rsquo;<span>t change the fact that total chaos existed at the birth of the Universe.</span></p><p><span>Perhaps the most useful definition of chaos comes from the authors of </span>&ldquo;<em><span>Introduction to Complex Systems, Sustainability and Innovations</span></em>&rdquo;<sup class='md-footnote'><a href='#dfref-footnote-5' name='ref-footnote-5'>5</a></sup><span>, which simply states:</span></p><blockquote><p><span>Chaos explores the transitions between order and disorder.  An order arises from the ever growing disorder of the Universe - chaos and order together.</span></p></blockquote><h4><a name="claim-3-chaos-as-a-measure-of-order" class="md-header-anchor"></a><strong><span>Claim 3:</span></strong><span> Chaos as a measure of order.  </span></h4><p><span>Oddly, none of these definitions of chaos even begin to touch on its most important significance, and that is that chaos is the unknowable wild-card variable of unpredictability that exists across the entire spectrum of existence.  It is chaos that prevents the laws of creations for churning out identical copies of creation.  Chaos is what makes the future unknowable, and without chaos the difference between the past and the future would be slight.  Chaos is not the same as randomness.  Chaos is </span><em><span>deterministic</span></em><span>, meaning it adheres to rules, and has a pattern, but the effects over time makes it impossible to predict.  Randomness is </span><em><span>non-deterministic</span></em><span>, meaning it has no pattern or predictability.  Reality is born in chaos, not randomness.</span></p><div class='footnotes-area'  ><hr/>
+<div class='footnote-line'><span class='md-fn-count'>1</span> <span>Gleick, J. (1998). </span><strong><span>Making a New Science</span></strong><span>.</span> <a name='dfref-footnote-1' href='#ref-footnote-1' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>2</span> &ldquo;<strong><span>The Beginning of Time</span></strong><span>.</span>&rdquo;<span> Stephen Hawking, </span><a href='https://www.hawking.org.uk/the-beginning-of-time.html' target='_blank' class='url'>https://www.hawking.org.uk/the-beginning-of-time.html</a><span>.</span> <a name='dfref-footnote-2' href='#ref-footnote-2' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>3</span> <span>For math nerds, here is an excellent vlog on </span><strong>&ldquo;<span>The Opposite of Infinity</span>&rdquo;</strong><span>: on </span><a href='http://www.quora.com' target='_blank' class='url'>http://www.quora.com</a><span> </span>&ldquo;<span>How do you understand the difference between something infinitely small and something inexistant Are they distinguishable in real terms?</span> <a name='dfref-footnote-3' href='#ref-footnote-3' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>4</span> <span>Northwestern University. &quot;</span><strong><span>Big bang was followed by chaos, mathematical analysis shows</span></strong><span>&quot;. ScienceDaily. ScienceDaily, 8 September 2010. </span><a href='http://www.sciencedaily.com/releases/2010/09/100907171642.htm' target='_blank' class='url'>www.sciencedaily.com/releases/2010/09/100907171642.htm</a> <a name='dfref-footnote-4' href='#ref-footnote-4' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>5</span> <span>Thomas, Ciza, et al. “</span><strong><span>Introduction to Complex Systems, Sustainability and Innovation.</span></strong><span>” </span><em><span>Complex Systems, Sustainability and Innovation</span></em><span>, 2016, doi:10.5772/66453.</span> <a name='dfref-footnote-5' href='#ref-footnote-5' title='back to document' class='reversefootnote' >↩</a></div></div></div>
+</body>
+</html>

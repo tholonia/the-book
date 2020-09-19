@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Images/059-ruleexposure-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/059-ruleexposure-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../6.69x9.61_Front-Back.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../6.69x9.61_Front-Back.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tetra5.py" beforeDir="false" afterPath="$PROJECT_DIR$/tetra5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../metadata.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../metadata.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../version.txt" afterDir="false" />
@@ -709,10 +707,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3138" y="491" key="#Custom_Plugin_Repositories" timestamp="1591673056899">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="3138" y="491" key="#Custom_Plugin_Repositories/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591673056899" />
     <state x="854" y="184" key="#Inspections" timestamp="1594853334204">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -721,10 +715,6 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="733" y="1223" key="#Lorentz-force-scipy/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593499931548" />
-    <state x="941" y="411" key="#Notifications" timestamp="1591646070342">
-      <screen x="0" y="46" width="1920" height="986" />
-    </state>
-    <state x="941" y="411" key="#Notifications/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591646070342" />
     <state x="557" y="1211" key="#brownian" timestamp="1595537058032">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -741,11 +731,6 @@
       <screen x="0" y="46" width="1920" height="986" />
     </state>
     <state x="261" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591815566518" />
-    <state x="2181" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591674553522" />
-    <state x="2654" y="339" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591393068232">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2654" y="339" key="#com.intellij.fileTypes.FileTypeChooser/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591393068232" />
     <state x="774" y="1214" key="#crossgen" timestamp="1594767614423">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -810,22 +795,6 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="733" y="1223" key="#relist/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593449853120" />
-    <state x="2636" y="150" key="#tetra2" timestamp="1591674596428">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2636" y="150" key="#tetra2/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591674596428" />
-    <state x="2636" y="150" key="#tetra3" timestamp="1591674622016">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2636" y="150" key="#tetra3/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591674622016" />
-    <state x="562" y="138" key="#tetra3_rgb" timestamp="1591747375630">
-      <screen x="0" y="46" width="1920" height="986" />
-    </state>
-    <state x="562" y="138" key="#tetra3_rgb/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591747375630" />
-    <state x="733" y="125" key="#tetra4" timestamp="1591751926374">
-      <screen x="0" y="46" width="1920" height="986" />
-    </state>
-    <state x="733" y="125" key="#tetra4/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591751926373" />
     <state x="666" y="138" key="#tetra5" timestamp="1591812742116">
       <screen x="0" y="46" width="1920" height="986" />
     </state>
@@ -838,14 +807,13 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="677" y="1205" key="#tricircles/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599008064675" />
-    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl" timestamp="1599009362873">
+    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl" timestamp="1600393630046">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="279" y="118" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592370872275" />
-    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599009362873" />
+    <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600393630046" />
     <state x="279" y="1236" width="434" height="488" key="FileChooserDialogImpl/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592603524177" />
     <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591812373104" />
-    <state x="2199" y="118" key="FileChooserDialogImpl/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591677824454" />
     <state width="1523" height="249" key="GridCell.Tab.0.bottom" timestamp="1599101618498">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -853,7 +821,6 @@
     <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
     <state width="1381" height="246" key="GridCell.Tab.0.bottom/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
-    <state width="688" height="278" key="GridCell.Tab.0.bottom/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
     <state width="1523" height="249" key="GridCell.Tab.0.center" timestamp="1599101618498">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -861,7 +828,6 @@
     <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
     <state width="1381" height="246" key="GridCell.Tab.0.center/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
-    <state width="688" height="278" key="GridCell.Tab.0.center/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
     <state width="1523" height="249" key="GridCell.Tab.0.left" timestamp="1599101618497">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -869,7 +835,6 @@
     <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618497" />
     <state width="1381" height="246" key="GridCell.Tab.0.left/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323125" />
-    <state width="688" height="278" key="GridCell.Tab.0.left/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
     <state width="1523" height="249" key="GridCell.Tab.0.right" timestamp="1599101618498">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -877,27 +842,6 @@
     <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
     <state width="1381" height="246" key="GridCell.Tab.0.right/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
     <state width="1377" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591851323126" />
-    <state width="688" height="278" key="GridCell.Tab.0.right/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591684444526" />
-    <state width="1377" height="290" key="GridCell.Tab.1.bottom" timestamp="1591481874389">
-      <screen x="0" y="46" width="1920" height="986" />
-    </state>
-    <state width="1377" height="290" key="GridCell.Tab.1.bottom/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
-    <state width="1377" height="290" key="GridCell.Tab.1.center" timestamp="1591481874389">
-      <screen x="0" y="46" width="1920" height="986" />
-    </state>
-    <state width="1377" height="290" key="GridCell.Tab.1.center/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
-    <state width="1377" height="290" key="GridCell.Tab.1.left" timestamp="1591481874389">
-      <screen x="0" y="46" width="1920" height="986" />
-    </state>
-    <state width="1377" height="290" key="GridCell.Tab.1.left/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
-    <state width="1377" height="290" key="GridCell.Tab.1.right" timestamp="1591481874389">
-      <screen x="0" y="46" width="1920" height="986" />
-    </state>
-    <state width="1377" height="290" key="GridCell.Tab.1.right/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591481874389" />
-    <state x="2825" y="267" width="320" height="594" key="RollbackChangesDialog" timestamp="1591678232910">
-      <screen x="1920" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2825" y="267" width="320" height="594" key="RollbackChangesDialog/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591678232910" />
     <state x="791" y="131" width="992" height="732" key="SettingsEditor" timestamp="1595537167638">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -905,13 +849,11 @@
     <state x="791" y="131" width="992" height="732" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595537167638" />
     <state x="261" y="1341" width="997" height="734" key="SettingsEditor/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592594189031" />
     <state x="2181" y="233" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591815719635" />
-    <state x="2219" y="143" width="997" height="739" key="SettingsEditor/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591680214735" />
     <state x="197" y="1208" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595018464990">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="197" y="128" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544454305" />
     <state x="197" y="1208" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595018464990" />
-    <state x="197" y="163" width="1200" height="746" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591328064492" />
     <state x="415" y="1232" width="1214" height="790" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1593831811812">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -925,7 +867,6 @@
     </state>
     <state x="711" y="1326" width="672" height="743" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595015524075" />
     <state x="711" y="271" width="672" height="678" key="search.everywhere.popup/0.46.1920.986/1920.0.1920.1080@0.46.1920.986" timestamp="1591822042886" />
-    <state x="2631" y="246" width="672" height="743" key="search.everywhere.popup/0.46.1920.986/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591683215627" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

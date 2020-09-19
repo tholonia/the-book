@@ -1,0 +1,1507 @@
+<!doctype html>
+<html style='font-size:12px !important'>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>23-New_Data</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+  .typora-export h1::after, .typora-export h2::after, .typora-export h3::after, .typora-export h4::after, .typora-export h5::after, .typora-export h6::after { content: ""; display: block; height: 100px; margin-bottom: -100px; }
+}
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
+}
+
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        border-top: 1px solid #eee;
+        margin-top: .3em;
+    }
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  font-size: 1rem;
+  line-height: 1.42857;
+  overflow-x: hidden;
+  background: inherit;
+  tab-size: 4;
+}
+
+iframe {
+  margin: auto;
+}
+
+a.url {
+  word-break: break-all;
+}
+
+a:active, a:hover {
+  outline: 0;
+}
+
+
+
+#write {
+  margin: 0 auto;
+  height: auto;
+  width: inherit;
+  word-break: normal;
+  overflow-wrap: break-word;
+  position: relative;
+  white-space: normal;
+  overflow-x: visible;
+  padding-top: 40px;
+}
+
+body.typora-export {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.typora-export .footnote-line, .typora-export li {
+  white-space:pre-wrap;
+}
+
+@media screen and (max-width: 500px) {
+  body.typora-export {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #write {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .CodeMirror-sizer {
+    margin-left: 0 !important;
+  }
+  .CodeMirror-gutters {
+    display: none !important;
+  }
+}
+
+#write li > figure:last-child {
+  margin-bottom: 0.5rem;
+}
+
+#write ol, #write ul {
+  position: relative;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+button, input, select, textarea {
+  color: inherit;
+  font: inherit;
+}
+
+input[type="checkbox"], input[type="radio"] {
+  line-height: normal;
+  padding: 0;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre {
+  width: inherit;
+}
+
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p {
+  position: relative;
+}
+
+p {
+  line-height: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  break-after: avoid-page;
+  break-inside: avoid;
+  orphans: 2;
+}
+
+p {
+  orphans: 4;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align:center;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  cursor: pointer;
+}
+
+#write input[type="checkbox"] {
+  cursor: pointer;
+  width: inherit;
+  height: inherit;
+}
+
+figure {
+  overflow-x: auto;
+  margin: 1.2em 0;
+  max-width: calc(100% + 16px);
+  padding: 0;
+}
+
+figure > table {
+  margin: 0 !important;
+}
+
+tr {
+  break-inside: avoid;
+  break-after: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  overflow: auto;
+  break-inside: auto;
+  text-align: left;
+}
+
+.CodeMirror-gutters {
+  border-right: 0;
+  background-color: inherit;
+}
+
+.CodeMirror {
+  text-align: left;
+}
+
+.CodeMirror-lines {
+  padding: 0;
+}
+
+#write pre {
+  white-space: pre-wrap;
+}
+
+#write pre.ty-contain-cm {
+  white-space: normal;
+}
+
+.CodeMirror-gutters {
+  margin-right: 4px;
+}
+
+.md-fences {
+  font-size: 0.9rem;
+  display: block;
+  break-inside: avoid;
+  text-align: left;
+  overflow: visible;
+  white-space: pre;
+  background: inherit;
+  position: relative !important;
+}
+
+#write .md-fences.mock-cm {
+  white-space: pre-wrap;
+}
+
+.md-fences.md-fences-with-lineno {
+  padding-left: 0;
+}
+
+#write.fences-no-line-wrapping .md-fences.mock-cm {
+  white-space: pre;
+  overflow-x: auto;
+}
+
+.md-fences.mock-cm.md-fences-with-lineno {
+  padding-left: 8px;
+}
+
+.CodeMirror-line, twitterwidget {
+  break-inside: avoid;
+}
+
+li div {
+  padding-top: 0;
+}
+
+blockquote {
+  margin: 1rem 0;
+}
+
+li p {
+  margin: 0.5rem 0;
+}
+
+li {
+  margin: 0;
+  position: relative;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+blockquote > :first-child, li > :first-child {
+  margin-top: 0;
+}
+
+@media print {
+  body, html {
+    border: 1px solid transparent;
+    height: 99%;
+    break-after: avoid;
+    break-before: avoid;
+  }
+  #write {
+    margin-top: 0;
+    padding-top: 0;
+    border-color: transparent !important;
+  }
+  .typora-export * {
+    -webkit-print-color-adjust: exact;
+  }
+  .typora-export #write {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 0;
+    break-after: avoid;
+  }
+  .typora-export #write::after {
+    height: 0;
+  }
+}
+
+a img, img a {
+  cursor: pointer;
+}
+
+p > img:only-child {
+  display: block;
+  margin: auto;
+}
+
+[contenteditable="true"]:active, [contenteditable="true"]:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+
+
+kbd {
+  margin: 0 0.1em;
+  padding: 0.1em 0.6em;
+  font-size: 0.8em;
+  color: rgb(36, 39, 41);
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(173, 179, 185);
+  border-radius: 3px;
+  box-shadow: rgba(12, 13, 14, 0.2) 0 1px 0, rgb(255, 255, 255) 0 0 0 2px inset;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+code {
+  text-align: left;
+  vertical-align: initial;
+}
+
+[lang="mermaid"] svg, [lang="flow"] svg {
+  max-width: 100%;
+  height: auto;
+}
+
+table tr th {
+  border-bottom: 0;
+}
+
+video {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+iframe {
+  max-width: 100%;
+  width: 100%;
+  border: none;
+}
+
+.CodeMirror {
+  height: auto;
+}
+
+.CodeMirror.cm-s-inner {
+  background: inherit;
+}
+
+.CodeMirror-scroll {
+  overflow: auto hidden;
+  z-index: 3;
+}
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler {
+  background-color: rgb(255, 255, 255);
+}
+
+.CodeMirror-gutters {
+  border-right: 1px solid rgb(221, 221, 221);
+  background: inherit;
+  white-space: nowrap;
+}
+
+.cm-s-inner .cm-keyword {
+  color: rgb(119, 0, 136);
+}
+
+.cm-s-inner .cm-atom, .cm-s-inner.cm-atom {
+  color: rgb(34, 17, 153);
+}
+
+.cm-s-inner .cm-number {
+  color: rgb(17, 102, 68);
+}
+
+.cm-s-inner .cm-def {
+  color: rgb(0, 0, 255);
+}
+
+.cm-s-inner .cm-variable {
+  color: rgb(0, 0, 0);
+}
+
+.cm-s-inner .cm-variable-2 {
+  color: rgb(0, 85, 170);
+}
+
+.cm-s-inner .cm-variable-3 {
+  color: rgb(0, 136, 85);
+}
+
+.cm-s-inner .cm-string {
+  color: rgb(170, 17, 17);
+}
+
+.cm-s-inner .cm-property {
+  color: rgb(0, 0, 0);
+}
+
+.cm-s-inner .cm-operator {
+  color: rgb(152, 26, 26);
+}
+
+.cm-s-inner .cm-comment, .cm-s-inner.cm-comment {
+  color: rgb(170, 85, 0);
+}
+
+.cm-s-inner .cm-string-2 {
+  color: rgb(255, 85, 0);
+}
+
+.cm-s-inner .cm-meta {
+  color: rgb(85, 85, 85);
+}
+
+.cm-s-inner .cm-qualifier {
+  color: rgb(85, 85, 85);
+}
+
+.cm-s-inner .cm-builtin {
+  color: rgb(51, 0, 170);
+}
+
+.cm-s-inner .cm-bracket {
+  color: rgb(153, 153, 119);
+}
+
+.cm-s-inner .cm-tag {
+  color: rgb(17, 119, 0);
+}
+
+.cm-s-inner .cm-attribute {
+  color: rgb(0, 0, 204);
+}
+
+.cm-s-inner .cm-header, .cm-s-inner.cm-header {
+  color: rgb(0, 0, 255);
+}
+
+.cm-s-inner .cm-quote, .cm-s-inner.cm-quote {
+  color: rgb(0, 153, 0);
+}
+
+.cm-s-inner .cm-hr, .cm-s-inner.cm-hr {
+  color: rgb(153, 153, 153);
+}
+
+.cm-s-inner .cm-link, .cm-s-inner.cm-link {
+  color: rgb(0, 0, 204);
+}
+
+div.CodeMirror span.CodeMirror-matchingbracket {
+  color: rgb(0, 255, 0);
+}
+
+div.CodeMirror span.CodeMirror-nonmatchingbracket {
+  color: rgb(255, 34, 34);
+}
+
+.cm-s-inner .CodeMirror-activeline-background {
+  background: inherit;
+}
+
+.CodeMirror {
+  position: relative;
+  overflow: hidden;
+}
+
+.CodeMirror-scroll {
+  height: 100%;
+  outline: 0;
+  position: relative;
+  box-sizing: content-box;
+  background: inherit;
+}
+
+.CodeMirror-sizer {
+  position: relative;
+}
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar {
+  position: absolute;
+  z-index: 6;
+  display: none;
+}
+
+.CodeMirror-scrollbar-filler {
+  right: 0;
+  bottom: 0;
+}
+
+.CodeMirror-gutter-filler {
+  left: 0;
+  bottom: 0;
+}
+
+.CodeMirror-gutters {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-bottom: 30px;
+  z-index: 3;
+}
+
+.CodeMirror-gutter-background {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 4;
+}
+
+.CodeMirror-lines {
+  cursor: text;
+}
+
+.CodeMirror-linebackground {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.CodeMirror-wrap .CodeMirror-scroll {
+  overflow-x: hidden;
+}
+
+.CodeMirror-measure {
+  position: absolute;
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.CodeMirror div.CodeMirror-cursor {
+  position: absolute;
+  visibility: hidden;
+  border-right: none;
+  width: 0;
+}
+
+.CodeMirror div.CodeMirror-cursor {
+  visibility: hidden;
+}
+
+@media print {
+  .CodeMirror div.CodeMirror-cursor {
+    visibility: hidden;
+  }
+}
+
+
+
+body {
+  font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(51, 51, 51);
+  line-height: 1.6;
+}
+
+#write {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 30px 30px 100px;
+}
+
+#write > ul:first-child, #write > ol:first-child {
+  margin-top: 30px;
+}
+
+a {
+  color: rgb(65, 131, 196);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  line-height: 1.4;
+  cursor: text;
+}
+
+h6:hover a.anchor {
+  text-decoration: none;
+}
+
+h1 tt,h1 code {
+  font-size: inherit;
+}
+
+h2 tt, h2 code {
+  font-size: inherit;
+}
+
+h3 tt, h3 code {
+  font-size: inherit;
+}
+
+h4 tt, h4 code {
+  font-size: inherit;
+}
+
+h5 tt, h5 code {
+  font-size: inherit;
+}
+
+h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 1em;
+  color: rgb(119, 119, 119);
+}
+
+p, blockquote, ul, ol, dl, table {
+  margin: 0.8em 0;
+}
+
+li > ol, li > ul {
+  margin: 0;
+}
+
+hr {
+  height: 2px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: rgb(231, 231, 231);
+  border: 0 none;
+  overflow: hidden;
+  box-sizing: content-box;
+}
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul:first-child, ol:first-child {
+  margin-top: 0;
+}
+
+ul:last-child, ol:last-child {
+  margin-bottom: 0;
+}
+
+blockquote {
+  border-left: 4px solid rgb(223, 226, 229);
+  padding: 0 15px;
+  color: rgb(119, 119, 119);
+}
+
+blockquote blockquote {
+  padding-right: 0;
+}
+
+table {
+  padding: 0;
+  word-break: initial;
+}
+
+table tr {
+  border-top: 1px solid rgb(223, 226, 229);
+  margin: 0;
+  padding: 0;
+}
+
+table tr:nth-child(2n), thead {
+  background-color: rgb(248, 248, 248);
+}
+
+table tr th {
+  font-weight: bold;
+  border-width: 1px 1px 0;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(223, 226, 229);
+  border-right-color: rgb(223, 226, 229);
+  border-left-color: rgb(223, 226, 229);
+  border-image: initial;
+  border-bottom-style: initial;
+  border-bottom-color: initial;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr td {
+  border: 1px solid rgb(223, 226, 229);
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr th:first-child, table tr td:first-child {
+  margin-top: 0;
+}
+
+table tr th:last-child, table tr td:last-child {
+  margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+  padding-left: 4px;
+}
+
+.md-fences, code, tt {
+  border: 1px solid rgb(231, 234, 237);
+  background-color: rgb(248, 248, 248);
+  border-radius: 3px;
+  padding: 2px 4px 0;
+  font-size: 0.9em;
+}
+
+code {
+  background-color: rgb(243, 244, 244);
+  padding: 0 2px;
+}
+
+.md-fences {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-top: 8px;
+  padding-bottom: 6px;
+}
+
+@media print {
+  html {
+    font-size: 13px;
+  }
+  table, pre {
+    break-inside: avoid;
+  }
+  pre {
+    overflow-wrap: break-word;
+  }
+}
+
+.md-fences {
+  background-color: rgb(248, 248, 248);
+}
+
+#typora-quick-open {
+  border: 1px solid rgb(221, 221, 221);
+  background-color: rgb(248, 248, 248);
+}
+
+#typora-quick-open-item {
+  background-color: rgb(250, 250, 250);
+  border-color: rgb(254, 254, 254) rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238);
+  border-style: solid;
+  border-width: 1px;
+}
+
+header, footer {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+@page {
+  width: 6.69in;
+  height: 9.61in;
+  margin: 0.75in 0.18in;
+}
+
+.reflink {
+  font-size: larger;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#write h1 {
+  text-align: center;
+  break-before: page !important;
+}
+
+h6 {
+  color: black;
+  font-weight: 100;
+  border-right: 0 solid white;
+  border-left: 0 solid white;
+  border-image: initial;
+  font-family: Tahoma, Verdana, Segoe, sans-serif !important;
+  text-align: center !important;
+  border-top: 1px solid black !important;
+  border-bottom: 1px solid black !important;
+}
+
+h5 {
+  font-size: 10pt;
+  font-weight: 100;
+  color: grey;
+  display: inline-block;
+  border: 0 solid white;
+  text-align: right !important;
+  position: relative !important;
+  right: 0 !important;
+}
+
+h4 {
+  border: 1px solid lightgrey !important;
+  background-color: rgb(221, 221, 221) !important;
+  font-size: 12pt !important;
+  font-weight: 100 !important;
+}
+
+#md-inner-link {}
+
+
+
+
+
+
+
+
+
+
+/* this si git.user.css appended to esure compatibility? */
+
+
+
+@page {
+    width: 6.69in; height: 9.61in;
+    margin: 0.75in 0.18in 0.75in 0.18in;
+    
+    #write h1 {
+      text-align:center;
+      page-break-before:always !important;
+    }
+}
+
+
+.editnote {
+    color: black;
+    font-weight: 100;
+    border: 1px solid black !important;
+    background-color: yellow;
+}
+.reflink {
+  font-size:larger;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+ 
+#write h1 {
+    text-align:center;
+    page-break-before:always !important;
+}
+
+.break {
+  page-break-before:always;
+}
+
+h6 { /* this is the sub-headimg */
+    font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+    text-align: center !important;
+    color: black;
+    border-top:1px solid black !important;
+    border-bottom:1px solid black !important;
+    font-weight:100;
+    border: 0px solid white;
+}
+
+h5 { /* this is the authours format */
+    font-size: 10pt;
+    font-weight:100;
+    font-style: italics;
+    color:grey;
+    display: inline-block;
+    text-align: right !important;
+    position:relative !important;
+    right:0 !important; 
+    border: 0px solid white;
+}
+
+h4 { /* this is the CLAIM format */
+    border:1px solid lightgrey !important;
+    background-color:#ddd !important;
+    font-size: 12pt !important;
+    font-weight: 100 !important;
+}
+
+#md-inner-link {
+/* text-decoration: none; */
+}
+
+.md-toc-h6 {
+  display: none;
+}
+.md-toc-h5 {
+  display: none;
+}
+.md-toc-h4 {
+  display: none;
+}
+a.md-toc-inner {
+    font-size: 14pt !important;
+    color: black !important;
+}
+
+/* hide book title in TOC */
+.md-toc-inner strong {
+    display:none;
+}
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+</style>
+</head>
+<body class='typora-export'>
+<div id='write'  class=''><div style="page-break-after: always; break-after: page;"></div><h1><a name="d---new-data" class="md-header-anchor"></a><span>D - New Data?</span></h1><p><span>Applying this Ohm</span>&rsquo;<span>s Law model to the tetrahedron shows some new relationships.  Readers who enjoy numbers will find this next (short) section interesting.</span></p><p><span>So, we can satisfy all twelve formulas of Ohm</span>&rsquo;<span>s Law as they appear on a tetrahedron, but we can also find some new data now which may appear as useless, or may be meaningful if we know how to use it.</span></p><h4><a name="claim-there-is-no-useless-data-only-data-we-have-yet-to-understand-how-to-use" class="md-header-anchor"></a><strong><span>Claim:</span></strong><span> There is no useless data, only data we have yet to understand how to use.  </span></h4><p><img src='../Images/092-two2Dmaps.png' style='width:100%;margin:auto;' /></p><p><span>Previously (and in the left-most image above) we saw how the contribution of red divides the green on one side (right) </span><img src='../Images/right-div.png' style='width:25px'><span>but constrains the green on the opposite (left) side  </span><img src='../Images/left-div.png' style='width:25px'><span>.  Can we apply these same concepts to other scopes, such as electricity? Does current (I) </span>&ldquo;<span>divide</span>&rdquo;<span> resistance (R) and is resistance (R) </span>&ldquo;<span>constrained</span>&rdquo;<span> by current (I)?  Yes, we can, but first we have to recognize that while </span>&ldquo;<span>constrain</span>&rdquo;<span> and </span>&ldquo;<span>divide</span>&rdquo;<span> have different meanings in their usual context, they have the same mathematical meaning.  To describe the function </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="2.401ex" height="3.816ex" viewBox="0 -1094.6 1033.9 1643" role="img" focusable="false" style="vertical-align: -1.274ex;"><defs><path stroke-width="0" id="E223-MJMATHBI-58" d="M931 686Q953 686 953 670Q953 650 944 632Q936 624 924 624H914Q823 624 803 611Q800 609 696 503T591 396Q591 394 667 229L743 62H787H814Q846 62 846 44Q843 7 829 2Q825 0 817 0Q813 0 775 1T664 2Q590 2 551 1T508 0H507Q484 0 484 18Q484 19 488 37Q492 56 497 58T534 62L566 63Q567 64 520 169T471 274Q469 274 369 172T268 67L315 62Q320 62 328 62L335 61Q347 58 347 44Q344 10 331 2L326 0L287 1Q263 2 177 2Q95 2 78 1L53 0Q38 6 38 17Q38 40 50 57Q56 62 78 62Q169 62 188 75Q194 77 435 324L444 334L439 347Q437 351 373 492L313 624H268H246Q220 624 212 632Q210 636 210 642Q210 655 215 669T227 684Q230 686 247 686Q295 684 398 684Q438 684 472 684T527 685T551 686Q567 686 572 671Q572 667 568 651Q563 631 558 628T523 624T492 623H488L526 540Q563 457 564 457Q564 456 574 466T604 496T645 537L724 619Q716 622 677 624H673Q645 624 645 640Q645 660 654 678Q659 683 666 686L704 685Q728 684 813 684Q847 684 873 684T913 685T931 686Z"></path><path stroke-width="0" id="E223-MJMATHBI-59" d="M97 624H73Q40 624 40 640Q40 660 49 678Q57 686 77 686Q122 684 228 684Q269 684 304 684T360 685T385 686Q406 686 406 668Q406 662 403 653Q398 631 393 628T361 624H353Q321 624 321 623T376 491T432 360L448 377Q465 394 493 424T553 490L673 620Q662 624 630 624Q606 624 606 640Q608 678 623 684Q627 686 634 686Q638 686 671 685T755 684Q777 684 805 685T841 686Q861 686 868 683T876 669Q876 664 873 652Q868 631 863 628T829 624Q764 622 747 611Q727 590 590 441L437 275L411 170Q385 65 384 64Q384 62 429 62H453Q473 62 478 60T487 48Q488 44 484 29Q479 6 473 3Q468 0 454 0Q450 0 436 0T386 1T294 2Q220 2 181 1T138 0Q121 0 116 15Q120 54 133 60Q137 62 187 62H236L289 275L142 624H97Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="793" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E223-MJMATHBI-58" x="84" y="645"></use><use transform="scale(0.707)" xlink:href="#E223-MJMATHBI-59" x="123" y="-625"></use></g></g></svg></span><script type="math/tex">\boldsymbol{\frac{X}{Y}}</script><span> a s X being constrained by Y, because X is being defined by, or measured by, Y is not inaccurate, as X is indeed being </span>&ldquo;<span>kept within certain limits</span>&rdquo;<span> in as far has how it is being measured.  We can then say </span>&ldquo;<span>resistance is defined by current</span>&rdquo;<span> and </span>&ldquo;<span>current is limited by resistance</span>&rdquo;<span>, both of which are technically correct statements.</span></p><p><span>In the right-most image above we have the 2D tetrahedron map with all V, I, and R values mapped to each trigram, along with the functions (</span>&div;<span>, </span>&times;<span>) that apply to the values as defined by Ohm</span>&rsquo;<span>s Law.  The gray functions are associated with the inner trigrams, and the black functions are associated with the outer trigram.  For example, Ohm</span>&rsquo;<span>s Law states that </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="6.989ex" height="3.816ex" viewBox="0 -1094.6 3009.1 1643" role="img" focusable="false" style="vertical-align: -1.274ex;"><defs><path stroke-width="0" id="E224-MJMATHBI-56" d="M401 686Q415 680 415 668Q415 651 404 629Q398 624 356 624Q318 624 318 623Q318 620 337 508T377 284L397 174L472 285Q548 396 623 507T699 620Q698 621 652 624Q634 624 627 627T619 641Q619 648 622 658Q627 677 631 681T650 686Q654 686 686 685T766 684Q794 684 823 684T858 685Q874 685 878 683T886 671Q886 667 882 651Q877 632 873 628T850 624Q800 624 779 617Q774 617 770 613Q767 610 560 304T350 -5Q346 -9 332 -16H306H291Q270 -16 267 -2Q267 -1 260 37T238 161T210 313L156 624H116H94Q62 624 62 642Q66 678 78 684Q82 686 99 686Q144 684 246 684Q330 684 368 685L401 686Z"></path><path stroke-width="0" id="E224-MJMATHBI-52" d="M258 624H235Q214 624 209 626T199 639Q203 678 216 684Q220 686 422 686H446H525Q634 686 698 674T806 620Q843 583 843 535Q843 505 833 478T805 432T768 396T728 370T690 352T662 342L651 338L654 336Q658 334 667 327T688 310Q719 278 719 237Q719 222 710 165T701 94Q701 35 748 35Q775 35 793 57T819 101Q822 112 826 114T843 117H849Q881 117 881 99Q881 78 852 39T781 -11Q765 -17 728 -17Q537 -13 537 94Q537 110 552 169T567 243Q567 292 529 309Q517 316 508 316T441 318H375L374 314Q374 312 343 189T311 64Q311 62 355 62H382Q414 62 414 44Q410 6 397 2L393 0L351 1Q325 2 221 2Q147 2 108 1T65 0Q48 0 43 15Q47 54 60 60Q64 62 113 62H162L302 623Q302 624 258 624ZM687 555Q687 617 589 623Q581 624 513 624H451L420 498Q413 468 405 436T392 388L388 371Q388 369 458 369Q464 369 485 369T515 369T541 372T570 377T596 386T624 400Q649 417 664 457T683 522T687 555Z"></path><path stroke-width="0" id="E224-MJMAINB-3D" d="M87 333Q64 343 64 362Q64 383 84 391Q89 393 448 393H807Q808 392 811 390T817 386T823 381T827 374T829 363Q829 345 807 333H87ZM87 109Q64 118 64 139Q64 159 86 168Q89 169 448 169H807L812 166Q816 163 818 162T823 157T827 149T829 139Q829 118 807 109H87Z"></path><path stroke-width="0" id="E224-MJMATHBI-49" d="M247 624Q242 624 233 624T220 623Q186 623 186 640Q186 647 190 664T202 684Q206 686 226 686Q277 684 393 684Q435 684 471 684T528 685T553 686Q573 686 573 670Q573 650 564 632Q556 624 537 624H501H449L380 344Q309 64 309 63T356 62Q361 62 370 62T384 63Q417 63 417 46Q417 26 408 8Q403 3 396 0L352 1Q325 2 216 2T82 1L45 0Q30 7 30 16Q33 51 46 60Q51 62 102 62H154L294 623Q294 624 247 624Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="746" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E224-MJMATHBI-56" x="84" y="661"></use><use transform="scale(0.707)" xlink:href="#E224-MJMATHBI-52" x="87" y="-625"></use></g><use xlink:href="#E224-MJMAINB-3D" x="1264" y="0"></use><use xlink:href="#E224-MJMATHBI-49" x="2436" y="0"></use></g></svg></span><script type="math/tex">\boldsymbol{\frac{V}{R} =I}</script><span>, so in the image above, all lines that connect V to R are assigned the </span>&div;<span> function.  The same goes for </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="7.704ex" height="3.816ex" viewBox="0 -1094.6 3317.1 1643" role="img" focusable="false" style="vertical-align: -1.274ex;"><defs><path stroke-width="0" id="E225-MJMATHBI-56" d="M401 686Q415 680 415 668Q415 651 404 629Q398 624 356 624Q318 624 318 623Q318 620 337 508T377 284L397 174L472 285Q548 396 623 507T699 620Q698 621 652 624Q634 624 627 627T619 641Q619 648 622 658Q627 677 631 681T650 686Q654 686 686 685T766 684Q794 684 823 684T858 685Q874 685 878 683T886 671Q886 667 882 651Q877 632 873 628T850 624Q800 624 779 617Q774 617 770 613Q767 610 560 304T350 -5Q346 -9 332 -16H306H291Q270 -16 267 -2Q267 -1 260 37T238 161T210 313L156 624H116H94Q62 624 62 642Q66 678 78 684Q82 686 99 686Q144 684 246 684Q330 684 368 685L401 686Z"></path><path stroke-width="0" id="E225-MJMATHBI-49" d="M247 624Q242 624 233 624T220 623Q186 623 186 640Q186 647 190 664T202 684Q206 686 226 686Q277 684 393 684Q435 684 471 684T528 685T553 686Q573 686 573 670Q573 650 564 632Q556 624 537 624H501H449L380 344Q309 64 309 63T356 62Q361 62 370 62T384 63Q417 63 417 46Q417 26 408 8Q403 3 396 0L352 1Q325 2 216 2T82 1L45 0Q30 7 30 16Q33 51 46 60Q51 62 102 62H154L294 623Q294 624 247 624Z"></path><path stroke-width="0" id="E225-MJMAINB-3D" d="M87 333Q64 343 64 362Q64 383 84 391Q89 393 448 393H807Q808 392 811 390T817 386T823 381T827 374T829 363Q829 345 807 333H87ZM87 109Q64 118 64 139Q64 159 86 168Q89 169 448 169H807L812 166Q816 163 818 162T823 157T827 149T829 139Q829 118 807 109H87Z"></path><path stroke-width="0" id="E225-MJMATHBI-52" d="M258 624H235Q214 624 209 626T199 639Q203 678 216 684Q220 686 422 686H446H525Q634 686 698 674T806 620Q843 583 843 535Q843 505 833 478T805 432T768 396T728 370T690 352T662 342L651 338L654 336Q658 334 667 327T688 310Q719 278 719 237Q719 222 710 165T701 94Q701 35 748 35Q775 35 793 57T819 101Q822 112 826 114T843 117H849Q881 117 881 99Q881 78 852 39T781 -11Q765 -17 728 -17Q537 -13 537 94Q537 110 552 169T567 243Q567 292 529 309Q517 316 508 316T441 318H375L374 314Q374 312 343 189T311 64Q311 62 355 62H382Q414 62 414 44Q410 6 397 2L393 0L351 1Q325 2 221 2Q147 2 108 1T65 0Q48 0 43 15Q47 54 60 60Q64 62 113 62H162L302 623Q302 624 258 624ZM687 555Q687 617 589 623Q581 624 513 624H451L420 498Q413 468 405 436T392 388L388 371Q388 369 458 369Q464 369 485 369T515 369T541 372T570 377T596 386T624 400Q649 417 664 457T683 522T687 555Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="746" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E225-MJMATHBI-56" x="84" y="661"></use><use transform="scale(0.707)" xlink:href="#E225-MJMATHBI-49" x="241" y="-625"></use></g><use xlink:href="#E225-MJMAINB-3D" x="1264" y="0"></use><use xlink:href="#E225-MJMATHBI-52" x="2436" y="0"></use></g></svg></span><script type="math/tex">\boldsymbol{\frac{V}{I} =R}</script><span>  and I</span>&times;<span>R=V.  Note how only N-sources have the functions of </span>&times;<span>.</span></p><p><img src='../Images/ohm-numbers.png' style='width:60%;margin:auto;' /></p><p><span>Let</span>&rsquo;<span>s apply values to these points to make it clearer.  Above is a tholon map where I=2, R=3, V=6 (and the implied P=12).  These numbers satisfy the formulas of Ohm</span>&rsquo;<span>s law as you can see by added gray functions (i.e.  </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="6.483ex" height="3.635ex" viewBox="0 -1016.6 2791.1 1564.9" role="img" focusable="false" style="vertical-align: -1.274ex;"><defs><path stroke-width="0" id="E226-MJMAINB-36" d="M48 318Q48 395 68 456T120 553T193 613T273 646T350 655Q425 655 461 616T497 524Q497 485 475 468T428 451Q399 451 378 470T357 521Q357 565 403 588Q375 601 351 601Q313 601 282 584Q242 565 222 526Q199 473 199 367Q201 369 210 380T227 396T246 410T275 422T312 426Q438 426 494 332Q526 285 526 208V199Q526 112 465 53Q428 17 388 3T285 -11Q236 -11 195 7T135 43T104 80Q48 165 48 318ZM375 231V244V268Q375 295 373 310T364 342T341 366T299 374H297Q231 374 208 287Q200 257 200 196Q201 120 209 100Q231 47 288 47Q351 47 368 90Q375 112 375 231Z"></path><path stroke-width="0" id="E226-MJMAINB-32" d="M175 580Q175 578 185 572T205 551T215 510Q215 467 191 449T137 430Q107 430 83 448T58 511Q58 558 91 592T168 640T259 654Q328 654 383 637Q451 610 484 563T517 459Q517 401 482 360T368 262Q340 243 265 184L210 140H274Q416 140 429 145Q439 148 447 186T455 237H517V233Q516 230 501 119Q489 9 486 4V0H57V25Q57 51 58 54Q60 57 109 106T215 214T288 291Q364 377 364 458Q364 515 328 553T231 592Q214 592 201 589T181 584T175 580Z"></path><path stroke-width="0" id="E226-MJMAINB-3D" d="M87 333Q64 343 64 362Q64 383 84 391Q89 393 448 393H807Q808 392 811 390T817 386T823 381T827 374T829 363Q829 345 807 333H87ZM87 109Q64 118 64 139Q64 159 86 168Q89 169 448 169H807L812 166Q816 163 818 162T823 157T827 149T829 139Q829 118 807 109H87Z"></path><path stroke-width="0" id="E226-MJMAINB-33" d="M80 503Q80 565 133 610T274 655Q366 655 421 623T491 538Q493 528 493 510Q493 446 453 407T361 348L376 344Q452 324 489 281T526 184Q526 152 514 121T474 58T392 8T265 -11Q175 -11 111 34T48 152Q50 187 72 209T132 232Q171 232 193 208T216 147Q216 136 214 126T207 108T197 94T187 84T178 77T170 72L168 71Q168 70 179 65T215 54T266 48H270Q331 48 350 105Q358 128 358 185Q358 239 348 268T309 313Q292 321 242 322Q205 322 198 324T191 341V348Q191 366 196 369T232 375Q239 375 247 376T260 377T268 378Q284 383 297 393T326 436T341 517Q341 536 339 547T331 573T308 593T266 600Q248 600 241 599Q214 593 183 576Q234 556 234 503Q234 462 210 444T157 426Q126 426 103 446T80 503Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="526" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E226-MJMAINB-36" x="84" y="656"></use><use transform="scale(0.707)" xlink:href="#E226-MJMAINB-32" x="84" y="-593"></use></g><use xlink:href="#E226-MJMAINB-3D" x="1044" y="0"></use><use xlink:href="#E226-MJMAINB-33" x="2216" y="0"></use></g></svg></span><script type="math/tex">\boldsymbol{\frac{6}{2} =3}</script><span>, etc).  These are not arbitrary numbers.  They are the smallest numbers that represent the properties of each point, mathematically speaking.  Why do we not start with the number 1 then?  Because the properties of 1 are the antithesis of creation.  1 represents perfect unity and balance, whereas every number greater that 1 represents separation and imbalance.  For example, if we applied the values of 1 to I and R, then the values of V and P will also equal 1.  The number 1 is unlike every other number, and even Euclid excluded the number 1 in his </span><em><span>The Fundamental Theorem of Arithmetic</span></em><span>, which states:</span></p><blockquote><p><span>Every positive integer </span><strong><span>greater than one</span></strong><span> can be written uniquely as a product of primes, with the prime factors in the product written in order of nondecreasing size.</span></p></blockquote><h5><a name="-euclid-4th-century-bc" class="md-header-anchor"></a><span>~ Euclid, 4th century B.C.</span></h5><p><span>The number 1 is a very lonely number as it stands in a class all by itself:</span></p><ul><li><span>1 is </span><em><span>not</span></em><span> a prime number, nor is it a composite number (with respect to division).</span></li><li><span>Any number multiplied by 1 remains that number.</span></li><li><span>1 is its own factorial.</span></li><li><span>1 is its own square and square root, its own cube and cube root, etc.</span></li><li><span>1 is the result of the empty product, as any number multiplied by one is itself.  </span></li></ul><p><span>In fact, from the philosophical perspective of the Neoplatonists, the number 1 is not even considered a number in the traditional sense, but rather the </span><em><span>source</span></em><span> of all numbers.</span></p><p><span>For these, and other reasons, we can not start counting with the number 1, but need to start with the first number that represents a product of 1, or, a number that acts like a normal number in a practical sense.</span></p><p><span>For those who enjoy playing with numbers, the following will keep you entertained for days.  I found many fascinating and significant relationships and values.  I can</span>&rsquo;<span>t tell you what they mean or represent, but it would be irrational to assume they have no significance without knowing anything more about them.  Everything that leads up to these new values is quite reasonable and provable.  It is just a matter of discovering where these new values and formulas apply.  To explain these new values here would border on sadistic given what the reader has had to suffer through already, and as it qualifies as a book unto itself I will spare the reader.  However, there are just a couple I would like to share.</span></p><p><span>If we look at </span><em><span>current</span></em><span> (I, red, #2) </span>&ldquo;<span>dividing</span>&rdquo;<span> </span><em><span>resistance</span></em><span> (R, green, #3), on the right </span><img src='../Images/right-div.png' style='width:25px'><span>, and apply the function of division associated with the 6-2 vector, or side, we have 3</span><sup><span>2</span></sup>&div;<span>2, which is simply 4.5 (which we</span>&rsquo;<span>ll call R</span><sub><span>i</span></sub><span>).  On the left we have </span><em><span>resistance</span></em><span> (R) </span>&ldquo;<span>constrained</span>&rdquo;<span> by </span><em><span>current</span></em><span> (I) </span><img src='../Images/left-div.png' style='width:25px'><span>, which is 2</span><sup><span>2</span></sup>&div;<span>3, which is 1.33333 (which we</span>&rsquo;<span>ll call I</span><sub><span>r</span></sub><span>).  Neither number </span><em><span>seems</span></em><span> particularly significant, but if we multiply these numbers together, which we would because they are connected via the </span>&ldquo;<span>base</span>&rdquo;<span> of the trigram, the 3-2 vector which has the property of multiplication (as shown above) we get R</span><sub><span>i</span></sub>&times;<span>I</span><sub><span>r</span></sub><span>=6, which is the value for V.  This proves that Ohm</span>&rsquo;<span>s Law has not been broken.  Using this same reasoning we can apply this to the three 6s, but as they are on a vector of multiplication, we would use 6</span><sup><span>2</span></sup>&times;<span>6, or simply 6</span><sup><span>3</span></sup><span>, which yields 216 (which we</span>&rsquo;<span>ll call V</span><sub><span>3</span></sub><span>).</span></p><p><span>In any case, we have new properties of R</span><sub><span>i</span></sub><span>, I</span><sub><span>r</span></sub><span>, V</span><sub><span>3</span></sub><span>, all of which only emerging when the the complete tholon is defined.  We can now say R</span><sub><span>i</span></sub>&times;<span>I</span><sub><span>r</span></sub><span>=V.  This means we can also say </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="8.674ex" height="4.36ex" viewBox="0 -1094.6 3734.8 1877.1" role="img" focusable="false" style="vertical-align: -1.817ex;"><defs><path stroke-width="0" id="E227-MJMATHBI-56" d="M401 686Q415 680 415 668Q415 651 404 629Q398 624 356 624Q318 624 318 623Q318 620 337 508T377 284L397 174L472 285Q548 396 623 507T699 620Q698 621 652 624Q634 624 627 627T619 641Q619 648 622 658Q627 677 631 681T650 686Q654 686 686 685T766 684Q794 684 823 684T858 685Q874 685 878 683T886 671Q886 667 882 651Q877 632 873 628T850 624Q800 624 779 617Q774 617 770 613Q767 610 560 304T350 -5Q346 -9 332 -16H306H291Q270 -16 267 -2Q267 -1 260 37T238 161T210 313L156 624H116H94Q62 624 62 642Q66 678 78 684Q82 686 99 686Q144 684 246 684Q330 684 368 685L401 686Z"></path><path stroke-width="0" id="E227-MJMATHBI-52" d="M258 624H235Q214 624 209 626T199 639Q203 678 216 684Q220 686 422 686H446H525Q634 686 698 674T806 620Q843 583 843 535Q843 505 833 478T805 432T768 396T728 370T690 352T662 342L651 338L654 336Q658 334 667 327T688 310Q719 278 719 237Q719 222 710 165T701 94Q701 35 748 35Q775 35 793 57T819 101Q822 112 826 114T843 117H849Q881 117 881 99Q881 78 852 39T781 -11Q765 -17 728 -17Q537 -13 537 94Q537 110 552 169T567 243Q567 292 529 309Q517 316 508 316T441 318H375L374 314Q374 312 343 189T311 64Q311 62 355 62H382Q414 62 414 44Q410 6 397 2L393 0L351 1Q325 2 221 2Q147 2 108 1T65 0Q48 0 43 15Q47 54 60 60Q64 62 113 62H162L302 623Q302 624 258 624ZM687 555Q687 617 589 623Q581 624 513 624H451L420 498Q413 468 405 436T392 388L388 371Q388 369 458 369Q464 369 485 369T515 369T541 372T570 377T596 386T624 400Q649 417 664 457T683 522T687 555Z"></path><path stroke-width="0" id="E227-MJMATHBI-69" d="M205 615Q205 646 229 670T283 694Q310 694 324 679T339 641Q339 610 315 586T258 562Q235 562 220 577T205 615ZM24 296Q24 305 34 328T63 380T115 430T187 452Q205 452 223 448T262 435T295 406T308 360Q308 345 287 290T240 170T207 87Q202 67 202 57Q202 42 215 42Q235 42 257 64Q288 92 302 140Q307 156 310 159T330 162H336H347Q367 162 367 148Q367 140 357 117T329 65T276 14T201 -8Q158 -8 121 15T83 84Q83 104 133 229T184 358Q189 376 189 388Q189 402 177 402Q156 402 134 380Q103 352 89 304Q84 288 81 285T61 282H55H44Q24 282 24 296Z"></path><path stroke-width="0" id="E227-MJMAINB-3D" d="M87 333Q64 343 64 362Q64 383 84 391Q89 393 448 393H807Q808 392 811 390T817 386T823 381T827 374T829 363Q829 345 807 333H87ZM87 109Q64 118 64 139Q64 159 86 168Q89 169 448 169H807L812 166Q816 163 818 162T823 157T827 149T829 139Q829 118 807 109H87Z"></path><path stroke-width="0" id="E227-MJMATHBI-49" d="M247 624Q242 624 233 624T220 623Q186 623 186 640Q186 647 190 664T202 684Q206 686 226 686Q277 684 393 684Q435 684 471 684T528 685T553 686Q573 686 573 670Q573 650 564 632Q556 624 537 624H501H449L380 344Q309 64 309 63T356 62Q361 62 370 62T384 63Q417 63 417 46Q417 26 408 8Q403 3 396 0L352 1Q325 2 216 2T82 1L45 0Q30 7 30 16Q33 51 46 60Q51 62 102 62H154L294 623Q294 624 247 624Z"></path><path stroke-width="0" id="E227-MJMATHBI-72" d="M24 296Q24 298 28 313T42 352T67 398T104 436T154 452Q198 452 230 437T273 404L282 411Q334 452 393 452Q441 452 470 423T500 350Q500 301 473 279T418 256Q395 256 379 270T363 308Q363 366 424 386Q424 388 420 391T405 398T385 401Q363 401 343 390Q321 380 289 341L252 192Q214 42 212 39Q190 -8 142 -8Q117 -8 103 7T89 39Q89 52 127 202T165 369Q165 402 148 402Q139 402 128 393T110 369Q100 348 90 310Q85 289 82 286T60 282H55H44Q24 282 24 296Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="1060" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E227-MJMATHBI-56" x="306" y="661"></use><g transform="translate(59,-442)"><use transform="scale(0.707)" xlink:href="#E227-MJMATHBI-52" x="0" y="0"></use><use transform="scale(0.624)" xlink:href="#E227-MJMATHBI-69" x="987" y="-304"></use></g></g><use xlink:href="#E227-MJMAINB-3D" x="1577" y="0"></use><g transform="translate(2749,0)"><use xlink:href="#E227-MJMATHBI-49" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E227-MJMATHBI-72" x="722" y="-213"></use></g></g></svg></span><script type="math/tex">\boldsymbol{\frac{V}{R_{i}} =I_{r}}</script><span>  and </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="8.896ex" height="4.178ex" viewBox="0 -1094.6 3830.3 1799.1" role="img" focusable="false" style="vertical-align: -1.636ex;"><defs><path stroke-width="0" id="E228-MJMATHBI-56" d="M401 686Q415 680 415 668Q415 651 404 629Q398 624 356 624Q318 624 318 623Q318 620 337 508T377 284L397 174L472 285Q548 396 623 507T699 620Q698 621 652 624Q634 624 627 627T619 641Q619 648 622 658Q627 677 631 681T650 686Q654 686 686 685T766 684Q794 684 823 684T858 685Q874 685 878 683T886 671Q886 667 882 651Q877 632 873 628T850 624Q800 624 779 617Q774 617 770 613Q767 610 560 304T350 -5Q346 -9 332 -16H306H291Q270 -16 267 -2Q267 -1 260 37T238 161T210 313L156 624H116H94Q62 624 62 642Q66 678 78 684Q82 686 99 686Q144 684 246 684Q330 684 368 685L401 686Z"></path><path stroke-width="0" id="E228-MJMATHBI-49" d="M247 624Q242 624 233 624T220 623Q186 623 186 640Q186 647 190 664T202 684Q206 686 226 686Q277 684 393 684Q435 684 471 684T528 685T553 686Q573 686 573 670Q573 650 564 632Q556 624 537 624H501H449L380 344Q309 64 309 63T356 62Q361 62 370 62T384 63Q417 63 417 46Q417 26 408 8Q403 3 396 0L352 1Q325 2 216 2T82 1L45 0Q30 7 30 16Q33 51 46 60Q51 62 102 62H154L294 623Q294 624 247 624Z"></path><path stroke-width="0" id="E228-MJMATHBI-72" d="M24 296Q24 298 28 313T42 352T67 398T104 436T154 452Q198 452 230 437T273 404L282 411Q334 452 393 452Q441 452 470 423T500 350Q500 301 473 279T418 256Q395 256 379 270T363 308Q363 366 424 386Q424 388 420 391T405 398T385 401Q363 401 343 390Q321 380 289 341L252 192Q214 42 212 39Q190 -8 142 -8Q117 -8 103 7T89 39Q89 52 127 202T165 369Q165 402 148 402Q139 402 128 393T110 369Q100 348 90 310Q85 289 82 286T60 282H55H44Q24 282 24 296Z"></path><path stroke-width="0" id="E228-MJMAINB-3D" d="M87 333Q64 343 64 362Q64 383 84 391Q89 393 448 393H807Q808 392 811 390T817 386T823 381T827 374T829 363Q829 345 807 333H87ZM87 109Q64 118 64 139Q64 159 86 168Q89 169 448 169H807L812 166Q816 163 818 162T823 157T827 149T829 139Q829 118 807 109H87Z"></path><path stroke-width="0" id="E228-MJMATHBI-52" d="M258 624H235Q214 624 209 626T199 639Q203 678 216 684Q220 686 422 686H446H525Q634 686 698 674T806 620Q843 583 843 535Q843 505 833 478T805 432T768 396T728 370T690 352T662 342L651 338L654 336Q658 334 667 327T688 310Q719 278 719 237Q719 222 710 165T701 94Q701 35 748 35Q775 35 793 57T819 101Q822 112 826 114T843 117H849Q881 117 881 99Q881 78 852 39T781 -11Q765 -17 728 -17Q537 -13 537 94Q537 110 552 169T567 243Q567 292 529 309Q517 316 508 316T441 318H375L374 314Q374 312 343 189T311 64Q311 62 355 62H382Q414 62 414 44Q410 6 397 2L393 0L351 1Q325 2 221 2Q147 2 108 1T65 0Q48 0 43 15Q47 54 60 60Q64 62 113 62H162L302 623Q302 624 258 624ZM687 555Q687 617 589 623Q581 624 513 624H451L420 498Q413 468 405 436T392 388L388 371Q388 369 458 369Q464 369 485 369T515 369T541 372T570 377T596 386T624 400Q649 417 664 457T683 522T687 555Z"></path><path stroke-width="0" id="E228-MJMATHBI-69" d="M205 615Q205 646 229 670T283 694Q310 694 324 679T339 641Q339 610 315 586T258 562Q235 562 220 577T205 615ZM24 296Q24 305 34 328T63 380T115 430T187 452Q205 452 223 448T262 435T295 406T308 360Q308 345 287 290T240 170T207 87Q202 67 202 57Q202 42 215 42Q235 42 257 64Q288 92 302 140Q307 156 310 159T330 162H336H347Q367 162 367 148Q367 140 357 117T329 65T276 14T201 -8Q158 -8 121 15T83 84Q83 104 133 229T184 358Q189 376 189 388Q189 402 177 402Q156 402 134 380Q103 352 89 304Q84 288 81 285T61 282H55H44Q24 282 24 296Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="882" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E228-MJMATHBI-56" x="180" y="661"></use><g transform="translate(60,-442)"><use transform="scale(0.707)" xlink:href="#E228-MJMATHBI-49" x="0" y="0"></use><use transform="scale(0.624)" xlink:href="#E228-MJMATHBI-72" x="578" y="-170"></use></g></g><use xlink:href="#E228-MJMAINB-3D" x="1400" y="0"></use><g transform="translate(2571,0)"><use xlink:href="#E228-MJMATHBI-52" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E228-MJMATHBI-69" x="1233" y="-213"></use></g></g></svg></span><script type="math/tex">\boldsymbol{\frac{V}{I_{r}} =R_{i}}</script><span>, all in accordance to Ohms Law.  We can also calculate a new value for P as V</span>&times;<span>I</span><sub><span>r</span></sub><span>=P, but this gives us the value 8, which is a different value from P=12, so we will call this P</span><sub><span>1</span></sub><span>.  Let</span>&rsquo;<span>s test that these values by applying the other formulas and see if we get the correct results.  We can apply the formula I</span><sub><span>r</span></sub><sup><span>2</span></sup>&times;<span>R</span><sub><span>i</span></sub><span>=P</span><sub><span>1</span></sub><span> where we</span>&rsquo;<span>d expect P</span><sub><span>1</span></sub><span> to equal 8, and it does.  </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="8.446ex" height="4.541ex" viewBox="0 -1250.7 3636.5 1955.2" role="img" focusable="false" style="vertical-align: -1.636ex;"><defs><path stroke-width="0" id="E229-MJMATHBI-50" d="M162 62L302 623Q302 624 258 624H234Q214 624 209 626T200 638Q200 677 217 684Q220 686 439 686Q667 685 684 682Q686 681 693 680Q713 677 733 671T782 649T829 602T847 528Q847 450 784 382T604 293Q571 288 469 287H373L346 176Q340 151 333 122T321 78L317 64Q317 62 361 62H387Q420 62 420 44Q417 10 404 2L399 0L357 1Q331 2 224 2Q149 2 109 1T65 0Q43 0 43 17Q43 21 47 33Q52 54 57 58T89 62H113H162ZM692 558Q692 611 617 622Q610 623 529 624H452L381 343H458H492Q604 343 641 389Q662 414 677 471T692 558Z"></path><path stroke-width="0" id="E229-MJMAINB-31" d="M481 0L294 3Q136 3 109 0H96V62H227V304Q227 546 225 546Q169 529 97 529H80V591H97Q231 591 308 647L319 655H333Q355 655 359 644Q361 640 361 351V62H494V0H481Z"></path><path stroke-width="0" id="E229-MJMATHBI-49" d="M247 624Q242 624 233 624T220 623Q186 623 186 640Q186 647 190 664T202 684Q206 686 226 686Q277 684 393 684Q435 684 471 684T528 685T553 686Q573 686 573 670Q573 650 564 632Q556 624 537 624H501H449L380 344Q309 64 309 63T356 62Q361 62 370 62T384 63Q417 63 417 46Q417 26 408 8Q403 3 396 0L352 1Q325 2 216 2T82 1L45 0Q30 7 30 16Q33 51 46 60Q51 62 102 62H154L294 623Q294 624 247 624Z"></path><path stroke-width="0" id="E229-MJMATHBI-72" d="M24 296Q24 298 28 313T42 352T67 398T104 436T154 452Q198 452 230 437T273 404L282 411Q334 452 393 452Q441 452 470 423T500 350Q500 301 473 279T418 256Q395 256 379 270T363 308Q363 366 424 386Q424 388 420 391T405 398T385 401Q363 401 343 390Q321 380 289 341L252 192Q214 42 212 39Q190 -8 142 -8Q117 -8 103 7T89 39Q89 52 127 202T165 369Q165 402 148 402Q139 402 128 393T110 369Q100 348 90 310Q85 289 82 286T60 282H55H44Q24 282 24 296Z"></path><path stroke-width="0" id="E229-MJMAINB-3D" d="M87 333Q64 343 64 362Q64 383 84 391Q89 393 448 393H807Q808 392 811 390T817 386T823 381T827 374T829 363Q829 345 807 333H87ZM87 109Q64 118 64 139Q64 159 86 168Q89 169 448 169H807L812 166Q816 163 818 162T823 157T827 149T829 139Q829 118 807 109H87Z"></path><path stroke-width="0" id="E229-MJMATHBI-56" d="M401 686Q415 680 415 668Q415 651 404 629Q398 624 356 624Q318 624 318 623Q318 620 337 508T377 284L397 174L472 285Q548 396 623 507T699 620Q698 621 652 624Q634 624 627 627T619 641Q619 648 622 658Q627 677 631 681T650 686Q654 686 686 685T766 684Q794 684 823 684T858 685Q874 685 878 683T886 671Q886 667 882 651Q877 632 873 628T850 624Q800 624 779 617Q774 617 770 613Q767 610 560 304T350 -5Q346 -9 332 -16H306H291Q270 -16 267 -2Q267 -1 260 37T238 161T210 313L156 624H116H94Q62 624 62 642Q66 678 78 684Q82 686 99 686Q144 684 246 684Q330 684 368 685L401 686Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="1060" height="60" x="0" y="220"></rect><g transform="translate(60,621)"><use transform="scale(0.707)" xlink:href="#E229-MJMATHBI-50" x="0" y="0"></use><use transform="scale(0.624)" xlink:href="#E229-MJMAINB-31" x="818" y="-265"></use></g><g transform="translate(149,-442)"><use transform="scale(0.707)" xlink:href="#E229-MJMATHBI-49" x="0" y="0"></use><use transform="scale(0.624)" xlink:href="#E229-MJMATHBI-72" x="578" y="-170"></use></g></g><use xlink:href="#E229-MJMAINB-3D" x="1578" y="0"></use><use xlink:href="#E229-MJMATHBI-56" x="2750" y="0"></use></g></svg></span><script type="math/tex">\boldsymbol{\frac{P_{1}}{I_{r}} =V}</script><span> also gives the correct answer of 6.  </span></p><p><span>We have exposed at least four new values within the tholon map; R</span><sub><span>i</span></sub><span>, I</span><sub><span>r</span></sub><span>,  V</span><sub><span>3</span></sub><span>, and P</span><sub><span>1</span></sub><span> (being 4.5, 1.333, 216, and 8 when I=2, R=3, V=6, and P=12).  Now all we have to do is find out what they mean and where they are applied in the real world.</span></p><p><span>Regarding V</span><sub><span>3</span></sub><span>, 216, however, well, this is a fascinating number that has a history that goes back to at least Plato, because we know (generally accepted by experts) that 216 is called </span><em><span>Plato</span>&rsquo;<span>s Number</span></em><span> and was described to Plato by Socrates who said (when explaining how to properly breed humans):</span></p><blockquote><p><span>For the number of the human creature is the first in which root and square multiplications (comprising three dimensions and four limits) of basic numbers which make like and unlike, and which increase and decrease, produce a final result in completely commensurate terms.</span></p></blockquote><p><em><span>(The word </span>&ldquo;<span>cubed</span>&rdquo;<span> was not in use in those days, but 216 is the first (smallest) cube which is the sum of three cubes.  It also makes more sense how this might apply to human breeding when you know that back in the day odd numbers were considered male and even numbers were considered female.  Math class back then must have been a lot more interesting.)</span></em><span> </span></p><p><span>Plato elaborated on this in his </span>&ldquo;<span>Republic</span>&rdquo;<span>:</span></p><blockquote><p><span>Now for divine begettings there is a period comprehended by a perfect number, and for mortal by the first in which augmentations dominating and dominated when they have attained to three distances and four limits of the assimilating and the dissimilating, the waxing and the waning, render all things conversable and commensurable [546c] with one another, whereof a basal four-thirds wedded to the pempad yields two harmonies at the third augmentation, the one the product of equal factors taken one hundred times, the other of equal length one way but oblong,-one dimension of a hundred numbers determined by the rational diameters of the pempad lacking one in each case, or of the irrational lacking two; the other dimension of a hundred cubes of the triad.  And this entire geometrical number is determinative of this thing, of better and inferior births.</span></p></blockquote><h5><a name="-plato-ldquorepublicrdquo" class="md-header-anchor"></a><span>~ Plato, </span>&ldquo;<span>Republic</span>&rdquo;</h5><p><span>The above has been interpreted to mean 6</span><sup><span>3</span></sup><span>, which Plato alludes to elsewhere, as 6 (considered the number of marriage back then) is the product of female (2) and male (3), and 2</span><sup><span>3</span></sup><span> </span>&times;<span> 3</span><sup><span>3</span></sup><span> = 216.  While 216 is the most accepted answer, great thinkers in philosophy, math, chemistry physics, etc., spanning over 2,000 years, such as Aristotle, Proclus, Marsilio Ficino,  Gerolamo Cardano,  Eduard Zeller, Friedrich Schleiermacher, Paul Tannery, Friedrich Hultsch, and more, have all tried to decipher Plato</span>&rsquo;<span>s enigmatic text.  216</span>&rsquo;<span>s fame may even go back as far as Pythagoras, as it is the sum of cubes of the </span><em><span>Pythagorean triple</span></em><span> (3,4,5, hence 3</span><sup><span>3</span></sup><span> + 4</span><sup><span>3</span></sup><span> + 5</span><sup><span>3</span></sup><span>), or even Ancient Babylon.</span><sup class='md-footnote'><a href='#dfref-footnote-1' name='ref-footnote-1'>1</a></sup></p><p><span>Later in history this pedigree number fell slightly into infamy when John the Apostle declared in Revelations that 666 was the number of the Beast (the beast that comes out of the sea, not the one that comes out of the abyss of the earth), but also the number of man.  216 might have escaped scot free if John had not specifically said that the number 666 was to be </span><em><span>calculated</span></em><span> (or </span><em><span>counted</span></em><span> depending on translation) to learn its true number.</span></p><blockquote><p><span>Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man </span><em><span>(ed: or </span>&ldquo;<span>humanities number</span>&rdquo;<span>)</span></em><span>, and that number is 666 .</span></p></blockquote><h5><a name="-john-revelations-1318-niv" class="md-header-anchor"></a><span>~ John, Revelations 13:18 (NIV)</span></h5><p><span>Because 216 = 6</span>&times;<span>6</span>&times;<span>6 it gained a dubious reputation by association with the Beast of Armageddon and started popping up in some strange places, thanks to humanities generally suspicious nature and love of doom.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to </span><em><span>add</span></em><span> the numbers together, because in the original Greek it was penned as 600+60+6, and not </span>&ldquo;<span>Six hundred threescore and six</span>&rdquo;<span>, as it appears in the most popular King James Bible.  However, the odd coincidence that John</span>&rsquo;<span>s number of man (666), which needed to be calculated, has a strong relationship with Socrates</span>&rsquo;<span> </span>&ldquo;<span>number of the human creature</span>&rdquo;<span> (216), which also needed to be calculated, is curious… even more curious is why these old timer</span>&rsquo;<span>s preferred to shroud their message in incomprehensible riddles rather than just tell us the damn number! Ug… philosophers.  Regardless, 216</span>&rsquo;<span>s clout in the religious counter-culture still holds up today.  Just do an Internet search for </span>&ldquo;<span>216</span>&rdquo;<span> to see for yourself.  </span></p><div class='footnotes-area'  ><hr/>
+<div class='footnote-line'><span class='md-fn-count'>1</span> <span>Barton, George A. </span><strong><span>On the Babylonian Origin of Plato</span>&rsquo;<span>s Nuptial Number: on an Old Babylonian Letter Addressed &quot;to Lushtamar&quot;.</span></strong><span>. New Haven: American Oriental Society, 1908. </span><a href='https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst' target='_blank' class='url'>https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst</a> <a name='dfref-footnote-1' href='#ref-footnote-1' title='back to document' class='reversefootnote' >↩</a></div></div></div>
+</body>
+</html>

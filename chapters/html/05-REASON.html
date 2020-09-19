@@ -1,0 +1,1527 @@
+<!doctype html>
+<html style='font-size:12px !important'>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>05-REASON</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-diagram-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  html.blink-to-pdf { font-size: 13px; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; zoom: 90%; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+svg[id^="mermaidChart"] { line-height: 1em; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+  .typora-export h1::after, .typora-export h2::after, .typora-export h3::after, .typora-export h4::after, .typora-export h5::after, .typora-export h6::after { content: ""; display: block; height: 100px; margin-bottom: -100px; }
+}
+
+
+:root {
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: #777;
+}
+
+@include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+
+/* open-sans-regular - latin-ext_latin */
+  /* open-sans-italic - latin-ext_latin */
+    /* open-sans-700 - latin-ext_latin */
+    /* open-sans-700italic - latin-ext_latin */
+  html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.6;
+}
+
+#write {
+    max-width: 860px;
+  	margin: 0 auto;
+  	padding: 30px;
+    padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 1400px) {
+	#write {
+		max-width: 1024px;
+	}
+}
+
+@media only screen and (min-width: 1800px) {
+	#write {
+		max-width: 1200px;
+	}
+}
+
+#write > ul:first-child,
+#write > ol:first-child{
+    margin-top: 30px;
+}
+
+a {
+    color: #4183C4;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    line-height: 1.4;
+    cursor: text;
+}
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+h1 {
+    font-size: 2.25em;
+    line-height: 1.2;
+    border-bottom: 1px solid #eee;
+}
+h2 {
+    font-size: 1.75em;
+    line-height: 1.225;
+    border-bottom: 1px solid #eee;
+}
+
+@media print {
+    .typora-export h1,
+    .typora-export h2 {
+        border-bottom: none;
+        padding-bottom: initial;
+    }
+
+    .typora-export h1::after,
+    .typora-export h2::after {
+        border-top: 1px solid #eee;
+        margin-top: .3em;
+    }
+}
+
+h3 {
+    font-size: 1.5em;
+    line-height: 1.43;
+}
+h4 {
+    font-size: 1.25em;
+}
+h5 {
+    font-size: 1em;
+}
+h6 {
+   font-size: 1em;
+    color: #777;
+}
+p,
+blockquote,
+ul,
+ol,
+dl,
+table{
+    margin: 0.8em 0;
+}
+li>ol,
+li>ul {
+    margin: 0 0;
+}
+hr {
+    height: 2px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: #e7e7e7;
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+ul,
+ol {
+    padding-left: 30px;
+}
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+blockquote {
+    border-left: 4px solid #dfe2e5;
+    padding: 0 15px;
+    color: #777777;
+}
+blockquote blockquote {
+    padding-right: 0;
+}
+table {
+    padding: 0;
+    word-break: initial;
+}
+table tr {
+    border-top: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 0;
+}
+table tr:nth-child(2n),
+thead {
+    background-color: #f8f8f8;
+}
+table tr th {
+    font-weight: bold;
+    border: 1px solid #dfe2e5;
+    border-bottom: 0;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr td {
+    border: 1px solid #dfe2e5;
+    margin: 0;
+    padding: 6px 13px;
+}
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+    padding-left: 4px;
+}
+
+.code-tooltip {
+    box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+    border-top: 1px solid #eef2f2;
+}
+
+.md-fences,
+code,
+tt {
+    border: 1px solid #e7eaed;
+    background-color: #f8f8f8;
+    border-radius: 3px;
+    padding: 0;
+    padding: 2px 4px 0px 4px;
+    font-size: 0.9em;
+}
+
+code {
+    background-color: #f3f4f4;
+    padding: 0 2px 0 2px;
+}
+
+.md-fences {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 8px;
+    padding-bottom: 6px;
+}
+
+
+.md-task-list-item > input {
+  margin-left: -1.3em;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+.md-fences {
+	background-color: #f8f8f8;
+}
+#write pre.md-meta-block {
+	padding: 1rem;
+    font-size: 85%;
+    line-height: 1.45;
+    background-color: #f7f7f7;
+    border: 0;
+    border-radius: 3px;
+    color: #777777;
+    margin-top: 0 !important;
+}
+
+.mathjax-block>.code-tooltip {
+	bottom: .375rem;
+}
+
+.md-mathjax-midline {
+    background: #fafafa;
+}
+
+#write>h3.md-focus:before{
+	left: -1.5625rem;
+	top: .375rem;
+}
+#write>h4.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h5.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+#write>h6.md-focus:before{
+	left: -1.5625rem;
+	top: .285714286rem;
+}
+.md-image>.md-meta {
+    /*border: 1px solid #ddd;*/
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: #a7a7a7;
+    opacity: 1;
+}
+
+.md-toc { 
+    margin-top:20px;
+    padding-bottom:20px;
+}
+
+.sidebar-tabs {
+    border-bottom: none;
+}
+
+#typora-quick-open {
+    border: 1px solid #ddd;
+    background-color: #f8f8f8;
+}
+
+#typora-quick-open-item {
+    background-color: #FAFAFA;
+    border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+    border-style: solid;
+    border-width: 1px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+header, .context-menu, .megamenu-content, footer{
+    font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.file-node-content:hover .file-node-icon,
+.file-node-content:hover .file-node-open-state{
+    visibility: visible;
+}
+
+.mac-seamless-mode #typora-sidebar {
+    background-color: #fafafa;
+    background-color: var(--side-bar-bg-color);
+}
+
+.md-lang {
+    color: #b4654d;
+}
+
+.html-for-mac .context-menu {
+    --item-hover-bg-color: #E6F0FE;
+}
+
+#md-notification .btn {
+    border: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: #e5e5e5;
+}
+
+.ty-preferences .window-content {
+    background-color: #fafafa;
+}
+
+.ty-preferences .nav-group-item.active {
+    color: white;
+    background: #999;
+}
+
+
+
+
+body {
+  margin: 0;
+  padding: 0;
+  height: auto;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  font-size: 1rem;
+  line-height: 1.42857;
+  overflow-x: hidden;
+  background: inherit;
+  tab-size: 4;
+}
+
+iframe {
+  margin: auto;
+}
+
+a.url {
+  word-break: break-all;
+}
+
+a:active, a:hover {
+  outline: 0;
+}
+
+
+
+#write {
+  margin: 0 auto;
+  height: auto;
+  width: inherit;
+  word-break: normal;
+  overflow-wrap: break-word;
+  position: relative;
+  white-space: normal;
+  overflow-x: visible;
+  padding-top: 40px;
+}
+
+body.typora-export {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.typora-export .footnote-line, .typora-export li {
+  white-space:pre-wrap;
+}
+
+@media screen and (max-width: 500px) {
+  body.typora-export {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  #write {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .CodeMirror-sizer {
+    margin-left: 0 !important;
+  }
+  .CodeMirror-gutters {
+    display: none !important;
+  }
+}
+
+#write li > figure:last-child {
+  margin-bottom: 0.5rem;
+}
+
+#write ol, #write ul {
+  position: relative;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+button, input, select, textarea {
+  color: inherit;
+  font: inherit;
+}
+
+input[type="checkbox"], input[type="radio"] {
+  line-height: normal;
+  padding: 0;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
+}
+
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre {
+  width: inherit;
+}
+
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p {
+  position: relative;
+}
+
+p {
+  line-height: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  break-after: avoid-page;
+  break-inside: avoid;
+  orphans: 2;
+}
+
+p {
+  orphans: 4;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align:center;
+}
+
+h2 {
+  font-size: 1.8rem;
+}
+
+h3 {
+  font-size: 1.6rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+a {
+  cursor: pointer;
+}
+
+#write input[type="checkbox"] {
+  cursor: pointer;
+  width: inherit;
+  height: inherit;
+}
+
+figure {
+  overflow-x: auto;
+  margin: 1.2em 0;
+  max-width: calc(100% + 16px);
+  padding: 0;
+}
+
+figure > table {
+  margin: 0 !important;
+}
+
+tr {
+  break-inside: avoid;
+  break-after: auto;
+}
+
+thead {
+  display: table-header-group;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  overflow: auto;
+  break-inside: auto;
+  text-align: left;
+}
+
+.CodeMirror-gutters {
+  border-right: 0;
+  background-color: inherit;
+}
+
+.CodeMirror {
+  text-align: left;
+}
+
+.CodeMirror-lines {
+  padding: 0;
+}
+
+#write pre {
+  white-space: pre-wrap;
+}
+
+#write pre.ty-contain-cm {
+  white-space: normal;
+}
+
+.CodeMirror-gutters {
+  margin-right: 4px;
+}
+
+.md-fences {
+  font-size: 0.9rem;
+  display: block;
+  break-inside: avoid;
+  text-align: left;
+  overflow: visible;
+  white-space: pre;
+  background: inherit;
+  position: relative !important;
+}
+
+#write .md-fences.mock-cm {
+  white-space: pre-wrap;
+}
+
+.md-fences.md-fences-with-lineno {
+  padding-left: 0;
+}
+
+#write.fences-no-line-wrapping .md-fences.mock-cm {
+  white-space: pre;
+  overflow-x: auto;
+}
+
+.md-fences.mock-cm.md-fences-with-lineno {
+  padding-left: 8px;
+}
+
+.CodeMirror-line, twitterwidget {
+  break-inside: avoid;
+}
+
+li div {
+  padding-top: 0;
+}
+
+blockquote {
+  margin: 1rem 0;
+}
+
+li p {
+  margin: 0.5rem 0;
+}
+
+li {
+  margin: 0;
+  position: relative;
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+blockquote > :first-child, li > :first-child {
+  margin-top: 0;
+}
+
+@media print {
+  body, html {
+    border: 1px solid transparent;
+    height: 99%;
+    break-after: avoid;
+    break-before: avoid;
+  }
+  #write {
+    margin-top: 0;
+    padding-top: 0;
+    border-color: transparent !important;
+  }
+  .typora-export * {
+    -webkit-print-color-adjust: exact;
+  }
+  .typora-export #write {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 0;
+    break-after: avoid;
+  }
+  .typora-export #write::after {
+    height: 0;
+  }
+}
+
+a img, img a {
+  cursor: pointer;
+}
+
+p > img:only-child {
+  display: block;
+  margin: auto;
+}
+
+[contenteditable="true"]:active, [contenteditable="true"]:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+
+
+kbd {
+  margin: 0 0.1em;
+  padding: 0.1em 0.6em;
+  font-size: 0.8em;
+  color: rgb(36, 39, 41);
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(173, 179, 185);
+  border-radius: 3px;
+  box-shadow: rgba(12, 13, 14, 0.2) 0 1px 0, rgb(255, 255, 255) 0 0 0 2px inset;
+  white-space: nowrap;
+  vertical-align: middle;
+}
+
+code {
+  text-align: left;
+  vertical-align: initial;
+}
+
+[lang="mermaid"] svg, [lang="flow"] svg {
+  max-width: 100%;
+  height: auto;
+}
+
+table tr th {
+  border-bottom: 0;
+}
+
+video {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+iframe {
+  max-width: 100%;
+  width: 100%;
+  border: none;
+}
+
+.CodeMirror {
+  height: auto;
+}
+
+.CodeMirror.cm-s-inner {
+  background: inherit;
+}
+
+.CodeMirror-scroll {
+  overflow: auto hidden;
+  z-index: 3;
+}
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler {
+  background-color: rgb(255, 255, 255);
+}
+
+.CodeMirror-gutters {
+  border-right: 1px solid rgb(221, 221, 221);
+  background: inherit;
+  white-space: nowrap;
+}
+
+.cm-s-inner .cm-keyword {
+  color: rgb(119, 0, 136);
+}
+
+.cm-s-inner .cm-atom, .cm-s-inner.cm-atom {
+  color: rgb(34, 17, 153);
+}
+
+.cm-s-inner .cm-number {
+  color: rgb(17, 102, 68);
+}
+
+.cm-s-inner .cm-def {
+  color: rgb(0, 0, 255);
+}
+
+.cm-s-inner .cm-variable {
+  color: rgb(0, 0, 0);
+}
+
+.cm-s-inner .cm-variable-2 {
+  color: rgb(0, 85, 170);
+}
+
+.cm-s-inner .cm-variable-3 {
+  color: rgb(0, 136, 85);
+}
+
+.cm-s-inner .cm-string {
+  color: rgb(170, 17, 17);
+}
+
+.cm-s-inner .cm-property {
+  color: rgb(0, 0, 0);
+}
+
+.cm-s-inner .cm-operator {
+  color: rgb(152, 26, 26);
+}
+
+.cm-s-inner .cm-comment, .cm-s-inner.cm-comment {
+  color: rgb(170, 85, 0);
+}
+
+.cm-s-inner .cm-string-2 {
+  color: rgb(255, 85, 0);
+}
+
+.cm-s-inner .cm-meta {
+  color: rgb(85, 85, 85);
+}
+
+.cm-s-inner .cm-qualifier {
+  color: rgb(85, 85, 85);
+}
+
+.cm-s-inner .cm-builtin {
+  color: rgb(51, 0, 170);
+}
+
+.cm-s-inner .cm-bracket {
+  color: rgb(153, 153, 119);
+}
+
+.cm-s-inner .cm-tag {
+  color: rgb(17, 119, 0);
+}
+
+.cm-s-inner .cm-attribute {
+  color: rgb(0, 0, 204);
+}
+
+.cm-s-inner .cm-header, .cm-s-inner.cm-header {
+  color: rgb(0, 0, 255);
+}
+
+.cm-s-inner .cm-quote, .cm-s-inner.cm-quote {
+  color: rgb(0, 153, 0);
+}
+
+.cm-s-inner .cm-hr, .cm-s-inner.cm-hr {
+  color: rgb(153, 153, 153);
+}
+
+.cm-s-inner .cm-link, .cm-s-inner.cm-link {
+  color: rgb(0, 0, 204);
+}
+
+div.CodeMirror span.CodeMirror-matchingbracket {
+  color: rgb(0, 255, 0);
+}
+
+div.CodeMirror span.CodeMirror-nonmatchingbracket {
+  color: rgb(255, 34, 34);
+}
+
+.cm-s-inner .CodeMirror-activeline-background {
+  background: inherit;
+}
+
+.CodeMirror {
+  position: relative;
+  overflow: hidden;
+}
+
+.CodeMirror-scroll {
+  height: 100%;
+  outline: 0;
+  position: relative;
+  box-sizing: content-box;
+  background: inherit;
+}
+
+.CodeMirror-sizer {
+  position: relative;
+}
+
+.CodeMirror-gutter-filler, .CodeMirror-scrollbar-filler, .CodeMirror-vscrollbar {
+  position: absolute;
+  z-index: 6;
+  display: none;
+}
+
+.CodeMirror-scrollbar-filler {
+  right: 0;
+  bottom: 0;
+}
+
+.CodeMirror-gutter-filler {
+  left: 0;
+  bottom: 0;
+}
+
+.CodeMirror-gutters {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-bottom: 30px;
+  z-index: 3;
+}
+
+.CodeMirror-gutter-background {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  z-index: 4;
+}
+
+.CodeMirror-lines {
+  cursor: text;
+}
+
+.CodeMirror-linebackground {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.CodeMirror-wrap .CodeMirror-scroll {
+  overflow-x: hidden;
+}
+
+.CodeMirror-measure {
+  position: absolute;
+  width: 100%;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+}
+
+.CodeMirror div.CodeMirror-cursor {
+  position: absolute;
+  visibility: hidden;
+  border-right: none;
+  width: 0;
+}
+
+.CodeMirror div.CodeMirror-cursor {
+  visibility: hidden;
+}
+
+@media print {
+  .CodeMirror div.CodeMirror-cursor {
+    visibility: hidden;
+  }
+}
+
+
+
+body {
+  font-family: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgb(51, 51, 51);
+  line-height: 1.6;
+}
+
+#write {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 30px 30px 100px;
+}
+
+#write > ul:first-child, #write > ol:first-child {
+  margin-top: 30px;
+}
+
+a {
+  color: rgb(65, 131, 196);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  position: relative;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  line-height: 1.4;
+  cursor: text;
+}
+
+h6:hover a.anchor {
+  text-decoration: none;
+}
+
+h1 tt,h1 code {
+  font-size: inherit;
+}
+
+h2 tt, h2 code {
+  font-size: inherit;
+}
+
+h3 tt, h3 code {
+  font-size: inherit;
+}
+
+h4 tt, h4 code {
+  font-size: inherit;
+}
+
+h5 tt, h5 code {
+  font-size: inherit;
+}
+
+h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  font-size: 1em;
+  color: rgb(119, 119, 119);
+}
+
+p, blockquote, ul, ol, dl, table {
+  margin: 0.8em 0;
+}
+
+li > ol, li > ul {
+  margin: 0;
+}
+
+hr {
+  height: 2px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: rgb(231, 231, 231);
+  border: 0 none;
+  overflow: hidden;
+  box-sizing: content-box;
+}
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul:first-child, ol:first-child {
+  margin-top: 0;
+}
+
+ul:last-child, ol:last-child {
+  margin-bottom: 0;
+}
+
+blockquote {
+  border-left: 4px solid rgb(223, 226, 229);
+  padding: 0 15px;
+  color: rgb(119, 119, 119);
+}
+
+blockquote blockquote {
+  padding-right: 0;
+}
+
+table {
+  padding: 0;
+  word-break: initial;
+}
+
+table tr {
+  border-top: 1px solid rgb(223, 226, 229);
+  margin: 0;
+  padding: 0;
+}
+
+table tr:nth-child(2n), thead {
+  background-color: rgb(248, 248, 248);
+}
+
+table tr th {
+  font-weight: bold;
+  border-width: 1px 1px 0;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-left-style: solid;
+  border-top-color: rgb(223, 226, 229);
+  border-right-color: rgb(223, 226, 229);
+  border-left-color: rgb(223, 226, 229);
+  border-image: initial;
+  border-bottom-style: initial;
+  border-bottom-color: initial;
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr td {
+  border: 1px solid rgb(223, 226, 229);
+  margin: 0;
+  padding: 6px 13px;
+}
+
+table tr th:first-child, table tr td:first-child {
+  margin-top: 0;
+}
+
+table tr th:last-child, table tr td:last-child {
+  margin-bottom: 0;
+}
+
+.CodeMirror-lines {
+  padding-left: 4px;
+}
+
+.md-fences, code, tt {
+  border: 1px solid rgb(231, 234, 237);
+  background-color: rgb(248, 248, 248);
+  border-radius: 3px;
+  padding: 2px 4px 0;
+  font-size: 0.9em;
+}
+
+code {
+  background-color: rgb(243, 244, 244);
+  padding: 0 2px;
+}
+
+.md-fences {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-top: 8px;
+  padding-bottom: 6px;
+}
+
+@media print {
+  html {
+    font-size: 13px;
+  }
+  table, pre {
+    break-inside: avoid;
+  }
+  pre {
+    overflow-wrap: break-word;
+  }
+}
+
+.md-fences {
+  background-color: rgb(248, 248, 248);
+}
+
+#typora-quick-open {
+  border: 1px solid rgb(221, 221, 221);
+  background-color: rgb(248, 248, 248);
+}
+
+#typora-quick-open-item {
+  background-color: rgb(250, 250, 250);
+  border-color: rgb(254, 254, 254) rgb(229, 229, 229) rgb(229, 229, 229) rgb(238, 238, 238);
+  border-style: solid;
+  border-width: 1px;
+}
+
+header, footer {
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+@page {
+  width: 6.69in;
+  height: 9.61in;
+  margin: 0.75in 0.18in;
+}
+
+.reflink {
+  font-size: larger;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#write h1 {
+  text-align: center;
+  break-before: page !important;
+}
+
+h6 {
+  color: black;
+  font-weight: 100;
+  border-right: 0 solid white;
+  border-left: 0 solid white;
+  border-image: initial;
+  font-family: Tahoma, Verdana, Segoe, sans-serif !important;
+  text-align: center !important;
+  border-top: 1px solid black !important;
+  border-bottom: 1px solid black !important;
+}
+
+h5 {
+  font-size: 10pt;
+  font-weight: 100;
+  color: grey;
+  display: inline-block;
+  border: 0 solid white;
+  text-align: right !important;
+  position: relative !important;
+  right: 0 !important;
+}
+
+h4 {
+  border: 1px solid lightgrey !important;
+  background-color: rgb(221, 221, 221) !important;
+  font-size: 12pt !important;
+  font-weight: 100 !important;
+}
+
+#md-inner-link {}
+
+
+
+
+
+
+
+
+
+
+/* this si git.user.css appended to esure compatibility? */
+
+
+
+@page {
+    width: 6.69in; height: 9.61in;
+    margin: 0.75in 0.18in 0.75in 0.18in;
+    
+    #write h1 {
+      text-align:center;
+      page-break-before:always !important;
+    }
+}
+
+
+.editnote {
+    color: black;
+    font-weight: 100;
+    border: 1px solid black !important;
+    background-color: yellow;
+}
+.reflink {
+  font-size:larger;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+ 
+#write h1 {
+    text-align:center;
+    page-break-before:always !important;
+}
+
+.break {
+  page-break-before:always;
+}
+
+h6 { /* this is the sub-headimg */
+    font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+    text-align: center !important;
+    color: black;
+    border-top:1px solid black !important;
+    border-bottom:1px solid black !important;
+    font-weight:100;
+    border: 0px solid white;
+}
+
+h5 { /* this is the authours format */
+    font-size: 10pt;
+    font-weight:100;
+    font-style: italics;
+    color:grey;
+    display: inline-block;
+    text-align: right !important;
+    position:relative !important;
+    right:0 !important; 
+    border: 0px solid white;
+}
+
+h4 { /* this is the CLAIM format */
+    border:1px solid lightgrey !important;
+    background-color:#ddd !important;
+    font-size: 12pt !important;
+    font-weight: 100 !important;
+}
+
+#md-inner-link {
+/* text-decoration: none; */
+}
+
+.md-toc-h6 {
+  display: none;
+}
+.md-toc-h5 {
+  display: none;
+}
+.md-toc-h4 {
+  display: none;
+}
+a.md-toc-inner {
+    font-size: 14pt !important;
+    color: black !important;
+}
+
+/* hide book title in TOC */
+.md-toc-inner strong {
+    display:none;
+}
+
+.image-left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+</style>
+</head>
+<body class='typora-export'>
+<div id='write'  class=''><div style="page-break-after: always; break-after: page;"></div><h1><a name="5-reason" class="md-header-anchor"></a><span>5: REASON</span></h1><h6><a name="the-ability-to-understand-something-is-limited-by-our-ability-to-perceive-something--as-our-perception-changes-so-does-our-understanding-change-and-with-that-the-reasoning-we-apply" class="md-header-anchor"></a><span>The ability to understand something is limited by our ability to perceive something.  As our perception changes, so does our understanding change, and with that, the reasoning we apply.</span></h6><p><span>We arrived at laws through reason, and we humans are rather proud of that claim as we like to believe we invented reason, but we didn</span>&rsquo;<span>t.  We did discover it, however, so at least we can take credit for being doggedly curious.</span></p><p><em><span>Reason</span></em><span> is what we call our ability to recognize the natural processes that arise from the patterns of creation and is the product of intellectual survival, a skill we evolved to give us fang-less, claw-less, slow, small and tasty humans a fighting chance in the Darwinian battlefield.</span></p><p><span>To be fair, there has been a long-standing debate over whether mathematics, and by association, reason, was invented or discovered.  One of the more solid debates is presented by leading astrophysicist Mario Livio in his article </span>&ldquo;<span>Why Math Works</span>&rdquo;<sup class='md-footnote'><a href='#dfref-footnote-1' name='ref-footnote-1'>1</a></sup></p><p><span>In that article, he refers to those who believe math was discovered as Platonists, due to the fact that Platonic archetypes include math archetypes, as math is a form of an idea.  Livio gets into the idea that math is subject to the same evolutionary forces as species in that math that does not work quickly dies, never again to propagate itself into the mathematical </span>&ldquo;<span>gene pool.</span>&rdquo;</p><p><span>The same is true for any idea or theory.  Ideas such as the phlogiston theory of fire and Descartes theory of the motion of planets are examples of conceptual offspring that were quickly dispatched by the deadly and merciless hand of proof.  It</span>&rsquo;<span>s a bit different on the social level, where we see failed political and economic ideologies that, although their ruin is inevitable from the start, they continue to pop up, for, in the realms of ideology, proof is often eclipsed by belief, hope, power and mass hysteria.</span></p><p><span>A sounder argument that reason was discovered is that the systems we have created with our reasoning abilities, from plumbing to artificial intelligence (AI), have come to the same design conclusion as nature when faced with similar challenges, such as water distribution, blood cell design, language, etc.  In the case of AI, armed with our rules of reason, it has significantly out-designed human solutions many times by mimicking nature.  These improved solutions were derived at by observing the situation and applying the laws of reason that we instructed the AI system with, laws that we ourselves derived from observing our reality.  The fact that AI is coming up with solutions that not only exceed ours but are more in harmony with nature is pretty good evidence that the laws of reason are objectively verifiable and existed before humans arrived on the scene.</span></p><p><span>In any case, both sides can agree, for the most part, that math is the language man invented to describe the existing laws he discovered and likewise, reasoning is the process man invented to describe the unfolding order of existence that he was capable of perceiving.  This is a sufficiently satisfactory answer with regard to math and reason, but reasoning, in general, has a lot more gray area than mathematics.</span></p><h2><a name="the-limits-of-reason" class="md-header-anchor"></a><span>The Limits of Reason</span></h2><p><span>Reason has been pretty effective in describing our reality, but it has its limits, at least in the way we use it today.</span></p><p><span>For example, the traditional Law of Thought</span><sup class='md-footnote'><a href='#dfref-footnote-2' name='ref-footnote-2'>2</a></sup><span> goes something like:</span></p><ul><li><strong><span>The Law of Non-Contradiction states:</span></strong></li></ul><blockquote><p>&ldquo;<span>Nothing can both exist and not exist at the same time and in the same respect, or no statement is both true and false.</span>&rdquo;</p></blockquote><ul><li><strong><span>The Law of Excluded Middle states:</span></strong></li></ul><blockquote><p>&ldquo;<span>Something either exists or does not exist, or every statement is either true or false.</span>&rdquo;</p></blockquote><ul><li><strong><span>The Law of Identity states:</span></strong></li></ul><blockquote><p>&ldquo;<span>Everything is the same as itself, or a statement cannot remain the same and change its truth value.</span>&rdquo;</p></blockquote><p><span>These laws are much like math, in fact, they have their own algebraic notation: ∼(p</span>&sdot;<span>∼p), F(x)</span>&sup;<span>F(x)</span><strong><span>,</span></strong><span> (</span>&forall;<span>x) (x=x), respectively.</span></p><p><span>It seems reasonable to assert that these laws existed before we came up with a way to define them, just as processes in nature existed before we understood them.  We certainly did not invent the fact that something cannot </span>&ldquo;<span>be</span>&rdquo;<span> and </span>&ldquo;<span>not be</span>&rdquo;<span> at the same time.  We discovered that this is a property of our reality, or rather, in the way we perceive our reality.  If we broaden our perceptions to include the reality that something </span><em><span>can be</span></em><span> and </span><em><span>cannot be</span></em><span> at the same time, then our reasoning must adapt.</span></p><p><span>A hardcore Aristotelian materialist might say </span>&ldquo;<span>The law of non-contradiction specifically forbids something to be in a state of existence and non-existence.  The universe has a transcendent self-consistent order, and that order cannot be violated.  Its primary manifestation is thus: it exists, and it cannot be otherwise</span>&rdquo;<span>, while a Platonist might say something can exist as an archetype but not as a material instance.  A scientist might suggest that something can exist implicitly, but not explicitly, like the ink drop, or can even be in two places at the same time, as we have seen in quantum mechanics,  and a Hindu guru might mess everything up by saying </span>&ldquo;<span>The One is both </span><em><span>Sat</span></em><span> (existing) and </span><em><span>Asat</span></em><span> (non-existing).</span>&rdquo;</p><p><span>It would appear that the laws of reason depend on the scope of one</span>&rsquo;<span>s perspective and what one accepts as axiomatic or true, transcendental or otherwise.  How, then, can these laws be preexisting if they contradict each other? This is sort of like the fable of the blind men and the elephant, where one blind man holding the elephant</span>&rsquo;<span>s tail describes it as a snake, and the other, holding the foot, describes it as a tree, or perhaps like the brilliant sculptures of Mathew Robert Ortis, such as </span>&ldquo;<span>Revolution Giraffes</span>&rdquo;<span>, which looks like a giraffe from one angle, but an elephant from another.</span></p><p><img src='../Images/016-eleph-giraf.png' style='width:100%;' /></p><p><span>The blind men and the viewers of the sculpture are all perceiving a preexisting form that is undebatably </span>&ldquo;<span>true</span>&rdquo;<span>, but they can</span>&rsquo;<span>t seem to agree on what it is.</span></p><p><span>Each of these fine folks can easily define and defend their worldview.  They are all able to recognize the reality they have accepted as true, supported by the reasoning of that truth.</span></p><h3><a name="labels-and-names" class="md-header-anchor"></a><span>Labels and Names</span></h3><p><span>In all cases, before one can proclaim some thing</span>&rsquo;<span>s existence, that thing has to be named and something about it must be known, or at least presumed.  We can</span>&rsquo;<span>t say something exists if we have no idea what it is we are making that claim about.  We can see this readily in the way languages form ideas and labels which become the foundation of cultural understanding.</span></p><p><span>I can say my dog exists because I know </span><em><span>my</span></em><span> dog, I know </span><em><span>of</span></em><span> dogs, and everyone I know also knows of dogs.  But can I say </span><em><span>phlimquitz</span></em><span> exist, and when you ask me what a </span><em><span>phlimquitz</span></em><span> is, I say </span>&ldquo;<span>I have no idea</span>&rdquo;<span>? That would be quite unreasonable, but if I said </span><em><span>phlimquitz</span></em><span> explains the 99.97% correlation between </span>&ldquo;<span>U.S.  Spending on science, space and technology vs.  Suicide by hanging, strangulation, and suffocation</span>&rdquo;<span>, then I am claiming to understand something heretofore unknown and can go about defining and testing the </span><em><span>Phlimquitz Hypothesis</span></em><span>.</span></p><h4><a name="claim-18-we-name-things-according-to-our-observations-and-once-named-they-become-conceptual-realities" class="md-header-anchor"></a><strong><span>Claim 18:</span></strong><span> We name things according to our observations, and once named, they become conceptual realities.  </span></h4><p><span>Here is that correlation, just for fun:</span><sup class='md-footnote'><a href='#dfref-footnote-3' name='ref-footnote-3'>3</a></sup></p><p><img src='../Images/017-suicide.png' style='width:100%;' />
+<span>  </span><br/><img src='../Images/018-star-dancer.png' style='width:100%;' /></p><p><span>This process of understanding is similar to recognizing a pattern in a series of random dots, as in the dancing-woman-in-the-dots example above.  In that image I can definitely see a person dancing, and I can easily prove it by connecting the dots.  I am not wrong, but neither is the person who sees an egg sandwich.  </span></p><p><span>However, any predictions either of us makes on where the next dot will land or in determining the properties attributes of the dots, based on the understanding of our perceptions will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.</span></p><p><span>Humans began grasping this concept of randomness about 3,000 years ago, but named it things like </span>&ldquo;<span>fate</span>&rdquo;<span>, </span>&ldquo;<span>chance</span>&rdquo;<span>, and </span>&ldquo;<span>destiny</span>&rdquo;<span>, and, being unpredictable was usually associated with some sort of supernatural justice or punishment.  It wasn</span>&rsquo;<span>t until the 16</span><sup><span>th</span></sup><span> century that Italian mathematicians began to formalize the concept of what we call randomness, so it</span>&rsquo;<span>s still quite a young concept.</span></p><h4><a name="claim-19-our-ability-to-reason-is-rooted-in-our-ability-to-see-patterns-and-connecting-these-patterns-is-made-possible-by-our-ability-to-reason" class="md-header-anchor"></a><strong><span>Claim 19:</span></strong><span> Our ability to reason is rooted in our ability to see patterns, and connecting these patterns is made possible by our ability to reason.</span></h4><p><span>God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, manna, out-of-body-experiences</span><sup class='md-footnote'><a href='#dfref-footnote-4' name='ref-footnote-4'>4</a></sup><span>, etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it.  To be clear, this is not meant to suggest these observations are, or are not, as valid as any other.  Any system</span>&rsquo;<span>s validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.</span></p><p><span>It would be hubris to write-off alternative views of reality given every culture in the world has a concept of some sort of paranormal, metaphysical energy.  Some of these cultures have extremely demanding training and lengthy education to tap into it.  Even our western icons, such as Paracelsus, Hippocrates, Carl Jung, Erwin Schrodinger, Albert Einstein and Plato have referred to it.</span></p><p><span>For better or worse, it seems that pretty much anything can be a Truth as long as people can recognize it and support it with whatever sort of reasoning they happen to be using.  For our purposes, we are only concerned with reasoning that is based on the laws of nature, as they are perceived.  We need only look at history, and some places on the planet today, to see the many versions of truth that have evolved, and how dramatically they differ from each other.</span></p><h3><a name="the-truth-about-truth" class="md-header-anchor"></a><span>The Truth about Truth </span></h3><p><span>This raises the Big Question… What is truth?</span></p><p><span>This is a question we can never answer absolutely.  We can</span>&rsquo;<span>t speak about what the ultimate truth is because there can never be absolute proof that any one way of looking at something is the </span>&ldquo;<span>right</span>&rdquo;<span> way.  All we can speak about is what is the most reasonable understanding given the context of our reality and our perceptions of it.  What, then, is the arbiter of proof as to whether something is </span>&ldquo;<span>reasonably</span>&rdquo;<span> true or not, given our current understanding of reality?</span></p><p><span>One arbiter is, of course, power.  When Friedrich Nietzsche said </span>&ldquo;<span>There is no truth, only power</span>&rdquo;<span>, he was half right.  Truth is a journey of discovery, while power is a battle for who gets to navigate that journey.</span></p><h3><a name="sustainability" class="md-header-anchor"></a><span>Sustainability</span></h3><p><span>Outside of that battlefield of culture and politics, we do have at least one gauge, and that is the measure of sustainability.  Sustainability may be the best test as to the validity of something because its explicit existence alone is proof it exists in accordance with the rules of reality.</span></p><p><span>Anything that exists can only sustain its sustainability if it exist within the constraints of its scope, typically defined by its environment and its component parts.  A functional balance must be maintained between all contributing variables in order for the energy within that instance to move in a structured manner that allows order to emerge from chaos.  Energy always seeks to achieve a balance; therefore, sustainability is the measure of the degree that order and balance can be maintained.  Unsustainability will result in chaos, and visa-versa.</span></p><p><span>This raises an interesting question: if (high-entropy) chaos is the ultimate state of the Universe, a state where everything is inert, motionless and dead, then it must also be the most sustainable state as it will never change once arrived at.  Oddly, this appears to be true, but this is also an example of the two kinds of </span><em><span>balance</span></em><span>.  The dead state is the state of </span><em><span>balance</span></em><span> (noun) that has no movement, which is the opposite of the action of </span><em><span>balance</span></em><span> (verb), which is a dynamic and interactive process of energy and movement.  </span></p><p><span>All the movement of energy that exists at every level of reality is the result of energy traveling the path of least resistance as it seeks balance.  We see examples of this everywhere, such as when we add hydrochloric acid with sodium hydroxide.  After an extremely violent readjustment phase that releases a lot of energy (heat), it settles down to very stable, lower energy-demanding products of water and table salt.</span></p><p><span>The Universe, starting with the extremely violent Big Bang and ending (according to at least one popular theory) as a bunch of inert matter, the cosmic equivalent of water and table salt, is essentially the readjustment phase of different states of imbalance coming to terms with one another.  Reality is the reaction of this adjustment, and like the chemical reaction just mentioned, will ultimately balance out and just sit there, doing nothing.</span></p><p><span>The ultimate destination of sustainability, on the cosmic scale, is death.  In our current point in existence, sustainability means keeping the various part of the </span>&ldquo;<span>balancing machine</span>&rdquo;<span> of nature working properly.  In both cases sustainability means balance, but with two very different results of short-term, or </span><em><span>temporal</span></em><span> balance and long-term, or </span><em><span>supernal</span></em><span> balance.  For our purposes, the sustainability we are referring to is the temporal kind, unless otherwise noted.</span></p><h4><a name="claim-20-sustainability-is-a-gauge-of-existence-and-therefore-life-itself-at-every-level-of-reality" class="md-header-anchor"></a><strong><span>Claim 20:</span></strong><span> Sustainability is a gauge of existence, and therefore life itself, at every level of reality.  </span></h4><p><span>Pions exist for about 26 nanoseconds, while the most massive black hole known, approximately 66 billion times larger than our sun, would require 6x10</span><sup><span>99</span></sup><span> years to evaporate.  Does this mean that black holes are more </span>&ldquo;<span>valid</span>&rdquo;<span>, more </span>&ldquo;<span>true</span>&rdquo;<span> than pions? No, because the pion</span>&rsquo;<span>s existence, short as it is, is necessary, otherwise it would never have existed in the first place, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10</span><sup><span>99</span></sup><span> years is actually longer than the life span of the Universe).  By this logic, we can say that both pions and black holes are equally true and valid, but one is </span>&ldquo;<span>true</span>&rdquo;<span> forever.</span></p><h4><a name="claim-21-something-exists-because-its-expression-of-energy-patterns-adheres-to-an-order-that-must-be-maintained-to-continue-existing" class="md-header-anchor"></a><strong><span>Claim 21:</span></strong><span> Something exists because its expression of energy patterns adheres to an order that must be maintained to continue existing.  </span></h4><h3><a name="tree-of-sustainability" class="md-header-anchor"></a><span>Tree of Sustainability</span></h3><p><span>Let</span>&rsquo;<span>s take a look at a more integrated example; that of a single cell, the building block of life.  This is high-school biology, but let</span>&rsquo;<span>s go over it again.</span></p><p><span>Each of these processes has proven itself to be a more </span>&ldquo;<span>valid</span>&rdquo;<span> truth by being more sustainable then any of their alternative processes.</span></p><ul><li><span>Inside the cell are two meters of tightly wound strands of four very specific molecules, held together by sugar phosphates, which make up the DNA of that cell.  These are </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="8.616ex" height="2.728ex" viewBox="0 -860.5 3709.7 1174.7" role="img" focusable="false" style="vertical-align: -0.73ex;"><defs><path stroke-width="0" id="E22-MJMATHI-43" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path><path stroke-width="0" id="E22-MJMAIN-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"></path><path stroke-width="0" id="E22-MJMATHI-48" d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"></path><path stroke-width="0" id="E22-MJMATHI-4E" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E22-MJMATHI-43" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E22-MJMAIN-35" x="1011" y="-213"></use><g transform="translate(1168,0)"><use xlink:href="#E22-MJMATHI-48" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E22-MJMAIN-35" x="1175" y="-213"></use></g><g transform="translate(2453,0)"><use xlink:href="#E22-MJMATHI-4E" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E22-MJMAIN-35" x="1135" y="-213"></use></g></g></svg></span><script type="math/tex">C_{5} H_{5} N_{5}</script><span> (adenine),  </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="10.388ex" height="2.728ex" viewBox="0 -860.5 4472.7 1174.7" role="img" focusable="false" style="vertical-align: -0.73ex;"><defs><path stroke-width="0" id="E23-MJMATHI-43" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path><path stroke-width="0" id="E23-MJMAIN-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"></path><path stroke-width="0" id="E23-MJMATHI-48" d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"></path><path stroke-width="0" id="E23-MJMATHI-4E" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path><path stroke-width="0" id="E23-MJMATHI-4F" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E23-MJMATHI-43" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E23-MJMAIN-35" x="1011" y="-213"></use><g transform="translate(1168,0)"><use xlink:href="#E23-MJMATHI-48" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E23-MJMAIN-35" x="1175" y="-213"></use></g><g transform="translate(2453,0)"><use xlink:href="#E23-MJMATHI-4E" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E23-MJMAIN-35" x="1135" y="-213"></use></g><use xlink:href="#E23-MJMATHI-4F" x="3709" y="0"></use></g></svg></span><script type="math/tex">C_{5} H_{5} N_{5} O</script><span> (guanine), </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="10.388ex" height="2.728ex" viewBox="0 -860.5 4472.7 1174.7" role="img" focusable="false" style="vertical-align: -0.73ex;"><defs><path stroke-width="0" id="E24-MJMATHI-43" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path><path stroke-width="0" id="E24-MJMAIN-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"></path><path stroke-width="0" id="E24-MJMATHI-48" d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"></path><path stroke-width="0" id="E24-MJMAIN-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"></path><path stroke-width="0" id="E24-MJMATHI-4E" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path><path stroke-width="0" id="E24-MJMAIN-33" d="M127 463Q100 463 85 480T69 524Q69 579 117 622T233 665Q268 665 277 664Q351 652 390 611T430 522Q430 470 396 421T302 350L299 348Q299 347 308 345T337 336T375 315Q457 262 457 175Q457 96 395 37T238 -22Q158 -22 100 21T42 130Q42 158 60 175T105 193Q133 193 151 175T169 130Q169 119 166 110T159 94T148 82T136 74T126 70T118 67L114 66Q165 21 238 21Q293 21 321 74Q338 107 338 175V195Q338 290 274 322Q259 328 213 329L171 330L168 332Q166 335 166 348Q166 366 174 366Q202 366 232 371Q266 376 294 413T322 525V533Q322 590 287 612Q265 626 240 626Q208 626 181 615T143 592T132 580H135Q138 579 143 578T153 573T165 566T175 555T183 540T186 520Q186 498 172 481T127 463Z"></path><path stroke-width="0" id="E24-MJMATHI-4F" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E24-MJMATHI-43" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E24-MJMAIN-34" x="1011" y="-213"></use><g transform="translate(1168,0)"><use xlink:href="#E24-MJMATHI-48" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E24-MJMAIN-35" x="1175" y="-213"></use></g><g transform="translate(2453,0)"><use xlink:href="#E24-MJMATHI-4E" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E24-MJMAIN-33" x="1135" y="-213"></use></g><use xlink:href="#E24-MJMATHI-4F" x="3709" y="0"></use></g></svg></span><script type="math/tex">C_{4} H_{5} N_{3} O</script><span> (cytosine) and </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="11.442ex" height="2.728ex" viewBox="0 -860.5 4926.2 1174.7" role="img" focusable="false" style="vertical-align: -0.73ex;"><defs><path stroke-width="0" id="E25-MJMATHI-43" d="M50 252Q50 367 117 473T286 641T490 704Q580 704 633 653Q642 643 648 636T656 626L657 623Q660 623 684 649Q691 655 699 663T715 679T725 690L740 705H746Q760 705 760 698Q760 694 728 561Q692 422 692 421Q690 416 687 415T669 413H653Q647 419 647 422Q647 423 648 429T650 449T651 481Q651 552 619 605T510 659Q484 659 454 652T382 628T299 572T226 479Q194 422 175 346T156 222Q156 108 232 58Q280 24 350 24Q441 24 512 92T606 240Q610 253 612 255T628 257Q648 257 648 248Q648 243 647 239Q618 132 523 55T319 -22Q206 -22 128 53T50 252Z"></path><path stroke-width="0" id="E25-MJMAIN-35" d="M164 157Q164 133 148 117T109 101H102Q148 22 224 22Q294 22 326 82Q345 115 345 210Q345 313 318 349Q292 382 260 382H254Q176 382 136 314Q132 307 129 306T114 304Q97 304 95 310Q93 314 93 485V614Q93 664 98 664Q100 666 102 666Q103 666 123 658T178 642T253 634Q324 634 389 662Q397 666 402 666Q410 666 410 648V635Q328 538 205 538Q174 538 149 544L139 546V374Q158 388 169 396T205 412T256 420Q337 420 393 355T449 201Q449 109 385 44T229 -22Q148 -22 99 32T50 154Q50 178 61 192T84 210T107 214Q132 214 148 197T164 157Z"></path><path stroke-width="0" id="E25-MJMATHI-48" d="M228 637Q194 637 192 641Q191 643 191 649Q191 673 202 682Q204 683 219 683Q260 681 355 681Q389 681 418 681T463 682T483 682Q499 682 499 672Q499 670 497 658Q492 641 487 638H485Q483 638 480 638T473 638T464 637T455 637Q416 636 405 634T387 623Q384 619 355 500Q348 474 340 442T328 395L324 380Q324 378 469 378H614L615 381Q615 384 646 504Q674 619 674 627T617 637Q594 637 587 639T580 648Q580 650 582 660Q586 677 588 679T604 682Q609 682 646 681T740 680Q802 680 835 681T871 682Q888 682 888 672Q888 645 876 638H874Q872 638 869 638T862 638T853 637T844 637Q805 636 794 634T776 623Q773 618 704 340T634 58Q634 51 638 51Q646 48 692 46H723Q729 38 729 37T726 19Q722 6 716 0H701Q664 2 567 2Q533 2 504 2T458 2T437 1Q420 1 420 10Q420 15 423 24Q428 43 433 45Q437 46 448 46H454Q481 46 514 49Q520 50 522 50T528 55T534 64T540 82T547 110T558 153Q565 181 569 198Q602 330 602 331T457 332H312L279 197Q245 63 245 58Q245 51 253 49T303 46H334Q340 38 340 37T337 19Q333 6 327 0H312Q275 2 178 2Q144 2 115 2T69 2T48 1Q31 1 31 10Q31 12 34 24Q39 43 44 45Q48 46 59 46H65Q92 46 125 49Q139 52 144 61Q147 65 216 339T285 628Q285 635 228 637Z"></path><path stroke-width="0" id="E25-MJMAIN-36" d="M42 313Q42 476 123 571T303 666Q372 666 402 630T432 550Q432 525 418 510T379 495Q356 495 341 509T326 548Q326 592 373 601Q351 623 311 626Q240 626 194 566Q147 500 147 364L148 360Q153 366 156 373Q197 433 263 433H267Q313 433 348 414Q372 400 396 374T435 317Q456 268 456 210V192Q456 169 451 149Q440 90 387 34T253 -22Q225 -22 199 -14T143 16T92 75T56 172T42 313ZM257 397Q227 397 205 380T171 335T154 278T148 216Q148 133 160 97T198 39Q222 21 251 21Q302 21 329 59Q342 77 347 104T352 209Q352 289 347 316T329 361Q302 397 257 397Z"></path><path stroke-width="0" id="E25-MJMATHI-4E" d="M234 637Q231 637 226 637Q201 637 196 638T191 649Q191 676 202 682Q204 683 299 683Q376 683 387 683T401 677Q612 181 616 168L670 381Q723 592 723 606Q723 633 659 637Q635 637 635 648Q635 650 637 660Q641 676 643 679T653 683Q656 683 684 682T767 680Q817 680 843 681T873 682Q888 682 888 672Q888 650 880 642Q878 637 858 637Q787 633 769 597L620 7Q618 0 599 0Q585 0 582 2Q579 5 453 305L326 604L261 344Q196 88 196 79Q201 46 268 46H278Q284 41 284 38T282 19Q278 6 272 0H259Q228 2 151 2Q123 2 100 2T63 2T46 1Q31 1 31 10Q31 14 34 26T39 40Q41 46 62 46Q130 49 150 85Q154 91 221 362L289 634Q287 635 234 637Z"></path><path stroke-width="0" id="E25-MJMAIN-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path><path stroke-width="0" id="E25-MJMATHI-4F" d="M740 435Q740 320 676 213T511 42T304 -22Q207 -22 138 35T51 201Q50 209 50 244Q50 346 98 438T227 601Q351 704 476 704Q514 704 524 703Q621 689 680 617T740 435ZM637 476Q637 565 591 615T476 665Q396 665 322 605Q242 542 200 428T157 216Q157 126 200 73T314 19Q404 19 485 98T608 313Q637 408 637 476Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><use xlink:href="#E25-MJMATHI-43" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E25-MJMAIN-35" x="1011" y="-213"></use><g transform="translate(1168,0)"><use xlink:href="#E25-MJMATHI-48" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E25-MJMAIN-36" x="1175" y="-213"></use></g><g transform="translate(2453,0)"><use xlink:href="#E25-MJMATHI-4E" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E25-MJMAIN-32" x="1135" y="-213"></use></g><g transform="translate(3709,0)"><use xlink:href="#E25-MJMATHI-4F" x="0" y="0"></use><use transform="scale(0.707)" xlink:href="#E25-MJMAIN-32" x="1079" y="-213"></use></g></g></svg></span><script type="math/tex">C_{5} H_{6} N_{2} O_{2}</script><span>  (thymine).  They are arranged in a very specific order which describes the instructions necessary to build every protein in an organism.</span></li><li><span>In a process known as transcription, a molecular machine first unwinds a section of the DNA helix to expose the genetic instructions needed to assemble a specific protein molecule.</span></li><li><span>Another machine then copies these instructions to form a molecule known as messenger RNA.</span></li><li><span>When transcription is complete, the RNA strand carries the genetic information through the nuclear pore complex, the gatekeeper for traffic in and out of the cell nucleus.</span></li><li><span>The messenger RNA strand is directed to a two-part molecular factory called a ribosome.</span></li><li><span>After attaching itself securely the process of translation begins.</span></li><li><span>Inside the ribosome, a molecular assembly line builds a specifically sequenced chain of amino acids.</span></li><li><span>These amino acids are transported from other parts of the cell.</span></li><li><span>They are linked into chains often hundreds of units long.  Their sequential arrangement determines the type of protein manufactured.</span></li><li><span>When the chain is finished it is moved from the ribosome to a barrel-shaped machine.</span></li><li><span>It is then folded into the precise shape critical to its function.</span></li><li><span>After the train is folded into a protein it is then released and shepherded by another molecular machine to the exact location where it is needed.</span></li></ul><p><span>These processes, and their order, are so specific, so complex, so difficult to explain with current evolutionary models, that Dean Kenyon, a Professor Emeritus of Biology at San Francisco State University who actually taught Evolutionary Theory, switched teams in 1979 and went on to be a key member in the </span>&ldquo;<span>Intelligent Design</span>&rdquo;<span> movement.</span></p><p><span>The important point here is that if any one thing in the list of processes listed above changes, if one atom in the C</span><sub><span>5</span></sub><span>H</span><sub><span>5</span></sub><span>N</span><sub><span>5</span></sub><span> molecule was different, or the </span>&ldquo;<span>gatekeeper</span>&rdquo;<span> made a bad call or a thousand other possibilities, the cell would either die or mutate, become unsustainable, or it would make the larger organism unsustainable.  This is actually what cancer is, the malformed reproduction of cells that reduce organism</span>&rsquo;<span>s sustainability.  Interestingly, the cancer cell itself can be quite sustainable as an independent cell and only becomes a problem as a community of cells.</span></p><p><span>For a cell to be sustainable, to continue existing, only one process, made up of numerous detailed steps, all of which must function properly, will result in successful functioning and reproduction.  More importantly, we can</span>&rsquo;<span>t explain why any one particular option in any step, out of the countless theoretical options available at each step, is the one step that the process </span>&ldquo;<span>knows</span>&rdquo;<span> to select.</span></p><p><span>To put this in even clearer perspective, using twenty different amino acids to create a very small protein (of 150 amino acids), there are 10</span><sup><span>77</span></sup><span> possible combinations.  In the world of biology, this exponential growth of possibilities is actually called </span><em><span>combinatorial inflation</span></em><span>.  Remember that term, as we</span>&rsquo;<span>ll come back to it later on.  How many of these 10</span><sup><span>77</span></sup><span> possibilities can produce a viable protein? Very few, and of those few only one will work, that being the one that works with the others it must integrate with.  It</span>&rsquo;<span>s not quite as bad as the likelihood of a million monkeys banging on a million typewriters to eventually produce the entire works of Shakespeare, but considering it would take 2,737,850 million-billion-billion-billion monkey-years to produce the line from Hamlet </span>&ldquo;<span>RUMOUR.  Open your ears</span>&rdquo;<sup class='md-footnote'><a href='#dfref-footnote-5' name='ref-footnote-5'>5</a></sup><span>, how likely is the chance that this 1:10</span><sup><span>77</span></sup><span> process could happen successfully 10</span><sup><span>40</span></sup><span> times, which is the number of organisms that have ever existed in the history of the planet? For life to evolve (in the Darwinian sense) as it has over the past 4.5 billion years, this 1:10</span><sup><span>77</span></sup><span> process would need to happen 7x10</span><sup><span>99</span></sup><span> times per second, which equates to every living thing on planet today performing this process 7x10</span><sup><span>74</span></sup><span> times per second! If the vast majority of the 34 trillion cells that make up your body didn</span>&rsquo;<span>t all all hit the jackpot of creating the </span><em><span>same</span></em><span> viable life form millions, if not billions of times a second, life would have never evolved past the bio-goo stage.  Admittedly, these numbers may be inaccurate due to their speculative nature, but the general idea that evolution as a genetic crapshoot sounds far more unreasonable.</span></p><p><span>What we call a cell is a collective of components that not only all work together with miraculous precision, but which seems to have an intelligence of its own that understands the requirements of how each component must operate with each other component in order to preserve and maintain its sustainability, its existence.  Likewise, the components themselves, like the barrel-shaped machine and the transcriptors, are also made of components that have the same intentions and decision-making abilities.</span></p><p><span>Evolutionists will say that all the other options, at one time in our past, were tried, and failed, leaving only the process that worked.  Intelligent Designers will say that this was </span>&ldquo;<span>biochemical predeterminism</span>&rdquo;<span>, i.e.  that the process was pre-programmed, somehow.  Both of these answers are just kicking the can down the road, that </span>&ldquo;<span>can</span>&rdquo;<span> being the question of where and how this historical record of what worked and what didn</span>&rsquo;<span>t work is stored along with the knowledge of a very strict set of rules and conditions that informs the process,  as well as how this data is it accessed.</span></p><p><span>Let</span>&rsquo;<span>s take a look at a couple of macro examples on the social human scale and examine the serious questions it raises about the way we understand it.</span></p><h3><a name="yagé" class="md-header-anchor"></a><span>Yagé</span></h3><p><span>This ritual psychoactive drink from the Amazon is also known as </span><em><span>ayahuasca</span></em><span>, </span><em><span>uni</span></em><span>, </span><em><span>nixi pãe</span></em><span>, </span><em><span>caapi</span></em><span>, </span><em><span>camarampi</span></em><span>, and many other names as well.  One of the more fascinating details about yagé is how it is made and how it was discovered in the first place.  The main active ingredient of yagé is N, N-Dimethyltryptamine (DMT).  DMT is a powerful hallucinogenic drug that exists in plants (and the human brain) yet has no effect on humans when taken orally because of the enzyme </span><em><span>monoamine oxidase</span></em><span> (MAO) in our blood that prevents it from passing the blood/brain barrier, which is a semipermeable membrane that separates the blood from the cerebrospinal fluid and which blocks many cells, particles, and large molecules, from entering the brain.  This is a very good thing, as there is a lot of stuff floating around in our blood that can really mess with the brain.</span></p><p><span>In order for the DMT to get to the brain, it has to pass through the blood/brain barrier, and for that to happen there must be something that stops the MAOs from doing their job.  That thing is called a </span><em><span>MAO Inhibitor</span></em><span> (MAOI).  MAOIs are commonly used in pharmaceuticals to help with ailments such as depression and Parkinson</span>&rsquo;<span>s disease (which, according to Stanford University, are the same two things that tango dancing also helps).</span></p><p><span>Modern science has known about both of these drugs for a little over 100 years.  Indigenous Amazonian shamans have known about them for about 5,000 years.  Somehow, in a manner beyond the ability of modern Western man to comprehend, these shamans managed to discover that the bark of one particular vine, from over 40,000 species of plants, contained a lot of DMT.  They also, somehow, knew that an MAOI was needed, which they found in another of those 40,000 species.  Traditional anthropologists would have you believe they discovered this by trial and error, but with just a little thought, it is clear how ridiculous that theory is.</span></p><p><span>Of the 1,600,000,000 possible pairing combinations of Amazonian plants, only one produces the basis of yagé (it</span>&rsquo;<span>s actually far more complicated to make yagé than just mixing these two plants), and even then, only when a certain part of the plants are used.  In addition, these 1,600,000,000 possibilities do not consider the variables of proportion or the specifics of preparation.  For that many trial-and-error tests, even if every man, woman, and child in all of South America partook in the finding, preparing, and experimenting, it would take over 2,000 years, which then raises the question of record-keeping as to what was already tested.  The fact that modern science expects any semi-intelligent person to believe its trial-and-error theory is laughable, but also pretty frightening that so many scientists </span><em><span>do</span></em><span> believe this.</span></p><h3><a name="curare" class="md-header-anchor"></a><span>Curare</span></h3><p><span>For other substances, such as the paralyzing poison </span><em><span>curare</span></em><span> used by South American indigenous people for hunting, the chances are astronomically greater.</span></p><p><span>Curare is a poison that paralyzes an animal, but soon after being paralyzed the poison is metabolized by the animal, rendering it harmless.  That is obviously a pretty essential requirement, as you can</span>&rsquo;<span>t be eating the same poison you used to catch the animal.  Just imagining that the locals knew of this requirement and then set out to find such a drug somewhere in the Amazon is difficult for modern anthropologists to accept.</span></p><p><span>Beyond that, there are 172 different types of this one-in-40000 species in the jungle, and only one of them works, but the real kicker is that the fumes one is exposed to while preparing the curare are fatal! How does modern science imagine this was achieved?</span></p><blockquote><p><em><span>Wanadi:</span></em><span> </span>&ldquo;<span>Trumak! Mojie just died testing that new batch of curare!</span>&rdquo;</p><p><em><span>Trumak:</span></em><span> </span>&ldquo;<span>Bummer.  And he was so close! Go and try that again, with the same batch… and remember to keep smelling it.  That</span>&rsquo;<span>s how you know it</span>&rsquo;<span>s done.</span>&rdquo;</p><p><span>Wanadi: </span>&ldquo;<span>OK!</span>&rdquo;</p></blockquote><p><span>On the other hand, if one were to ask a shaman how these things were discovered, he would simply say, </span>&ldquo;<span>The plants told us.</span>&rdquo;<span> Other cultures who have similar stories might say their ancestors told them, or the crickets, or the bones of a sacred animal, or the cracks in the shell of a tortoise after it has been heated and then dropped into cold water and then compared to the position of the stars, as was the case with the origins of the Chinese I-Ching.</span></p><p><span>For Western man, talking to plants, insects or bones in this manner is usually followed by pharmaceuticals prescribed by a psychiatrist.  For just about every other indigenous culture, including the indigenous culture that Western civilization grew from, they had some way to tap into this organic database of knowledge.</span></p><p><span>Just as a cellular transcriptor has the intelligence necessary to manage its sustainability, which is then managed by the intelligence of a cell, and up the chain this continues all the way to a human being (which is just a stop along the journey, as we humans are part of a yet larger system), it is not unreasonable to presume there is an </span><em><span>uber</span></em><span>-intelligence that manages its components of humans.</span></p><p><span>Our ancestors called this intelligence </span>&ldquo;<span>the voice of the gods</span>&rdquo;<span> and about 5,000 years ago we started to create the idea of an all-in-one-version of the gods.  This was a very practical idea and worked very well given the context and scope of our ancestor</span>&rsquo;<span>s world view.  It gave one name to all things unknown and satisfied their need for a sense of truth and order.  Once named it was left to humans to try and describe that truth and order.</span></p><h2><a name="the-human-brain-and-reason" class="md-header-anchor"></a><span>The Human Brain and Reason</span></h2><p><span>The American Psychologist Julian Jaynes wrote a very popular book titled </span>&ldquo;<em><span>The Origin of Consciousness in the Breakdown of the Bicameral Mind</span>&rdquo;</em><span> (1976) wherein he explains that during a recent stage in the evolution of not only our ancestor</span>&rsquo;<span>s  brain but entire nervous system we, as humans, had the ability to hear voices in our heads instructing us on what we needed to do and needed to know, and these voices of unknown origin were attributed to the </span>&ldquo;<span>gods</span>&rdquo;<span>, and therefore became the voice of Truth.</span></p><p><img src='../Images/019-bicameral-brain.png' style='width:100%;' /></p><blockquote><p>&ldquo;<span>Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices.  The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images.  The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.</span>&rdquo;<sup class='md-footnote'><a href='#dfref-footnote-6' name='ref-footnote-6'>6</a></sup></p></blockquote><p><span>Jaynes claims that a bit before 1,000 BC (just around the time of the Tower of Babel by Sumerian accounts) the human consciousness was not yet </span>&ldquo;<span>meta-conscious</span>&rdquo;<span>, meaning humans were not aware of their awareness.  The bicameral part of Jaynes theory suggests that there were two parts of the brain, the one that managed mundane jobs, habits, rote tasks, etc.  (the self), and another part which, when faced with confusing and/or difficult challenges, took over (the voice of god).</span></p><blockquote><p><span>[</span><span>For bicameral humans</span><span>]</span><span>, volition came as a voice that was in the nature of a neurological command, in which the command and the action were not separated, in which to hear was to obey.</span></p></blockquote><p><em><span>Sidenote: What we call the </span>&ldquo;<span>ego</span>&rdquo;<span> today evolved out of that really boring and mundane </span>&ldquo;<span>self</span>&rdquo;<span> part of the brain, so it</span>&rsquo;<span>s probably best not to use it for anything other than mundane tasks.</span></em></p><p><span>According to Jaynes, the transition from bicameralism to consciousness (linguistic meta-cognition) occurred over the period from 1,800 BC to 800 BC.  We know this time as the time from when Hammurabi ruled Babylonia, and when he wrote down one of the first set of laws known to humanity dealing with challenging and confusing issues such as contracts, wages, liability, inheritance, divorce, paternity, and reproductive behavior, to name a few, to the founding of Rome.  This metamorphosis of consciousness ushered in the golden age of empires and cultures that laid the foundation of Western Civilization in areas of art, literature, theater, government, philosophy, mathematics, and even sports.  (</span><em><span>I am singling out Western culture simply because that is the culture I best understand and which has the most information available, and not because I think other cultures have not developed along their own lines under similar conditions.)</span></em></p><p><span>From the days of Rome and the ancient Greek philosophers to today our bicameralism has further diminished, which can account for the decreasing incidents of people hearing the gods speak to them.  This may have been a good thing, but the problem that arose as a result of the gods abandoning us, forcing us to apply reason to challenging problems when our pleas for guidance were ignored, is that our newly developed tools of reason were prone to reject any ideas that we could not understand, which were many given we were still new at the whole reasoning thing during some very desperate times.  Our fledgling ability to consciously make sense of things seemed to be working, so it naturally dominated our world view, even if we were, and are, still figuring out how it works.</span></p><p><span>Still, as Jaynes so eloquently puts it:</span></p><blockquote><p><span>The mind is still haunted with its old unconscious ways; it broods on lost authorities; and the yearning, the deep and hollowing yearning for divine volition and service is with us still.</span></p></blockquote><p><span>Hence, religion.</span></p><p><span>Anything and everything that did not fit into the highly constrained and </span>&ldquo;<span>reasonable</span>&rdquo;<span> worldview was pushed farther and farther outside the box of mainstream thought until we arrived at where we are today.  In one way this </span>&ldquo;<span>inquisition-by-reason</span>&rdquo;<span>, which served to purge heretical thoughts from the dogma of the cult of reason, was, and is, quite necessary and useful, because in the reformation that has begun, those ancient ideas that can withstand the tests of our deeper understanding of reason will be resurrected in a new form with a broader and modern understanding.</span></p><p><span>The memories of the cell, the voices in our ancestor</span>&rsquo;<span>s heads, the wisdom of the plants as heard by the shamans, and countless other instances of </span>&ldquo;<span>divine</span>&rdquo;<span> or </span>&ldquo;<span>mystical</span>&rdquo;<span> knowledge, all beg the same questions: Where does this information come from? Where is it stored? How does one access it?</span></p><p><span>Perhaps </span><em><span>reason</span></em><span> has evolved to the point where we may be able to answer these questions, reasonably.</span></p><h2><a name="the-path-of-reason" class="md-header-anchor"></a><span>The Path of Reason</span></h2><p><span>The rules and conditions of reality that we have discovered have followed a perfectly reasonable path long before man was able to claim them as such.  Sometimes it takes a while to find them, but eventually, we do, so far.</span></p><p><img src='../Images/020-planet-logs.png' style='width:100%;' /></p><p><span>For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were.  It wasn</span>&rsquo;<span>t until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear.  This became Kepler</span>&rsquo;<span>s Third Law of Planetary Motion that states </span><em>&ldquo;<span>the square of the planet</span>&rsquo;<span>s orbital period is proportional to the cube of its distance from the sun.</span>&rdquo;</em><span> In the same manner, we discovered DNA is a helix because of hydrogen bonds, etc., so we can say </span>&ldquo;<span>Here is a pattern and the rules that created it.</span>&rdquo;</p><p><span>This is not to say everything that the gatekeepers of the Church of Reason consider </span>&ldquo;<span>unreasonable</span>&rdquo;<span>, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical concepts are, indeed, </span>&ldquo;<span>unreasonable.</span>&rdquo;<span> On the contrary, it</span>&rsquo;<span>s quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our modern boundaries.  Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life.  These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked.  Once we discovered Bernoulli</span>&rsquo;<span>s law</span><sup class='md-footnote'><a href='#dfref-footnote-7' name='ref-footnote-7'>7</a></sup><span> works in harmony with the law of gravity we mastered the magic art of flying.</span></p><h4><a name="claim-22-reason-is-the-codification-of-the-rules-of-a-reality-as-we-have-come-to-know-it" class="md-header-anchor"></a><strong><span>Claim 22:</span></strong><span> Reason is the codification of the rules of a reality as we have come to know it.  </span></h4><h3><a name="the-benevolence-of-self-preservation" class="md-header-anchor"></a><span>The benevolence of self-preservation</span></h3><p><span>If our reasoning is based on the world we observe, then this implies that everything in nature, everything in the universe, must, therefore, be reasonable, but sometimes the reasoning we have derived from our observations is inaccurate or lacking.</span></p><h4><a name="claim-23-the-rules-of-reason-are-predetermined-based-on-the-rules-of-our-reality-that-we-have-recognized-and-these-rules-require-that-any-ldquoreasonrdquo-that-exists-must-abide-by-them" class="md-header-anchor"></a><strong><span>Claim 23:</span></strong><span> The rules of reason are predetermined based on the rules of our reality that we have recognized, and these rules require that any </span>&ldquo;<span>reason</span>&rdquo;<span> that exists must abide by them.  </span></h4><p><span>Take, for example, our reasoning behind the evolutionary drive for self-preservation.  We assume it is a somewhat selfish, yet necessary, biological drive passed down through our genes in order to increase the genes chances of reproducing themselves.  This makes sense if we see the world only as a bunch of individual entities competing for resources.</span></p><p><span>Another way to see self-preservation is from the perspective of the larger organism that is composed of many contributing organisms.</span></p><p><span>Take the example of a collective, such as a tribe.  If the collective is destroyed, then all its members also suffer from that loss.  The collective, then, has a strong responsibility to the members.  On the other hand, if the members were to become damaged in some way, the collective suffers as well.  So, the collective will both attempt to preserve itself for the sake of its members and preserve the members for the sake of itself.  We don</span>&rsquo;<span>t think of a collective as an organism, but all organisms are collectives, therefore collectives </span><em><span>can</span></em><span> be organisms.  Now apply this reasoning to an animal.  The animal will attempt to preserve itself for the sake of its </span>&ldquo;<span>members</span>&rdquo;<span>  (organs, limbs, cells, etc.), and preserve its members for the sake of itself.  In the case of a tree, a tree will attempt to protect itself for the sake of its members which it needs to maintain sustainability.  For example, besides bark and thorns, a tree will emit chemicals that attract the enemies of the invading species, which is pretty amazing when you wonder about how it </span>&ldquo;<span>knows</span>&rdquo;<span> how to do that.  A leaf will attempt to protect itself with fine hairs, spines or thorns, bitter and even toxic substances.  We tend to think of a tree as a thing that has a trunk, branches and leaves, but it can also be understood as a collective organism made up of other collective organisms, such as trunk, branch and leaf, each taking care of itself.</span></p><p><span>From the perspective of the parent organism, such as the collective, it is worth losing a member if that means it will benefit the collective and/or the ability of the collective to preserve its members.</span></p><p><span>One example of this are the cardiac muscle cells that have the self-preservation ability to duck, dart, and dodge foreign substances, but these actions may harm the cells to the point where they can cause a fatal heart attack, all in an attempt to preserve themselves, even though they are killing their parent organism.</span></p><p><span>Some theorize that they do this because there is a greater chance of the heart surviving if the cells can avoid damage and hold out for the possibility of the heart being resuscitated.  A far more reasonable explanation is that the component elements of a person (the cells, in this case) are compelled to preserve </span><em><span>their</span></em><span> component elements (nucleus, chromatins, cytoplasm, organelles, etc.).  Killing the parent organism is not its concern, nor within the scope of its influence as preservation of the members is the concern of the parent organism, who has obviously failed to protect its components in this case.  The sacrificed parent organism of </span><em><span>person</span></em><span>, which exists within the collective (tribe, community, country, etc.) will only lose one (improperly functioning) member.  </span></p><p><span>In this particular example of cardiac cells, their self-preservation can be fatal to the collective (or </span><em><span>person</span></em><span>), but in most cases losing a few cells is not fatal to a person, but by the same token, the </span><em><span>uber</span></em><span> organism that humans are a part of (family, society, government, etc.) only forfeits one human.  This is happening in our own bodies 60 billion times a day, as that is how many of our own cells die, and are created, every day.</span></p><h4><a name="claim-24-the-most-efficient-model-for-a-collective-is-individual-self-preservation" class="md-header-anchor"></a><strong><span>Claim 24:</span></strong><span> The most efficient model for a collective is individual self-preservation.</span></h4><p><span>Seeing self-preservation more as a protecting-the-family-of-component-parts makes much more sense </span><em><span>if</span></em><span> we also see that every organism in the hierarchy of life, from cells to cities, is an individual entity.</span></p><p><span>Just as an entity will endanger its collective in an attempt to preserve its members, a collective will sacrifice a member for the betterment of the whole.</span></p><p><span>This perspective also explains how a person is able to sacrifice itself for the sake of another, even though they have no genetic connection to the other person, ruling out genetic preference as is the case when a parent sacrifices themselves for their child.  This would also suggest that our most basic drive is not only the survival of the self, but also the survival of something more important than the self, yet still be self-serving.  We see this in cases of love, honor, country, god, etc., and other examples of a collective.</span></p><p><span>You might be thinking that this is a trait unique to humans, but this is not the case.  We see cases of this in single-cell organisms</span><sup class='md-footnote'><a href='#dfref-footnote-8' name='ref-footnote-8'>8</a></sup><span>, multi-cellular organisms</span><sup class='md-footnote'><a href='#dfref-footnote-9' name='ref-footnote-9'>9</a></sup><span> (such as slime mold, where, when faced with scant resources, certain cells will sacrifice themselves for the sake of the greater organism.</span><sup class='md-footnote'><a href='#dfref-footnote-10' name='ref-footnote-10'>10</a></sup><span>), virulent parasites</span><sup class='md-footnote'><a href='#dfref-footnote-11' name='ref-footnote-11'>11</a></sup><span>, plants</span><sup class='md-footnote'><a href='#dfref-footnote-12' name='ref-footnote-12'>12</a></sup><span>, to name a few.  Of course, in society, this is clearly exemplified in soldiers willing to die for their country or ideology, as well as countries willing to send their soldiers into war.</span></p><p><span>This self-sacrificing quality turns out to be fairly common across life in general.  Quoting the paper published in </span><em><span>the International Academy of Ecology and Environmental Sciences</span></em><span>, </span>&ldquo;<span>Invasive cancer as an empirical example of evolutionary suicide</span>&rdquo;<sup class='md-footnote'><a href='#dfref-footnote-13' name='ref-footnote-13'>13</a></sup><span>:</span></p><blockquote><p><span>In recent years, a large portion of the literature has focused on evolutionary suicide.  </span>&ldquo;<span>Darwinian extinction</span>&rdquo;<span> or evolutionary suicide is one of the most important findings in adaptive dynamics </span><span>[</span><span>which inevitably bring us to the conclusion</span><span>]</span><span> that evolutionary theory falls short of adequately explaining the phenomenon of life in its fullness and complexity.  This is due to the fact that </span><span>[</span><span>evolutionary suicide</span><span>]</span><span> is not a rare or special case and that it can occur in the most common ecological conditions.</span></p></blockquote><p><span>We also see a less dramatic version of this in genomes which will, rather then commit suicide, reduce their own replication rate to help other genomes.</span><sup class='md-footnote'><a href='#dfref-footnote-14' name='ref-footnote-14'>14</a></sup></p><p><span>This perspective is reasonable and does a better job of explaining how, any why, life operates the way it does.  With ideas such as wave functions and the many-worlds theory of quantum physics, the morphic field of biology, the research into hyper-time telepathic communication (for long-distance space travel), self-determining AI, etc., it</span>&rsquo;<span>s easy to see how what we accept as </span>&ldquo;<span>reasonable</span>&rdquo;<span> will dramatically change as we learn how these new processes of reality and life work.</span></p><p><span>Some may see this as an example of </span>&ldquo;<span>Intelligent Design.</span>&rdquo;<span> We prefer the term </span>&ldquo;<span>Coherent Integration</span>&rdquo;<span> to represent an integrated self-similar pattern of moving energy that extends far above and below that sliver of the reality spectrum that we are attuned to perceive.</span></p><p><span>This idea is essentially the same one that was put forth 250 years ago by the man who not only laid the foundations of modern economics but did so specifically with the ideas of eliminating poverty and increasing sustainability.  His name was Adam Smith, and he referred to this power of self-preservation in his </span><em><span>Theory of the Invisible Hand</span></em><span>, described in his book </span><em>&lsquo;<span>An Inquiry into the Nature and Causes of the Wealth of Nations</span>&rsquo;</em><span> published in 1776.  </span></p><blockquote><p><span>The natural effort of every individual to better his own conditions, when suffered to exert itself with freedom and security, is so powerful a principle, that it is alone, and without assistance, not only capable of carrying on the society to wealth and prosperity, but of surmounting a hundred impertinent obstructions with which the folly of human laws too often encumber its operations.</span></p><p><span>It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.</span></p></blockquote><h5><a name="-adam-smith-1776" class="md-header-anchor"></a><span>~</span><span> Adam Smith, 1776</span></h5><p><span>Applying this idea to society also suggests that the most sustainable practice for the world at large can be summed up in a phrase that is attributed to international banks, John Lennon and Yoko Ono, Buckminster Fuller and more</span><sup class='md-footnote'><a href='#dfref-footnote-15' name='ref-footnote-15'>15</a></sup><span> </span>&hellip;<span> </span>&ldquo;<span>Think globally, act locally</span>&rdquo;<span>.  This is easily practiced by spending your money at local businesses rather than Walmart or Amazon, or simply, to quote Mother Theresa when asked “What can we do to promote world peace?”, “Go home and love your family.”</span></p><h4><a name="claim-25-there-is-an-order-to-creative-processes-and-creations-themselves-are-a-product-of-order" class="md-header-anchor"></a><strong><span>Claim 25:</span></strong><span> There is an order to creative processes, and creations themselves are a product of order.  </span></h4><h2><a name="applied-reason" class="md-header-anchor"></a><span>Applied Reason</span></h2><p><span>How have we used our reasoning skills to understand the nature of reality and our universe? One of the most fundamental concepts we have created in this regard it that of </span><em><span>cycles</span></em><span>.  Cycles are the way we describe </span><em>&ldquo;<span>any complete round or series of occurrences that repeats or is repeated.</span>&rdquo;</em><span> Cycles, as we understand and define them, are the product of applying reason to the redundancies and repeating patterns we observe around us, and even within us.</span></p><p><span>On the other end of the spectrum, we have sophisticated and complex theories as to how reality came into existence, and how the cycles of existence began in the first place.</span></p><p><span>We understand the concept of cycles easily enough, but let</span>&rsquo;<span>s look at some of the more popular ideas that represent our best reasoning abilities regarding the cycle that started it all and how everything that exists began.</span></p><h3><a name="big-bang" class="md-header-anchor"></a><span>Big Bang</span></h3><p><span>This seems to be the most popular theory and it comes with various finales (Big Freeze, Big Rip, Big Crunch) and states that 14 billion years ago there was nothing and nowhere, the primal void.  Then, for reasons unknown, something the size of a subatomic particle appeared in this void of nothingness and in a fraction of a second expanded to perpetually fill and expand the entirety of what we call the Universe (which is estimated to be about 90 billion light-years wide, so far).</span></p><p><span>Can you see the relationship between the Big Bang Theory and the harmonograph as a device that takes an initial push and then takes some time to create a two-dimensional design on a blank surface as that initial energy slowly diminishes? If one could imagine a 12-dimensional harmonograph with countless variables in each dimension, one might be able to imagine how it could easily </span>&ldquo;<span>draw</span>&rdquo;<span> a 3-dimensional universe.</span></p><h3><a name="eternal-inflation" class="md-header-anchor"></a><span>Eternal Inflation</span></h3><p><span>This is also called a </span>&ldquo;<span>Level II Multiverse</span>&rdquo;<span> and states a) after the Big Bang the universe never stopped inflating, b) that this has been going on for an infinite amount of time and c) it continually creates new universes (multiverses) that also exist for infinite time.  It is not clear how something can have a beginning, can be created, and yet exist for infinite time as there can be no </span>&ldquo;<span>beginning</span>&rdquo;<span> to infinite time, but we</span>&rsquo;<span>re talking quantum theory stuff, so, I guess anything is possible in that world where time and space may mean something different then what we are used to, if they mean anything at all.  The paper Stephen Hawking was working on when he died claims this theory is for the birds, that there is only one universe, and this can be proven if we just get rid of the concept of time… so, even the rebuttal to this theory is inconceivable.  </span></p><h3><a name="oscillating-universe" class="md-header-anchor"></a><span>Oscillating Universe</span></h3><p><span>Also called the </span>&ldquo;<span>cyclic model</span>&rdquo;<span> and involves an endless series of Big Bangs, followed Big Crunches, and is explained by the collisions of high-dimensional </span>&ldquo;<span>membranes</span>&rdquo;<span> in a higher-dimensional space.</span></p><p><span>The question this model raises is, does the </span>&ldquo;<span>memory</span>&rdquo;<span> of the previous </span>&ldquo;<span>bangs</span>&rdquo;<span> survive each crunch? We address the idea of universal memory later, so we won</span>&rsquo;<span>t get into it here other than to ask if each new bang is a hard reset.</span></p><h3><a name="holographic-simulation-hypothesis" class="md-header-anchor"></a><span>Holographic simulation hypothesis </span></h3><p><span>The idea that reality is </span>&ldquo;<span>just</span>&rdquo;<span> a simulation has been around for a long time.  The roots of such an idea go back to the </span>&ldquo;<span>Skeptical hypotheses</span>&rdquo;<span> of ancient Greece and the </span>&ldquo;<span>The Butterfly Dream</span>&rdquo;<span> of 3rd century B.C.  Chinese philosopher Zhuang Zhou.  These ideas found more form in the </span>&ldquo;<span>Cartesian doubt</span>&rdquo;<span> of René Descartes, finally culminating in Oxford philosopher Nick Bostrom</span>&rsquo;<span>s </span>&ldquo;<span>Simulation hypothesis</span>&rdquo;<span> theory and book </span><em>&ldquo;<span>Are you living in a computer simulation?</span>&rdquo;</em><span> in 2003 (also a documentary</span><sup class='md-footnote'><a href='#dfref-footnote-16' name='ref-footnote-16'>16</a></sup><span>).</span></p><p><span>This theory that we live in a simulation has moved out of the philosopher</span>&rsquo;<span>s chair and into the science lab where bits of supporting evidence were discovered.  In this scenario, the Big Bang would be the equivalent of a cosmic hacker flipping the </span>&ldquo;<span>on</span>&rdquo;<span> switch to their </span>&ldquo;<span>Reality Framework Server</span>&rdquo;<span>.  This theory posits that reality is a simulated projection and black holes are the projectors, with the </span><em><span>event horizon</span></em><span> of a black hole (the point from which nothing escapes) acting as a diffraction grid for the energy it is projecting to form a </span>&ldquo;<span>reality</span>&rdquo;<span>, just like a hologram.</span></p><p><span>We think of this world as analog, but it may well be digital, albeit with a level of resolution far beyond our ability to perceive (which would make sense if one were designing a simulation).  This grid is made up of a series of 1s and 0s, each </span>&ldquo;<span>bit</span>&rdquo;<span> occupying a square Planck length.  To put this in perspective, the number of </span>&ldquo;<span>bits</span>&rdquo;<span> on the surface of </span><em><span>V616 Monocerotis</span></em><span>, our nearest black hole </span>&ldquo;<span>projector</span>&rdquo;<span> a mere 3,000 light-years away, is around 2.3313x10</span><sup><span>88</span></sup><span>.  There are only 10</span><sup><span>82</span></sup><span> atoms in the universe (we think), so, that is a big number.</span></p><p><span>This is just from one of the 100 million black hole projectors in our galaxy alone, and we already know of 500 billion galaxies just within our range of observation, so we know of at least 5 x 10</span><sup><span>19</span></sup><span> </span>&ldquo;<span>reality projecting CPUs</span>&rdquo;<span> (for lack of a better term), that are all working in perfect synchronization, theoretically.</span></p><p><span>Even more mind-bending is the possibility that the reality that is being projected is only </span>&ldquo;<span>rendered</span>&rdquo;<span> on-demand, i.e.  this reality simulation creates wave functions of possibilities that only </span>&ldquo;<span>collapse</span>&rdquo;<span> into form when they are observed.  Apparently, creating actual physical reality is a </span>&ldquo;<span>CPU</span>&rdquo;<span> intensive task, or perhaps this reality was developed by creators that could only get their hands on a low-end simulator.</span></p><p><span>I would also question the use of the word </span>&ldquo;<span>simulation</span>&rdquo;<span>, for that implies it is an artificial rendition of something that already exists.  It is more like a </span><em><span>bona fide</span></em><span> creation, albeit one that may have been designed around a specific model, or for a specific (yet unknown) purpose.</span></p><p><span>What is missing in the list of current theories are many of those ideas that are not based in science, but rather legend, creation myths and beliefs.  I skipped them not because they are not valid, but simply because there are too many of them, but modern theories are surprisingly in-line with the creation myths of the Judeo-Christian, Islam, Hindu, Zoroastrian, Taoist, Buddhist and even Aboriginal Australian, the world</span>&rsquo;<span>s oldest civilization</span><sup class='md-footnote'><a href='#dfref-footnote-17' name='ref-footnote-17'>17</a></sup><span>, and cycles of creations is implicit in all of them, and explicit in many of them.  We would expect to see this similarity between radically different perspectives, such as science and religion, if they were all attempting to understand the same thing.</span></p><p><span>The common thread of modern and ancient creation theories and stories is that they are all versions of the plot-line that begins with </span><em><span>nothingness</span></em><span>, followed by a </span><em><span>somethingness</span></em><span>, and everything that ever did or ever will exist does so between these two states of chaos.</span></p><h4><a name="claim-26-all-dualities-stem-from-the-first-duality" class="md-header-anchor"></a><strong><span>Claim 26:</span></strong><span> All dualities stem from the first duality.  </span></h4><h3><a name="what-goes-where" class="md-header-anchor"></a><span>What Goes Where? </span></h3><p><span>If the two primal opposing end-points of the spectrum of our reality are </span><em><span>somethingness</span></em><span> and </span><em><span>nothingness</span></em><span>, that leaves a lot of space for pretty much anything to exist.</span></p><p><span>The range of possibilities between these two (or any two) states is naturally distributed and looks something like your standard Bell curve.  There is a very good reason for this: because the probabilities of what can happen between two states, regardless of the number of variables at play, will always tend toward a </span><em><span>normal</span></em><span> (in the statistical sense of the word) distribution.</span></p><p><span>If we had the ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would be in the middle.  This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner.  This chart below is a general concept of this idea.  </span></p><p><img src='../Images/021-supercurve1.png' style='width:100%;' /></p><p><span>We see this sort of distribution everywhere in nature.  In fact, in the world of theoretical biology, this is called </span><em><span>environmental dimensionality</span></em><span> and describes how various biological systems coexist.</span><sup class='md-footnote'><a href='#dfref-footnote-18' name='ref-footnote-18'>18</a></sup><span>  This suggests that the stuff in the middle represents the most effective expression of energy for our reality, not unlike the previous example of the blooming flower.  </span></p><h4><a name="claim-27-the-most-likely-and-persistence-state-of-anything-including-ideas-that-exists-as-a-result-of-other-states-will-be-where-the-most-balance-exists-between-those-other-states" class="md-header-anchor"></a><strong><span>Claim 27:</span></strong><span> The most likely and persistence state of anything (including ideas) that exists as a result of other states will be where the most balance exists between those other states.  </span></h4><h4><a name="claim-28-order-emerges-most-efficiently-in-a-balanced-state" class="md-header-anchor"></a><strong><span>Claim 28:</span></strong><span> Order emerges most efficiently in a balanced state.  </span></h4><p><span>For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light.  This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green.  This makes sense as we evolved in a world that was very green thanks to chlorophyll and its oxygen producing photosynthesis.  Other life-forms have other ranges of sensitivity depending on their context or environment.  A fascinating example of this is the Movile Caves in Romania.  These caves were sealed off 5,000,000 years ago, yet within the hostile environment, rich in hydrogen sulfide gas and sulfuric acid, at least 33 news species of life have evolved and flourished feeding off the bacteria that eats rocks and other inorganic material (</span><em><span>chemosynthetic bacteria</span></em><span>).</span></p><p><img src='../Images/022-eyecurve1.png' style='width:100%;' /></p><p><span>The oscillations between two states, be they the two states of chaos, or order and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.  This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort.</span></p><p><span>Were this duality to no longer exist in a state of imbalance or difference, the cycles of creations would also cease.  How, then, is a stable state of imbalance always maintained? Remember the example of the two lakes, one higher than the other? Once all the water has moved to the lower lake the water just sits there, doing nothing, and that is the end of the cycle unless somehow the water gets moved back into the higher lake.  Nature does this quite effectively by using another imbalance in another system that causes water to evaporate due to heat, heat that was created by the process of clouds of hydrogen atoms joining together (fusion) to create new elements and transmitted to earth via oscillating energy.  These evaporated molecules join together in the sky and eventually fall back to earth and find their way, via entropy, to rivers and lakes, thereby ensuring the cycle of energy-seeking-balance remains operating.  Difference must be maintained for energy to work, and what we call nature is the balancing of countless balancing processes that are themselves the result of balancing processes, etc., all the way down to the first process of balance (which we</span>&rsquo;<span>ll detail later).</span></p><h2><a name="waves" class="md-header-anchor"></a><span>Waves</span></h2><p><span>When we look at simple waves, such as light waves, radio waves, sound waves, we see an oscillation of energy.  This is the result of movement of energy over time.</span></p><p><span>On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc.  On the material level, we have mechanical waves, such as sound waves.  On the organic level and beyond (planets, life, culture, politics, etc.</span><sup class='md-footnote'><a href='#dfref-footnote-19' name='ref-footnote-19'>19</a></sup><span>) we don</span>&rsquo;<span>t use the term </span><em><span>waves</span></em><span>, instead, we call them </span><em><span>cycles</span></em><span>, but they represent the same thing as waves but in a different context and scope.</span></p><p><img src='../Images/023-sinewave.png' style='width:100%;margin:auto;' /></p><p><span>If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength.  </span>&ldquo;<span>Frequency</span>&rdquo;<span> and </span>&ldquo;<span>wavelength</span>&rdquo;<span> are typically terms we use to describe waves of radiation and vibration, such as light and sound, but we </span><em><span>could</span></em><span> say the moon has a wavelength of about 50 million km, with a frequency of 0.00599584916 Hz, or that the migration cycle of the Arctic Tern, a bird that flies back and forth between the Arctic and the Antarctic every year has a frequency of 1/yr., with a wavelength of 70,000 km (which is how far they travel every year).  We don</span>&rsquo;<span>t because it</span>&rsquo;<span>s cumbersome, non-intuitive and fairly useless information in our current paradigm.</span></p><p><span>As meaningless as these terms are for such cases, it does not take away from the idea that these natural cycles are the expressions of the same law that light waves operate under in the transference of energy, but on a different level of expression, on a higher order of complexity, size and dependency where instead of photons we have birds and planets.</span></p><p><span>Another example might be the interdependent cycles of cohabiting rabbits and coyotes.  It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic function, the transference of energy in an attempt to create balance, just in two very different scopes and contexts. </span></p><p><img src='../Images/024-predcycle.png' style='width:100%;' /></p><p>&nbsp;</p><h3><a name="not-just-a-cycle" class="md-header-anchor"></a><span>Not Just a Cycle</span></h3><p><span>It may be that there is more to waves than just a simple periodic cycle, at least in the way it interacts with its environment.  For example, when we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represents incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research</span><sup class='md-footnote'><a href='#dfref-footnote-20' name='ref-footnote-20'>20</a></sup><span> into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude.  Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree.  It</span>&rsquo;<span>s almost as if the inhabitants of earth unconsciously knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.</span></p><p><img src='../Images/world-sine.png' style='width:100%'/></p><p><span>The two most common classes of waves are electromagnetic (subatomic particles) and mechanical (particles, M-waves).  If we were to compare them we would see similarities that we could also identify in cycles, such as those mentioned here, but that is beyond the scope of this book as it would be a book itself.  We can at least compare the properties of the two common classes of waves.</span></p><p><img src='../Images/waves.png' style='width:70%'/></p><p><span>Yes, for all you physicists and electrical/mechanical engineers that might be reading this with extreme incredulity, the differences between electromagnetic (EM) and mechanical (M) waves are many.  We would expect energy to express its movement quite differently when operating under the laws of subatomic particles than that of matter, but even so, there will be many analogous parallels between the two.  </span></p><p><span>To put their contexts and scopes in perspective, consider that an electron is 100 million times smaller than an atom, and 20 trillion times smaller than a chromosome, let alone the sizes we are talking about for typical M wave medium, like things you can hold in your hand.  Compare that to the Milky Way galaxy, which is 167,256,410 times the size of our solar system, and the earth is only 1/38000 the size of that.  The difference between an electron and a beach ball is about the same difference between a beach ball and the entire galaxy.  With that in mind, consider that the ratio of the actual universe compared to the observable universe is equivalent to an atom compared to the observable universe.  It</span>&rsquo;<span>s easy to imagine how a fundamental law might be expressed differently at these different scales.</span></p><p><img src='../Images/025-beachball.png' style='width:100%'/></p><p><span>More important than the differences are the similarities, such as the way energy travels through a medium via waves.  All forms of energy are simply a redirection of energy from one state to another, as energy is neither created nor destroyed.  This is the very first law of thermodynamics, the conservation of energy.  We have identified many forms of energy: sound, chemical, radiant, electrical, atomic, mechanical, elastic, ionization, gravitational, dark (that</span>&rsquo;<span>s the energy causing the universe to expand faster than we think it should), so is it unreasonable to imagine still more forms of energy? Are emotions like love or fear, desires, thoughts, or even imagination a redirection of energy? And what form does that energy take? Can we say that we know of every type of medium and every type of cycle and the laws that control them? I don</span>&rsquo;<span>t think so, but we can begin by applying the fundamental laws of energy and cycles.</span></p><p><span>We can only recognize energy as one form or another, not as pure energy itself.  An everyday example of this is the fact that you can</span>&rsquo;<span>t see or detect light until the light energy hits something, like a wall or a dust particle or the optical cell in your eye. The same is true for electricity.  The real mind-bender here is that the dust particle itself is just energy (as is all mass according to </span><em><span>m=Ec</span><sup><span>2</span></sup></em><span>), so we can only see one form of energy when that energy interacts with another form of energy.  As everything is energy interacting with energy it is easy to understand why we claim that everything that exists (i.e.  has sustainable patterns of energy and interacts with other forms of energy) must oscillate in some sort of medium.  We also claim we are not aware of every form of medium or expression of energy that exists.  </span></p><p><span>What about energy that does not oscillate, like </span><em><span>direct current</span></em><span> electricity? While it is true that the current itself has no frequency, were the electrons in a direct current not returned to the source and recycled, the current would eventually run out of electrons.  A direct current actually is a slow moving cycle of electrons.  While </span><em><span>alternating current</span></em><span> is caused by electrons staying in one place and juggling back and forth 60 times a second (in the U.S.), passing a charge down the wire close to the speed-of-light, the force of </span><em><span>direct current</span></em><span> is always in the same directions, like a river, and while it is passing the current along at the same speed, the electrons are also being dragged down the wire at about 3 miles per hour, which is the speed that they return to the source, so the cycle is pretty slow, but it is still a cycle. Energy itself does not oscillate or have a frequency. It is constant and never-changing in its pure form.  The oscillation comes from its interactions, or expressions. Direct current is the most common in nature; lightning, static electricity, bio-luminescence, solar particles, etc.</span></p><p><span>We do not have words for many things as we have yet to recognize them and therefore can</span>&rsquo;<span>t describe them, measure them or even identify them.  It is not just reasonable to speculate that in the realm of ideas and forms there are also cycles and a medium that is completely new to us, it</span>&rsquo;<span>s quite unreasonable not to, as they too are an expression of energy.</span></p><h4><a name="claim-29-we-can-only-see-the-interactions-of-energy-and-not-the-energy-itself" class="md-header-anchor"></a><strong><span>Claim 29:</span></strong><span> We can only see the interactions of energy, and not the energy itself.  </span></h4><p><span>This begs the questions </span>&ldquo;<span>What </span><em><span>is</span></em><span> energy? </span>&ldquo;<span> And the answer is… are you sitting down? Drum-roll, please</span>&hellip;<span> </span><em>&ldquo;<span>The ability to perform work.</span>&rdquo;</em><span> Yup, that is the culmination of thousands of years of research and investigation in search of an answer as to why and how reality exists.  Problem solved (we</span>&rsquo;<span>ll come back to this later).</span></p><h4><a name="claim-30-a-high-state-of-order-delivers-more-ldquoworkrdquo" class="md-header-anchor"></a><strong><span>Claim 30:</span></strong><span> A high state of order delivers more </span>&ldquo;<span>work</span>&rdquo;</h4><h2><a name="simple-cycles" class="md-header-anchor"></a><span>Simple Cycles</span></h2><p><span>Let</span>&rsquo;<span>s look at the simple cycle again as the archetypal pattern that describes the movement of energy through a medium, regardless of the medium.  In some contexts, this pattern is quite measurable, in others, it is analogous, such as in the migration pattern of the Arctic Tern.</span></p><p><span>When we examine the predator-prey cycles, we can see they follow the same cyclical archetype of light, or electricity, or sound.  Below we show a typical predator pray cycle (taken from a Northern Arizona University biology online-class). On the left is the data over time, and on the right is the </span>&ldquo;<span>Phase plan</span>&rdquo;<span>, or the graph of the relationship between the two variable (wolves and rabbits).  This is a naturally occurring cycle, but you&#39;ll notice that the two cycles natural  </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.657ex" height="3.635ex" viewBox="0 -1016.6 713.6 1564.9" role="img" focusable="false" style="vertical-align: -1.274ex;"><defs><path stroke-width="0" id="E27-MJMAIN-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path stroke-width="0" id="E27-MJMAIN-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="473" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E27-MJMAIN-31" x="84" y="645"></use><use transform="scale(0.707)" xlink:href="#E27-MJMAIN-34" x="84" y="-616"></use></g></g></svg></span><script type="math/tex">\frac{1}{4}</script><span> a wavelength apart, which is the maximum difference any two waves can have.  We also see this in electricity, where voltage lags current by </span><span class="MathJax_SVG" tabindex="-1" style="font-size: 100%; display: inline-block;"><svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.657ex" height="3.635ex" viewBox="0 -1016.6 713.6 1564.9" role="img" focusable="false" style="vertical-align: -1.274ex;"><defs><path stroke-width="0" id="E27-MJMAIN-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path><path stroke-width="0" id="E27-MJMAIN-34" d="M462 0Q444 3 333 3Q217 3 199 0H190V46H221Q241 46 248 46T265 48T279 53T286 61Q287 63 287 115V165H28V211L179 442Q332 674 334 675Q336 677 355 677H373L379 671V211H471V165H379V114Q379 73 379 66T385 54Q393 47 442 46H471V0H462ZM293 211V545L74 212L183 211H293Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)"><g transform="translate(120,0)"><rect stroke="none" width="473" height="60" x="0" y="220"></rect><use transform="scale(0.707)" xlink:href="#E27-MJMAIN-31" x="84" y="645"></use><use transform="scale(0.707)" xlink:href="#E27-MJMAIN-34" x="84" y="-616"></use></g></g></svg></span><script type="math/tex">\frac{1}{4}</script><span> wave, so here wolves are acting like </span><em><span>voltage</span></em><span>, and rabbits are acting like </span><em><span>current</span></em><span>. Or perhaps, given that the electric and magnetic fields in a wave are 90</span>&deg;<span> apart, perhaps the wolves are equivalent to </span><em><span>electricity</span></em><span> and the rabbits, </span><em><span>magnetism</span></em><span>? </span></p><p><span>The middle graph shows the same relationship between two waves, but for perfect sine-wave, like the kind you would see with light or energy, and beside it, relationship of a perfect circle.  This is the archetype of the predator pray cycle.  The bottom shows the same charts, but in the case of no energy, or no wolves or rabbits, and therefore represents the highest order of archetypes, which is just a dot and a line.  </span></p><p><img src='../Images/predprey.png' style='width:100%;' /></p><p><span>If we combine the two wolf/rabbit or sine-wave frequencies, we can see the frequency of the change between the two variables.</span></p><p><img src='../Images/predpreydelta.png' style='width:100%;' /></p><p><span>You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, positive/negative, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.</span></p><p><span>In humanity</span>&rsquo;<span>s quest to understand reality and its processes, either through religion, culture, economics, nature, alchemy or science, we keep bumping into the same universal constants and concepts.</span></p><div class='footnotes-area'  ><hr/>
+<div class='footnote-line'><span class='md-fn-count'>1</span> <span>Livio, M. (n.d.). </span><strong><span>Why Math Works</span></strong><span>. </span><a href='https://www.scientificamerican.com/article/why-math-works/' target='_blank' class='url'>https://www.scientificamerican.com/article/why-math-works/</a> <a name='dfref-footnote-1' href='#ref-footnote-1' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>2</span> <span>Britannica, T. E. (2019, April 08). </span><strong><span>Laws of thought</span></strong><span>. </span><a href='https://www.britannica.com/topic/laws-of-thought' target='_blank' class='url'>https://www.britannica.com/topic/laws-of-thought</a> <a name='dfref-footnote-2' href='#ref-footnote-2' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>3</span> <strong><span>15</span></strong><span> </span><strong><span>Insane Things That Correlate With Each Other</span></strong><span>. (n.d.). </span><a href='http://www.tylervigen.com/spurious-correlations' target='_blank' class='url'>http://www.tylervigen.com/spurious-correlations</a> <a name='dfref-footnote-3' href='#ref-footnote-3' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>4</span> <span>Abreu, N. (n.d</span><strong><span>.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.</span></strong><span> </span><a href='http://cref.tripod.com/tucsonpaper.htm' target='_blank' class='url'>http://cref.tripod.com/tucsonpaper.htm</a><span> Science of Self Club, University of Florida</span> <a name='dfref-footnote-4' href='#ref-footnote-4' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>5</span> <a href='https://www.infinitemonkeylab.com/' target='_blank' class='url'>https://www.infinitemonkeylab.com/</a> <a name='dfref-footnote-5' href='#ref-footnote-5' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>6</span> <span>Jaynes, Julian (2000) </span><span>[</span><span>1976</span><span>]</span><span>. </span><strong><span>The origin of consciousness in the breakdown of the bicameral mind</span></strong><span> (PDF). Houghton Mifflin. p.73.ISBN 978-0-618-05707-8.</span> <a name='dfref-footnote-6' href='#ref-footnote-6' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>7</span> <span>Fast-moving air is at a lower pressure than slow-moving air, so the pressure above the wing is lower than the pressure below, and this creates the lift that powers the plane upward.</span> <a name='dfref-footnote-7' href='#ref-footnote-7' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>8</span> <span>Fiegna and Velicer, 2003</span> <a name='dfref-footnote-8' href='#ref-footnote-8' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>9</span> <span>Rankin and Kokko, 2006; Muir and Howard, 1999</span> <a name='dfref-footnote-9' href='#ref-footnote-9' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>10</span> <span>Rainey, Paul B. </span><strong>&ldquo;<span>Precarious Development: The Uncertain Social Life of Cellular Slime Molds.</span>&rdquo;</strong><span> Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639-2640., doi:10.1073/pnas.1500708112. </span><a href='https://www.pnas.org/content/pnas/112/9/2639.full.pdf' target='_blank' class='url'>https://www.pnas.org/content/pnas/112/9/2639.full.pdf</a> <a name='dfref-footnote-10' href='#ref-footnote-10' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>11</span> <span>De Roode et al., 2005</span> <a name='dfref-footnote-11' href='#ref-footnote-11' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>12</span> <span>Gersani et al., 2001</span> <a name='dfref-footnote-12' href='#ref-footnote-12' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>13</span> <span>Ahmed Ibrahim, </span><strong>&ldquo;<span>Invasive cancer as an empirical example of evolutionary suicide</span>&rdquo;</strong><span>, Network Biology, 06/2014, v. 4 2</span> <a name='dfref-footnote-13' href='#ref-footnote-13' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>14</span> <span>Levin, Samuel R., and Stuart A. West. </span><strong><span>“The Evolution of Cooperation in Simple Molecular Replicators.”</span></strong><span> Proceedings of the Royal Society B: Biological Sciences 284, no. 1864 (November 2017): 20171967. </span><a href='https://doi.org/10.1098/rspb.2017.1967' target='_blank' class='url'>https://doi.org/10.1098/rspb.2017.1967</a><span>.</span> <a name='dfref-footnote-14' href='#ref-footnote-14' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>15</span> <span>R. Buckminster Fuller, Jr. (1895-1983), </span><a href='http://mindprod.com/ethics/quote.html' target='_blank' class='url'>http://mindprod.com/ethics/quote.html</a><span>; Rene&#39; Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, </span><a href='http://capita.wustl.edu/ME567_Informatics/concepts/global.html' target='_blank' class='url'>http://capita.wustl.edu/ME567_Informatics/concepts/global.html</a><span>; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. </span><a href='http://www.everything2.com/index.pl?node_id=680227' target='_blank' class='url'>http://www.everything2.com/index.pl?node_id=680227</a><span>; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: </span><a href='http://www.kotesol.org/daegu/2006conf/brochure_2006.htm' target='_blank' class='url'>http://www.kotesol.org/daegu/2006conf/brochure_2006.htm</a><span>; Mother Theresa, </span><a href='http://rubelshelly.faithsite.com/content.asp?CID=19276' target='_blank' class='url'>http://rubelshelly.faithsite.com/content.asp?CID=19276</a><span>; unattributable </span><a href='http://www.oursouthwest.com/news/quotes1sd.htmcfo' target='_blank' class='url'>http://www.oursouthwest.com/news/quotes1sd.htmcfo</a> <a name='dfref-footnote-15' href='#ref-footnote-15' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>16</span> <strong><span>The Simulation Hypothesis Documentary</span></strong><span>. (2018, August 01). </span><a href='https://youtu.be/pznWo8f020I' target='_blank' class='url'>https://youtu.be/pznWo8f020I</a> <a name='dfref-footnote-16' href='#ref-footnote-16' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>17</span> <span>Klein, Christopher. </span>&ldquo;<strong><span>DNA Study Finds Aboriginal Australians World</span>&rsquo;<span>s Oldest Civilization.</span></strong>&rdquo;<span> History.com, A&amp;E Television Networks, 23 Sept. 2016, </span><a href='https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization' target='_blank' class='url'>https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization</a> <a name='dfref-footnote-17' href='#ref-footnote-17' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>18</span> <span>Parvinen, Kalle, and Ulf Dieckmann. </span><strong>&ldquo;<span>Environmental Dimensionality</span>&rdquo;</strong><span>. </span><em><span>Journal of Theoretical Biology</span></em><span>, 2018, doi: 10.1016/j.jtbi.2018.03.008. </span><a href='https://www.ncbi.nlm.nih.gov/pubmed/29551543' target='_blank' class='url'>https://www.ncbi.nlm.nih.gov/pubmed/29551543</a> <a name='dfref-footnote-18' href='#ref-footnote-18' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>19</span> <strong><span>List of cycles</span></strong><span>. (2019, April 27). </span><a href='https://en.wikipedia.org/wiki/List_of_cycles' target='_blank' class='url'>https://en.wikipedia.org/wiki/List_of_cycles</a> <a name='dfref-footnote-19' href='#ref-footnote-19' title='back to document' class='reversefootnote' >↩</a></div>
+<div class='footnote-line'><span class='md-fn-count'>20</span> <strong>&ldquo;<span>Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World</span>&rdquo;</strong><span> </span><a href='https://grahamhancock.com/geographic-geometric-relationships-alisonj/' target='_blank' class='url'>https://grahamhancock.com/geographic-geometric-relationships-alisonj/</a> <a name='dfref-footnote-20' href='#ref-footnote-20' title='back to document' class='reversefootnote' >↩</a></div></div></div>
+</body>
+</html>

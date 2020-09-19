@@ -18,7 +18,7 @@ The reason this book is open-sourced is to allow other&rsquo;s insights to be in
 On a more mundane level, and for those readers who are sticklers about writing style conventions in the U.S., I have deliberately chosen to: 
 
 - Place punctuation (that are not part of the quote) outside of quotes.  The convention of placing punctuation inside the quotes was adopted due to the limitations of fixed width fonts in the pre-digital age.  The British convention has punctuation outside of quotes, but that is because they use single quotes, not double quotes.  To quote William Strunk and E. B. White, &ldquo;[t]ypographical usage dictates the comma be inside the marks, though logically it seems not to belong there&rdquo;.  I agree, and take the side of Canadian poet, typographer and author Robert Bringhurst who bravely stated that is “makes no *typographic* difference” if quotation marks “follow commas and periods or precede them”.
-- Follow periods with two spaces, not one.  The two-space rule was also in place due to fixed width fonts, but unlike the punctuation-quotes rules, it has fierce opposition. Even the American Psychological Association has gone form officially recommending one space, to one or two spaces, to two spaces (6th addition), then back to one space (7th edition). I will be using two spaces because it has been shown that using two spaces after a period increases text processing ability [^207].  
+- Follow periods with two spaces, not one.  The two-space rule was also in place due to fixed width fonts, but unlike the punctuation-quotes rules, it has fierce opposition. Even the American Psychological Association has gone form officially recommending one space, to one or two spaces, to two spaces (6th addition), then back to one space (7th edition). I will be using two spaces because it has been shown that using two spaces after a period increases text processing ability [^1].  
 - While it is customary to spell out numbers in a sentence, for the most part numbers in a sentence are shown as numerals. This is to allow for numerical values to be easily recognizable, which, like the above point, increases text processing overhead.
 
 <div style='page-break-after: always; break-after: page;'></div>
@@ -40,7 +40,7 @@ I am not really sure what the difference is between the first two definitions.  
 
 There is also the Ancient Greek mythological definition of the word χάος, *Khaos*, referring to the void state preceding the creation of the universe or cosmos and personified in the Greek creation myths as the god who was &ldquo;*the first created being, from which came the primeval deities Gaia, Tartarus, Erebus, and Nyx.&rdquo;*
 
-In physics, chaos is defined as &ldquo;The property of a complex system whose behavior is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions.&rdquo;, but as science writer James Gleick points out[^1]:
+In physics, chaos is defined as &ldquo;The property of a complex system whose behavior is so unpredictable as to appear random, owing to great sensitivity to small changes in conditions.&rdquo;, but as science writer James Gleick points out:[^2] 
 
 > No one \[of the chaos scientists he interviewed\] could quite agree on \[a definition of\] the word itself, and so instead gives descriptions from a number of practitioners in the field.  Those scientists that do have a definition are hardly in agreement, as Philip Holmes defined &ldquo;chaotic&rdquo; as, &ldquo;The complicated aperiodic attracting orbits of certain, usually low-dimensional dynamical systems.&rdquo; while Bai-Lin Hao describes chaos as &ldquo;a kind of order without periodicity.&rdquo;
 
@@ -48,7 +48,7 @@ Another term for *chaos* comes from cosmology, and that is the *primal void.*
 
 Modern cosmology&rsquo;s Big Bang theory is quite compatible with this idea that before there was anything, there was nothing but a primal void, a term often used by scientists themselves.  The primal void is a descriptive synonym for at least one state of chaos.
 
-The primal void has also been called the *gap between heaven and earth*, the *abyss*, *absolute-limitless nothing*, *ex nihilo*, and a number of other terms all trying to convey the idea of total and absolute nothingness, a concept that may well be impossible for the human mind to grasp.  This nothingness also includes (or rather, excludes) the concept of time, as there can be no time in a void of nothingness, at least according to Stephen Hawking.[^2]
+The primal void has also been called the *gap between heaven and earth*, the *abyss*, *absolute-limitless nothing*, *ex nihilo*, and a number of other terms all trying to convey the idea of total and absolute nothingness, a concept that may well be impossible for the human mind to grasp.  This nothingness also includes (or rather, excludes) the concept of time, as there can be no time in a void of nothingness, at least according to Stephen Hawking.[^3]
 
 Everyone from scientists to mystics seems to agree that before there was something, there was nothing, and then, presto, somethingness appeared in the nothingness.
 
@@ -65,7 +65,7 @@ ecause of the existence of nothingness.  These are heady and paradoxical concept
 
 Nevertheless, we accept the story, in one form or another, that once upon a time, before time even existed, there was an infinite void of nothingness, and then, badda-boom, badda-bing, something appeared in this nothingness&hellip; and not just any something, but the totality of all somethingness that has, does, or ever will exist.  Just as 0^0^=1, nothing to the power of nothing apparently equals something, and from that something, all things.
 
-How many things other than zero are there? In theory, infinite, but in reality, nothing is actually infinite even if it appears so.  This apparent contradiction plagued philosophy and science for quite a long time[^3] until Einstein came up with a clever answer.
+How many things other than zero are there? In theory, infinite, but in reality, nothing is actually infinite even if it appears so.  This apparent contradiction plagued philosophy and science for quite a long time[^4] until Einstein came up with a clever answer.
 
 According to Einstein&rsquo;s Field Equations, the universe is not infinite, but rather &ldquo;finite and unbounded&rdquo;, which is a clever way to say &ldquo;infinite, but finite.&rdquo; Think of the 2D surface of a ball.  It is essentially infinite in that you can travel on it forever and never get to the end, but it is bounded, or finite, in that it only occupies a finite space.  The 3D reality that is our Universe is the same, according to Einstein, but like the 3D &ldquo;surface&rdquo; of a 4D space.
 
@@ -77,7 +77,7 @@ Some colloquial, older definitions of chaos describe it as matter before there w
 
 #### **Claim 1:** Chaos is a state lacking any order, time or energy.  Total nothingness.  
 
-Chaos also has another definition that means exactly the opposite, similar to the &infin;=0 concept (scientists do that a lot).  Take, for example, the study of chaos in the origins of the universe that was undertaken by Chicago&rsquo;s Northwestern University physicist Adilson Motter, who concluded that 10<sup>-36</sup> seconds after the Big Bang happened there was a state of *total chaos*.  Do you know what was happening at 10<sup>-36</sup> seconds after the Big Bang? Everything, and in a temperature of over 1 trillion degrees.  Motter concluded from his study [^199]:
+Chaos also has another definition that means exactly the opposite, similar to the &infin;=0 concept (scientists do that a lot).  Take, for example, the study of chaos in the origins of the universe that was undertaken by Chicago&rsquo;s Northwestern University physicist Adilson Motter, who concluded that 10<sup>-36</sup> seconds after the Big Bang happened there was a state of *total chaos*.  Do you know what was happening at 10<sup>-36</sup> seconds after the Big Bang? Everything, and in a temperature of over 1 trillion degrees.  Motter concluded from his study [^5] :
 
 >  &ldquo;Now we establish once and for all that \[the universe\] is chaotic.&rdquo; 
 
@@ -90,7 +90,7 @@ We are not claiming here that the Big Bang theory is correct (because it sounds 
 
 The definition of chaos that works for both is *&ldquo;the degree that order is present in any state.&rdquo;* Both of those states, of total nothingness and total somethingness, have no order.  In one case because that state is empty of anything, and in the other case because that state is full of everything in a moment that everything was happening at once.  Granted, that total state of chaos (after the Big Bang) only lasted 10<sup>-36</sup> seconds, but that doesn&rsquo;t change the fact that total chaos existed at the birth of the Universe.
 
-Perhaps the most useful definition of chaos comes from the authors of &ldquo;*Introduction to Complex Systems, Sustainability and Innovations*&rdquo;[^193], which simply states:
+Perhaps the most useful definition of chaos comes from the authors of &ldquo;*Introduction to Complex Systems, Sustainability and Innovations*&rdquo;[^6], which simply states:
 
 > Chaos explores the transitions between order and disorder.  An order arises from the ever growing disorder of the Universe - chaos and order together.
 
@@ -119,7 +119,7 @@ When speaking of dualities we need to be clear on what we mean, because there ar
 
 Without getting too much into philosophy here, the idea of archetypal forms is a very Platonic idea.  Plato&rsquo;s *Theory of ideas* is the hypothesis that everything that exists is a material instance of an ideal version, or perfect idea, of that thing.
 
-It is also a very Kant-ish idea, and a very Locke-ish, Descartes-ish and Hume-ish idea, for all these great thinkers, plus many more, had the understanding in one form or another that *things* were primarily *ideas* first.  Not all philosophers and scientists-of-old agreed, and in in the good ol&rsquo; days the debate usually boiled down to some form of &ldquo;is there a god?&rdquo;[^143] Today, science tends to shy away from the concept of a god, but asks equally impossible questions, such as &ldquo;it reality a hologram?&rdquo; or &ldquo;is existence a simulation?&rdquo;, etc.  That question is answered in this book, but the answer is as maddening as it is enlightening, and words like &ldquo;yes&rdquo; or &ldquo;no&rdquo; become meaningless.
+It is also a very Kant-ish idea, and a very Locke-ish, Descartes-ish and Hume-ish idea, for all these great thinkers, plus many more, had the understanding in one form or another that *things* were primarily *ideas* first.  Not all philosophers and scientists-of-old agreed, and in in the good ol&rsquo; days the debate usually boiled down to some form of &ldquo;is there a god?&rdquo;[^7] Today, science tends to shy away from the concept of a god, but asks equally impossible questions, such as &ldquo;it reality a hologram?&rdquo; or &ldquo;is existence a simulation?&rdquo;, etc.  That question is answered in this book, but the answer is as maddening as it is enlightening, and words like &ldquo;yes&rdquo; or &ldquo;no&rdquo; become meaningless.
 
 For pretty much all of man&rsquo;s history there has been an archetypal, theoretical, spiritual or mystical concept of a realm of ideas.  In this realm, forms, in their unmanifest, uninstantiated state, are simply ideas; the perfect cube, for example, is a concept we all can grasp, but whose instances in the material world can only approach.  These archetypal forms follow archetypal laws for if they did not then the relationship between the area of a circle and its radius could just as well be &ldquo;elephant toes on Tuesday afternoon&rdquo;, or &ldquo;cat dog moo&rdquo;, or any other randomness.
 
@@ -161,21 +161,21 @@ Some laws are *universal*, and some are *local*.  However, what is *universal* t
 
 An example of a *local* law might be the Standard Model of particle physics that describes the relationship between three of the four fundamental forces and the elementary particles that make up the matter in our universe.  This is a set of laws and constants that apply to particle physics.  You don&rsquo;t see this model replicated in larger systems because the model only makes sense when dealing with the reality of sub-atomic particles.  Likewise, Oort constants only apply to the rotational properties of the Milky Way.
 
-Science calls the scope of our everyday Newtonian reality *Macrorealism*[^4] or *Local Realism*, and the subatomic scope is called *Quantum Mechanics*.  Understanding how different laws operate in different scopes is an area of intense research and has led to such landmark experiments like Bell&rsquo;s inequalities (the math that enables the distinction between two different views of reality, typically the relativistic view vs.  the quantum view), Einstein-Podolsky-Rosen paradox (which speculates that every particle in the universe knows the state of every other particle in the universe at all time, and that no two particles in the universe have the same state), and the Leggett-Garg inequality (which states that in the quantum world something can be in two states at the same time, which is impossible for the macroscopic world), to name a few.
+Science calls the scope of our everyday Newtonian reality *Macrorealism*[^8] or *Local Realism*, and the subatomic scope is called *Quantum Mechanics*.  Understanding how different laws operate in different scopes is an area of intense research and has led to such landmark experiments like Bell&rsquo;s inequalities (the math that enables the distinction between two different views of reality, typically the relativistic view vs.  the quantum view), Einstein-Podolsky-Rosen paradox (which speculates that every particle in the universe knows the state of every other particle in the universe at all time, and that no two particles in the universe have the same state), and the Leggett-Garg inequality (which states that in the quantum world something can be in two states at the same time, which is impossible for the macroscopic world), to name a few.
 
 #### **Claim 8:** Local laws and constants are valid only within the context of their scope.  
 
-An example of universal laws or patterns that span many scopes might be the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377&hellip;&sdot;) and its constant ratio of Phi (φ), also called the Golden Ratio (1:1.618).  This number is the ratio that not only pops up in galaxies and seashells but, according to some evolutionary and chemical scientists[^5], is the ratio that keeps everything in existence in order and is the shape of space-time itself.
+An example of universal laws or patterns that span many scopes might be the Fibonacci sequence (0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377&hellip;&sdot;) and its constant ratio of Phi (φ), also called the Golden Ratio (1:1.618).  This number is the ratio that not only pops up in galaxies and seashells but, according to some evolutionary and chemical scientists[^9], is the ratio that keeps everything in existence in order and is the shape of space-time itself.
 
 <img src='../Images/003-phi-shell.png'  style='width:100%;margin:auto;'/>
 
-Another universal law might be simple fractal math formulas, like $f(x)= x^{2}-1$, which seem to mimic nature and can be found across all forms of existence[^6], suggesting that self-similarity is a universal property.  *Power laws* explain how a relative change in one measurement can result in a proportional relative change in another measurement (e.g.  logarithmic or exponential), and we see these across all levels of existence as well.  These universal laws can be found in astronomy, physics, biology, meteorology, cosmology, mathematics, economics, and many other areas including society, wealth and work distribution, competition, media exposure, and much more.
+Another universal law might be simple fractal math formulas, like $f(x)= x^{2}-1$, which seem to mimic nature and can be found across all forms of existence[^10], suggesting that self-similarity is a universal property.  *Power laws* explain how a relative change in one measurement can result in a proportional relative change in another measurement (e.g.  logarithmic or exponential), and we see these across all levels of existence as well.  These universal laws can be found in astronomy, physics, biology, meteorology, cosmology, mathematics, economics, and many other areas including society, wealth and work distribution, competition, media exposure, and much more.
 
 <img src='../Images/004-fractalprocesstri.png' style='width:100%;margin:auto;' />
 
 <img src='../Images/005-fracgened.png' style='width:100%;margin:auto;' />
 
-A good visual example of the results of a universal law, perhaps the first universal law, is the distribution of energy across the known universe.  This is known as *cosmic microwave background* radiation.  This is a form of energy that fills the universe and is considered the smoking-gun evidence of the Big Bang[^174].  This chart below shows the temperature of the universe, in Kelvin (from cold -3364 &micro;K to hot 3364 &micro;K).  Typically, this chart is shown more oval in shape, but it does not have to be.  Look familiar?
+A good visual example of the results of a universal law, perhaps the first universal law, is the distribution of energy across the known universe.  This is known as *cosmic microwave background* radiation.  This is a form of energy that fills the universe and is considered the smoking-gun evidence of the Big Bang[^11].  This chart below shows the temperature of the universe, in Kelvin (from cold -3364 &micro;K to hot 3364 &micro;K).  Typically, this chart is shown more oval in shape, but it does not have to be.  Look familiar?
 
 <img src='../Images/CMB.png' style='width:80%' />
 
@@ -201,7 +201,7 @@ One theory that sheds light on new thinking about chaos and order is David Bohm&
 
 ##### \~Bohm, &ldquo;Wholeness and the Implicate Order&rdquo;
 
-To demonstrate this concept, Bohm uses an ink droplet analogy.  In this demonstration, he places three drops of ink into a cylinder of glycerin.  He then spins the cylinder which &ldquo;mixes&rdquo; the ink droplets together.  He then reverses the spin and reconstructs the ink drops.  When the ink droplets are in their original form, at the beginning and the end of the spinning, they are *explicitly* ink droplets and have the *order* of ink drops.  When they are mixed up together, they are *implicitly* ink droplets only, and their order would be considered *chaotic* because there is no order of ink drops.  The order of the ink drops has been destroyed, but the information of that order exists as a *virtual* ink-drop within the chaos of their mixed state.[^7]
+To demonstrate this concept, Bohm uses an ink droplet analogy.  In this demonstration, he places three drops of ink into a cylinder of glycerin.  He then spins the cylinder which &ldquo;mixes&rdquo; the ink droplets together.  He then reverses the spin and reconstructs the ink drops.  When the ink droplets are in their original form, at the beginning and the end of the spinning, they are *explicitly* ink droplets and have the *order* of ink drops.  When they are mixed up together, they are *implicitly* ink droplets only, and their order would be considered *chaotic* because there is no order of ink drops.  The order of the ink drops has been destroyed, but the information of that order exists as a *virtual* ink-drop within the chaos of their mixed state.[^12]
 
 <img src='../Images/inkdrop-new.png' style='width:100%;' />
 
@@ -232,7 +232,7 @@ A simple analogy would be to compare entropy to water in lakes, rivers, and the 
 
 This is also how batteries work.  A charged battery has low entropy (high usable energy), and a dead battery has high entropy (no usable energy).  A dead battery still has all the energy it had before, but it is no longer usable because the energy, in the form of electrons, has moved from the negative side of the battery to the positive side until it achieved balance and there are no more electrons left on the negative side of the battery that were compelled by the laws of balance (or entropy?) to move&hellip;  but they are still in the battery, and still acting like electrons.  
 
-In the good ol&rsquo; days (1930s to 1960s) classical physics defined entropy as *disorder*, but this is not really accurate.  More accurately, entropy &ldquo;*provides insights into the notions of randomness, typicality and disorder*&rdquo; [^184].  For an excellent overview of the misconceptions of entropy, see &ldquo;*Entropy as Disorder: History of a Misconception*&rdquo;  [^185] A better way to think about entropy is that it is a measure of energy dispersion; the more entropy, the more equally energy is dispersed.  Another way to state this is to say that entropy is a measure of the lack of energy available for work.  This describes our dead batter, which still has all the elections and their energy , but they are useless (from a battery&rsquo;s  work perspective).  Because this dispersion is the result of energy always seeking balance, can we say that entropy is a measure of the state of balance?  Sure, why not? As you&rsquo;ll see, the definition of entropy has been changed for for every discipline that uses it.  
+In the good ol&rsquo; days (1930s to 1960s) classical physics defined entropy as *disorder*, but this is not really accurate.  More accurately, entropy &ldquo;*provides insights into the notions of randomness, typicality and disorder*&rdquo; [^13].  For an excellent overview of the misconceptions of entropy, see &ldquo;*Entropy as Disorder: History of a Misconception*&rdquo;  [^14] A better way to think about entropy is that it is a measure of energy dispersion; the more entropy, the more equally energy is dispersed.  Another way to state this is to say that entropy is a measure of the lack of energy available for work.  This describes our dead batter, which still has all the elections and their energy , but they are useless (from a battery&rsquo;s  work perspective).  Because this dispersion is the result of energy always seeking balance, can we say that entropy is a measure of the state of balance?  Sure, why not? As you&rsquo;ll see, the definition of entropy has been changed for for every discipline that uses it.  
 
 In the water example, if we have two identical bodies of water, one 100 feet above the other, we say that the upper body of water has lower entropy than the lower body of water, and the lower body of water has higher entropy than the upper body of water, but there is no difference between these two bodies of water when compared independently.  The difference only appears when compared to each other, because one is higher than the other.  We can say that both bodies are in a (slightly) higher state of chaos when they are not connected because they have more entropy because there is no movement of energy.  Once they are connected, and the water begins to flow, there is movement of energy, and order follows.
 
@@ -260,7 +260,7 @@ In other areas of study, the definition of entropy carries the same idea of diso
 
 In fact, the definition of entropy is so varied that it is not uncommon for experts in the field to ask 
 
-> &ldquo;As a consequence of this diversity of uses and concepts [of entropy], we may ask whether the use of the term entropy has any meaning.  Is there really something linking this diversity, or is the use of the same term with so many meanings just misleading?&rdquo; [^200]
+> &ldquo;As a consequence of this diversity of uses and concepts [of entropy], we may ask whether the use of the term entropy has any meaning.  Is there really something linking this diversity, or is the use of the same term with so many meanings just misleading?&rdquo; [^15]
 
 ##### ~ Annick Lesne, author and researcher at the *Institut des Hautes Etudes Scientifiques*
 
@@ -278,7 +278,7 @@ These laws always ensure that everything will operate at its most efficient leve
 
 The optimum condition for the movement of energy between two states is one that operates within the limitations and abilities of both of those conditions.
 
-A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*.  This is a fascinating and entertaining device that creates an oscillation from takes an initial push (low entropy) and then draws a two-dimensional oscillating design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).[^8]
+A beautiful example of entropy and inertia that works today as much as it did thousands of years ago can be easily demonstrated with something called the *harmonograph*.  This is a fascinating and entertaining device that creates an oscillation from takes an initial push (low entropy) and then draws a two-dimensional oscillating design on a blank paper as that initial energy slowly diminishes (inertia), until it stops (high entropy).[^16]
 
 <img src='../Images/008-harmonograph.png' style='width:80%;margin:auto;' />
 
@@ -286,7 +286,7 @@ A beautiful example of entropy and inertia that works today as much as it did th
 
 ## Pattern
 
-We recognize that patterns exist in nature, life, physics, math, etc., and it can be useful to think of patterns like rivers that have been etched into the terrain of reality from the first moments of creation and represent a path of least resistance for the movements of energy, be it electrical, physical, conceptual, emotional or otherwise.  Reality, no matter the scope or how one perceives it, is build upon layers and layers of patterns.  A recurring theme in this book is about recognizing patterns that repeat in various themes, contexts, and scopes.  Some of these meta-patterns are clear, such as the Fibonacci sequence and exponential curves, while others are more hidden and even challenges our ideas of what defines a pattern.  A nice book on this subject is &ldquo;*Patterns in nature: Why the natural world looks the way it does*&rdquo; [^190].  
+We recognize that patterns exist in nature, life, physics, math, etc., and it can be useful to think of patterns like rivers that have been etched into the terrain of reality from the first moments of creation and represent a path of least resistance for the movements of energy, be it electrical, physical, conceptual, emotional or otherwise.  Reality, no matter the scope or how one perceives it, is build upon layers and layers of patterns.  A recurring theme in this book is about recognizing patterns that repeat in various themes, contexts, and scopes.  Some of these meta-patterns are clear, such as the Fibonacci sequence and exponential curves, while others are more hidden and even challenges our ideas of what defines a pattern.  A nice book on this subject is &ldquo;*Patterns in nature: Why the natural world looks the way it does*&rdquo; [^17].  
 
 When some of what follows was presented to an accomplished physicist it was immediately disregarded as &ldquo;blooey&rdquo; on the basis that just because two phenomena share the same pattern doesn&rsquo;t mean they have anything to do with each other.  The position of this book is that any two phenomena that share the same pattern are, at least, two instances of one pattern.  A Ford Fairlane in Chicago and a Ford Fairlane in Argentina have no direct connection to one another, but some of what is learned about one will apply to the other.  The tricky part is knowing what information is rooted in the what patterns versus the instance and its context.  For example, the Ford Fairlane in Chicago was a &ldquo;muscle car&rdquo; and a source of pride among its fans while that same car in Argentina was used by the secret police of the Dictatorship during the &ldquo;Dirty War&rdquo; and was a source of fear and intimidation, but an Argentine mechanic could work on that same car in Chicago, even it seeing it filled him with dread.  Sixty years later, few Argentines would choose to own a Ford Fairlane, yet quite a few Chicagoans would be thrilled to own one.  
 
@@ -294,7 +294,7 @@ While the subjects of this comparison can be defined by patterns of culture, eco
 
 > [Superstition is a form of] mutilated knowledge that, from fragments casually collected or from dark, partial, and undeveloped intuitions creates a coherent order of images according to a logic dictated by the passions that dominate from time to time.
 
-##### ~ Remo Bodei, professor, history of philosophy, UCLA.[^191]
+##### ~ Remo Bodei, professor, history of philosophy, UCLA.[^18]
 
 ## Oscillation
 
@@ -351,7 +351,7 @@ The following concepts are the same in both examples:
 - **Voltage** would be analogous to water pressure, which determines how far the water shoots out of the pipe.
 - **Resistance** is represented by the size of the pipe the water is flowing through.
 
-Ohm&rsquo;s law is actually Newton&rsquo;s 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity[^9], defining the *object* as *electricity*, the *force* as *current*, the *mass* as *resistance*, and the *acceleration* as *voltage*.
+Ohm&rsquo;s law is actually Newton&rsquo;s 2nd Law of Motion, t*he force of an object is equal to its mass times acceleration*, as it applies to electricity[^19], defining the *object* as *electricity*, the *force* as *current*, the *mass* as *resistance*, and the *acceleration* as *voltage*.
 
 ##### A word on patterns and Ohm&rsquo;s  Law…
 
@@ -438,7 +438,7 @@ We can calculate for these missing zvolts by applying the simple formula:
 
 which equates to *zvolts (z) = Speed of Light (c^2^) &times; Mass (m)*.  
 
-This then becomes (using the ISU standard[^10] units of measure) *zvolts = 30,000,000 m/s &times; 1 g*, (or *8.98&times;10^16^ m^2^/s^2^*) which makes zvolts = 300,000,000.  
+This then becomes (using the ISU standard[^20] units of measure) *zvolts = 30,000,000 m/s &times; 1 g*, (or *8.98&times;10^16^ m^2^/s^2^*) which makes zvolts = 300,000,000.  
 
 So zvolts is the same value as *c*? Yes, but only when the *mass=1*.  If we use a different mass, like 2, zvolts becomes *c&times;2*, which is then:  *zvolts = 300,000,000 m/s &times; 2 g*, which makes zvolts = 600,000,000, and if mass=0, then zvolts = 0.  
 
@@ -484,17 +484,17 @@ Of course, universal laws such as gravity and electromagnetism apply to all syst
 
 Many scientists will tell you there is no relationship between atoms and solar systems, and that this analogy depends on an old and outdated concept of the atom, writing it off off as humanity&rsquo;s tendency to oversimplify the complex and over-relate the unrelated.
 
-No doubt this is true to some degree, but more importantly, there are some similarities worth investigating that would give us an idea of the laws that both systems deploy in the most efficient way they can be expressed, given their scope.  Some scientists agree, as we can see in the paper published in June, 1989, by the *International Journal of Theoretical Physics* titled &ldquo;*Self-Similar Cosmological model: Introduction and Empirical Tests*&rdquo;[^11] which examines this concept specifically.
+No doubt this is true to some degree, but more importantly, there are some similarities worth investigating that would give us an idea of the laws that both systems deploy in the most efficient way they can be expressed, given their scope.  Some scientists agree, as we can see in the paper published in June, 1989, by the *International Journal of Theoretical Physics* titled &ldquo;*Self-Similar Cosmological model: Introduction and Empirical Tests*&rdquo;[^21] which examines this concept specifically.
 
 This report concluded:
 
 > The simplicity of \[the Self-Similar Cosmological Model (SSCM)\] and its ability to quantitatively relate atomic, stellar, and galactic scale phenomena suggest that a new property of nature has been identified: discrete cosmological self-similarity.  Although the SSCM is still in the early heuristic stage of development, it may be the initial step toward a truly remarkable unification of our considerable, but fragmented, physical knowledge.
 
-A more organic example of this inter-scope self-similarity[^12] is to compare the structure of the universe to a brain cell, or the birth of a cell and the death of a star, or the human eye and a nebula, and countless other examples.
+A more organic example of this inter-scope self-similarity[^22] is to compare the structure of the universe to a brain cell, or the birth of a cell and the death of a star, or the human eye and a nebula, and countless other examples.
 
 <img src='../Images/brain-eye-nebula.png' style='width:100%;' />
 
-There are many matching patterns between cells and the universe, and it is a subject far too broad to get into here.  One recently published paper[^13] shows the similarity in structure of a neutron star and a human cell.  Other comparisons based on scientific and rational observations have also been noted, such as:
+There are many matching patterns between cells and the universe, and it is a subject far too broad to get into here.  One recently published paper[^23] shows the similarity in structure of a neutron star and a human cell.  Other comparisons based on scientific and rational observations have also been noted, such as:
 
 -   mitochondria vs.  stars
 -   Vacuoles vs.  galaxies.
@@ -516,7 +516,7 @@ It might even cause some incurably curious researchers to wonder if there was a 
 
 Here is what Hans van Leunen, a physicist from the Eindhoven University of Technology, Dept.  of Applied Physics, and founder of The Hilbert Book Model project, which applies mathematical test models in order to investigate the foundation of physical reality, has to say about this as well:
 
-> &ldquo;Obviously, physical reality possesses structure, and this structure founds on one or more foundations.  These foundations are rather simple and easily comprehensible.  The major foundation evolves like a seed into more complicated levels of the structure, such that after a series of steps a structure results that appears like the structure of the physical reality that humans can partly observe.[^14]
+> &ldquo;Obviously, physical reality possesses structure, and this structure founds on one or more foundations.  These foundations are rather simple and easily comprehensible.  The major foundation evolves like a seed into more complicated levels of the structure, such that after a series of steps a structure results that appears like the structure of the physical reality that humans can partly observe.[^24]
 
 ##### \~ Hans van Leunen, The Structure of Physical Reality
 
@@ -530,7 +530,7 @@ In other words, he is saying that there are self-similar and redundant orders in
 
 #### **Claim 16**: Reality is a structured hierarchy of dualities which starts out very simple, each specific generation limited by the structures of the duality they emerged from.
 
-You can read his paper[^15], but unless you know your way around multidimensional Hilbert space lattices, it going to be a tough read.
+You can read his paper[^25], but unless you know your way around multidimensional Hilbert space lattices, it going to be a tough read.
 
 For purposes of this book, I am going to define a  *scope* or *order of creation*, (or *level*, as Hans van Leunen would say), as that creative cycle from which an apparent order emerges out of a state of the apparent disorder defined by the limits of the duality it emerged from.  I say &ldquo;apparent&rdquo; because I don&rsquo;t want to suggest that there is disorder in a seed and order in the resulting flower.  Obviously, there is order in both, but the explicit order of a flower in bloom, at the peak of its expression, when it is ready to drop its own seeds, is far more apparent than the implicit order of a seed.  The flower is *explicit* when it is in bloom, and *implicit* in the seed, while the seed in *implicit* in the flower.  This also suggests that within the scope of the life-cycle of a flower, which begins with a seed and ends with compost, the flowering stage represents the most optimum expression of energy, or the most effective form that instance can realize.
 
@@ -545,7 +545,7 @@ We arrived at laws through reason, and we humans are rather proud of that claim 
 
 *Reason* is what we call our ability to recognize the natural processes that arise from the patterns of creation and is the product of intellectual survival, a skill we evolved to give us fang-less, claw-less, slow, small and tasty humans a fighting chance in the Darwinian battlefield.
 
-To be fair, there has been a long-standing debate over whether mathematics, and by association, reason, was invented or discovered.  One of the more solid debates is presented by leading astrophysicist Mario Livio in his article &ldquo;Why Math Works&rdquo;[^16]
+To be fair, there has been a long-standing debate over whether mathematics, and by association, reason, was invented or discovered.  One of the more solid debates is presented by leading astrophysicist Mario Livio in his article &ldquo;Why Math Works&rdquo;[^26]
 
 In that article, he refers to those who believe math was discovered as Platonists, due to the fact that Platonic archetypes include math archetypes, as math is a form of an idea.  Livio gets into the idea that math is subject to the same evolutionary forces as species in that math that does not work quickly dies, never again to propagate itself into the mathematical &ldquo;gene pool.&rdquo;
 
@@ -559,7 +559,7 @@ In any case, both sides can agree, for the most part, that math is the language 
 
 Reason has been pretty effective in describing our reality, but it has its limits, at least in the way we use it today.
 
-For example, the traditional Law of Thought[^17] goes something like:
+For example, the traditional Law of Thought[^27] goes something like:
 
 - **The Law of Non-Contradiction states:**
 
@@ -595,7 +595,7 @@ I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone 
 
 #### **Claim 18:** We name things according to our observations, and once named, they become conceptual realities.  
 
-Here is that correlation, just for fun:[^18]
+Here is that correlation, just for fun:[^28]
 
 <img src='../Images/017-suicide.png' style='width:100%;' />
     
@@ -609,7 +609,7 @@ Humans began grasping this concept of randomness about 3,000 years ago, but name
 
 #### **Claim 19:** Our ability to reason is rooted in our ability to see patterns, and connecting these patterns is made possible by our ability to reason.
 
-God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, manna, out-of-body-experiences[^19], etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it.  To be clear, this is not meant to suggest these observations are, or are not, as valid as any other.  Any system&rsquo;s validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.
+God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, manna, out-of-body-experiences[^29], etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it.  To be clear, this is not meant to suggest these observations are, or are not, as valid as any other.  Any system&rsquo;s validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.
 
 It would be hubris to write-off alternative views of reality given every culture in the world has a concept of some sort of paranormal, metaphysical energy.  Some of these cultures have extremely demanding training and lengthy education to tap into it.  Even our western icons, such as Paracelsus, Hippocrates, Carl Jung, Erwin Schrodinger, Albert Einstein and Plato have referred to it.
 
@@ -668,7 +668,7 @@ The important point here is that if any one thing in the list of processes liste
 
 For a cell to be sustainable, to continue existing, only one process, made up of numerous detailed steps, all of which must function properly, will result in successful functioning and reproduction.  More importantly, we can&rsquo;t explain why any one particular option in any step, out of the countless theoretical options available at each step, is the one step that the process &ldquo;knows&rdquo; to select.
 
-To put this in even clearer perspective, using twenty different amino acids to create a very small protein (of 150 amino acids), there are 10<sup>77</sup> possible combinations.  In the world of biology, this exponential growth of possibilities is actually called *combinatorial inflation*.  Remember that term, as we&rsquo;ll come back to it later on.  How many of these 10<sup>77</sup> possibilities can produce a viable protein? Very few, and of those few only one will work, that being the one that works with the others it must integrate with.  It&rsquo;s not quite as bad as the likelihood of a million monkeys banging on a million typewriters to eventually produce the entire works of Shakespeare, but considering it would take 2,737,850 million-billion-billion-billion monkey-years to produce the line from Hamlet &ldquo;RUMOUR.  Open your ears&rdquo;[^20], how likely is the chance that this 1:10<sup>77</sup> process could happen successfully 10<sup>40</sup> times, which is the number of organisms that have ever existed in the history of the planet? For life to evolve (in the Darwinian sense) as it has over the past 4.5 billion years, this 1:10<sup>77</sup> process would need to happen 7x10<sup>99</sup> times per second, which equates to every living thing on planet today performing this process 7x10<sup>74</sup> times per second! If the vast majority of the 34 trillion cells that make up your body didn&rsquo;t all all hit the jackpot of creating the *same* viable life form millions, if not billions of times a second, life would have never evolved past the bio-goo stage.  Admittedly, these numbers may be inaccurate due to their speculative nature, but the general idea that evolution as a genetic crapshoot sounds far more unreasonable.
+To put this in even clearer perspective, using twenty different amino acids to create a very small protein (of 150 amino acids), there are 10<sup>77</sup> possible combinations.  In the world of biology, this exponential growth of possibilities is actually called *combinatorial inflation*.  Remember that term, as we&rsquo;ll come back to it later on.  How many of these 10<sup>77</sup> possibilities can produce a viable protein? Very few, and of those few only one will work, that being the one that works with the others it must integrate with.  It&rsquo;s not quite as bad as the likelihood of a million monkeys banging on a million typewriters to eventually produce the entire works of Shakespeare, but considering it would take 2,737,850 million-billion-billion-billion monkey-years to produce the line from Hamlet &ldquo;RUMOUR.  Open your ears&rdquo;[^30], how likely is the chance that this 1:10<sup>77</sup> process could happen successfully 10<sup>40</sup> times, which is the number of organisms that have ever existed in the history of the planet? For life to evolve (in the Darwinian sense) as it has over the past 4.5 billion years, this 1:10<sup>77</sup> process would need to happen 7x10<sup>99</sup> times per second, which equates to every living thing on planet today performing this process 7x10<sup>74</sup> times per second! If the vast majority of the 34 trillion cells that make up your body didn&rsquo;t all all hit the jackpot of creating the *same* viable life form millions, if not billions of times a second, life would have never evolved past the bio-goo stage.  Admittedly, these numbers may be inaccurate due to their speculative nature, but the general idea that evolution as a genetic crapshoot sounds far more unreasonable.
 
 What we call a cell is a collective of components that not only all work together with miraculous precision, but which seems to have an intelligence of its own that understands the requirements of how each component must operate with each other component in order to preserve and maintain its sustainability, its existence.  Likewise, the components themselves, like the barrel-shaped machine and the transcriptors, are also made of components that have the same intentions and decision-making abilities.
 
@@ -714,7 +714,7 @@ The American Psychologist Julian Jaynes wrote a very popular book titled &ldquo;
 
 <img src='../Images/019-bicameral-brain.png' style='width:100%;' />
 
->&ldquo;Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices.  The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images.  The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.&rdquo;[^21]
+>&ldquo;Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices.  The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images.  The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.&rdquo;[^31]
 
 Jaynes claims that a bit before 1,000 BC (just around the time of the Tower of Babel by Sumerian accounts) the human consciousness was not yet &ldquo;meta-conscious&rdquo;, meaning humans were not aware of their awareness.  The bicameral part of Jaynes theory suggests that there were two parts of the brain, the one that managed mundane jobs, habits, rote tasks, etc.  (the self), and another part which, when faced with confusing and/or difficult challenges, took over (the voice of god).
 
@@ -746,7 +746,7 @@ The rules and conditions of reality that we have discovered have followed a perf
 
 For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were.  It wasn&rsquo;t until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear.  This became Kepler&rsquo;s Third Law of Planetary Motion that states *&ldquo;the square of the planet&rsquo;s orbital period is proportional to the cube of its distance from the sun.&rdquo;* In the same manner, we discovered DNA is a helix because of hydrogen bonds, etc., so we can say &ldquo;Here is a pattern and the rules that created it.&rdquo;
 
-This is not to say everything that the gatekeepers of the Church of Reason consider &ldquo;unreasonable&rdquo;, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical concepts are, indeed, &ldquo;unreasonable.&rdquo; On the contrary, it&rsquo;s quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our modern boundaries.  Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life.  These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked.  Once we discovered Bernoulli&rsquo;s law[^22] works in harmony with the law of gravity we mastered the magic art of flying.
+This is not to say everything that the gatekeepers of the Church of Reason consider &ldquo;unreasonable&rdquo;, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical concepts are, indeed, &ldquo;unreasonable.&rdquo; On the contrary, it&rsquo;s quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our modern boundaries.  Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life.  These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked.  Once we discovered Bernoulli&rsquo;s law[^32] works in harmony with the law of gravity we mastered the magic art of flying.
 
 #### **Claim 22:** Reason is the codification of the rules of a reality as we have come to know it.  
 
@@ -778,13 +778,13 @@ Just as an entity will endanger its collective in an attempt to preserve its mem
 
 This perspective also explains how a person is able to sacrifice itself for the sake of another, even though they have no genetic connection to the other person, ruling out genetic preference as is the case when a parent sacrifices themselves for their child.  This would also suggest that our most basic drive is not only the survival of the self, but also the survival of something more important than the self, yet still be self-serving.  We see this in cases of love, honor, country, god, etc., and other examples of a collective.
 
-You might be thinking that this is a trait unique to humans, but this is not the case.  We see cases of this in single-cell organisms[^23], multi-cellular organisms[^24] (such as slime mold, where, when faced with scant resources, certain cells will sacrifice themselves for the sake of the greater organism.[^25]), virulent parasites[^26], plants[^27], to name a few.  Of course, in society, this is clearly exemplified in soldiers willing to die for their country or ideology, as well as countries willing to send their soldiers into war.
+You might be thinking that this is a trait unique to humans, but this is not the case.  We see cases of this in single-cell organisms[^33], multi-cellular organisms[^34] (such as slime mold, where, when faced with scant resources, certain cells will sacrifice themselves for the sake of the greater organism.[^35]), virulent parasites[^36], plants[^37], to name a few.  Of course, in society, this is clearly exemplified in soldiers willing to die for their country or ideology, as well as countries willing to send their soldiers into war.
 
-This self-sacrificing quality turns out to be fairly common across life in general.  Quoting the paper published in *the International Academy of Ecology and Environmental Sciences*, &ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;[^28]:
+This self-sacrificing quality turns out to be fairly common across life in general.  Quoting the paper published in *the International Academy of Ecology and Environmental Sciences*, &ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;[^38] :
 
 > In recent years, a large portion of the literature has focused on evolutionary suicide.  &ldquo;Darwinian extinction&rdquo; or evolutionary suicide is one of the most important findings in adaptive dynamics \[which inevitably bring us to the conclusion\] that evolutionary theory falls short of adequately explaining the phenomenon of life in its fullness and complexity.  This is due to the fact that \[evolutionary suicide\] is not a rare or special case and that it can occur in the most common ecological conditions.
 
-We also see a less dramatic version of this in genomes which will, rather then commit suicide, reduce their own replication rate to help other genomes.[^167]
+We also see a less dramatic version of this in genomes which will, rather then commit suicide, reduce their own replication rate to help other genomes.[^39]
 
 This perspective is reasonable and does a better job of explaining how, any why, life operates the way it does.  With ideas such as wave functions and the many-worlds theory of quantum physics, the morphic field of biology, the research into hyper-time telepathic communication (for long-distance space travel), self-determining AI, etc., it&rsquo;s easy to see how what we accept as &ldquo;reasonable&rdquo; will dramatically change as we learn how these new processes of reality and life work.
 
@@ -798,7 +798,7 @@ This idea is essentially the same one that was put forth 250 years ago by the ma
 
 ##### \~ Adam Smith, 1776
 
-Applying this idea to society also suggests that the most sustainable practice for the world at large can be summed up in a phrase that is attributed to international banks, John Lennon and Yoko Ono, Buckminster Fuller and more[^175] &hellip; &ldquo;Think globally, act locally&rdquo;.  This is easily practiced by spending your money at local businesses rather than Walmart or Amazon, or simply, to quote Mother Theresa when asked “What can we do to promote world peace?”, “Go home and love your family.”
+Applying this idea to society also suggests that the most sustainable practice for the world at large can be summed up in a phrase that is attributed to international banks, John Lennon and Yoko Ono, Buckminster Fuller and more[^40] &hellip; &ldquo;Think globally, act locally&rdquo;.  This is easily practiced by spending your money at local businesses rather than Walmart or Amazon, or simply, to quote Mother Theresa when asked “What can we do to promote world peace?”, “Go home and love your family.”
 
 
 #### **Claim 25:** There is an order to creative processes, and creations themselves are a product of order.  
@@ -829,7 +829,7 @@ The question this model raises is, does the &ldquo;memory&rdquo; of the previous
 
 ### Holographic simulation hypothesis 
 
-The idea that reality is &ldquo;just&rdquo; a simulation has been around for a long time.  The roots of such an idea go back to the &ldquo;Skeptical hypotheses&rdquo; of ancient Greece and the &ldquo;The Butterfly Dream&rdquo; of 3rd century B.C.  Chinese philosopher Zhuang Zhou.  These ideas found more form in the &ldquo;Cartesian doubt&rdquo; of René Descartes, finally culminating in Oxford philosopher Nick Bostrom&rsquo;s &ldquo;Simulation hypothesis&rdquo; theory and book *&ldquo;Are you living in a computer simulation?&rdquo;* in 2003 (also a documentary[^29]).
+The idea that reality is &ldquo;just&rdquo; a simulation has been around for a long time.  The roots of such an idea go back to the &ldquo;Skeptical hypotheses&rdquo; of ancient Greece and the &ldquo;The Butterfly Dream&rdquo; of 3rd century B.C.  Chinese philosopher Zhuang Zhou.  These ideas found more form in the &ldquo;Cartesian doubt&rdquo; of René Descartes, finally culminating in Oxford philosopher Nick Bostrom&rsquo;s &ldquo;Simulation hypothesis&rdquo; theory and book *&ldquo;Are you living in a computer simulation?&rdquo;* in 2003 (also a documentary[^41]).
 
 This theory that we live in a simulation has moved out of the philosopher&rsquo;s chair and into the science lab where bits of supporting evidence were discovered.  In this scenario, the Big Bang would be the equivalent of a cosmic hacker flipping the &ldquo;on&rdquo; switch to their &ldquo;Reality Framework Server&rdquo;.  This theory posits that reality is a simulated projection and black holes are the projectors, with the *event horizon* of a black hole (the point from which nothing escapes) acting as a diffraction grid for the energy it is projecting to form a &ldquo;reality&rdquo;, just like a hologram.
 
@@ -841,7 +841,7 @@ Even more mind-bending is the possibility that the reality that is being project
 
 I would also question the use of the word &ldquo;simulation&rdquo;, for that implies it is an artificial rendition of something that already exists.  It is more like a *bona fide* creation, albeit one that may have been designed around a specific model, or for a specific (yet unknown) purpose.
 
-What is missing in the list of current theories are many of those ideas that are not based in science, but rather legend, creation myths and beliefs.  I skipped them not because they are not valid, but simply because there are too many of them, but modern theories are surprisingly in-line with the creation myths of the Judeo-Christian, Islam, Hindu, Zoroastrian, Taoist, Buddhist and even Aboriginal Australian, the world&rsquo;s oldest civilization[^30], and cycles of creations is implicit in all of them, and explicit in many of them.  We would expect to see this similarity between radically different perspectives, such as science and religion, if they were all attempting to understand the same thing.
+What is missing in the list of current theories are many of those ideas that are not based in science, but rather legend, creation myths and beliefs.  I skipped them not because they are not valid, but simply because there are too many of them, but modern theories are surprisingly in-line with the creation myths of the Judeo-Christian, Islam, Hindu, Zoroastrian, Taoist, Buddhist and even Aboriginal Australian, the world&rsquo;s oldest civilization[^42], and cycles of creations is implicit in all of them, and explicit in many of them.  We would expect to see this similarity between radically different perspectives, such as science and religion, if they were all attempting to understand the same thing.
 
 The common thread of modern and ancient creation theories and stories is that they are all versions of the plot-line that begins with *nothingness*, followed by a *somethingness*, and everything that ever did or ever will exist does so between these two states of chaos.
 
@@ -857,7 +857,7 @@ If we had the ultimate Bell curve between the states of nothingness (high entrop
 
 <img src='../Images/021-supercurve1.png' style='width:100%;' />
 
-We see this sort of distribution everywhere in nature.  In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems coexist.[^31]  This suggests that the stuff in the middle represents the most effective expression of energy for our reality, not unlike the previous example of the blooming flower.  
+We see this sort of distribution everywhere in nature.  In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems coexist.[^43]  This suggests that the stuff in the middle represents the most effective expression of energy for our reality, not unlike the previous example of the blooming flower.  
 
 #### **Claim 27:** The most likely and persistence state of anything (including ideas) that exists as a result of other states will be where the most balance exists between those other states.  
 
@@ -875,7 +875,7 @@ Were this duality to no longer exist in a state of imbalance or difference, the 
 
 When we look at simple waves, such as light waves, radio waves, sound waves, we see an oscillation of energy.  This is the result of movement of energy over time.
 
-On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc.  On the material level, we have mechanical waves, such as sound waves.  On the organic level and beyond (planets, life, culture, politics, etc.[^32]) we don&rsquo;t use the term *waves*, instead, we call them *cycles*, but they represent the same thing as waves but in a different context and scope.
+On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc.  On the material level, we have mechanical waves, such as sound waves.  On the organic level and beyond (planets, life, culture, politics, etc.[^44]) we don&rsquo;t use the term *waves*, instead, we call them *cycles*, but they represent the same thing as waves but in a different context and scope.
 
 <img src='../Images/023-sinewave.png' style='width:100%;margin:auto;' />
 
@@ -891,7 +891,7 @@ Another example might be the interdependent cycles of cohabiting rabbits and coy
 
 ### Not Just a Cycle
 
-It may be that there is more to waves than just a simple periodic cycle, at least in the way it interacts with its environment.  For example, when we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represents incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research[^169] into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude.  Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree.  It&rsquo;s almost as if the inhabitants of earth unconsciously knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.
+It may be that there is more to waves than just a simple periodic cycle, at least in the way it interacts with its environment.  For example, when we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represents incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research[^45] into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude.  Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree.  It&rsquo;s almost as if the inhabitants of earth unconsciously knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.
 
 <img src='../Images/world-sine.png' style='width:100%'/>
 
@@ -992,7 +992,7 @@ All four people have an understanding of the problem and the ways in which it ca
 
 As silly as this sounds, her answer was quite accurate given the context and the scope of a child&rsquo;s understanding and the context of *&ldquo;1 (female cat) + 1(male cat)&rdquo;*, which is not at all an irrelevant detail, especially to the cats.  We can see the &ldquo;error&rdquo; here as the child not being able to properly identify the differences between the overlapping contexts of math and animals.  We should not be quick to judge this child because we have to assume that even the greatest thinkers will make the same &ldquo;error&rdquo;, albeit with more complex contexts, because this discernment is a product of our neurology, the brain being a big pattern recognition machine.  Unless we have the ultimate brain, we can&rsquo;t recognize everything.
 
-Understanding is contextual and only relevant to the degree that it applies to the matter in question and why the question was asked in the first place.  Even the concept of &ldquo;1&rdquo; is contextually relevant.  We may have 1 dollar or 1 day, but what does 1 mean if we say we have 1 puddle plus 1 puddle? We either have 2 puddles, or, if they are connected, we have a 1 big puddle, and now &ldquo;2&rdquo; is the not the unit count of puddles, but the relative volume of the puddle, i.e.  1 puddle that is 2 times as large.  If we drop 1 rock into a lake, we have 1 wave function.  If we drop 2 rocks in a lake we have 2 wave functions, but in this case, &ldquo;1&rdquo; really means $A\cos( kx-\omega t+\varphi )$ and 2 really means $W2( x,t) =Acos( kx−ωt+φ)$, as these describe the waves caused by the rocks in water.  *&ldquo;This makes sense*&rdquo;, you may be thinking, but what happens if we take 1 particle traveling at $x$ speed, and smash it headfirst into another particle traveling at $x$ speed? You might think that the particles smash into each other at the speed of $2x$, but you&rsquo;d be wrong if $x$ was the speed of light, because, at the speed of light $1+1 = 1$ in this case, at least according to the Theory of Relativity.[^33]
+Understanding is contextual and only relevant to the degree that it applies to the matter in question and why the question was asked in the first place.  Even the concept of &ldquo;1&rdquo; is contextually relevant.  We may have 1 dollar or 1 day, but what does 1 mean if we say we have 1 puddle plus 1 puddle? We either have 2 puddles, or, if they are connected, we have a 1 big puddle, and now &ldquo;2&rdquo; is the not the unit count of puddles, but the relative volume of the puddle, i.e.  1 puddle that is 2 times as large.  If we drop 1 rock into a lake, we have 1 wave function.  If we drop 2 rocks in a lake we have 2 wave functions, but in this case, &ldquo;1&rdquo; really means $A\cos( kx-\omega t+\varphi )$ and 2 really means $W2( x,t) =Acos( kx−ωt+φ)$, as these describe the waves caused by the rocks in water.  *&ldquo;This makes sense*&rdquo;, you may be thinking, but what happens if we take 1 particle traveling at $x$ speed, and smash it headfirst into another particle traveling at $x$ speed? You might think that the particles smash into each other at the speed of $2x$, but you&rsquo;d be wrong if $x$ was the speed of light, because, at the speed of light $1+1 = 1$ in this case, at least according to the Theory of Relativity.[^46]
 
 So, let&rsquo;s modify the meaning of understanding to the following claim:
 
@@ -1048,7 +1048,7 @@ Needless to say, there has been a lot of discussing, researching and testing ove
 
 ## Holarchies
 
-In 1972 Ervin Laszlo, philosopher, theorist and two-time Nobel Prize nominee, published &ldquo;Evolutionary Systems Theory.  Introduction to Systems Philosophy: Toward a New Paradigm of Contemporary Thought.&rdquo;[^34]In that book, he incorporates *Living Systems Theory* and the hierarchical structures of Mario Bunge, a giant in the field of semantics, ontology, epistemology, philosophy of science and ethics, and recipient of twenty-one honorary doctorates and four honorary professorships by universities from the Americas (North and South) and Europe.
+In 1972 Ervin Laszlo, philosopher, theorist and two-time Nobel Prize nominee, published &ldquo;Evolutionary Systems Theory.  Introduction to Systems Philosophy: Toward a New Paradigm of Contemporary Thought.&rdquo;[^47]In that book, he incorporates *Living Systems Theory* and the hierarchical structures of Mario Bunge, a giant in the field of semantics, ontology, epistemology, philosophy of science and ethics, and recipient of twenty-one honorary doctorates and four honorary professorships by universities from the Americas (North and South) and Europe.
 
 Laszlo&rsquo;s challenge was to provide a framework for understanding universal structures that span the scopes of subatomic physics, through biology, chemistry, organisms, and social systems to the cosmos.  Laszlo describes a hierarchical model of interconnected conceptual entities.  When one of these entities is acting as a *part* of a larger entity, it is called a *parton*, and when acting as a *whole* entity with its own parts, or *partons*, it is called a *holon*.
 
@@ -1076,7 +1076,7 @@ If we assume that our perceptions of reality are fairly compatible with reality 
 
 Because the peak of the curve represents where the most &ldquo;work&rdquo; will be done (given the two poles that define the limits of the curve), it is also where energy will most likely be able to form sustainable patterns.  The peak of the curve also represents the most efficient expression of a holon&rsquo;s purpose and function.  If we were electrons instead of humans, our archetypal holon would have the electron in the center, because, as the electron *does* exist, it would naturally occupy that point where its existence is most likely&hellip; in the peak of the curve for the electron holon.  However, because life forms exist in the peak of the curve that spans from quark to multiverse, perhaps we can speculate that life itself is the primary function of reality and that the consciousness that comes with life being the highest form of expression of life.  This is not to say that there are no other forms of life that may excel in this regard, especially where radically different contexts may apply, but if there are other forms of life in our corner of the universe, they will most likely appear within the same range of the curve.  More then appearing in the same area of the curve, they will probably appear similar to their earthing cousins.  If the Pleiadians (or wherever UFOs come from) ever land a UFO on the White House front lawn, we will all be surprised, and a bit disappointed I suspect, when what emerges looks like… a human.  At least that is the opinion of an Oxford University&rsquo;s evolutionary biologist Sam Levin.
 
->[Aliens, like humans] are made-up of a hierarchy of entities, which all cooperate to produce a [lifeform].  At each level of the organism there will be mechanisms in place to eliminate conflict, maintain cooperation, and keep the organism functioning.[^164]
+>[Aliens, like humans] are made-up of a hierarchy of entities, which all cooperate to produce a [lifeform].  At each level of the organism there will be mechanisms in place to eliminate conflict, maintain cooperation, and keep the organism functioning.[^48]
 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
@@ -1092,17 +1092,17 @@ Another excellent example of both a holarchy and its self-similar nature is that
 
 ## Memes
 
-More recently, this holarchical model was applied to Richard Dawkins concept of a *meme*[^35].  A meme is defined as:
+More recently, this holarchical model was applied to Richard Dawkins concept of a *meme*[^49].  A meme is defined as:
 
 > an element of a culture or system of behavior passed from one individual to another by imitation or other non-genetic means.
 
-In Dawkins own words[^36]:
+In Dawkins own words[^50] :
 
 > &ldquo;Memes spread through the culture like genes spread through the gene pool&rdquo;
 
 <img src='../Images/032-holongrid.png' style='width:70%;margin:auto;' />
 
-This is relevant at this point to demonstrate how the concept of a meme can be incorporated into a holarchy.  The original version of the  chart above comes from a Velikovsky paper on video games and their potential to increase intelligence.[^37] The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch.  It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*.  The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object.  He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea.  In our case, we are defining *Ideas* (capital &ldquo;I&rdquo;), like forms, as the archetypal blueprint for many instances of ideas.  The idea of *&ldquo;Let&rsquo;s make a video game where people have to shoot each other&rdquo;* is an instance of the Idea *&ldquo;Individual or tribal competition and survival&rdquo;*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc.  The idea of *&ldquo;If I sin, I will burn in hell&rdquo;*, a very resilient and popular meme for thousands of years, is an instance of the Idea *&ldquo;We are judged harshly by our superiors for being self-serving&rdquo;*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
+This is relevant at this point to demonstrate how the concept of a meme can be incorporated into a holarchy.  The original version of the  chart above comes from a Velikovsky paper on video games and their potential to increase intelligence.[^51] The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch.  It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*.  The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object.  He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea.  In our case, we are defining *Ideas* (capital &ldquo;I&rdquo;), like forms, as the archetypal blueprint for many instances of ideas.  The idea of *&ldquo;Let&rsquo;s make a video game where people have to shoot each other&rdquo;* is an instance of the Idea *&ldquo;Individual or tribal competition and survival&rdquo;*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc.  The idea of *&ldquo;If I sin, I will burn in hell&rdquo;*, a very resilient and popular meme for thousands of years, is an instance of the Idea *&ldquo;We are judged harshly by our superiors for being self-serving&rdquo;*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
 
 The holarchy examples shown above are portrayed as 2-dimensional bifurcating trees, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.  Each holon has its own parameters, laws, context, etc., and each holon, therefore, has its own Bell curve that shows where it is best suited to &ldquo;work&rdquo;, such as the Bell curve of the human eye sensitivity, which would be one holon of &ldquo;human eye&rdquo;.
 
@@ -1153,11 +1153,11 @@ If these statements are true, then this would imply that the most primitive thin
 
 As a pattern of order, it *is* one of the first to appear in nature.  In its most obvious form, we see this structure when we stack spheres on top of one another.  If we stack other shapes, the structure will be altered to the degree the shape is not a sphere, but the tendency for all things that are connected to each other will be to form a tetrahedral structure to the degree the shape of the things connected will allow.  You may be thinking &ldquo;*Well, spheres form tetrahedrons, but cubes form squares*&rdquo;, and while this is true, because the sphere is a simpler, more efficient or primal form than a sphere, the patterns it makes are also more efficient and primal, and therefore the first pattern of order that represent the path of least resistance.  
 
-If the tetrahedron is the first thing that can be created, this would suggest also that every *thing* that exists is ultimately made of tetrahedrons, and that they are the smallest *thing* that can exist (again, conceptually speaking).  This might sound like a radical departure from our current thinking, but it&rsquo;s not *that* radical a departure as this is exactly what *Emergence Theory: A Theory of Pixelated Spacetime&rdquo;*[^38] claims as well (more on that in a moment).  
+If the tetrahedron is the first thing that can be created, this would suggest also that every *thing* that exists is ultimately made of tetrahedrons, and that they are the smallest *thing* that can exist (again, conceptually speaking).  This might sound like a radical departure from our current thinking, but it&rsquo;s not *that* radical a departure as this is exactly what *Emergence Theory: A Theory of Pixelated Spacetime&rdquo;*[^52] claims as well (more on that in a moment).  
 
 > In our 3D quasicrystalline reality, the tetrahedron is the smallest, indivisible unit.  A 3D pixel of reality, if you will.  Each tetrahedron is the smallest possible 3D shape that can exist in this reality: the length of each of its edges is the Planck length (the shortest possible length known in physics – over 10^35^ times smaller than a meter).  These 3D pixels combine with one another according to specific, geometric rules, to populate all of space.
 
-##### ~ &ldquo;Emergence Theory Overview&rdquo;.  from Quantum Gravity Research website.  [^201] 
+##### ~ &ldquo;Emergence Theory Overview&rdquo;.  from Quantum Gravity Research website.  [^53] 
 
 The tholonic model that that this book describes suggests that the rules that apply to these 3D pixels that populate all of space extent beyond space to all of reality, including the invincible worlds of ideas, archetypes, and all forms of energy.  
 
@@ -1187,7 +1187,7 @@ It should be stated that this theory is not accepted by all, and some scientists
 
 This E8 lattice (that&rsquo;s its technical name, also called a *quasicrystal*, but *magic crystal* sounds much cooler) seems to be able to describe all sorts of things: space-time (both types, Minkowski and Kaluza-Klein versions.  Yes, we have two types of space-time, because it&rsquo;s always better to have options), fermion particles, gravity, subspace, dark matter, quarks, positrons, neutrinos, Fibonacci relationships, and a bunch of other stuff, including &ldquo;ghost particles&rdquo; (which are really, really old neutrinos that were created during the Big Bang 15 billion years ago and have no charge, no mass and do not interact with any of the forces that form matter, just like regular ghosts, but really small).
 
-Here is a page from a paper[^39] that describes the E8 lattice.
+Here is a page from a paper[^54] that describes the E8 lattice.
 
 <img src='../Images/038-e8desc.png' style='width:100%;' />
 
@@ -1195,9 +1195,9 @@ As you can see, the whole space-time part of the E8 lattice is just a small part
 
 The most significant aspect of *Emergence Theory* (for us) is their claim that:
 
-> &ldquo;all of reality is made of information.  What is information? Information is meaning conveyed by symbols.  Languages and codes are groups of such symbols that convey meaning.  The various possible arrangements of these symbols are governed by rules.[^40]
+> &ldquo;all of reality is made of information.  What is information? Information is meaning conveyed by symbols.  Languages and codes are groups of such symbols that convey meaning.  The various possible arrangements of these symbols are governed by rules.[^55]
 
-Here are a couple of beautiful images of the countless faces of the magic E8 crystal to ponder.[^41]
+Here are a couple of beautiful images of the countless faces of the magic E8 crystal to ponder.[^56]
 
 <img src='../Images/039-e8examples.png' style='width:100%;' />
 
@@ -1205,7 +1205,7 @@ Just as a fun comparison, check out the following cymatic patterns.
 
 <img src='../Images/040-cymaticscolor.png' style='width:100%;' />
 
-The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all matter is a projection of countless &ldquo;pixels&rdquo; that are really, really small tetrahedrons[^165], each about 1.61 x 10<sup>-35</sup> meters in size.  Remember the size of a quark, 10<sup>-17</sup>? This is a *lot* smaller.  
+The E8 crystal of *quantum symmetry* and *emergence theory* hypothesize that all matter is a projection of countless &ldquo;pixels&rdquo; that are really, really small tetrahedrons[^57], each about 1.61 x 10<sup>-35</sup> meters in size.  Remember the size of a quark, 10<sup>-17</sup>? This is a *lot* smaller.  
 
 It might sound like this is mixing apples and multidimensional oranges, using definitions from *emergence theory* on one side of the scale, and definitions from *quantum symmetry* on the other side, but both of these theories integrate quantum mechanics, general and special relativity, the standard model and other mainstream physics theories to form a complete, fundamental picture of a universe unfolding from implicity to explicity.  The main difference between these two models is that the *E8 Crystal* describes the mechanics of creation, while the *emergence theory* attempts to describe the syntax of its operation using the language of geometry.
 
@@ -1245,11 +1245,11 @@ The story of the I Ching and Gottfried Wilhelm von Leibniz, the co-inventor (a
 
 ### Leibniz
 
-When the Jesuits, reputed to be the intellectuals among Christian missionaries, traveled to China, they were so fascinated by the I-Ching that they brought it back to Europe in the late 1600s.  It was here that Leibniz saw the I-Ching and claimed it to be sent to him by God.[^42]
+When the Jesuits, reputed to be the intellectuals among Christian missionaries, traveled to China, they were so fascinated by the I-Ching that they brought it back to Europe in the late 1600s.  It was here that Leibniz saw the I-Ching and claimed it to be sent to him by God.[^58]
 
 Just prior to seeing the I-Ching, Leibniz had developed (discovered?) a number system that he considered sacred.  It was the binary system of 0s and 1s, much like the Yin/Yang of the I-Ching.  It was of no practical use to anyone at the time, but that was not why he developed it.  Leibniz, a very pious man, thought that if all values could be expressed in terms of only something and nothing, on and off, yes and no, positive and negative, etc., then truly, this would be the language of life, for, as he thought, God the Creator was represented as 1, while the void was represented as 0.
 
-At the same time he was inventing this *divine math* meant to explore the hidden secrets of reality he was also inventing the first mechanical calculator suitable not only for addition and subtraction but for multiplication as well.  His dream was to make a logical thinking device.[^43]
+At the same time he was inventing this *divine math* meant to explore the hidden secrets of reality he was also inventing the first mechanical calculator suitable not only for addition and subtraction but for multiplication as well.  His dream was to make a logical thinking device.[^59]
 
 Leibniz was creating tools for exoteric and esoteric understanding, both based on the same logic, but within two very different contexts.
 
@@ -1259,7 +1259,7 @@ If Leibniz was alive today to see his sacred binary math of 1s and 0s being used
 
 ### The Source of Ideas
 
-We like to think we come up with ideas, but perhaps this is no truer than a flower &ldquo;deciding&rdquo; to change colors when exposed to different light, or a river &ldquo;deciding&rdquo; to change course because the wolf population has increased.[^44]
+We like to think we come up with ideas, but perhaps this is no truer than a flower &ldquo;deciding&rdquo; to change colors when exposed to different light, or a river &ldquo;deciding&rdquo; to change course because the wolf population has increased.[^60]
 
 Although currently not a mainstream theory, the understanding that Ideas are more like expressions of living intelligences that we have a symbiotic relationship with is currently alive and well, and has been around for thousands of years.  Traditionally, these forms of intelligence and intention were anthropomorphized into deities, angels, demons, spirits, etc., and it was understood that we use them for our purposes, noble and otherwise, and they use us for their purposes, noble or otherwise.  Today we have new evidenced based hypotheses of this same concept in the forms of panpsychism, morphic fields, collective (un)consciousness, Universal mind, etc.  From this perspective, all forms of life are simply instances of various Ideas and concepts.
 
@@ -1277,11 +1277,11 @@ In the realm of ideas, the most important tool that man has deployed has been la
 
 Humans are sort of stuck with the language we have been using for thousands of years, and if we were to (and when we do) invent a new language it would look radically different, but it would probably function similarly because all naturally evolved languages follow a law based on mathematical statistics that also approximate the same laws of science.  This amazing pattern of language was discovered in the 19th and is called Zipf&rsquo;s  Law (which when normalized is called the Riemann Zeta Function) and is fundamental to everything form the diffraction of light to the size craters on the moon.  This is another topic, but the point here is that language evolves according to, and limited by, the sames forces that drive all evolution, growth and change.
 
-This applies to intentionally designed languages as well.  In 1968, Aristid Lindenmayer, a Hungarian theoretical biologist, and botanist at the University of Utrecht, designed a symbolic language called *L-system* that incorporated various symbols that were bound by a set of rules.  He developed this language as a way to model and describe the behavior of plants and a variety of other organisms[^45].  The philosophy and architecture of the language were based on the observed logic of growth, i.e.  life.  Not coincidentally, this language describes self-similar systems.  This is the language of the future, but sadly, only for our digital offspring, at least not until we do some major gray matter rewiring upstairs.
+This applies to intentionally designed languages as well.  In 1968, Aristid Lindenmayer, a Hungarian theoretical biologist, and botanist at the University of Utrecht, designed a symbolic language called *L-system* that incorporated various symbols that were bound by a set of rules.  He developed this language as a way to model and describe the behavior of plants and a variety of other organisms[^61].  The philosophy and architecture of the language were based on the observed logic of growth, i.e.  life.  Not coincidentally, this language describes self-similar systems.  This is the language of the future, but sadly, only for our digital offspring, at least not until we do some major gray matter rewiring upstairs.
 
 <img src='../Images/043-l-system-trees.png' style='width:100%;' />
 
-Granted, L-System language is mainly used as a modeling language, and has an alphabet, grammatical roots and rules, like human language[^160].  This is brought up to show that organically evolved systems that have had to survive the Darwinian battlefield, such as human language, exhibit similar characteristics to the highly ordered, structured, and hierarchical systems that describe life itself.  
+Granted, L-System language is mainly used as a modeling language, and has an alphabet, grammatical roots and rules, like human language[^62].  This is brought up to show that organically evolved systems that have had to survive the Darwinian battlefield, such as human language, exhibit similar characteristics to the highly ordered, structured, and hierarchical systems that describe life itself.  
 
 Although human language is surprisingly efficient and still manages to function with the same structure that naturally exists in ideas and concepts, its efficiency is greatly due to our brain&rsquo;s ability to apply context and instantly run through many interpretations of words and sentence structure until it finds the most applicable interpretation.
 
@@ -1295,7 +1295,7 @@ The meanings of words, their order, the context of who is speaking and where the
 
 Although we don&rsquo;t speak this way, this is more or less how the brain re-patterns the concepts to discern meaning.
 
-There is such a language which was developed to specifically optimize the transmissions of concepts.  It&rsquo;s called *Ithkuil*[^46].
+There is such a language which was developed to specifically optimize the transmissions of concepts.  It&rsquo;s called *Ithkuil*[^63].
 
 In Ithkuil, you can say &ldquo;On the contrary, I think it may turn out that this rugged mountain range trails off at some point.&rdquo; in the following manner:
 
@@ -1313,7 +1313,7 @@ Regardless of the language, they all depend on semantics, which is what makes an
 
 ### Semantics
 
-Semantics is the branch of linguistics and logic concerned with meaning, but there are two kinds of meaning, according to the Theory of Meaning[^47].  The first kind is the more common definition of semantics.
+Semantics is the branch of linguistics and logic concerned with meaning, but there are two kinds of meaning, according to the Theory of Meaning[^64].  The first kind is the more common definition of semantics.
 
 > The description of possible languages or grammars as abstract semantic systems whereby symbols are associated with aspects of the world.  (a more objective view)
 
@@ -1341,9 +1341,9 @@ With these three data points, three &ldquo;atoms&rdquo; of data, we have the sim
 
 Predicates can be just about anything: &ldquo;lives in&rdquo;, &ldquo;has a&rdquo;, &ldquo;enjoys&rdquo;, etc.  Objects, however, are part of much larger, more structured hierarchies, much like the holarchies described above.  We can graph our sentence as well into something like the circle image (above right).
 
-How does a computer know what *is interested in* or what a *person* is? It doesn&rsquo;t &ldquo;know&rdquo; the way you or I know, but it does know that a *person* is a type of *agent*, has a *family name*, a *first name* and that a person *knows things*.  So, as far as a computer is concerned, a person is just a data-set with a bunch of specific properties and relationships to other data-sets.[^48] These definitions and relationships are defined in a hierarchical manner and are called *ontologies* (if you recall, this is the &ldquo;the study of that which is&rdquo; that was originally founded by the mystic, and father of philosophy, Pythagoras).  There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc., and they can all talk to each other by linking *triplets* together*.*[^49]
+How does a computer know what *is interested in* or what a *person* is? It doesn&rsquo;t &ldquo;know&rdquo; the way you or I know, but it does know that a *person* is a type of *agent*, has a *family name*, a *first name* and that a person *knows things*.  So, as far as a computer is concerned, a person is just a data-set with a bunch of specific properties and relationships to other data-sets.[^65] These definitions and relationships are defined in a hierarchical manner and are called *ontologies* (if you recall, this is the &ldquo;the study of that which is&rdquo; that was originally founded by the mystic, and father of philosophy, Pythagoras).  There are thousands of these ontologies of definitions run by corporations, governments, individuals, schools, the military, etc., that cover an incredible array of data in areas of geography, life sciences, linguistics, media, social networking, medicine, catfish, diseases, road-maps, accommodations in Tuscany, etc., and they can all talk to each other by linking *triplets* together*.*[^66]
 
-As you can imagine, a computer can create millions of connections between triplets with little effort and in a very short time.  With all these connections, we can ask the computer typical questions like &ldquo;*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15&deg;?*&rdquo; Of course, social media companies, who have their own data that they aggressively collect from their users, can ask questions like &ldquo;*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*&rdquo; More worrying are the queries of the near future, such as &ldquo;*Tell me all the names of people that are likely to commit a crime in the next week.*&rdquo; That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them.  At Stanford University they have developed AI system that has a 91% accuracy rate of determining if you are gay or straight[^50], and that is just the beginning.
+As you can imagine, a computer can create millions of connections between triplets with little effort and in a very short time.  With all these connections, we can ask the computer typical questions like &ldquo;*How many romantic comedy Hollywood movies are directed by a person who is born in a city that has an average temperature above 15&deg;?*&rdquo; Of course, social media companies, who have their own data that they aggressively collect from their users, can ask questions like &ldquo;*Give me a list of all the boys who are eligible to vote in the next election, and who listen to a certain type of music and have friends and family that are of a certain political persuasion.*&rdquo; More worrying are the queries of the near future, such as &ldquo;*Tell me all the names of people that are likely to commit a crime in the next week.*&rdquo; That may sound like paranoia about a dystopian future, but AI systems in China have an 80% success rate in predicting who is a criminal just by looking at them.  At Stanford University they have developed AI system that has a 91% accuracy rate of determining if you are gay or straight[^67], and that is just the beginning.
 
 Language is based on rules of nature and can be deconstructed into triplets, and we can see these same rules applied to both the physiology required to support language, and language itself, as shown below.  In fact, Hameroff has directly mapped sentences onto microtubules via these tubulin proteins.
 
@@ -1561,7 +1561,7 @@ In the holarchy, the *types of elements* are Parent, Peer, or Child, and the pro
 
 We are using this idea of energy and movement as the foundations of reality rather that the *things* themselves.  This is not a new idea.  The *Reciprocal System theory* is built on the same premise and provides the best explanation of why we are using the movement of energy in the relationships and not the contexts of where that energy is coming from or going to.
 
-> The thesis of the Reciprocal System, however, is that the universe is not a universe of matter, but a universe of motion, one in which the basic reality is motion, and all entities - photons, particles, atoms, fields, forces, and all forms of energy - are merely manifestations of motion.[^51]
+> The thesis of the Reciprocal System, however, is that the universe is not a universe of matter, but a universe of motion, one in which the basic reality is motion, and all entities - photons, particles, atoms, fields, forces, and all forms of energy - are merely manifestations of motion.[^68]
 
 Like every theory, it has its fans, but also its critics.  In any case, it applies perfectly here.  
 
@@ -1807,7 +1807,7 @@ In 2<sup>nd</sup> generation tholons, the peaks are always the 4<sup>th</sup> do
 
 For clarity&rsquo;s sake, we are referring to each generation of tholon children as *generations,* while the tholons that are created from the peaks of these original tholons, and their children, we refer to as *iterations*.
 
-But wait, didn&rsquo;t the previous iteration have a base of three separate points of R, G, and B? And now it has a base of three white dots? Yes, but the only way to create three peaks of R, G, and B is to first create the opposite condition of three peaks of white dots, similar to the way a blue N-source creates a yellow child N-source, which then creates a blue N-source.  With each iteration this pattern reverses itself, so the 3<sup>rd</sup> iteration will be like the 1<sup>st</sup>, with bases of RGB (but each generation rotated 120 &deg;), etc.  All the odd number iterations have RGB peaks, and all the even number iterations have white dot peaks.  Each iteration builds on the one before it, making larger and larger tholons, as you can see in *Figs.  b2, b3, b4*, which shows the progression of real and virtual tholons.[^166]
+But wait, didn&rsquo;t the previous iteration have a base of three separate points of R, G, and B? And now it has a base of three white dots? Yes, but the only way to create three peaks of R, G, and B is to first create the opposite condition of three peaks of white dots, similar to the way a blue N-source creates a yellow child N-source, which then creates a blue N-source.  With each iteration this pattern reverses itself, so the 3<sup>rd</sup> iteration will be like the 1<sup>st</sup>, with bases of RGB (but each generation rotated 120 &deg;), etc.  All the odd number iterations have RGB peaks, and all the even number iterations have white dot peaks.  Each iteration builds on the one before it, making larger and larger tholons, as you can see in *Figs.  b2, b3, b4*, which shows the progression of real and virtual tholons.[^69]
 
 Interestingly, the growth pattern of tholons is the inverse of a recursive Fibonacci sequence.  Inverse, because we are multiplying instead of dividing, recursive because we do that for each trigram, children of trigrams, children of children of trigrams, etc.
 
@@ -1913,13 +1913,13 @@ Does this mean that our 3D reality is embedded within a parent 3D reality? Accor
 
 What some people today call *sacred geometry* our ancestors simply called geometry.  Contrary to what we learned in school, geometry is as much a study of philosophy as it is a study of form, space, and mathematics.  Plato, Pythagoras, Parmenides, and a number of other great philosophers were well-schooled in geometry, but the marriage of philosophy and geometry goes back even further in history, and across every culture.  Take the quadray coordinates system as an example.  One could make a case that the Ancient Babylonian base-60 number system was an early version of this idea.  In fact, one could make the case that the 20,000 year old Ishango Bone of the upper paleolithic era discovered in the Congo was the earliest version of a base-60 system.  This bone is considered to be the first instance of the concept of the number one.  On this bone are counting marks, 60 marks on one side, and 60 marks on the other side.  One has to wonder why a paleolithic caveman would choose 60.
 
-*Synergetics* is a modern-day example of how geometry forms the basis of the structure of creation, life and how everything interacts with each other.  Buckminster Fuller coined the term *synergetics* in his three-volume work &ldquo;*Synergetics.  Explorations in the Geometry of Thinking,*&rdquo;[^52]wherein he explains how using a 60&deg; coordinates system can explain both physics and chemistry, but more importantly, he believed that it also explained reality.  In his words:
+*Synergetics* is a modern-day example of how geometry forms the basis of the structure of creation, life and how everything interacts with each other.  Buckminster Fuller coined the term *synergetics* in his three-volume work &ldquo;*Synergetics.  Explorations in the Geometry of Thinking,*&rdquo;[^70]wherein he explains how using a 60&deg; coordinates system can explain both physics and chemistry, but more importantly, he believed that it also explained reality.  In his words:
 
 > Since physical Universe is entirely energetic, all dimension must be energetic.  Synergetics is energetic geometry since it identifies energy with number.  Energetic geometry employs 60&deg; coordination because that is nature&rsquo;s way to closest-pack spheres.
 
 He explains how the points and the lines of a tetrahedron (60&deg; coordinates) describe all elementary phenomena.  Moreover, he claims that synergetics can measure our experiences geometrically, and how we can employ geometry regarding both metaphysical and physical knowledge.
 
-The math he proposes is, according to him, based on the reality of empiricism, seeing as that all atoms are made of tetrahedrons, octahedrons, rhombic dodecahedrons, and cubes.  Using this synergetic math, we have a coordinate system that works omnirationally, energetically, arithmetically, geometrically, chemically, volumetrically, crystallographically, vectorially, topologically, and energy-quantum-wise.[^53]
+The math he proposes is, according to him, based on the reality of empiricism, seeing as that all atoms are made of tetrahedrons, octahedrons, rhombic dodecahedrons, and cubes.  Using this synergetic math, we have a coordinate system that works omnirationally, energetically, arithmetically, geometrically, chemically, volumetrically, crystallographically, vectorially, topologically, and energy-quantum-wise.[^71]
 
 All these forms, such as cubes, hexagons, tetragons, rhombohedras, orthorhombics, or truncated icosahedrons, which is commonly known as the *Bucky Ball*, or, when in atomic form, *Buckminsterfullerene* (basically, it&rsquo;s a soccer ball),  and perhaps all forms, can be defined by points in a thologram.
 
@@ -1981,7 +1981,7 @@ This is seen in a single tholon and its reflection tholon as shown in ***Fig.  q
 
 ***Fig.  q1a*** is also the same shape as the *trans tridymite* silicon oxide molecule, with the N-states holding the same position as an silicon atom.  For those playing along, note that the *trans tridymite* molecule has oxygen molecules that total the atomic number of 32 $(8\times 4)$ and the silicon molecules totaling 28 $(14\times 2)$, resulting in a total atomic number of 60.  
 
-***Fig.  q3*** is from the previously quoted paper [^39] that explains the various models within the E8 crystal and describes this shape as &ldquo;representing all 8 components of the electron&rdquo;.  This is not exactly the same as what we are saying here, but it supports the overarching idea regarding tetrahedrons and subatomic particles.
+***Fig.  q3*** is from the previously quoted paper on the *E8 Lattice* that explains the various models within the E8 crystal and describes this shape as &ldquo;representing all 8 components of the electron&rdquo;.  This is not exactly the same as what we are saying here, but it supports the overarching idea regarding tetrahedrons and subatomic particles.
 
 <img src='../Images/087-tholo-quark.png' style='width:100%;' />
 
@@ -2013,7 +2013,7 @@ Wheeler suggested that the missing positrons might be hidden within protons.  Th
 
 However, in the tholonic model, there *is* a place for the positron to hide, and that is in the virtual space of a tholon.  As was previously mentioned, there can be real tholons within virtual tholons.  As this virtual space also acts as a reflection for the other three trigrams of a tholon it would act as the source of the positive charge of the reflection tholon&rsquo;s *child* tholon.  So, if the positron were to &ldquo;hide&rdquo; in the virtual space of the reflection tholon its charge of +1 would neutralize the -1 charge of the reflection tholon, which would presumably have sort of (testable?) effect on the real tholon.
 
-This may sound ridiculous, but we have already proven that if you fill some small part of empty space with enough energy, electrons and positrons will magically appear out of nothing, or as it was described in a New Scientist report, &ldquo;Lasers Could Make Virtual Particles Real&rdquo;.  [^204]
+This may sound ridiculous, but we have already proven that if you fill some small part of empty space with enough energy, electrons and positrons will magically appear out of nothing, or as it was described in a New Scientist report, &ldquo;Lasers Could Make Virtual Particles Real&rdquo;.  [^72]
 
 But what about the electron? Where is that? tholonically speaking, the electron is a product of the imbalance of this hexagram which has has a total charge of +1, and therefore it will automatically create an equal and opposite tholon (of an electron) with a charge of -1, which is also the total charge of the parent reflection tholon.  Where would this electron exist? At the opposite side of the N-sources across the scope of its children C and D, which is where N-sources manifest as stable expressions, i.e.  on the outer most edge of the hexagram.  
 
@@ -2021,7 +2021,7 @@ In a complete and folded tholon, these three scopes create the three edges of th
 
 More importantly, those dots where the electrons would appear only exist on the boundaries of the self-similar (yellow) grid we just looked at above.  What this implies is that anything that uses electrons to exist, which is essentially everything, will naturally order itself in both a self-similar manner and in a way that can be mapped to that pattern.  Does this mean that everything that exists is somehow based on a self-similar hexagram?  This would suggest that this is the case.  However, layers of complexity could make that difficult to discover.  Perhaps a more important detail is that the Thologram, or any model of reality, is only one perspective of a much greater multidimensional model, and being multidimensional it can be perceived many different ways.  The tholonic claim is that all models, including those of our ancestors that lived in the wild and in a world dominated by spirits, plants, insects and gods, come from the same source.
 
-Compare the crudely drawn 2D map of overlapping tholons (below right) a diagram (below left) from an article by Ethan Siegel, Senior Science Contributor to Forbes magazine[^172], called &ldquo;*Can Free Quarks Exist Outside Of A Bound-State Particle?*&rdquo;  Notice any similarities?  The correlation might be even more significant if I had any clue how to determine which quarks (R, G, or B) are equivalent to the tholon&rsquo;s  N, D or C.
+Compare the crudely drawn 2D map of overlapping tholons (below right) a diagram (below left) from an article by Ethan Siegel, Senior Science Contributor to Forbes magazine[^73], called &ldquo;*Can Free Quarks Exist Outside Of A Bound-State Particle?*&rdquo;  Notice any similarities?  The correlation might be even more significant if I had any clue how to determine which quarks (R, G, or B) are equivalent to the tholon&rsquo;s  N, D or C.
 
 <img src='../Images/quarks.png' style='width:100%'/>
 
@@ -2133,7 +2133,7 @@ Our simple trigrams of relationships, such as Newton&rsquo;s  2^nd^ Law, becomes
 
 ## Batteries
 
-With this more expanded tetrahedral model in mind, let&rsquo;s briefly jump back to the examples of deconstruction mentioned earlier.  An example of how any system can be reduced to a tholon is presented an insightful article on the effectiveness of batteries, titled &ldquo;The Unfortunate Tetrahedron.&rdquo;[^161] This may seem fairly niche, but it turns out to be very relevant, which is not surprising considering that batteries are all about sources and movement of energy.  In this article the author shows how the systems of a simple battery can be modeled as a tetrahedron, and how these fundamental aspects of a system relate to one another.  In this article the author looks at the four aspects of batteries; *energy density*, *power density*, *operating cost* and *capital cost*.  
+With this more expanded tetrahedral model in mind, let&rsquo;s briefly jump back to the examples of deconstruction mentioned earlier.  An example of how any system can be reduced to a tholon is presented an insightful article on the effectiveness of batteries, titled &ldquo;The Unfortunate Tetrahedron.&rdquo;[^74] This may seem fairly niche, but it turns out to be very relevant, which is not surprising considering that batteries are all about sources and movement of energy.  In this article the author shows how the systems of a simple battery can be modeled as a tetrahedron, and how these fundamental aspects of a system relate to one another.  In this article the author looks at the four aspects of batteries; *energy density*, *power density*, *operating cost* and *capital cost*.  
 
 Where:
 
@@ -2210,7 +2210,7 @@ Considering that the tholon is a model of growth, it seems particularly applicab
 
 If we are claiming this trigram is tholonic in nature, then what is *white dot*, the 4^th^ point needed to create a tetrahedron? It would be the *charge*, symbolized as $Q$ or $q$ in calculations.  Simply put, the *charge* is the the force of the negative and/or positive attributes of electrons and protons.  1 electron has a *charge* of -1, and 1 proton has a *charge* of +1.  Together they have a *charge* of 0. *Charge* as the 4^th^ point can be validated with Ohm&rsquo;s Law, and is archetypally represented as the proton and the electron where it holds the same position of the *white dot* as (electrical) power, energy (as in relativity), and as we show in the next section, gravity and consciousness.
 
-This opens the idea that were tholonic principles to be applied to such systems as society, law, ethics, etc., there could be predictable times to achieve specific goals following specific rules of how to achieve those goals.  It also shows how economics is not a man-made concept, but an natural and organic system that we humans are simply the channel of expression for.  This is the &ldquo;invisible hand&rdquo; 18th Century Scottish economist and philosopher Adam Smith, a.k.a  the &ldquo;Father of Economics&rdquo; or &ldquo;Father of Capitalism&rdquo;, referred to when he described the unobservable market force that helps the demand and supply of goods in a free market to reach equilibrium automatically.[^198] More recently, this has been referred to as &ldquo;Complexity Economics&rdquo;,[^197] and is so compatible with the tholonic model that it is perhaps the best explanation of the tholonic process (within the context of society and economics).
+This opens the idea that were tholonic principles to be applied to such systems as society, law, ethics, etc., there could be predictable times to achieve specific goals following specific rules of how to achieve those goals.  It also shows how economics is not a man-made concept, but an natural and organic system that we humans are simply the channel of expression for.  This is the &ldquo;invisible hand&rdquo; 18th Century Scottish economist and philosopher Adam Smith, a.k.a  the &ldquo;Father of Economics&rdquo; or &ldquo;Father of Capitalism&rdquo;, referred to when he described the unobservable market force that helps the demand and supply of goods in a free market to reach equilibrium automatically.[^75] More recently, this has been referred to as &ldquo;Complexity Economics&rdquo;,[^76] and is so compatible with the tholonic model that it is perhaps the best explanation of the tholonic process (within the context of society and economics).
 
 There is one more significance to $e$ that is purely tholonic and will no doubt annoy math purists, but is added here because of symmetry.  Referring back to how it was described that one point creates two points and two points created three points, when we created the second point we had a 1D line from *Negotiation* to *Definition*.  However, we also had a center and a radius, thereby defining a circle.  In this way, the first two points implies *pi*,  so were we to assign an implicit value to that 1D lines it would be *pi*.  If we also assign the first point, the N-state, as 0 and the 2^nd^ point as +1 as it is the addition of a new point, then we could assign the 3^rd^ point of *Contribution* -1, as it is returning to 0.  This makes the field within which new N-states can form along the spectrum of -1 to +1.  What value could we then assign to the line connecting points 3 and 1?  One candidate is $i$, the square root of -1, not simply because it is returning a numerically inexpressible value to the source, but also because if this tholonic trigram represents the three values of $e, \pi, and\ i$, we can construct what has been called the most elegant formula in math,  $\boldsymbol{e^{i\pi}+1=0}$, or better stated here as $\boldsymbol{0-1=e^{i\pi}}$.  These values are those attributed to the lines connecting the point, not the points themselves, so this would suggest that the value of the 4^th^ point, or *white-dot*, of a tetrahedron is -1 as  $\boldsymbol{e^{i\pi}=-1}$.  Of course, 0 represents the original N-state from which everything emerges.  In addition, as $e$ represents time and *pi* represents space, we have the two dimension of time and space, plus the mysterious, inexpressible value of $i$ and the introduction of a *complex* dimension of numbers (i.e.  complex numbers).
 
@@ -2313,7 +2313,7 @@ I have no doubt that serious research would yield interesting results. From the 
 
 ## Consciousness
 
-The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid in it their paper &ldquo;*Objects of consciousness*&rdquo; [^202] can&rsquo;t be ignored.  What also can&rsquo;t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first publication of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.) 
+The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid in it their paper &ldquo;*Objects of consciousness*&rdquo; [^77] can&rsquo;t be ignored.  What also can&rsquo;t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first publication of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.) 
 
 <img src='../Images/cagents-tholon.png' style='width:90%;margin:auto;' />
 
@@ -2327,15 +2327,15 @@ As it happens, there is such a thing as *structured water*.  *Coherent* or *Stru
 
 OK, I know I probably lost some of the readers with this last sentence.  If you do an Internet search of &ldquo;structured water&rdquo; one of the first results you will get is the Wikipedia entry that begins with &ldquo;structured water, is a term used in a marketing scam &rdquo; and although that is true to the extent that anything can be a scam in the hands of scammers, the entry says nothing whatsoever on the research and testing that has gone into the use of structured water.
 
-To the dogmatically skeptical, anything that challenges the current world view is &ldquo;swarming with worms of heretical perversity.&rdquo; It doesn&rsquo;t matter if a new idea, in this case, structured water, has vast amounts of scientific research and support from highly accredited professionals and ample evidence one can find by researching the pioneers and leaders in the field, many with a lifetime of contributions and dozens of Chairs, Fellows, and Adjuncts with Accolades of their life&rsquo;s work[^54], as well as hundreds of papers and dozens of books related to and supporting the structured water phenomena.  Skepticism has its place and serves a critical purpose, but regarding the extreme skepticism of structured water, that purpose does not seem to be moving understanding forward or seeking new solutions to real-world problems, such as solving global water shortage problems and increasing crop production, as has been well documented by some of Australia&rsquo;s largest produce farms.
+To the dogmatically skeptical, anything that challenges the current world view is &ldquo;swarming with worms of heretical perversity.&rdquo; It doesn&rsquo;t matter if a new idea, in this case, structured water, has vast amounts of scientific research and support from highly accredited professionals and ample evidence one can find by researching the pioneers and leaders in the field, many with a lifetime of contributions and dozens of Chairs, Fellows, and Adjuncts with Accolades of their life&rsquo;s work[^78], as well as hundreds of papers and dozens of books related to and supporting the structured water phenomena.  Skepticism has its place and serves a critical purpose, but regarding the extreme skepticism of structured water, that purpose does not seem to be moving understanding forward or seeking new solutions to real-world problems, such as solving global water shortage problems and increasing crop production, as has been well documented by some of Australia&rsquo;s largest produce farms.
 
-There is quite a lot of good research on the subject that we won&rsquo;t detail here, but if you want to learn more a good place to start is Fabian Ptok&rsquo;s Masters theses *&ldquo;Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages&rdquo;*[^55], which covers the subject well from an agricultural and security perspective but also has a number of references to the researchers and work going on in this area.  There is also a book available online for free[^56] (which I have not read, so this is not an endorsement).
+There is quite a lot of good research on the subject that we won&rsquo;t detail here, but if you want to learn more a good place to start is Fabian Ptok&rsquo;s Masters theses *&ldquo;Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages&rdquo;*[^79], which covers the subject well from an agricultural and security perspective but also has a number of references to the researchers and work going on in this area.  There is also a book available online for free[^80] (which I have not read, so this is not an endorsement).
 
-Water is a particularly good test medium because the structure of water (not the $H_{2} O$ molecule alone, but many of them together) is tetrahedral, and being the most basic shape of creation lends itself to many different tholonic applications.  it&rsquo;s worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief.  It was not until 80 years later, in 2013, that this was finally accepted as valid.  Today &ldquo;it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e.  tetrahedral and hexagonal structures.&rdquo;[^57] In fact, water, as ice, may be the closest instance of the entire tholon&rsquo;s structure of any other substance (that is common to us).
+Water is a particularly good test medium because the structure of water (not the $H_{2} O$ molecule alone, but many of them together) is tetrahedral, and being the most basic shape of creation lends itself to many different tholonic applications.  it&rsquo;s worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief.  It was not until 80 years later, in 2013, that this was finally accepted as valid.  Today &ldquo;it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e.  tetrahedral and hexagonal structures.&rdquo;[^81] In fact, water, as ice, may be the closest instance of the entire tholon&rsquo;s structure of any other substance (that is common to us).
 
 <img src='../Images/116-water-ice.png' style='width:100%;' />
 
-*(Above: Left image from &ldquo;Tetrahedrality is key to the uniqueness of water&rdquo; [^194])*
+*(Above: Left image from &ldquo;Tetrahedrality is key to the uniqueness of water&rdquo; [^82])*
 
 Radical ideas are often met with radical resistance.  Structured water is one of those ideas.
 
@@ -2358,7 +2358,7 @@ Although there have been many references to the idea that awareness is an inhere
 
 If the concept of a thing and the thing itself are two orders of the same form of expression of energy, and order is a prerequisite to intelligence, does this imply that everything with order, i.e.  everything that exists, potentially has a form of intelligence? In the tholonic model, yes, but more than that, even without order or intelligence there is awareness *and* intention.
 
-This chart below was presented by Stuart Hameroff in his lecture &ldquo;Is Quantum Physics Necessary for the Account of Consciousness?&rdquo; at the  Polytech Museum of Moscow.  [^176] where Hameroff discussed, among other things, consciousness from a quantum perspective.  The blue line represents the expanding universe, and the red line (which I added) represents the tholonic perspective of the (more or less inverse) growth and expansion of the instances of awareness, or consciousness.  Notice how they are inversely proportionate, not unlike the relationship shown above in the section on circuits, where opposing forces grow inversely over time.  Hameroff asks the question &ldquo;When did consciousness arise?&rdquo;, but from the tholonic perspective, consciousness occurred when the first instance of awareness came into being, which would be the Big Bang itself, for all matter is an instance of awareness, and therefore must have a consciousness, no matter how faint or undeveloped.
+This chart below was presented by Stuart Hameroff in his lecture &ldquo;Is Quantum Physics Necessary for the Account of Consciousness?&rdquo; at the  Polytech Museum of Moscow.  [^83] where Hameroff discussed, among other things, consciousness from a quantum perspective.  The blue line represents the expanding universe, and the red line (which I added) represents the tholonic perspective of the (more or less inverse) growth and expansion of the instances of awareness, or consciousness.  Notice how they are inversely proportionate, not unlike the relationship shown above in the section on circuits, where opposing forces grow inversely over time.  Hameroff asks the question &ldquo;When did consciousness arise?&rdquo;, but from the tholonic perspective, consciousness occurred when the first instance of awareness came into being, which would be the Big Bang itself, for all matter is an instance of awareness, and therefore must have a consciousness, no matter how faint or undeveloped.
 
 <img src='../Images/awareness.png' style='width:100%;' />
 
@@ -2372,7 +2372,7 @@ This is not that radical of an idea, as many great thinkers in the past have com
 
 ##### \~Nikola Tesla
 
-There is a name for the idea that consciousness is a property of existence; *panpsychism*.  You can read about its impressive history[^58] and the glowing support it has received over the last 2,000 years from some of the greats of philosophy, psychology, and science.  The minor difference between panpsychism and tholonism is that the latter claims it is awareness and intention, not consciousness, which is the property of existence and from which consciousness and intelligence arise.
+There is a name for the idea that consciousness is a property of existence; *panpsychism*.  You can read about its impressive history[^84] and the glowing support it has received over the last 2,000 years from some of the greats of philosophy, psychology, and science.  The minor difference between panpsychism and tholonism is that the latter claims it is awareness and intention, not consciousness, which is the property of existence and from which consciousness and intelligence arise.
 
 Intelligence in this context does not mean &ldquo;critical thinking&rdquo; or &ldquo;self-aware,&rdquo; but it does mean creativity, learning, and problem-solving, properties that nature, and the universe, demonstrates with flying colors.  We can go further and claim that the amazing relationships in simple geometry, such as the tetrahedron array with its Fibonacci numbers, rations, and hexagonal patterns that define the laws of nature and reality are evidence of logic.  So, let&rsquo;s add &ldquo;logic&rdquo; to the list of properties.  What about &ldquo;planning&rdquo;? Does nature plan anything or do we all just happen to live in a corner of the Universe that was lucky enough to win the Cosmic Mega-Lotto? We can easily see that the simple relationships between three points instantly define an infinite array for order, pattern, and symmetry on many levels.  This isn&rsquo;t just *a* &ldquo;plan&rdquo;, it is *the* plan.
 
@@ -2400,7 +2400,7 @@ It is easy to see instances of this on a molecular level, such as how water is a
 
 We have a similar concept in the way our social institutions work.  *Interinstitutionality*, as this has been termed, explains how the various institutions of society like financial markets, governments, family structures, educational institutions, etc., all intertwine and create amalgamations and aggregates with one another.
 
-Interinstitutional research is defined as the investigation of the chain of complex, interrelated problems regarding tactics, sampling, data reliability, and notions of causality within the realm of each separate institution with the goal of improving aggregation and amalgamation, [^59] not unlike the supply chain model previously shown.  
+Interinstitutional research is defined as the investigation of the chain of complex, interrelated problems regarding tactics, sampling, data reliability, and notions of causality within the realm of each separate institution with the goal of improving aggregation and amalgamation, [^85] not unlike the supply chain model previously shown.  
 
 Take the institution of the modern American family as an example.  It can take many forms, but several extra-familial institutions affect the complexion of &ldquo;family &rdquo;, such as the market, profession, educational institutions, political affiliation, etc.  Each of these institutions brings to bear its own forces and logic on the amalgamated and aggregated institution of the family.  The market shapes perceptions of standards of living in the family.  The profession shape ideas of work and service.  Educational institutions shape the ideas and direction of society.  Politics shapes our understandings of the role and participation of family members.
 
@@ -2420,7 +2420,7 @@ On this point, tholonic thinking has coincidentally arrived at the same conclusi
 
 The tholonic view is that intelligence precedes consciousness.  This still complies with the traditional definition of intelligence as &ldquo;The ability to learn or understand or to deal with new or trying situations.&rdquo; The difference being, in the tholonic model, consciousness is not necessary to learn, understand or deal with challenges.  We are seeing this today in AI systems that certainly can learn, understand and deal with the challenges before them, but these AI systems are not conscious… yet.  Does that mean these AI systems have awareness? Only to the degree that everything has some level of awareness given that awareness is the source of existence, but not necessarily at the tholon level, meaning, the archetype for a toaster has a nominal form of intelligence as well as access to the existing primitive intelligences of its parents (metal, electricity, etc.), but it has a minimal effect because it has no children.  This is similar to the idea that the wave function for any and every single electron extends to every corner of existence.  The wave function of one electron in the ballpoint pen in your desk drawer is interfering with every electron in the Universe and even the gravitational field of Alpha Centauri… in theory, and on an infinitesimally small range.
 
-However, some *neuromorphic* systems (systems that mimic neurology), such as AI systems and even some integrated chip technology, have evolved to the point where experts and lawmakers argue that they deserve the same status as people with *personhood* rights, including the right to own property.  [^180]
+However, some *neuromorphic* systems (systems that mimic neurology), such as AI systems and even some integrated chip technology, have evolved to the point where experts and lawmakers argue that they deserve the same status as people with *personhood* rights, including the right to own property.  [^86]
 
 The tholonic definition of *intelligence* is slightly different that the traditional definition:
 
@@ -2444,7 +2444,7 @@ Think of what is involved in these interactions.  The requirement is that birds 
 
 When one of them finds a hive, they announce it to their friends and then go and find humans who they know they can enlist, humans who have learned how to communicate with them.  The birds hop and chatter is a specific way that humans recognize as the message that they have found a hive.  The humans collect their tools and tell the birds they are ready.  The birds then fly toward the hive, knowing to always keep their white tail feathers visible to the humans.  When they all arrive at the hive the humans smoke out the bees, chop down the tree, remove the honey and give the rest to the birds.  This is a beautiful example of cooperation between two groups that are competing with another group.
 
-What is truly amazing about this arrangement is that the birds and humans have developed their own language[^60].  Although it is not clear how or when this arrangement began, it is speculated that it was initiated by the birds when they saw that humans had the ability to make smoke and chop down trees&hellip; so, not only a long, long time ago but a literally &ldquo;birdbrained&rdquo; idea.
+What is truly amazing about this arrangement is that the birds and humans have developed their own language[^87].  Although it is not clear how or when this arrangement began, it is speculated that it was initiated by the birds when they saw that humans had the ability to make smoke and chop down trees&hellip; so, not only a long, long time ago but a literally &ldquo;birdbrained&rdquo; idea.
 
 Are we being asked to believe that a really smart bird came up with the idea, explained it to his bird tribe, then educated and trained not only his feathered brethren, but the humans as well, in the manner of communication that this ingenious bird had developed? Likewise, how long would it take for a Bronze Age hut-dwelling human to know that a hopping, chattering bird was trying to tell him &ldquo;Hey, I found a beehive I am totally incapable of getting to, so I will tell you where it is if you and your boys use your smoke and axes to get to it.  You then take the honey and give us the wax and larvae.  Deal?&rdquo;
 
@@ -2464,7 +2464,7 @@ Some of these competitive relationships between species are as terrifying as the
 
 We often think that competition is the opposite or contrary to cooperation, but from a tholonic perspective they are the same, in that competition tests the viability of a concept and/or rids it of instances that are not in the parent tholon&rsquo;s  best interest.
 
-One relationship that appears to be both competitive as well as cooperative is that of the *Emerald Jewel Wasp* (*ampulex compressa*) and the cockroach, where the wasp uses only the slower, less apt cockroaches for it purposes,[^61] pruning the cockroach gene pool of the less gifted, which ultimately enhances the abilities of the cockroach collective and by extension its tholonic intelligence, of which the gene pool is an instance of.
+One relationship that appears to be both competitive as well as cooperative is that of the *Emerald Jewel Wasp* (*ampulex compressa*) and the cockroach, where the wasp uses only the slower, less apt cockroaches for it purposes,[^88] pruning the cockroach gene pool of the less gifted, which ultimately enhances the abilities of the cockroach collective and by extension its tholonic intelligence, of which the gene pool is an instance of.
 
 The female wasp has quiet cleverly and strategically figured out that the best place to lay her eggs is inside a cockroach, as it can provide shelter (its exoskeleton) and food (its guts).  Needless to say, the cockroach is not so keen on this idea, and being much larger than the wasp, not so easy to convince.
 
@@ -2493,7 +2493,7 @@ Our claim that the original source of energy is primal awareness/intention, as a
 
 As Wheeler put it:  
 
-> No phenomenon is a real phenomenon until it is an observed phenomenon.[^140] We are participants in bringing into being not only the near and here, but the far away and long ago.[^141] 
+> No phenomenon is a real phenomenon until it is an observed phenomenon.[^89] We are participants in bringing into being not only the near and here, but the far away and long ago.[^90] 
 
 Towards the end of his life he said he had only enough time left to work on one idea: that **awareness shapes not only the present but the past as well.**
 
@@ -2503,7 +2503,7 @@ We already have the proof of awareness causing waveforms to collapse into partic
 
 Briefly, this split-slit experiment shows that when observed, electrons act like particles, and when not observed, they act like waves.  The act of observation forces the electron waves to be perceived as particles.  It&rsquo;s not that the electrons are waves that turn into particles; it&rsquo;s that the electrons are *wavicles*, both particles *and* waves at the same time, but the act of observing them is an interaction that alters their expression.
 
-We also have evidence of how awareness can (possibly) change the reality of the past as well, as demonstrated in Wheelers&rsquo;s *delayed-choice experiment*[^168] but in addition, Penrose wrote an entire book on the subject of cognition and reality (*The Emperors&rsquo;s  New Mind*).  He even came up with a term do describe the awareness/reality continuum: the _Orch-OR_[^142], or *orchestrated objective reduction*, which attempts to explain how consciousness and reality are intertwined.  The idea of reality being a product of awareness is not at all &ldquo;fringe&rdquo; and hasn&rsquo;t been for some time.  
+We also have evidence of how awareness can (possibly) change the reality of the past as well, as demonstrated in Wheelers&rsquo;s *delayed-choice experiment*[^91] but in addition, Penrose wrote an entire book on the subject of cognition and reality (*The Emperors&rsquo;s  New Mind*).  He even came up with a term do describe the awareness/reality continuum: the _Orch-OR_[^92], or *orchestrated objective reduction*, which attempts to explain how consciousness and reality are intertwined.  The idea of reality being a product of awareness is not at all &ldquo;fringe&rdquo; and hasn&rsquo;t been for some time.  
 
 Looking at this tholonically, each tholon has its own field, and that field is a parent field within which the child tholons, with their own subfields, are created.
 
@@ -2521,13 +2521,13 @@ As late as the 1950s, some scientists and most people in general thought that pl
 
 Sadly, some of the old guard is a tough bunch that is doing their best to keep us from making progress.  Take the long-time editor of *Nature* magazine, Jim Maddox, who stated, regarding Rupert Sheldrake&rsquo;s book on morphic fields:
 
-> &ldquo;\[his book\] is the best candidate for burning there has been for many years.  Sheldrake&rsquo;s is not a scientific theory.  Sheldrake is putting forward magic instead of science, and that can be condemned, in exactly the language that the Pope used to condemn Galileo, and for the same reasons: it is heresy.&rdquo;[^62]
+> &ldquo;\[his book\] is the best candidate for burning there has been for many years.  Sheldrake&rsquo;s is not a scientific theory.  Sheldrake is putting forward magic instead of science, and that can be condemned, in exactly the language that the Pope used to condemn Galileo, and for the same reasons: it is heresy.&rdquo;[^93]
 
 Yes, he actually cited Pope Paul V&rsquo;s condemnation of Galileo as a defense on the grounds that *heresy* is the real crime.  This sounds eerily similar to &ldquo;swarming with worms of heretical perversity.&rdquo;
 
 This alone should paint a pretty clear picture that modern science, for all its breakthroughs in understanding and progress, has become a modern-day religion in the hands of the truly dogmatic that seem to be in charge all too often.  Dr.  Richard Feynman himself noted this when he stated:
 
-> We live in an unscientific age in which almost all the buffeting of communications and television, words, books, and so on, are unscientific.  As a result, there is a considerable amount of intellectual tyranny in the name of science.[^144]
+> We live in an unscientific age in which almost all the buffeting of communications and television, words, books, and so on, are unscientific.  As a result, there is a considerable amount of intellectual tyranny in the name of science.[^94]
 
 So, why are the modern-day versions of Tomás de Torquemada (Grand Inquisitor in the Spanish Inquisition of the 15th Century) and his ilk impaling the venerable and brilliant Rupert Sheldrake on the spikes of modern mainstream scientific dogma? Well, it seems that Sheldrake, himself a Cambridge professor who studied at Harvard, was onto something with his *Morphic Field Theory*, and it rattled their cage.  Perhaps they feared that the &ldquo;worms of heretical perversity&rdquo; would begin to devour the carcass of a dying scientific worldview.
 
@@ -2535,13 +2535,13 @@ Sheldrake&rsquo;s Morphic Field Theory, which he described in his 1981 book, *A 
 
 A morphic field is (in 50 words):
 
-> &ldquo;located invisibly in and around organisms, and may account for such hitherto unexplainable phenomena as the regeneration of severed limbs by worms and salamanders, phantom limbs, the holographic properties of memory, telepathy, and the increasing ease with which new skills are learned as greater quantities of a population acquire them.[^63]
+> &ldquo;located invisibly in and around organisms, and may account for such hitherto unexplainable phenomena as the regeneration of severed limbs by worms and salamanders, phantom limbs, the holographic properties of memory, telepathy, and the increasing ease with which new skills are learned as greater quantities of a population acquire them.[^95]
 
 ##### \~Rupert Sheldrake
 
 A more complete description is:
 
-*The following is a synopsis based on a letter Sheldrake wrote to John Horgan, a writer for Scientific American,*[^64] *wherein he explains clearly in his own words what a morphic field is.  He also has a very good explanation on his website*[^65]*.*
+*The following is a synopsis based on a letter Sheldrake wrote to John Horgan, a writer for Scientific American,*[^96] *wherein he explains clearly in his own words what a morphic field is.  He also has a very good explanation on his website*[^97]*.*
 
 A morphic field (MF) is a field of energy that imposes patterns on otherwise random or indeterminate patterns of activity.  Morphic fields transmit information via morphic resonance (MR), which is the influence of previous structures of activity on subsequent similar structures of activity organized by morphic fields.  MR has the capacity to store and transmit information and therefore it can act as a memory bank for any self-organizing group, such as self-organizing systems; molecules, crystals, cells, plants, animals and animal societies.  Each member of a group can contribute and draw from this memory bank.
 
@@ -2551,19 +2551,19 @@ The very first known example of an MF test actually goes back to 1920, long befo
 
 They had no idea of morphic fields back then because if they did, they would have known that the Edinburgh mice benefited from the knowledge of the Harvard mice, even though they were thousands of miles apart, thanks to the transference of information via the MF/MR.  There have been many other examples like this over the last 100 years.
 
-The way this MF information is transmitted is via MR, according to Sheldrake.  All members of a group that share an MF have access to the MF info because they naturally resonate with that field, not unlike how we can pick up radio waves when we have a crystal that resonates with the transmission frequency.  Dogs share information with dogs, humans with humans, etc., but a bond between a dog and a human creates another MF that they both share.  Sheldrake shows examples of this in how many dogs know when their owners are coming home and start waiting for them by a door or window.[^66]<sup>,</sup>[^67]
+The way this MF information is transmitted is via MR, according to Sheldrake.  All members of a group that share an MF have access to the MF info because they naturally resonate with that field, not unlike how we can pick up radio waves when we have a crystal that resonates with the transmission frequency.  Dogs share information with dogs, humans with humans, etc., but a bond between a dog and a human creates another MF that they both share.  Sheldrake shows examples of this in how many dogs know when their owners are coming home and start waiting for them by a door or window.[^98]<sup>,</sup>[^99]
 
 *End of synopsis.*
 
-Because of their ability to transmit data across time and space, MFs have been considered for communication in long-distance and interstellar travel[^68]<sup>,</sup>[^69].  MFs may also be capable of creating self-organizing systems within the realm of AI.
+Because of their ability to transmit data across time and space, MFs have been considered for communication in long-distance and interstellar travel[^100]<sup>,</sup>[^101].  MFs may also be capable of creating self-organizing systems within the realm of AI.
 
-A lot more research is needed in the area of MF and MR, but this is slow in coming given the oppressive dogma of modern science.[^70] Others have been working on similar ideas, such as theoretical physicist Lee Smolin, with his idea of the *principle of precedence*[^71], which states that the history of measuring a particular quantum event will determine (or affect) the future measurements of that same event when it is measured.  Unfortunately, unlike the world of physics, biology has become more dogmatic in the 20<sup>th</sup> century.
+A lot more research is needed in the area of MF and MR, but this is slow in coming given the oppressive dogma of modern science.[^102] Others have been working on similar ideas, such as theoretical physicist Lee Smolin, with his idea of the *principle of precedence*[^103], which states that the history of measuring a particular quantum event will determine (or affect) the future measurements of that same event when it is measured.  Unfortunately, unlike the world of physics, biology has become more dogmatic in the 20<sup>th</sup> century.
 
-One small detail, but hugely significant, is that morphic fields originate outside of space-time.  They exist in the realm of thought, or awareness, or consciousness (or all three).  Information, as we currently understand it, cannot travel faster than the speed of light, but does this apply to awareness?  I suspect not.  There has been some research on awareness[^72], but it&rsquo;s scant, and the results are far from clear-cut.
+One small detail, but hugely significant, is that morphic fields originate outside of space-time.  They exist in the realm of thought, or awareness, or consciousness (or all three).  Information, as we currently understand it, cannot travel faster than the speed of light, but does this apply to awareness?  I suspect not.  There has been some research on awareness[^104], but it&rsquo;s scant, and the results are far from clear-cut.
 
-Many people believe that one&rsquo;s awareness can, with practice, travel outside of the body, and outside of this physical reality.  This is typically called *Out of Body Experiences* (OOBE), or *Astral Projection*.  Mainstream science is not a fan of this idea.  *Scientific American* suggests that OOBEs are caused by inner ear problems[^73].  This view, although not surprising, is disconcerting considering that some real research on OOBEs has shown remarkable evidence.
+Many people believe that one&rsquo;s awareness can, with practice, travel outside of the body, and outside of this physical reality.  This is typically called *Out of Body Experiences* (OOBE), or *Astral Projection*.  Mainstream science is not a fan of this idea.  *Scientific American* suggests that OOBEs are caused by inner ear problems[^105].  This view, although not surprising, is disconcerting considering that some real research on OOBEs has shown remarkable evidence.
 
-There are many examples of such research[^74], such as Dr.  Tart&rsquo;s subject being able to read the letters &ldquo;P = 10^-5^&rdquo; or &ldquo;25132&rdquo; that were written on a remote piece of paper while out-of-body[^75].  For the record, OOBEs are tholonically explained by the anchoring of the consciousness to the (or a) parent tholon of whatever tholon a person is an instance of.  The concept of &ldquo;soul&rdquo; is an umbrella term to describe many of the much higher-level tholons.
+There are many examples of such research[^106], such as Dr.  Tart&rsquo;s subject being able to read the letters &ldquo;P = 10^-5^&rdquo; or &ldquo;25132&rdquo; that were written on a remote piece of paper while out-of-body[^107].  For the record, OOBEs are tholonically explained by the anchoring of the consciousness to the (or a) parent tholon of whatever tholon a person is an instance of.  The concept of &ldquo;soul&rdquo; is an umbrella term to describe many of the much higher-level tholons.
 
 Although this sort of research does not get the attention it deserves, with a bit of effort it can found.  Science is not well equipped to study the mechanics of awareness or any non-material phenomena, but this certainly does not mean it does not exist.  
 
@@ -2579,7 +2579,7 @@ The current idea that MFs can be formed as a result of a self-organizing system,
 
 Sheldrake implicitly answers this question when he describes the morphic field as &ldquo;organizing fields which are systems that self-organize, create structure, and have patterns.&rdquo; This description is the description of a form of intelligence, and therefore the morphic fields that share a morphic resonance or morphic cloud are themselves the transmitters and receivers.  Tholonically speaking, this means that the archetypes, the tholons, are both transmitters and receivers of information and we actual humans are simply the instances of that aggregate field of the human tholon.
 
-For example, rather then the MF case of, say, ideas that spread to humans through the MF such as calculus, or communication between humans and their dogs as cited in Sheldrake&rsquo;s  book *&ldquo;Dogs That Know When Their Owners Are Coming Home*&rdquo;[^66], the ideas of tholonic fields claims that archetypes can have direct communication without having to go through any of their instances.  That interaction can also include negotiation via cooperation and/or conflict, or result in a redefining or contributing of both archetypes, etc., tholons can battle, join together, form alliances, trade, aid, lie, extort, and even destroy other tholons.  This could do a better job explaining the wasp/roach or honeybee/human relationship, but also shed light on everything form religion to economics.  At the time of this writing (August, 2020), within the social arena, which includes economics, politics, government, culture, civil rights, and so much more, we are seeing some extraordinary movement of tholonic activity in the social realm as a result of the global pandemic and subsequent lock-down, itself a creation of a tholonic intention, which will alter all aspects of society.  As the activity increases, a wider array of tholons will be contributing to the cause and effect of the situation-at-large to the point where seemingly unrelated concepts such as information technology, fashion, architecture, concepts of god, etc., will also change, and in ways we may not be able to imagine.  Of course, what we are seeing today is itself a child of the changes that have been happening for hundreds, and even thousands of years.  While there have been many tholonically seismic events over the past 300 years, some of the most disruptive would be: 
+For example, rather then the MF case of, say, ideas that spread to humans through the MF such as calculus, or communication between humans and their dogs as cited in Sheldrake&rsquo;s  book *&ldquo;Dogs That Know When Their Owners Are Coming Home*&rdquo;, the ideas of tholonic fields claims that archetypes can have direct communication without having to go through any of their instances.  That interaction can also include negotiation via cooperation and/or conflict, or result in a redefining or contributing of both archetypes, etc., tholons can battle, join together, form alliances, trade, aid, lie, extort, and even destroy other tholons.  This could do a better job explaining the wasp/roach or honeybee/human relationship, but also shed light on everything form religion to economics.  At the time of this writing (August, 2020), within the social arena, which includes economics, politics, government, culture, civil rights, and so much more, we are seeing some extraordinary movement of tholonic activity in the social realm as a result of the global pandemic and subsequent lock-down, itself a creation of a tholonic intention, which will alter all aspects of society.  As the activity increases, a wider array of tholons will be contributing to the cause and effect of the situation-at-large to the point where seemingly unrelated concepts such as information technology, fashion, architecture, concepts of god, etc., will also change, and in ways we may not be able to imagine.  Of course, what we are seeing today is itself a child of the changes that have been happening for hundreds, and even thousands of years.  While there have been many tholonically seismic events over the past 300 years, some of the most disruptive would be: 
 
 - The discovery of quantum phenomena in 1801 with the split slit experiment.
 - Nuclear fission and fusion (late 1930s, early 1940s).
@@ -2589,7 +2589,7 @@ For example, rather then the MF case of, say, ideas that spread to humans throug
 
 These are just some of the changes that permanently altered the direction of growth for many archetypes and their instances, and consequently, our understanding and perception of reality.  
 
-It is a small step from here to presume that with even a little understanding of reality, the tholonic model could easily &ldquo;predict&ldquo; future discoveries.  This has already happened to some degree when in one of numerous cases a self-learning AI that scanned only the words (which are themselves tholonic archetypes) and &rdquo;realized&ldquo; that the concepts labeled *chalcogenide*, *optoelectronic*, and *photovoltaic applications* had a high probability of creating a new concept of a thermometric archetype that the AI called *CsAgGa~2~Se~4~*[^205] .  That was in 2009.  In 2012, that compound was discovered.  
+It is a small step from here to presume that with even a little understanding of reality, the tholonic model could easily &ldquo;predict&ldquo; future discoveries.  This has already happened to some degree when in one of numerous cases a self-learning AI that scanned only the words (which are themselves tholonic archetypes) and &rdquo;realized&ldquo; that the concepts labeled *chalcogenide*, *optoelectronic*, and *photovoltaic applications* had a high probability of creating a new concept of a thermometric archetype that the AI called *CsAgGa~2~Se~4~*[^108] .  That was in 2009.  In 2012, that compound was discovered.  
 
 ### Ideas
 
@@ -2619,21 +2619,21 @@ Can we describe this field intelligence as some sort of telepathy? And if so, do
 
 The idea of telepathy has been around forever, but modern science insists it is all pseudo-science hogwash, right?
 
-Not exactly.  Not only is there a mountain of evidence to support its existence[^76]<sup>,</sup>[^77]<sup>,</sup>[^78]<sup>,</sup>[^79] and even a drug named after it, telepathine[^80], but the (technology-enhanced) telepathy business is booming!
+Not exactly.  Not only is there a mountain of evidence to support its existence[^109]<sup>,</sup>[^110]<sup>,</sup>[^111]<sup>,</sup>[^112] and even a drug named after it, telepathine[^113], but the (technology-enhanced) telepathy business is booming!
 
--   Many research projects developing telepathic processes and products.[^81]<sup>,</sup>[^82]<sup>,</sup>[^83]
--   U.S.  military (DARPA) developing telepathy-based weapons.[^84]
--   Elon Musk, Facebook and others all developing telepathy-based tools.[^85]<sup>,</sup>[^86]<sup>,</sup>[^87]<sup>,</sup>[^88]
+-   Many research projects developing telepathic processes and products.[^114]<sup>,</sup>[^115]<sup>,</sup>[^116]
+-   U.S.  military (DARPA) developing telepathy-based weapons.[^117]
+-   Elon Musk, Facebook and others all developing telepathy-based tools.[^118]<sup>,</sup>[^119]<sup>,</sup>[^120]<sup>,</sup>[^121]
 
-Sheldrake himself has a lot to say supporting the existence of some sort of telepathy in the documentary &ldquo;*Scientific Evidence of Telepathy: Documentary.&rdquo;*[^89]
+Sheldrake himself has a lot to say supporting the existence of some sort of telepathy in the documentary &ldquo;*Scientific Evidence of Telepathy: Documentary.&rdquo;*[^122]
 
-Russel Targ, a former physicist at Stanford Research Institute and author of *&ldquo;The Reality of ESP: A Physicist&rsquo;s Proof of Psychic Abilities&rdquo;*, has experimented with telepathy and ESP for some time now.  He shows[^90] that the scientific evidence for ESP is statistically stronger than the evidence that aspirin helps reduce stroke.  The aspirin test was so statistically significant that the test had to be called off because it was considered unethical to continue giving test subjects placebos in light of the overwhelming evidence they had collected before the test was even completed.  I know it&rsquo;s a rhetorical question, but why are we not seeing this revolutionary telepathy/ESP research all over the news? The evidence is compelling enough to accept that telepathy, in some form, is a thing.
+Russel Targ, a former physicist at Stanford Research Institute and author of *&ldquo;The Reality of ESP: A Physicist&rsquo;s Proof of Psychic Abilities&rdquo;*, has experimented with telepathy and ESP for some time now.  He shows[^123] that the scientific evidence for ESP is statistically stronger than the evidence that aspirin helps reduce stroke.  The aspirin test was so statistically significant that the test had to be called off because it was considered unethical to continue giving test subjects placebos in light of the overwhelming evidence they had collected before the test was even completed.  I know it&rsquo;s a rhetorical question, but why are we not seeing this revolutionary telepathy/ESP research all over the news? The evidence is compelling enough to accept that telepathy, in some form, is a thing.
 
-The umbrella &ldquo;or something&rdquo; category can cover quite a bit of territory, including lesser-known applications of our sensory-processing skills, such as the ability to smell personalities and emotions[^91]<sup>,</sup>[^92] or, if you&rsquo;re a woman ovulating, your superhero-like ability to immediately recognize otherwise hidden snakes[^93] (the elongated, legless, carnivorous reptiles, not the metaphorical type, although I suspect research would show significant results for the later as well) and gay men.  Some humans have a visual sense 100 times more sensitive than the average person.[^94] And what of the extensive intrinsic nervous system in the heart comprised of clusters of neurons sufficiently sophisticated to qualify as a *heartbrain*? Certainly, that must contain some sort of sensory abilities.
+The umbrella &ldquo;or something&rdquo; category can cover quite a bit of territory, including lesser-known applications of our sensory-processing skills, such as the ability to smell personalities and emotions[^124]<sup>,</sup>[^125] or, if you&rsquo;re a woman ovulating, your superhero-like ability to immediately recognize otherwise hidden snakes[^126] (the elongated, legless, carnivorous reptiles, not the metaphorical type, although I suspect research would show significant results for the later as well) and gay men.  Some humans have a visual sense 100 times more sensitive than the average person.[^127] And what of the extensive intrinsic nervous system in the heart comprised of clusters of neurons sufficiently sophisticated to qualify as a *heartbrain*? Certainly, that must contain some sort of sensory abilities.
 
-Perhaps the most overlooked, yet strongest sense we have is what we call our *gut sense*.  Considering that our gastrointestinal tracts contain 95 percent of our body&rsquo;s serotonin, has its own nervous system, and is filled with trillions of microbes sending terabytes of information to the brain every millisecond, microbes that are 100 times in number than the cells in the body and ten times the number of cells in the brain, all of which having a significant impact on the brain,[^95]<sup>,</sup>[^96] one would have to consider the *gut* as a powerful orgen with its own senses.[^97] Knowing this, perhaps we should start considering what microbes we are exposed to at birth that so dramatically affects our brain growth.  Those born under natural conditions are exposed to the microbes of their natural surroundings.  How do C-section births and exposure to microbes of hospitals, urban dwellings, and processed food alter our brain and gut development?
+Perhaps the most overlooked, yet strongest sense we have is what we call our *gut sense*.  Considering that our gastrointestinal tracts contain 95 percent of our body&rsquo;s serotonin, has its own nervous system, and is filled with trillions of microbes sending terabytes of information to the brain every millisecond, microbes that are 100 times in number than the cells in the body and ten times the number of cells in the brain, all of which having a significant impact on the brain,[^128]<sup>,</sup>[^129] one would have to consider the *gut* as a powerful orgen with its own senses.[^130] Knowing this, perhaps we should start considering what microbes we are exposed to at birth that so dramatically affects our brain growth.  Those born under natural conditions are exposed to the microbes of their natural surroundings.  How do C-section births and exposure to microbes of hospitals, urban dwellings, and processed food alter our brain and gut development?
 
-What about the sense that allows blind people to detect the emotions of a person in a photo[^98]? What sense is activated in Yogamata, the nine-year-old Indian girl who demonstrated at the 2015 Business Advocacy summit at Capitol Hill in Washington D.C.  that she could read blindfolded using only her third eye?[^99] How do we use the six additional senses identified by researchers at Harvard Medical School?[^100]
+What about the sense that allows blind people to detect the emotions of a person in a photo[^131]? What sense is activated in Yogamata, the nine-year-old Indian girl who demonstrated at the 2015 Business Advocacy summit at Capitol Hill in Washington D.C.  that she could read blindfolded using only her third eye?[^132] How do we use the six additional senses identified by researchers at Harvard Medical School?[^133]
 
 Our model of five senses is quaint, at best, and that is being generous, especially considering it was proposed over two thousand years ago by the same philosopher, Aristotle, who held back physics for centuries with some of his completely inaccurate ideas about such things as gravity that were proven wrong sixteen hundred years later by Galileo, and atoms, which were theorized by Leucippus and Democritus one hundred years before Aristotle declared the idea as nonsense.  Why do we persist in holding on to such antiquated ideas about something so fundamental to our understanding of ourselves, society, and reality?
 
@@ -2655,7 +2655,7 @@ Dawkins suggests that memes are the non-genetic manner in which information is p
 
 What mechanism actually does the transmitting and receiving among animals, humans, perhaps even plants and rocks? After all, they too have a form of awareness and intelligence.  Their collective mind? Their energy fields? Their physical structure? We don&rsquo;t need to know the specifics of *what* just yet.  Let&rsquo;s consider the *how* by looking at how we humans have learned to send and receive information.
 
-When you want to send something to somewhere, how is that done? Maybe you use a postal service or your computer network.  In either case, you are collecting the information and delivering it *not* to the final destination, but to a service or infrastructure that does the delivering.  This is the case with radio, television, electricity, and even nature if we consider how seeds, an instantiated form of information, can be transported around the world via air, water, hiking boots, animals and in the case of mushroom spores and viruses, intergalactically via meteors and space-wind.  These &ldquo;seeds&rdquo; are not only carriers of DNA, but possibly information or messages from off-world intelligence, according to some researchers[^101], including Dr.  Francis H.  C.  Crick, the co-discoverer of DNA, who, in his paper *Directed Panspermia*[^102], hypothesized that the DNA itself arrived from space.
+When you want to send something to somewhere, how is that done? Maybe you use a postal service or your computer network.  In either case, you are collecting the information and delivering it *not* to the final destination, but to a service or infrastructure that does the delivering.  This is the case with radio, television, electricity, and even nature if we consider how seeds, an instantiated form of information, can be transported around the world via air, water, hiking boots, animals and in the case of mushroom spores and viruses, intergalactically via meteors and space-wind.  These &ldquo;seeds&rdquo; are not only carriers of DNA, but possibly information or messages from off-world intelligence, according to some researchers[^134], including Dr.  Francis H.  C.  Crick, the co-discoverer of DNA, who, in his paper *Directed Panspermia*[^135], hypothesized that the DNA itself arrived from space.
 
 It is easy to imagine applying the well-developed model of telecommunications that we currently use, called the *Open Systems Interconnection* model, to a model of information sharing among various forms of intelligence.
 
@@ -2667,19 +2667,19 @@ Still, none of this addresses the specifics of where the information is stored o
 
 ## Collective Memory
 
-The idea that a field intelligence is in some way an extension of the idea of the *collective mind* or *collective consciousness* was formalized to a great degree by Carl Jung&rsquo;s idea of a collective subconscious and collective memory, although, it may be more accurate to describe the idea of a collective unconscious as a primitive understanding of field intelligence.  This is still a very fertile area of research across many disciplines.[^103]
+The idea that a field intelligence is in some way an extension of the idea of the *collective mind* or *collective consciousness* was formalized to a great degree by Carl Jung&rsquo;s idea of a collective subconscious and collective memory, although, it may be more accurate to describe the idea of a collective unconscious as a primitive understanding of field intelligence.  This is still a very fertile area of research across many disciplines.[^136]
 
 Sadly, no theories exist to explain where and how long-term collective memories are stored.  In the West, the idea of a collective memory has been around since the early 20<sup>th</sup> century French sociologist Maurice Halbwachs coined the term.  His hypothesis on how collective memory was stored and transmitted is extremely unspecific but generally depends on human-to-human transmissions, similar to Dawkin&rsquo;s theory on how memes are spread.  Given that Halbwachs was a student of Emile Durkheim and a devoted Marxist, one has to question his entire premise of a &ldquo;collective,&rdquo; especially in light of his claim that human memory can *only* function in a collective, and then goes on to give examples of his hypothesis of collective memory by comparing the &ldquo;collective memory&rdquo; of the bourgeoisie, religious and the working class, which may be valid, but is extremely myopic.  Still, he did coin the term, even if his premise was infected by a virulent and parasitic ideology (not unlike the Emerald Wasp).
 
 Current thinking still revolves around cultural expression as being the primary way that collective memories are transmitted; dance, stories, monuments, etc.  These are certainly reinforcing factors, but this idea alone cannot explain Man&rsquo;s collective memory of &ldquo;the whole history of the human race&rdquo;, as Jung claims is the source of our fear of fire, falling, and social status, to name just a few.  Some of these memories are epigenetic/genetic, such as being born with the fear of loud noises, which comes from the memory that loud noises are generally a harbinger of something that&rsquo;s bound to make life more difficult, but can all our collective memories be stored in our DNA? Perhaps that is what the 75% of our junk DNA holds (recently upgraded from the previous 98% junk), or perhaps we don&rsquo;t yet understand its function.  Maybe the junk DNA is more of an antenna than a transcoder? Apparently, we have no idea, but whatever it is, could it account for storing &ldquo;the whole history of the human race&rdquo;?  This seems very unreasonable.
 
-*Sidenote: It will also be interesting and informative to see the effects of the massive disruption the collective consciousness is currently undergoing as a result of the Internet and technology, and how that alters our collective consciousness and memory.[^104] If nothing else, the exponentially increasing amount of information entering our awareness will be create a tremendous seismic shock to the collective (un)conscious.*
+*Sidenote: It will also be interesting and informative to see the effects of the massive disruption the collective consciousness is currently undergoing as a result of the Internet and technology, and how that alters our collective consciousness and memory.[^137] If nothing else, the exponentially increasing amount of information entering our awareness will be create a tremendous seismic shock to the collective (un)conscious.*
 
 ## Engrams
 
 Another candidate is how the brain creates and stores memories.  We have developed the concept of an *engram*, which is the means by which biochemical and biophysical processes store our response to external stimuli.  The engram, first described by German Zoologist Richard Serman in the early 1900s, was based on what he called the *mnemetic principle*, which states that the imprint made in the nervous system (including the brain) can, when stimulated by external stimulus, reconstruct the experience.  This is a very holographic idea, in that holograms reconstruct imagery by illuminating a previous record of that imagery.  The images below demonstrate how the &ldquo;memory&rdquo; of the image of a 3-dimensional cat can be stored on a 2D surface of holographic film, but looking at the film we would have no way of knowing that there is any information there, let alone the information that describes a 3D cat.
 
-An important technical detail regarding holograms as it applies to memory is that many images can be recorded on top of each other, each with a different angle of illumination.  All those images can be reconstructed simply by changing the angle of the hologram when viewing.  This is why, and how, a holographic memory cube five meters square can store every word ever spoke or written by all humans.[^105]
+An important technical detail regarding holograms as it applies to memory is that many images can be recorded on top of each other, each with a different angle of illumination.  All those images can be reconstructed simply by changing the angle of the hologram when viewing.  This is why, and how, a holographic memory cube five meters square can store every word ever spoke or written by all humans.[^138]
 
 <img src='../Images/097-holograms.png' style='width:100%;' />
 
@@ -2687,9 +2687,9 @@ This imprint, or &ldquo;mnemetic trace&rdquo;, so named after the Greek muse of 
 
 The 50 years of research following Serman&rsquo;s hypothesis of the engram boils down to:
 
-> &ldquo;(1) memories are not localized but are instead distributed within functional areas of the cortex and (2) memory traces are not isolated cortical connections between inputs and outputs.&rdquo;[^106]
+> &ldquo;(1) memories are not localized but are instead distributed within functional areas of the cortex and (2) memory traces are not isolated cortical connections between inputs and outputs.&rdquo;[^139]
 
-Might we see these same characteristics in our own collective memory technology otherwise known as the Internet? Perhaps.  Decentralized and distributed information networks, such as Bitcoin&rsquo;s Blockchain, TOR (The Onion Router), and IPFS (Interplanetary File System) are probably early stages of such a thing.  The irony of the Internet is that when it was originally developed by DARPA it was designed to be much more decentralized then it is today to the point where it could withstand a nuclear attack and continue operating, but today much of the decentralization has been removed as it is not in the best interests of government and business who prefer a more &ldquo;consolidated&rdquo; model (many totalitarian countries, and England, have actual Internet kill switches[^107]).
+Might we see these same characteristics in our own collective memory technology otherwise known as the Internet? Perhaps.  Decentralized and distributed information networks, such as Bitcoin&rsquo;s Blockchain, TOR (The Onion Router), and IPFS (Interplanetary File System) are probably early stages of such a thing.  The irony of the Internet is that when it was originally developed by DARPA it was designed to be much more decentralized then it is today to the point where it could withstand a nuclear attack and continue operating, but today much of the decentralization has been removed as it is not in the best interests of government and business who prefer a more &ldquo;consolidated&rdquo; model (many totalitarian countries, and England, have actual Internet kill switches[^140]).
 
 If we extrapolate these ideas when looking for how field memory works, we might want to start with the presumptions that:
 
@@ -2697,7 +2697,7 @@ If we extrapolate these ideas when looking for how field memory works, we might 
 
 ## Modulation
 
-Another model to look at might be the way we have learned to transmit information by modulating the amplitude or frequency of a wave, similar to how TVs, radios, and Internet modems work.  If we accept the idea that all energy moves in cycles and waves, including the energy of ideas, then perhaps those waves are also modulated in some way with information.  As has been suggested earlier, there are waves we either don&rsquo;t recognize or don&rsquo;t consider as waves.  For example, is it possible that the &ldquo;waves&rdquo; from the &ldquo;cycles&rdquo; of the moon or the Arctic Tern could be &ldquo;modulated&rdquo; to carry information? It sounds crazy, but we know that brain waves encode information (possibly *rules of behavior*[^108]) as time codes[^109], that light can store quantum memories[^110], and that the same waves we use for communication are the same waves that have filled the entire universe since the Big Bang[^111].  Since the discovery of gravitational waves, we have been looking into how we can transmit information in that medium as well[^112].  Is it possible that these waves are modulated with information, making the waves both the carrier of information as well as the storage medium? Considering how little we know about the Universe, Reality, and Everything, these &ldquo;crazy&rdquo; ideas may not be so crazy after all.
+Another model to look at might be the way we have learned to transmit information by modulating the amplitude or frequency of a wave, similar to how TVs, radios, and Internet modems work.  If we accept the idea that all energy moves in cycles and waves, including the energy of ideas, then perhaps those waves are also modulated in some way with information.  As has been suggested earlier, there are waves we either don&rsquo;t recognize or don&rsquo;t consider as waves.  For example, is it possible that the &ldquo;waves&rdquo; from the &ldquo;cycles&rdquo; of the moon or the Arctic Tern could be &ldquo;modulated&rdquo; to carry information? It sounds crazy, but we know that brain waves encode information (possibly *rules of behavior*[^141]) as time codes[^142], that light can store quantum memories[^143], and that the same waves we use for communication are the same waves that have filled the entire universe since the Big Bang[^144].  Since the discovery of gravitational waves, we have been looking into how we can transmit information in that medium as well[^145].  Is it possible that these waves are modulated with information, making the waves both the carrier of information as well as the storage medium? Considering how little we know about the Universe, Reality, and Everything, these &ldquo;crazy&rdquo; ideas may not be so crazy after all.
 
 Let&rsquo;s go out on a limb.  Like my grandmother used to say &ldquo;when you can&rsquo;t find something you need to look everywhere.&rdquo;
 
@@ -2718,7 +2718,7 @@ Has anyone tested this? I have scoured the Internet looking for such research an
 > Subject: Can quantum dark energy explain telepathy?
 >
 > Telepathy and quantum entanglement seem to match each other in that a communication connection exists, but no tangible connection.  Could there be a hitherto unknown dark energy particle produced by electrical impulses in the brain? Could it be that entangled particles of this dark energy are shared? If a plasmon circuit in the brain creates patterns of these dark matter particles, based on thoughts and ideas, do people with the shared particles since the same patterns of thoughts and ideas? How long-lived are these particles, how long do they maintain patterns, and what might be the mechanism for transfer? These particles may be exchanged through quantum molecular tunneling, allowing a brain to transmit them outside of the head, and a person with a corollary quantum molecular tunnel for reception to readily receive the particles.  Persons sharing close and personal spaces may be more likely to transfer these particles to each other such as twins, relatives, friends, and even enemies.  It may be that these particles are long-lasting and this may allow objects to be imbued with the dark particle patterns, allowing a sensitive to read a person through the object.  It may be that wherever a transmitter goes the location they were at is imbued with thought patterns of their experiences.  The implications of such a mechanism for telepathy imply this process may be amplified by electronics to increase the strength of transmission and reception.  It also implies that we could control electronics through the use of
-> telepathy.[^113]
+> telepathy.[^146]
 
 There were no replies.
 
@@ -2726,7 +2726,7 @@ OK, I know this is all a bit of a stretch, but it&rsquo;s not outside the realm 
 
 ## Gravity
 
-Roger Penrose also suggests that quantum gravity and how it relates to *quantum state reduction*, or the collapsing of a waveform, i.e.  the instantiation of a archetype or concept, is the source of consciousness[^177].  If the tholonic idea that awareness is the source of existence, then this suggests that consciousness is not only the byproduct of awareness, which makes perfect sense, but it is also a integral part of the instantiation of tholonic patterns as consciousness serves as the expression of awareness necessary to complete the instantiation process, not unlike the way an electron must return to the source to complete a circuit.  Geometrically speaking, while the trigram is a result of the three states created by awareness, as previously shown, the actual instance of that trigram requires a 4^th^ composite *white dot* in order to take on form, or transform from a trigram into a tetrahedron.  Consciousness is the equivalent of this composite *white dot*, and quantum gravity is the instance of that force that causes the collapsing of the trigram to a tetrahedron.  This might also suggest that in the world of subatomic particles where we have the basic trinity of electrons, protons and neutrons, we would also expect to find a 4th particle that represents gravity, a *graviton*, and in fact, science has speculated that such a particle exists, they just haven&rsquo;t found it yet (probably because it is hiding in the virtual spaces with all of Wheeler&rsquo;s  missing electrons).  All of this is simply to suggest that if gravity is fundamental to consciousness and existence, it may also be fundamental to fields and field memory, and as gravity, or the field of a *graviton*, is both mass-less and infinite yet binds the entire universe together, it seems like an excellent candidate.
+Roger Penrose also suggests that quantum gravity and how it relates to *quantum state reduction*, or the collapsing of a waveform, i.e.  the instantiation of a archetype or concept, is the source of consciousness[^147].  If the tholonic idea that awareness is the source of existence, then this suggests that consciousness is not only the byproduct of awareness, which makes perfect sense, but it is also a integral part of the instantiation of tholonic patterns as consciousness serves as the expression of awareness necessary to complete the instantiation process, not unlike the way an electron must return to the source to complete a circuit.  Geometrically speaking, while the trigram is a result of the three states created by awareness, as previously shown, the actual instance of that trigram requires a 4^th^ composite *white dot* in order to take on form, or transform from a trigram into a tetrahedron.  Consciousness is the equivalent of this composite *white dot*, and quantum gravity is the instance of that force that causes the collapsing of the trigram to a tetrahedron.  This might also suggest that in the world of subatomic particles where we have the basic trinity of electrons, protons and neutrons, we would also expect to find a 4th particle that represents gravity, a *graviton*, and in fact, science has speculated that such a particle exists, they just haven&rsquo;t found it yet (probably because it is hiding in the virtual spaces with all of Wheeler&rsquo;s  missing electrons).  All of this is simply to suggest that if gravity is fundamental to consciousness and existence, it may also be fundamental to fields and field memory, and as gravity, or the field of a *graviton*, is both mass-less and infinite yet binds the entire universe together, it seems like an excellent candidate.
 
 This would also suggest that gravity and consciousness are two instances of the same expressions in different scopes.  Is there anything that supports such a wild claim? Yes, there is.
 
@@ -2774,7 +2774,7 @@ The reader might remember that in Chapter 7 we suggested this same *N-source* mi
 
 <img src='../Images/064-hexagram.png' style='width:30%;' />
 
-Even more directly applicable evidence comes from an article written by theoretical physicist Swati Nigam entitled *Gravity As Conscious Force To Resolve Quantum Gravity*[^178], wherein she states:
+Even more directly applicable evidence comes from an article written by theoretical physicist Swati Nigam entitled *Gravity As Conscious Force To Resolve Quantum Gravity*[^148], wherein she states:
 
 > According to current science, there is a missing connection between general relativity and quantum mechanics concepts of physics, which is needed to unify them into one, to conceptualize a unified field theory.  
 
@@ -2784,7 +2784,7 @@ The article then goes on about the nature of the problem, ultimately concluding 
 
 As mentioned previously in the section of *Circuits*, gravity occupies the same position (of *white dot*) as protons and electrons… and possibly consciousness? Is consciousnesses a *charge* of awareness just as an electron is a *charge* of energy, which is itself awareness?
 
-If consciousness is a fundamental force, then does it have a field? And can this field store memory, similar to the way the memory in the brain might be a *neuronal activity-associated magnetic field* [^208] [^209]? In any case, there seems to be a strong correlation between consciousness and gravity.
+If consciousness is a fundamental force, then does it have a field? And can this field store memory, similar to the way the memory in the brain might be a *neuronal activity-associated magnetic field* [^149] [^150]? In any case, there seems to be a strong correlation between consciousness and gravity.
 
 ## Limits of Consciousness?
 
@@ -2796,7 +2796,7 @@ First, let&rsquo;s hear what Werner Heisenberg has to say about what *observatio
 
 ##### ~ Werner Heisenberg, *Physics and Philosophy*, p.  137
 
-And by &ldquo;registering decisions&rdquo; he means any sort of recording of effect that is the result of the interacting with the cause, as long as that recording is a time-irreversible process.  This would imply that if one atom was altered as a result of  interacting with the wave function, it will collapse into a particle, so even a rock could be an &ldquo;observer&rdquo;.  It turns out that the act of observation is more analog that digital, meaning, the more something is observed, the more effect levels of observations that have levels of collapse.  In a recent experiment[^206] is was shown that:
+And by &ldquo;registering decisions&rdquo; he means any sort of recording of effect that is the result of the interacting with the cause, as long as that recording is a time-irreversible process.  This would imply that if one atom was altered as a result of  interacting with the wave function, it will collapse into a particle, so even a rock could be an &ldquo;observer&rdquo;.  It turns out that the act of observation is more analog that digital, meaning, the more something is observed, the more effect levels of observations that have levels of collapse.  In a recent experiment[^151] is was shown that:
 
 > …the greater the amount of &ldquo;watching&rdquo;, the greater the observer&rsquo;s influence on what actually takes place.
 
@@ -2818,11 +2818,11 @@ While Emoto&rsquo;s work can easily be brushed off by skeptics and institutional
 
 *Nature* magazine editor, Jim Maddox (yes, the same person who promoted the burning of Sheldrake&rsquo;s book on the grounds of heresy, as well as claiming the Big Bang theory is &ldquo;philosophically unacceptable&rdquo; and that there was &ldquo;no need to panic about AIDS&rdquo;), prefaced the *Nature* article with an editorial comment entitled &ldquo;When to believe the unbelievable&rdquo;, which admitted: &ldquo;There is no objective explanation of these observations.&rdquo; That sounds like a begrudging admission, but it was more like a temporary retreat in preparation for the next offensive.
 
-*Nature* did not want to publish the paper to begin with, holding its release for two years while awaiting independent confirmation from impartial laboratories in Israel, Italy, and Canada, who reported an observable biological effect.[^114]
+*Nature* did not want to publish the paper to begin with, holding its release for two years while awaiting independent confirmation from impartial laboratories in Israel, Italy, and Canada, who reported an observable biological effect.[^152]
 
 After the paper was published there was an explosion of meltdowns from the scientific community.  In response, *Nature* demanded that the experiment be repeated under conditions controlled by an ad-hoc selected team of its own, which included (and this should shed some light on their not-so-hidden intentions) the famous illusionist, pseudo-science enemy, and occasionally dishonest, James Randi, plus Maddox himself and a malpractice investigator.
 
-The *Nature* team did, in fact, find the same results as Benveniste, but with one fascinating exception: the effects of the tests disappeared when the members of the laboratory did not know if the water sample had been treated or not.  One could claim the results were then biased based on this knowledge, but one could also say that this awareness could have helped instantiate the effect.  According to the tholonic model, being aware of something is sufficient to instantiate it to *some* degree.  In any case, this was sufficient for *Nature* to publish a report on this methodological flaw in Benveniste&rsquo;s experiments and officially called &ldquo;water memory&rdquo; pseudo-science[^115] and published an article calling the entire idea &ldquo;delusional&rdquo; (written by, or course, Maddox, Randi, and Stewart, another lover of dogma)[^116].  Case closed.
+The *Nature* team did, in fact, find the same results as Benveniste, but with one fascinating exception: the effects of the tests disappeared when the members of the laboratory did not know if the water sample had been treated or not.  One could claim the results were then biased based on this knowledge, but one could also say that this awareness could have helped instantiate the effect.  According to the tholonic model, being aware of something is sufficient to instantiate it to *some* degree.  In any case, this was sufficient for *Nature* to publish a report on this methodological flaw in Benveniste&rsquo;s experiments and officially called &ldquo;water memory&rdquo; pseudo-science[^153] and published an article calling the entire idea &ldquo;delusional&rdquo; (written by, or course, Maddox, Randi, and Stewart, another lover of dogma)[^154].  Case closed.
 
 Or so they hoped, for not long after Benveniste&rsquo;s paper, The United Nations Educational, Scientific and Cultural Organization (UNESCO) decided to take their own look into his work.  In their words:
 
@@ -2844,11 +2844,11 @@ By the same token, the redundant and self-similar expressions of awareness can b
 
 The implication is that energy itself is a fundamental form of awareness and intention and therefore everything that exists is also a form of awareness and intention in the same way that everything that exists is a form of energy.  To be aware of something is to direct energy to some concept or idea, thereby moving energy through that pattern and the curve of that archetype, which alters the *norm* of what and how that archetype will instantiate itself.  Is this what is happening in the split-slit experiment?
 
-From the tholonic perspective, if the claim is &ldquo;energy alone can&rsquo;t be observed; only its interactions with other forms of energy (mass) can&rdquo; is true then it is also true that &ldquo;awareness alone can&rsquo;t be observed; only its interactions with other forms of awareness (concepts) can.&rdquo; This implies that any form of awareness is sufficient to alter reality, such as collapsing a wave form into a particle, as in the split-slit experiment, and if all things have awareness, then any *thing* observing the experiment would cause the wave function to collapse.  This turns out to be the case as &ldquo;observation&rdquo; by machines has been tested.[^117]
+From the tholonic perspective, if the claim is &ldquo;energy alone can&rsquo;t be observed; only its interactions with other forms of energy (mass) can&rdquo; is true then it is also true that &ldquo;awareness alone can&rsquo;t be observed; only its interactions with other forms of awareness (concepts) can.&rdquo; This implies that any form of awareness is sufficient to alter reality, such as collapsing a wave form into a particle, as in the split-slit experiment, and if all things have awareness, then any *thing* observing the experiment would cause the wave function to collapse.  This turns out to be the case as &ldquo;observation&rdquo; by machines has been tested.[^155]
 
 This helps to remind us that, if all forms of existence are some expressions of awareness, it&rsquo;s not just human awareness that is running the show.
 
-> &ldquo;Consciousness [ed: or awareness from the tholonic perspective] is part of our universe, so any physical theory which makes no proper place for it falls fundamentally short of providing a genuine description of the world.&rdquo;[^118]
+> &ldquo;Consciousness [ed: or awareness from the tholonic perspective] is part of our universe, so any physical theory which makes no proper place for it falls fundamentally short of providing a genuine description of the world.&rdquo;[^156]
 
 ##### \~ Roger Penrose.  *&ldquo;The most important physicist to work in relativity theory except for Einstein&rdquo;.*
 
@@ -2858,7 +2858,7 @@ Tholonic fields exist in the realm of thought, ideas, and concepts, so any exper
 
 What about the possibility that reality itself, the world around us, matter, everything we consider to be real, *is* the memory?
 
-This idea is based on the idea of Quantum Darwinism[^119] that states that of all the probable states that can exist, the ones that survive do so because of support from their environment.  In turn, these states that survive transfer information to the environment, altering its context, shifting the curve in its favor, and thereby improving the probabilities of future similar states.
+This idea is based on the idea of Quantum Darwinism[^157] that states that of all the probable states that can exist, the ones that survive do so because of support from their environment.  In turn, these states that survive transfer information to the environment, altering its context, shifting the curve in its favor, and thereby improving the probabilities of future similar states.
 
 As the energy interacts with the environment around it, the range of probabilities for the many attributes of an energy particle begins to decohere, or disappear, leaving only the attributes that are most compatible with the environment, which then interacts with the environment to make the environment more compatible with the attributes.  Notice the compatibility of Quantum Darwinism with the descriptions of the social equations in the chapter &ldquo;The Meaning of Math&rdquo;?
 
@@ -2920,11 +2920,11 @@ A simple example more aligned to the tholonic model would be how N-states emerge
 
 What this means is that everything that exists is *already* a record of what works from the first moment of creation, through every generation, up to and including the thing that exists.  Life, Reality, and Everything *is* the warehouse of all knowledge.  We just haven&rsquo;t yet figured out how to decode (most of) it.  Appendix F,*&ldquo;The Thologram and the I-Ching&rdquo;*, specifically addresses this and shows exactly how each tholon has a naturally existing binary signature.  It may actually be the case that the thing itself ***is*** the value.  We think of numbers a digits, but some unfathomably complex and multidimensional reality perhaps the cumulative value of that plant is expressed not as numbers, but as the plant itself.  
 
-This is similar in concept to the way a piece of music is the combination of many *atoms* of sound (yes, that&rsquo;s a real thing, and it&rsquo;s about 0.093 seconds[^211]), each an aggregate of many individual frequencies.  Over time, these frequencies change (unless the sound never changes). Within the information of those sounds can be more information.<img src='../Images/wavetypes.png' style='width:100%;margin:auto;' />
+This is similar in concept to the way a piece of music is the combination of many *atoms* of sound (yes, that&rsquo;s a real thing, and it&rsquo;s about 0.093 seconds[^158]), each an aggregate of many individual frequencies.  Over time, these frequencies change (unless the sound never changes). Within the information of those sounds can be more information.<img src='../Images/wavetypes.png' style='width:100%;margin:auto;' />
 
 The resulting waveform contains only and every frequency that was required for it to exist. Once we learned how to read that waveform using such concepts as the Fourier Transform we were able to discover all of its components. In the example of &ldquo;Hidden Information&rdquo;above, the image made by the *history* of the sound tells us much more than just the entire history of that sound and all of its ingredients.  (for more examples, see Appendix G, &ldquo;*Hidden Images*&rdquo;)
 
-One possible, yet small instance of this idea of reality of the moment is the record of its history as well is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants.  In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^120] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome.  Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
+One possible, yet small instance of this idea of reality of the moment is the record of its history as well is the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants.  In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^159] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit goes far beyond the human genome.  Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
 
 In this case it would probably be more accurate to show Bell curves as Gaussian curves that show the distribution of Brownian movement.  Below are three examples of Brownian movement and a typical distribution curve of the values that define that movement.  This is the movement of such things as the stock market, the path traveled by an amoeba, the motion of pollen grains on still water, diffusion of calcium through bones, movement of &ldquo;holes&rdquo; of electrical charge in semiconductors, and, as we&rsquo;ll soon hypothesize, the paths of predeterminism.
 
@@ -2953,13 +2953,13 @@ The answer to &ldquo;Why&rdquo; to the question of the Cambrian explosion, or an
 
 ## Maharishi Effect
 
-Given the general direction of mainstream science, we do not see a lot of investigation into how thought affects external reality, but some do exist[^218][^219].  We will look at one research report here, *&ldquo;Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.  C.: Results of the National Demonstration Project, June-July 1993&rdquo;*[^121] published in the journal *&ldquo;Social Indicators Research.&rdquo;*
+Given the general direction of mainstream science, we do not see a lot of investigation into how thought affects external reality, but some do exist *(see items 3 and 4 in "Other Experiments" list below)*.  We will look at one research report here, *&ldquo;Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.  C.: Results of the National Demonstration Project, June-July 1993&rdquo;*[^160] published in the journal *&ldquo;Social Indicators Research.&rdquo;*
 
 This study, which was monitored by a 27-member project review board comprised of independent scientists and leading citizens, found that there was a significant statistical result.
 
 What was this study exactly?
 
-> This study presents the final results of a two-month prospective experiment to reduce violent crime in Washington, DC.  On the basis of previous research, it was hypothesized that the level of violent crime in the District of Columbia would drop significantly with the creation of a large group of participants in the Transcendental Meditation® and TM-Siddhi® programs to increase coherence and reduce stress in the District.[^122]
+> This study presents the final results of a two-month prospective experiment to reduce violent crime in Washington, DC.  On the basis of previous research, it was hypothesized that the level of violent crime in the District of Columbia would drop significantly with the creation of a large group of participants in the Transcendental Meditation® and TM-Siddhi® programs to increase coherence and reduce stress in the District.[^161]
 
 Here, the word &ldquo;coherence&rdquo; refers to its definition of &ldquo;*the quality of forming a unified whole*.&rdquo;
 
@@ -2987,46 +2987,46 @@ Ultimately, this new concept was unsustainable in that environment because event
 
 You might be thinking that traditional prayer holds the same power, but it does not.  Why? Because most prayer is anything but coherent.  Prayer means very different things depending on culture, religion, personal perspectives, etc.  It can be anything from begging to demanding, justifying to virtue signaling, and occasionally it can be an expression of gratitude and love, but using group prayer to effect change is like using a group of blind people to paint a room by throwing handfuls of paint at the wall.  Your room *will* get painted, but you&rsquo;ll wish it didn&rsquo;t.
 
-This was recently confirmed by a $2.3-million-dollar study on the effect of prayer on the sick, involving over 1,800 patients.  It was the largest study of its kind ever undertaken.  Contrary to prayer helping the sick, they found that when a patient knew others were praying for them, they tended to have *more* complications.[^123]
+This was recently confirmed by a $2.3-million-dollar study on the effect of prayer on the sick, involving over 1,800 patients.  It was the largest study of its kind ever undertaken.  Contrary to prayer helping the sick, they found that when a patient knew others were praying for them, they tended to have *more* complications.[^162]
 
-There are other studies that conclude the exact opposite, such as Dr.  Byrd&rsquo;s study &ldquo;Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population&rdquo;[^124] and Dr.  Harris&rsquo;s  study &ldquo;A Randomized, Controlled Trial of the Effects of Remote, Intercessory Prayer on Outcomes in Patients Admitted to the Coronary Care Unit&rdquo;[^125].  However, without a detailed comparison of the studies, and specifically the manner in which the participants prayed, we cannot know to what degree coherence was at play.
+There are other studies that conclude the exact opposite, such as Dr.  Byrd&rsquo;s study &ldquo;Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population&rdquo;[^163] and Dr.  Harris&rsquo;s  study &ldquo;A Randomized, Controlled Trial of the Effects of Remote, Intercessory Prayer on Outcomes in Patients Admitted to the Coronary Care Unit&rdquo;[^164].  However, without a detailed comparison of the studies, and specifically the manner in which the participants prayed, we cannot know to what degree coherence was at play.
 
 The difference between the coherence of Transcendental Meditation and prayer is the former follows a very specific set of rules, has a beginning, a middle and an end, has a clearly defined non-personal target subject, and never attempts to force change.  Prayer can follow these same rules, but it rarely does because there are no rules to prayer and varies greatly depending culture, tradition, perspective, intention, etc.
 
 An example of coherent prayer is a practice used by the not-so-secret society of the *Order of the Rosy Cross*, or *Rosicrucians*.  Members who have reached a certain level of initiation are introduced to a schedule of &ldquo;prayers.&rdquo; This is a globally synchronized schedule of times when people are requested to focus their energy on a particular topic, such as health or family or finances, and in a specific manner.  If one is not in need, they send their benevolence into a &ldquo;pool&rdquo; of energy specific to that topic.  If one has a need in these areas they can join in at the scheduled times and &ldquo;tap into&rdquo; that pool.  This is a very coherent technique because it has specific archetypal and sustainable patterns of energy, and it (reportedly) works surprisingly well.
 
-The effect of the *Consciousness Field*, as it is referred by Roger Nelson of Princeton University and director of the *The Global Consciousness Project* (http://noosphere.princeton.edu/), is not limited to humans, but can affect matter [^212] and machines[^213].
+The effect of the *Consciousness Field*, as it is referred by Roger Nelson of Princeton University and director of the *The Global Consciousness Project* (http://noosphere.princeton.edu/), is not limited to humans, but can affect matter and machines *(see items 1 and 2 in list below).*
 
 ## Other Experiments
 
 Here is a very short list of books and papers that delve into experiments and perspectives that supports some of the tholonic claims:
 
-- *Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation.*[^212]
+1. *Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation.*[^165]
 
-- *FieldREG Anomalies in Group Situations*.[^213]
+2. *FieldREG Anomalies in Group Situations*.[^166]
 
--   *Test of a field theory of consciousness and social change*. [^218]
--   *International Peace Project in the Middle East: The Effects of the Maharishi Technology of the Unified Field.*[^219]
--   *The Intention Experiment,* Lynne McTaggart
--   *Groundbreaking New Results in Consciousness, Quantum Brain & Nonlocality Research,* Maoxin Wu
--   *Conditioning of Space-Time: The Relationship between Experimental Entanglement, Space-Memory and Consciousness.  Journal of Nonlocality Round Table Series, Colloquium \#4*, Rajendra Bajpai and +2
--   *Radiant Minds: Scientists Explore the Dimensions of Consciousness*, Juanita Ratner
--   *Extrasensory perception and quantum models of cognition*, Patrizio Tressoldi and +2
--   *The relationship between local geomagnetic activity, Tibetan Buddhist meditation and psychic awareness: Preliminary study*, David Luke
--   *Phenomenological Convergence between Major Paradigms of Classic Parapsychology and Cross-Cultural Practices: An Exploration of Paranthropology*, Jack Hunter
--   *An investigation into the cortical electrophysiology of remote staring detection*, Paul Stevens
--   *Geomagnetic Field Effects in Anomalous Dreams and the Akashic Field*, Stanley Krippner
--   *The relationship between local geomagnetic activity, meditation and psi.  Part I: Literature review and theoretical model*, David Luke and +1
--   *Eleonore Zugun: the Re-Evaluation of a Historic RSPK (Recurrent Spontaneous Psychokinesis) Case*, Peter Mulacz
--   *Intention,* Jeanne Lim
+3. *Test of a field theory of consciousness and social change*. [^167]
+4. *International Peace Project in the Middle East: The Effects of the Maharishi Technology of the Unified Field.*[^168]
+5. *The Intention Experiment,* Lynne McTaggart
+6. *Groundbreaking New Results in Consciousness, Quantum Brain & Nonlocality Research,* Maoxin Wu
+7. *Conditioning of Space-Time: The Relationship between Experimental Entanglement, Space-Memory and Consciousness.  Journal of Nonlocality Round Table Series, Colloquium \#4*, Rajendra Bajpai and +2
+8. *Radiant Minds: Scientists Explore the Dimensions of Consciousness*, Juanita Ratner
+9. *Extrasensory perception and quantum models of cognition*, Patrizio Tressoldi and +2
+10. *The relationship between local geomagnetic activity, Tibetan Buddhist meditation and psychic awareness: Preliminary study*, David Luke
+11. *Phenomenological Convergence between Major Paradigms of Classic Parapsychology and Cross-Cultural Practices: An Exploration of Paranthropology*, Jack Hunter
+12. *An investigation into the cortical electrophysiology of remote staring detection*, Paul Stevens
+13. *Geomagnetic Field Effects in Anomalous Dreams and the Akashic Field*, Stanley Krippner
+14. *The relationship between local geomagnetic activity, meditation and psi.  Part I: Literature review and theoretical model*, David Luke and +1
+15. *Eleonore Zugun: the Re-Evaluation of a Historic RSPK (Recurrent Spontaneous Psychokinesis) Case*, Peter Mulacz
+16. *Intention,* Jeanne Lim
 
 ## Are Archetypes Alive?
 
 If ideas are archetypes that have energy and fields, then it would be reasonable to think that an idea could be reinforced and strengthened by adding more energy to it.  How would one go about adding energy to an idea? If awareness is energy, then one obvious way would be to simply increase the awareness that an idea is exposed to.  This sort of thing is done all the time.  Take, for example, National Prayer Day in the U.S. (May 7th) when the President signs a proclamation encouraging all Americans to pray on this day and “to turn to God”.
 
-Now, imagine the potential power of 114,000,000 consciousnesses all being exposed to the same symbolism at the same time. This is exactly what happened during the broadcast of Super Bowl XLIX, but unlike National Prayer Day where the participants voluntarily focused their awareness towards one idea, it was more like a National Mind Harvesting Minute of the awareness of the 114,000,000 unwitting spectators.  Unlike the barrage of commercials and propaganda we are subjected to on a daily basis, this particular event was unique. According to a very suspicious article[^214] that was written by a conveniently anonymous designer who claimed to have once worked in the graphics department of a huge media company, out of boredom and his opposition to the then administration of President Bush, he deliberately hid pyramid eyes, pentagrams, and symbols from John Dee, the infamous sixteenth century occultist to the Queen of England, into the intro and promo videos for everything from war events to major sports events, including Super Bowl XLIX. Ignoring the question of why the designer thought secret occult symbols were a good choice to subliminally oppose President Bush, it was not the claim that was suspicious, as with just a little investigation his claims can be confirmed, but that this published article, which appeared overnight on over 36,000 websites, conveniently provided a “plausible deniability” defense for the media companies when Internet sleuths were discovering these symbols. regardless of the intentions of those responsible, the effect was that a tremendous amount of awareness, albeit unconscious awareness, was pumped into these images; images that have existing archetypes, and therefore, according to the tholonic model, their own awareness, intention and intelligence. 
+Now, imagine the potential power of 114,000,000 consciousnesses all being exposed to the same symbolism at the same time. This is exactly what happened during the broadcast of Super Bowl XLIX, but unlike National Prayer Day where the participants voluntarily focused their awareness towards one idea, it was more like a National Mind Harvesting Minute of the awareness of the 114,000,000 unwitting spectators.  Unlike the barrage of commercials and propaganda we are subjected to on a daily basis, this particular event was unique. According to a very suspicious article[^169] that was written by a conveniently anonymous designer who claimed to have once worked in the graphics department of a huge media company, out of boredom and his opposition to the then administration of President Bush, he deliberately hid pyramid eyes, pentagrams, and symbols from John Dee, the infamous sixteenth century occultist to the Queen of England, into the intro and promo videos for everything from war events to major sports events, including Super Bowl XLIX. Ignoring the question of why the designer thought secret occult symbols were a good choice to subliminally oppose President Bush, it was not the claim that was suspicious, as with just a little investigation his claims can be confirmed, but that this published article, which appeared overnight on over 36,000 websites, conveniently provided a “plausible deniability” defense for the media companies when Internet sleuths were discovering these symbols. regardless of the intentions of those responsible, the effect was that a tremendous amount of awareness, albeit unconscious awareness, was pumped into these images; images that have existing archetypes, and therefore, according to the tholonic model, their own awareness, intention and intelligence. 
 
-Considering the average American youth spends 900 hours a year in school, and another 1,200 hours a year watching television, and that 70 percent of the American adult waking life is spent in front of digital media, [^224] and that the average 78.6 year old American will spend nine years of his life watching TV, two years of which is just watching commercials, we talking about a tremendous amount of awareness up for grabs. How is that currently being used? 
+Considering the average American youth spends 900 hours a year in school, and another 1,200 hours a year watching television, and that 70 percent of the American adult waking life is spent in front of digital media, [^170] and that the average 78.6 year old American will spend nine years of his life watching TV, two years of which is just watching commercials, we talking about a tremendous amount of awareness up for grabs. How is that currently being used? 
 
 The more pessimistic reader might begin to suspect that the manipulation of awareness as energy is perhaps already well understood by some perhaps less than noble folks. Other may think this is bordering on mystical conspiracy theories.  Our intention is not to support either of these ideas, but to suggest that ideas have a life of their own. This include ancient, even if they seem to have been forgotten by modern society.
 
@@ -3038,7 +3038,7 @@ For example, the modern word “hell” comes from the ancient Norse goddess nam
 
 The concept of Hell, or whatever it happens to be called, is deeply ingrained into the worldview of billions of people who have little knowledge of the roots of their beliefs. These believers, through the energy of their awareness, bring into creation associated or parasitic archetypes that are attached to primary archetype which they are completely unaware of, but which are energized by that awareness nevertheless. While this can&rsquo;t be proven, I suspect that the more people who believe in hell, the more empowered and manifest the concept of an apocalypse. The ironic part is that believing in the traditional Christian or Islamic heaven by default empowers their concept of a hell, as they are presented as two side of one state, the afterlife.
 
-What we have referred to as an uninstantiated tholon can, al least in this context, be an archetypes as a form of *metameme,* which is a form of a *meme* that only exists in the collective unconscious and/or in the world of archetypes, the thologram. If a meme is “an idea, behavior, style, or usage that spreads from person to person within a culture, then a metameme is an “an idea or belief formed within the tholonic field (i.e. universal mind,  collective unconscious, morphic field, etc.) and spreads from tholonic field to tholonic field”.   You make have heard phrases like  &ldquo;If it looks like a duck, and quacks like a duck, its probably a duck.&rdquo;, or &ldquo;When you hear hooves, think horses, not zebras.&rdquo;, or &ldquo;The simplest explanation is most likely the right one&rdquo;, otherwise known as *Occam&rsquo;s Razor*. Applying the wisdom of these practical practices, what are we to make of the fact that research out of Princeton University supports the theory that ideas, in the form of social media networks, follow the same growth models as viruses (in the form of diseases.)?[^215] Outside of the conclusion that perhaps Facebook is actually a viral disease, it tells us that ideas follow the same patterns as existing natural patterns of growth, suggesting we might learn more about the life of archetypes if we considered them living.  OK, viruses *may* not be &ldquo;alive&rdquo;, but I say *may* because some experts in the field are redefining &ldquo;life&rdquo; to include viruses. [^216] [^217] Regardless, the growth, survival and creation of ideas follow the same patterns as everything else that grows, survives and creates. For this reason, a clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a leading geophysicist and founder of the Center for Bio-Earth Planetology, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms.
+What we have referred to as an uninstantiated tholon can, al least in this context, be an archetypes as a form of *metameme,* which is a form of a *meme* that only exists in the collective unconscious and/or in the world of archetypes, the thologram. If a meme is “an idea, behavior, style, or usage that spreads from person to person within a culture, then a metameme is an “an idea or belief formed within the tholonic field (i.e. universal mind,  collective unconscious, morphic field, etc.) and spreads from tholonic field to tholonic field”.   You make have heard phrases like  &ldquo;If it looks like a duck, and quacks like a duck, its probably a duck.&rdquo;, or &ldquo;When you hear hooves, think horses, not zebras.&rdquo;, or &ldquo;The simplest explanation is most likely the right one&rdquo;, otherwise known as *Occam&rsquo;s Razor*. Applying the wisdom of these practical practices, what are we to make of the fact that research out of Princeton University supports the theory that ideas, in the form of social media networks, follow the same growth models as viruses (in the form of diseases.)?[^171] Outside of the conclusion that perhaps Facebook is actually a viral disease, it tells us that ideas follow the same patterns as existing natural patterns of growth, suggesting we might learn more about the life of archetypes if we considered them living.  OK, viruses *may* not be &ldquo;alive&rdquo;, but I say *may* because some experts in the field are redefining &ldquo;life&rdquo; to include viruses. [^172] [^173] Regardless, the growth, survival and creation of ideas follow the same patterns as everything else that grows, survives and creates. For this reason, a clever researcher might be able to find correlations between the life cycle of a galaxy and something as seemingly unrelated as, say, the life cycle of a tomato plant. One such researcher might be Tokyo Institute of Technology’s Maruyama Shigenori, a leading geophysicist and founder of the Center for Bio-Earth Planetology, who, by connecting the theories of astronomy with those of the life sciences, has shown how entire planets may well be living super-organisms.
 
 This idea, however, has a dark side to it because so many of our beliefs are manipulated and controlled by others whose agenda is less than altruistic, hidden, and who are aware of the mechanics of reality and consciousness. From the most powerful laser in the world named after the Hindu god of destruction to trivial tarot cards based on movie stars, we can find countless examples of how these imposed archetypes infiltrate our understanding of the world.
 
@@ -3062,7 +3062,7 @@ If one is to believe the writings of this Belgian-French explorer then we must c
 
 In the Far East there is the concept of a *tulpa*, which is a type of thought-form. They are understood to be a sentient consciousness that resides in the brain of the host and can have separate feelings, thoughts, and memories from the host and can communicate through thought, imagination, feelings, or verbally. With enough practice and concentration, the host can see the tulpa’s form in the real world, and for the truly advanced *tulpamancer*, can be seen by others as well. Of course, this is an preposterous ides to Western thinkers. Alexandra David Neel was a woman of remarkable courage. She recounts how the only way she could enter the forbidden (to foreigners) city of Lhasa, Tibet, was to sneak in dressed as a beggar carrying only a compass, money (for ransom in case she was kidnapped) and a gun. She was also known for her sound scientific thinking and her opinions and observation carried weight in academic and scientific circles. Doctor A. D’Arsonval, a member of the French Academy of Sciences, The Academy of Medicine, professor at the College of France and president of the Institute of General Psychology, said of Alexandra David-Néel:
 
-> This well-known and courageous explorer of Tibet unites in herself all the physical, moral and intellectual qualities that could be desired of one who is to observe and examine a subject of this kind.[^223]
+> This well-known and courageous explorer of Tibet unites in herself all the physical, moral and intellectual qualities that could be desired of one who is to observe and examine a subject of this kind.[^174]
 
 So when she described how she used the techniques taught to her by the Tibetan magicians to conjure up her own *tulpa*, it is not as easy to discard them as pure fantasy. In her case, she manifested a short, pudgy, jolly monk, as per her intentions.  Perhaps even more interesting was that this tulpa, once it began to be visible to others, began to have its own free will, a life of its own; the jolly, fat monk began to grow lean and taller, and less jolly. It eventually became a major problem for her, and she had to spend six months “dissolving” it. As she states:
 
@@ -3070,7 +3070,7 @@ So when she described how she used the techniques taught to her by the Tibetan m
 
 Whether tulpas exist or not is left to the reader. The point is that the belief that ideas can take on a life if their own is neither new nor unique.
 
-On a related note, keep an eye on the research into what is essentially the collective consciousness of artificial intelligence, or *A.I. Swarms*, as they are called,[^220][^221]and the early attempts to create artificial humans.[^222] Science and technology is attempting to create their own tulpas, and one day they may also prove to be “more troublesome and bold, escaping our control.”
+On a related note, keep an eye on the research into what is essentially the collective consciousness of artificial intelligence, or *A.I. Swarms*, as they are called,[^175],[^176]and the early attempts to create artificial humans.[^177] Science and technology is attempting to create their own tulpas, and one day they may also prove to be “more troublesome and bold, escaping our control.”
 
 # 11: PREDETERMINISM
 
@@ -3096,7 +3096,7 @@ Every path that can be traveled by any instance already exists because the field
 
 <img src='../Images/graphs.png' style='width:100%;margin:auto;' />
 
-Perhaps one the best instance of this that is easily understood is music.  Consider that a finite number of notes exist, but within those notes an almost infinite number of tunes can be written.  If we mapped every combination of notes, the tune could be seen as a path on that map.  This is more than just a thought experiment… it&rsquo;s an actual undertaking by music theorist Julian Cook, who described in his article  &ldquo;Mapping the Music&rdquo;,[^170] how the harmonic path of a Beethoven sonata can be visualized on a *Tonnetz* graph (left)&hellip; a graph that happens to look just like a 2D tholon map.  In this example, the notes are acting like the fields, and the playing of those notes represent energy moving through these fields, forming music, or lightening, plants, rivers, neurons, and everything else.  
+Perhaps one the best instance of this that is easily understood is music.  Consider that a finite number of notes exist, but within those notes an almost infinite number of tunes can be written.  If we mapped every combination of notes, the tune could be seen as a path on that map.  This is more than just a thought experiment… it&rsquo;s an actual undertaking by music theorist Julian Cook, who described in his article  &ldquo;Mapping the Music&rdquo;,[^178] how the harmonic path of a Beethoven sonata can be visualized on a *Tonnetz* graph (left)&hellip; a graph that happens to look just like a 2D tholon map.  In this example, the notes are acting like the fields, and the playing of those notes represent energy moving through these fields, forming music, or lightening, plants, rivers, neurons, and everything else.  
 
 Music also demonstrates how certain patterns can lay down the foundations upon which other patterns and expressions build upon.  For example, there are many different types of scales, such as *pentatonic*, which has 5 notes per octave, or the *Western Major Scale*, with the classic 7 notes most of us are used to.  Sound occurs when energy is applied to matter, and notes represent the *dots* that we have identified within that chaos of white noise through our power of reasoning.  We form patterns and connect these dots that exist in the sea of chaos that is all sound, and by doing so we create &ldquo;music&rdquo;.  We describe white noise as all frequencies expressed at once, but it is equally accurate to describe white noise as every possible pattern of all possible notes being performed at once.  This tells us that that all possible forms of music, all songs, rhythms, beats, arrangements, etc., already exist within that white noise and all that we can do is discover them.  
 
@@ -3104,7 +3104,7 @@ Even in the world of bacterial meandering, we see a pattern.  Not surprisingly, 
 
 #### **Claim 58:** Archetypes tend toward order, while the instances tend toward chaos.  
 
-In the early generations of the thologram, the numbers of paths are limited, and with the additional generations, the number of paths increase.  This movement may appear random, but not only does it disperse according to a Bell curve, it actually follows the same rules as the thologram itself in that it is self-similar and fractal in nature.[^126]
+In the early generations of the thologram, the numbers of paths are limited, and with the additional generations, the number of paths increase.  This movement may appear random, but not only does it disperse according to a Bell curve, it actually follows the same rules as the thologram itself in that it is self-similar and fractal in nature.[^179]
 
 <img src='../Images/105-brownian-growth.png' style='width:100%;' />
 
@@ -3118,11 +3118,11 @@ There are other possibilities, as well.  In some cases, perhaps, and as we will 
 
 Applying this idea of multiple (and overlapping) instances to the thologram, there are different patterns that dominate our reality at different times, and as these patterns represent the instances that make up our reality, we can say that reality, from atoms to ideas, also differs across time.  In fact, the concept of an atom itself exists only because it is based on the patterns of reality we happen to be discovering at this point in our journey, but at other times in the past, and future, this concept will change, or disappear altogether.  There was (or will be) a time when what we see as atoms are seen as spirits, or perhaps facets of a larger intelligence, or something we are incapable of imagining at this time.  The laws that control atoms will also apply to spirits or intelligences, or whatever, but these laws will also be understood within the context and scope of the time.
 
-There are some real-world examples of how instances follow a preexisting path.  Here are some of the fairly well-known stories of &ldquo;coincidences&rdquo; that demonstrate this concept.[^127]
+There are some real-world examples of how instances follow a preexisting path.  Here are some of the fairly well-known stories of &ldquo;coincidences&rdquo; that demonstrate this concept.[^180]
 
 ### Laura Buxton
 
-In June of 2001, a 10 year old girl named Laura Buxton released a balloon with her name and address on it, which floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both brought their guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person.[^179] Below is a picture of the two Laura Buxon girls, who are still friends today.
+In June of 2001, a 10 year old girl named Laura Buxton released a balloon with her name and address on it, which floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both brought their guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person.[^181] Below is a picture of the two Laura Buxon girls, who are still friends today.
 
 <img src='../Images/buxtons.png' style='width:40%;' />
 
@@ -3252,19 +3252,19 @@ In both Sadhguru&rsquo;s model of reality and the tholonic model, transcending t
 
 ### Direction of Intention
 
-Here we return to the concept of *intention* which was skipped over previously.  Looking at the tholonic model, it would be easy to imagine how it could evolve towards some very dark sides of existence just as easily as it could towards bright sides because there is no implicit morality or definition of right or wrong.  The tholon is a structure, a machine, so to speak.  While there are plenty of examples of dark instances throughout the history of existence, on the whole, existence has tended towards being a contributing factor to life.  We can say that this is because no matter what the direction of intention, it will always tend toward being balanced, so it has a built in protection against going to far to one side or another, as the laws of physics shows us.  There is another understanding as well which can be understood using same powers of observation and reason that fuels scientific thinking.  In its simplest form we can say that it has been observed that, for the most part in life, the body prefers health and pleasure over sickness and suffering, the mind prefers peace and joy over violence and misery, and emotions of love and compassion are preferred over hate.  This would suggest that the original intention of creation was more in the direction of health, peace, and love then sickness, violence and hate.  One could argue that these preferences are only a result of evolution as they contributed to survival, but that would only support the argument that this was the original intention.  In reality, we tend to see both sides working together, as in the very parasitic relationship between the predatory wasp and the slower cockroaches, but as we also see in that example that it is ultimately a benefit to the cockroach gene pool.  The same goes for any synergetic system from elks and wolves to political systems.  Saying that health, love and bliss only exist within the structures of sickness, hate and misery (and visa-versa) may sound like a Buddhist tenet, but it appears to be fundamental to the tholonic model as well.  Is appears as though cooperation and conflict is not an either/or choice but rather there is cooperation within conflict, and conflict within cooperation, which implies this model has the most stability, for now at least.  The human brain, cellular mechanics, and all life in general, is wired to be both competitive[^196] and cooperative[^195] at the same time, which implies that this is (so far) the most effective manner for every instance to express the intention of the of its tholonic archetype that has its source in the *primal intention*.
+Here we return to the concept of *intention* which was skipped over previously.  Looking at the tholonic model, it would be easy to imagine how it could evolve towards some very dark sides of existence just as easily as it could towards bright sides because there is no implicit morality or definition of right or wrong.  The tholon is a structure, a machine, so to speak.  While there are plenty of examples of dark instances throughout the history of existence, on the whole, existence has tended towards being a contributing factor to life.  We can say that this is because no matter what the direction of intention, it will always tend toward being balanced, so it has a built in protection against going to far to one side or another, as the laws of physics shows us.  There is another understanding as well which can be understood using same powers of observation and reason that fuels scientific thinking.  In its simplest form we can say that it has been observed that, for the most part in life, the body prefers health and pleasure over sickness and suffering, the mind prefers peace and joy over violence and misery, and emotions of love and compassion are preferred over hate.  This would suggest that the original intention of creation was more in the direction of health, peace, and love then sickness, violence and hate.  One could argue that these preferences are only a result of evolution as they contributed to survival, but that would only support the argument that this was the original intention.  In reality, we tend to see both sides working together, as in the very parasitic relationship between the predatory wasp and the slower cockroaches, but as we also see in that example that it is ultimately a benefit to the cockroach gene pool.  The same goes for any synergetic system from elks and wolves to political systems.  Saying that health, love and bliss only exist within the structures of sickness, hate and misery (and visa-versa) may sound like a Buddhist tenet, but it appears to be fundamental to the tholonic model as well.  Is appears as though cooperation and conflict is not an either/or choice but rather there is cooperation within conflict, and conflict within cooperation, which implies this model has the most stability, for now at least.  The human brain, cellular mechanics, and all life in general, is wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for every instance to express the intention of the of its tholonic archetype that has its source in the *primal intention*.
 
 # 12: PROMETHEUS UNBOUND
 
 Our reality is a microcosm of the reality that created it, just as the transhuman reality we are creating is a microcosm of our reality.
 
-*&ldquo;As above, so below&rdquo;* is an aphorism that can be found as far back as the ancient Greek philosophers, and no doubt existed long before they pondered it.  It was one of the founding principles upon which scientific theory grew.[^128] That is a bit beyond the scope of this writing, but the essence of this idea is that any form of order is dependent upon, and emulates, the order it grew from and which supports it.
+*&ldquo;As above, so below&rdquo;* is an aphorism that can be found as far back as the ancient Greek philosophers, and no doubt existed long before they pondered it.  It was one of the founding principles upon which scientific theory grew.[^184] That is a bit beyond the scope of this writing, but the essence of this idea is that any form of order is dependent upon, and emulates, the order it grew from and which supports it.
 
 Life forms that came into being through cellular mitosis will themselves create life forms that depend on cellular mitosis; DNA based life forms can only create other DNA based life forms; etc.  Given that we have yet to find any example to the contrary, the general rule that &ldquo;expressions of life are limited by, and have the abilities of, the nature and properties of their expression&rdquo; is pretty secure.
 
-This is the same premise behind the idea of *cosmological natural selection* which says that a black hole, upon collapse, spawns a new Universe with parameters similar to its Universe, though slightly mutated.[^129]
+This is the same premise behind the idea of *cosmological natural selection* which says that a black hole, upon collapse, spawns a new Universe with parameters similar to its Universe, though slightly mutated.[^185]
 
-We also see this idea in *quantum Darwinism*, which states that of all the probable states that can exist, the ones that survive do so because of support from their environment.  In turn, these states that survive transfer information to the environment, altering its scope, shifting the curve in its favor, and thereby improving the probabilities of future similar states.  What we call classical reality is the redundant transference of that information.[^119] 
+We also see this idea in *quantum Darwinism*, which states that of all the probable states that can exist, the ones that survive do so because of support from their environment.  In turn, these states that survive transfer information to the environment, altering its scope, shifting the curve in its favor, and thereby improving the probabilities of future similar states.  What we call classical reality is the redundant transference of that information.
 
 #### **Claim 59:** The field instructs the direction of creation, and the creations support the field.
 
@@ -3274,7 +3274,7 @@ We can also say (as previously shown) that there are rules that exist in this re
 
 #### **Claim 60:** The context defines the content which then becomes the context for more content.
 
-There are other examples of such rules and relationships which are nicely exemplified in such things as holograms and fractals, but we won&rsquo;t get into those here as this has been written about many times.[^131]<sup>,</sup>[^132]
+There are other examples of such rules and relationships which are nicely exemplified in such things as holograms and fractals, but we won&rsquo;t get into those here as this has been written about many times.[^186]<sup>,</sup>[^187]
 
 ## Life Cycle of a Reality
 
@@ -3290,7 +3290,7 @@ We go so far as to claim that lower forms of high-technology are already forming
 
 If using tholonic reasoning we apply the intentions of our own transhumanist efforts (AI/VR/biohacking, etc.) and apply to that the context of our own genesis, it begins to look like life itself is an instance of AI, with humans being one of the more advanced versions.
 
-Where our creations depend on and require laws and instructions in the form of computer code and technology, our reality depends on laws and instructions as well, which we call &ldquo;physics&rdquo; and the &ldquo;laws of nature&rdquo; and they may well be the programming language this simulation was written in.  Where our creations require central processing units, our reality requires black holes, which are, according to some theories, holographic projectors of 3D reality[^133].  Where our creations use various forms of sophisticated communication protocols, our reality has quantum entanglement, dark energy, etc.  Comparing the world&rsquo;s most sophisticated CPU, Google&rsquo;s Bristlecone 72-qubit quantum computing CPU, to the &ldquo;CPU&rdquo; of our creator&rsquo;s &ldquo;tech&rdquo;, such as the supermassive black hole NGC-1277, you can get an idea how powerful a Cosmic Gameboy this reality might be.
+Where our creations depend on and require laws and instructions in the form of computer code and technology, our reality depends on laws and instructions as well, which we call &ldquo;physics&rdquo; and the &ldquo;laws of nature&rdquo; and they may well be the programming language this simulation was written in.  Where our creations require central processing units, our reality requires black holes, which are, according to some theories, holographic projectors of 3D reality[^188].  Where our creations use various forms of sophisticated communication protocols, our reality has quantum entanglement, dark energy, etc.  Comparing the world&rsquo;s most sophisticated CPU, Google&rsquo;s Bristlecone 72-qubit quantum computing CPU, to the &ldquo;CPU&rdquo; of our creator&rsquo;s &ldquo;tech&rdquo;, such as the supermassive black hole NGC-1277, you can get an idea how powerful a Cosmic Gameboy this reality might be.
 
 <img src='../Images/106-cpu-blackhole.png' style='width:100%;' />
 
@@ -3304,7 +3304,7 @@ If we look at the crazy and irrational antics of the mythological gods (see appe
 
 As the AI of the gods, are we providing solutions to problems our creators, whatever form of intelligence they take, are incapable of developing themselves? Perhaps life is simply a viability test bed, an experimental sandbox.  Who knows?
 
-Perhaps the question that has humanity so concerned, &ldquo;Will AI ever attain consciousness?&rdquo; is our human version of our creators&rsquo; question &ldquo;Will man ever become a god?&rdquo; Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, therefore anything Man creates will have that same stolen fire.  Unfortunately for Man, this larceny made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods &ldquo;**Behold, the man has become like one of Us.&rdquo;**[^134].  Perhaps one day our unhappy and nervous descendants we will say &ldquo;**Behold, the machine has become like one of Us.**&rdquo;
+Perhaps the question that has humanity so concerned, &ldquo;Will AI ever attain consciousness?&rdquo; is our human version of our creators&rsquo; question &ldquo;Will man ever become a god?&rdquo; Legend says once upon a time a god stole fire from heaven and embedded it in the soul of Man, therefore anything Man creates will have that same stolen fire.  Unfortunately for Man, this larceny made some of the gods really, really unhappy and nervous, ultimately resulting in Man being exiled from paradise to manage on his own because, to quote the gods &ldquo;**Behold, the man has become like one of Us.&rdquo;**[^189].  Perhaps one day our unhappy and nervous descendants we will say &ldquo;**Behold, the machine has become like one of Us.**&rdquo;
 
 <img src='../Images/last-image.png' style='width:20%;' />
 
@@ -3319,7 +3319,7 @@ Before we get into the techniques, there is an important point to make that is b
 
 As we have mentioned, ideas have archetypes, and those archetypes have instances.  One of the archetypes of Ideas is form.  This would then suggest that ideas can alter form, which can alter an instance of form.  Tholonically speaking, that is exactly right.  The mere thought of something has some effect on the instantiated form of that thought.
 
-This is relevant to creating structured water, or any creative process, but water seems to be a particularly sensitive medium.  The thoughts you impose on the water have an effect on the water.  Although not scientifically proven, Dr.  Masaru Emoto&rsquo;s work with &ldquo;water consciousness&rdquo;[^135] makes this same claim and purports to show significant evidence.  Personally, I am disappointed he has refused to subject his methods to scrutiny, and to be honest, it raises doubt in my mind as to the validity of his claims, but looking at this only from a tholonic perspective, it is a valid hypothesis.
+This is relevant to creating structured water, or any creative process, but water seems to be a particularly sensitive medium.  The thoughts you impose on the water have an effect on the water.  Although not scientifically proven, Dr.  Masaru Emoto&rsquo;s work with &ldquo;water consciousness&rdquo;[^190] makes this same claim and purports to show significant evidence.  Personally, I am disappointed he has refused to subject his methods to scrutiny, and to be honest, it raises doubt in my mind as to the validity of his claims, but looking at this only from a tholonic perspective, it is a valid hypothesis.
 
 Simply focusing your thoughts on the water will have some effect.  Of course, increasing the structure the water (or returning it to its natural state) will create a far better medium for interacting with energy.
 
@@ -3335,17 +3335,17 @@ Another technique is to simply create a vortex in a container of water.  This ca
 
 Magnets have also been used.  Although it may make intuitive sense that one could use magnets, no one seems to do a decent job of explaining how they work.  However, tholonically, using magnetic marbles would make sense as the recombination of water that results in flowing over the marbles would be subject to one field upon division and the opposite field upon reunion.  In addition, magnetic marbles represent even more structure than crystal or metal marbles.
 
-Some of Australia&rsquo;s largest produce farms have been using magnetic water with phenomenal results, needing 25% less water to produce a superior product than with traditional water, according to Seven West Media, Western Australia&rsquo;s leading news service.[^136]
+Some of Australia&rsquo;s largest produce farms have been using magnetic water with phenomenal results, needing 25% less water to produce a superior product than with traditional water, according to Seven West Media, Western Australia&rsquo;s leading news service.[^191]
 
-Simple instructions can be found on the web[^137] for making a Hero&rsquo;s Fountain (named after the first-century Greek mathematician Heron who discovered this process of an energy-free recycling water fountain) that constantly cycles water through a loop.  Fill one of the bottles with marbles, or whatever you like, and when the cycle is complete, you have a bottle filled with restructured water.
+Simple instructions can be found on the web[^192] for making a Hero&rsquo;s Fountain (named after the first-century Greek mathematician Heron who discovered this process of an energy-free recycling water fountain) that constantly cycles water through a loop.  Fill one of the bottles with marbles, or whatever you like, and when the cycle is complete, you have a bottle filled with restructured water.
 
 ### Commercial Attachments
 
 Devices such as the Martin-Wasserwirbler (MW) attachment are small devices that claim to restructure water typically by creating a vortex within the device.  The Martin-Wasserwirbler (developed in Germany) is an attachment that forces the water through a series of vortex-creating channels made of oppositely charged metals.  I am slightly suspicious of this last bit as they say they use silver and gold as the oppositely charged metals, but both of these metals have similar ionization and electronegativity properties, so unless they are doing something to these metals to change that, it&rsquo;s not clear how they can be oppositely charged.  This is not to say they are not, just that it is unclear.  
 
-We will pay particular attention to the MW device because it was the first device to create structured water whose ideas was originally conceived by the brilliant Viktor Schauberger, the Austrian forest caretaker, naturalist, parascientist, philosopher, inventor and biomimicry experimenter, and his son Walter Schauberger, both of whom studied the qualities of water.[^138]
+We will pay particular attention to the MW device because it was the first device to create structured water whose ideas was originally conceived by the brilliant Viktor Schauberger, the Austrian forest caretaker, naturalist, parascientist, philosopher, inventor and biomimicry experimenter, and his son Walter Schauberger, both of whom studied the qualities of water.[^193]
 
-The idea that the qualities of water lost due to it processing could be reintroduced by creating a vortex with the water was originally brought up in 1972 in a conversation with civil engineer Wilhelm Martin, who was working on ways to improve tap water.  In 1997 Martin published his paper &ldquo;Experimente mit Leitungswasser &rdquo; (Experiments with Tap Water)[^139].  In that paper, he describes the Martin-Wasserwirbler (Martin Water Vortex) and his 30 years of experimentation with the concept.
+The idea that the qualities of water lost due to it processing could be reintroduced by creating a vortex with the water was originally brought up in 1972 in a conversation with civil engineer Wilhelm Martin, who was working on ways to improve tap water.  In 1997 Martin published his paper &ldquo;Experimente mit Leitungswasser &rdquo; (Experiments with Tap Water)[^194].  In that paper, he describes the Martin-Wasserwirbler (Martin Water Vortex) and his 30 years of experimentation with the concept.
 
 Tests with the MW have shown positive results, such as a rise in pH, oxygen content, and a decline in water temperature.  Unfortunately, there are no tools that exist to measure many of the qualities of water that we believe are its most important, which is the manner water moves, stores and transmits energy.
 
@@ -3386,6 +3386,7 @@ In the figure above we show the three perspectives of a 2D tholon map.  Notice t
 
 Tholonically, we can easily map things like Ragone and utility space (as in the battery example), or *laws* and *social responsibility* (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the equivalent social expression of *I<sup>2</sup>* or $\sqrt{P/R}$ would represent.  In fact, there are quite a lot of relationships, rules, and formulas in a tholon that need more understanding.  What is presented here is the idea that the tholon can represent any system when described in its most reduced states.  This work is more akin to the Wright Brother&rsquo;s first flight rather than a modern airplane.  
 
+<div style='page-break-after: always; break-after: page;'></div>
 # C - An Unexpected Pattern
 
 In the course of writing this book there was the need to generate sets of number from other sets of numbers.  In one case, the results presented a very unexpected pattern.
@@ -3394,7 +3395,7 @@ Numbers were generated by periodically calculating the longitudinal position of 
 
 $  4+2+4+3+0+0+3+3+6+8+3+7+7+6+8+5+5\ \ +\ \ 2+3+9+9+2+9+8+6+6+7+9+0+7+7+1+5\ =\ 164\\ 1+6+4\ =\ 11\\ 1+1\ =\ 2 $
 
-Millions of samples were recorded and reduced to one number.  The input data of the Son and Moon positions was perfectly non-random and linear, but the single-number series of data was &ldquo;mostly random&rdquo; according to the *Chi squared* results of a randomness test[^203].  Below shows the test results of the single-number data and data from a random number generator (RNG), for comparison[^183] [^181].
+Millions of samples were recorded and reduced to one number.  The input data of the Son and Moon positions was perfectly non-random and linear, but the single-number series of data was &ldquo;mostly random&rdquo; according to the *Chi squared* results of a randomness test[^195].  Below shows the test results of the single-number data and data from a random number generator (RNG), for comparison[^196] [^197].
 
 <img src='../Images/rng.png' style='width:100%' />
 
@@ -3465,7 +3466,7 @@ There are two very significant points in this definition.  The first is that it 
 
 Zipf&rsquo;s Law was not discovered by physicists or even within the hard sciences.  It was a French stenographer, Jean-Baptiste Estoup (1868 - 1950) that first discovered the patterns of words which became Zipf&rsquo;s Law after it was popularized by the American linguist George Kingsley Zipf (1902 - 1050).
 
-It seems that languages, all languages, from every corner of the world, both modern and ancient, follow Zipf&rsquo;s law in the way words are distributed in both writing and speaking (and by inference, the manner in which we think).  We don&rsquo;t need to drill into the details, but what is significant is that this same distribution pattern is also seen in city populations, solar flare intensities, protein sequences and immune receptors, the amount of traffic websites get, earthquake magnitudes, the number of times academic papers are cited, last names, the firing patterns of neural networks, ingredients used in cookbooks, the number of phone calls people received, the diameter of Moon craters, the number of people that die in wars, the popularity of opening chess moves, even the rate at which we forget… and countless more.[^182] 
+It seems that languages, all languages, from every corner of the world, both modern and ancient, follow Zipf&rsquo;s law in the way words are distributed in both writing and speaking (and by inference, the manner in which we think).  We don&rsquo;t need to drill into the details, but what is significant is that this same distribution pattern is also seen in city populations, solar flare intensities, protein sequences and immune receptors, the amount of traffic websites get, earthquake magnitudes, the number of times academic papers are cited, last names, the firing patterns of neural networks, ingredients used in cookbooks, the number of phone calls people received, the diameter of Moon craters, the number of people that die in wars, the popularity of opening chess moves, even the rate at which we forget… and countless more.[^198] 
 
 <img src='../Images/many-zipfs.png' style='width:100%' /> 
 
@@ -3475,7 +3476,7 @@ In short, Zipf&rsquo;s law is an example of power laws, and power laws touch eve
 
 Related sidenote, using just prime numbers you can also determine &pi;, but this has nothing to do with RZF:    $1-\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}$
 
-One of the useful features of the RZF is that is can turn a *divergent* series of numbers (numbers that when you add then together approach infinity) into a *convergent* series (when the sum approaches a specific value, like $-\frac{1}{12}$ or $\frac{\pi ^{2}}{6}$).  It can do this does because the hypothesis uses the concept of *analytic continuation* and *complex numbers*.  You can play with this function using an online Riemann Zeta Function Calculator.  [^186]
+One of the useful features of the RZF is that is can turn a *divergent* series of numbers (numbers that when you add then together approach infinity) into a *convergent* series (when the sum approaches a specific value, like $-\frac{1}{12}$ or $\frac{\pi ^{2}}{6}$).  It can do this does because the hypothesis uses the concept of *analytic continuation* and *complex numbers*.  You can play with this function using an online Riemann Zeta Function Calculator.  [^199]
 
 The RZF is based on the *Riemann hypothesis*, which also states that  ζ($s$)=0 only when $s$ is a negative even integer or a complex number with real part of $\frac{1}{2}$.  This hypothesis is really quite profound in the way it relates to the distribution of prime numbers.  That won&rsquo;t be explained here, but it is understandable when properly explained.  There are a couple of excellent videos on the subject at https://www.youtube.com/watch?v=sD0NjbwqlYw and https://www.youtube.com/watch?v=d6c6uIyieoo.  
 
@@ -3483,7 +3484,7 @@ This 160 year old hypothesis has yet to be proven, however, and because it is co
 
 Understanding how the RZF works would (probably) help explain the how and why patterns of numbers appear organically in any data-set of naturally occurring samples, such as the charts above.
 
-What value would we get if we applied the RZF to the series of square roots of natural numbers, the same numbers that define a Fresnel diffraction?  Some really smart person did exactly this [^187], and the answer is…  voilà!
+What value would we get if we applied the RZF to the series of square roots of natural numbers, the same numbers that define a Fresnel diffraction?  Some really smart person did exactly this [^200], and the answer is…  voilà!
 
 <img src='../Images/sqrt2pi.png' style='width:50%' />
 
@@ -3513,7 +3514,7 @@ All of this may have nothing to do with unraveling the mystery of the Fresnel pa
 
 While the manner in which the cross-summed numbers create a diffraction pattern may be a mystery (to me), how diffraction patterns are created are not.  Properly described, it would require a lot of math which we won&rsquo;t get in to there, but a quick search on &ldquo;What is the Cornu&rsquo;s spiral method for diffraction pattern?&rdquo; will reveal all to the more curious.  In short, because we know that the intensity of light at any point is always proportional to two values known as the *Fresnel integrals*  $\begin{cases} x( t) =\int ^{t}_{0}\cos\left( u^{2}\right) du & \\ y( t) =\int ^{t}_{0}\sin\left( u^{2}\right) du &  \end{cases}$, we can plot the intensity of each point along the diffraction pattern on a 2-Dimensional plot.  When we do this this, we end up with an amazing figure called the *Cornu Spiral*, shown below as 2D Cornu Spiral (Fresnel).
 
-Another interesting thing about the Cornu Spiral is that it also describes the path of the sun over the course of the year (from Earth&rsquo;s perspective)[^210], which is pretty poetic.  It appears as though the Cornu spiral describes not only how light and matter interact in the nanometer scale, but also on the planetary scale, at least in one sense.
+Another interesting thing about the Cornu Spiral is that it also describes the path of the sun over the course of the year (from Earth&rsquo;s perspective)[^201], which is pretty poetic.  It appears as though the Cornu spiral describes not only how light and matter interact in the nanometer scale, but also on the planetary scale, at least in one sense.
 
 Not surprisingly, the Riemann Zeta Function also creates not just one Cornu Spiral, but an entire series of spirals, as shown in &ldquo;Cornu Spiral (RZF)&rdquo;, that emerge from nothing to the final spiral.  
 
@@ -3570,12 +3571,13 @@ The bottom image is simply a graph where each value is a dot over the course of 
 
 The following images were created by plotting each digit of the position of the Sun.  Each number is assigned a value.  
 
-- In ***Img.  1***, we begin with the first number at the bottom.  Each subsequent digit is plotted $3 \times number$ degrees to the left or right, with even numbers to the right, odd numbers to the left.  For example, the number 9 would be plotted 27 degrees to the left, and the number 8 would be plotted 24 degrees to the right.  The width of the line is relative to the digit&rsquo;s place, so 1.0 is wider than 0.1 which is wider the 0.01, etc.  The image below, ***Img.  1a***, is the same  algorithm but based on random numbers rather than the Sun&rsquo;s position.  The purpose of this graph is to visually show the expanding scope that starts from one point.  The reason for odd=left and even=right was to see what pattern we would get if we used the traditional yin/yang and ancient Greek concept that even numbers are yin in nature and odd numbers yang in nature[^192].  If there was any validity to this then we would expect to see a pattern common in nature, which is exactly what we get.  ***Img.  1b*** is the same as ***Img.  1a***, but where the initial direction of each like the plot is random.
+- In ***Img.  1***, we begin with the first number at the bottom.  Each subsequent digit is plotted $3 \times number$ degrees to the left or right, with even numbers to the right, odd numbers to the left.  For example, the number 9 would be plotted 27 degrees to the left, and the number 8 would be plotted 24 degrees to the right.  The width of the line is relative to the digit&rsquo;s place, so 1.0 is wider than 0.1 which is wider the 0.01, etc.  The image below, ***Img.  1a***, is the same  algorithm but based on random numbers rather than the Sun&rsquo;s position.  The purpose of this graph is to visually show the expanding scope that starts from one point.  The reason for odd=left and even=right was to see what pattern we would get if we used the traditional yin/yang and ancient Greek concept that even numbers are yin in nature and odd numbers yang in nature[^202].  If there was any validity to this then we would expect to see a pattern common in nature, which is exactly what we get.  ***Img.  1b*** is the same as ***Img.  1a***, but where the initial direction of each like the plot is random.
 - ***Img.  2*** is similar to ***Img.  1***, except each number is plotted adjacent to the previous number (and the colors were changed, the deviation was lessened, and the length of the plot was slightly shortened).  
 - ***Img.  3*** is something quite different.  Rather than using the position of the Sun, we used the recurring cross-summed patterns of the sequence of numbers when we increase counting by 1 through 9 (as shown in the number matrix above).  The image below, ***Img.  3a***, is that same sequence but with a much larger value so as to see its larger pattern.  Interestingly, we end up with three distinct groups; 2,5,8 (cs=6), 1,4,7 (cs=3), and 3,6 (cs=9).  The number 9 is all alone by itself and is at the center.
 
 <img src='../Images/cstrees.png' style='width:100%' />
 
+<div style='page-break-after: always; break-after: page;'></div>
 # D - New Data?
 
 Applying this Ohm&rsquo;s Law model to the tetrahedron shows some new relationships.  Readers who enjoy numbers will find this next (short) section interesting.
@@ -3630,7 +3632,7 @@ Plato elaborated on this in his &ldquo;Republic&rdquo;:
 
 ##### ~ Plato, &ldquo;Republic&rdquo;
 
-The above has been interpreted to mean 6^3^, which Plato alludes to elsewhere, as 6 (considered the number of marriage back then) is the product of female (2) and male (3), and 2^3^ &times; 3^3^ = 216.  While 216 is the most accepted answer, great thinkers in philosophy, math, chemistry physics, etc., spanning over 2,000 years, such as Aristotle, Proclus, Marsilio Ficino,  Gerolamo Cardano,  Eduard Zeller, Friedrich Schleiermacher, Paul Tannery, Friedrich Hultsch, and more, have all tried to decipher Plato&rsquo;s enigmatic text.  216&rsquo;s fame may even go back as far as Pythagoras, as it is the sum of cubes of the *Pythagorean triple* (3,4,5, hence 3^3^ + 4^3^ + 5^3^), or even Ancient Babylon.[^171]
+The above has been interpreted to mean 6^3^, which Plato alludes to elsewhere, as 6 (considered the number of marriage back then) is the product of female (2) and male (3), and 2^3^ &times; 3^3^ = 216.  While 216 is the most accepted answer, great thinkers in philosophy, math, chemistry physics, etc., spanning over 2,000 years, such as Aristotle, Proclus, Marsilio Ficino,  Gerolamo Cardano,  Eduard Zeller, Friedrich Schleiermacher, Paul Tannery, Friedrich Hultsch, and more, have all tried to decipher Plato&rsquo;s enigmatic text.  216&rsquo;s fame may even go back as far as Pythagoras, as it is the sum of cubes of the *Pythagorean triple* (3,4,5, hence 3^3^ + 4^3^ + 5^3^), or even Ancient Babylon.[^203]
 
 Later in history this pedigree number fell slightly into infamy when John the Apostle declared in Revelations that 666 was the number of the Beast (the beast that comes out of the sea, not the one that comes out of the abyss of the earth), but also the number of man.  216 might have escaped scot free if John had not specifically said that the number 666 was to be *calculated* (or *counted* depending on translation) to learn its true number.
 
@@ -3640,6 +3642,7 @@ Later in history this pedigree number fell slightly into infamy when John the Ap
 
 Because 216 = 6&times;6&times;6 it gained a dubious reputation by association with the Beast of Armageddon and started popping up in some strange places, thanks to humanities generally suspicious nature and love of doom.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and not &ldquo;Six hundred threescore and six&rdquo;, as it appears in the most popular King James Bible.  However, the odd coincidence that John&rsquo;s number of man (666), which needed to be calculated, has a strong relationship with Socrates&rsquo; &ldquo;number of the human creature&rdquo; (216), which also needed to be calculated, is curious… even more curious is why these old timer&rsquo;s preferred to shroud their message in incomprehensible riddles rather than just tell us the damn number! Ug… philosophers.  Regardless, 216&rsquo;s clout in the religious counter-culture still holds up today.  Just do an Internet search for &ldquo;216&rdquo; to see for yourself.  
 
+<div style='page-break-after: always; break-after: page;'></div>
 # E - Meaning of Squares and Square Roots
 
 What is the significance of a square or square root?  We know what it means mathematically, but how would that meaning be understood in a different context, such as society or law?  The challenge with applying one relationship from one context to another is that without well-understood metrics, attributing foreign attributes to a relationship runs the risk of being very subjective, biased, and filtered through a cultural or moral lens that itself may be very biased.  This is the reasoning behind many beliefs and superstitions.  Nevertheless, we will try our best to avoid those pitfalls.
@@ -3671,7 +3674,7 @@ This is effectively the same distinction between *quantitative* and *qualitative
 
 This is metaphorically equivalent to something using its own properties to evaluate its own existence, not unlike the first dot that became aware of itself through the second dot, creating the two states of objective and subjective.  Remember, this is referring to the non-math contexts, so none of these claims are meant to apply to math.
 
-This is a good place to bring the reader back to an earlier section that looked at the relationship between gravity and consciousness.  In that section we showed how the gravitational field $g$ was a product of $G\times M_{1} \times M_{2}$, where (and these definitions are verbatim from the research paper[^178])
+This is a good place to bring the reader back to an earlier section that looked at the relationship between gravity and consciousness.  In that section we showed how the gravitational field $g$ was a product of $G\times M_{1} \times M_{2}$, where (and these definitions are verbatim from the research paper.)
 
 > G = universal gravitational constant.
 > M~1~ = mass of the observing physical system (the observer).
@@ -3719,6 +3722,7 @@ $\frac{3}{0.414} = 7.242$, and this number also happens to be $2.414 \times 3$, 
 
 This is fantastically elegant is so many ways, and the recurring principle seems to be the Silver Ratio.
 
+<div style='page-break-after: always; break-after: page;'></div>
 # F - Greek Gods 
 
 According to the Greek mythology, the world began with several primordial beings who begat more gods, who begat even more gods, and so on. What follows is a brief overview of that begetting and the cosmic drama that typically follows the begetting gods. 
@@ -3772,11 +3776,12 @@ God of smithing, **Hephaestus**, had a difficult start to life. He was born lame
 
 God of wine and parties, Di**o**nysus was perhaps the most fun of the Olympians. Frenzied women called **maenads**, and half-goat men called **satyrs** followed him. He had a huge cult following in Greece, where his followers would participate in mass drinking and the orgies his mythological companions were so well known for. The Greek Gods represent humanity at its best and worst, from the violent and destructive **Ares** to the beautiful and seductive **Aphrodite**. Greek mythology demonstrates the epic power struggle between parents and children in an endless quest to gain control over the world. Tales passed down from each generation, showing them to be some of the most influential deities in human history that continued to have a significant impact to this day.
 
+<div style='page-break-after: always; break-after: page;'></div>
 # G - Hidden Images
 
 <img src='../Images/embedded-page.png' style='width:100%'>
 
-## Credits, left to right, top to bottom.
+*Credits, left to right, top to bottom.*
 
 **[Equation]** by *Aphex Twin*. Image via Jarmo Niinisalo
 
@@ -3802,6 +3807,7 @@ God of wine and parties, Di**o**nysus was perhaps the most fun of the Olympians.
 
 Complete images and more at https://twistedsifter.com/2013/01/hidden-images-embedded-into-songs-spectrographs/
 
+<div style='page-break-after: always; break-after: page;'></div>
 # H - The Tholonic I-Ching
 
 ## This section of very beta!  Most of it will change!!
@@ -3891,7 +3897,7 @@ According to the I-Ching there are 6 stages of change that describe the life-cyc
 
 ##### ~ Commentary on hexagram #1, the Creative (The I Ching,  Wilhelm/Baynes edition)
 
-This shows a general idea of the 6 steps from an I-Ching and tholonic perspective.  Examples include the popular *Transtheoretical Model* [^226], used for addressing issues of growth, recovery, behavior, production, etc. 
+This shows a general idea of the 6 steps from an I-Ching and tholonic perspective.  Examples include the popular *Transtheoretical Model* [^204], used for addressing issues of growth, recovery, behavior, production, etc. 
 
 <img src="../Images/simple_lines-1.png" style="width:100%;" />
 
@@ -4454,7 +4460,7 @@ The problem then is that there is no number that can be used to represent the pa
 
 <img src="../Images/number-chart.png" style="width:60%" />
 
-We need a number that can be equal to two (or more) values at the same time but can only be expressed as one of these two values in real numbers, and whatever value is in one state, the other state has a different value, so no two states can share the same value. This is a familiar concept in quantum mechanics where we have the idea of spin and entanglement.  For an excellent and clear explanation of this subject, see Quantum Magazine&rsquo;s &ldquo;Entanglement Made Simple&rdquo; [^225]
+We need a number that can be equal to two (or more) values at the same time but can only be expressed as one of these two values in real numbers, and whatever value is in one state, the other state has a different value, so no two states can share the same value. This is a familiar concept in quantum mechanics where we have the idea of spin and entanglement.  For an excellent and clear explanation of this subject, see Quantum Magazine&rsquo;s &ldquo;Entanglement Made Simple&rdquo; [^205]
 
 We can now apply to this idea to all the numbers, going all the way to the top, where we have the meta-value, or *first order primordial number*,  of A that represents  one unit from which these eight numbers emerge from in the following manner. 
 
@@ -4716,6 +4722,7 @@ Both of these models describe only the structure, the contexts of which is const
 
 With all that we have learned so far, let&rsquo;s attempt to decipher and translate the I-Ching.
 
+<div style='page-break-after: always; break-after: page;'></div>
 # PART II
 
 # The Way of Change 
@@ -4726,396 +4733,211 @@ With all that we have learned so far, let&rsquo;s attempt to decipher and transl
 
 # The End
 
-[^1]: Gleick, J. (1998). **Making a New Science**.
-
-[^2]: &ldquo;**The Beginning of Time**.&rdquo; Stephen Hawking, <https://www.hawking.org.uk/the-beginning-of-time.html>.
-
-[^3]: For math nerds, here is an excellent vlog on **&ldquo;The Opposite of Infinity&rdquo;**: on <http://www.quora.com> &ldquo;How do you understand the difference between something infinitely small and something inexistant Are they distinguishable in real terms?
-
-[^4]: <https://users.isy.liu.se/jalar/kurser/QF/assignments/LeggettGarg1985.pdf>
-
-[^5]: Boeyens JCA, Thackeray JF **Number theory and the unity of science**. S Afr J Sci. 2014;110(11/12), Art.\#a0084, 2 pages. <http://dx.doi.org/10.1590/sajs.2014/a0084>
-
-[^6]: Brown, J. H., Gupta, V. K., Li, B., Milne, B. T., Restrepo, C., & West, G. B. (2002**). **The fractal nature of nature: Power laws, ecological complexity and biodiversity**. London: The Royal Society <http://www.fractal.org/Bewustzijns-Besturings-Model/Fractal-Nature.pdf>
-
-[^7]: Here is the video of this experiment: <https://www.youtube.com/watch?v=UpJ-kGII074>
-
-[^8]: Here are a couple of sites that show a harmonograph in action. They are fascinating to watch. <http://andygiger.com/science/harmonograph/index.html>, <https://www.youtube.com/watch?v=HJYvc-ISrf8>
-
-[^9]: Yee, Jeff. (2019). **The Relation of Ohm&rsquo;s Law to Newton&rsquo;s 2nd Law**. 10.13140/RG.2.2.15576.75523. Ohm&rsquo;s law relates voltage, current and resistance in electrical systems as V=IR. Newton&rsquo;s 2nd law relates force, mass and acceleration as F=ma. Although electrical and mechanical systems are supported by different equations to describe these relationships today, it will be shown that the laws of Ohm and Newton are related and are built from the same foundation that governs the force of particles and all of matter.
-
-[^10]: <https://en.wikipedia.org/wiki/International_System_of_Units>
-
-[^11]: Oldershaw, R. L. (1989). **Self-Similar Cosmological model: Introduction and empirical tests**. International Journal of Theoretical Physics, 28(6), 669-694. doi:10.1007/bf00669984 <https://www.academia.edu/26520933/Self-Similar_Cosmological_model_Introduction_and_empirical_tests>
-
-[^12]: You can find many examples of this self-similarity <http://www.bordalierinstitute.com/>
-
-[^13]: <https://www.sciencealert.com/scientists-have-found-a-structural-similarity-between-human-cells-and-neutron-stars>
-
-[^14]: van Leunen, Hans. (2018). **The structure of physical reality**, <https://www.researchgate.net/publication/327273285_The_structure_of_physical_reality>
-
-[^15]: Leunen, J. J. (2018). **Structure of physical reality**. <http://vixra.org/pdf/1806.0087v3.pdf>. Here is the entire report <http://www3.amherst.edu/~rloldershaw/OBS.HTM>
-
-[^16]: Livio, M. (n.d.). **Why Math Works**. <https://www.scientificamerican.com/article/why-math-works/>
-
-[^17]: Britannica, T. E. (2019, April 08). **Laws of thought**. <https://www.britannica.com/topic/laws-of-thought>
-
-[^18]: **15** **Insane Things That Correlate With Each Other**. (n.d.). <http://www.tylervigen.com/spurious-correlations>
-
-[^19]: Abreu, N. (n.d**.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.** <http://cref.tripod.com/tucsonpaper.htm> Science of Self Club, University of Florida
-
-[^20]: <https://www.infinitemonkeylab.com/>
-
-[^21]: Jaynes, Julian (2000) \[1976\]. **The origin of consciousness in the breakdown of the bicameral mind** (PDF). Houghton Mifflin. p.73.ISBN 978-0-618-05707-8.
-
-[^22]: Fast-moving air is at a lower pressure than slow-moving air, so the pressure above the wing is lower than the pressure below, and this creates the lift that powers the plane upward.
-
-[^23]: Fiegna and Velicer, 2003
-
-[^24]: Rankin and Kokko, 2006; Muir and Howard, 1999
-
-[^25]: Rainey, Paul B. **&ldquo;Precarious Development: The Uncertain Social Life of Cellular Slime Molds.&rdquo;** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639-2640., doi:10.1073/pnas.1500708112. <https://www.pnas.org/content/pnas/112/9/2639.full.pdf>
-
-[^26]: De Roode et al., 2005
-
-[^27]: Gersani et al., 2001
-
-[^28]: Ahmed Ibrahim, **&ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;**, Network Biology, 06/2014, v. 4 2
-
-[^29]: **The Simulation Hypothesis Documentary**. (2018, August 01). <https://youtu.be/pznWo8f020I>
-
-[^30]: Klein, Christopher. &ldquo;**DNA Study Finds Aboriginal Australians World&rsquo;s Oldest Civilization.**&rdquo; History.com, A&E Television Networks, 23 Sept. 2016, <https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization>
-
-[^31]: Parvinen, Kalle, and Ulf Dieckmann. **&ldquo;Environmental Dimensionality&rdquo;**. *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
-
-[^32]: **List of cycles**. (2019, April 27). <https://en.wikipedia.org/wiki/List_of_cycles>
-
-[^33]: Hossenfelder, Sabine. &ldquo;**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?&rdquo;** Backreaction, 1 Jan. 1970, backreaction. <https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html>
-
-[^34]: Laszlo, E., & Clark, J. W. (1973). **Introduction to systems philosophy: Toward a new paradigm of contemporary thought**. New York, NY: Harper Torchbooks. ISBN: 0061317624 (ISBN13: 9780061317620)
-
-[^35]: Dawkins, C. R. (2016). **The selfish gene**. Oxford: Oxford University Press.
-
-[^36]: **Just for Hits - Richard Dawkins**. (2013, June 22). <https://youtu.be/GFn-ixX9edg>The first 4 minutes is an excellent overview of memes by Dawkins. The following 4 minutes is a sort of meme-ish music video which is a bit odd, but also a bit entertaining
-
-[^37]: Velikovsky, J. T. (1970, January 01). **Flow Theory, Evolution & Creativity: Or, Fun & Games ** <https://dl.acm.org/citation.cfm?id=2677770>
-
-[^38]: &ldquo;**Quantum Gravity Research**.&rdquo; Quantum Gravity Research, <https://www.quantumgravityresearch.org/>.
-
-[^39]: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. <http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf>
-
-[^40]: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). <http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain/>
-
-[^41]: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! <http://theoryofeverything.org/theToE/tags/e8/>
-
-[^42]: **Gottfried Wilhelm Leibniz**. (n.d.). <http://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz>**, Leibniz and the I Ching**. (n.d.). <http://www.wikiwand.com/en/Binary_number#/Leibniz_and_the_I_Ching>
-
-[^43]: **Gottfried Leibniz**. (n.d.). Retrieved from <http://history-computer.com/Dreamers/Leibniz.html>
-
-[^44]: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from <https://ethology.eu/how-wolves-change-rivers/>
-
-[^45]: Grzegorz Rozenberg and Arto Salomaa. **The mathematical theory of L systems** (Academic Press, New York, 1980). ISBN 0-12-597140-0
-
-[^46]: Quijada, John. **A Grammar of the Ithkuil Language**. John Quijada, 2011.
-
-[^47]: Speaks, Jeff. **&ldquo;Theories of Meaning&rdquo;**. Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,<https://plato.stanford.edu/entries/meaning/>
-
-[^48]: Example of a &ldquo;person&rdquo; as defined by the semantic web: <http://xmlns.com/foaf/spec/#term_Person>
-
-[^49]: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. <https://www.lod-cloud.net/>
-
-[^50]: Wang, Y., & Kosinski, M. (in press). **&ldquo;Deep neural networks are more accurate than humans at detecting sexual orientation from facial images&rdquo;**. Journal of Personality and Social Psychology; Newspaper article on this research: Levin, Sam. **&ldquo;New AI Can Work out Whether You&rsquo;re Gay or Straight from a Photograph.&rdquo;** The Guardian, Guardian News and Media, 7 Sept. 2017, <http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph>
-
-[^51]: &ldquo;**Reciprocal Theory**&rdquo; RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
-
-[^52]: Fuller, R. Buckminster, and E. J. Applewhite. ***Synergetics. Explorations in the Geometry of Thinking***. Macmillan, 1975.The entire book can be found online at <http://synergetics.info/>
-
-[^53]: References to the above come from <http://synergetics.info/s02/p0000.html>
-
-[^54]: <http://hexagonalwater.com>
-
-[^55]: Ptok, Fabian, &ldquo;**Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages**&rdquo; (2014). Undergraduate Honors Theses. 182. <https://scholar.colorado.edu/honr_theses/182>
-
-[^56]: Fonseca, Giuseppe, and Giuseppe Fonseca. &ldquo;**Dr Pollack The Fourth Phase of Water.**&rdquo; Academia.edu, <https://www.academia.edu/18516517/Dr_Pollack_The_Fourth_Phase_Of_Water>
-
-[^57]: Chara, et al. &ldquo;**Crossover between Tetrahedral and Hexagonal Structures in Liquid Water.**&rdquo; Physics Letters A, <http://www.academia.edu/21730774>
-
-[^58]: Seager, William, and Sean Allen-Hermanson. **&ldquo;Panpsychism.&rdquo;** Stanford Encyclopedia of Philosophy, Stanford University, 23 May 2001, <https://plato.stanford.edu/archives/win2012/entries/panpsychism/>
-
-[^59]: Turow, J. (1991). **The Challenge of Inference in Interinstitutional Research on Mass Communication**. Communication Research,18(2),222-239. <https://doi.org/10.1177/009365091018002005>. *Note: Although this is not a reference to the official definition of the term &ldquo;interinsitutionality&rdquo;, which is too vague to be of any use here, it does provide an excellent explanation of what it is, how it works, and how it applies to mass communications.*
-
-[^60]: Spottiswoode, C. N., K. S. Begg, and C. M. Begg. **&ldquo;Reciprocal Signaling in Honeyguide-human Mutualism&rdquo;.** Science 353, no. 6297 (2016): 387-89. doi:10.1126/science. aaf4885.
-
-[^61]: Milius, Susan. &ldquo;**How Roaches Fight off Wasps That Turn Their Victims into Zombies.**&rdquo; Science News, 14 Nov. 2018, <https://www.sciencenews.org/article/how-roaches-fight-wasps-turn-their-victims-zombies>
-
-[^62]: Media, T. E. (2015, June 02). Rupert Sheldrake, **Heretic**. <https://www.youtube.com/watch?v=ZSd4DA5xhHw>
-
-[^63]: Sheldrake, Rupert. **A New Science of Life: The Hypothesis of Formative Causation**. Los Angeles: J.P. Tarcher, 1981.
-
-[^64]: Horgan, J. (2014, July 14).**Scientific Heretic Rupert Sheldrake on Morphic Fields, Psychic Dogs and Other Mysteries.** <https://blogs.scientificamerican.com/cross-check/scientific-heretic-rupert-sheldrake-on-morphic-fields-psychic-dogs-and-other-mysteries/>
-
-[^65]: Sheldrake, R. (n.d.).**Morphic Resonance and Morphic Fields - an Introduction**. <https://www.sheldrake.org/research/morphic-resonance/introduction>
-
-[^66]: Sheldrake, R. (2013). **Dogs That Know When Their Owners Are Coming Home: And Other Unexplained Powers of Animals**. London: Cornerstone Digital.
-
-[^67]: One of these experiments can be seen here: <http://www.sheldrake.org/videos/jaytee-a-dog-who-knew-when-his-owner-was-coming-home-the-orf-experiment>
-
-[^68]: Iozzio, Corinne. &ldquo;**Scientists Prove That Telepathic Communication Is Within Reach.**&rdquo; Smithsonian.com, Smithsonian Institution, 2 Oct. 2014, <https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/>
-
-[^69]: Wilkins, & Sherman, H. M. (1971). ***Thoughts through space***. London: Muller.
-
-[^70]: Sheldrake, R. (2013). **Science set free: 10 paths to new discovery.** New York: Deepak Chopra Books.
-
-[^71]: Smolin, L. (2012, May 16). **Precedence and freedom in quantum physics**. <https://arxiv.org/abs/1205.3707>
-
-[^72]: Lobach, E.; Bierman, D. (2004). &ldquo;**The Invisible Gaze: Three Attempts to Replicate Sheldrake&rsquo;s Staring Effects**&rdquo; . <https://www.parapsych.org/papers/07.pdf>
-
-[^73]: <https://www.scientificamerican.com/article/what-causes-spooky-out-of-body-experiences/>
-
-[^74]: <https://www.iacworld.org/evidence-for-out-of-body-experience-as-a-real-or-veridical-phenomenon/>
-
-[^75]: The full account of his research and notes are reprinted at <http://www.aura-oasis.be/website/scientific-research-on-out-of-the-body-experiences/>
-
-[^76]: Tressoldi, P. E., Storm, L., & Radin, D. (2010). **Extrasensory Perception and Quantum Models of Cognition, Neuro Quantology,** 8(4). doi:10.14704/nq.2010.8.4.353
-
-[^77]: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary.** Retrieved from <https://www.youtube.com/watch?v=zZ4G3IRVFwU>
-
-[^78]: **Astronaut Tells of E. S. P. Tests.** (1971, June 22). Retrieved from <https://www.nytimes.com/1971/06/22/archives/astronaut-tells-of-e-s-p-tests.html>
-
-[^79]: **100 Scientific Papers Offering Evidence for Psi Phenomena & Effects**. (2019, April 22). <https://subtle.energy/list-100-peer-reviewed-papers-offer-scientific-evidence-psi-phenomena/>
-
-[^80]: Luke, D. (2009, September). **Telepathine (ayahuasca) and psychic ability: Field research in South America**. <http://www.researchgate.net/publication/278301470>, British Psychological Society, Transpersonal Psychology Section 13th Annual Conference
-
-[^81]: Cave, K. (2015, February 24). **The rise of &ldquo;Telepathic Tech&rdquo; in 2015**. Retrieved from <https://www.idgconnect.com/idgconnect/analysis-review/1023702/rise-telepathic-tech-2015>
-
-[^82]: Grau, C., Ginhoux, R., Riera, A., Nguyen, T. L., Chauvat, H., Berg, M., &hellip; Ruffini, G. (n.d.). **Conscious Brain-to-Brain Communication in Humans Using Non-Invasive Technologies**. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105225>
-
-[^83]: Heaven, D. (n.d.). **First mind-reading implant gives rats telepathic power**. Retrieved from <https://www.newscientist.com/article/dn23221-first-mind-reading-implant-gives-rats-telepathic-power/>
-
-[^84]: Tucker, P. (2018, September 06). **it&rsquo;s Now Possible to Telepathically Communicate with a Drone Swarm.** Retrieved from <https://www.defenseone.com/technology/2018/09/its-now-possible-telepathically-communicate-drone-swarm/151068/>
-
-[^85]: Kosoff, M., & Kosoff, M. (2017, April 21). **Elon Musk Is Seriously Starting a &ldquo;Telepathy&rdquo; Company.** Retrieved from <https://www.vanityfair.com/news/2017/04/elon-musk-is-seriously-starting-a-telepathy-company>
-
-[^86]: Heath, A. (2017, January 11). **Facebook has a mysterious team working on tech that sounds a lot like mind reading**. Retrieved from <https://www.businessinsider.com/facebooks-building-8-working-on-brain-computer-communication-platform-2017-1>
-
-[^87]: Watanabe-Crockett, L. (n.d.). **Telepathic Message Sent Over Internet**. Retrieved from <https://www.wabisabilearning.com/blog/telepathic-message-sent-over-internet>
-
-[^88]: ArXiv, E. T. (2018, October 01). **The first &ldquo;social network&rdquo; of brains lets three people transmit thoughts to each other&rsquo;s heads.** Retrieved from <https://www.technologyreview.com/s/612212/the-first-social-network-of-brains-lets-three-people-transmit-thoughts-to-each-others-heads/>
-
-[^89]: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary**. <https://www.youtube.com/watch?v=zZ4G3IRVFwU>
-
-[^90]: MetaRising. (2016, November 10). **Banned TED Talk about Psychic Abilities** \| Russell Targ \| suespeaks.org. <https://www.youtube.com/watch?v=hBl0cwyn5GY>
-
-[^91]: Zhou, Wen, and Denise Chen. &ldquo;**Fear-Related Chemosignals Modulate Recognition of Fear in Ambiguous Facial Expressions.**&rdquo; Psychological Science 20, no. 2 (2009): 177-83. doi:10.1111/j.1467-9280.2009.02263. x.
-
-[^92]: **&ldquo;Some Personality Traits Affect How You Smell.&rdquo;** Live Science, December 2, 2011
-
-[^93]: Masataka, N., and M. Shibasak. &ldquo;** Premenstrual Enhancement of Snake Detection in Visual&rdquo;**&rdquo;Nature. March 8, 2012. Accessed May 29, 2016.doi:10.1038/srep00307
-
-[^94]: **&ldquo;The Humans with Super Human Vision.&rdquo;** Discover, June 18, 2009.
-
-[^95]: Galland, L., National Center for Biotechnology Information. December 2014. Accessed June 12, 2016. <http://www.ncbi.nlm.nih.gov/pubmed/25402818/>
-
-[^96]: Heijtz, R. D., S. Wang, F. Anuar, Y. Qian, B. Bjorkholm, A. Samuelsson, M. L. Hibberd, H. Forssberg, and S. Pettersson. &ldquo;**Normal Gut Microbiota Modulates Brain Development and Behavior.**&rdquo; Proceedings of the National Academy of Sciences 108, no. 7 (2011): 3047-052. Accessed June 26, 2016. doi:10.1073/pnas.1010529108. Note: this is the same paper used by Dr. Andrew Wakefield to help support the autism/vaccine connection, which, contrary to Dr. Brain Deer&rsquo;s accusations, is neither fraudulent or inaccurate.
-
-[^97]: Gershon, Michael D. **The Second Brain: The Scientific Basis of Gut Instinct and a Groundbreaking New Understanding of Nervous Disorders of the Stomach and Intestine.** New York, NY: HarperCollins Publishers, 1998.
-
-[^98]: **&ldquo;Sight Unseen: People Blinded by Brain Damage Can Respond to Emotive Expressions.&rdquo;** Scientific American, October 14, 2009.
-
-[^99]: This is a technique taught by the Nithyananda Mission.Contact address: Nithyananda Dhyanapeetam, Nithyanandapuri, Kallugopahalli, Off Mysore Road, Bidadi, Bangalore District &ldquo; 562 109. Karnataka, INDIA
-
-[^100]: Cerretani, Jessica. &ldquo;**Extra Sensory Perceptions.**&rdquo; HMS.Accessed May 29, 2016. <https://hms.harvard.edu/news/harvard-medicine/extra-sensory-perceptions>.
-
-[^101]: Crick, F., & Orgel, L. (1973). **Directed panspermia.** Icarus, 19(3), 341-346. doi:10.1016/0019-1035(73)90110-3
-
-[^102]: Sullivan, W. (1979, May 07). **Scientists Examine Tiny Viruses for Messages from Outer Space**. Retrieved from <https://www.nytimes.com/1979/05/07/archives/scientists-examine-tiny-viruses-for-messages-from-outer-space.html>
-
-[^103]: **Collective Memory.**(n.d.). <https://www.sciencedirect.com/topics/computer-science/collective-memory>
-
-[^104]: García-Gavilanes, Ruth, et al. **&ldquo;The Memory Remains: Understanding Collective Memory in the Digital Age.&rdquo;** Science Advances, vol. 3, no. 4, 2017, doi:10.1126/sciadv.1602368. <https://advances.sciencemag.org/content/3/4/e1602368.full>
-
-[^105]: <https://en.wikipedia.org/wiki/Exabyte>
-
-[^106]: Darryl Bruce (2001) **Fifty Years Since Lashley&rsquo;s In Search of the Engram**: Refutations and Conjectures, Journal of the History of the Neurosciences, 10:3, 308-318, DOI: 10.1076/jhin.10.3.308.9086<https://www.tandfonline.com/doi/abs/10.1076/jhin.10.3.308.9086>
-
-[^107]: &ldquo;**Internet Kill Switch**.&rdquo; Wikipedia, Wikimedia Foundation, 24 Jan. 2019,<https://en.wikipedia.org/wiki/Internet_kill_switch>
-
-[^108]: Trafton, Anne. &ldquo;**Brain Waves Encode Rules for Behavior.**&rdquo; MIT News, 21 Nov. 2012, <http://news.mit.edu/2012/brain-waves-encode-rules-for-behavior-1121>
-
-[^109]: &ldquo;**Brain Waves Encode Information as Time Signals.**&rdquo; ScienceDaily, ScienceDaily, 16 Dec. 2013, <https://www.sciencedaily.com/releases/2013/12/131216142622.htm>
-
-[^110]: &ldquo;**New Way of Retaining Quantum Memories Stored in Light.**&rdquo; ScienceDaily, ScienceDaily, 30 Sept. 2015, <https://www.sciencedaily.com/releases/2015/09/150930074440.htm>
-
-[^111]: &ldquo;**What Is the Cosmic Microwave Background Radiation?&rdquo;** *Scientific American*, <https://www.scientificamerican.com/article/what-is-the-cosmic-microw/>
-
-[^112]: Williams, Matt. &ldquo;**It Could Be Possible to Transfer Data Through Gravitational Waves.**&rdquo; Universe Today, 24 Oct. 2018, <https://www.universetoday.com/140305/it-could-be-possible-to-transfer-data-through-gravitational-waves/>
-
-[^113]: &ldquo;**Can Quantum Dark Energy Explain Telepathy?&rdquo;** Can Quantum Dark Energy Explain Telepathy? \| Naked Science Forum, <https://www.thenakedscientists.com/forum/index.php?topic=52709.0>
-
-[^114]: Thomas Y., Kahhak L., Aissa J. (2006) **The physical nature of the biological signal, a puzzling phenomenon: the critical contribution of Jacques Benveniste**. In: Pollack G.H., Cameron I.L., Wheatley D.N. (eds) Water and the Cell. Springer, Dordrecht, <https://link.springer.com/chapter/10.1007/1-4020-4927-7_17>
-
-[^115]: &ldquo;**When to Publish Pseudo-Science**.&rdquo; Nature, vol. 334, no. 6181, 1988, pp. 367. doi:10.1038/334367a0. <https://www.nature.com/articles/334367a0>
-
-[^116]: Maddox, John, et al. &ldquo;**High-Dilution&rdquo; Experiments a Delusion.**&rdquo; Nature, vol. 334, no. 6180, 1988, pp. 287-290., doi:10.1038/334287a0. <https://www.ncbi.nlm.nih.gov/pubmed/2455869>
-
-[^117]: Pritchard, David E., et al. &ldquo;**Photon Scattering from Atoms in an Atom Interferometer: Coherence Lost and Regained.**&rdquo; Coherence and Quantum Optics VII, 1996, pp. 133-141. doi:10.1007/978-1-4757-9742-8_18. <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.3783> Full paper: <http://chapmanlabs.gatech.edu/papers/scattering_ifm_prl95.pdf>.
-
-[^118]: Penrose, Roger, and Malcolm Angus Hugh. MacCallum. **Twistor Theory: An Approach to the Quantisation of Fields and Space-time**. Amsterdam: North-Holland Pub., 1973.
-
-[^119]: Dr. Wojciech Zurek of the Los Alamos National Laboratory explains the concept of quantum Darwinism in an interview at the Institute for Quantum Computing that you can see on YouTube at <https://www.youtube.com/watch?v=27zMdaBgt6g>
-
-[^120]: Dias, Brian & Ressler, Kerry. (2013). **Parental olfactory experience influences behavior and neural structure in subsequent generations**. Nature neuroscience. 17. 10.1038/nn.3594. www.researchgate.net/publication/259109859. See also articles: <https://www.bbc.com/news/health-25156510> and <http://www.telegraph.co.uk/news/science/science-news> article **"Phobias may be memories passed down in genes from ancestors"**
-
-[^121]: Hagelin, John S., Rainforth, Maxwell V., Cavanaugh, Kenneth L. C., Alexander, Charles N., Shatkin, Susan F., Davies, John L., Hughes, Anne O., Ross, Emanuel, Orme-Johnson, David W., **Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.C.: Results of the National Demonstration Project, June--July 1993,** Social Indicators Research,,8 June 01,1999 <https://doi.org/10.1023/A:1006978911496> Full report available at <http://www.istpp.org/crime_prevention/>
-
-[^122]: &ldquo;**Reduced Violent Crime in Washington, DC.**&rdquo; Research Reduced Violent Crime in Washington DC Comments, <https://research.mum.edu/maharishi-effect/reduced-violent-crime-in-washington-dc>
-
-[^123]: Carey, Benedict. &ldquo;**Long-Awaited Medical Study Questions the Power of Prayer.**&rdquo; The New York Times, The New York Times, 31 Mar. 2006, <https://www.nytimes.com/2006/03/31/health/31pray.html>.
-
-[^124]: Byrd, Randolph C. &ldquo;**Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population.**&rdquo; Southern Medical Journal, vol. 81, no. 7, 1988, pp. 826-829., doi:10.1097/00007611-198807000-00005. <http://www.godandscience.org/apologetics/smj1.html>
-
-[^125]: William S. Harris, PhD; Manohar Gowda, MD; Jerry W. Kolb, MDiv; et al, **&ldquo;A Randomized, Controlled Trial of the Effects of Remote, Intercessory Prayer on Outcomes in Patients Admitted to the Coronary Care Unit"Correction.&rdquo;** Archives of Internal Medicine, vol. 160, no. 12, 2000, p. 1878., doi:10.1001/archinte.160.12.1878. <https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/485161>
-
-[^126]: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
-
-[^127]: Grabbed from <https://www.oddee.com/item_82923.aspx>
-
-[^128]: **&ldquo;As above, so below&rdquo;, or how a scientific theory is born**. (2012, July 30). <https://paolomaggiuk.wordpress.com/as-above-so-below-or-how-a-scientific-theory-is-born/>
-
-[^129]: Rifkin, L. (2014, June 10). **The Logic and Beauty of Cosmological Natural Selection**. <https://blogs.scientificamerican.com/guest-blog/the-logic-and-beauty-of-cosmological-natural-selection/>
-
-[^131]: Talbot, Michael, and Lynne McTaggart. **The Holographic Universe: The Revolutionary Theory of Reality**. New York, NY: Harper Perennial, 2011.
-
-[^132]: Wilber, Ken. **The Holographic Paradigm**. Shambhala;1982
-
-[^133]: Crew, B. (n.d.).**The Case For Black Holes Being Nothing But Holograms Just Got Even Stronger.**<https://www.sciencealert.com/the-case-for-black-holes-being-nothing-but-holographic-images-just-got-stronger>
-
-[^134]: Genesis 3:22. The entire line is &ldquo;Then the Lord God said, &lsquo;Behold, the man has become like one of Us, knowing the difference between good and evil; suppose he were to reach out his hand to also eat the fruit of the tree of life, and live forever!&rsquo;&rdquo; 
-
-[^135]: Emoto, Masaru. **The True Power of Water: Healing and Discovering Ourselves**. Beyond Words Pub., 2005.;Emoto, Masaru. **Messages from Water and the Universe.** Hay House, 2010.; Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystals.** Hado Publishing, 2004.
-
-[^136]: The use of magnetic water in agriculture to increase harvest and save up to 25% water. Live testimonials by biggest Australian farmers. <https://www.youtube.com/watch?v=YVL6tfGhr8M>
-
-[^137]: For example. **Heron&rsquo;s Fountain Plastic Water Bottle 2 minute DIY no sealant, no glue,**<https://www.youtube.com/watch?v=92rSXLPupKw>
-
-[^138]: More on Victor&rsquo;s work can be seen in the excellent documentary on YouTube &ldquo;**The Secrets of Water, The Documentary of Viktor Schauberger / Comprehend and Copy Nature**&rdquo;, <https://www.youtube.com/watch?v=XyOGdjWDVM4>
-
-[^139]: Martin-Fischer-Harthun, &ldquo;**Experimente mit Leitungswasser**&rdquo;, 1997. This is a difficult paper to find online. The original can be purchased at <https://www.fischer-wirbelwasser.de/shop/buecher.html>
-
-[^140]: **&ldquo;The anthropic universe&rdquo;**. Science Show. 18 February 2006.
-
-[^141]: Folger, Tim. **&ldquo;Eminent Physicist John Wheeler Says He Has Only Enough Time Left to Work on One Idea: That Human Consciousness Shapes Not Only the Present but the Past as Well.&rdquo;** Discover Magazine, June 1, 2002. <http://discovermagazine.com/2002/jun/featuniverse#.UvxOUrTVdnA>.
-
-[^142]: **&ldquo;Consciousness in the Universe: A Review of the &ldquo;Orch OR&rdquo; Theory.&rdquo;** Physics of Life Reviews. Elsevier, August 20, 2013. <https://www.sciencedirect.com/science/article/pii/S1571064513001188?via=ihub>.
-
-[^143]: This idea, and much more, is discussed at length in a 82 volume edition of great works that question the nature of existence. Glattfelder, James B. Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**. Cham: Springer International Publishing, 2019. Available online at <https://link.springer.com/bookseries/5342>
-
-[^144]: Hubisz, John L. &ldquo;**The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman, by Carl Feynman and Michelle Feynman.**&rdquo; The Physics Teacher, vol. 38, no. 2, 2000, pp. 111. doi:10.1119/1.1558111.
-
-[^160]: In that it applies the syntactic features of natural languages. This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996. This book is also available online. The relevant chapter is http://algorithmicbotany.org/papers/abop/abop-ch1.pdf. This site in general is an excellent resource for algorithms of nature.
-
-[^161]: Steingart, Dan. “**The Unfortunate Tetrahedron**.” Medium. the unfortunate tetrahedron, May 30, 2017. https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.
-
-[^164]: Levin, Samuel & Scott, Thomas & Cooper, Helen & West, Stuart. (2017). **Darwin&rsquo;s aliens.** International Journal of Astrobiology. 1-9. 10.1017/S1473550417000362. 
-
-[^165]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
-
-[^166]: As a relevant aside, this reversing effect has a material analog called the *Janibekov effect,*(among other names). It is well established in the field of mechanics and is most easily observed in space where there is no gravity. On observing it for the first time one would think the impossible is happening, but in fact, it is a basic law of energy that we rarely get to see here on Earth because of gravity. Imagine an asymmetrical rigid body, like a wing-nut or a or handle, rotating around one of its axis, then suddenly, it flips 180&deg;, and continues to rotate around the same axis, but in a reverse position. After a few moments, it flips again, and continues flipping back and forth indefinitely. It does this because the lowest energy state, which is the state that all matter seeks, requires the maximum amount of inertia, and the maximum amount of inertia will always be where the most mass is. Given that the object is asymmetrical, the amount of mass for each axis will change, causing the object to change position. A quick search for &ldquo;Janibekov effect&rdquo; will yield many fascinating videos on this phenomena. This phenomena is worth mentioning because it is a perfect example of how energy operates in form, and, presumably, in the archetypes of form as well, which, at least tholonically, are asymmetrical tholons.
-
-[^167]: Levin, Samuel R., and Stuart A. West. **“The Evolution of Cooperation in Simple Molecular Replicators.”** Proceedings of the Royal Society B: Biological Sciences 284, no. 1864 (November 2017): 20171967. <https://doi.org/10.1098/rspb.2017.1967>.
-
-[^168]: <https://en.wikipedia.org/wiki/Quantum_eraser_experimentreincar>
-
-[^169]: **&ldquo;Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World&rdquo;** <https://grahamhancock.com/geographic-geometric-relationships-alisonj/>
-
-[^170]: SCIENCE 313:49 7/7/2006
-
-[^171]: Barton, George A. **On the Babylonian Origin of Plato&rsquo;s Nuptial Number: on an Old Babylonian Letter Addressed "to Lushtamar".**. New Haven: American Oriental Society, 1908. <https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst>
-
-[^172]: Siegel, Ethan. “**Ask Ethan: Can Free Quarks Exist Outside Of A Bound-State Particle?**” Forbes. Forbes Magazine, August 3, 2019. <https://www.forbes.com/sites/startswithabang/2019/08/03/ask-ethan-can-free-quarks-exist-outside-of-a-bound-state-particle/>
-
-[^174]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO]. 
-
-[^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htmcfo
-
-[^176]: https://www.youtube.com/watch?v=2_sgFETJzak 
-
-[^177]: Atmanspacher, Harald. “**Quantum Approaches to Consciousness.**” Stanford Encyclopedia of Philosophy. Stanford University, November 5, 2019. https://plato.stanford.edu/entries/qt-consciousness/#PenrHameQuanGravMicr. Section 3.5
-
-[^178]:  Swati Nigam , “**Gravity As Conscious Force To Resolve Quantum Gravity.**” Physics Foundations, July 31, 2017. DOI: https://doi.org/10.6084/m9.figshare.5234617.v1 Published in https://physicsfoundationsblog.wordpress.com/2017/07/22/gravity-as-conscious-force-to-resolve-quantum-gravity/; Downloadable PDF available at https://www.academia.edu/33993443/GRAVITY_AS_CONSCIOUS_FORCE_TO_RESOLVE_QUANTUM_GRAVITY
-
-[^179]: Quited directly from https://www.snopes.com/fact-check/whether-balloon/
-
-[^180]: Lim, Daniel (June 1, 2014). "**Brain simulation and personhood: a concern with the Human Brain Project**". Ethics and Information Technology. 16 (2): 77–89. doi:10.1007/s10676-013-9330-5. ISSN 1572-8439. 
-
-[^181]: These tests are: monobit frequency test, block frequency test, runs test, longest run ones10000, binary matrix rank test, spectzral test, nonoverlapping template matching test,	overlapping template matching test, Maurers universal statistic test, linear complexity test, serial test, approximate entropy test, cumulative sums test, random excursions test, random excursions variant test, cumulative sums test reverse. These tests are provided by the National Institute of Standards and Technology as implemented by the program *testrandom.py* by Ilja Gerhardt, https://gerhardt.ch/random.php The numbers published here are the result of the program "ent", a a pseudo-random number sequence test program by John Walker of Fourmilab Switzerland, https://en.wikipedia.org/wiki/John_Walker_(programmer)
-
-[^182]: Stevens, M. (2015, September 15). **The Zipf Mystery**. Retrieved June 30, 2020, from https://www.youtube.com/watch?v=fCn8zs912OE. The page of this video has dozens of excellent related links 
-
-[^183]:Data generated with the command "ent" with the following variables: Is Intel CPU; AESNI Supported in instruction set; Format=Hex model=pure size = 1000 kilobytes XOR mode off XOR range mode; off Output to file x Hardware Random Seeding on. Non deterministic mode;  Reseed c_max=511;  Using RdRand as nondeterministic source; Total Entropy = 0.000000; Per bit Entropy = 0.000000 %
-
-[^184]: Lesne, A. (2014). **Shannon entropy: A rigorous notion at the crossroads between probability, information theory, dynamical systems and statistical physics**. *Mathematical Structures in Computer Science,* *24*(3). doi:10.1017/s0960129512000783
-
-[^185]: Styer, D. (2019). **Entropy as Disorder: History of a Misconception**. *The Physics Teacher,* *57*(7), 454-458. doi:10.1119/1.5126822
-
-[^186]: https://solvemymath.com/online_math_calculator/number_theory/riemann_function/index.php or https://keisan.casio.com/exec/system/1180573439, for example
-
-[^187]: Snehal Shekatkar, **The sum of the r'th roots of first n natural numbers and new formula for factorial**, 2012, arXiv:1204.0877v2 [math.NT], https://arxiv.org/abs/1204.0877v2
-
-[^190]: Ball, P. (2016). **Patterns in nature: Why the natural world looks the way it does**. Chicago: The University of Chicago Press. ISBN-10: 022633242X ISBN-13: 978-0226332420
-
-[^191]: Bodei, R., & Doebler, G. W. (2018). **Geometry of the passions: Fear, hope, happiness: Philosophy and political use**. Toronto: University of Toronto Press.
-
-[^192]: Nishiyama, Yutaka. "**A Study of Odd- and Even-Number Cultures.**" *Bulletin of Science, Technology & Society* 26, no. 6 (2006): 479-84. doi:10.1177/0270467606295408.
-
-[^193]: Thomas, Ciza, et al. “**Introduction to Complex Systems, Sustainability and Innovation.**” *Complex Systems, Sustainability and Innovation*, 2016, doi:10.5772/66453.
-
-[^194]: Staff, Science X. "**Tetrahedrality Is Key to the Uniqueness of Water.**" Phys.org. March 27, 2018. Accessed July 28, 2020. https://phys.org/news/2018-03-tetrahedrality-key-uniqueness.html.
-
-[^195]: Balconi, Michela, Davide Crivelli, and Maria Elide Vanutelli. **"Why to Cooperate Is Better than to Compete: Brain and Personality Components".** *BMC Neuroscience* 18, no. 1 (2017). doi:10.1186/s12868-017-0386-8.
-
-[^196]: Bowling, Sarah, Katerina Lawlor, and Tristan A. Rodríguez. "**Cell Competition: The Winners and Losers of Fitness Selection.**" *Development* 146, no. 13 (2019). doi:10.1242/dev.167486.
-
-[^197]: Institute, Santa Fe. "**Economic Complexity: A Different Way to Look at the Economy.**" Medium. November 03, 2014. Accessed August 02, 2020. https://medium.com/sfi-30-foundations-frontiers/economic-complexity-a-different-way-to-look-at-the-economy-eae5fa2341cd.
-
-[^198]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
-
-[^199]: Northwestern University. "**Big bang was followed by chaos, mathematical analysis shows**". ScienceDaily. ScienceDaily, 8 September 2010. <www.sciencedaily.com/releases/2010/09/100907171642.htm>
-
-[^200]: Lesne, Annick. "**Shannon Entropy: A Rigorous Notion at the Crossroads between Probability, Information Theory, Dynamical Systems and Statistical Physics.**" *Mathematical Structures in Computer Science* 24, no. 3 (2014). doi:10.1017/s0960129512000783.
-
-[^201]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.
-
-[^202]: Hoffman DD, Prakash C. **Objects of consciousness.** Front Psychol. 2014;5 577. doi:10.3389/fpsyg.2014.00577. PMID: 24987382; PMCID: PMC4060643.
-
-[^203]: These tests are: monobit frequency test, block frequency test, runs test, longest run ones10000, binary matrix rank test, spectzral test, nonoverlapping template matching test, overlapping template matching test, Maurers universal statistic test, linear complexity test, serial test, approximate entropy test, cumulative sums test, random excursions test, random excursions variant test, cumulative sums test reverse. These tests are provided by the National Institute of Standards and Technology as implemented by the program *testrandom.py* by Ilja Gerhardt, https://gerhardt.ch/random.php The numbers published here are the result of the program "ent", a a pseudo-random number sequence test program by John Walker of Fourmilab Switzerland, https://en.wikipedia.org/wiki/John_Walker_(programmer)
-
-[^204]: Shiga, David. “**Lasers Could Make Virtual Particles Real.**” *New Scientist*, 17 Aug. 2010, www.newscientist.com/article/dn19327-lasers-could-make-virtual-particles-real/. Full PDF of "Physical Review Letter" available at https://www.researchgate.net/publication/46424619_Limitations_on_the_Attainable_Intensity_of_High_Power_Lasers/link/0deec517bda95ef500000000/download.
-
-[^205]: Tshitoyan, Vahe, et al. “Unsupervised Word Embeddings Capture Latent Knowledge from Materials Science Literature.” *Nature*, vol. 571, no. 7763, 2019, pp. 95–98., doi:10.1038/s41586-019-1335-8.
-
-[^206]: Weizmann Institute Of Science. "**Quantum Theory Demonstrated: Observation Affects Reality.**" ScienceDaily. ScienceDaily, 27 February 1998. <www.sciencedaily.com/releases/1998/02/980227055013.htm>
-
-[^207]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
-[^208]: Banaclocha, M.a.m. “**Are Neuronal Activity-Associated Magnetic Fields the Physical Base for Memory?**” *Medical Hypotheses*, vol. 59, no. 5, 2002, pp. 555–559., doi:10.1016/s0306-9877(02)00237-2.
-[^209]: Banaclocha, M. “**Architectural Organisation of Neuronal Activity-Associated Magnetic Fields: a Hypothesis for Memory.**” *Medical Hypotheses*, 2004, doi:10.1016/s0306-9877(04)00188-4.
-[^210]: Saad-Cook, J., Ross, C., Holt, N., & Turrell, J. (1988). **Touching the Sky: Artworks using Natural Phenomena, Earth, Sky and Connections to Astronomy**. *Leonardo* *21*(2), 123-134. [https://www.muse.jhu.edu/article/600628](https://muse.jhu.edu/article/600628). Charles Ross, the creator, describes: "1972. I had placed this simple lens set-up on the roof so the sun would burn a path across a wooden plank as the day progressed. The idea was to collect a portrait of the weather each day. As the work progressed, I noticed that the burn&rsquo;s curvature was changing with the seasons. We took photos of the burns and placed them end to end following their curvature to see what a year&rsquo;s worth looked like. The sum of days generated a double spiral figure. At first, it did not make any sense-this primitive lens set-up was producing a complex spiral shape. A few of the astronomers I showed it to said, "Well, it must be coming from somewhere, but we have no idea what it is". Most of the scientists insisted that there had to be some anomaly in the set-up and that the shape had nothing to do with astronomy -just some weirdness in the lens. In reality, it made no difference at all if the lens faced one way or the other as long as it faced generally toward south. The elements of the spiral are in sunlight itself; it was an archetypal image falling from the sky. I finally contacted Kenneth Franklin at the Hayden Planetarium. He directed me to the Naval Observatory, where LeRoy Doggett, an astronomer with the Nautical Almanac office…". Authors note: This Sun Spiral was pieces together manually from many separate samples, and should not be seen as an accurate representation of the suns paths, but only an approximation.
-[^211]: “**How Large Is an Atom of Music? A Tour through Today's Spectral Music and Software at UCSD.**” *Rhizome.org*, 27 Apr. 2011, classic.rhizome.org/editorial/2011/apr/27/how-large-atom-music-tour-through-todays-spectral-/.
-
-[^212]:Radin, D., G. Hayssen, M. Emoto, and T. Kizu. “**Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation.**” National Center for Biotechnology Information. September 2006. Accessed May 30, 2016. http://www.ncbi.nlm.nih.gov/pubmed/16979104.
-[^213]:  Nelson, R.d., G.j. Bradish, Y.h. Dobyns, B.j. Dunne, and R.g. Jahn. “**FieldREG Anomalies in Group Situations.**” EXPLORE: The Journal of Science and Healing 3, no. 3 (2007): 278. doi:10.1016/j.explore.2007.03.013.“We attribute this result to a real correlation that should be detectable in future replications. This study suggests the existence of some form of consciousness-related anomaly in random physical systems.”
-[^214]: Anonymous. “**I Hid Illuminati Symbols in Broadcast News Graphics Because I Was Bored.**” Hopes&Fears. 2015. Accessed May 30, 2016. http://www.hopesandfears.com/hopes/now/media/214739-illuminati-conspiracy-news-hidden.
-[^215]: Cannarella, John, and Joshua A. Spechler. “**Epidemiological Modeling of Online Social Network Dynamics.**” Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ, USA, January 17, 2004. http://arxiv.org/pdf/1401.4208v1.pdf.
-[^216]: Forterre P. (2010). **Defining life: the virus viewpoint. *Origins of life and evolution of the biosphere : the journal of the International Society for the Study of the Origin of Life***, *40*(2), 151–160. https://doi.org/10.1007/s11084-010-9194-1
-[^217]: Pearson H. '**Virophage**' suggests viruses are alive. *Nature*. 2008;454(7205):677. doi:10.1038/454677a
-[^218]: Dillbeck, M.C. **Test of a field theory of consciousness and social change: Time series analysis of participation in the TM-Sidhi program and reduction of violent death in the U.S.**. Soc Indic Res 22, 399â418 (1990). https://doi.org/10.1007/BF00303834
-[^219]: Orme-Johnson, D., Alexander, C., Davies, J., Chandler, H., & Larimore, W. (1988). **International Peace Project in the Middle East: The Effects of the Maharishi Technology of the Unified Field. The Journal of Conflict Resolution**, 32(4), 776-812. Retrieved August 24, 2020, from http://www.jstor.org/stable/174032
-[^220]: Orkin, Jeffrey David. “**Collective Artificial Intelligence: Simulated Role-playing from Crowdsourced Data.**” Master’s thesis, MASSACHUSETTS INSTITUTE OF TECHNOLOGY, 2013. Accessed May 30, 2016. http://alumni.media.mit.edu/~jorkin/papers/orkin_phd_thesis_2013.pdf.
-[^221]: Fisher, Len. **The Perfect Swarm: The Science of Complexity in Everyday Life.** New York: Basic Books, 2009.
-[^222]: Jef D. Boeke,George Church, Andrew Hessel, Nancy J. Kelley, Adam Arkin, Yizhi Cai, Rob Carlson, Aravinda Chakravarti, Virginia W. Cornish, Liam Holt, Farren J. Isaacs, Todd Kuiken, Marc Lajoie, Tracy Lessor, Jeantine Lunshof, Matthew T. Maurano, Leslie A. Mitchell, Jasper Rine, Susan Rosser, Neville E. Sanjana, Pamela A. Silver, David Valle, Harris Wang, Jeffrey C. Way, Luhan Yang. “**The Genome Project–Write.**” Science. June 2, 2016. Accessed June 10, 2016. doi: 10.1126/science.aaf6850. http://science.sciencemag.org/content/early/2016/06/03/science.aaf6850.
-[^223]: Goodrich, Chauncey S., and Alexandra David-Neel. “**Magic and Mystery in Tibet.**” Journal of the American Oriental Society 93, no. 3 (1973): 415. doi:10.2307/599607.
-[^224]: Average time Americans adults (18+) send with electronic media Q4 2014. Source: Neilsen.
-[^225]:  <https://www.quantamagazine.org/entanglement-made-simple-20160428/>
-
-[^226]:   Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
-
+<div style='page-break-after: always; break-after: page;'></div>
+[^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
+[^2]: Gleick, J. (1998). **Making a New Science**.
+[^3]: &ldquo;**The Beginning of Time**.&rdquo; Stephen Hawking, <https://www.hawking.org.uk/the-beginning-of-time.html>.
+[^4]: For math nerds, here is an excellent vlog on **&ldquo;The Opposite of Infinity&rdquo;**: on <http://www.quora.com> &ldquo;How do you understand the difference between something infinitely small and something inexistant Are they distinguishable in real terms?
+[^5]: Northwestern University. "**Big bang was followed by chaos, mathematical analysis shows**". ScienceDaily. ScienceDaily, 8 September 2010. <www.sciencedaily.com/releases/2010/09/100907171642.htm>
+[^6]: Thomas, Ciza, et al. “**Introduction to Complex Systems, Sustainability and Innovation.**” *Complex Systems, Sustainability and Innovation*, 2016, doi:10.5772/66453.
+[^7]: This idea, and much more, is discussed at length in a 82 volume edition of great works that question the nature of existence. Glattfelder, James B. Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**. Cham: Springer International Publishing, 2019. Available online at <https://link.springer.com/bookseries/5342>
+[^8]: <https://users.isy.liu.se/jalar/kurser/QF/assignments/LeggettGarg1985.pdf>
+[^9]: Boeyens JCA, Thackeray JF **Number theory and the unity of science**. S Afr J Sci. 2014;110(11/12), Art.\#a0084, 2 pages. <http://dx.doi.org/10.1590/sajs.2014/a0084>
+[^10]: Brown, J. H., Gupta, V. K., Li, B., Milne, B. T., Restrepo, C., & West, G. B. (2002**). **The fractal nature of nature: Power laws, ecological complexity and biodiversity**. London: The Royal Society <http://www.fractal.org/Bewustzijns-Besturings-Model/Fractal-Nature.pdf>
+[^11]: Image credit: The pre-launch Planck Sky Model: a model of sky emission at submillimetre to centimetre wavelengths — Delabrouille, J. et al.Astron.Astrophys. 553 (2013) A96 arXiv:1207.3675 [astro-ph.CO].
+[^12]: Here is the video of this experiment: <https://www.youtube.com/watch?v=UpJ-kGII074>
+[^13]: Lesne, A. (2014). **Shannon entropy: A rigorous notion at the crossroads between probability, information theory, dynamical systems and statistical physics**. *Mathematical Structures in Computer Science,* *24*(3). doi:10.1017/s0960129512000783
+[^14]: Styer, D. (2019). **Entropy as Disorder: History of a Misconception**. *The Physics Teacher,* *57*(7), 454-458. doi:10.1119/1.5126822
+[^15]: Lesne, Annick. "**Shannon Entropy: A Rigorous Notion at the Crossroads between Probability, Information Theory, Dynamical Systems and Statistical Physics.**" *Mathematical Structures in Computer Science* 24, no. 3 (2014). doi:10.1017/s0960129512000783.
+[^16]: Here are a couple of sites that show a harmonograph in action. They are fascinating to watch. <http://andygiger.com/science/harmonograph/index.html>, <https://www.youtube.com/watch?v=HJYvc-ISrf8>
+[^17]: Ball, P. (2016). **Patterns in nature: Why the natural world looks the way it does**. Chicago: The University of Chicago Press. ISBN-10: 022633242X ISBN-13: 978-0226332420
+[^18]: Bodei, R., & Doebler, G. W. (2018). **Geometry of the passions: Fear, hope, happiness: Philosophy and political use**. Toronto: University of Toronto Press.
+[^19]: Yee, Jeff. (2019). **The Relation of Ohm&rsquo;s Law to Newton&rsquo;s 2nd Law**. 10.13140/RG.2.2.15576.75523. Ohm&rsquo;s law relates voltage, current and resistance in electrical systems as V=IR. Newton&rsquo;s 2nd law relates force, mass and acceleration as F=ma. Although electrical and mechanical systems are supported by different equations to describe these relationships today, it will be shown that the laws of Ohm and Newton are related and are built from the same foundation that governs the force of particles and all of matter.
+[^20]: <https://en.wikipedia.org/wiki/International_System_of_Units>
+[^21]: Oldershaw, R. L. (1989). **Self-Similar Cosmological model: Introduction and empirical tests**. International Journal of Theoretical Physics, 28(6), 669-694. doi:10.1007/bf00669984 <https://www.academia.edu/26520933/Self-Similar_Cosmological_model_Introduction_and_empirical_tests>
+[^22]: You can find many examples of this self-similarity <http://www.bordalierinstitute.com/>
+[^23]: <https://www.sciencealert.com/scientists-have-found-a-structural-similarity-between-human-cells-and-neutron-stars>
+[^24]: van Leunen, Hans. (2018). **The structure of physical reality**, <https://www.researchgate.net/publication/327273285_The_structure_of_physical_reality>
+[^25]: Leunen, J. J. (2018). **Structure of physical reality**. <http://vixra.org/pdf/1806.0087v3.pdf>. Here is the entire report <http://www3.amherst.edu/~rloldershaw/OBS.HTM>
+[^26]: Livio, M. (n.d.). **Why Math Works**. <https://www.scientificamerican.com/article/why-math-works/>
+[^27]: Britannica, T. E. (2019, April 08). **Laws of thought**. <https://www.britannica.com/topic/laws-of-thought>
+[^28]: **15** **Insane Things That Correlate With Each Other**. (n.d.). <http://www.tylervigen.com/spurious-correlations>
+[^29]: Abreu, N. (n.d**.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.** <http://cref.tripod.com/tucsonpaper.htm> Science of Self Club, University of Florida
+[^30]: <https://www.infinitemonkeylab.com/>
+[^31]: Jaynes, Julian (2000) \[1976\]. **The origin of consciousness in the breakdown of the bicameral mind** (PDF). Houghton Mifflin. p.73.ISBN 978-0-618-05707-8.
+[^32]: Fast-moving air is at a lower pressure than slow-moving air, so the pressure above the wing is lower than the pressure below, and this creates the lift that powers the plane upward.
+[^33]: Fiegna and Velicer, 2003
+[^34]: Rankin and Kokko, 2006; Muir and Howard, 1999
+[^35]: Rainey, Paul B. **&ldquo;Precarious Development: The Uncertain Social Life of Cellular Slime Molds.&rdquo;** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639-2640., doi:10.1073/pnas.1500708112. <https://www.pnas.org/content/pnas/112/9/2639.full.pdf>
+[^36]: De Roode et al., 2005
+[^37]: Gersani et al., 2001
+[^38]: Ahmed Ibrahim, **&ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;**, Network Biology, 06/2014, v. 4 2
+[^39]: Levin, Samuel R., and Stuart A. West. **“The Evolution of Cooperation in Simple Molecular Replicators.”** Proceedings of the Royal Society B: Biological Sciences 284, no. 1864 (November 2017): 20171967. <https://doi.org/10.1098/rspb.2017.1967>.
+[^40]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL
+[^41]: **The Simulation Hypothesis Documentary**. (2018, August 01). <https://youtu.be/pznWo8f020I>
+[^42]: Klein, Christopher. &ldquo;**DNA Study Finds Aboriginal Australians World&rsquo;s Oldest Civilization.**&rdquo; History.com, A&E Television Networks, 23 Sept. 2016, <https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization>
+[^43]: Parvinen, Kalle, and Ulf Dieckmann. **&ldquo;Environmental Dimensionality&rdquo;**. *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
+[^44]: **List of cycles**. (2019, April 27). <https://en.wikipedia.org/wiki/List_of_cycles>
+[^45]: **&ldquo;Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World&rdquo;** <https://grahamhancock.com/geographic-geometric-relationships-alisonj/>
+[^46]: Hossenfelder, Sabine. &ldquo;**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?&rdquo;** Backreaction, 1 Jan. 1970, backreaction. <https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html>
+[^47]: Laszlo, E., & Clark, J. W. (1973). **Introduction to systems philosophy: Toward a new paradigm of contemporary thought**. New York, NY: Harper Torchbooks. ISBN: 0061317624 (ISBN13: 9780061317620)
+[^48]: Levin, Samuel & Scott, Thomas & Cooper, Helen & West, Stuart. (2017). **Darwin&rsquo;s aliens.** International Journal of Astrobiology. 1-9. 10.1017/S1473550417000362.
+[^49]: Dawkins, C. R. (2016). **The selfish gene**. Oxford: Oxford University Press.
+[^50]: **Just for Hits - Richard Dawkins**. (2013, June 22). <https://youtu.be/GFn-ixX9edg>The first 4 minutes is an excellent overview of memes by Dawkins. The following 4 minutes is a sort of meme-ish music video which is a bit odd, but also a bit entertaining
+[^51]: Velikovsky, J. T. (1970, January 01). **Flow Theory, Evolution & Creativity: Or, Fun & Games ** <https://dl.acm.org/citation.cfm?id=2677770>
+[^52]: &ldquo;**Quantum Gravity Research**.&rdquo; Quantum Gravity Research, <https://www.quantumgravityresearch.org/>.
+[^53]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.
+[^54]: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. <http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf>
+[^55]: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). <http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain/>
+[^56]: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! <http://theoryofeverything.org/theToE/tags/e8/>
+[^57]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
+[^58]: **Gottfried Wilhelm Leibniz**. (n.d.). <http://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz>**, Leibniz and the I Ching**. (n.d.). <http://www.wikiwand.com/en/Binary_number#/Leibniz_and_the_I_Ching>
+[^59]: **Gottfried Leibniz**. (n.d.). Retrieved from <http://history-computer.com/Dreamers/Leibniz.html>
+[^60]: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from <https://ethology.eu/how-wolves-change-rivers/>
+[^61]: Grzegorz Rozenberg and Arto Salomaa. **The mathematical theory of L systems** (Academic Press, New York, 1980). ISBN 0-12-597140-0
+[^62]: In that it applies the syntactic features of natural languages. This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996. This book is also available online. The relevant chapter is http://algorithmicbotany.org/papers/abop/abop-ch1.pdf. This site in general is an excellent resource for algorithms of nature.
+[^63]: Quijada, John. **A Grammar of the Ithkuil Language**. John Quijada, 2011.
+[^64]: Speaks, Jeff. **&ldquo;Theories of Meaning&rdquo;**. Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,<https://plato.stanford.edu/entries/meaning/>
+[^65]: Example of a &ldquo;person&rdquo; as defined by the semantic web: <http://xmlns.com/foaf/spec/#term_Person>
+[^66]: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. <https://www.lod-cloud.net/>
+[^67]: Wang, Y., & Kosinski, M. (in press). **&ldquo;Deep neural networks are more accurate than humans at detecting sexual orientation from facial images&rdquo;**. Journal of Personality and Social Psychology; Newspaper article on this research: Levin, Sam. **&ldquo;New AI Can Work out Whether You&rsquo;re Gay or Straight from a Photograph.&rdquo;** The Guardian, Guardian News and Media, 7 Sept. 2017, <http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph>
+[^68]: &ldquo;**Reciprocal Theory**&rdquo; RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
+[^69]: As a relevant aside, this reversing effect has a material analog called the *Janibekov effect,*(among other names). It is well established in the field of mechanics and is most easily observed in space where there is no gravity. On observing it for the first time one would think the impossible is happening, but in fact, it is a basic law of energy that we rarely get to see here on Earth because of gravity. Imagine an asymmetrical rigid body, like a wing-nut or a or handle, rotating around one of its axis, then suddenly, it flips 180&deg;, and continues to rotate around the same axis, but in a reverse position. After a few moments, it flips again, and continues flipping back and forth indefinitely. It does this because the lowest energy state, which is the state that all matter seeks, requires the maximum amount of inertia, and the maximum amount of inertia will always be where the most mass is. Given that the object is asymmetrical, the amount of mass for each axis will change, causing the object to change position. A quick search for &ldquo;Janibekov effect&rdquo; will yield many fascinating videos on this phenomena. This phenomena is worth mentioning because it is a perfect example of how energy operates in form, and, presumably, in the archetypes of form as well, which, at least tholonically, are asymmetrical tholons.
+[^70]: Fuller, R. Buckminster, and E. J. Applewhite. ***Synergetics. Explorations in the Geometry of Thinking***. Macmillan, 1975.The entire book can be found online at <http://synergetics.info/>
+[^71]: References to the above come from <http://synergetics.info/s02/p0000.html>
+[^72]: Shiga, David. “**Lasers Could Make Virtual Particles Real.**” *New Scientist*, 17 Aug. 2010, www.newscientist.com/article/dn19327-lasers-could-make-virtual-particles-real/. Full PDF of "Physical Review Letter" available at https://www.researchgate.net/publication/46424619_Limitations_on_the_Attainable_Intensity_of_High_Power_Lasers/link/0deec517bda95ef500000000/download.
+[^73]: Siegel, Ethan. “**Ask Ethan: Can Free Quarks Exist Outside Of A Bound-State Particle?**” Forbes. Forbes Magazine, August 3, 2019. <https://www.forbes.com/sites/startswithabang/2019/08/03/ask-ethan-can-free-quarks-exist-outside-of-a-bound-state-particle/>
+[^74]: Steingart, Dan. “**The Unfortunate Tetrahedron**.” Medium. the unfortunate tetrahedron, May 30, 2017. https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.
+[^75]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
+[^76]: Institute, Santa Fe. "**Economic Complexity: A Different Way to Look at the Economy.**" Medium. November 03, 2014. Accessed August 02, 2020. https://medium.com/sfi-30-foundations-frontiers/economic-complexity-a-different-way-to-look-at-the-economy-eae5fa2341cd.
+[^77]: Hoffman DD, Prakash C. **Objects of consciousness.** Front Psychol. 2014;5 577. doi:10.3389/fpsyg.2014.00577. PMID: 24987382; PMCID: PMC4060643.
+[^78]: <http://hexagonalwater.com>
+[^79]: Ptok, Fabian, &ldquo;**Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages**&rdquo; (2014). Undergraduate Honors Theses. 182. <https://scholar.colorado.edu/honr_theses/182>
+[^80]: Fonseca, Giuseppe, and Giuseppe Fonseca. &ldquo;**Dr Pollack The Fourth Phase of Water.**&rdquo; Academia.edu, <https://www.academia.edu/18516517/Dr_Pollack_The_Fourth_Phase_Of_Water>
+[^81]: Chara, et al. &ldquo;**Crossover between Tetrahedral and Hexagonal Structures in Liquid Water.**&rdquo; Physics Letters A, <http://www.academia.edu/21730774>
+[^82]: Staff, Science X. "**Tetrahedrality Is Key to the Uniqueness of Water.**" Phys.org. March 27, 2018. Accessed July 28, 2020. https://phys.org/news/2018-03-tetrahedrality-key-uniqueness.html.
+[^83]: https://www.youtube.com/watch?v=2_sgFETJzak
+[^84]: Seager, William, and Sean Allen-Hermanson. **&ldquo;Panpsychism.&rdquo;** Stanford Encyclopedia of Philosophy, Stanford University, 23 May 2001, <https://plato.stanford.edu/archives/win2012/entries/panpsychism/>
+[^85]: Turow, J. (1991). **The Challenge of Inference in Interinstitutional Research on Mass Communication**. Communication Research,18(2),222-239. <https://doi.org/10.1177/009365091018002005>. *Note: Although this is not a reference to the official definition of the term &ldquo;interinsitutionality&rdquo;, which is too vague to be of any use here, it does provide an excellent explanation of what it is, how it works, and how it applies to mass communications.*
+[^86]: Lim, Daniel (June 1, 2014). "**Brain simulation and personhood: a concern with the Human Brain Project**". Ethics and Information Technology. 16 (2): 77–89. doi:10.1007/s10676-013-9330-5. ISSN 1572-8439.
+[^87]: Spottiswoode, C. N., K. S. Begg, and C. M. Begg. **&ldquo;Reciprocal Signaling in Honeyguide-human Mutualism&rdquo;.** Science 353, no. 6297 (2016): 387-89. doi:10.1126/science. aaf4885.
+[^88]: Milius, Susan. &ldquo;**How Roaches Fight off Wasps That Turn Their Victims into Zombies.**&rdquo; Science News, 14 Nov. 2018, <https://www.sciencenews.org/article/how-roaches-fight-wasps-turn-their-victims-zombies>
+[^89]: **&ldquo;The anthropic universe&rdquo;**. Science Show. 18 February 2006.
+[^90]: Folger, Tim. **&ldquo;Eminent Physicist John Wheeler Says He Has Only Enough Time Left to Work on One Idea: That Human Consciousness Shapes Not Only the Present but the Past as Well.&rdquo;** Discover Magazine, June 1, 2002. <http://discovermagazine.com/2002/jun/featuniverse#.UvxOUrTVdnA>.
+[^91]: <https://en.wikipedia.org/wiki/Quantum_eraser_experimentreincar>
+[^92]: **&ldquo;Consciousness in the Universe: A Review of the &ldquo;Orch OR&rdquo; Theory.&rdquo;** Physics of Life Reviews. Elsevier, August 20, 2013. <https://www.sciencedirect.com/science/article/pii/S1571064513001188?via=ihub>.
+[^93]: Media, T. E. (2015, June 02). Rupert Sheldrake, **Heretic**. <https://www.youtube.com/watch?v=ZSd4DA5xhHw>
+[^94]: Hubisz, John L. &ldquo;**The Pleasure of Finding Things Out: The Best Short Works of Richard P. Feynman, by Carl Feynman and Michelle Feynman.**&rdquo; The Physics Teacher, vol. 38, no. 2, 2000, pp. 111. doi:10.1119/1.1558111.
+[^95]: Sheldrake, Rupert. **A New Science of Life: The Hypothesis of Formative Causation**. Los Angeles: J.P. Tarcher, 1981.
+[^96]: Horgan, J. (2014, July 14).**Scientific Heretic Rupert Sheldrake on Morphic Fields, Psychic Dogs and Other Mysteries.** <https://blogs.scientificamerican.com/cross-check/scientific-heretic-rupert-sheldrake-on-morphic-fields-psychic-dogs-and-other-mysteries/>
+[^97]: Sheldrake, R. (n.d.).**Morphic Resonance and Morphic Fields - an Introduction**. <https://www.sheldrake.org/research/morphic-resonance/introduction>
+[^98]: Sheldrake, R. (2013). **Dogs That Know When Their Owners Are Coming Home: And Other Unexplained Powers of Animals**. London: Cornerstone Digital.
+[^99]: One of these experiments can be seen here: <http://www.sheldrake.org/videos/jaytee-a-dog-who-knew-when-his-owner-was-coming-home-the-orf-experiment>
+[^100]: Iozzio, Corinne. &ldquo;**Scientists Prove That Telepathic Communication Is Within Reach.**&rdquo; Smithsonian.com, Smithsonian Institution, 2 Oct. 2014, <https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/>
+[^101]: Wilkins, & Sherman, H. M. (1971). ***Thoughts through space***. London: Muller.
+[^102]: Sheldrake, R. (2013). **Science set free: 10 paths to new discovery.** New York: Deepak Chopra Books.
+[^103]: Smolin, L. (2012, May 16). **Precedence and freedom in quantum physics**. <https://arxiv.org/abs/1205.3707>
+[^104]: Lobach, E.; Bierman, D. (2004). &ldquo;**The Invisible Gaze: Three Attempts to Replicate Sheldrake&rsquo;s Staring Effects**&rdquo; . <https://www.parapsych.org/papers/07.pdf>
+[^105]: <https://www.scientificamerican.com/article/what-causes-spooky-out-of-body-experiences/>
+[^106]: <https://www.iacworld.org/evidence-for-out-of-body-experience-as-a-real-or-veridical-phenomenon/>
+[^107]: The full account of his research and notes are reprinted at <http://www.aura-oasis.be/website/scientific-research-on-out-of-the-body-experiences/>
+[^108]: Tshitoyan, Vahe, et al. “Unsupervised Word Embeddings Capture Latent Knowledge from Materials Science Literature.” *Nature*, vol. 571, no. 7763, 2019, pp. 95–98., doi:10.1038/s41586-019-1335-8.
+[^109]: Tressoldi, P. E., Storm, L., & Radin, D. (2010). **Extrasensory Perception and Quantum Models of Cognition, Neuro Quantology,** 8(4). doi:10.14704/nq.2010.8.4.353
+[^110]: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary.** Retrieved from <https://www.youtube.com/watch?v=zZ4G3IRVFwU>
+[^111]: **Astronaut Tells of E. S. P. Tests.** (1971, June 22). Retrieved from <https://www.nytimes.com/1971/06/22/archives/astronaut-tells-of-e-s-p-tests.html>
+[^112]: **100 Scientific Papers Offering Evidence for Psi Phenomena & Effects**. (2019, April 22). <https://subtle.energy/list-100-peer-reviewed-papers-offer-scientific-evidence-psi-phenomena/>
+[^113]: Luke, D. (2009, September). **Telepathine (ayahuasca) and psychic ability: Field research in South America**. <http://www.researchgate.net/publication/278301470>, British Psychological Society, Transpersonal Psychology Section 13th Annual Conference
+[^114]: Cave, K. (2015, February 24). **The rise of &ldquo;Telepathic Tech&rdquo; in 2015**. Retrieved from <https://www.idgconnect.com/idgconnect/analysis-review/1023702/rise-telepathic-tech-2015>
+[^115]: Grau, C., Ginhoux, R., Riera, A., Nguyen, T. L., Chauvat, H., Berg, M., &hellip; Ruffini, G. (n.d.). **Conscious Brain-to-Brain Communication in Humans Using Non-Invasive Technologies**. <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105225>
+[^116]: Heaven, D. (n.d.). **First mind-reading implant gives rats telepathic power**. Retrieved from <https://www.newscientist.com/article/dn23221-first-mind-reading-implant-gives-rats-telepathic-power/>
+[^117]: Tucker, P. (2018, September 06). **it&rsquo;s Now Possible to Telepathically Communicate with a Drone Swarm.** Retrieved from <https://www.defenseone.com/technology/2018/09/its-now-possible-telepathically-communicate-drone-swarm/151068/>
+[^118]: Kosoff, M., & Kosoff, M. (2017, April 21). **Elon Musk Is Seriously Starting a &ldquo;Telepathy&rdquo; Company.** Retrieved from <https://www.vanityfair.com/news/2017/04/elon-musk-is-seriously-starting-a-telepathy-company>
+[^119]: Heath, A. (2017, January 11). **Facebook has a mysterious team working on tech that sounds a lot like mind reading**. Retrieved from <https://www.businessinsider.com/facebooks-building-8-working-on-brain-computer-communication-platform-2017-1>
+[^120]: Watanabe-Crockett, L. (n.d.). **Telepathic Message Sent Over Internet**. Retrieved from <https://www.wabisabilearning.com/blog/telepathic-message-sent-over-internet>
+[^121]: ArXiv, E. T. (2018, October 01). **The first &ldquo;social network&rdquo; of brains lets three people transmit thoughts to each other&rsquo;s heads.** Retrieved from <https://www.technologyreview.com/s/612212/the-first-social-network-of-brains-lets-three-people-transmit-thoughts-to-each-others-heads/>
+[^122]: King, T. (2017, May 30). **Scientific Evidence of Telepathy - Documentary**. <https://www.youtube.com/watch?v=zZ4G3IRVFwU>
+[^123]: MetaRising. (2016, November 10). **Banned TED Talk about Psychic Abilities** \| Russell Targ \| suespeaks.org. <https://www.youtube.com/watch?v=hBl0cwyn5GY>
+[^124]: Zhou, Wen, and Denise Chen. &ldquo;**Fear-Related Chemosignals Modulate Recognition of Fear in Ambiguous Facial Expressions.**&rdquo; Psychological Science 20, no. 2 (2009): 177-83. doi:10.1111/j.1467-9280.2009.02263. x.
+[^125]: **&ldquo;Some Personality Traits Affect How You Smell.&rdquo;** Live Science, December 2, 2011
+[^126]: Masataka, N., and M. Shibasak. &ldquo;** Premenstrual Enhancement of Snake Detection in Visual&rdquo;**&rdquo;Nature. March 8, 2012. Accessed May 29, 2016.doi:10.1038/srep00307
+[^127]: **&ldquo;The Humans with Super Human Vision.&rdquo;** Discover, June 18, 2009.
+[^128]: Galland, L., National Center for Biotechnology Information. December 2014. Accessed June 12, 2016. <http://www.ncbi.nlm.nih.gov/pubmed/25402818/>
+[^129]: Heijtz, R. D., S. Wang, F. Anuar, Y. Qian, B. Bjorkholm, A. Samuelsson, M. L. Hibberd, H. Forssberg, and S. Pettersson. &ldquo;**Normal Gut Microbiota Modulates Brain Development and Behavior.**&rdquo; Proceedings of the National Academy of Sciences 108, no. 7 (2011): 3047-052. Accessed June 26, 2016. doi:10.1073/pnas.1010529108. Note: this is the same paper used by Dr. Andrew Wakefield to help support the autism/vaccine connection, which, contrary to Dr. Brain Deer&rsquo;s accusations, is neither fraudulent or inaccurate.
+[^130]: Gershon, Michael D. **The Second Brain: The Scientific Basis of Gut Instinct and a Groundbreaking New Understanding of Nervous Disorders of the Stomach and Intestine.** New York, NY: HarperCollins Publishers, 1998.
+[^131]: **&ldquo;Sight Unseen: People Blinded by Brain Damage Can Respond to Emotive Expressions.&rdquo;** Scientific American, October 14, 2009.
+[^132]: This is a technique taught by the Nithyananda Mission.Contact address: Nithyananda Dhyanapeetam, Nithyanandapuri, Kallugopahalli, Off Mysore Road, Bidadi, Bangalore District &ldquo; 562 109. Karnataka, INDIA
+[^133]: Cerretani, Jessica. &ldquo;**Extra Sensory Perceptions.**&rdquo; HMS.Accessed May 29, 2016. <https://hms.harvard.edu/news/harvard-medicine/extra-sensory-perceptions>.
+[^134]: Crick, F., & Orgel, L. (1973). **Directed panspermia.** Icarus, 19(3), 341-346. doi:10.1016/0019-1035(73)90110-3
+[^135]: Sullivan, W. (1979, May 07). **Scientists Examine Tiny Viruses for Messages from Outer Space**. Retrieved from <https://www.nytimes.com/1979/05/07/archives/scientists-examine-tiny-viruses-for-messages-from-outer-space.html>
+[^136]: **Collective Memory.**(n.d.). <https://www.sciencedirect.com/topics/computer-science/collective-memory>
+[^137]: García-Gavilanes, Ruth, et al. **&ldquo;The Memory Remains: Understanding Collective Memory in the Digital Age.&rdquo;** Science Advances, vol. 3, no. 4, 2017, doi:10.1126/sciadv.1602368. <https://advances.sciencemag.org/content/3/4/e1602368.full>
+[^138]: <https://en.wikipedia.org/wiki/Exabyte>
+[^139]: Darryl Bruce (2001) **Fifty Years Since Lashley&rsquo;s In Search of the Engram**: Refutations and Conjectures, Journal of the History of the Neurosciences, 10:3, 308-318, DOI: 10.1076/jhin.10.3.308.9086<https://www.tandfonline.com/doi/abs/10.1076/jhin.10.3.308.9086>
+[^140]: &ldquo;**Internet Kill Switch**.&rdquo; Wikipedia, Wikimedia Foundation, 24 Jan. 2019,<https://en.wikipedia.org/wiki/Internet_kill_switch>
+[^141]: Trafton, Anne. &ldquo;**Brain Waves Encode Rules for Behavior.**&rdquo; MIT News, 21 Nov. 2012, <http://news.mit.edu/2012/brain-waves-encode-rules-for-behavior-1121>
+[^142]: &ldquo;**Brain Waves Encode Information as Time Signals.**&rdquo; ScienceDaily, ScienceDaily, 16 Dec. 2013, <https://www.sciencedaily.com/releases/2013/12/131216142622.htm>
+[^143]: &ldquo;**New Way of Retaining Quantum Memories Stored in Light.**&rdquo; ScienceDaily, ScienceDaily, 30 Sept. 2015, <https://www.sciencedaily.com/releases/2015/09/150930074440.htm>
+[^144]: &ldquo;**What Is the Cosmic Microwave Background Radiation?&rdquo;** *Scientific American*, <https://www.scientificamerican.com/article/what-is-the-cosmic-microw/>
+[^145]: Williams, Matt. &ldquo;**It Could Be Possible to Transfer Data Through Gravitational Waves.**&rdquo; Universe Today, 24 Oct. 2018, <https://www.universetoday.com/140305/it-could-be-possible-to-transfer-data-through-gravitational-waves/>
+[^146]: &ldquo;**Can Quantum Dark Energy Explain Telepathy?&rdquo;** Can Quantum Dark Energy Explain Telepathy? \| Naked Science Forum, <https://www.thenakedscientists.com/forum/index.php?topic=52709.0>
+[^147]: Atmanspacher, Harald. “**Quantum Approaches to Consciousness.**” Stanford Encyclopedia of Philosophy. Stanford University, November 5, 2019. https://plato.stanford.edu/entries/qt-consciousness/#PenrHameQuanGravMicr. Section 3.5
+[^148]: Swati Nigam , “**Gravity As Conscious Force To Resolve Quantum Gravity.**” Physics Foundations, July 31, 2017. DOI: https://doi.org/10.6084/m9.figshare.5234617.v1 Published in https://physicsfoundationsblog.wordpress.com/2017/07/22/gravity-as-conscious-force-to-resolve-quantum-gravity/; Downloadable PDF available at https://www.academia.edu/33993443/GRAVITY_AS_CONSCIOUS_FORCE_TO_RESOLVE_QUANTUM_GRAVITY
+[^149]: Banaclocha, M.a.m. “**Are Neuronal Activity-Associated Magnetic Fields the Physical Base for Memory?**” *Medical Hypotheses*, vol. 59, no. 5, 2002, pp. 555–559., doi:10.1016/s0306-9877(02)00237-2.
+[^150]: Banaclocha, M. “**Architectural Organisation of Neuronal Activity-Associated Magnetic Fields: a Hypothesis for Memory.**” *Medical Hypotheses*, 2004, doi:10.1016/s0306-9877(04)00188-4.
+[^151]: Weizmann Institute Of Science. "**Quantum Theory Demonstrated: Observation Affects Reality.**" ScienceDaily. ScienceDaily, 27 February 1998. <www.sciencedaily.com/releases/1998/02/980227055013.htm>
+[^152]: Thomas Y., Kahhak L., Aissa J. (2006) **The physical nature of the biological signal, a puzzling phenomenon: the critical contribution of Jacques Benveniste**. In: Pollack G.H., Cameron I.L., Wheatley D.N. (eds) Water and the Cell. Springer, Dordrecht, <https://link.springer.com/chapter/10.1007/1-4020-4927-7_17>
+[^153]: &ldquo;**When to Publish Pseudo-Science**.&rdquo; Nature, vol. 334, no. 6181, 1988, pp. 367. doi:10.1038/334367a0. <https://www.nature.com/articles/334367a0>
+[^154]: Maddox, John, et al. &ldquo;**High-Dilution&rdquo; Experiments a Delusion.**&rdquo; Nature, vol. 334, no. 6180, 1988, pp. 287-290., doi:10.1038/334287a0. <https://www.ncbi.nlm.nih.gov/pubmed/2455869>
+[^155]: Pritchard, David E., et al. &ldquo;**Photon Scattering from Atoms in an Atom Interferometer: Coherence Lost and Regained.**&rdquo; Coherence and Quantum Optics VII, 1996, pp. 133-141. doi:10.1007/978-1-4757-9742-8_18. <https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.75.3783> Full paper: <http://chapmanlabs.gatech.edu/papers/scattering_ifm_prl95.pdf>.
+[^156]: Penrose, Roger, and Malcolm Angus Hugh. MacCallum. **Twistor Theory: An Approach to the Quantisation of Fields and Space-time**. Amsterdam: North-Holland Pub., 1973.
+[^157]: Dr. Wojciech Zurek of the Los Alamos National Laboratory explains the concept of quantum Darwinism in an interview at the Institute for Quantum Computing that you can see on YouTube at <https://www.youtube.com/watch?v=27zMdaBgt6g>
+[^158]: “**How Large Is an Atom of Music? A Tour through Today's Spectral Music and Software at UCSD.**” *Rhizome.org*, 27 Apr. 2011, classic.rhizome.org/editorial/2011/apr/27/how-large-atom-music-tour-through-todays-spectral-/.
+[^159]: Dias, Brian & Ressler, Kerry. (2013). **Parental olfactory experience influences behavior and neural structure in subsequent generations**. Nature neuroscience. 17. 10.1038/nn.3594. www.researchgate.net/publication/259109859. See also articles: <https://www.bbc.com/news/health-25156510> and <http://www.telegraph.co.uk/news/science/science-news> article **"Phobias may be memories passed down in genes from ancestors"**
+[^160]: Hagelin, John S., Rainforth, Maxwell V., Cavanaugh, Kenneth L. C., Alexander, Charles N., Shatkin, Susan F., Davies, John L., Hughes, Anne O., Ross, Emanuel, Orme-Johnson, David W., **Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.C.: Results of the National Demonstration Project, June--July 1993,** Social Indicators Research,,8 June 01,1999 <https://doi.org/10.1023/A:1006978911496> Full report available at <http://www.istpp.org/crime_prevention/>
+[^161]: &ldquo;**Reduced Violent Crime in Washington, DC.**&rdquo; Research Reduced Violent Crime in Washington DC Comments, <https://research.mum.edu/maharishi-effect/reduced-violent-crime-in-washington-dc>
+[^162]: Carey, Benedict. &ldquo;**Long-Awaited Medical Study Questions the Power of Prayer.**&rdquo; The New York Times, The New York Times, 31 Mar. 2006, <https://www.nytimes.com/2006/03/31/health/31pray.html>.
+[^163]: Byrd, Randolph C. &ldquo;**Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population.**&rdquo; Southern Medical Journal, vol. 81, no. 7, 1988, pp. 826-829., doi:10.1097/00007611-198807000-00005. <http://www.godandscience.org/apologetics/smj1.html>
+[^164]: William S. Harris, PhD; Manohar Gowda, MD; Jerry W. Kolb, MDiv; et al, **&ldquo;A Randomized, Controlled Trial of the Effects of Remote, Intercessory Prayer on Outcomes in Patients Admitted to the Coronary Care Unit"Correction.&rdquo;** Archives of Internal Medicine, vol. 160, no. 12, 2000, p. 1878., doi:10.1001/archinte.160.12.1878. <https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/485161>
+[^165]: Radin, D., G. Hayssen, M. Emoto, and T. Kizu. “**Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation.**” National Center for Biotechnology Information. September 2006. Accessed May 30, 2016. http://www.ncbi.nlm.nih.gov/pubmed/16979104.
+[^166]: Nelson, R.d., G.j. Bradish, Y.h. Dobyns, B.j. Dunne, and R.g. Jahn. “**FieldREG Anomalies in Group Situations.**” EXPLORE: The Journal of Science and Healing 3, no. 3 (2007): 278. doi:10.1016/j.explore.2007.03.013.“We attribute this result to a real correlation that should be detectable in future replications. This study suggests the existence of some form of consciousness-related anomaly in random physical systems.”
+[^167]: Dillbeck, M.C. **Test of a field theory of consciousness and social change: Time series analysis of participation in the TM-Sidhi program and reduction of violent death in the U.S.**. Soc Indic Res 22, 399â418 (1990). https://doi.org/10.1007/BF00303834
+[^168]: Orme-Johnson, D., Alexander, C., Davies, J., Chandler, H., & Larimore, W. (1988). **International Peace Project in the Middle East: The Effects of the Maharishi Technology of the Unified Field. The Journal of Conflict Resolution**, 32(4), 776-812. Retrieved August 24, 2020, from http://www.jstor.org/stable/174032
+[^169]: Anonymous. “**I Hid Illuminati Symbols in Broadcast News Graphics Because I Was Bored.**” Hopes&Fears. 2015. Accessed May 30, 2016. http://www.hopesandfears.com/hopes/now/media/214739-illuminati-conspiracy-news-hidden.
+[^170]: Average time Americans adults (18+) send with electronic media Q4 2014. Source: Neilsen.
+[^171]: Cannarella, John, and Joshua A. Spechler. “**Epidemiological Modeling of Online Social Network Dynamics.**” Department of Mechanical and Aerospace Engineering, Princeton University, Princeton, NJ, USA, January 17, 2004. http://arxiv.org/pdf/1401.4208v1.pdf.
+[^172]: Forterre P. (2010). **Defining life: the virus viewpoint. *Origins of life and evolution of the biosphere : the journal of the International Society for the Study of the Origin of Life***, *40*(2), 151–160. https://doi.org/10.1007/s11084-010-9194-1
+[^173]: Pearson H. '**Virophage**' suggests viruses are alive. *Nature*. 2008;454(7205):677. doi:10.1038/454677a
+[^174]: Goodrich, Chauncey S., and Alexandra David-Neel. “**Magic and Mystery in Tibet.**” Journal of the American Oriental Society 93, no. 3 (1973): 415. doi:10.2307/599607.
+[^175]: Orkin, Jeffrey David. “**Collective Artificial Intelligence: Simulated Role-playing from Crowdsourced Data.**” Master’s thesis, MASSACHUSETTS INSTITUTE OF TECHNOLOGY, 2013. Accessed May 30, 2016. http://alumni.media.mit.edu/~jorkin/papers/orkin_phd_thesis_2013.pdf.
+[^176]: Fisher, Len. **The Perfect Swarm: The Science of Complexity in Everyday Life.** New York: Basic Books, 2009.
+[^177]: Jef D. Boeke,George Church, Andrew Hessel, Nancy J. Kelley, Adam Arkin, Yizhi Cai, Rob Carlson, Aravinda Chakravarti, Virginia W. Cornish, Liam Holt, Farren J. Isaacs, Todd Kuiken, Marc Lajoie, Tracy Lessor, Jeantine Lunshof, Matthew T. Maurano, Leslie A. Mitchell, Jasper Rine, Susan Rosser, Neville E. Sanjana, Pamela A. Silver, David Valle, Harris Wang, Jeffrey C. Way, Luhan Yang. “**The Genome Project–Write.**” Science. June 2, 2016. Accessed June 10, 2016. doi: 10.1126/science.aaf6850. http://science.sciencemag.org/content/early/2016/06/03/science.aaf6850.
+[^178]: SCIENCE 313:49 7/7/2006
+[^179]: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
+[^180]: Grabbed from <https://www.oddee.com/item_82923.aspx>
+[^181]: Quited directly from https://www.snopes.com/fact-check/whether-balloon/
+[^182]: Bowling, Sarah, Katerina Lawlor, and Tristan A. Rodríguez. "**Cell Competition: The Winners and Losers of Fitness Selection.**" *Development* 146, no. 13 (2019). doi:10.1242/dev.167486.
+[^183]: Balconi, Michela, Davide Crivelli, and Maria Elide Vanutelli. **"Why to Cooperate Is Better than to Compete: Brain and Personality Components".** *BMC Neuroscience* 18, no. 1 (2017). doi:10.1186/s12868-017-0386-8.
+[^184]: **&ldquo;As above, so below&rdquo;, or how a scientific theory is born**. (2012, July 30). <https://paolomaggiuk.wordpress.com/as-above-so-below-or-how-a-scientific-theory-is-born/>
+[^185]: Rifkin, L. (2014, June 10). **The Logic and Beauty of Cosmological Natural Selection**. <https://blogs.scientificamerican.com/guest-blog/the-logic-and-beauty-of-cosmological-natural-selection/>
+[^186]: Talbot, Michael, and Lynne McTaggart. **The Holographic Universe: The Revolutionary Theory of Reality**. New York, NY: Harper Perennial, 2011.
+[^187]: Wilber, Ken. **The Holographic Paradigm**. Shambhala;1982
+[^188]: Crew, B. (n.d.).**The Case For Black Holes Being Nothing But Holograms Just Got Even Stronger.**<https://www.sciencealert.com/the-case-for-black-holes-being-nothing-but-holographic-images-just-got-stronger>
+[^189]: Genesis 3:22. The entire line is &ldquo;Then the Lord God said, &lsquo;Behold, the man has become like one of Us, knowing the difference between good and evil; suppose he were to reach out his hand to also eat the fruit of the tree of life, and live forever!&rsquo;&rdquo;
+[^190]: Emoto, Masaru. **The True Power of Water: Healing and Discovering Ourselves**. Beyond Words Pub., 2005.;Emoto, Masaru. **Messages from Water and the Universe.** Hay House, 2010.; Emoto, Masaru. **Messages from Water: The First Pictures of Frozen Water Crystals.** Hado Publishing, 2004.
+[^191]: The use of magnetic water in agriculture to increase harvest and save up to 25% water. Live testimonials by biggest Australian farmers. <https://www.youtube.com/watch?v=YVL6tfGhr8M>
+[^192]: For example. **Heron&rsquo;s Fountain Plastic Water Bottle 2 minute DIY no sealant, no glue,**<https://www.youtube.com/watch?v=92rSXLPupKw>
+[^193]: More on Victor&rsquo;s work can be seen in the excellent documentary on YouTube &ldquo;**The Secrets of Water, The Documentary of Viktor Schauberger / Comprehend and Copy Nature**&rdquo;, <https://www.youtube.com/watch?v=XyOGdjWDVM4>
+[^194]: Martin-Fischer-Harthun, &ldquo;**Experimente mit Leitungswasser**&rdquo;, 1997. This is a difficult paper to find online. The original can be purchased at <https://www.fischer-wirbelwasser.de/shop/buecher.html>
+[^195]: These tests are: monobit frequency test, block frequency test, runs test, longest run ones10000, binary matrix rank test, spectzral test, nonoverlapping template matching test, overlapping template matching test, Maurers universal statistic test, linear complexity test, serial test, approximate entropy test, cumulative sums test, random excursions test, random excursions variant test, cumulative sums test reverse. These tests are provided by the National Institute of Standards and Technology as implemented by the program *testrandom.py* by Ilja Gerhardt, https://gerhardt.ch/random.php The numbers published here are the result of the program "ent", a a pseudo-random number sequence test program by John Walker of Fourmilab Switzerland, https://en.wikipedia.org/wiki/John_Walker_(programmer)
+[^196]: Data generated with the command "ent" with the following variables: Is Intel CPU; AESNI Supported in instruction set; Format=Hex model=pure size = 1000 kilobytes XOR mode off XOR range mode; off Output to file x Hardware Random Seeding on. Non deterministic mode;  Reseed c_max=511;  Using RdRand as nondeterministic source; Total Entropy = 0.000000; Per bit Entropy = 0.000000 %
+[^197]: These tests are: monobit frequency test, block frequency test, runs test, longest run ones10000, binary matrix rank test, spectzral test, nonoverlapping template matching test,	overlapping template matching test, Maurers universal statistic test, linear complexity test, serial test, approximate entropy test, cumulative sums test, random excursions test, random excursions variant test, cumulative sums test reverse. These tests are provided by the National Institute of Standards and Technology as implemented by the program *testrandom.py* by Ilja Gerhardt, https://gerhardt.ch/random.php The numbers published here are the result of the program "ent", a a pseudo-random number sequence test program by John Walker of Fourmilab Switzerland, https://en.wikipedia.org/wiki/John_Walker_(programmer)
+[^198]: Stevens, M. (2015, September 15). **The Zipf Mystery**. Retrieved June 30, 2020, from https://www.youtube.com/watch?v=fCn8zs912OE. The page of this video has dozens of excellent related links
+[^199]: https://solvemymath.com/online_math_calculator/number_theory/riemann_function/index.php or https://keisan.casio.com/exec/system/1180573439, for example
+[^200]: Snehal Shekatkar, **The sum of the r'th roots of first n natural numbers and new formula for factorial**, 2012, arXiv:1204.0877v2 [math.NT], https://arxiv.org/abs/1204.0877v2
+[^201]: Saad-Cook, J., Ross, C., Holt, N., & Turrell, J. (1988). **Touching the Sky: Artworks using Natural Phenomena, Earth, Sky and Connections to Astronomy**. *Leonardo* *21*(2), 123-134. [https://www.muse.jhu.edu/article/600628](https://muse.jhu.edu/article/600628). Charles Ross, the creator, describes: "1972. I had placed this simple lens set-up on the roof so the sun would burn a path across a wooden plank as the day progressed. The idea was to collect a portrait of the weather each day. As the work progressed, I noticed that the burn&rsquo;s curvature was changing with the seasons. We took photos of the burns and placed them end to end following their curvature to see what a year&rsquo;s worth looked like. The sum of days generated a double spiral figure. At first, it did not make any sense-this primitive lens set-up was producing a complex spiral shape. A few of the astronomers I showed it to said, "Well, it must be coming from somewhere, but we have no idea what it is". Most of the scientists insisted that there had to be some anomaly in the set-up and that the shape had nothing to do with astronomy -just some weirdness in the lens. In reality, it made no difference at all if the lens faced one way or the other as long as it faced generally toward south. The elements of the spiral are in sunlight itself; it was an archetypal image falling from the sky. I finally contacted Kenneth Franklin at the Hayden Planetarium. He directed me to the Naval Observatory, where LeRoy Doggett, an astronomer with the Nautical Almanac office…". Authors note: This Sun Spiral was pieces together manually from many separate samples, and should not be seen as an accurate representation of the suns paths, but only an approximation.
+[^202]: Nishiyama, Yutaka. "**A Study of Odd- and Even-Number Cultures.**" *Bulletin of Science, Technology & Society* 26, no. 6 (2006): 479-84. doi:10.1177/0270467606295408.
+[^203]: Barton, George A. **On the Babylonian Origin of Plato&rsquo;s Nuptial Number: on an Old Babylonian Letter Addressed "to Lushtamar".**. New Haven: American Oriental Society, 1908. <https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst>
+[^204]: Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
+[^205]: <https://www.quantamagazine.org/entanglement-made-simple-20160428/>
+
+[^9999]: 

@@ -1,0 +1,43 @@
+
+perl -p -e 's/\[/\n\[/gmi' 00-Intro.md > 00xmd
+perl -p -e 's/\[/\n\[/gmi' 01-CHAOS.md > 01xmd
+perl -p -e 's/\[/\n\[/gmi' 02-ENERGY.md > 02xmd
+perl -p -e 's/\[/\n\[/gmi' 03-ORDER.md  > 03xmd
+perl -p -e 's/\[/\n\[/gmi' 04-THE_LAWS.md > 04xmd
+perl -p -e 's/\[/\n\[/gmi' 05-REASON.md > 05xmd
+perl -p -e 's/\[/\n\[/gmi' 06-INFORMATION.md > 06xmd
+perl -p -e 's/\[/\n\[/gmi' 07-STRUCTURE.md > 07xmd
+perl -p -e 's/\[/\n\[/gmi' 08-MIND.md > 08xmd
+perl -p -e 's/\[/\n\[/gmi' 09-FIELDS.md > 09xmd
+perl -p -e 's/\[/\n\[/gmi' 10-RELEVANT_EXAMPLES.md > 10xmd
+perl -p -e 's/\[/\n\[/gmi' 20-How_to_Make_Structured_Water.md > 20xmd
+perl -p -e 's/\[/\n\[/gmi' 21-Tholonic_Math.md > 21xmd
+perl -p -e 's/\[/\n\[/gmi' 22-An_Unexpected_Pattern.md > 22xmd
+perl -p -e 's/\[/\n\[/gmi' 23-New_Data.md > 23xmd
+perl -p -e 's/\[/\n\[/gmi' 24-Meaning_of_Squares_and_Square_Roots.md > 24xmd
+perl -p -e 's/\[/\n\[/gmi' 25-Greek_Gods.md > 25xmd
+perl -p -e 's/\[/\n\[/gmi' 26-Hidden_Images.md > 26xmd
+perl -p -e 's/\[/\n\[/gmi' 27-The_Tholonic_I-Ching.md > 27xmd
+perl -p -e 's/\[/\n\[/gmi' 30-PART-II.md > 30xmd
+
+
+
+grep "\[\^" 01*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 01.r
+grep "\[\^" 02*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 02.r
+grep "\[\^" 03*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 03.r
+grep "\[\^" 04*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 04.r
+grep "\[\^" 05*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 05.r
+grep "\[\^" 06*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 06.r
+grep "\[\^" 07*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 07.r
+grep "\[\^" 08*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 08.r
+grep "\[\^" 09*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 09.r
+grep "\[\^" 10*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 10.r
+grep "\[\^" 20*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 20.r
+grep "\[\^" 21*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 21.r
+grep "\[\^" 22*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 22.r
+grep "\[\^" 23*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 23.r
+grep "\[\^" 24*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 24.r
+grep "\[\^" 25*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 25.r
+grep "\[\^" 26*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 26.r
+grep "\[\^" 27*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 27.r
+grep "\[\^" 30*.md |awk -F"[" '{print $2}'|awk -F"]" '{print "grep -F \x27["$1"]\x27 40-References.md"}'|sh > 30.r
