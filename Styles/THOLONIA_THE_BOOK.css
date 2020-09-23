@@ -1,15 +1,17 @@
 
+/* these seem to only apply to he html */
 body {
-    margin: 0;
+
+    margin: 100pt;
     padding: 0;
     height: auto;
     bottom: 0;
     top: 0;
     left: 0;
     right: 0;
-    font-size: 1rem;
-    line-height: 1.42857;
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    font-size: 11pt;
+    /*line-height: 1.42857;*/
+   /* removed as it breaks princexml, but still exists is parent git css used    by typora
     overflow-x: hidden;*/
     background: inherit;
     tab-size: 4;
@@ -35,7 +37,7 @@ a:active, a:hover {
     overflow-wrap: break-word;
     position: relative;
     white-space: normal;
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    /* removed as it breaks princexml, but still exists is parent git css used    by typora
     overflow-x: visible;*/
     padding-top: 40px;
 }
@@ -50,7 +52,7 @@ body.typora-export {
 }
 
 .footnotes {
-/*    margin-left:0.5in;
+   /*    margin-left:0.5in;
     margin-right:0.5in;*/
 }
 
@@ -61,7 +63,7 @@ body.typora-export {
 @media screen and (max-width: 500px) {
 
     .footnotes {
-/*        margin-left:0.5in;
+    /*        margin-left:0.5in;
         margin-right:0.5in; */
     }
 
@@ -189,10 +191,10 @@ a {
 }
 
 figure {
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+    /* removed as it breaks princexml, but still exists is parent git css used    by typora
     overflow-x: auto;*/
     margin: 1.2em 0;
-/* removed as it breaks princexml, but still exists is parent git css used by typora 
+    /* removed as it breaks princexml, but still exists is parent git css used by typora
     max-width: calc(100% + 16px);*/
     padding: 0;
 }
@@ -265,7 +267,7 @@ table {
 
 #write.fences-no-line-wrapping .md-fences.mock-cm {
     white-space: pre;
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+/* removed as it breaks princexml, but still exists is parent git css used    by typora
     overflow-x: auto;*/
 }
 
@@ -367,7 +369,7 @@ p > img:only-child {
 
 [contenteditable="true"]:active, [contenteditable="true"]:focus {
     outline: 0;
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+/* removed as it breaks princexml, but still exists is parent git css used    by typora
     box-shadow: none;*/
 }
 
@@ -381,7 +383,7 @@ kbd {
     background: rgb(255, 255, 255);
     border: 1px solid rgb(173, 179, 185);
     border-radius: 3px;
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+/* removed as it breaks princexml, but still exists is parent git css used    by typora
     box-shadow: rgba(12, 13, 14, 0.2) 0 1px 0, rgb(255, 255, 255) 0 0 0 2px
     inset;*/
     white-space: nowrap;
@@ -599,7 +601,7 @@ div.CodeMirror span.CodeMirror-nonmatchingbracket {
 }
 
 .CodeMirror-wrap .CodeMirror-scroll {
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+/* removed as it breaks princexml, but still exists is parent git css used    by typora
     overflow-x: hidden/
 }
 
@@ -783,7 +785,7 @@ table tr th {
     border-top-color: rgb(223, 226, 229);
     border-right-color: rgb(223, 226, 229);
     border-left-color: rgb(223, 226, 229);
-/* removed as it breaks princexml, but still exists is parent git css used    by typora 
+/* removed as it breaks princexml, but still exists is parent git css used    by typora
     border-image: initial;*/
     border-bottom-style: initial;
     border-bottom-color: initial;
@@ -860,7 +862,6 @@ code {
 header, footer {
     font-family: "Segoe UI", Arial, sans-serif;
 }
-
 /*
 @page {
   width: 6.69in;
@@ -869,19 +870,25 @@ header, footer {
 }
 */
 @page {
-    /*margin: 0.5in; /*25*/
-    /*margin-inside: 0.5in;*/
+
+/*
+these seem to have to affect on the PrinceXml or wkhtmltopdf pdf generation :(
+*/
+/*    margin: .025in;
+    margin-inside: 0.00625in;*/
+    margin: 0in;
+    margin-inside: 0in;
 
     /* larer size */
     /* 8.5" x 11" (21.59 x 27.94 cm) */
     /* size: 215.9mm 279.4mm; */
 
     size: 6.69in 9.61in;
-    size: 170mm 244mm;
+/*    size: 170mm 244mm;*/
     @bottom {
       content: counter(page)
     }
-}    
+}
 
 
 .reflink {
@@ -938,7 +945,8 @@ h4 {
 /* modify existing classes from git.user.css theme */
 /* -------------------------------------------------------------- */
 #write h1 {
-    page-break-before:always !important;
+/*    page-break-before:always !important; */
+    page-break-before:never !important;
 }
 body {
     font-family: "Times New Roman", Times, serif;
@@ -951,6 +959,7 @@ h6 { /* this is the sub-headimg */
     font-family: Tahoma,Verdana,Segoe,sans-serif !important;
     text-align: center !important;
     color: black;
+	font-size:14pt;
     border-top:1px solid black !important;
     border-bottom:1px solid black !important;
     font-weight:100;
@@ -965,15 +974,23 @@ h5 { /* this is the authours format */
     display: inline-block;
     text-align: right !important;
     position:relative !important;
-    right:0 !important; 
+    right:0 !important;
     border: 0px solid white;
 }
 
 h4 { /* this is the CLAIM format */
+
+	    font-family: Tahoma,Verdana,Segoe,sans-serif !important;
     border:1px solid lightgrey !important;
     background-color:#ddd !important;
     font-size: 1rem !important;
-    font-weight: 100 !important;
+    font-weight: 200 !important;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left:10px;
+	margin-right: 10px;
 }
 
 #md-inner-link {
@@ -1031,3 +1048,7 @@ sup {
   display:none;
 }
 
+p .md-image:only-child{
+    width: auto;
+    text-align: inherit;
+}

@@ -1,0 +1,144 @@
+@media print {
+    @page {
+        
+/*     ALLOWS PROPERTIES IN @page */ 
+/*
+        prince-bleed
+        prince-mark-length
+        prince-mark-offset
+        prince-mark-width
+        prince-pdf-page-colorspace 
+        prince-pdf-page-label
+        prince-rotate-body
+        prince-shrink-to-fit
+        prince-trim*/
+        size: 481pt 691.92pt;
+    }
+    body {
+        size: 481pt 691.92pt;
+        margin:19pt; 
+        margin-inside: 0.626in; 
+        size: 481pt 691.92pt;
+
+        font-family: "Times New Roman", Times, serif;
+        margin: 1pt;
+        padding: 0;
+        height: auto;
+        bottom: 0;
+        top: 0;
+        left: 0;
+        right: 0;
+        font-size: 10pt;
+        background: inherit;
+        tab-size: 4;
+        line-height: 14pt;
+    }
+
+    .break {/*page-break-before:always;*/}
+
+    #write h1 { text-align:center;}
+    h1 { text-align:center;}
+    h4 { /* this is the CLAIM format */
+        font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+        border:1px solid lightgrey !important;
+        background-color:#ddd !important;
+        font-size: 1rem !important;
+        font-weight: 200 !important;
+        padding-top: 3px;
+        padding-bottom: 3px;
+        padding-left: 5px;
+        padding-right: 5px;
+        margin-left:10px;
+        margin-right: 10px;
+    }
+    h5 { /* this is the authour's attribution format */
+        font-size: 10pt;
+        font-weight:100;
+        font-style: italic;
+        color:grey;
+        text-align: right !important;
+        position:relative !important;
+        right:0 !important;
+        border: 0px solid white;
+        margin-left: 1em;
+        margin-block-start: 1em;
+        margin-block-end: 0em;
+    }
+    /* this is only meant to adjust the authour's attribution block */
+    blockquote {
+        margin-left: 1em;
+    }
+    blockquote p {
+        font-style: italic;
+        color:grey;
+        text-indent: 0in;
+    }
+    /* */
+
+
+    h6 { /* this is the sub-headimg */
+        font-family: Tahoma,Verdana,Segoe,sans-serif !important;
+        text-align: center !important;
+        color: black;
+        font-size:12pt;
+        border-top:1px solid black !important;
+        border-bottom:1px solid black !important;
+        font-weight:100;
+        border: 0px solid white;
+    }
+    .md-toc-h1 { font-size:14pt;}
+    .md-toc-h2 { font-size:12pt;}
+    .md-toc-h3 { font-size:10pt;}
+    /* hide book title in TOC */
+    .md-toc-h6 { display: none;}
+    .md-toc-h5 { display: none;}
+    .md-toc-h4 { display: none;}
+    a.md-toc-inner { font-size: 14pt !important; color: black !important; }
+    .md-toc-inner strong { display:none;}
+    /* */
+
+    /* footnotes */
+    .footnote-ref { text-decoration: none; font-size: 8pt;}
+    .footnotes { font-size: 8pt;}
+    .typora-export .footnote-line, .typora-export li {white-space:pre-wrap;}        
+
+
+    .footnotes li p {
+        font-size: 8pt; 
+        text-indent: 0in;
+    }
+    
+    li p, li {
+        text-indent: 0in; 
+        tab-size:0;
+    }
+
+    p {
+        font-family: "Times New Roman", Times, serif;
+        page-break-before: auto;
+        font-size: 10pt;
+        text-indent: 0.25in;
+        line-height: 14pt;
+        margin-top: 0pt;
+        margin-bottom: 0pt;
+        hyphens: auto;
+        prince-hyphenate-lines: 2;
+        prince-hyphenate-before: 3;
+        prince-hyphenate-after: 2;
+        orphans: 2;
+        widows: 2;
+        padding-bottom: 1em;
+    }
+    #write {
+        margin-top: 0;
+        padding-top: 0;
+        border-color: transparent !important;
+    }
+
+    .typora-export * {
+        -webkit-print-color-adjust: exact;
+    }
+    .footnote-ref { text-decoration: none; font-size: 8pt;}
+    .footnotes { font-size: 8pt;}
+    .typora-export .footnote-line, .typora-export li {white-space:pre-wrap;}
+}
