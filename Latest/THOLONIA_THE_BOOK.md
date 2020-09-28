@@ -1,4 +1,3 @@
-<div style='page-break-after: always; break-after: page;'></div>
 <center><img src='../Images/titlepage.png' style='width:100%'/></center>
 
 # INTRODUCTION
@@ -342,7 +341,7 @@ Ohm&rsquo;s law is actually Newton&rsquo;s 2nd Law of Motion, t*he force of an o
 
 ##### A word on patterns and Ohm&rsquo;s  Law…
 
-Ohm&rsquo;s  Law is not really a *universal law* like its famous parent, Newton&rsquo;s  2^nd^ Law of Thermodynamics, which is more universal.  It&rsquo;s  more of a *local law* as it only applies to linear systems and conductive materials.  Ohm&rsquo;s  Law follows the simple pattern of $ab=c, bc=d$, which we can understand as *2&times;3=6, 3&times;6=18*, or *resistance&times;amps=volts, amps&times;volts=power.* Any of the reasoning being applied here regarding Ohm&rsquo;s  Law could just as easily be applied to other natural linear systems.  Ohm&rsquo;s  law is just a simple law that everyone can understand and relate to.  Other simple patterns could also be $\boldsymbol{\frac{1}{1} ,\frac{1}{2} ,\frac{1}{3} ,\frac{1}{4} ,\frac{1}{5} ,\frac{1}{6} ,\frac{1}{7} ,\frac{1}{8} ...}$, which is the *Harmonic Series* and describes music, or *1+1=**2**, 1+3=**3**, 2+3=**5**, 3+5=**8**, 5+8=**13**, 8+13=**21**..*, which is the famous *Fibonacci Sequence* (and is almost identical to Ohm&rsquo;s  Law except is uses addition instead of multiplication), or how the primes numbers can create $\pi$, $\boldsymbol{\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}}$
+Ohm&rsquo;s  Law is not really a *universal law* like its famous parent, Newton&rsquo;s  2^nd^ Law of Thermodynamics, which is more universal.  It&rsquo;s  more of a *local law* as it only applies to linear systems and conductive materials.  Ohm&rsquo;s  Law follows the simple pattern of $ab=c, bc=d$, which we can understand as *2&times;3=6, 3&times;6=18*, or *resistance&times;amps=volts, amps&times;volts=power.* Any of the reasoning being applied here regarding Ohm&rsquo;s  Law could just as easily be applied to other natural linear systems.  Ohm&rsquo;s  law is just a simple law that everyone can understand and relate to.  Other simple patterns could also be $\frac{1}{1}$ ,$\frac{1}{2}$ ,$\frac{1}{3}$ ,$\frac{1}{4}$ ,$\frac{1}{5}$ ,$\frac{1}{6}$ ,$\frac{1}{7}$ ,$\frac{1}{8}$ &hellip; which is the *Harmonic Series* and describes music, or *1+1=**2**, 1+3=**3**, 2+3=**5**, 3+5=**8**, 5+8=**13**, 8+13=**21**..*, which is the famous *Fibonacci Sequence* (and is almost identical to Ohm&rsquo;s  Law except is uses addition instead of multiplication), or how the primes numbers can create $\pi$, $\frac{1}{3}+\frac{1}{5}-\frac{1}{7}+\frac{1}{9}-\frac{1}{11}+$&hellip;$=\frac{\pi }{4}$
 
 ##### A word on electricity…
 
@@ -2307,6 +2306,8 @@ In the tholonic modal, this example also applies to ideas, concepts, and intelli
 <div style='page-break-after: always; break-after: page;'></div>
 # 8: MIND
 
+###### The machine is creation is not limited or defined by man
+
 Although there have been many references to the idea that awareness is an inherent property of existence, let&rsquo;s make this clear.
 
 If the concept of a thing and the thing itself are two orders of the same form of expression of energy, and order is a prerequisite to intelligence, does this imply that everything with order, i.e.  everything that exists, potentially has a form of intelligence? In the tholonic model, yes, but more than that, even without order or intelligence there is awareness *and* intention.
@@ -2437,6 +2438,8 @@ There are countless examples of tholonic cooperation and competition, and some o
 
 <div style='page-break-after: always; break-after: page;'></div>
 # 9: FIELDS
+
+###### Fields are forces of influence; electrical, conceptual, unknown, or otherwise
 
 If tholons are themselves forms of information then we come back to the question, &ldquo;Where is this information stored?&rdquo; This is a question that has been pondered for ages. One example would be the somewhat Buddhist concept (in that it was coined by a Buddhist in 1884, but adopted by other beliefs) called the *Akashic Records* which is said to be &ldquo;a compendium of all human events, thoughts, words, emotions, and intent ever to have occurred in the past, present, or future&rdquo;. This might be a bit ambitious for our purposes, but the idea is essentially the same… that of a ubiquitous, timeless non-physical record of (at least) all aggregate thought forms. If our claim is that this also describes the thologram, then where and how does it store this data?
 
@@ -2883,6 +2886,8 @@ In this case it would probably be more accurate to show Bell curves as Gaussian 
 <div style='page-break-after: always; break-after: page;'></div>
 # 10: RELEVANT EXAMPLES
 
+###### Everything that exists is a relevant example of an concept. Here are some to stimulate the imagination
+
 ## Mythology
 
 It may sound childish or even superstitious to suggest that archetypes can have intentions that can result in conflicting and/or cooperative relationships, which implies allies and enemies, and therefore some sort of diplomacy and politics.  To a certain degree, it is childish, in the sense that it leaves so much open to the imagination. Beliefs quickly fill in the blanks of our limited understanding of the mechanics of the elements of awareness, intention, and intelligence.  This is what leads to the reasoning of myth and religion.  However, it is the tholonic view that the ancient myths were a way to understand the workings of the reality (or perhaps tholons are a way to understanding the workings of the gods?).  The interactions of the gods and that of archetypes are quite easily comparable, as seen in the chart below.  Myths are *childish* in the sense that they represent an early form of intuitive understanding. The Gods are and their unending drama are understood as anthropomorphized concepts of the tholonic archetype and their in interactions. To get a general idea on the Mexican-soap-opera-on-steroids that was the life of the Gods, see appendix F, &ldquo;Greek Gods&rdquo;.  It is short, and quite entertaining.
@@ -3024,6 +3029,8 @@ On a related note, keep an eye on the research into what is essentially the coll
 
 <div style='page-break-after: always; break-after: page;'></div>
 # 11: PREDETERMINISM
+
+###### Freedom of will exists, but its options are limited
 
 Remember the explanation of how a lightning rod works?  It simply creates a path of least resistance between two different states that seek balance, and, as energy always travels the path of least resistance, lightning will always seek the lightning rod over a brick chimney.  We can say that the path of the lightening was predetermined before it even began, but it would be more accurate to say that the lightening only came into existence because such a path even existed in the first place.  In other words, the instance of lightening is a consequence of the preexisting energy fields.
 
@@ -3204,7 +3211,9 @@ In both Sadhguru&rsquo;s model of reality and the tholonic model, transcending t
 Here we return to the concept of *intention* which was skipped over previously.  Looking at the tholonic model, it would be easy to imagine how it could evolve towards some very dark sides of existence just as easily as it could towards bright sides because there is no implicit morality or definition of right or wrong.  The tholon is a structure, a machine, so to speak.  While there are plenty of examples of dark instances throughout the history of existence, on the whole, existence has tended towards being a contributing factor to life.  We can say that this is because no matter what the direction of intention, it will always tend toward being balanced, so it has a built in protection against going to far to one side or another, as the laws of physics shows us.  There is another understanding as well which can be understood using same powers of observation and reason that fuels scientific thinking.  In its simplest form we can say that it has been observed that, for the most part in life, the body prefers health and pleasure over sickness and suffering, the mind prefers peace and joy over violence and misery, and emotions of love and compassion are preferred over hate.  This would suggest that the original intention of creation was more in the direction of health, peace, and love then sickness, violence and hate.  One could argue that these preferences are only a result of evolution as they contributed to survival, but that would only support the argument that this was the original intention.  In reality, we tend to see both sides working together, as in the very parasitic relationship between the predatory wasp and the slower cockroaches, but as we also see in that example that it is ultimately a benefit to the cockroach gene pool.  The same goes for any synergetic system from elks and wolves to political systems.  Saying that health, love and bliss only exist within the structures of sickness, hate and misery (and visa-versa) may sound like a Buddhist tenet, but it appears to be fundamental to the tholonic model as well.  Is appears as though cooperation and conflict is not an either/or choice but rather there is cooperation within conflict, and conflict within cooperation, which implies this model has the most stability, for now at least.  The human brain, cellular mechanics, and all life in general, is wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for every instance to express the intention of the of its tholonic archetype that has its source in the *primal intention*.
 
 <div style='page-break-after: always; break-after: page;'></div>
-# 12: PROMETHEUS UNBOUND
+# 12: The New Mythology
+
+###### PROMETHEUS UNBOUND
 
 Our reality is a microcosm of the reality that created it, just as the transhuman reality we are creating is a microcosm of our reality.
 
@@ -3260,7 +3269,9 @@ Perhaps the question that has humanity so concerned, &ldquo;Will AI ever attain 
 <div style='page-break-after: always; break-after: page;'></div>
 # Appendixes
 <div style='page-break-after: always; break-after: page;'></div>
-# A - How to Make Structured Water
+# A - Structured Water
+
+###### How to make it and who is using it
 
 We look at three ways to create structured water.
 
@@ -3294,18 +3305,20 @@ Devices such as the Martin-Wasserwirbler (MW) attachment are small devices that 
 
 We will pay particular attention to the MW device because it was the first device to create structured water whose ideas was originally conceived by the brilliant Viktor Schauberger, the Austrian forest caretaker, naturalist, parascientist, philosopher, inventor and biomimicry experimenter, and his son Walter Schauberger, both of whom studied the qualities of water.[^193]
 
-The idea that the qualities of water lost due to it processing could be reintroduced by creating a vortex with the water was originally brought up in 1972 in a conversation with civil engineer Wilhelm Martin, who was working on ways to improve tap water.  In 1997 Martin published his paper &ldquo;Experimente mit Leitungswasser &rdquo; (Experiments with Tap Water)[^194].  In that paper, he describes the Martin-Wasserwirbler (Martin Water Vortex) and his 30 years of experimentation with the concept.
+The idea that the qualities of water lost due to it processing could be reintroduced by creating a vortex with the water was originally brought up in 1972 in a conversation with civil engineer Wilhelm Martin, who was working on ways to improve tap water.  In 1997 Martin published his paper &ldquo;Experimente mit Leitungswasser&rdquo; (Experiments with Tap Water)[^194].  In that paper, he describes the Martin-Wasserwirbler (Martin Water Vortex) and his 30 years of experimentation with the concept.
 
 Tests with the MW have shown positive results, such as a rise in pH, oxygen content, and a decline in water temperature.  Unfortunately, there are no tools that exist to measure many of the qualities of water that we believe are its most important, which is the manner water moves, stores and transmits energy.
 
 ### Industrial Solutions
 
-Pursanova is a company that makes complete water processing system for residential, commercial and industrial applications.  Their products range from $20 to many thousands.  They have a number of case studies on their website (<http://pursanova.com>) which are astounding.
+Pursanova is a company that makes complete water processing system for residential, commercial and industrial applications.  Their products range from $20 to many thousands.  They have a number of case studies on their website (pursanova.com) which are astounding.
 
-Disclaimer: I have no relationship with any of these companies and am not promoting any of their products.  I refer to them simply because my research seems to indicate they are legitimate products in an industry filled with wild and dubious claims.
+*Disclaimer: I have no relationship with any of these companies and am not promoting any of their products.  I refer to them simply because my research seems to indicate they are legitimate products in an industry filled with wild and dubious claims.*
 
 <div style='page-break-after: always; break-after: page;'></div>
 # B - Tholonic Math
+
+###### Does the math define the structure, or the structure define the math? Which archetype came first?
 
 One of the fundamental claims being made here is that a coherent and stable expression of energy, in order to be sustainable, must satisfy a number of prerequisites that will ensure its sustainability.  It&rsquo;s a bit like existential bureaucracy, in that if the proper application for existence of not filled out completely and accurately, the request is denied.
 
@@ -3338,11 +3351,17 @@ Tholonically, we can easily map things like Ragone and utility space (as in the 
 <div style='page-break-after: always; break-after: page;'></div>
 # C - An Unexpected Pattern
 
+###### This is presented as a question "What is this and why?"
+
 In the course of writing this book there was the need to generate sets of number from other sets of numbers.  In one case, the results presented a very unexpected pattern.
 
 Numbers were generated by periodically calculating the longitudinal position of the Sun and the Moon (from Earth&rsquo;s coordinates of -34.61262S, -58.41048W, Buenos Aires, Argentina on the 24^th^ of each month at 5:31:07 PM UT) down to 10^-15^  radians.  The individual digits of these two values were then concatenated, or cross-summed.  For example, the Sun&rsquo;s longitude in radians at one moment was 4.2430033683776855, and the Moon&rsquo;s position at that same moment was 2.399298667907715.  These were then cross-summed until they are reduced to a single digit value.
 
-$  4+2+4+3+0+0+3+3+6+8+3+7+7+6+8+5+5\ \ +\ \ 2+3+9+9+2+9+8+6+6+7+9+0+7+7+1+5\ =\ 164\\ 1+6+4\ =\ 11\\ 1+1\ =\ 2 $
+$4+2+4+3+0+0+3+3+6+8+3+7+7+6+8+5+5=74$
+$2+3+9+9+2+9+8+6+6+7+9+0+7+7+1+5=90$
+$74+90=164$
+$1+6+4=11$
+$1+1=2$ 
 
 Millions of samples were recorded and reduced to one number.  The input data of the Son and Moon positions was perfectly non-random and linear, but the single-number series of data was &ldquo;mostly random&rdquo; according to the *Chi squared* results of a randomness test[^195].  Below shows the test results of the single-number data and data from a random number generator (RNG), for comparison[^196]^,^ [^197].
 
@@ -3525,6 +3544,10 @@ The following images were created by plotting each digit of the position of the 
 <div style='page-break-after: always; break-after: page;'></div>
 # D - New Data?
 
+###### And is so, what does it tell us?
+
+
+
 Applying Ohm&rsquo;s Law to the tetrahedron shows some new relationships.  Readers who enjoy numbers will find this next (short) section interesting.
 
 So, we can satisfy all twelve formulas of Ohm&rsquo;s Law as they appear on a tetrahedron, but we can also find some new data now which may appear as useless, or may be meaningful if we know how to use it.  *&ldquo;There is no useless data, only data we have yet to understand how to use*&rdquo;  refers back to **Claim 33: All data is valid**
@@ -3586,7 +3609,9 @@ Later in history this pedigree number fell slightly into infamy when John the Ap
 Because 216 = 6&times;6&times;6 it gained a dubious reputation by association with the Beast of Armageddon and started popping up in some strange places, thanks to humanities generally suspicious nature and love of doom.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and not &ldquo;Six hundred threescore and six&rdquo;, as it appears in the most popular King James Bible.  However, the odd coincidence that John&rsquo;s number of man (666), which needed to be calculated, has a strong relationship with Socrates&rsquo; &ldquo;number of the human creature&rdquo; (216), which also needed to be calculated, is curious… even more curious is why these old timer&rsquo;s preferred to shroud their message in incomprehensible riddles rather than just tell us the damn number! Ug… philosophers.  Regardless, 216&rsquo;s clout in the religious and mystical tin-foil-hat brigades still holds up today.  Just do an Internet search for &ldquo;216&rdquo; to see for yourself.
 
 <div style='page-break-after: always; break-after: page;'></div>
-# E - Meaning of Squares and Square Roots
+# E - Squares and Roots
+
+###### What they mean in the context of this of this book
 
 What is the significance of a square or square root?  We know what it means mathematically, but how would that meaning be understood in a different context, such as society or law?  The challenge with applying one relationship from one context to another is that without well-understood metrics, attributing foreign attributes to a relationship runs the risk of being very subjective, biased, and filtered through a cultural or moral lens that itself may be very biased.  This is the reasoning behind many beliefs and superstitions.  Nevertheless, we will try our best to avoid those pitfalls.
 
@@ -3659,6 +3684,8 @@ This is fantastically elegant is so many ways, and the recurring principle seems
 <div style='page-break-after: always; break-after: page;'></div>
 # F - Greek Gods
 
+###### You wouldn't want to bump into them in a dark alley
+
 According to Greek mythology, the world began with several primordial beings who begat more gods, who begat even more gods, and so on. What follows is a brief overview of that begetting and the cosmic drama that typically follows the begetting of gods.
 
 *(The following is a slightly modified transcript reprinted with permission from “The Life Guide” YouTube channel (*[*https://www.youtube.com/c/TheLifeGuide*](https://www.youtube.com/c/TheLifeGuide)*), entitled “Greek Gods Explained In 12 Minutes”.)*
@@ -3711,7 +3738,7 @@ God of wine and parties, Dionysus was perhaps the most fun of the Olympians. Fre
 
 <div style='page-break-after: always; break-after: page;'></div>
 # G - Hidden Images
-
+###### Meaningful information encoded as meaningless information
 <center><img src='../Images/embedded-page.png' style='width:100%'/></center>
 
 *Credits, left to right, top to bottom.*
@@ -3742,8 +3769,7 @@ Complete images and more at https://twistedsifter.com/2013/01/hidden-images-embe
 
 <div style='page-break-after: always; break-after: page;'></div>
 # H - The Tholonic I-Ching
-
-<center><b>This section of very beta!  Much of it will probably change!!</b></center>
+###### Examining the I-Ching from a Tholonic perspective. !!This section of very beta... much of it will probably change!!
 
 It&rsquo;s been mentioned several times already that the basic principles of the tholonic model should be discoverable in any sustainable model, be it form or idea, if all creation follows the same rules.
 
@@ -4637,14 +4663,14 @@ With all that we have learned so far, let&rsquo;s attempt to decipher and transl
 <div style='page-break-after: always; break-after: page;'></div>
 # The Way of Change 
 
-###### In interpretation of the tholonic model in the style of the I Ching
+###### An interpretation of the I-Ching, in the style and manner of the traditional I-Ching, using Tholonic concepts.
 
 ## Coming Soon&hellip;
 
 # The End
 
 <div style='page-break-after: always; break-after: page;'></div>
-
+###### Footnotes, references, links, comments, etc.
 [^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 [^2]: Gleick, J. (1998). **Making a New Science**.
 [^3]: &ldquo;**The Beginning of Time**.&rdquo; Stephen Hawking, <https://www.hawking.org.uk/the-beginning-of-time.html>.
@@ -4850,4 +4876,7 @@ With all that we have learned so far, let&rsquo;s attempt to decipher and transl
 [^203]: Barton, George A. **On the Babylonian Origin of Plato&rsquo;s Nuptial Number: on an Old Babylonian Letter Addressed "to Lushtamar".**. New Haven: American Oriental Society, 1908. <https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst>
 [^204]: Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
 [^205]: <https://www.quantamagazine.org/entanglement-made-simple-20160428>
+
+<div style='page-break-after: always; break-after: page;'></div>
+
 

@@ -59,7 +59,7 @@ $endfor$
                 <p class="date">Published: $pubdate$</p>
         $endif$
         $if(status)$
-                <p class="status">Status: $status$</p>
+                <p class="status">$status$</p>
         $endif$
         $if(ISBN-13)$
                 <p class="ISBN-13">ISBN-13: $ISBN-13$</p>
@@ -71,9 +71,8 @@ $endfor$
                 <div class="rights">$rights$</div>
         $endif$
         $if(rights-desc)$
-                <p class="rights">$rights-desc$</p>
+                <p class="rights" style="padding-top:20pt;text-indent:0in;">$rights-desc$</p>
         $endif$
-
 
         $for(include-before)$
                 $include-before$

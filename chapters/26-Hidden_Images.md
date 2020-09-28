@@ -1,7 +1,7 @@
-<div style='page-break-after: always; break-after: page;'></div>
+<div style='page-break-after: never; break-after: none;'></div>
 # G - Hidden Images
-
-<img src='../Images/embedded-page.png' style='width:100%'>
+###### Meaningful information encoded as meaningless information
+<center><img src='../Images/embedded-page.png' style='width:100%'/></center>
 
 *Credits, left to right, top to bottom.*
 

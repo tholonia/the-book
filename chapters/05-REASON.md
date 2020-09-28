@@ -1,4 +1,4 @@
-<div style='page-break-after: always; break-after: page;'></div>
+<div style='page-break-after: never; break-after: none;'></div>
 # 5: REASON
 
 ###### The ability to understand something is limited by our ability to perceive something.  As our perception changes, so does our understanding change, and with that, the reasoning we apply.
@@ -7,7 +7,7 @@ We arrived at laws through reason, and we humans are rather proud of that claim 
 
 *Reason* is what we call our ability to recognize the natural processes that arise from the patterns of creation and is the product of intellectual survival, a skill we evolved to give us fang-less, claw-less, slow, small and tasty humans a fighting chance in the Darwinian battlefield.
 
-To be fair, there has been a long-standing debate over whether mathematics, and by association, reason, was invented or discovered.  One of the more solid debates is presented by leading astrophysicist Mario Livio in his article &ldquo;Why Math Works&rdquo;[^16]
+To be fair, there has been a long-standing debate over whether mathematics, and by association, reason, was invented or discovered.  One of the more solid debates is presented by leading astrophysicist Mario Livio in his article &ldquo;Why Math Works&rdquo;[^26]
 
 In that article, he refers to those who believe math was discovered as Platonists, due to the fact that Platonic archetypes include math archetypes, as math is a form of an idea.  Livio gets into the idea that math is subject to the same evolutionary forces as species in that math that does not work quickly dies, never again to propagate itself into the mathematical &ldquo;gene pool.&rdquo;
 
@@ -21,7 +21,7 @@ In any case, both sides can agree, for the most part, that math is the language 
 
 Reason has been pretty effective in describing our reality, but it has its limits, at least in the way we use it today.
 
-For example, the traditional Law of Thought[^17] goes something like:
+For example, the traditional Law of Thought[^27] goes something like:
 
 - **The Law of Non-Contradiction states:**
 
@@ -43,7 +43,7 @@ A hardcore Aristotelian materialist might say &ldquo;The law of non-contradictio
 
 It would appear that the laws of reason depend on the scope of one&rsquo;s perspective and what one accepts as axiomatic or true, transcendental or otherwise.  How, then, can these laws be preexisting if they contradict each other? This is sort of like the fable of the blind men and the elephant, where one blind man holding the elephant&rsquo;s tail describes it as a snake, and the other, holding the foot, describes it as a tree, or perhaps like the brilliant sculptures of Mathew Robert Ortis, such as &ldquo;Revolution Giraffes&rdquo;, which looks like a giraffe from one angle, but an elephant from another.
 
-<img src='../Images/016-eleph-giraf.png' style='width:100%;' />
+<center><img src='../Images/016-eleph-giraf.png' style='width:100%'/></center>
 
 The blind men and the viewers of the sculpture are all perceiving a preexisting form that is undebatably &ldquo;true&rdquo;, but they can&rsquo;t seem to agree on what it is.
 
@@ -55,23 +55,23 @@ In all cases, before one can proclaim some thing&rsquo;s existence, that thing h
 
 I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone I know also knows of dogs.  But can I say *phlimquitz* exist, and when you ask me what a *phlimquitz* is, I say &ldquo;I have no idea&rdquo;? That would be quite unreasonable, but if I said *phlimquitz* explains the 99.97% correlation between &ldquo;U.S.  Spending on science, space and technology vs.  Suicide by hanging, strangulation, and suffocation&rdquo;, then I am claiming to understand something heretofore unknown and can go about defining and testing the *Phlimquitz Hypothesis*.
 
-#### **Claim 18:** We name things according to our observations, and once named, they become conceptual realities.  
+#### **Claim 18:** We name things according to our observations, and once named, they become conceptual realities.
 
-Here is that correlation, just for fun:[^18]
+Here is that correlation, just for fun:[^28]
 
-<img src='../Images/017-suicide.png' style='width:100%;' />
-    
-<img src='../Images/018-star-dancer.png' style='width:100%;' />
+<center><img src='../Images/017-suicide.png' style='width:100%'/></center>
 
-This process of understanding is similar to recognizing a pattern in a series of random dots, as in the dancing-woman-in-the-dots example above.  In that image I can definitely see a person dancing, and I can easily prove it by connecting the dots.  I am not wrong, but neither is the person who sees an egg sandwich.  
+<center><img src='../Images/018-star-dancer.png' style='width:100%'/></center>
+
+This process of understanding is similar to recognizing a pattern in a series of random dots, as in the dancing-woman-in-the-dots example above.  In that image I can definitely see a person dancing, and I can easily prove it by connecting the dots.  I am not wrong, but neither is the person who sees an egg sandwich.
 
 However, any predictions either of us makes on where the next dot will land or in determining the properties attributes of the dots, based on the understanding of our perceptions will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.
 
-Humans began grasping this concept of randomness about 3,000 years ago, but named it things like &ldquo;fate&rdquo;, &ldquo;chance&rdquo;, and &ldquo;destiny&rdquo;, and, being unpredictable was usually associated with some sort of supernatural justice or punishment.  It wasn&rsquo;t until the 16<sup>th</sup> century that Italian mathematicians began to formalize the concept of what we call randomness, so it&rsquo;s still quite a young concept.
+Humans began grasping this concept of randomness about 3,000 years ago, but named it things like &ldquo;fate&rdquo;, &ldquo;chance&rdquo;, and &ldquo;destiny&rdquo;, and, being unpredictable was usually associated with some sort of supernatural justice or punishment.  It wasn&rsquo;t until the 16^th^ century that Italian mathematicians began to formalize the concept of what we call randomness, so it&rsquo;s still quite a young concept.
 
 #### **Claim 19:** Our ability to reason is rooted in our ability to see patterns, and connecting these patterns is made possible by our ability to reason.
 
-God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, manna, out-of-body-experiences[^19], etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it.  To be clear, this is not meant to suggest these observations are, or are not, as valid as any other.  Any system&rsquo;s validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.
+God(s), angels, spirits, the Djinn, magic, luck, coincidence, mystical forces, kundalini, chi, manna, out-of-body-experiences[^29], etc., are all concepts that many people have a clear understanding of, and as such, they are able to say it exists because they cannot only recognize it but can produce reams of information about it.  To be clear, this is not meant to suggest these observations are, or are not, as valid as any other.  Any system&rsquo;s validity depends solely on the contextual effectiveness of the reasoning behind it and the ability of that reasoning to produce verifiably accurate statements about it.
 
 It would be hubris to write-off alternative views of reality given every culture in the world has a concept of some sort of paranormal, metaphysical energy.  Some of these cultures have extremely demanding training and lengthy education to tap into it.  Even our western icons, such as Paracelsus, Hippocrates, Carl Jung, Erwin Schrodinger, Albert Einstein and Plato have referred to it.
 
@@ -91,7 +91,7 @@ Outside of that battlefield of culture and politics, we do have at least one gau
 
 Anything that exists can only sustain its sustainability if it exist within the constraints of its scope, typically defined by its environment and its component parts.  A functional balance must be maintained between all contributing variables in order for the energy within that instance to move in a structured manner that allows order to emerge from chaos.  Energy always seeks to achieve a balance; therefore, sustainability is the measure of the degree that order and balance can be maintained.  Unsustainability will result in chaos, and visa-versa.
 
-This raises an interesting question: if (high-entropy) chaos is the ultimate state of the Universe, a state where everything is inert, motionless and dead, then it must also be the most sustainable state as it will never change once arrived at.  Oddly, this appears to be true, but this is also an example of the two kinds of *balance*.  The dead state is the state of *balance* (noun) that has no movement, which is the opposite of the action of *balance* (verb), which is a dynamic and interactive process of energy and movement.  
+This raises an interesting question: if (high-entropy) chaos is the ultimate state of the Universe, a state where everything is inert, motionless and dead, then it must also be the most sustainable state as it will never change once arrived at.  Oddly, this appears to be true, but this is also an example of the two kinds of *balance*.  The dead state is the state of *balance* (noun) that has no movement, which is the opposite of the action of *balance* (verb), which is a dynamic and interactive process of energy and movement.
 
 All the movement of energy that exists at every level of reality is the result of energy traveling the path of least resistance as it seeks balance.  We see examples of this everywhere, such as when we add hydrochloric acid with sodium hydroxide.  After an extremely violent readjustment phase that releases a lot of energy (heat), it settles down to very stable, lower energy-demanding products of water and table salt.
 
@@ -99,11 +99,11 @@ The Universe, starting with the extremely violent Big Bang and ending (according
 
 The ultimate destination of sustainability, on the cosmic scale, is death.  In our current point in existence, sustainability means keeping the various part of the &ldquo;balancing machine&rdquo; of nature working properly.  In both cases sustainability means balance, but with two very different results of short-term, or *temporal* balance and long-term, or *supernal* balance.  For our purposes, the sustainability we are referring to is the temporal kind, unless otherwise noted.
 
-#### **Claim 20:** Sustainability is a gauge of existence, and therefore life itself, at every level of reality.  
+#### **Claim 20:** Sustainability is a gauge of existence, and therefore life itself, at every level of reality.
 
-Pions exist for about 26 nanoseconds, while the most massive black hole known, approximately 66 billion times larger than our sun, would require 6x10<sup>99</sup> years to evaporate.  Does this mean that black holes are more &ldquo;valid&rdquo;, more &ldquo;true&rdquo; than pions? No, because the pion&rsquo;s existence, short as it is, is necessary, otherwise it would never have existed in the first place, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10<sup>99</sup> years is actually longer than the life span of the Universe).  By this logic, we can say that both pions and black holes are equally true and valid, but one is &ldquo;true&rdquo; forever.
+Pions exist for about 26 nanoseconds, while the most massive black hole known, approximately 66 billion times larger than our sun, would require 6x10^99^ years to evaporate.  Does this mean that black holes are more &ldquo;valid&rdquo;, more &ldquo;true&rdquo; than pions? No, because the pion&rsquo;s existence, short as it is, is necessary, otherwise it would never have existed in the first place, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10^99^ years is actually longer than the life span of the Universe).  By this logic, we can say that both pions and black holes are equally true and valid, but one is &ldquo;true&rdquo; forever.
 
-#### **Claim 21:** Something exists because its expression of energy patterns adheres to an order that must be maintained to continue existing.  
+#### **Claim 21:** Something exists because its expression of energy patterns adheres to an order that must be maintained to continue existing.
 
 ### Tree of Sustainability
 
@@ -111,7 +111,8 @@ Let&rsquo;s take a look at a more integrated example; that of a single cell, the
 
 Each of these processes has proven itself to be a more &ldquo;valid&rdquo; truth by being more sustainable then any of their alternative processes.
 
-- Inside the cell are two meters of tightly wound strands of four very specific molecules, held together by sugar phosphates, which make up the DNA of that cell.  These are $C_{5} H_{5} N_{5}$ (adenine),  $C_{5} H_{5} N_{5} O$ (guanine), $C_{4} H_{5} N_{3} O$ (cytosine) and $C_{5} H_{6} N_{2} O_{2}$  (thymine).  They are arranged in a very specific order which describes the instructions necessary to build every protein in an organism.
+Inside the cell are two meters of tightly wound strands of four very specific molecules, held together by sugar phosphates, which make up the DNA of that cell.  These are C~5~H~5~N~5~ ​(adenine), C~5~H~5~N~5~O (guanine), C~4~H~5~N~3~O (cytosine) and C~5~H~6~N~2~O~2~  (thymine).  They are arranged in a very specific order which describes the instructions necessary to build every protein in an organism.
+
 - In a process known as transcription, a molecular machine first unwinds a section of the DNA helix to expose the genetic instructions needed to assemble a specific protein molecule.
 - Another machine then copies these instructions to form a molecule known as messenger RNA.
 - When transcription is complete, the RNA strand carries the genetic information through the nuclear pore complex, the gatekeeper for traffic in and out of the cell nucleus.
@@ -126,11 +127,11 @@ Each of these processes has proven itself to be a more &ldquo;valid&rdquo; truth
 
 These processes, and their order, are so specific, so complex, so difficult to explain with current evolutionary models, that Dean Kenyon, a Professor Emeritus of Biology at San Francisco State University who actually taught Evolutionary Theory, switched teams in 1979 and went on to be a key member in the &ldquo;Intelligent Design&rdquo; movement.
 
-The important point here is that if any one thing in the list of processes listed above changes, if one atom in the C<sub>5</sub>H<sub>5</sub>N<sub>5</sub> molecule was different, or the &ldquo;gatekeeper&rdquo; made a bad call or a thousand other possibilities, the cell would either die or mutate, become unsustainable, or it would make the larger organism unsustainable.  This is actually what cancer is, the malformed reproduction of cells that reduce organism&rsquo;s sustainability.  Interestingly, the cancer cell itself can be quite sustainable as an independent cell and only becomes a problem as a community of cells.
+The important point here is that if any one thing in the list of processes listed above changes, if one atom in the C~5~H~5~N~5~ molecule was different, or the &ldquo;gatekeeper&rdquo; made a bad call or a thousand other possibilities, the cell would either die or mutate, become unsustainable, or it would make the larger organism unsustainable.  This is actually what cancer is, the malformed reproduction of cells that reduce organism&rsquo;s sustainability.  Interestingly, the cancer cell itself can be quite sustainable as an independent cell and only becomes a problem as a community of cells.
 
 For a cell to be sustainable, to continue existing, only one process, made up of numerous detailed steps, all of which must function properly, will result in successful functioning and reproduction.  More importantly, we can&rsquo;t explain why any one particular option in any step, out of the countless theoretical options available at each step, is the one step that the process &ldquo;knows&rdquo; to select.
 
-To put this in even clearer perspective, using twenty different amino acids to create a very small protein (of 150 amino acids), there are 10<sup>77</sup> possible combinations.  In the world of biology, this exponential growth of possibilities is actually called *combinatorial inflation*.  Remember that term, as we&rsquo;ll come back to it later on.  How many of these 10<sup>77</sup> possibilities can produce a viable protein? Very few, and of those few only one will work, that being the one that works with the others it must integrate with.  It&rsquo;s not quite as bad as the likelihood of a million monkeys banging on a million typewriters to eventually produce the entire works of Shakespeare, but considering it would take 2,737,850 million-billion-billion-billion monkey-years to produce the line from Hamlet &ldquo;RUMOUR.  Open your ears&rdquo;[^20], how likely is the chance that this 1:10<sup>77</sup> process could happen successfully 10<sup>40</sup> times, which is the number of organisms that have ever existed in the history of the planet? For life to evolve (in the Darwinian sense) as it has over the past 4.5 billion years, this 1:10<sup>77</sup> process would need to happen 7x10<sup>99</sup> times per second, which equates to every living thing on planet today performing this process 7x10<sup>74</sup> times per second! If the vast majority of the 34 trillion cells that make up your body didn&rsquo;t all all hit the jackpot of creating the *same* viable life form millions, if not billions of times a second, life would have never evolved past the bio-goo stage.  Admittedly, these numbers may be inaccurate due to their speculative nature, but the general idea that evolution as a genetic crapshoot sounds far more unreasonable.
+To put this in even clearer perspective, using twenty different amino acids to create a very small protein (of 150 amino acids), there are 10^77^ possible combinations.  In the world of biology, this exponential growth of possibilities is actually called *combinatorial inflation*.  Remember that term, as we&rsquo;ll come back to it later on.  How many of these 10^77^ possibilities can produce a viable protein? Very few, and of those few only one will work, that being the one that works with the others it must integrate with.  It&rsquo;s not quite as bad as the likelihood of a million monkeys banging on a million typewriters to eventually produce the entire works of Shakespeare, but considering it would take 2,737,850 million-billion-billion-billion monkey-years to produce the line from Hamlet &ldquo;RUMOUR.  Open your ears&rdquo;[^30], how likely is the chance that this 1:10^77^ process could happen successfully 10^40^ times, which is the number of organisms that have ever existed in the history of the planet? For life to evolve (in the Darwinian sense) as it has over the past 4.5 billion years, this 1:10^77^ process would need to happen 7x10^99^ times per second, which equates to every living thing on planet today performing this process 7x10^74^ times per second! If the vast majority of the 34 trillion cells that make up your body didn&rsquo;t all all hit the jackpot of creating the *same* viable life form millions, if not billions of times a second, life would have never evolved past the bio-goo stage.  Admittedly, these numbers may be inaccurate due to their speculative nature, but the general idea that evolution as a genetic crapshoot sounds far more unreasonable.
 
 What we call a cell is a collective of components that not only all work together with miraculous precision, but which seems to have an intelligence of its own that understands the requirements of how each component must operate with each other component in order to preserve and maintain its sustainability, its existence.  Likewise, the components themselves, like the barrel-shaped machine and the transcriptors, are also made of components that have the same intentions and decision-making abilities.
 
@@ -174,17 +175,17 @@ Our ancestors called this intelligence &ldquo;the voice of the gods&rdquo; and a
 
 The American Psychologist Julian Jaynes wrote a very popular book titled &ldquo;*The Origin of Consciousness in the Breakdown of the Bicameral Mind&rdquo;* (1976) wherein he explains that during a recent stage in the evolution of not only our ancestor&rsquo;s  brain but entire nervous system we, as humans, had the ability to hear voices in our heads instructing us on what we needed to do and needed to know, and these voices of unknown origin were attributed to the &ldquo;gods&rdquo;, and therefore became the voice of Truth.
 
-<img src='../Images/019-bicameral-brain.png' style='width:100%;' />
+<center><img src='../Images/019-bicameral-brain.png' style='width:80%'/></center>
 
->&ldquo;Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices.  The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images.  The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.&rdquo;[^21]
+>&ldquo;Who then were these gods that pushed men about like robots and sang epics through their lips? They were voices whose speech and directions could be as distinctly heard by the Iliadic heroes as voices are heard by certain epileptic and schizophrenic patients, or just as Joan of Arc heard her voices.  The gods were organizations of the central nervous system and can be regarded as personae in the sense of poignant consistencies through time, amalgams of parental or admonitory images.  The god is a part of the man, and quite consistent with this conception is the fact that the gods never step outside of natural laws.&rdquo;[^31]
 
-Jaynes claims that a bit before 1,000 BC (just around the time of the Tower of Babel by Sumerian accounts) the human consciousness was not yet &ldquo;meta-conscious&rdquo;, meaning humans were not aware of their awareness.  The bicameral part of Jaynes theory suggests that there were two parts of the brain, the one that managed mundane jobs, habits, rote tasks, etc.  (the self), and another part which, when faced with confusing and/or difficult challenges, took over (the voice of god).
+Jaynes claims that a bit before 1000 BC (just around the time of the Tower of Babel by Sumerian accounts) the human consciousness was not yet &ldquo;meta-conscious&rdquo;, meaning humans were not aware of their awareness.  The bicameral part of Jaynes theory suggests that there were two parts of the brain, the one that managed mundane jobs, habits, rote tasks, etc.  (the self), and another part which, when faced with confusing and/or difficult challenges, took over (the voice of god).
 
-> \[For bicameral humans\], volition came as a voice that was in the nature of a neurological command, in which the command and the action were not separated, in which to hear was to obey.
+> [For bicameral humans], volition came as a voice that was in the nature of a neurological command, in which the command and the action were not separated, in which to hear was to obey.
 
 *Sidenote: What we call the &ldquo;ego&rdquo; today evolved out of that really boring and mundane &ldquo;self&rdquo; part of the brain, so it&rsquo;s probably best not to use it for anything other than mundane tasks.*
 
-According to Jaynes, the transition from bicameralism to consciousness (linguistic meta-cognition) occurred over the period from 1,800 BC to 800 BC.  We know this time as the time from when Hammurabi ruled Babylonia, and when he wrote down one of the first set of laws known to humanity dealing with challenging and confusing issues such as contracts, wages, liability, inheritance, divorce, paternity, and reproductive behavior, to name a few, to the founding of Rome.  This metamorphosis of consciousness ushered in the golden age of empires and cultures that laid the foundation of Western Civilization in areas of art, literature, theater, government, philosophy, mathematics, and even sports.  (*I am singling out Western culture simply because that is the culture I best understand and which has the most information available, and not because I think other cultures have not developed along their own lines under similar conditions.)*
+According to Jaynes, the transition from bicameralism to consciousness (linguistic meta-cognition) occurred over the period from 1800 BC to 800 BC.  We know this time as the time from when Hammurabi ruled Babylonia, and when he wrote down one of the first set of laws known to humanity dealing with challenging and confusing issues such as contracts, wages, liability, inheritance, divorce, paternity, and reproductive behavior, to name a few, to the founding of Rome.  This metamorphosis of consciousness ushered in the golden age of empires and cultures that laid the foundation of Western Civilization in areas of art, literature, theater, government, philosophy, mathematics, and even sports.  (*I am singling out Western culture simply because that is the culture I best understand and which has the most information available, and not because I think other cultures have not developed along their own lines under similar conditions.)*
 
 From the days of Rome and the ancient Greek philosophers to today our bicameralism has further diminished, which can account for the decreasing incidents of people hearing the gods speak to them.  This may have been a good thing, but the problem that arose as a result of the gods abandoning us, forcing us to apply reason to challenging problems when our pleas for guidance were ignored, is that our newly developed tools of reason were prone to reject any ideas that we could not understand, which were many given we were still new at the whole reasoning thing during some very desperate times.  Our fledgling ability to consciously make sense of things seemed to be working, so it naturally dominated our world view, even if we were, and are, still figuring out how it works.
 
@@ -204,19 +205,19 @@ Perhaps *reason* has evolved to the point where we may be able to answer these q
 
 The rules and conditions of reality that we have discovered have followed a perfectly reasonable path long before man was able to claim them as such.  Sometimes it takes a while to find them, but eventually, we do, so far.
 
-<img src='../Images/020-planet-logs.png' style='width:100%;' />
+<center><img src='../Images/020-planet-logs.png' style='width:100%'/></center>
 
 For thousands of years, Man looked at the path of the stars and came up with various stories about why they were where they were.  It wasn&rsquo;t until Kepler discovered the pattern by plotting the paths on a logarithmic chart that the reasoning became clear.  This became Kepler&rsquo;s Third Law of Planetary Motion that states *&ldquo;the square of the planet&rsquo;s orbital period is proportional to the cube of its distance from the sun.&rdquo;* In the same manner, we discovered DNA is a helix because of hydrogen bonds, etc., so we can say &ldquo;Here is a pattern and the rules that created it.&rdquo;
 
-This is not to say everything that the gatekeepers of the Church of Reason consider &ldquo;unreasonable&rdquo;, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical concepts are, indeed, &ldquo;unreasonable.&rdquo; On the contrary, it&rsquo;s quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our modern boundaries.  Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life.  These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked.  Once we discovered Bernoulli&rsquo;s law[^22] works in harmony with the law of gravity we mastered the magic art of flying.
+This is not to say everything that the gatekeepers of the Church of Reason consider &ldquo;unreasonable&rdquo;, such as myths, magic, aliens, hyper-dimensional beings, and numerous other paranormal, metaphysical concepts are, indeed, &ldquo;unreasonable.&rdquo; On the contrary, it&rsquo;s quite unreasonable to presume they have no reasoning behind them as many of these ideas perfectly conform to natural law, albeit within a scope that extends outside our modern boundaries.  Historical examples of once unreasonable ideas include electricity, flight, wireless communications, space travel, nuclear energy and pretty much the majority of the reality of modern life.  These things were considered nothing less than magic and science fiction until we were able to recognize it and discover the rules of how they worked.  Once we discovered Bernoulli&rsquo;s law[^32] works in harmony with the law of gravity we mastered the magic art of flying.
 
-#### **Claim 22:** Reason is the codification of the rules of a reality as we have come to know it.  
+#### **Claim 22:** Reason is the codification of the rules of a reality as we have come to know it.
 
 ### The benevolence of self-preservation
 
 If our reasoning is based on the world we observe, then this implies that everything in nature, everything in the universe, must, therefore, be reasonable, but sometimes the reasoning we have derived from our observations is inaccurate or lacking.
 
-#### **Claim 23:** The rules of reason are predetermined based on the rules of our reality that we have recognized, and these rules require that any &ldquo;reason&rdquo; that exists must abide by them.  
+#### **Claim 23:** The rules of reason are predetermined based on the rules of our reality that we have recognized, and these rules require that any &ldquo;reason&rdquo; that exists must abide by them.
 
 Take, for example, our reasoning behind the evolutionary drive for self-preservation.  We assume it is a somewhat selfish, yet necessary, biological drive passed down through our genes in order to increase the genes chances of reproducing themselves.  This makes sense if we see the world only as a bunch of individual entities competing for resources.
 
@@ -228,7 +229,7 @@ From the perspective of the parent organism, such as the collective, it is worth
 
 One example of this are the cardiac muscle cells that have the self-preservation ability to duck, dart, and dodge foreign substances, but these actions may harm the cells to the point where they can cause a fatal heart attack, all in an attempt to preserve themselves, even though they are killing their parent organism.
 
-Some theorize that they do this because there is a greater chance of the heart surviving if the cells can avoid damage and hold out for the possibility of the heart being resuscitated.  A far more reasonable explanation is that the component elements of a person (the cells, in this case) are compelled to preserve *their* component elements (nucleus, chromatins, cytoplasm, organelles, etc.).  Killing the parent organism is not its concern, nor within the scope of its influence as preservation of the members is the concern of the parent organism, who has obviously failed to protect its components in this case.  The sacrificed parent organism of *person*, which exists within the collective (tribe, community, country, etc.) will only lose one (improperly functioning) member.  
+Some theorize that they do this because there is a greater chance of the heart surviving if the cells can avoid damage and hold out for the possibility of the heart being resuscitated.  A far more reasonable explanation is that the component elements of a person (the cells, in this case) are compelled to preserve *their* component elements (nucleus, chromatins, cytoplasm, organelles, etc.).  Killing the parent organism is not its concern, nor within the scope of its influence as preservation of the members is the concern of the parent organism, who has obviously failed to protect its components in this case.  The sacrificed parent organism of *person*, which exists within the collective (tribe, community, country, etc.) will only lose one (improperly functioning) member.
 
 In this particular example of cardiac cells, their self-preservation can be fatal to the collective (or *person*), but in most cases losing a few cells is not fatal to a person, but by the same token, the *uber* organism that humans are a part of (family, society, government, etc.) only forfeits one human.  This is happening in our own bodies 60 billion times a day, as that is how many of our own cells die, and are created, every day.
 
@@ -240,30 +241,28 @@ Just as an entity will endanger its collective in an attempt to preserve its mem
 
 This perspective also explains how a person is able to sacrifice itself for the sake of another, even though they have no genetic connection to the other person, ruling out genetic preference as is the case when a parent sacrifices themselves for their child.  This would also suggest that our most basic drive is not only the survival of the self, but also the survival of something more important than the self, yet still be self-serving.  We see this in cases of love, honor, country, god, etc., and other examples of a collective.
 
-You might be thinking that this is a trait unique to humans, but this is not the case.  We see cases of this in single-cell organisms[^23], multi-cellular organisms[^24] (such as slime mold, where, when faced with scant resources, certain cells will sacrifice themselves for the sake of the greater organism.[^25]), virulent parasites[^26], plants[^27], to name a few.  Of course, in society, this is clearly exemplified in soldiers willing to die for their country or ideology, as well as countries willing to send their soldiers into war.
+You might be thinking that this is a trait unique to humans, but this is not the case.  We see cases of this in single-cell organisms[^33], multi-cellular organisms[^34] (such as slime mold, where, when faced with scant resources, certain cells will sacrifice themselves for the sake of the greater organism.[^35]), virulent parasites[^36], plants[^37], to name a few.  Of course, in society, this is clearly exemplified in soldiers willing to die for their country or ideology, as well as countries willing to send their soldiers into war.
 
-This self-sacrificing quality turns out to be fairly common across life in general.  Quoting the paper published in *the International Academy of Ecology and Environmental Sciences*, &ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;[^28]:
+This self-sacrificing quality turns out to be fairly common across life in general.  Quoting the paper published in *the International Academy of Ecology and Environmental Sciences*, &ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;[^38] :
 
-> In recent years, a large portion of the literature has focused on evolutionary suicide.  &ldquo;Darwinian extinction&rdquo; or evolutionary suicide is one of the most important findings in adaptive dynamics \[which inevitably bring us to the conclusion\] that evolutionary theory falls short of adequately explaining the phenomenon of life in its fullness and complexity.  This is due to the fact that \[evolutionary suicide\] is not a rare or special case and that it can occur in the most common ecological conditions.
+> In recent years, a large portion of the literature has focused on evolutionary suicide.  &ldquo;Darwinian extinction&rdquo; or evolutionary suicide is one of the most important findings in adaptive dynamics [which inevitably bring us to the conclusion] that evolutionary theory falls short of adequately explaining the phenomenon of life in its fullness and complexity.  This is due to the fact that [evolutionary suicide] is not a rare or special case and that it can occur in the most common ecological conditions.
 
-We also see a less dramatic version of this in genomes which will, rather then commit suicide, reduce their own replication rate to help other genomes.[^167]
+We also see a less dramatic version of this in genomes which will, rather then commit suicide, reduce their own replication rate to help other genomes.[^39]
 
 This perspective is reasonable and does a better job of explaining how, any why, life operates the way it does.  With ideas such as wave functions and the many-worlds theory of quantum physics, the morphic field of biology, the research into hyper-time telepathic communication (for long-distance space travel), self-determining AI, etc., it&rsquo;s easy to see how what we accept as &ldquo;reasonable&rdquo; will dramatically change as we learn how these new processes of reality and life work.
 
 Some may see this as an example of &ldquo;Intelligent Design.&rdquo; We prefer the term &ldquo;Coherent Integration&rdquo; to represent an integrated self-similar pattern of moving energy that extends far above and below that sliver of the reality spectrum that we are attuned to perceive.
 
-This idea is essentially the same one that was put forth 250 years ago by the man who not only laid the foundations of modern economics but did so specifically with the ideas of eliminating poverty and increasing sustainability.  His name was Adam Smith, and he referred to this power of self-preservation in his *Theory of the Invisible Hand*, described in his book *&lsquo;An Inquiry into the Nature and Causes of the Wealth of Nations&rsquo;* published in 1776.  
+This idea is essentially the same one that was put forth 250 years ago by the man who not only laid the foundations of modern economics but did so specifically with the ideas of eliminating poverty and increasing sustainability.  His name was Adam Smith, and he referred to this power of self-preservation in his *Theory of the Invisible Hand*, described in his book *&lsquo;An Inquiry into the Nature and Causes of the Wealth of Nations&rsquo;* published in 1776.
 
 > The natural effort of every individual to better his own conditions, when suffered to exert itself with freedom and security, is so powerful a principle, that it is alone, and without assistance, not only capable of carrying on the society to wealth and prosperity, but of surmounting a hundred impertinent obstructions with which the folly of human laws too often encumber its operations.
 >
-> It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.
+> It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest.  **\~ Adam Smith, 1776**
 
-##### \~ Adam Smith, 1776
-
-Applying this idea to society also suggests that the most sustainable practice for the world at large can be summed up in a phrase that is attributed to international banks, John Lennon and Yoko Ono, Buckminster Fuller and more[^175] &hellip; &ldquo;Think globally, act locally&rdquo;.  This is easily practiced by spending your money at local businesses rather than Walmart or Amazon, or simply, to quote Mother Theresa when asked “What can we do to promote world peace?”, “Go home and love your family.”
+Applying this idea to society also suggests that the most sustainable practice for the world at large can be summed up in a phrase that is attributed to international banks, John Lennon and Yoko Ono, Buckminster Fuller and more[^40] &hellip; &ldquo;Think globally, act locally&rdquo;.  This is easily practiced by spending your money at local businesses rather than Walmart or Amazon, or simply, to quote Mother Theresa when asked “What can we do to promote world peace?”, “Go home and love your family.”
 
 
-#### **Claim 25:** There is an order to creative processes, and creations themselves are a product of order.  
+#### **Claim 25:** There is an order to creative processes, and creations themselves are a product of order.
 
 ## Applied Reason
 
@@ -281,7 +280,7 @@ Can you see the relationship between the Big Bang Theory and the harmonograph as
 
 ### Eternal Inflation
 
-This is also called a &ldquo;Level II Multiverse&rdquo; and states a) after the Big Bang the universe never stopped inflating, b) that this has been going on for an infinite amount of time and c) it continually creates new universes (multiverses) that also exist for infinite time.  It is not clear how something can have a beginning, can be created, and yet exist for infinite time as there can be no &ldquo;beginning&rdquo; to infinite time, but we&rsquo;re talking quantum theory stuff, so, I guess anything is possible in that world where time and space may mean something different then what we are used to, if they mean anything at all.  The paper Stephen Hawking was working on when he died claims this theory is for the birds, that there is only one universe, and this can be proven if we just get rid of the concept of time… so, even the rebuttal to this theory is inconceivable.  
+This is also called a &ldquo;Level II Multiverse&rdquo; and states a) after the Big Bang the universe never stopped inflating, b) that this has been going on for an infinite amount of time and c) it continually creates new universes (multiverses) that also exist for infinite time.  It is not clear how something can have a beginning, can be created, and yet exist for infinite time as there can be no &ldquo;beginning&rdquo; to infinite time, but we&rsquo;re talking quantum theory stuff, so, I guess anything is possible in that world where time and space may mean something different then what we are used to, if they mean anything at all.  The paper Stephen Hawking was working on when he died claims this theory is for the birds, that there is only one universe, and this can be proven if we just get rid of the concept of time… so, even the rebuttal to this theory is inconceivable.
 
 ### Oscillating Universe
 
@@ -291,23 +290,23 @@ The question this model raises is, does the &ldquo;memory&rdquo; of the previous
 
 ### Holographic simulation hypothesis 
 
-The idea that reality is &ldquo;just&rdquo; a simulation has been around for a long time.  The roots of such an idea go back to the &ldquo;Skeptical hypotheses&rdquo; of ancient Greece and the &ldquo;The Butterfly Dream&rdquo; of 3rd century B.C.  Chinese philosopher Zhuang Zhou.  These ideas found more form in the &ldquo;Cartesian doubt&rdquo; of René Descartes, finally culminating in Oxford philosopher Nick Bostrom&rsquo;s &ldquo;Simulation hypothesis&rdquo; theory and book *&ldquo;Are you living in a computer simulation?&rdquo;* in 2003 (also a documentary[^29]).
+The idea that reality is &ldquo;just&rdquo; a simulation has been around for a long time.  The roots of such an idea go back to the &ldquo;Skeptical hypotheses&rdquo; of ancient Greece and the &ldquo;The Butterfly Dream&rdquo; of 3rd century B.C.  Chinese philosopher Zhuang Zhou.  These ideas found more form in the &ldquo;Cartesian doubt&rdquo; of René Descartes, finally culminating in Oxford philosopher Nick Bostrom&rsquo;s &ldquo;Simulation hypothesis&rdquo; theory and book *&ldquo;Are you living in a computer simulation?&rdquo;* in 2003 (also a documentary[^41]).
 
 This theory that we live in a simulation has moved out of the philosopher&rsquo;s chair and into the science lab where bits of supporting evidence were discovered.  In this scenario, the Big Bang would be the equivalent of a cosmic hacker flipping the &ldquo;on&rdquo; switch to their &ldquo;Reality Framework Server&rdquo;.  This theory posits that reality is a simulated projection and black holes are the projectors, with the *event horizon* of a black hole (the point from which nothing escapes) acting as a diffraction grid for the energy it is projecting to form a &ldquo;reality&rdquo;, just like a hologram.
 
-We think of this world as analog, but it may well be digital, albeit with a level of resolution far beyond our ability to perceive (which would make sense if one were designing a simulation).  This grid is made up of a series of 1s and 0s, each &ldquo;bit&rdquo; occupying a square Planck length.  To put this in perspective, the number of &ldquo;bits&rdquo; on the surface of *V616 Monocerotis*, our nearest black hole &ldquo;projector&rdquo; a mere 3,000 light-years away, is around 2.3313x10<sup>88</sup>.  There are only 10<sup>82</sup> atoms in the universe (we think), so, that is a big number.
+We think of this world as analog, but it may well be digital, albeit with a level of resolution far beyond our ability to perceive (which would make sense if one were designing a simulation).  This grid is made up of a series of 1s and 0s, each &ldquo;bit&rdquo; occupying a square Planck length.  To put this in perspective, the number of &ldquo;bits&rdquo; on the surface of *V616 Monocerotis*, our nearest black hole &ldquo;projector&rdquo; a mere 3,000 light-years away, is around 2.3313x10^88^.  There are only 10^82^ atoms in the universe (we think), so, that is a big number.
 
-This is just from one of the 100 million black hole projectors in our galaxy alone, and we already know of 500 billion galaxies just within our range of observation, so we know of at least 5 x 10<sup>19</sup> &ldquo;reality projecting CPUs&rdquo; (for lack of a better term), that are all working in perfect synchronization, theoretically.
+This is just from one of the 100 million black hole projectors in our galaxy alone, and we already know of 500 billion galaxies just within our range of observation, so we know of at least 5 x 10^19^ &ldquo;reality projecting CPUs&rdquo; (for lack of a better term), that are all working in perfect synchronization, theoretically.
 
 Even more mind-bending is the possibility that the reality that is being projected is only &ldquo;rendered&rdquo; on-demand, i.e.  this reality simulation creates wave functions of possibilities that only &ldquo;collapse&rdquo; into form when they are observed.  Apparently, creating actual physical reality is a &ldquo;CPU&rdquo; intensive task, or perhaps this reality was developed by creators that could only get their hands on a low-end simulator.
 
 I would also question the use of the word &ldquo;simulation&rdquo;, for that implies it is an artificial rendition of something that already exists.  It is more like a *bona fide* creation, albeit one that may have been designed around a specific model, or for a specific (yet unknown) purpose.
 
-What is missing in the list of current theories are many of those ideas that are not based in science, but rather legend, creation myths and beliefs.  I skipped them not because they are not valid, but simply because there are too many of them, but modern theories are surprisingly in-line with the creation myths of the Judeo-Christian, Islam, Hindu, Zoroastrian, Taoist, Buddhist and even Aboriginal Australian, the world&rsquo;s oldest civilization[^30], and cycles of creations is implicit in all of them, and explicit in many of them.  We would expect to see this similarity between radically different perspectives, such as science and religion, if they were all attempting to understand the same thing.
+What is missing in the list of current theories are many of those ideas that are not based in science, but rather legend, creation myths and beliefs.  I skipped them not because they are not valid, but simply because there are too many of them, but modern theories are surprisingly in-line with the creation myths of the Judeo-Christian, Islam, Hindu, Zoroastrian, Taoist, Buddhist and even Aboriginal Australian, the world&rsquo;s oldest civilization[^42], and cycles of creations is implicit in all of them, and explicit in many of them.  We would expect to see this similarity between radically different perspectives, such as science and religion, if they were all attempting to understand the same thing.
 
 The common thread of modern and ancient creation theories and stories is that they are all versions of the plot-line that begins with *nothingness*, followed by a *somethingness*, and everything that ever did or ever will exist does so between these two states of chaos.
 
-#### **Claim 26:** All dualities stem from the first duality.  
+#### **Claim 26:** All dualities stem from the first duality.
 
 ### What Goes Where? 
 
@@ -315,19 +314,19 @@ If the two primal opposing end-points of the spectrum of our reality are *someth
 
 The range of possibilities between these two (or any two) states is naturally distributed and looks something like your standard Bell curve.  There is a very good reason for this: because the probabilities of what can happen between two states, regardless of the number of variables at play, will always tend toward a *normal* (in the statistical sense of the word) distribution.
 
-If we had the ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would be in the middle.  This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner.  This chart below is a general concept of this idea.  
+If we had the ultimate Bell curve between the states of nothingness (high entropy) and somethingness (low entropy), the part of the curve that represents the most sustainable condition of these two states would be in the middle.  This will be the point where there is the least amount of disorder and the highest probability for order as each side will be represented in the most balanced, and therefore sustainable, manner.  This chart below is a general concept of this idea.
 
-<img src='../Images/021-supercurve1.png' style='width:100%;' />
+<center><img src='../Images/021-supercurve1.png' style='width:100%'/></center>
 
-We see this sort of distribution everywhere in nature.  In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems coexist.[^31]  This suggests that the stuff in the middle represents the most effective expression of energy for our reality, not unlike the previous example of the blooming flower.  
+We see this sort of distribution everywhere in nature.  In fact, in the world of theoretical biology, this is called *environmental dimensionality* and describes how various biological systems coexist.[^43]  This suggests that the stuff in the middle represents the most effective expression of energy for our reality, not unlike the previous example of the blooming flower.
 
-#### **Claim 27:** The most likely and persistence state of anything (including ideas) that exists as a result of other states will be where the most balance exists between those other states.  
+#### **Claim 27:** The most likely and persistence state of anything (including ideas) that exists as a result of other states will be where the most balance exists between those other states.
 
-#### **Claim 28:** Order emerges most efficiently in a balanced state.  
+#### **Claim 28:** Order emerges most efficiently in a balanced state.
 
 For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light.  This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green.  This makes sense as we evolved in a world that was very green thanks to chlorophyll and its oxygen producing photosynthesis.  Other life-forms have other ranges of sensitivity depending on their context or environment.  A fascinating example of this is the Movile Caves in Romania.  These caves were sealed off 5,000,000 years ago, yet within the hostile environment, rich in hydrogen sulfide gas and sulfuric acid, at least 33 news species of life have evolved and flourished feeding off the bacteria that eats rocks and other inorganic material (*chemosynthetic bacteria*).
 
-<img src='../Images/022-eyecurve1.png' style='width:100%;' />
+<center><img src='../Images/022-eyecurve1.png' style='width:80%'/></center>
 
 The oscillations between two states, be they the two states of chaos, or order and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.  This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort.
 
@@ -337,45 +336,43 @@ Were this duality to no longer exist in a state of imbalance or difference, the 
 
 When we look at simple waves, such as light waves, radio waves, sound waves, we see an oscillation of energy.  This is the result of movement of energy over time.
 
-On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc.  On the material level, we have mechanical waves, such as sound waves.  On the organic level and beyond (planets, life, culture, politics, etc.[^32]) we don&rsquo;t use the term *waves*, instead, we call them *cycles*, but they represent the same thing as waves but in a different context and scope.
+On the atomic level, there are electromagnetic waves, such as light, X-rays, radio waves, etc.  On the material level, we have mechanical waves, such as sound waves.  On the organic level and beyond (planets, life, culture, politics, etc.[^44]) we don&rsquo;t use the term *waves*, instead, we call them *cycles*, but they represent the same thing as waves but in a different context and scope.
 
-<img src='../Images/023-sinewave.png' style='width:100%;margin:auto;' />
+<center><img src='../Images/023-sinewave.png' style='width:100%'/></center>
 
 If we look at a typical wave model, which is one cycle of a quantity of energy moving over a period of time, we say that the time it takes to complete one cycle is the frequency, and the distance it covers in one cycle is the wavelength.  &ldquo;Frequency&rdquo; and &ldquo;wavelength&rdquo; are typically terms we use to describe waves of radiation and vibration, such as light and sound, but we *could* say the moon has a wavelength of about 50 million km, with a frequency of 0.00599584916 Hz, or that the migration cycle of the Arctic Tern, a bird that flies back and forth between the Arctic and the Antarctic every year has a frequency of 1/yr., with a wavelength of 70,000 km (which is how far they travel every year).  We don&rsquo;t because it&rsquo;s cumbersome, non-intuitive and fairly useless information in our current paradigm.
 
 As meaningless as these terms are for such cases, it does not take away from the idea that these natural cycles are the expressions of the same law that light waves operate under in the transference of energy, but on a different level of expression, on a higher order of complexity, size and dependency where instead of photons we have birds and planets.
 
-Another example might be the interdependent cycles of cohabiting rabbits and coyotes.  It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic function, the transference of energy in an attempt to create balance, just in two very different scopes and contexts. 
+Another example might be the interdependent cycles of cohabiting rabbits and coyotes.  It might sound ridiculous to compare X-rays with prey-predator cycles, but both of them share the most basic function, the transference of energy in an attempt to create balance, just in two very different scopes and contexts.
 
-<img src='../Images/024-predcycle.png' style='width:100%;' />
-
-
+<center><img src='../Images/024-predcycle.png' style='width:100%'/></center>
 
 ### Not Just a Cycle
 
-It may be that there is more to waves than just a simple periodic cycle, at least in the way it interacts with its environment.  For example, when we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represents incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research[^169] into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude.  Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree.  It&rsquo;s almost as if the inhabitants of earth unconsciously knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.
+It may be that there is more to waves than just a simple periodic cycle, at least in the way it interacts with its environment.  For example, when we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represents incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research[^45] into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude.  Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree.  It&rsquo;s almost as if the inhabitants of earth unconsciously knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.
 
-<img src='../Images/world-sine.png' style='width:100%'/>
+<center><img src='../Images/world-sine.png' style='width:100%'/></center>
 
 The two most common classes of waves are electromagnetic (subatomic particles) and mechanical (particles, M-waves).  If we were to compare them we would see similarities that we could also identify in cycles, such as those mentioned here, but that is beyond the scope of this book as it would be a book itself.  We can at least compare the properties of the two common classes of waves.
 
-<img src='../Images/waves.png' style='width:70%'/>
+<center><img src='../Images/waves.png' style='width:90%'/></center>
 
-Yes, for all you physicists and electrical/mechanical engineers that might be reading this with extreme incredulity, the differences between electromagnetic (EM) and mechanical (M) waves are many.  We would expect energy to express its movement quite differently when operating under the laws of subatomic particles than that of matter, but even so, there will be many analogous parallels between the two.  
+Yes, for all you physicists and electrical/mechanical engineers that might be reading this with extreme incredulity, the differences between electromagnetic (EM) and mechanical (M) waves are many.  We would expect energy to express its movement quite differently when operating under the laws of subatomic particles than that of matter, but even so, there will be many analogous parallels between the two.
 
 To put their contexts and scopes in perspective, consider that an electron is 100 million times smaller than an atom, and 20 trillion times smaller than a chromosome, let alone the sizes we are talking about for typical M wave medium, like things you can hold in your hand.  Compare that to the Milky Way galaxy, which is 167,256,410 times the size of our solar system, and the earth is only 1/38000 the size of that.  The difference between an electron and a beach ball is about the same difference between a beach ball and the entire galaxy.  With that in mind, consider that the ratio of the actual universe compared to the observable universe is equivalent to an atom compared to the observable universe.  It&rsquo;s easy to imagine how a fundamental law might be expressed differently at these different scales.
 
-<img src='../Images/025-beachball.png' style='width:100%'/>
+<center><img src='../Images/025-beachball.png' style='width:100%'/></center>
 
 More important than the differences are the similarities, such as the way energy travels through a medium via waves.  All forms of energy are simply a redirection of energy from one state to another, as energy is neither created nor destroyed.  This is the very first law of thermodynamics, the conservation of energy.  We have identified many forms of energy: sound, chemical, radiant, electrical, atomic, mechanical, elastic, ionization, gravitational, dark (that&rsquo;s the energy causing the universe to expand faster than we think it should), so is it unreasonable to imagine still more forms of energy? Are emotions like love or fear, desires, thoughts, or even imagination a redirection of energy? And what form does that energy take? Can we say that we know of every type of medium and every type of cycle and the laws that control them? I don&rsquo;t think so, but we can begin by applying the fundamental laws of energy and cycles.
 
-We can only recognize energy as one form or another, not as pure energy itself.  An everyday example of this is the fact that you can&rsquo;t see or detect light until the light energy hits something, like a wall or a dust particle or the optical cell in your eye. The same is true for electricity.  The real mind-bender here is that the dust particle itself is just energy (as is all mass according to *m=Ec<sup>2</sup>*), so we can only see one form of energy when that energy interacts with another form of energy.  As everything is energy interacting with energy it is easy to understand why we claim that everything that exists (i.e.  has sustainable patterns of energy and interacts with other forms of energy) must oscillate in some sort of medium.  We also claim we are not aware of every form of medium or expression of energy that exists.  
+We can only recognize energy as one form or another, not as pure energy itself.  An everyday example of this is the fact that you can&rsquo;t see or detect light until the light energy hits something, like a wall or a dust particle or the optical cell in your eye. The same is true for electricity.  The real mind-bender here is that the dust particle itself is just energy (as is all mass according to *m=Ec^2^*), so we can only see one form of energy when that energy interacts with another form of energy.  As everything is energy interacting with energy it is easy to understand why we claim that everything that exists (i.e.  has sustainable patterns of energy and interacts with other forms of energy) must oscillate in some sort of medium.  We also claim we are not aware of every form of medium or expression of energy that exists.
 
 What about energy that does not oscillate, like *direct current* electricity? While it is true that the current itself has no frequency, were the electrons in a direct current not returned to the source and recycled, the current would eventually run out of electrons.  A direct current actually is a slow moving cycle of electrons.  While *alternating current* is caused by electrons staying in one place and juggling back and forth 60 times a second (in the U.S.), passing a charge down the wire close to the speed-of-light, the force of *direct current* is always in the same directions, like a river, and while it is passing the current along at the same speed, the electrons are also being dragged down the wire at about 3 miles per hour, which is the speed that they return to the source, so the cycle is pretty slow, but it is still a cycle. Energy itself does not oscillate or have a frequency. It is constant and never-changing in its pure form.  The oscillation comes from its interactions, or expressions. Direct current is the most common in nature; lightning, static electricity, bio-luminescence, solar particles, etc.
 
 We do not have words for many things as we have yet to recognize them and therefore can&rsquo;t describe them, measure them or even identify them.  It is not just reasonable to speculate that in the realm of ideas and forms there are also cycles and a medium that is completely new to us, it&rsquo;s quite unreasonable not to, as they too are an expression of energy.
 
-#### **Claim 29:** We can only see the interactions of energy, and not the energy itself.  
+#### **Claim 29:** We can only see the interactions of energy, and not the energy itself.
 
 This begs the questions &ldquo;What *is* energy? &ldquo; And the answer is… are you sitting down? Drum-roll, please&hellip; *&ldquo;The ability to perform work.&rdquo;* Yup, that is the culmination of thousands of years of research and investigation in search of an answer as to why and how reality exists.  Problem solved (we&rsquo;ll come back to this later).
 
@@ -387,35 +384,35 @@ Let&rsquo;s look at the simple cycle again as the archetypal pattern that descri
 
 When we examine the predator-prey cycles, we can see they follow the same cyclical archetype of light, or electricity, or sound.  Below we show a typical predator pray cycle (taken from a Northern Arizona University biology online-class). On the left is the data over time, and on the right is the &ldquo;Phase plan&rdquo;, or the graph of the relationship between the two variable (wolves and rabbits).  This is a naturally occurring cycle, but you'll notice that the two cycles natural  $\frac{1}{4}$ a wavelength apart, which is the maximum difference any two waves can have.  We also see this in electricity, where voltage lags current by $\frac{1}{4}$ wave, so here wolves are acting like *voltage*, and rabbits are acting like *current*. Or perhaps, given that the electric and magnetic fields in a wave are 90&deg; apart, perhaps the wolves are equivalent to *electricity* and the rabbits, *magnetism*? 
 
-The middle graph shows the same relationship between two waves, but for perfect sine-wave, like the kind you would see with light or energy, and beside it, relationship of a perfect circle.  This is the archetype of the predator pray cycle.  The bottom shows the same charts, but in the case of no energy, or no wolves or rabbits, and therefore represents the highest order of archetypes, which is just a dot and a line.  
+The middle graph shows the same relationship between two waves, but for perfect sine-wave, like the kind you would see with light or energy, and beside it, relationship of a perfect circle.  This is the archetype of the predator pray cycle.  The bottom shows the same charts, but in the case of no energy, or no wolves or rabbits, and therefore represents the highest order of archetypes, which is just a dot and a line.
 
-<img src='../Images/predprey.png' style='width:100%;' />
+<center><img src='../Images/predprey.png' style='width:100%'/></center>
 
 If we combine the two wolf/rabbit or sine-wave frequencies, we can see the frequency of the change between the two variables.
 
-<img src='../Images/predpreydelta.png' style='width:100%;' />
+<center><img src='../Images/predpreydelta.png' style='width:100%'/></center>
 
 You can easily see the relationship between the oscillations of the two poles to many classic ideas of archetypal dualities, such as masculine/feminine, yin/yang, dark/light, positive/negative, etc., as well as the dualities that make up our day-to-day lives, such as day/night, summer/winter, phases of the moon and the movement of planets, the alternating current of common electricity, etc., and countless other dualities that the mind has imagined, created, or discovered since humans started observing the world around them.
 
 In humanity&rsquo;s quest to understand reality and its processes, either through religion, culture, economics, nature, alchemy or science, we keep bumping into the same universal constants and concepts.
 
-[^16]: Livio, M. (n.d.). **Why Math Works**. <https://www.scientificamerican.com/article/why-math-works/>
-[^167]: Levin, Samuel R., and Stuart A. West. **“The Evolution of Cooperation in Simple Molecular Replicators.”** Proceedings of the Royal Society B: Biological Sciences 284, no. 1864 (November 2017): 20171967. <https://doi.org/10.1098/rspb.2017.1967>.
-[^169]: **&ldquo;Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World&rdquo;** <https://grahamhancock.com/geographic-geometric-relationships-alisonj/>
-[^175]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL]: http://www.kotesol.org/daegu/2006conf/brochure_2006.htm; Mother Theresa, http://rubelshelly.faithsite.com/content.asp?CID=19276; unattributable http://www.oursouthwest.com/news/quotes1sd.htmcfo
-[^17]: Britannica, T. E. (2019, April 08). **Laws of thought**. <https://www.britannica.com/topic/laws-of-thought>
-[^18]: **15** **Insane Things That Correlate With Each Other**. (n.d.). <http://www.tylervigen.com/spurious-correlations>
-[^19]: Abreu, N. (n.d**.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.** <http://cref.tripod.com/tucsonpaper.htm> Science of Self Club, University of Florida
-[^20]: <https://www.infinitemonkeylab.com/>
-[^21]: Jaynes, Julian (2000) \[1976\]. **The origin of consciousness in the breakdown of the bicameral mind** (PDF). Houghton Mifflin. p.73.ISBN 978-0-618-05707-8.
-[^22]: Fast-moving air is at a lower pressure than slow-moving air, so the pressure above the wing is lower than the pressure below, and this creates the lift that powers the plane upward.
-[^23]: Fiegna and Velicer, 2003
-[^24]: Rankin and Kokko, 2006; Muir and Howard, 1999
-[^25]: Rainey, Paul B. **&ldquo;Precarious Development: The Uncertain Social Life of Cellular Slime Molds.&rdquo;** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639-2640., doi:10.1073/pnas.1500708112. <https://www.pnas.org/content/pnas/112/9/2639.full.pdf>
-[^26]: De Roode et al., 2005
-[^27]: Gersani et al., 2001
-[^28]: Ahmed Ibrahim, **&ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;**, Network Biology, 06/2014, v. 4 2
-[^29]: **The Simulation Hypothesis Documentary**. (2018, August 01). <https://youtu.be/pznWo8f020I>
-[^30]: Klein, Christopher. &ldquo;**DNA Study Finds Aboriginal Australians World&rsquo;s Oldest Civilization.**&rdquo; History.com, A&E Television Networks, 23 Sept. 2016, <https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization>
-[^31]: Parvinen, Kalle, and Ulf Dieckmann. **&ldquo;Environmental Dimensionality&rdquo;**. *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
-[^32]: **List of cycles**. (2019, April 27). <https://en.wikipedia.org/wiki/List_of_cycles>
+[^26]: Livio, M. (n.d.). **Why Math Works**. <https://www.scientificamerican.com/article/why-math-works>
+[^27]: Britannica, T. E. (2019, April 08). **Laws of thought**. <https://www.britannica.com/topic/laws-of-thought>
+[^28]: **15** **Insane Things That Correlate With Each Other**. (n.d.). <http://www.tylervigen.com/spurious-correlations>
+[^29]: Abreu, N. (n.d**.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.** <http://cref.tripod.com/tucsonpaper.htm> Science of Self Club, University of Florida
+[^30]: <https://www.infinitemonkeylab.com>
+[^31]: Jaynes, Julian (2000) [1976]. **The origin of consciousness in the breakdown of the bicameral mind** (PDF). Houghton Mifflin. p.73.ISBN 978-0-618-05707-8.
+[^32]: Fast-moving air is at a lower pressure than slow-moving air, so the pressure above the wing is lower than the pressure below, and this creates the lift that powers the plane upward.
+[^33]: Fiegna and Velicer, 2003
+[^34]: Rankin and Kokko, 2006; Muir and Howard, 1999
+[^35]: Rainey, Paul B. **&ldquo;Precarious Development: The Uncertain Social Life of Cellular Slime Molds.&rdquo;** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639-2640., doi:10.1073/pnas.1500708112. <https://www.pnas.org/content/pnas/112/9/2639.full.pdf>
+[^36]: De Roode et al., 2005
+[^37]: Gersani et al., 2001
+[^38]: Ahmed Ibrahim, **&ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;**, Network Biology, 06/2014, v. 4 2
+[^39]: Levin, Samuel R., and Stuart A. West. **“The Evolution of Cooperation in Simple Molecular Replicators.”** Proceedings of the Royal Society B: Biological Sciences 284, no. 1864 (November 2017): 20171967. <https://doi.org/10.1098/rspb.2017.1967>.
+[^40]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL
+[^41]: **The Simulation Hypothesis Documentary**. (2018, August 01). <https://youtu.be/pznWo8f020I>
+[^42]: Klein, Christopher. &ldquo;**DNA Study Finds Aboriginal Australians World&rsquo;s Oldest Civilization.**&rdquo; History.com, A&E Television Networks, 23 Sept. 2016, <https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization>
+[^43]: Parvinen, Kalle, and Ulf Dieckmann. **&ldquo;Environmental Dimensionality&rdquo;**. *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
+[^44]: **List of cycles**. (2019, April 27). <https://en.wikipedia.org/wiki/List_of_cycles>
+[^45]: **&ldquo;Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World&rdquo;** <https://grahamhancock.com/geographic-geometric-relationships-alisonj>

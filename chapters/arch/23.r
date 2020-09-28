@@ -1,1 +1,0 @@
-[^171]: Barton, George A. **On the Babylonian Origin of Plato&rsquo;s Nuptial Number: on an Old Babylonian Letter Addressed "to Lushtamar".**. New Haven: American Oriental Society, 1908. <https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst>
