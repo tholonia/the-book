@@ -41,7 +41,7 @@ This raises questions like:
 - Do they tell us anything about the thing being measured?
 - Given that these patterns describe the propagation and near-field diffraction of light (i.e.  Fresnel diffraction), can we apply any other attributes of light to whatever we are observing?
 
-## Addition details for the curious
+**Addition details for the curious**
 
 Below are some of the visual results of the plot, which are added here just because they are interesting.
 
@@ -69,7 +69,7 @@ For those not familiar with Fresnel diffraction, it is the way that light interf
 
 <center><img src='../Images/diffraction.png' style='width:80%'/></center>
 
-## Digging Deeper
+**Digging Deeper**
 
 Having no idea where to look for more information I posted this to various mathematics forums, and even though the question was read my many, no one had an answer.  I then sent this question to my old friend who is an accomplished physicist, but who also considers these speculative ideas to be a waste of time, so I knew any answer he gave would include an unabashed commentary on the silliness of it all.
 

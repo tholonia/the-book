@@ -30,7 +30,7 @@ perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' ${H}/docs/_layo
 #perl -pi -e 's/--pdf-title=\"THOLONIA .*$/--pdf-title=\"THOLONIA $ENV{'VV'}\\\"\" \\/' ${H}/bin/publishPUB
 
 #update CSS for the page header
-perl -pi -e 's/content: \"THOLONIA.*/content: \"THOLONIA $ENV{'VV'}\";/' ${H}/Styles/common_book.css
+perl -pi -e 's/content: \"THOLONIA.*/content: \"THOLONIA $ENV{'VV'}\";/' ${H}/Styles/common_book.less
 
 #update vesion in PUB make_pdf() function
 perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/inc/metadata.yaml

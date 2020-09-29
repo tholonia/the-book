@@ -3,9 +3,7 @@
 
 ###### Everything begins and ends in chaos.
 
-Oxford English Dictionary gives three definitions of the word *chaos*.
-
-These are:
+Oxford English Dictionary gives three definitions of the word *chaos*.  These are:
 
 -   The formless matter supposed to have existed before the creation of the universe.
 -   The formless and disordered state of matter before the creation of the cosmos.

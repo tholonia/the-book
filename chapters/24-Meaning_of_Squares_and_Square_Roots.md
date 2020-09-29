@@ -67,7 +67,7 @@ So far, this falls more on the supportive side on the claim that 0.414 is the va
 
 What if we test this magic number of 0.414 on the number 3? Would be get something equally interesting? let&rsquo;s see.
 
-*$\frac{3}{0.414}$ = 7.242*, and this number also happens to be *2.414 &times; 3*, or *1+$\sqrt{2}$&times; 3*.  Again, the Silver Ratio appears, but this time as a multiple of 3.  So far, so good, but there&rsquo;s more, because this number is also the ratio of the two sides of a right triangle when when that triangle is 67.5 &deg;.  67.5 &deg; is 22.5&deg; short of 90&deg; and because 22.5&deg; is $\frac{1}{4}$ of 90&deg;, it is also  *22.5&deg;&times;3* , and what is 22.5&deg;?  It is $\frac{1}{16}$ or $\frac{1}{2^4}$ of a circle.  
+*$\frac{3}{0.414}$ = 7.242*, and this number also happens to be *2.414 &times; 3*, or *1+$\sqrt{2}$&times; 3*.  Again, the Silver Ratio appears, but this time as a multiple of 3.  So far, so good, but there&rsquo;s more, because this number is also the ratio of the two sides of a right triangle when when that triangle is 67.5&deg;.  67.5&deg; is 22.5&deg; short of 90&deg; and because 22.5&deg; is $\frac{1}{4}$ of 90&deg;, it is also  *22.5&deg;&times;3* , and what is 22.5&deg;?  It is $\frac{1}{16}$ or $\frac{1}{2^4}$ of a circle.  
 
-This is fantastically elegant is so many ways, and the recurring principle seems to be the Silver Ratio which is based in 2.
+This is fantastically elegant in so many ways, and the recurring principle seems to be the Silver Ratio which is based in 2.
 

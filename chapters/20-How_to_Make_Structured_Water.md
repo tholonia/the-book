@@ -13,7 +13,7 @@ This is relevant to creating structured water, or any creative process, but wate
 
 Simply focusing your thoughts on the water will have some effect.  Of course, increasing the structure the water (or returning it to its natural state) will create a far better medium for interacting with energy.
 
-### Manually
+**Manually**
 
 Vortexing (whirlpooling) water by hand was shown to be effective in improving growth differences in plant tests, but it is not easily applied to larger-scale needs.  There also does not seem to be one standardized accepted technique to manually structuring water.  One technique that seems to be popular is a homemade version of the same technique used in some of the industrial-sized units, and that is simply using marbles as a water filter.  The reasoning behind using marbles is that water in its natural, more structured state due to its movement over and through the terrain, such as rivers that move water to flow over rocks, trees, etc.  Tap water, on the other hand, is unnaturally processed, stored in stationary reserves, channeled through pipes, and a number of other modifiers that destroy this natural structure.  Running the water through a marble filter causes the water to form many small eddies as it is constantly divided and reunited, allowing the water to return to its natural, more structured state.
 
@@ -29,7 +29,7 @@ Some of Australia&rsquo;s largest produce farms have been using magnetic water w
 
 Simple instructions can be found on the web[^192] for making a Hero&rsquo;s Fountain (named after the first-century Greek mathematician Heron who discovered this process of an energy-free recycling water fountain) that constantly cycles water through a loop.  Fill one of the bottles with marbles, or whatever you like, and when the cycle is complete, you have a bottle filled with restructured water.
 
-### Commercial Attachments
+**Commercial Attachments**
 
 Devices such as the Martin-Wasserwirbler (MW) attachment are small devices that claim to restructure water typically by creating a vortex within the device.  The Martin-Wasserwirbler (developed in Germany) is an attachment that forces the water through a series of vortex-creating channels made of oppositely charged metals.  I am slightly suspicious of this last bit as they say they use silver and gold as the oppositely charged metals, but both of these metals have similar ionization and electronegativity properties, so unless they are doing something to these metals to change that, it&rsquo;s not clear how they can be oppositely charged.  This is not to say they are not, just that it is unclear.
 
@@ -39,7 +39,7 @@ The idea that the qualities of water lost due to it processing could be reintrod
 
 Tests with the MW have shown positive results, such as a rise in pH, oxygen content, and a decline in water temperature.  Unfortunately, there are no tools that exist to measure many of the qualities of water that we believe are its most important, which is the manner water moves, stores and transmits energy.
 
-### Industrial Solutions
+**Industrial Solutions**
 
 Pursanova is a company that makes complete water processing system for residential, commercial and industrial applications.  Their products range from $20 to many thousands.  They have a number of case studies on their website (pursanova.com) which are astounding.
 
