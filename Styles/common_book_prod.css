@@ -201,7 +201,7 @@ ol ol {
 html body nav#TOC ul li ul li ul {
   display: none;
 }
-/*  L1 titles bold and larger */
+/*  L1 titles bold */
 #TOC li {
   line-height: 9pt;
   margin-bottom: 0px;
