@@ -21,7 +21,7 @@ Every trigram has one edge that is a function (multiply or divide).  If we order
 
 <center><img src='../Images/110-tmath-ordered.png' style='width:100%'/></center>
 
-If we organize the sides of the tholon by their function we see that we have three multiplications and six divides.  This 3:6 ratio makes sense when you consider that multiplication works the same in both directions (3&times;2=2&times;3), but division only works in one direction (because $\boldsymbol{\frac{2}{3} \neq \frac{3}{2}}$ ), so we need twice as many divisions to represent the results of multiplication.
+If we organize the sides of the tholon by their function we see that we have three multiplications and six divides.  This 3:6 ratio makes sense when you consider that multiplication works the same in both directions (3&times;2=2&times;3), but division only works in one direction (because <img src="../Images/math/300.svg" alt="\frac{2}{3} \neq \frac{3}{2}" style="vertical-align: middle;height:14pt;"/>), so we need twice as many divisions to represent the results of multiplication.
 
 We also see (in the image above) that in the trigrams that are division-based, three of them have clockwise flow, three of them have counterclockwise flow, and three of them flow in either direction..
 
@@ -29,5 +29,5 @@ We also see (in the image above) that in the trigrams that are division-based, t
 
 In the figure above we show the three perspectives of a 2D tholon map.  Notice that the outer boundaries of each figure show a consistent direction of flow, ***Fig.  v1*** being neutral, ***Fig.  v2*** clockwise, and ***Fig.  v3*** counterclockwise, which matches the direction of the sides, however, the base (center trigram) is always counter-clockwise.
 
-Tholonically, we can easily map things like Ragone and utility space (as in the battery example), or *laws* and *social responsibility* (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the equivalent social expression of *I^2^* or $\sqrt{P/R}$ would represent.  In fact, there are quite a lot of relationships, rules, and formulas in a tholon that need more understanding.  What is presented here is the idea that the tholon can represent any system when described in its most reduced states.  This work is more akin to the Wright Brother&rsquo;s first flight rather than a modern airplane.
+Tholonically, we can easily map things like Ragone and utility space (as in the battery example), or *laws* and *social responsibility* (as in the example of society), to a simple trigram, but it is not yet clear, to me at least, what the equivalent social expression of *I^2^* or <img src="../Images/math/307.svg" alt="\sqrt{P/R}" style="vertical-align: middle;height:14pt;"/> would represent.  In fact, there are quite a lot of relationships, rules, and formulas in a tholon that need more understanding.  What is presented here is the idea that the tholon can represent any system when described in its most reduced states.  This work is more akin to the Wright Brother&rsquo;s first flight rather than a modern airplane.
 
