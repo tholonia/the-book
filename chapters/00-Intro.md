@@ -17,5 +17,5 @@ The reason this book is open-sourced is to allow other&rsquo;s insights to be in
 
 **On a more mundane note…**
 
-Please read the appendix &ldquo;ABOUT THIS BOOK&rdquo;, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find disytrac
+Please read the Appendix I, &ldquo;ABOUT THIS BOOK&rdquo;, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find distracting.
 

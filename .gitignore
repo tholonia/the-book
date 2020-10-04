@@ -117,3 +117,11 @@ chapters/.parts/
 *.1
 Styles/common_book_header.css
 chapters/THOLONIA_THE_BOOK.md
+
+
+Styles/epub_dev.css
+Styles/epub_dev_header.css
+Styles/epub_prod.css
+Styles/epub_prod_header.css
+Styles/tholonia.epub3
+bak
