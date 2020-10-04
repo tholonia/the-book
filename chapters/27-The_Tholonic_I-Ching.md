@@ -314,7 +314,7 @@ Given that every number has a patterned relationship with one or more numbers, w
 
 There is some significant evidence that the I-Ching and the thologram are based on the same model. Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can speculate that there is an underlying model that many perspectives of understanding are based on. I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy, etc. as much as it could for chemistry, physics, electronics, and many other applications. Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another. The only limitation is the creative imagination of the perceiver.
 
-However, if you still have doubts, what follows is a demonstration of  how the value of *pi* (&pi;) can be derived using the tholonic model along with the values shown here derived from the I-Ching.  We can also find *pi* in the thologram alone, as previously described, by using the total number of N-sources for all the real and virtual tholons for each generations.  While this technique uses the same method, it is using very different data. <img src='../Images/times7.png' style='width:100%'/></center>
+However, if you still have doubts, what follows is a demonstration of  how the value of *pi* (&pi;) can be derived using the tholonic model along with the values shown here derived from the I-Ching.  We can also find *pi* in the thologram alone, as previously described, by using the total number of N-sources for all the real and virtual tholons for each generations.  While this technique uses the same method, it is using very different data. <img src='../Images/times7.png' style='width:100%'/>
 
 ***Fig. h1*** shows the hexagram values as multiples of 7. ***Fig h2*** shows the same values, but shows how the same border values of 2, 3 and 5 apply to all the trigrams. Let&rsquo;s apply the tholonic model to these numbers.   We arrived at these numbers by taking the sums of the binary values for each side, as shown above, which gave us 14, 21 and 35, As these numbers are all multiples of 7, we use the multiple values.
 
@@ -329,7 +329,7 @@ This graph below diagrams the process (and shows the results already multiplied 
 <center><img src='../Images/pi-holons2.png' style='width:100%'/> </center>
 
 
-One interesting observation sis that the first triad if NCD uses a simple formulas, and all the rest use that same formula, but modified by $n$, which didn&rsquo;t exist in the first triad.  This is an excellent example of the two types of duality; the 1^st^ duality that creates the 2^nd^ duality, that creates everything else.
+One interesting observation sis that the first triad if NCD uses a simple formulas, and all the rest use that same formula, but modified by *n*, which didn&rsquo;t exist in the first triad.  This is an excellent example of the two types of duality; the 1^st^ duality that creates the 2^nd^ duality, that creates everything else.
 
 For anyone that wants to replicate/test this process, here are the five lines of Python code.
 

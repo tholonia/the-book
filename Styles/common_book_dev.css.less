@@ -14,6 +14,8 @@
 @orphans:0;
 @widows:0;
 
+@h6-padding-bottom:0px;
+
 /* negative values just make it easier to edit - they effectively are 0 */
 /*@red1border: -1px solid red;
 @red2border: -2px solid red;
@@ -23,13 +25,11 @@
 @list-vert-margins: 4pt;
 @list-margin-left: 5%;
 
-
-
 @media print {
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA v3.3.2";
+            content: "THOLONIA 3.6.9";
 
             text-align:center;
             font-family: serif;
@@ -143,11 +143,14 @@ h6 {
     text-align: center !important;
     color: black;
     font-size: 12pt;
+    border-left: 0px solid white;
+    border-right: 0px solid white;
     border-top: 1px solid black !important;
     border-bottom: 1px solid black !important;
+    padding-bottom:@h6-padding-bottom;
     font-weight: 100;
-    border: 0px solid white;
 }
+
 /************************************************/
 /* BLOCKQUOTE                                   */
 /************************************************/

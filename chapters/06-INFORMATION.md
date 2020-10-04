@@ -145,7 +145,7 @@ Because the peak of the curve represents where the most &ldquo;work&rdquo; will 
 
 For consistency, here is the human eye sensitivity chart as well with the new y-axis and its shading, which represent a singular holon of *human eye* in the *bio* branch of the hierarchy.
 
-<center><img src='../Images/031-eyecurve2.png' style='width:80%'/></center>
+<center><img src='../Images/031-eyecurve2.png' style='width:100%'/></center>
 
 #### **Claim 39:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons.
 

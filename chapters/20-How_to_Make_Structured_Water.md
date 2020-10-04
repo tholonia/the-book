@@ -41,7 +41,7 @@ Tests with the MW have shown positive results, such as a rise in pH, oxygen cont
 
 **Industrial Solutions**
 
-Pursanova is a company that makes complete water processing system for residential, commercial and industrial applications.  Their products range from $20 to many thousands.  They have a number of case studies on their website (pursanova.com) which are astounding.
+Pursanova is a company that makes complete water processing system for residential, commercial and industrial applications.  Their products range from &dollar;20 to many thousands.  They have a number of case studies on their website (pursanova.com) which are astounding.
 
 *Disclaimer: I have no relationship with any of these companies and am not promoting any of their products.  I refer to them simply because my research seems to indicate they are legitimate products in an industry filled with wild and dubious claims.*
 

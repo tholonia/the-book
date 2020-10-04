@@ -11,7 +11,7 @@ git add ${H}/inc/version.txt
 V=`head -1 ${H}/inc/version.txt`
 DR=`date +%c`
 DRV="${DR} v${V}"
-VV="v${V}"
+VV="${V}"
 export DRV #export needed fpr perl script
 export VV
 #update vesion date in MD file
@@ -21,6 +21,11 @@ perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/README.md
 #update vesion in metadata fpor pandoc
 perl -pi -e 's/^(.*Updated: ).*(.)$/$1$ENV{'DRV'}\x27/' ${H}/inc/metadata.yaml
 perl -pi -e 's/^pagetitle: .THOLONIA.*/pagetitle: \x27THOLONIA $ENV{'VV'}\x27/' ${H}/inc/metadata.yaml
+perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/inc/metadata.yaml
+perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/inc/metadata_epub.yaml
+
+perl -pi -e 's/^(.*Updated: ).*(.)$/$1$ENV{'DRV'}\x27/' ${H}/inc/metadata_epub.yaml
+perl -pi -e 's/^pagetitle: .THOLONIA.*/pagetitle: \x27THOLONIA $ENV{'VV'}\x27/' ${H}/inc/metadata_epub.yaml
 
 #update vesion date _layouts/default.html
 perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' ${H}/docs/_layouts/default.html
@@ -30,10 +35,8 @@ perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' ${H}/docs/_layo
 #perl -pi -e 's/--pdf-title=\"THOLONIA .*$/--pdf-title=\"THOLONIA $ENV{'VV'}\\\"\" \\/' ${H}/bin/publishPUB
 
 #update CSS for the page header
-perl -pi -e 's/content: \"THOLONIA.*/content: \"THOLONIA $ENV{'VV'}\";/' ${H}/Styles/common_book.less
+perl -pi -e 's/content: \"THOLONIA.*/content: \"THOLONIA $ENV{'VV'}\";/' ${H}/Styles/common_book_*.less
 
-#update vesion in PUB make_pdf() function
-perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/inc/metadata.yaml
 
 
 

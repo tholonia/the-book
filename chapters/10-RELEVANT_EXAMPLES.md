@@ -35,7 +35,7 @@ Here, the word &ldquo;coherence&rdquo; refers to its definition of &ldquo;*the 
 
 The results were impressive.
 
-##### <img src='../Images/medchart.png' style='width:100%'/></center>
+##### <img src='../Images/medchart.png' style='width:100%'/>
 
 This is only one study, so it is not definitive, but it is certainly supportive of the idea that directed intention, what the participants called *coherence*, and what we are calling *order* (as that is what unifies the parts into the whole), has an extended effect.  The explanation, according to the tholonic model, is that the directed energy of coherent thought altered the curves of various archetypes thereby altering the probability of where the &ldquo;work&rdquo; will produce the most order, or where and how energy will be expressed across a scope&rsquo;s spectrum.
 
@@ -57,7 +57,7 @@ Ultimately, this new concept was unsustainable in that environment because event
 
 You might be thinking that traditional prayer holds the same power, but it does not.  Why? Because most prayer is anything but coherent.  Prayer means very different things depending on culture, religion, personal perspectives, etc.  It can be anything from begging to demanding, justifying to virtue signaling, and occasionally it can be an expression of gratitude and love, but using group prayer to effect change is like using a group of blind people to paint a room by throwing handfuls of paint at the wall.  Your room *will* get painted, but you&rsquo;ll wish it didn&rsquo;t.
 
-This was recently confirmed by a $2.3-million-dollar study on the effect of prayer on the sick, involving over 1,800 patients.  It was the largest study of its kind ever undertaken.  Contrary to prayer helping the sick, they found that when a patient knew others were praying for them, they tended to have *more* complications.[^162]
+This was recently confirmed by a &dollar;2.3-million-dollar study on the effect of prayer on the sick, involving over 1,800 patients.  It was the largest study of its kind ever undertaken.  Contrary to prayer helping the sick, they found that when a patient knew others were praying for them, they tended to have *more* complications.[^162]
 
 There are other studies that conclude the exact opposite, such as Dr.  Byrd&rsquo;s study &ldquo;Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population&rdquo;[^163] and Dr.  Harris&rsquo;s  study &ldquo;A Randomized, Controlled Trial of the Effects of Remote, Intercessory Prayer on Outcomes in Patients Admitted to the Coronary Care Unit&rdquo;[^164].  However, without a detailed comparison of the studies, and specifically the manner in which the participants prayed, we cannot know to what degree coherence was at play.
 

@@ -1,5 +1,3 @@
-<div style='page-break-after:always; break-after: page;'></div>
-
 <img src="../Images/titlepage.png" style="width:100%"/>
 
 # INTRODUCTION
@@ -9,7 +7,7 @@ This book is meant to describe the blueprint of creation, similar to a blueprint
 
 This book means to introduce the idea that the mechanics of existence and reality, from atoms to cultures to galaxies, follow the same laws and have the same structure as it applies to their context.
 
-The arguments put forth seemed fairly self-evident at the time writing.  However, when I passed some of these ideas by an actual philosopher he was able to follow the arguments all the way back to the originating premise from which this book claims all structure stems, at which point he firmly rebuked the idea that life has any sort predetermined direction.  His counter argument was simply that the only valid claims are those of subjective beliefs.  So, your mileage may vary.
+The arguments put forth seemed fairly self-evident at the time writing.  However, when I passed some of these ideas by an actual philosopher he was able to follow the arguments all the way back to the originating premise from which this book claims all structure stems, at which point he firmly rebuked the idea that life has any sort predetermined direction.  His counter argument was simply that the only valid claims are those of subjective beliefs.  Perhaps he's correct… who know? So, your mileage may vary.
 
 In this writing I try to avoid social and cultural contexts as much as possible, and where they do exist, I try to keep them to a minimum.  The conclusions put forth here apply to society and culture, as well as science, politics, economics, self-realization, and life itself.
 
@@ -19,8 +17,5 @@ The reason this book is open-sourced is to allow other&rsquo;s insights to be in
 
 **On a more mundane note…**
 
-For those readers who are sticklers about writing style conventions in the U.S., I have deliberately chosen to: Place punctuation (that is not part of a quote) outside of quotes.  The convention of placing punctuation inside the quotes was adopted due to the limitations of fixed width fonts in the pre-digital age.  The British convention has punctuation outside of quotes, but that is because they use single quotes, not double quotes.  To quote William Strunk and E. B. White, &ldquo;[t]ypographical usage dictates the comma be inside the marks, though logically it seems not to belong there&rdquo;.  I agree, and take the side of Canadian poet, typographer and author Robert Bringhurst who bravely stated that it “makes no *typographic* difference” if quotation marks “follow commas and periods or precede them”. Also, I follow periods with two spaces, not one.  The two-space rule was also in place due to fixed width fonts, but unlike the punctuation-quotes rules, it has fierce opposition. Even the American Psychological Association has gone from officially recommending one space, then recommending one *or* two spaces, then back to two spaces (in their 6th addition), then back to one space (7th edition). This does not inspire confidence in their craft. I will be using two spaces because it has been shown that using two spaces after a period increases text processing ability[^1].  In addition, while it is customary to spell out numbers in a sentence, for the most part, numbers in a sentence will be shown as numerals. This is to allow for numerical values to be easily recognizable, which, like the above point, increases text processing overhead.
+Please read the appendix &ldquo;ABOUT THIS BOOK&rdquo;, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find disytrac
 
-Finally, my apologies for the sometimes crude and rather ugly layout of the book in general. Once-upon-a-time I was myself a young typographer, but in those pre-digital days, the job often included the re-melting of lead "pigs" that were used to set the type (and this was for the second largest newspaper in a New England state), yet I prefer that toxic drudgery to the seemingly impossible task of getting plain text (as Markdown format) into a properly formatted manuscript - in 2020! What you see here is the best I was able to produce, but falls quiet short of what I was aiming for.
-
-[^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6

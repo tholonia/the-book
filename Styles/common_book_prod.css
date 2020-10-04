@@ -9,7 +9,7 @@
   @page {
     border: 0px solid pink;
     /*        @top-left {
-            content: "THOLONIA v3.3.2";
+            content: "THOLONIA 3.6.9";
 
             text-align:center;
             font-family: serif;
@@ -121,10 +121,12 @@ h6 {
   text-align: center !important;
   color: black;
   font-size: 12pt;
+  border-left: 0px solid white;
+  border-right: 0px solid white;
   border-top: 1px solid black !important;
   border-bottom: 1px solid black !important;
+  padding-bottom: 0px;
   font-weight: 100;
-  border: 0px solid white;
 }
 /************************************************/
 /* BLOCKQUOTE                                   */

@@ -54,18 +54,19 @@ $if(title)$
 
     $if(title)$
         <p class="title">
-        $title$<br/>
-        $subtitle$<br/>
-        $author$<br/>
-        Published: $pubdate$<br/>
-        Updated: $status$<br/>
-        $publisher$ <br/>
-        ISBN-10: $ISBN-10$<br/>
-        ISBN-13: $ISBN-13$<br/>
-        $rights$<br/>
-        <P>
+            $title$<br/>
+            $subtitle$<br/>
+            $author$<br/>
+            Published: $pubdate$<br/>
+            Updated: $status$<br/>
+            $publisher$ <br/>
+            ISBN-10: $ISBN-10$<br/>
+            ISBN-13: $ISBN-13$<br/>
+            $rights$<br/>
+        </p>
+        <p>
         $rights-desc$<br/>
-        </P>
+        </p>
         <div style='page-break-after:always; break-after: page;'></div>
     $endif$
     </header>

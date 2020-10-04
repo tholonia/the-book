@@ -145,7 +145,7 @@ This ritual psychoactive drink from the Amazon is also known as *ayahuasca*, *un
 
 In order for the DMT to get to the brain, it has to pass through the blood/brain barrier, and for that to happen there must be something that stops the MAOs from doing their job.  That thing is called a *MAO Inhibitor* (MAOI).  MAOIs are commonly used in pharmaceuticals to help with ailments such as depression and Parkinson&rsquo;s disease (which, according to Stanford University, are the same two things that tango dancing also helps).
 
-Modern science has known about both of these drugs for a little over 100 years.  Indigenous Amazonian shamans have known about them for about 5,000 years.  Somehow, in a manner beyond the ability of modern Western man to comprehend, these shamans managed to discover that the bark of one particular vine, from over 40,000 species of plants, contained a lot of DMT.  They also, somehow, knew that an MAOI was needed, which they found in another of those 40,000 species.  Traditional anthropologists would have you believe they discovered this by trial and error, but with just a little thought, it is clear how ridiculous that theory is.
+Modern science has known about both of these drugs for a little over 100 years.  Indigenous Amazonian shamans have known about them for about 5,000 years.  Somehow, in a manner beyond the ability of modern Western man to comprehend, these shamans managed to discover that the bark of one particular vine, from over 40,000 species of plants, contained a lot of DMT.  They also, somehow, knew that an MAOI was needed, which they found in another of those 40,000 species.  On top of all this, they had to know to stop eating meat, fish, milk, fruit, bread, and anything fermented for some days before taking the MAOI lest they suffer serious injury and death.  Traditional anthropologists would have you believe they discovered this by trial and error, but with just a little thought, it is clear how ridiculous that theory is.
 
 Of the 1,600,000,000 possible pairing combinations of Amazonian plants, only one produces the basis of yagé (it&rsquo;s actually far more complicated to make yagé than just mixing these two plants), and even then, only when a certain part of the plants are used.  In addition, these 1,600,000,000 possibilities do not consider the variables of proportion or the specifics of preparation.  For that many trial-and-error tests, even if every man, woman, and child in all of South America partook in the finding, preparing, and experimenting, it would take over 2,000 years, which then raises the question of record-keeping as to what was already tested.  The fact that modern science expects any semi-intelligent person to believe its trial-and-error theory is laughable, but also pretty frightening that so many scientists *do* believe this.
 
@@ -326,7 +326,7 @@ We see this sort of distribution everywhere in nature.  In fact, in the world of
 
 For example, the human eye sensitivity chart below shows that a particular shade of green (555nm) is the most dominant color because this is the middle of the range of our biological sensitivity to light.  This shows that the most efficient (most energetically ordered) function of our eyes is the perception of the color green.  This makes sense as we evolved in a world that was very green thanks to chlorophyll and its oxygen producing photosynthesis.  Other life-forms have other ranges of sensitivity depending on their context or environment.  A fascinating example of this is the Movile Caves in Romania.  These caves were sealed off 5,000,000 years ago, yet within the hostile environment, rich in hydrogen sulfide gas and sulfuric acid, at least 33 news species of life have evolved and flourished feeding off the bacteria that eats rocks and other inorganic material (*chemosynthetic bacteria*).
 
-<center><img src='../Images/022-eyecurve1.png' style='width:80%'/></center>
+<center><img src='../Images/022-eyecurve1.png' style='width:100%'/></center>
 
 The oscillations between two states, be they the two states of chaos, or order and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.  This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort.
 
@@ -356,7 +356,7 @@ It may be that there is more to waves than just a simple periodic cycle, at leas
 
 The two most common classes of waves are electromagnetic (subatomic particles) and mechanical (particles, M-waves).  If we were to compare them we would see similarities that we could also identify in cycles, such as those mentioned here, but that is beyond the scope of this book as it would be a book itself.  We can at least compare the properties of the two common classes of waves.
 
-<center><img src='../Images/waves.png' style='width:90%'/></center>
+<center><img src='../Images/waves.png' style='width:100%'/></center>
 
 Yes, for all you physicists and electrical/mechanical engineers that might be reading this with extreme incredulity, the differences between electromagnetic (EM) and mechanical (M) waves are many.  We would expect energy to express its movement quite differently when operating under the laws of subatomic particles than that of matter, but even so, there will be many analogous parallels between the two.
 
@@ -400,19 +400,19 @@ In humanity&rsquo;s quest to understand reality and its processes, either throug
 [^27]: Britannica, T. E. (2019, April 08). **Laws of thought**. <https://www.britannica.com/topic/laws-of-thought>
 [^28]: **15** **Insane Things That Correlate With Each Other**. (n.d.). <http://www.tylervigen.com/spurious-correlations>
 [^29]: Abreu, N. (n.d**.). Methodology for Investigating the Hypothesis of Anomalous Remote Perceptions as Objective Phenomena.** <http://cref.tripod.com/tucsonpaper.htm> Science of Self Club, University of Florida
-[^30]: <https://www.infinitemonkeylab.com>
+[^30]: This was calculated by Jordan Hurst, an independent game developer and writer from Toronto, Canada.
 [^31]: Jaynes, Julian (2000) [1976]. **The origin of consciousness in the breakdown of the bicameral mind** (PDF). Houghton Mifflin. p.73.ISBN 978-0-618-05707-8.
 [^32]: Fast-moving air is at a lower pressure than slow-moving air, so the pressure above the wing is lower than the pressure below, and this creates the lift that powers the plane upward.
-[^33]: Fiegna and Velicer, 2003
-[^34]: Rankin and Kokko, 2006; Muir and Howard, 1999
-[^35]: Rainey, Paul B. **&ldquo;Precarious Development: The Uncertain Social Life of Cellular Slime Molds.&rdquo;** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639-2640., doi:10.1073/pnas.1500708112. <https://www.pnas.org/content/pnas/112/9/2639.full.pdf>
-[^36]: De Roode et al., 2005
-[^37]: Gersani et al., 2001
-[^38]: Ahmed Ibrahim, **&ldquo;Invasive cancer as an empirical example of evolutionary suicide&rdquo;**, Network Biology, 06/2014, v. 4 2
+[^33]: Fiegna, F., &amp; Velicer, G. J. (2003). **Competitive fates of bacterial social parasites: Persistence and self–induced extinction ofMyxococcus xanthuscheaters**. Proceedings of the Royal Society of London. Series B: Biological Sciences, 270(1523), 1527-1534. doi:10.1098/rspb.2003.2387; 
+[^34]: Muir and Howard, 1999 - Rankin, D. J., López-Sepulcre, A., Foster, K. R., &amp; Kokko, H. (2007). **Species-level selection reduces selfishness through competitive exclusion.** Journal of Evolutionary Biology, 20(4), 1459-1468. doi:10.1111/j.1420-9101.2007.01337.x
+[^35]: Rainey, Paul B. **"Precarious Development: The Uncertain Social Life of Cellular Slime Molds.""** Proceedings of the National Academy of Sciences, vol. 112, no. 9, 2015, pp. 2639-2640., doi:10.1073/pnas.1500708112. <https://www.pnas.org/content/pnas/112/9/2639.full.pdf>
+[^36]: Roode, J. C., Pansini, R., Cheesman, S. J., Helinski, M. E., Huijben, S., Wargo, A. R., . . . Read, A. F. (2005). "**Virulence and competitive ability in genetically diverse malaria infections**". Proceedings of the National Academy of Sciences, 102(21), 7624-7628. doi:10.1073/pnas.0500078102
+[^37]: Gersani, M., Brown, J. S., O'brien, E. E., Maina, G. M., &amp; Abramsky, Z. (2001). "**Tragedy of the commons as a result of root competition**". Journal of Ecology, 89(4), 660-669. doi:10.1046/j.0022-0477.2001.00609.x
+[^38]: Ahmed Ibrahim, **"Invasive cancer as an empirical example of evolutionary suicide"**, Network Biology, 06/2014, v. 4 2
 [^39]: Levin, Samuel R., and Stuart A. West. **“The Evolution of Cooperation in Simple Molecular Replicators.”** Proceedings of the Royal Society B: Biological Sciences 284, no. 1864 (November 2017): 20171967. <https://doi.org/10.1098/rspb.2017.1967>.
-[^40]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an advisor to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL
+[^40]: R. Buckminster Fuller, Jr. (1895-1983), http://mindprod.com/ethics/quote.html; Rene' Dubos, as an adviser to the United Nations Conference on the Human Environment in 1972, http://capita.wustl.edu/ME567_Informatics/concepts/global.html; A slogan attributed to Yoko Ono and popularized with the help of her husband, John Lennon. http://www.everything2.com/index.pl?node_id=680227; “A well-known international bank coined the phrase” [states Louisa T. C. Kim President of Korea TESOL
 [^41]: **The Simulation Hypothesis Documentary**. (2018, August 01). <https://youtu.be/pznWo8f020I>
-[^42]: Klein, Christopher. &ldquo;**DNA Study Finds Aboriginal Australians World&rsquo;s Oldest Civilization.**&rdquo; History.com, A&E Television Networks, 23 Sept. 2016, <https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization>
-[^43]: Parvinen, Kalle, and Ulf Dieckmann. **&ldquo;Environmental Dimensionality&rdquo;**. *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
+[^42]: Klein, Christopher. "**DNA Study Finds Aboriginal Australians World's Oldest Civilization.**"" History.com, A&E Television Networks, 23 Sept. 2016, <https://www.history.com/news/dna-study-finds-aboriginal-australians-worlds-oldest-civilization>
+[^43]: Parvinen, Kalle, and Ulf Dieckmann. "**Environmental Dimensionality**"". *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008. <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
 [^44]: **List of cycles**. (2019, April 27). <https://en.wikipedia.org/wiki/List_of_cycles>
-[^45]: **&ldquo;Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World&rdquo;** <https://grahamhancock.com/geographic-geometric-relationships-alisonj>
+[^45]: ""**Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World**"" <https://grahamhancock.com/geographic-geometric-relationships-alisonj>
