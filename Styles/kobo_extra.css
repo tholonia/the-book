@@ -198,9 +198,29 @@ html body nav#TOC ul li ul li ul {
 }
 .footnotes ol li p {
   line-height: 16pt;
+  text-align: left;
+  margin: 0px;
+  /* for epub */
+  padding: 0px;
+  /* for epub */
 }
+
 .footnote-ref {
-  font-size: 16pt;
+  vertical-align: bottom;
+  font-size: inherit;
   text-decoration: none;
-  margin-left: 0px !important;
+  font-style: normal;
+  font-weight: 100;
+  margin-left: 2px !important;
+}
+/***********************************************************/
+/* This is just to hide the title on the first page        */
+/* after the TOC with already has the image with the title */
+/***********************************************************/
+
+.unnumbered {
+  visibility:hidden;
+}
+img {
+  visibility:visible !important; /* override 'hidden' when images are part of unnumbered classes */
 }

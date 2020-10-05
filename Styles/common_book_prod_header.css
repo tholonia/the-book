@@ -10,7 +10,7 @@
   @page {
     border: 0px solid pink;
     /*        @top-left {
-            content: "THOLONIA 3.7.3";
+            content: "THOLONIA 3.0.2";
 
             text-align:center;
             font-family: serif;
@@ -165,7 +165,6 @@ ul {
   margin-top: 4pt;
   margin-bottom: 4pt;
   margin-left: 5%;
-  list-style: square outside url("file:///home/jw/books/tholonia/Images/cssarrow-L1.png");
 }
 ul ul {
   /* Second Level */
@@ -173,7 +172,6 @@ ul ul {
   margin-left: 5%;
   margin-top: 4pt;
   margin-bottom: 4pt;
-  list-style: square outside url("file:///home/jw/books/tholonia/Images/cssarrow-L2.png");
 }
 li {
   /*border:@grn1border;*/
@@ -232,11 +230,31 @@ html body nav#TOC ul li ul li ul {
 }
 .footnotes ol li p {
   line-height: 11pt;
+  text-align: left;
+  margin: 0px;
+  /* for epub */
+  padding: 0px;
+  /* for epub */
 }
+/* we override these valued when we compile with EPUB setting */
 .footnote-ref {
-  font-size: 9pt;
+  vertical-align: bottom;
+  font-size: inherit;
   text-decoration: none;
-  margin-left: 0px !important;
+  font-style: normal;
+  font-weight: 100;
+  margin-left: 2px !important;
+}
+/***********************************************************/
+/* This is just to hide the title on the first page        */
+/* after the TOC with already has the image with the title */
+/***********************************************************/
+.unnumbered {
+  visibility: hidden;
+}
+img {
+  visibility: visible !important;
+  /* override 'hidden' when images are part of unnumbered classes */
 }
 
 </style>

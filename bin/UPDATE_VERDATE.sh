@@ -19,10 +19,10 @@ perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/README.md
 #perl -pi -e 's/\{!.*\}/\{\!$ENV{'DRV'}$2\}/' ${H}/inc/Latest/THOLONIA_THE_BOOK.md
 
 #update vesion in metadata fpor pandoc
-perl -pi -e 's/^(.*Updated: ).*(.)$/$1$ENV{'DRV'}\x27/' ${H}/inc/metadata.yaml
-perl -pi -e 's/^pagetitle: .THOLONIA.*/pagetitle: \x27THOLONIA $ENV{'VV'}\x27/' ${H}/inc/metadata.yaml
-perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/inc/metadata.yaml
-perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/inc/metadata_epub.yaml
+perl -pi -e 's/^(.*Updated: ).*(.)$/$1$ENV{'DRV'}\x27/' ${H}/chapters/00-Intro.md
+perl -pi -e 's/^pagetitle: .THOLONIA.*/pagetitle: \x27THOLONIA $ENV{'VV'}\x27/' ${H}/chapters/00-Intro.md
+perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/chapters/00-Intro.md
+# perl -pi -e 's/version:.*/version:  $ENV{'VV'}/'  ${H}/chapters/00-Intro.md
 
 perl -pi -e 's/^(.*Updated: ).*(.)$/$1$ENV{'DRV'}\x27/' ${H}/inc/metadata_epub.yaml
 perl -pi -e 's/^pagetitle: .THOLONIA.*/pagetitle: \x27THOLONIA $ENV{'VV'}\x27/' ${H}/inc/metadata_epub.yaml

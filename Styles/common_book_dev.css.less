@@ -29,7 +29,7 @@
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA 3.7.4";
+            content: "THOLONIA 3.0.2";
 
             text-align:center;
             font-family: serif;
@@ -248,10 +248,36 @@ html body nav#TOC ul li ul li ul {
 
 .footnotes ol li p {
     line-height: 11pt;
+    text-align: left;    
+    margin:0px;  /* for epub */
+    padding:0px; /* for epub */    
 }
 
+
+@footnote-ref-vertical-align: bottom;
+@footnote-ref-font-size: inherit;
+@footnote-ref-text-decoration: none;
+@footnote-ref-font-style: normal;
+@footnote-ref-font-weight: 100;
+@footnote-ref-margin-left: 2px !important;
+
 .footnote-ref {
-    font-size: 9pt;
-    text-decoration: none;
-    margin-left:0px !important;
+    vertical-align: @footnote-ref-vertical-align;
+    font-size: @footnote-ref-font-size;
+    text-decoration: @footnote-ref-text-decoration;
+    font-style: @footnote-ref-font-style;
+    font-weight: @footnote-ref-font-weight;
+    margin-left: @footnote-ref-margin-left;
+}
+
+/***********************************************************/
+/* This is just to hide the title on the first page        */
+/* after the TOC with already has the image with the title */
+/***********************************************************/
+
+.unnumbered {
+    visibility:hidden;
+}
+img {
+    visibility:visible !important; /* override 'hidden' when images are part of unnumbered classes */
 }

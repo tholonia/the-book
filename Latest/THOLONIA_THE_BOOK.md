@@ -1,3 +1,33 @@
+---
+titlepage: false
+subtitle: 'The Existential Mechanics of Awareness'
+pubdate: 'January 15, 2020'
+title: 'THOLONIA'
+author: Duncan Stroud
+ISBN-10: 1703984900
+ISBN-13: 978-1703984903
+rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
+rights-desc: 'This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com). This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof. A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>. The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Noncommercial - You may not use the material for commercial purposes. Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
+
+status: 'Updated: Sun 04 Oct 2020 11:58:12 PM -03 v3.0.2'
+publisher: 'Welkin Wall Publishing'
+toc: true
+toc-title: 'Table of Contents'
+version:  3.0.2
+lang: en-US
+
+coverpage: true
+subject: philosphy,consciousness,energy,chaos,order,reason,creation,evolution
+cover-image: /home/jw/books/tholonia/Images/publish/6.69x9.61_Front-Only.jpg
+cover: /home/jw/books/tholonia/Images/publish/6.69x9.61_Front-Only.jpg
+
+logo_image: '![logo](../Images/titlepage.png)'
+
+# THE FOLLOWING ARE NOT USED
+
+titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
+pagetitle: 'THOLONIA 3.0.2'
+---
 <img src="../Images/titlepage.png" style="width:100%"/>
 
 # INTRODUCTION
@@ -17,15 +47,9 @@ The reason this book is open-sourced is to allow other&rsquo;s insights to be in
 
 **On a more mundane note…**
 
-For those readers who are sticklers about writing style conventions in the U.S., I have deliberately chosen to: Place punctuation (that is not part of a quote) outside of quotes.  The convention of placing punctuation inside the quotes was adopted due to the limitations of fixed width fonts in the pre-digital age.  The British convention has punctuation outside of quotes, but that is because they use single quotes, not double quotes.  To quote William Strunk and E. B. White, &ldquo;Typographical usage dictates the comma be inside the marks, though logically it seems not to belong there&rdquo;.  I agree, and take the side of Canadian poet, typographer and author Robert Bringhurst who bravely stated that it “makes no *typographic* difference” if quotation marks “follow commas and periods or precede them”. Also, I follow periods with two spaces, not one.  The two-space rule was also in place due to fixed width fonts, but unlike the punctuation-quotes rules, it has fierce opposition. Even the American Psychological Association has gone from officially recommending one space, then recommending one *or* two spaces, then back to two spaces (in their 6th addition), then back to one space (7th edition). This does not inspire confidence in their craft. I will be using two spaces because it has been shown that using two spaces after a period increases text processing ability[^1].  In addition, while it is customary to spell out numbers in a sentence, for the most part, numbers in a sentence will be shown as numerals. This is to allow for numerical values to be easily recognizable, which, like the above point, increases text processing overhead.
+Please read the Appendix I, &ldquo;ABOUT THIS BOOK&rdquo;, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find distracting.
 
-<img src="../Images/colorwheelchart.png" style="float:right;width:50%;"/>Finally, my apologies for the sometimes crude layout of the book in general. Once-upon-a-time I was myself a young typographer back in the days when the job often included the re-melting of lead "pigs" that were used to set the type using the Linotype machines of the day. Today, that drudgery has been replaced with endlessly tweaking semi-compatible markup languages such as Markdown, LaTex, PDF, HTML, CSS, and JavaScript (I was much better at melting lead "pigs").
 
-One of the challenges was how to get color images to appear meaningful in B&W eBook readers.  In some cases it was not possible, especially considering various readers use various different to deal with colors.  The sad and current state of eBook readers is that most do not support anything but the most basic formatting, and if that is often spotty, especially regarding blockquotes and lists, and even more so if the reader is older.  Using color is discouraged for eBook publishers, but possible here.
-
-To that end, here is a simple color wheel that will show you how your reader treats at least the six basic colors. The center shows the six shades of white to black.
-
-[^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 
 <div style='page-break-after: never; break-after: none;'></div>
 # 1: CHAOS
@@ -3035,7 +3059,7 @@ Here, the word &ldquo;coherence&rdquo; refers to its definition of &ldquo;*the 
 
 The results were impressive.
 
-##### <img src='../Images/medchart.png' style='width:100%'/></center>
+##### <img src='../Images/medchart.png' style='width:100%'/>
 
 This is only one study, so it is not definitive, but it is certainly supportive of the idea that directed intention, what the participants called *coherence*, and what we are calling *order* (as that is what unifies the parts into the whole), has an extended effect.  The explanation, according to the tholonic model, is that the directed energy of coherent thought altered the curves of various archetypes thereby altering the probability of where the &ldquo;work&rdquo; will produce the most order, or where and how energy will be expressed across a scope&rsquo;s spectrum.
 
@@ -4260,7 +4284,7 @@ Given that every number has a patterned relationship with one or more numbers, w
 
 There is some significant evidence that the I-Ching and the thologram are based on the same model. Given that the Kabbalah and the I-Ching are also based on the same model (which I will not elaborate on here as it is way too long), we can speculate that there is an underlying model that many perspectives of understanding are based on. I do not doubt that the thologram could be used as a tool for divination, mysticism, magic, alchemy, etc. as much as it could for chemistry, physics, electronics, and many other applications. Any truth that exists can be found in many different instances, and its truth is just as valid on one context as another. The only limitation is the creative imagination of the perceiver.
 
-However, if you still have doubts, what follows is a demonstration of  how the value of *pi* (&pi;) can be derived using the tholonic model along with the values shown here derived from the I-Ching.  We can also find *pi* in the thologram alone, as previously described, by using the total number of N-sources for all the real and virtual tholons for each generations.  While this technique uses the same method, it is using very different data. <img src='../Images/times7.png' style='width:100%'/></center>
+However, if you still have doubts, what follows is a demonstration of  how the value of *pi* (&pi;) can be derived using the tholonic model along with the values shown here derived from the I-Ching.  We can also find *pi* in the thologram alone, as previously described, by using the total number of N-sources for all the real and virtual tholons for each generations.  While this technique uses the same method, it is using very different data. <img src='../Images/times7.png' style='width:100%'/>
 
 ***Fig. h1*** shows the hexagram values as multiples of 7. ***Fig h2*** shows the same values, but shows how the same border values of 2, 3 and 5 apply to all the trigrams. Let&rsquo;s apply the tholonic model to these numbers.   We arrived at these numbers by taking the sums of the binary values for each side, as shown above, which gave us 14, 21 and 35, As these numbers are all multiples of 7, we use the multiple values.
 
@@ -4840,15 +4864,27 @@ With all that we have learned so far, let&rsquo;s attempt to decipher and transl
 [^204]: Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
 [^205]: <https://www.quantamagazine.org/entanglement-made-simple-20160428>
 
+<div style='page-break-after: never; break-after: none;'></div>
+# I - About This Book
+###### Technical information the reader may want to know
 
+## Writing Style
 
+For those readers who are sticklers about writing style conventions in the U.S., I have deliberately chosen to: Place punctuation (that is not part of a quote) outside of quotes.  The convention of placing punctuation inside the quotes was adopted due to the limitations of fixed width fonts in the pre-digital age.  The British convention has punctuation outside of quotes, but that is because they use single quotes, not double quotes.  To quote William Strunk and E. B. White, &ldquo;Typographical usage dictates the comma be inside the marks, though logically it seems not to belong there&rdquo;.  I agree, and take the side of Canadian poet, typographer and author Robert Bringhurst who bravely stated that it “makes no *typographic* difference” if quotation marks “follow commas and periods or precede them”. Also, I follow periods with two spaces, not one.  The two-space rule was also in place due to fixed width fonts, but unlike the punctuation-quotes rules, it has fierce opposition. Even the American Psychological Association has gone from officially recommending one space, then recommending one *or* two spaces, then back to two spaces (in their 6th addition), then back to one space (7th edition). This does not inspire confidence in their craft. I will be using two spaces because it has been shown that using two spaces after a period increases text processing ability[^1].  In addition, while it is customary to spell out numbers in a sentence, for the most part, numbers in a sentence will be shown as numerals. This is to allow for numerical values to be easily recognizable, which, like the above point, increases text processing overhead.
 
+## Low-Tech Issues
 
+<img src="../Images/colorwheelchart.png" style="float:right;width:50%;"/>My apologies for the sometimes crude layout of the book in general. Once-upon-a-time I was myself a young typographer back in the days when the job often included the re-melting of lead "pigs" that were used to set the type using the Linotype machines of the day. Today, that drudgery has been replaced with endlessly tweaking semi-compatible markup languages such as Markdown, LaTex, PDF, HTML, CSS, and JavaScript (I was much better at melting lead "pigs").
 
+One of the challenges was how to get color images to appear meaningful in B&W eBook readers.  In some cases it was not possible, especially considering various readers use various schemes to deal with colors.  The sad and current state of eBook readers is that most do not support anything but the most basic formatting, and even that is often spotty, especially regarding blockquotes and lists, and even more so if the reader is older.  Using color is discouraged for eBook publishers, but that is not possible in this book. Feel free to download the color PDF from <https://tholonia.github.io/the-book/>.
 
+To that end, here is a simple color wheel that will show you how your ereader treats at least the six basic colors. The center shows the six shades of white to black.
 
+## eBook Hell
 
+If you are reading this as an eBook, the chances that it will look especially ugly are quite high.  This is because many eBook reader manufacturers take it upon themselves to deliberately eliminate the layout that the author has developed and replaced it with their own generic (and IMHO, hideous) one-size-fits-all format.  The only upside to this that I can imagine, beside making everythign equally ugly, is that is frees the manufacurer form having to deal with more complex layouts.  There are ways around this.  For example, on the Kobo eBook Readers, if you put the a file called ```kobo-extras.css``` in the root directory of the ereader itself, and then import the ebook using the eBook software ```Calibre``` (and install the ```Calibre``` Kobo drivers), it will apply the correct style to the book on import (the file I used for my Kobo H20 can be downloaded from <https://github.com/tholonia/the-book/blob/master/Styles/kobo_extra.css>. More instructions here for the Kobo More instructions for Kobo at <http://www.mobileread.mobi/forums/showpost.php?p=2584056).  Personally I find this practice offensive to the author and the reader,  not to mention reinforcing the standards of banality. 
 
+[^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 
 
 
