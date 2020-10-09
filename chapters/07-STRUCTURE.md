@@ -481,7 +481,7 @@ This trigram of relationships are present in every instance of creation and will
 
 #### **Claim 48:** Static instances (stable patterns) form dynamic relationships (movement of energy).  Dynamic relationships  (movement of energy) form static instances (stable patterns).
 
-<img src='../Images/lorentz_force.png' style='float:right;width:50%'/>Notice that in the first example when we used the three points of *Parent*, *Child*, and *Peer*, these elements are static (nouns), and their relationships of *Negotiation*, *Definition*, and *Contribution* are dynamic (verbs).  Now when we use *Negotiation*, *Definition*, and *Contribution* as the three points, the relations between them are once again static.  Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic.  This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
+<img src='../Images/lorentz_force.png' style='float:right;width:30%'/>Notice that in the first example when we used the three points of *Parent*, *Child*, and *Peer*, these elements are static (nouns), and their relationships of *Negotiation*, *Definition*, and *Contribution* are dynamic (verbs).  Now when we use *Negotiation*, *Definition*, and *Contribution* as the three points, the relations between them are once again static.  Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic.  This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
 
 <center><img src='../Images/059-ruleexposure-4.png' style='width:100%'/></center>
 
@@ -1019,7 +1019,7 @@ Briefly, an electrical **resistor** is a component that can reduce the flow of c
 
 Let&rsquo;s  look at a simple RC circuit.
 
-<center><img src='../Images/rccircuit.png' style='width:80%'/></center>
+<center><img src='../Images/rccircuit.png' style='width:100%'/></center>
 
 We have two basic elements of a circuit, one that limits and divides, and one that collects and stores.  These two concepts are perfectly in line with the two basic concepts of *Definition* and *Contribution* as shown in the *Alternate View* above.
 
@@ -1059,7 +1059,9 @@ This opens the idea that were tholonic principles to be applied to such systems 
 
 There is one more significance to ***e*** that is purely tholonic and will no doubt annoy math purists, but is added here because of symmetry.  Referring back to how it was described that one point creates two points and two points created three points, when we created the second point we had a 1D line from *Negotiation* to *Definition*.  However, we also had a center and a radius, thereby defining a circle.  In this way, the first two points implies *pi*,  so were we to assign an implicit value to that 1D lines it would be *pi*.  If we also assign the first point, the N-state, as 0 and the 2^nd^ point as +1 as it is the addition of a new point, then we could assign the 3^rd^ point of *Contribution* -1, as it is returning to 0.  This makes the field within which new N-states can form along the spectrum of -1 to +1.  What value could we then assign to the line connecting points 3 and 1?  One candidate is ***i***, the square root of -1, not simply because it is returning a numerically inexpressible value to the source, but also because if this tholonic trigram represents the three values of ***e***, *&pi;*, and ***i***, we can construct what has been called the most elegant formula in math,  *<img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>+1=0*, or better stated here as *0-1=<img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>*.  These values are those attributed to the lines connecting the point, not the points themselves, so this would suggest that the value of the 4^th^ point, or *white-dot*, of a tetrahedron is -1 as *<img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>=-1*.  Of course, 0 represents the original N-state from which everything emerges.  In addition, as *e* represents time and *pi* represents space, we have the two dimension of time and space, plus the mysterious, inexpressible value of *i* and the introduction of a *complex* dimension of numbers (i.e.  complex numbers).
 
-<img src='../Images/Supercapacitors-vs-batteries-chart.png' style='float:right;width:50%'/>One last related note… remember that seemingly obscure reference to the Ragone plot shown in the batteries section?  We can use this same plot to show that new designs in capacitors far outperform batteries.  The relevance here is that the Ragone plot is quite compatible with tholonic principles, and the storage of energy (batteries, capacitors, air) is quite analogous to the *Contributing* qualities of the tholon, making the Ragone plot a potential model for tholons and for evaluating *Contributing* properties, be they in economics, society, or energy.
+<center><img src='../Images/Supercapacitors-vs-batteries-chart.png' style='width:80%'/></center>
+
+One last related note… remember that seemingly obscure reference to the Ragone plot shown in the batteries section?  We can use this same plot to show that new designs in capacitors far outperform batteries.  The relevance here is that the Ragone plot is quite compatible with tholonic principles, and the storage of energy (batteries, capacitors, air) is quite analogous to the *Contributing* qualities of the tholon, making the Ragone plot a potential model for tholons and for evaluating *Contributing* properties, be they in economics, society, or energy.
 
 ## Calculus
 
@@ -1080,11 +1082,11 @@ Calculus is another tetrahedral model that fits into the tholon nicely and could
 
 - **Uses the derivatives to calculate the area.**  The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality (described by two 1D measurements).  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points, the *Derivatives*).  The less separation (*Δx*), where *x* can be time, space, some numerical variable, etc.)  between these points, the more accurate the results.  The smaller *Δx*, the more points (*n*) we have.  The sum of these points is expressed as the inverse notation of above:
 
-<img src="../Images/math/347.svg" style="vertical-align:middle;height:30pt"/>
+<center><img src="../Images/math/347.svg" style="vertical-align:middle;height:30pt"/></center>
 
   … which simply means the sum of all the derivatives (*n*) staring from the first  (*n~1~*) up to the last (*n&infin;*), which will always be the inverse of the limit of the derivative, *1/0=*&infin; But because we are dealing with infinitesimally small pieces, we use the integral function:
 
-<img src="../Images/math/348.svg" style="vertical-align:middle;height:30pt"/>
+<center><img src="../Images/math/348.svg" style="vertical-align:middle;height:30pt"/></center>
 
   … which says that we have an infinitesimally small difference between points (*dx*) that exist between points *a* and *z*.
 

@@ -9,7 +9,7 @@ It may sound childish or even superstitious to suggest that archetypes can have 
 
 <center><img src='../Images/godtree.png' style='width:100%'/></center>
 
-(*Left: Lineage of the Greek Gods according to Gaius Julius Hyginus, a scholar born in 64 B.C. Right: one of many archetypes that represents the deity on the left.*)
+(*Top: Lineage of the Greek Gods according to Gaius Julius Hyginus, a scholar born in 64 B.C. Bottom: The one of many archetypes that represents the deity above.*)
 
 The Cambrian explosion is a good example of a world-changing reorganization of tholonic hierarchy and integration that took place over many millions of years 530 million years ago.  If you ask a historian what caused the Cambrian explosion, they will tell you it it was starbursts from the Milky Way, or genomic reorganization, or geochemical/environmental causes, such as photosynthesis which raised oxygen levels.  However, they will all agree that whatever the cause, there were many, many interlinked and codependent processes.  All these explanations are not really explanations, but rather descriptions; this happened, then that happened, then another thing happened causing more things to happen...  But why did it happen? In every answer to that question, the &ldquo;why&rdquo; is simply a description of the effects of some other cause, and when we don&rsquo;t know the cause, we hypothesize a cause that could explain the effects (which become the causes).  Many of these *theories of causes* turn out to be correct, as we would expect, considering that this reality is made *only* of effects, which serves as causes for more effects.
 

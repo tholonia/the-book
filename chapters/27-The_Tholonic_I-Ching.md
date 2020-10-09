@@ -458,7 +458,9 @@ This pattern only works on the cardinal values, and fails if we apply it to the 
 
 Now that we have these sequences, what do they mean?  Here are the explanations of the cardinal and transitional elements with the reasoning.
 
-### EARTH <img src='../Images/bc/trigram-b00.png' style='width:30px'/> 0
+### EARTH 
+
+<img src='../Images/bc/trigram-b00.png' style='width:60px'/> 0
 
 *EARTH* represents the foundation upon which everything is built as well as the resources from which they are built. It is cardinal, winter solstice, inward, the non-moving point between deflation and inflation.  Instance of this are **resources**, **foundations**, **support**.
 
@@ -470,7 +472,9 @@ The quadrant of EARTH <img src='../Images/bc/trigram-b00.png' style='width:30px'
 2. *Definition*: <img src='../Images/bc/yin.png' style='width:30px'/> The emerging definitions are determined by the whatever is acting upon it.
 3. *Contribution*: <img src='../Images/bc/yin.png' style='width:30px'/> The contribution of the yin is that is allows a yang to appear simply by its existence. It doesn&rsquo;t need to do anything, just as 0 implies 1 by its nothingness, especially when we consider that *0^0^*, or *nothingness^nothingness^* , = 1.
 
-### WATER <img src='../Images/bc/trigram-b02.png' style='width:30px'/> 2
+### WATER
+
+<img src='../Images/bc/trigram-b02.png' style='width:60px'/> 2
 
 *WATER* represents the movement from dark to light, yin to yang, lifelessness to life.  It is cardinal, spring equinox, ascending, the perfect balance of lessening yin and increasing yang. Instance of this are **electricity**, **nourishment**, **cleansing**, **rivers**.
 
@@ -482,7 +486,9 @@ The trigram shows the symbol of yang energy penetrating the yin at its core.
 2. *Definition*: <img src='../Images/bc/yang.png' style='width:30px'/> The movement of water is what gives it its power.
 3. *Contribution*: <img src='../Images/bc/yin.png' style='width:30px'/> The yielding quality of water that is its contributions. If always follows the path of least resistance, is used by every form of life and Nature itself, and is then returned, essentially unchanged. It takes nothing, and gives everything. It is the nature of growth and expansion.
 
-###  AIR <img src='../Images/bc/trigram-b07.png' style='width:30px'/> 7
+###  AIR
+
+<img src='../Images/bc/trigram-b07.png' style='width:60px'/> 7
 
 *AIR* represents the arena of growth and creation. What comes from the yin EARTH grows *into* the yang AIR. It holds all things in the Universe in place and is symbolic of spirit, which shows us a life expanding beyond our earthly limitations.  It is cardinal, summer solstice, outward, the non-moving point between inflation and deflation. Instance of this are **birth**, **exploration**, **imagination**.
 
@@ -494,7 +500,9 @@ The quadrant of AIR <img src='../Images/bc/trigram-b07.png' style='width:30px'/>
 2. *Definition*: <img src='../Images/bc/yang.png' style='width:30px'/> While the unknown is yin in nature, exploring it is yang, and it is only by exploring that definitions and limitations are discovered.
 3. *Contribution*: <img src='../Images/bc/yang.png' style='width:30px'/> The contribution of AIR is to open new doors and find new horizons.
 
-### FIRE <img src='../Images/bc/trigram-b05.png' style='width:30px'/> 5
+### FIRE
+
+<img src='../Images/bc/trigram-b05.png' style='width:60px'/> 5
 
 *FIRE* represents the quality that allows for manifestation, transforming idea to form. It is cardinal, fall equinox, descending, the perfect balance of lessening yang and increasing yin. Instance of this are **light**, **consumption**.
 
@@ -508,7 +516,9 @@ The quadrant of FIRE <img src='../Images/bc/trigram-b05.png' style='width:30px'/
 
 Here are the explanations of the transitional or dynamic interactions.
 
-### Release (AIR & FIRE ) <img src='../Images/bc/trigram-b06.png' style='width:30px'/> 6
+### Release (AIR & FIRE )
+
+<img src='../Images/bc/trigram-b06.png' style='width:60px'/> 6
 
 *Release* represents accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. It is the initial outward movement that leads to expression. Instances of this are **lightening**, **Big Bang**, **inspiration**.
 
@@ -520,7 +530,9 @@ The quadrant of AIR <img src='../Images/bc/trigram-b07.png' style='width:30px'/>
 2. *Definition*: <img src='../Images/bc/yang.png' style='width:30px'/> When yang meets yin it wants to release all of its energy and pushes against the limitations of the yin.
 3. *Contribution*: <img src='../Images/bc/yang.png' style='width:30px'/> The yang finds expression in FIRE as it consumes the yin.
 
-### Emptying (FIRE & EARTH) <img src='../Images/bc/trigram-b04.png' style='width:30px'/> 4
+### Emptying (FIRE & EARTH)
+
+<img src='../Images/bc/trigram-b04.png' style='width:60px'/> 4
 
 *Emptying* represents the dissipation and movement of energy via matter. It is the source of order out of chaos. It is the final outward deflation that returns to the initial chaos from which everything is born. Instances of this are **music**, **creation of the elements**, **death**.
 
@@ -532,7 +544,9 @@ The quadrant of FIRE <img src='../Images/bc/trigram-b05.png' style='width:30px'/
 2. *Definition*: <img src='../Images/bc/yin.png' style='width:30px'/> FIRE can only find expression in EARTH, just like energy can only be experienced via matter. Therefore, the limitations on the expression of FIRE are determined by the yin quality of EARTH.
 3. *Contribution*: <img src='../Images/bc/yang.png' style='width:30px'/> The restructuring of matter (EARTH) by energy (FIRE) is what brings everything into existence.
 
-### Filling (EARTH & WATER ) <img src='../Images/bc/trigram-b01.png' style='width:30px'/> 1
+### Filling (EARTH & WATER ) 
+
+<img src='../Images/bc/trigram-b01.png' style='width:60px'/> 1
 
 *Filling* represents form coming to life.  It is the initial inward inflation of a new cycle. Instance of this are **gestation**, **dark matter (expansion of the Universe)**, **artificial intelligence**.
 
@@ -544,7 +558,9 @@ The quadrant of EARTH <img src='../Images/bc/trigram-b00.png' style='width:30px'
 2. *Definition*: <img src='../Images/bc/yin.png' style='width:30px'/> The yang must fill the empty yin vessel of EARTH before it can express itself.
 3. *Contribution*: <img src='../Images/bc/yin.png' style='width:30px'/> The omnipresence of yang is the universal reservoir that can be tapped into from anywhere, not unlike the idea of the earth as the electrical ground for all electronics.
 
-### Collecting (WATER & AIR) <img src='../Images/bc/trigram-b03.png' style='width:30px'/> 3
+### Collecting (WATER & AIR)
+
+<img src='../Images/bc/trigram-b03.png' style='width:60px'/> 3
 
 *Collecting* represents the higher orders of structure that extend ever outward. It is the final internal inflation, the final preparation.  Instances of this are the **Internet**, **space-born viruses**, **Mongol Empire** .
 
@@ -630,7 +646,7 @@ Now we have a problem, because, as is shown in the above 1-level tree chart, we 
 
 The problem then is that there is no number that can be used to represent the parents.  So, we have to invent some numbers.  This is done all the time in math, for example *imaginary numbers* and even *pure imaginary numbers*.  These are numbers like *i*, the square root of -1.  Let&rsquo;s invent some imaginary numbers, but let&rsquo;s call them *primordial numbers*.
 
-<center><img src='../Images/number-chart.png' style='width:60%'/></center>
+<center><img src='../Images/number-chart.png' style='width:100%'/></center>
 
 We need a number that can be equal to two (or more) values at the same time but can only be expressed as one of these two values in real numbers, and whatever value is in one state, the other state has a different value, so no two states can share the same value. This is a familiar concept in quantum mechanics where we have the idea of spin and entanglement.  For an excellent and clear explanation of this subject, see Quantum Magazine&rsquo;s &ldquo;Entanglement Made Simple&rdquo; [^205]
 
@@ -711,7 +727,7 @@ We start with the 1^st^ line and move counter-clockwise, then continue with the 
 
   Of course, with these 4 trigrams we also have their 4 opposites to create the 8 trigrams of the I-Ching.  This is how the tholon defines all 8 trigrams.
 
-<center><img src='../Images/oivi-vioinet.png' style='width:80%'/></center>
+<center><img src='../Images/oivi-vioinet.png' style='width:100%'/></center>
 
 The reader may notice that it looks like we are cheating a bit here, because according to the tholonic pattern, the 4 and the 6 should be reversed, but here we are deliberately reversing the count direction of the inner triangle in accordance with the pairing requirements of the binary model (all opposites add to 7).  These values then are those that apply to the binary mode and not the same as those that apply to the tholonic model, even though they are in a tholonic context, but referring to the *continuous/split* image above, were they in the order of the tholon, the opposites would always equal 3 when subtracted.  Again, we have that 7/3 pattern appearing.
 
@@ -762,7 +778,7 @@ We have arrived at the first pair, the original 0 and 1, the parents of all thin
 
 Here is an alternative way of looking at this model. Notice how all the horizontal pairs of pink dots equal 7, and all the pairs of orange dots equals 3, and how descriptions are opposite in nature for every pair.
 
-<center><img src='../Images/btree-circ.png' style='width:50%'/></center>
+<center><img src='../Images/btree-circ.png' style='width:80%'/></center>
 
 With the introduction of bigrams, let&rsquo;s look at the order of the trigrams again.
 

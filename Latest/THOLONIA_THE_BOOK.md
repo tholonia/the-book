@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com). This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof. A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>. The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Noncommercial - You may not use the material for commercial purposes. Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Sun 04 Oct 2020 11:58:12 PM -03 v3.0.2'
+status: 'Updated: Thu 08 Oct 2020 11:54:22 PM -03 v3.0.5'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.0.2
+version:  3.0.5
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.0.2'
+pagetitle: 'THOLONIA 3.0.5'
 ---
 <img src="../Images/titlepage.png" style="width:100%"/>
 
@@ -1649,7 +1649,7 @@ This trigram of relationships are present in every instance of creation and will
 
 #### **Claim 48:** Static instances (stable patterns) form dynamic relationships (movement of energy).  Dynamic relationships  (movement of energy) form static instances (stable patterns).
 
-<img src='../Images/lorentz_force.png' style='float:right;width:50%'/>Notice that in the first example when we used the three points of *Parent*, *Child*, and *Peer*, these elements are static (nouns), and their relationships of *Negotiation*, *Definition*, and *Contribution* are dynamic (verbs).  Now when we use *Negotiation*, *Definition*, and *Contribution* as the three points, the relations between them are once again static.  Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic.  This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
+<img src='../Images/lorentz_force.png' style='float:right;width:30%'/>Notice that in the first example when we used the three points of *Parent*, *Child*, and *Peer*, these elements are static (nouns), and their relationships of *Negotiation*, *Definition*, and *Contribution* are dynamic (verbs).  Now when we use *Negotiation*, *Definition*, and *Contribution* as the three points, the relations between them are once again static.  Were we to go further and use the three new static concepts as points we would again have relationships that were dynamic.  This reversing back and forth between static and dynamic with each generation is a natural consequence of the creative process, as will see in more detail a bit further down.
 
 <center><img src='../Images/059-ruleexposure-4.png' style='width:100%'/></center>
 
@@ -2187,7 +2187,7 @@ Briefly, an electrical **resistor** is a component that can reduce the flow of c
 
 Let&rsquo;s  look at a simple RC circuit.
 
-<center><img src='../Images/rccircuit.png' style='width:80%'/></center>
+<center><img src='../Images/rccircuit.png' style='width:100%'/></center>
 
 We have two basic elements of a circuit, one that limits and divides, and one that collects and stores.  These two concepts are perfectly in line with the two basic concepts of *Definition* and *Contribution* as shown in the *Alternate View* above.
 
@@ -2227,7 +2227,9 @@ This opens the idea that were tholonic principles to be applied to such systems 
 
 There is one more significance to ***e*** that is purely tholonic and will no doubt annoy math purists, but is added here because of symmetry.  Referring back to how it was described that one point creates two points and two points created three points, when we created the second point we had a 1D line from *Negotiation* to *Definition*.  However, we also had a center and a radius, thereby defining a circle.  In this way, the first two points implies *pi*,  so were we to assign an implicit value to that 1D lines it would be *pi*.  If we also assign the first point, the N-state, as 0 and the 2^nd^ point as +1 as it is the addition of a new point, then we could assign the 3^rd^ point of *Contribution* -1, as it is returning to 0.  This makes the field within which new N-states can form along the spectrum of -1 to +1.  What value could we then assign to the line connecting points 3 and 1?  One candidate is ***i***, the square root of -1, not simply because it is returning a numerically inexpressible value to the source, but also because if this tholonic trigram represents the three values of ***e***, *&pi;*, and ***i***, we can construct what has been called the most elegant formula in math,  *<img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>+1=0*, or better stated here as *0-1=<img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>*.  These values are those attributed to the lines connecting the point, not the points themselves, so this would suggest that the value of the 4^th^ point, or *white-dot*, of a tetrahedron is -1 as *<img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>=-1*.  Of course, 0 represents the original N-state from which everything emerges.  In addition, as *e* represents time and *pi* represents space, we have the two dimension of time and space, plus the mysterious, inexpressible value of *i* and the introduction of a *complex* dimension of numbers (i.e.  complex numbers).
 
-<img src='../Images/Supercapacitors-vs-batteries-chart.png' style='float:right;width:50%'/>One last related note… remember that seemingly obscure reference to the Ragone plot shown in the batteries section?  We can use this same plot to show that new designs in capacitors far outperform batteries.  The relevance here is that the Ragone plot is quite compatible with tholonic principles, and the storage of energy (batteries, capacitors, air) is quite analogous to the *Contributing* qualities of the tholon, making the Ragone plot a potential model for tholons and for evaluating *Contributing* properties, be they in economics, society, or energy.
+<center><img src='../Images/Supercapacitors-vs-batteries-chart.png' style='width:80%'/></center>
+
+One last related note… remember that seemingly obscure reference to the Ragone plot shown in the batteries section?  We can use this same plot to show that new designs in capacitors far outperform batteries.  The relevance here is that the Ragone plot is quite compatible with tholonic principles, and the storage of energy (batteries, capacitors, air) is quite analogous to the *Contributing* qualities of the tholon, making the Ragone plot a potential model for tholons and for evaluating *Contributing* properties, be they in economics, society, or energy.
 
 ## Calculus
 
@@ -2248,11 +2250,11 @@ Calculus is another tetrahedral model that fits into the tholon nicely and could
 
 - **Uses the derivatives to calculate the area.**  The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality (described by two 1D measurements).  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points, the *Derivatives*).  The less separation (*Δx*), where *x* can be time, space, some numerical variable, etc.)  between these points, the more accurate the results.  The smaller *Δx*, the more points (*n*) we have.  The sum of these points is expressed as the inverse notation of above:
 
-<img src="../Images/math/347.svg" style="vertical-align:middle;height:30pt"/>
+<center><img src="../Images/math/347.svg" style="vertical-align:middle;height:30pt"/></center>
 
   … which simply means the sum of all the derivatives (*n*) staring from the first  (*n~1~*) up to the last (*n&infin;*), which will always be the inverse of the limit of the derivative, *1/0=*&infin; But because we are dealing with infinitesimally small pieces, we use the integral function:
 
-<img src="../Images/math/348.svg" style="vertical-align:middle;height:30pt"/>
+<center><img src="../Images/math/348.svg" style="vertical-align:middle;height:30pt"/></center>
 
   … which says that we have an infinitesimally small difference between points (*dx*) that exist between points *a* and *z*.
 
@@ -3033,7 +3035,7 @@ It may sound childish or even superstitious to suggest that archetypes can have 
 
 <center><img src='../Images/godtree.png' style='width:100%'/></center>
 
-(*Left: Lineage of the Greek Gods according to Gaius Julius Hyginus, a scholar born in 64 B.C. Right: one of many archetypes that represents the deity on the left.*)
+(*Top: Lineage of the Greek Gods according to Gaius Julius Hyginus, a scholar born in 64 B.C. Bottom: The one of many archetypes that represents the deity above.*)
 
 The Cambrian explosion is a good example of a world-changing reorganization of tholonic hierarchy and integration that took place over many millions of years 530 million years ago.  If you ask a historian what caused the Cambrian explosion, they will tell you it it was starbursts from the Milky Way, or genomic reorganization, or geochemical/environmental causes, such as photosynthesis which raised oxygen levels.  However, they will all agree that whatever the cause, there were many, many interlinked and codependent processes.  All these explanations are not really explanations, but rather descriptions; this happened, then that happened, then another thing happened causing more things to happen...  But why did it happen? In every answer to that question, the &ldquo;why&rdquo; is simply a description of the effects of some other cause, and when we don&rsquo;t know the cause, we hypothesize a cause that could explain the effects (which become the causes).  Many of these *theories of causes* turn out to be correct, as we would expect, considering that this reality is made *only* of effects, which serves as causes for more effects.
 
@@ -4428,7 +4430,9 @@ This pattern only works on the cardinal values, and fails if we apply it to the 
 
 Now that we have these sequences, what do they mean?  Here are the explanations of the cardinal and transitional elements with the reasoning.
 
-### EARTH <img src='../Images/bc/trigram-b00.png' style='width:30px'/> 0
+### EARTH 
+
+<img src='../Images/bc/trigram-b00.png' style='width:60px'/> 0
 
 *EARTH* represents the foundation upon which everything is built as well as the resources from which they are built. It is cardinal, winter solstice, inward, the non-moving point between deflation and inflation.  Instance of this are **resources**, **foundations**, **support**.
 
@@ -4440,7 +4444,9 @@ The quadrant of EARTH <img src='../Images/bc/trigram-b00.png' style='width:30px'
 2. *Definition*: <img src='../Images/bc/yin.png' style='width:30px'/> The emerging definitions are determined by the whatever is acting upon it.
 3. *Contribution*: <img src='../Images/bc/yin.png' style='width:30px'/> The contribution of the yin is that is allows a yang to appear simply by its existence. It doesn&rsquo;t need to do anything, just as 0 implies 1 by its nothingness, especially when we consider that *0^0^*, or *nothingness^nothingness^* , = 1.
 
-### WATER <img src='../Images/bc/trigram-b02.png' style='width:30px'/> 2
+### WATER
+
+<img src='../Images/bc/trigram-b02.png' style='width:60px'/> 2
 
 *WATER* represents the movement from dark to light, yin to yang, lifelessness to life.  It is cardinal, spring equinox, ascending, the perfect balance of lessening yin and increasing yang. Instance of this are **electricity**, **nourishment**, **cleansing**, **rivers**.
 
@@ -4452,7 +4458,9 @@ The trigram shows the symbol of yang energy penetrating the yin at its core.
 2. *Definition*: <img src='../Images/bc/yang.png' style='width:30px'/> The movement of water is what gives it its power.
 3. *Contribution*: <img src='../Images/bc/yin.png' style='width:30px'/> The yielding quality of water that is its contributions. If always follows the path of least resistance, is used by every form of life and Nature itself, and is then returned, essentially unchanged. It takes nothing, and gives everything. It is the nature of growth and expansion.
 
-###  AIR <img src='../Images/bc/trigram-b07.png' style='width:30px'/> 7
+###  AIR
+
+<img src='../Images/bc/trigram-b07.png' style='width:60px'/> 7
 
 *AIR* represents the arena of growth and creation. What comes from the yin EARTH grows *into* the yang AIR. It holds all things in the Universe in place and is symbolic of spirit, which shows us a life expanding beyond our earthly limitations.  It is cardinal, summer solstice, outward, the non-moving point between inflation and deflation. Instance of this are **birth**, **exploration**, **imagination**.
 
@@ -4464,7 +4472,9 @@ The quadrant of AIR <img src='../Images/bc/trigram-b07.png' style='width:30px'/>
 2. *Definition*: <img src='../Images/bc/yang.png' style='width:30px'/> While the unknown is yin in nature, exploring it is yang, and it is only by exploring that definitions and limitations are discovered.
 3. *Contribution*: <img src='../Images/bc/yang.png' style='width:30px'/> The contribution of AIR is to open new doors and find new horizons.
 
-### FIRE <img src='../Images/bc/trigram-b05.png' style='width:30px'/> 5
+### FIRE
+
+<img src='../Images/bc/trigram-b05.png' style='width:60px'/> 5
 
 *FIRE* represents the quality that allows for manifestation, transforming idea to form. It is cardinal, fall equinox, descending, the perfect balance of lessening yang and increasing yin. Instance of this are **light**, **consumption**.
 
@@ -4478,7 +4488,9 @@ The quadrant of FIRE <img src='../Images/bc/trigram-b05.png' style='width:30px'/
 
 Here are the explanations of the transitional or dynamic interactions.
 
-### Release (AIR & FIRE ) <img src='../Images/bc/trigram-b06.png' style='width:30px'/> 6
+### Release (AIR & FIRE )
+
+<img src='../Images/bc/trigram-b06.png' style='width:60px'/> 6
 
 *Release* represents accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. It is the initial outward movement that leads to expression. Instances of this are **lightening**, **Big Bang**, **inspiration**.
 
@@ -4490,7 +4502,9 @@ The quadrant of AIR <img src='../Images/bc/trigram-b07.png' style='width:30px'/>
 2. *Definition*: <img src='../Images/bc/yang.png' style='width:30px'/> When yang meets yin it wants to release all of its energy and pushes against the limitations of the yin.
 3. *Contribution*: <img src='../Images/bc/yang.png' style='width:30px'/> The yang finds expression in FIRE as it consumes the yin.
 
-### Emptying (FIRE & EARTH) <img src='../Images/bc/trigram-b04.png' style='width:30px'/> 4
+### Emptying (FIRE & EARTH)
+
+<img src='../Images/bc/trigram-b04.png' style='width:60px'/> 4
 
 *Emptying* represents the dissipation and movement of energy via matter. It is the source of order out of chaos. It is the final outward deflation that returns to the initial chaos from which everything is born. Instances of this are **music**, **creation of the elements**, **death**.
 
@@ -4502,7 +4516,9 @@ The quadrant of FIRE <img src='../Images/bc/trigram-b05.png' style='width:30px'/
 2. *Definition*: <img src='../Images/bc/yin.png' style='width:30px'/> FIRE can only find expression in EARTH, just like energy can only be experienced via matter. Therefore, the limitations on the expression of FIRE are determined by the yin quality of EARTH.
 3. *Contribution*: <img src='../Images/bc/yang.png' style='width:30px'/> The restructuring of matter (EARTH) by energy (FIRE) is what brings everything into existence.
 
-### Filling (EARTH & WATER ) <img src='../Images/bc/trigram-b01.png' style='width:30px'/> 1
+### Filling (EARTH & WATER ) 
+
+<img src='../Images/bc/trigram-b01.png' style='width:60px'/> 1
 
 *Filling* represents form coming to life.  It is the initial inward inflation of a new cycle. Instance of this are **gestation**, **dark matter (expansion of the Universe)**, **artificial intelligence**.
 
@@ -4514,7 +4530,9 @@ The quadrant of EARTH <img src='../Images/bc/trigram-b00.png' style='width:30px'
 2. *Definition*: <img src='../Images/bc/yin.png' style='width:30px'/> The yang must fill the empty yin vessel of EARTH before it can express itself.
 3. *Contribution*: <img src='../Images/bc/yin.png' style='width:30px'/> The omnipresence of yang is the universal reservoir that can be tapped into from anywhere, not unlike the idea of the earth as the electrical ground for all electronics.
 
-### Collecting (WATER & AIR) <img src='../Images/bc/trigram-b03.png' style='width:30px'/> 3
+### Collecting (WATER & AIR)
+
+<img src='../Images/bc/trigram-b03.png' style='width:60px'/> 3
 
 *Collecting* represents the higher orders of structure that extend ever outward. It is the final internal inflation, the final preparation.  Instances of this are the **Internet**, **space-born viruses**, **Mongol Empire** .
 
@@ -4600,7 +4618,7 @@ Now we have a problem, because, as is shown in the above 1-level tree chart, we 
 
 The problem then is that there is no number that can be used to represent the parents.  So, we have to invent some numbers.  This is done all the time in math, for example *imaginary numbers* and even *pure imaginary numbers*.  These are numbers like *i*, the square root of -1.  Let&rsquo;s invent some imaginary numbers, but let&rsquo;s call them *primordial numbers*.
 
-<center><img src='../Images/number-chart.png' style='width:60%'/></center>
+<center><img src='../Images/number-chart.png' style='width:100%'/></center>
 
 We need a number that can be equal to two (or more) values at the same time but can only be expressed as one of these two values in real numbers, and whatever value is in one state, the other state has a different value, so no two states can share the same value. This is a familiar concept in quantum mechanics where we have the idea of spin and entanglement.  For an excellent and clear explanation of this subject, see Quantum Magazine&rsquo;s &ldquo;Entanglement Made Simple&rdquo; [^205]
 
@@ -4681,7 +4699,7 @@ We start with the 1^st^ line and move counter-clockwise, then continue with the 
 
   Of course, with these 4 trigrams we also have their 4 opposites to create the 8 trigrams of the I-Ching.  This is how the tholon defines all 8 trigrams.
 
-<center><img src='../Images/oivi-vioinet.png' style='width:80%'/></center>
+<center><img src='../Images/oivi-vioinet.png' style='width:100%'/></center>
 
 The reader may notice that it looks like we are cheating a bit here, because according to the tholonic pattern, the 4 and the 6 should be reversed, but here we are deliberately reversing the count direction of the inner triangle in accordance with the pairing requirements of the binary model (all opposites add to 7).  These values then are those that apply to the binary mode and not the same as those that apply to the tholonic model, even though they are in a tholonic context, but referring to the *continuous/split* image above, were they in the order of the tholon, the opposites would always equal 3 when subtracted.  Again, we have that 7/3 pattern appearing.
 
@@ -4732,7 +4750,7 @@ We have arrived at the first pair, the original 0 and 1, the parents of all thin
 
 Here is an alternative way of looking at this model. Notice how all the horizontal pairs of pink dots equal 7, and all the pairs of orange dots equals 3, and how descriptions are opposite in nature for every pair.
 
-<center><img src='../Images/btree-circ.png' style='width:50%'/></center>
+<center><img src='../Images/btree-circ.png' style='width:80%'/></center>
 
 With the introduction of bigrams, let&rsquo;s look at the order of the trigrams again.
 
@@ -4882,7 +4900,7 @@ To that end, here is a simple color wheel that will show you how your ereader tr
 
 ## eBook Hell
 
-If you are reading this as an eBook, the chances that it will look especially ugly are quite high.  This is because many eBook reader manufacturers take it upon themselves to deliberately eliminate the layout that the author has developed and replaced it with their own generic (and IMHO, hideous) one-size-fits-all format.  The only upside to this that I can imagine, beside making everythign equally ugly, is that is frees the manufacurer form having to deal with more complex layouts.  There are ways around this.  For example, on the Kobo eBook Readers, if you put the a file called ```kobo-extras.css``` in the root directory of the ereader itself, and then import the ebook using the eBook software ```Calibre``` (and install the ```Calibre``` Kobo drivers), it will apply the correct style to the book on import (the file I used for my Kobo H20 can be downloaded from <https://github.com/tholonia/the-book/blob/master/Styles/kobo_extra.css>. More instructions here for the Kobo More instructions for Kobo at <http://www.mobileread.mobi/forums/showpost.php?p=2584056).  Personally I find this practice offensive to the author and the reader,  not to mention reinforcing the standards of banality. 
+If you are reading this as an eBook, the chances that it will look especially ugly are quite high.  This is because many eBook reader manufacturers take it upon themselves to deliberately eliminate the layout that the author has developed and replaced it with their own generic (and IMHO, hideous) one-size-fits-all format.  The only upside to this that I can imagine, beside making everythign equally ugly, is that is frees the manufacurer form having to deal with more complex layouts.  There are ways around this.  For example, on the Kobo eBook Readers, if you put the a file called ```kobo-extras.css``` in the root directory of the ereader itself, and then import the ebook using the eBook software ```Calibre``` (and install the ```Calibre``` Kobo drivers), it will apply the correct style to the book on import (the file I used for my Kobo H20 can be downloaded from <https://github.com/tholonia/the-book/blob/master/Styles/kobo_extra.css>. More instructions here for the Kobo More instructions for Kobo at <http://www.mobileread.mobi/forums/showpost.php?p=2584056>.  Personally I find this practice offensive to the author and the reader,  not to mention reinforcing the standards of banality. 
 
 [^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 
