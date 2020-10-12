@@ -21,6 +21,39 @@ From the tholonic perspective, there are three types of causes.
 
 The answer to &ldquo;Why&rdquo; to the question of the Cambrian explosion, or any event for that matter, big or small, across all contexts, is that it was the most efficient and stable expression of energy at the time that was compatible with the intentions of all the contributing tholons.
 
+## Sensing Intention
+
+The idea as that plants, and presumably other life forms, are sensitive to the feelings and intentions of others their sphere of influence is not a new idea.  There still exists debate as to  the validity of the *Backster Effect*[^300] and popular ideas, such as those in the book *The Secret Life of Plants*, but at the very least, this is a area worth of more investigation.  The tholonic view is that everything that exists is part of a *Vast Active Living Intelligence System* (to steal a term coined by author Phillip K. Dick) that we are calling the Thologram, and consequently, everything *must* be connected to everything else in some way and form.  As our knowledge and our ability to share that knowledge expand, our understanding of the reality so too will expand, and in many different directions.  Multiple theories, philosophies, practices, will not only emerge, but each will have their own body of evidence supporting that model. Come will flourish and other will wither away. This is the evolution of perspective.  
+
+Similar to the "Can you prove Australia exists?" problem, at some point we need to choose what or who to *believe* as true or not. While the Backster Effect is soundly grounded the tholonic principles, that alone is not enough to accept it as real.  However, comparing the works debunking the Backster Effect to the work that supports is.  Perhaps the most convincing support comes from one of the more ingenious scientists of the 20^th^ century, Marcel Vogel.    
+
+Marcel Vogel  (1917 - 1991) was a research scientist for IBM’s San Jose facility for 27 years and was granted a number of patents, from hard-disk magnetic coatings to egg testing.  At age six he was pronounced dead from double lobar pneumonia. He claimed that while he was &ldquo;dead&rdquo; he experienced a light and a sense of love and well being that was over- whelming, and this formed the underlying fabric of his life and beliefs. 
+
+With the aids of IBM's state-of-the-art equipment, he replicated the Backster Effect.  Below is the polygraph results that he said made him a &ldquo;believer&rdquo;.
+
+
+
+<img src='../Images/Cleve_Backster_2.png' style='width:100%'/>
+
+
+
+Vogel even lectured at IBM on the subject of "Do Plant Have Emotions?", which, in 1969, was a radical concept.  He experimented with plants for some time and discovered a number of very odd and &ldquo;unscientific&rdquo; facts.  For example; 
+
+
+
+- It was observed that when he released his breath slowly there was virtually no response from the plant, but when he pulsed his breath through the nostrils, as he held a thought in mind, the plant would respond dramatically. 
+- The plant's response was the same regardless of distance, as the results were the same when he was in San Jose (where his lab and the plant were), or in Prague, Czechoslovakia, suggesting that the inverse square rule of incoherent energy dispersion (<img src="../Images/invsqlaw.png" style="width:200px"/>) does not apply to coherent thought.  *Incoherent* energy is any energy that is diffuse, like the sun, or light bulbs, or just about any light source other that a laser, which is *coherent*.
+- Plant appeared to respond more to the threat of damage than to the actual damage itself.
+- Plants appeared to have many of the same properties as batteries, especially when it came to their interactions with thoughts.
+- It was observed that the attitude, or mind-set, of the experimenter had a measurable effect upon the test-results.  This might shed some light on the inconsistent result of the &ldquo;water memory&rdquo; experiments of Jacques Benveniste, as related previously.
+- He concluded from these experiments that he “learned that there is energy connected with thought. Thought can be pulsed and the energy connected with it becomes coherent and has a laser-like power.”
+
+Because of his young near-death-experience, Marcel believed that the greatest cohering agent is love.  This may be correct.  The tholonic view is that *intention* is the basis of reality and creation, but nothing is said about what that intention is because the tholonic model suggests that *any* intention is equally valid.  However, it is clear that some intentions are more effective that others.
+
+Such ideas did not endear him to the scientific community, but this discovery opened many new doors of investigation for Marcel, especially in the areas crystals and water, with some very impressive (anecdotal) results.  Needless to say, this not only set him apart from his fellow scientists, but ensured his obscurity.
+
+
+
 ## Maharishi Effect
 
 Given the general direction of mainstream science, we do not see a lot of investigation into how thought affects external reality, but some do exist *(see items 3 and 4 in "Other Experiments" list below)*.  We will look at one research report here, *&ldquo;Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.  C.: Results of the National Demonstration Project, June-July 1993&rdquo;*[^160] published in the journal *&ldquo;Social Indicators Research.&rdquo;*
@@ -154,3 +187,4 @@ On a related note, keep an eye on the research into what is essentially the coll
 [^175]: Orkin, Jeffrey David. “**Collective Artificial Intelligence: Simulated Role-playing from Crowdsourced Data.**” Master’s thesis, MASSACHUSETTS INSTITUTE OF TECHNOLOGY, 2013. Accessed May 30, 2016. http://alumni.media.mit.edu/~jorkin/papers/orkin_phd_thesis_2013.pdf.
 [^176]: Fisher, Len. **The Perfect Swarm: The Science of Complexity in Everyday Life.** New York: Basic Books, 2009.
 [^177]: Jef D. Boeke,George Church, Andrew Hessel, Nancy J. Kelley, Adam Arkin, Yizhi Cai, Rob Carlson, Aravinda Chakravarti, Virginia W. Cornish, Liam Holt, Farren J. Isaacs, Todd Kuiken, Marc Lajoie, Tracy Lessor, Jeantine Lunshof, Matthew T. Maurano, Leslie A. Mitchell, Jasper Rine, Susan Rosser, Neville E. Sanjana, Pamela A. Silver, David Valle, Harris Wang, Jeffrey C. Way, Luhan Yang. “**The Genome Project–Write.**” Science. June 2, 2016. Accessed June 10, 2016. doi: 10.1126/science.aaf6850. http://science.sciencemag.org/content/early/2016/06/03/science.aaf6850.
+[^300]: Backster, Cleve & Karron, Db. (1968). Evidence of a Primary Perception In Plant Life. 10. 

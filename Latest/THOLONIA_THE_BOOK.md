@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book. This means that anyone can contribute changes or updates. Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com). This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof. A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>. The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. Noncommercial - You may not use the material for commercial purposes. Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits. Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation. No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Thu 08 Oct 2020 11:54:22 PM -03 v3.0.5'
+status: 'Updated: Mon 12 Oct 2020 05:26:39 PM -03 v3.1.3'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.0.5
+version:  3.1.3
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.0.5'
+pagetitle: 'THOLONIA 3.1.3'
 ---
 <img src="../Images/titlepage.png" style="width:100%"/>
 
@@ -1815,7 +1815,7 @@ You&rsquo;ll notice that there are six sets of trigrams that are yellow (or a li
 
 ***Fig.  a5***.  If we go ahead and form the tetrahedrons we end up with a series of tetrahedrons connected at the corners, some pointing forward and some pointing away (the more faded ones).  You notice that every odd numbered row (rows 1,3,5,7) are all *forward* trigrams (trigrams with blue parents), which we&rsquo;ll refer to as *real*, a term taken from the world of holography to indicate that the image is projecting in front of the film.  Likewise, all even-numbered rows (rows 2,4,6) are pointing in the opposite direction (trigrams with yellow parents).  We&rsquo;ll call these *virtual* tholons, a term also taken from the world of holography, referring to an image that *virtually* exists behind the holographic plate, rather than floating out in front of it.  For every pair of rows (1+2, 3+4, 5+6) there are an equal number of real and virtual tholons.
 
-This may look familiar to a mineral chemist, as this is the exact same structure as silicon dioxide crystal *tridymite*, which is quartz, or silicon oxide, but as temperatures between 870° and 1,470° C (1,598° and 2,678° F), shown below with  two types of *tridymite* molecules.
+This may look familiar to a mineral chemist, as this is the exact same structure as silicon dioxide crystal *tridymite*, which is a form of quartz, shown below with  two types of *tridymite* molecules. Other silica-based oxides also share similar structure, which are mentions later in this chapter when we look at how water also shares this structure.
 
 <center><img src='../Images/cristobalite.png' style='width:100%'/></center>
 
@@ -1913,13 +1913,41 @@ When we speak of archetypes in the context of tholons we are using a more genera
 
 > The ideal expression of a set of constraints that can be tholonically expressed.
 
+<img src="../Images/leaves-abc-pre.png" style="float:right;width:35%"/>Here is a good example of a how one archetype is expressed though different contexts.  The archetypes is based on the simple model previously described and shown in the diagram on the right. We begin with a 0-dimension point.  This point moves into the 1-dimensional space, which creates a line. In figures below, we show this line as the (black) horizontal diameter of a circle.  The radius is 90, which is equal to the number of degrees that are required to describe a 2-dimensional plane. This 1-dimensional existence then moves beyond the 1-dimensional space and into the 2D space. That movement will be expressed in both dimensions, just as the 0D&rightarrow;1D was expressed in both directions of a 1D space (left and right, or positive and negative).  This means there will be a movement along the 1D X-axis, and an equivalent movement along the 2^nd^ dimension of the Y axis.  However, in this model, any movement shall always remain centered around the originating 0D point from which it started.  
+
+To illustrate this, we will move the horizontal diameter line 5 units to the right, and rotate it around its center point by 5&deg;. This is the first red line in ***Fig. 1***.  Now we see that this line of off-center. Where before, as a horizontal line, there were 90 on the left-of-center and 90 on the right. Now it is 85 on the left and 105 on the right.  It continues its journey into the 2^nd^ dimension by moving another 5 units to the right and another 5&deg; rotation, and it continues to do this until the line returns to its starting position of being horizontal.
+
+In Figure 1, the outline of the progression is shown, as well as the outline of the original center points which are shown as yellow dots.
+
+<img src="../Images/leaves-abc.png" style="width:100%"/>
+
+
+
+What is interesting about this shape is how it so perfectly describes archetypal shape of many thing, from leaves, fruits and the seeds of life to number theory, fractals and even the human brain and pineal gland.  The reason this is interesting is because we have describes a very simple model that we would expect to see in nature, and because this model can make successful predictions we can say there is a valid hypothesis.  What are these salient points of the model?
+
+- Everything begins (emerges, evolves or grows) from a point of 0-dimensional nothingness into a 1-dimensional space, and from there into a higher dimensional spaces.
+- Expressions in an dimensional space will utilize all available dimensions; i.e. if given the nature and scope of an instance that is will move X, then in a 1-dimensional space will will move X in one dimensions. In a 2 dimensional space it will move X in 2 dimensions, etc. In out example, out like moved "5". In the 1-dimensional space that was 5 units of 1D measure, and in the 2-dimensional space, it rotates 5&deg;.
+- The point of origin (0D point) remains the center point around which something instantiates, but its virtual location in the lines delineates a boundary that has significance. 
+
+<img src="../Images/heartsilp.png" style="float:right;width:25%"/>*The silphion plant is also a similar shape, similar to the strawberry, but with an interesting historical and cultural footnote as its shape  is the origin of our traditional heart symbol.   As well as being known to cure many ailments, it was a natural contraceptive, and so was associated with love and passion. Not only was the plant worth its weight in silver, the Romans kept 1,500 kilos of it in the treasury as a hedge. Coins were minted with the image the the silphion seed, which had the same shape. Sadly, that particular variety was farmed into extinction, with the last known stalk given to Emperor Nero, as the legend goes.*
+
+
+
+Here, and throughout the entire book for the most part, we are looking at only the the five primary archetypes:
+
+<img src="../Images/point-dim.png" style="width:60%"/>
+
+For the sake of completeness, here is what the the lines look like when they complete a full 360&deg;:
+
+<center><img src="../Images/ruler-circle-07.png" style="width:40%"/></center>
+
 A circle, for example, is the ideal expression of the rule &ldquo;the locus of all points are equidistant from a central point&rdquo;.  This is a Platonic archetype.  A Jungian archetype might be the personification that tends to represent what Jung called a &ldquo;primordial image&rdquo;, and it was this understanding that lead him to the ideas of a*nima/animus, the self, the shadow*, and *the persona* but also shed light on the classic archetypes such as *wise old man, the child, the mother, the maiden*, etc.  This was later expanded to *Neo-Jungian* archetypes such as *caregiver, explorer, jester, rebel, citizen, hero, lover, sage, creator, innocent, magician,* and *sovereign*.  Not surprisingly, these twelve archetypes are similar to the those found in astrology.  This is because Jung recognized astrology as a system of archetypes, adopting and reforming many of its concepts into modern psychology.
 
 But, surely, not all persons, or personalities, can be defined by rules?  From the tholonic perspective, they can be and are, but these rules, as you will see, are far beyond our current ability to fully grasp.  This *must* be the case if all that exists are tholonic instances and tholons are defined by their definitions, creations, and contributions.
 
 Tholonic instances are easier to understand when we look at isolated archetypes.  It is easy to understand a square block is an expression of a archetypal cube, but what of a melting snowball?  At what point does it stop being an expression of a sphere?  From the tholonic perspective, never.  The snowball came into existence as a result of many tholons cooperating and competing, exerting forces and limits in such a way that a snowball could form.  The snowball changes form as these tholonic forces change due to waxing or waning circumstances that tend to reinforce some forces and diminishing others.  Each of these tholonic forces is an archetype because each tholon *is* an archetype.  As these archetypal forces change, interact, negotiate, compete, the resulting form will always be the most efficient expression of the state of those forces.  In other words, everything that exists is as perfect an expression of its archetypes that is possible, but everything that exists is made up of many, many tholons or archetypes, so what we see is a amalgamation of countless archetypes that have managed to create a stable instance.  Some of these amalgamations will become archetypes and parents of archetypes themselves.  Perhaps the only pure, unamalgamated archetypes that exist are the concepts of *something* and *nothing*.
 
-So, when you see something that looks imperfect, remember that it *is* perfect, it&rsquo;s just that you are not aware of all the archetypal forces that are making it perfect.
+So, when you see something that looks imperfect, remember that it *is* perfect, it&rsquo;s just that you are not aware of all the archetypal forces that are making it the way it is.
 
 #### **Claim 49:** Everything that exists *must* be perfect.
 
@@ -1970,7 +1998,7 @@ OK, that&rsquo;s enough geometry.  let&rsquo;s look at some chemistry.
 
 We mentioned above that the first instance of matter would be tetrahedral, at least conceptually, but we also stated that form, being an instantiation of the laws of form, would follow that model, meaning we should expect to see tetrahedral structures as one of the building blocks of reality.  And guess what? We do! But with a twist.
 
-The actual first instance of matter are the elements, but no element has a tetrahedral structure when it is isolated.  It is the bonds between elements that create the tetrahedral structure.  In the tholonic model, the individual elements exist at the first level of the thologram, which are the first tholons created by the folding of the 2D &ldquo;map&rdquo; and are shown as the numerous and small tetrahedrons upon which ever-larger tetrahedral structures emerge from.  While these elements may be not be tetrahedral in form, they are in concept as they are tholonic and therefore built upon tholonic, or tetrahedral, rules.  We don;t see tetrahedral forms in 3D structures until the first iteration that emerges.  A single *H~2~O* molecule is not a tetrahedron in form, it is a trigram.  Water, however, is tetrahedral.
+The actual first instance of matter are the elements, but no element has a tetrahedral structure when it is isolated.  It is the bonds between elements that create the tetrahedral structure.  In the tholonic model, the individual elements exist at the first level of the thologram, which are the first tholons created by the folding of the 2D &ldquo;map&rdquo; and are shown as the numerous and small tetrahedrons upon which ever-larger tetrahedral structures emerge from.  While these elements may be not be tetrahedral in form, they are in concept as they are tholonic and therefore built upon tholonic, or tetrahedral, rules.  We don't see tetrahedral forms in 3D structures until the first iteration that emerges.  A single *H~2~O* molecule is not a tetrahedron in form, it is a trigram.  Water, however, is tetrahedral.
 
 <center><img src='../Images/084-azotosome.png' style='width:100%'/> </center>
 
@@ -2327,13 +2355,17 @@ OK, I know I probably lost some of the readers with this last sentence.  If you 
 
 To the dogmatically skeptical, anything that challenges the current world view is &ldquo;swarming with worms of heretical perversity&rdquo;. It doesn&rsquo;t matter if a new idea, in this case, structured water, has vast amounts of scientific research and support from highly accredited professionals and ample evidence one can find by researching the pioneers and leaders in the field, many with a lifetime of contributions and dozens of Chairs, Fellows, and Adjuncts with Accolades of their life&rsquo;s work[^78], as well as hundreds of papers and dozens of books related to and supporting the structured water phenomena.  Skepticism has its place and serves a critical purpose, but regarding the extreme skepticism of structured water, that purpose does not seem to be moving understanding forward or seeking new solutions to real-world problems, such as solving global water shortage problems and increasing crop production, as has been well documented by some of Australia&rsquo;s largest produce farms.
 
-There is quite a lot of good research on the subject that we won&rsquo;t detail here, but if you want to learn more a good place to start is Fabian Ptok&rsquo;s Masters theses *&ldquo;Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages&rdquo;*[^79], which covers the subject well from an agricultural and security perspective but also has a number of references to the researchers and work going on in this area.  There is also a book available online for free[^80] (which I have not read, so this is not an endorsement).
+There is quite a lot of good research on the subject that we won&rsquo;t detail here, but if you want to learn more a good place to start is Fabian Ptok&rsquo;s Masters theses *&ldquo;Alternative Irrigation Methods: Structured Water in the context of a Growing Global Food Crisis due to Water Shortages&rdquo;*[^79], which covers the subject well from an agricultural and security perspective but also has a number of references to the researchers and work going on in this area.  There is also a book available online for free[^80] (which I have not read, so this is not an endorsement).  Another good source is the work or Marcel Vogel (more on him alter) who claimed that through years of work and thousand of experiments he was able to prove that various forms of energy, including thought, could permanently change the spectrographic properties of water, [^301] and that water was an information storage system.  This lat claim is especially significant considering Vogel was not only a chemical and physics researcher at IBM for 27 years, but he was an information medium specialist, holding patents of hard-drive memory technologies that are in use to this day.
 
 Water is a particularly good test medium because the structure of water (not the *H~2~O* molecule alone, but many of them together) is tetrahedral, and being the most basic shape of creation lends itself to many different tholonic applications.  it&rsquo;s worth noting that when it was originally suggested that water might be tetrahedral is shape back in 1938 the idea was met with disbelief.  It was not until 80 years later, in 2013, that this was finally accepted as valid.  Today &ldquo;it is widely accepted that liquid water structure is comprised of two closely interweaved components; i.e.  tetrahedral and hexagonal structures.&rdquo;[^81] In fact, water, as ice, may be the closest instance of the entire tholon&rsquo;s structure of any other substance (that is common to us).
 
 <center><img src='../Images/116-water-ice.png' style='width:100%'/></center>
 
 *(Above: Left image from &ldquo;Tetrahedrality is key to the uniqueness of water&rdquo; [^82])*
+
+The *silicate structures* of minerals are also quiet similar in that they are made up of tetrahedrons of various arrangements.  IN fact, teh structure of water and quartz is so close that is some conditions ice has the same/similar structure as quartz! [^302] This lends some credence to the idea that water can be affected by quartz
+
+<center><img src='../Images/silicate_structures.png' style='width:100%'/></center>
 
 Radical ideas are often met with radical resistance.  Structured water is one of those ideas.
 
@@ -2380,6 +2412,8 @@ In the tholonic modal, this example also applies to ideas, concepts, and intelli
 [^80]: Fonseca, Giuseppe, and Giuseppe Fonseca. &ldquo;**Dr Pollack The Fourth Phase of Water.**&rdquo; Academia.edu, <https://www.academia.edu/18516517/Dr_Pollack_The_Fourth_Phase_Of_Water>
 [^81]: Chara, et al. &ldquo;**Crossover between Tetrahedral and Hexagonal Structures in Liquid Water.**&rdquo; Physics Letters A, <http://www.academia.edu/21730774>
 [^82]: Staff, Science X. "**Tetrahedrality Is Key to the Uniqueness of Water.**" Phys.org. March 27, 2018. Accessed July 28, 2020. https://phys.org/news/2018-03-tetrahedrality-key-uniqueness.html.
+[^301]: http://marcelvogel.org/LabNotesMarcelVogel.pdf
+[^302]: **Structure of hydrogen-stuffed, quartz-like form of ice revealed.** (2017, January 04). Retrieved October 10, 2020, from https://gl.carnegiescience.edu/news/structure-hydrogen-stuffed-quartz-form-ice-revealed
 
 <div style='page-break-after: never; break-after: none;'></div>
 # 8: MIND
@@ -3047,6 +3081,39 @@ From the tholonic perspective, there are three types of causes.
 
 The answer to &ldquo;Why&rdquo; to the question of the Cambrian explosion, or any event for that matter, big or small, across all contexts, is that it was the most efficient and stable expression of energy at the time that was compatible with the intentions of all the contributing tholons.
 
+## Sensing Intention
+
+The idea as that plants, and presumably other life forms, are sensitive to the feelings and intentions of others their sphere of influence is not a new idea.  There still exists debate as to  the validity of the *Backster Effect*[^300] and popular ideas, such as those in the book *The Secret Life of Plants*, but at the very least, this is a area worth of more investigation.  The tholonic view is that everything that exists is part of a *Vast Active Living Intelligence System* (to steal a term coined by author Phillip K. Dick) that we are calling the Thologram, and consequently, everything *must* be connected to everything else in some way and form.  As our knowledge and our ability to share that knowledge expand, our understanding of the reality so too will expand, and in many different directions.  Multiple theories, philosophies, practices, will not only emerge, but each will have their own body of evidence supporting that model. Come will flourish and other will wither away. This is the evolution of perspective.  
+
+Similar to the "Can you prove Australia exists?" problem, at some point we need to choose what or who to *believe* as true or not. While the Backster Effect is soundly grounded the tholonic principles, that alone is not enough to accept it as real.  However, comparing the works debunking the Backster Effect to the work that supports is.  Perhaps the most convincing support comes from one of the more ingenious scientists of the 20^th^ century, Marcel Vogel.    
+
+Marcel Vogel  (1917 - 1991) was a research scientist for IBM’s San Jose facility for 27 years and was granted a number of patents, from hard-disk magnetic coatings to egg testing.  At age six he was pronounced dead from double lobar pneumonia. He claimed that while he was &ldquo;dead&rdquo; he experienced a light and a sense of love and well being that was over- whelming, and this formed the underlying fabric of his life and beliefs. 
+
+With the aids of IBM's state-of-the-art equipment, he replicated the Backster Effect.  Below is the polygraph results that he said made him a &ldquo;believer&rdquo;.
+
+
+
+<img src='../Images/Cleve_Backster_2.png' style='width:100%'/>
+
+
+
+Vogel even lectured at IBM on the subject of "Do Plant Have Emotions?", which, in 1969, was a radical concept.  He experimented with plants for some time and discovered a number of very odd and &ldquo;unscientific&rdquo; facts.  For example; 
+
+
+
+- It was observed that when he released his breath slowly there was virtually no response from the plant, but when he pulsed his breath through the nostrils, as he held a thought in mind, the plant would respond dramatically. 
+- The plant's response was the same regardless of distance, as the results were the same when he was in San Jose (where his lab and the plant were), or in Prague, Czechoslovakia, suggesting that the inverse square rule of incoherent energy dispersion (<img src="../Images/invsqlaw.png" style="width:200px"/>) does not apply to coherent thought.  *Incoherent* energy is any energy that is diffuse, like the sun, or light bulbs, or just about any light source other that a laser, which is *coherent*.
+- Plant appeared to respond more to the threat of damage than to the actual damage itself.
+- Plants appeared to have many of the same properties as batteries, especially when it came to their interactions with thoughts.
+- It was observed that the attitude, or mind-set, of the experimenter had a measurable effect upon the test-results.  This might shed some light on the inconsistent result of the &ldquo;water memory&rdquo; experiments of Jacques Benveniste, as related previously.
+- He concluded from these experiments that he “learned that there is energy connected with thought. Thought can be pulsed and the energy connected with it becomes coherent and has a laser-like power.”
+
+Because of his young near-death-experience, Marcel believed that the greatest cohering agent is love.  This may be correct.  The tholonic view is that *intention* is the basis of reality and creation, but nothing is said about what that intention is because the tholonic model suggests that *any* intention is equally valid.  However, it is clear that some intentions are more effective that others.
+
+Such ideas did not endear him to the scientific community, but this discovery opened many new doors of investigation for Marcel, especially in the areas crystals and water, with some very impressive (anecdotal) results.  Needless to say, this not only set him apart from his fellow scientists, but ensured his obscurity.
+
+
+
 ## Maharishi Effect
 
 Given the general direction of mainstream science, we do not see a lot of investigation into how thought affects external reality, but some do exist *(see items 3 and 4 in "Other Experiments" list below)*.  We will look at one research report here, *&ldquo;Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.  C.: Results of the National Demonstration Project, June-July 1993&rdquo;*[^160] published in the journal *&ldquo;Social Indicators Research.&rdquo;*
@@ -3180,6 +3247,7 @@ On a related note, keep an eye on the research into what is essentially the coll
 [^175]: Orkin, Jeffrey David. “**Collective Artificial Intelligence: Simulated Role-playing from Crowdsourced Data.**” Master’s thesis, MASSACHUSETTS INSTITUTE OF TECHNOLOGY, 2013. Accessed May 30, 2016. http://alumni.media.mit.edu/~jorkin/papers/orkin_phd_thesis_2013.pdf.
 [^176]: Fisher, Len. **The Perfect Swarm: The Science of Complexity in Everyday Life.** New York: Basic Books, 2009.
 [^177]: Jef D. Boeke,George Church, Andrew Hessel, Nancy J. Kelley, Adam Arkin, Yizhi Cai, Rob Carlson, Aravinda Chakravarti, Virginia W. Cornish, Liam Holt, Farren J. Isaacs, Todd Kuiken, Marc Lajoie, Tracy Lessor, Jeantine Lunshof, Matthew T. Maurano, Leslie A. Mitchell, Jasper Rine, Susan Rosser, Neville E. Sanjana, Pamela A. Silver, David Valle, Harris Wang, Jeffrey C. Way, Luhan Yang. “**The Genome Project–Write.**” Science. June 2, 2016. Accessed June 10, 2016. doi: 10.1126/science.aaf6850. http://science.sciencemag.org/content/early/2016/06/03/science.aaf6850.
+[^300]: Backster, Cleve & Karron, Db. (1968). Evidence of a Primary Perception In Plant Life. 10. 
 
 <div style='page-break-after: never; break-after: none;'></div>
 # 11: PREDETERMINISM

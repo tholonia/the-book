@@ -206,3 +206,9 @@
 [^204]: Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
 [^205]: <https://www.quantamagazine.org/entanglement-made-simple-20160428>
 
+[^300]: Backster, Cleve & Karron, Db. (1968). Evidence of a Primary Perception In Plant Life. 10. 
+[^301]: http://marcelvogel.org/LabNotesMarcelVogel.pdf
+[^302]: **Structure of hydrogen-stuffed, quartz-like form of ice revealed.** (2017, January 04). Retrieved October 10, 2020, from https://gl.carnegiescience.edu/news/structure-hydrogen-stuffed-quartz-form-ice-revealed
+
+
+
