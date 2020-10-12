@@ -2,7 +2,7 @@
 layout: default
 title: Tholonia
 author: Duncan Stroud
-email: jeff.milton@gmail.com
+email: duncan.stroud@gmail.com
 url: https://tholonia.github.io/the-book
 description: "The Mechanics of Existential Awareness."
 
