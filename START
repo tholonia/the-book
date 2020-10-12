@@ -11,7 +11,7 @@
 #kill existing process
 ps -ef |grep jekyll |grep -v grep |awk '{print "kill -9 "$2}'|sh
 
-cd ~/sites/the-book/bin
+cd ~/books/tholonia/bin
 
 #stop local cache - was casing delayed sync mismatch
 sudo ./nocache.sh 
@@ -22,7 +22,7 @@ sudo ./nocache.sh
 
 # the github-pages website lives in ./docs
 
-cd ~/sites/the-book/docs
+cd ~/books/tholonia/docs
 
 bundle exec jekyll doctor
 bundle exec jekyll clean
