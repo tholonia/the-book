@@ -1,6 +1,6 @@
 <div style='page-break-after: never; break-after: none;'></div>
 # G - Hidden Images
-###### Meaningful information encoded as meaningless information
+###### Information encoded within information
 <center><img src='../Images/embedded-page.png' style='width:100%'/></center>
 
 *Credits, left to right, top to bottom.*
@@ -27,5 +27,5 @@
 
 **Look** by *Venetian Snares*. Image via Jarmo Niinisal 
 
-Complete images and more at https://twistedsifter.com/2013/01/hidden-images-embedded-into-songs-spectrographs/
+*Complete images and more at https://twistedsifter.com/2013/01/hidden-images-embedded-into-songs-spectrographs/*
 
