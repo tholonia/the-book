@@ -1,5 +1,9 @@
 The markdown used for this book is not fully compatible with the Github flavor of markdown.  This book was assembled with Typora (https://typora.io/), and, as you will see if you look at the markdown pages directly on Github, there are some formatting options that do not display correctly.    If you are going to make edits, you'll probably need Typora.
 
+If you want to create the PDF, ePub, and HTML output from the markdown, you''' need 
+
+
+
 One way to create an EPUB version of the books requires `typora` and `sigil` (https://github.com/Sigil-Ebook/Sigil/releases) .  Unfortunately the Typora export of ePub or PDF seems to not be working too well. 
 
 > 1) Open `THELONIA_THE_BOOK.md` in `typora` and then `File->Export->HTML`.
