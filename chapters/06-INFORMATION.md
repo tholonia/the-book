@@ -7,7 +7,7 @@ We see these same patterns in information as well.  How, then, do we define *inf
 
 ### Data
 
-Before we can address the definition of *information*, we have to address the definition of *data*.  To begin to answer that we can say there is no data in the void of nothingness.  Data can only exist within the duality where energy oscillates within finite boundaries in accordance with specific laws of existence.  So, what is the difference between data and existence itself? Data is the static byproduct of the movement of energy.
+Before we can address the definition of *information*, we have to address the definition of *data*.  To begin to answer that we can say there is no data in the void of nothingness.  Data can only exist within the duality where energy oscillates within finite boundaries in accordance with specific laws of existence.  So, what is the difference between data and existence itself?  Data is the static byproduct of the movement of energy.
 
 #### **Claim 31:** Data exists only in a duality.
 
@@ -19,15 +19,15 @@ If we accept the premise that everything that exists does so within the laws of 
 
 #### **Claim 33:** All data is valid
 
-What, then, is information? The classic and simplest definition is &ldquo;*data that we can use to understand something*&rdquo;, which is just another way of saying &ldquo;*Information is data that has meaning.*&rdquo;
+What, then, is information? The classic and simplest definition is &ldquo;*data that we can use to understand something*&rdquo;, which is just another way of saying &ldquo;*Information is data that has meaning*&rdquo;.
 
 ### Understanding
 
-This raises the question *&ldquo;What is understanding?&rdquo;* Again, the traditional meaning is *&ldquo;the knowledge of why or how something happens or works.&rdquo;* This is pretty unsatisfactory, and quite arguably wrong.  At the risk of sounding Clintonesque here, debating what the definition of &ldquo;is&rdquo; is, the words *&ldquo;use&rdquo;* and *&ldquo;understand&rdquo;* are completely subjective and offer no real definition, and with the word &ldquo;work&rdquo; defined as simply *&ldquo;to function or operate according to design&rdquo;*, this entire definition is vague, as best.
+This raises the question *&ldquo;What is understanding?&rdquo;* Again, the traditional meaning is *&ldquo;the knowledge of why or how something happens or works&rdquo;.* This is pretty unsatisfactory, and quite arguably wrong.  At the risk of sounding Clintonesque here, debating what the definition of &ldquo;is&rdquo; is, the words *&ldquo;use&rdquo;* and *&ldquo;understand&rdquo;* are completely subjective and offer no real definition, and with the word &ldquo;work&rdquo; defined as simply *&ldquo;to function or operate according to design&rdquo;*, this entire definition is vague, as best.
 
 Can we come up with a better definition of the words *knowledge* and *understanding*?
 
-To know something&rsquo;s function and purpose is the fundamental goal of the science, philosophy and even religion, as these disciplines require a demonstrative understanding which we can see in their relative forms of reasoning.
+To know something&rsquo;s function and purpose is the fundamental goal of science, philosophy and even religion, as these disciplines require a demonstrative understanding which we can see in their relative forms of reasoning.
 
 Like in the dancing-woman-in-the-dots example, we can perceive something that is little more than subjective projection and has no basis in reality.  In fact, it is this human ability to &ldquo;recognize&rdquo; things in meaningless images that brought about the famous Rorschach inkblot test as it seemed to be a good way to see how a person perceived the world by seeing what patterns they projected onto the random images.
 
@@ -39,7 +39,7 @@ This was meant as a criticism of the popular definition of *knowledge* as *justi
 
 Simply *knowing* the details of a situation is not the same as *understanding* them.  We can see this in the countless cases of confusing or challenging situations that demand critical decisions that inevitably fall prey to our conscious or unconscious beliefs, desires, and fears.  We can see this difference even in less dramatic situations, such as the knowing all the details about camping, and actually camping, or the difference between the map and the terrain.
 
-Therefore, a better definition of understanding might be &ldquo;the knowledge of something sufficient enough to be able to make verifiably accurate statements regarding said thing.&rdquo;
+A better definition of understanding might be &ldquo;the knowledge of something sufficient enough to be able to make verifiably accurate statements regarding said thing&rdquo;.
 
 ### Verification
 
@@ -47,29 +47,29 @@ But this too falls short depending on what *verifiable* means.  For example, fou
 
 What is the next number in this sequence? 91715
 
-Bob says &ldquo;1&rdquo;, and Carol says &ldquo;3&rdquo;.  Bob defends his answer by showing the obvious; that 71 is 20 less than 91, therefore 51, being 20 less than 71, is the obvious pattern.  Carol, however, says it is 3 because 917153 is, in fact, a sequence of numbers in *pi* (&pi;).  Ted also says &ldquo;1&rdquo; but because 9+1=10, 7+1=8, therefore 5+*x* = 6, so *x* must be 1.  Alice says &ldquo;9&rdquo; because that would result in three prime numbers 11, 13, and 17 using the 2D lattice she made to solve the problem.
+Bob says &ldquo;1&rdquo;, and Carol says &ldquo;3&rdquo;.  Bob defends his answer by showing the obvious; that 71 is 20 less than 91, therefore 51, being 20 less than 71, is the obvious pattern.  Carol, however, says it is 3 because 917153 is, in fact, a sequence of numbers in *pi*.  Ted also says &ldquo;1&rdquo; but because 9+1=10, 7+1=8, therefore 5+*x* = 6, so *x* must be 1.  Alice says &ldquo;9&rdquo; because that would result in three prime numbers 11, 13, and 17 using the 2D lattice she made to solve the problem.
 
-All four people have an understanding of the problem and the ways in which it can be solved, and therefore all four answers are verifiable.  It&rsquo;s not unlike when you ask a child what is 1+1, and she confidently answers &ldquo;Six.&rdquo; When asked why 1+1 = 6 she says: *&ldquo;I had one white cat and one gray cat, now I have six cats; two white cats, two gray cats, a black cat and a cat that is all colors&rdquo;* referring to her two cats and their 4 new kittens.  Not only did 1+1 equal 6, but it came in many colors.
+All four people have an understanding of the problem and the ways in which it can be solved, and therefore all four answers are verifiable.  It&rsquo;s not unlike when you ask a child what is 1+1, and she confidently answers &ldquo;Six&rdquo;.  When asked why 1+1 = 6 she says: *&ldquo;I had one white cat and one gray cat, now I have six cats; two white cats, two gray cats, a black cat and a cat that is all colors&rdquo;* referring to her two cats and their 4 new kittens.  Not only did 1+1 equal 6, but it came in many colors and was soft and cuddly.
 
 As silly as this sounds, her answer was quite accurate given the context and the scope of a child&rsquo;s understanding and the context of *&ldquo;1 (female cat) + 1(male cat)&rdquo;*, which is not at all an irrelevant detail, especially to the cats.  We can see the &ldquo;error&rdquo; here as the child not being able to properly identify the differences between the overlapping contexts of math and animals.  We should not be quick to judge this child because we have to assume that even the greatest thinkers will make the same &ldquo;error&rdquo;, albeit with more complex contexts, because this discernment is a product of our neurology, the brain being a big pattern recognition machine.  Unless we have the ultimate brain, we can&rsquo;t recognize everything.
 
-Understanding is contextual and only relevant to the degree that it applies to the matter in question and why the question was asked in the first place.  Even the concept of &ldquo;1&rdquo; is contextually relevant.  We may have 1 dollar or 1 day, but what does 1 mean if we say we have 1 puddle plus 1 puddle? We either have 2 puddles, or, if they are connected, we have a 1 big puddle, and now &ldquo;2&rdquo; is the not the unit count of puddles, but the relative volume of the puddle, i.e.  1 puddle that is 2 times as large.  If we drop 1 rock into a lake, we have 1 wave function.  If we drop 2 rocks in a lake we have 2 wave functions that interfere with each other. So we could say:
+Understanding is contextual and only relevant to the degree that it applies to the matter in question and why the question was asked in the first place.  Even the concept of &ldquo;1&rdquo; is contextually relevant.  We may have 1 dollar or 1 day, but what does 1 mean if we say we have 1 puddle plus 1 puddle? We either have 2 puddles, or, if they are connected, we have a 1 big puddle, and now &ldquo;2&rdquo; is the not the unit count of puddles, but the relative volume of the puddle, i.e.  1 puddle that is 2 times as large.  If we drop 1 rock into a lake, we have 1 wave function.  If we drop 2 rocks in a lake we have 2 wave functions that interfere with each other.  So we could say:
 
 &ldquo;1&rdquo;=<img src="../Images/math/335.svg" style="vertical-align:middle;height:12pt"/> as this is the general description of a wave.
 
 &ldquo;2&rdquo;=<img src="../Images/math/336.svg" style="vertical-align:middle;height:22pt"/> as this is the description of two wave interfering with each other.
 
-The fact that whatever was needed to have taken place for there to be one of them did take place is so obvious we take it for granted.  But what happens if we take 1 particle traveling at *x* speed, and smash it headfirst into another particle traveling at *x* speed? You might think that the particles smash into each other at the speed of *2x*, but you&rsquo;d be wrong if *x* was the speed of light, because, at the speed of light *1+1 = 1* in this case, at least according to the Theory of Relativity.[^46] More specifically, the product of the two opposing speeds when multiplied together can never *appear* to exceed *c^2^*. Reality, as we know it, depending on the context of not only what is happening, but all that has happened before it, in whatever contexts the contributing events happened in. Our understating of anything can never be anything but relative to our context and is only valid within that context. 
+What happens if we take 1 particle traveling at *x* speed, and smash it headfirst into another particle traveling at *x* speed? You might think that the particles smash into each other at the speed of *2x*, but you&rsquo;d be wrong if *x* was the speed of light, because, at the speed of light *1+1 = 1* in this case, at least according to the Theory of Relativity.[^46] More specifically, the product of the two opposing speeds when multiplied together can never *appear* to exceed *c^2^*.  Reality, as we know it, depends on the context of not only what is happening, but all that has happened before, in whatever contexts the contributing events happened in, most pf which we can only speculate about.  Our understating of anything can only be relative to our context and is only valid within that context.  
 
 So, let&rsquo;s modify the meaning of understanding to the following claim:
 
-#### **Claim 34:** Understanding is &ldquo;the knowledge of something sufficient enough to be able to make verifiably accurate statements regarding said thing within the context of its current application.&rdquo;
+#### **Claim 34:** Understanding is &ldquo;the knowledge of something sufficient enough to be able to make verifiably accurate statements regarding said thing within the context of its current application&rdquo;.
 
 With this definition, Bob, Carol, Ted and Alice can all make statements based on their understanding, but none of them are verifiable unless we know why the question was asked.  If the point was to see if they had reasoning abilities, they are all right, and so was the little girl, according to their relative reasoning abilities, and the specific question itself is irrelevant as any number of questions could be asked to get the same results.  If the point of the question was to try and recover the last digit of a telephone number, there&rsquo;s a 10% chance any one answer is correct, including the little girl&rsquo;s answer, and the question was still meaningless.
 
 We can now answer the question &ldquo;How do we define *information*?&rdquo; If we accept that all data is valid and is therefore *information* that is merely undiscovered due to our limited understanding of its relevance to context, *information* now can be defined as the following claim: 
 
-#### **Claim 35:** Information is &ldquo;relevant data that we know how, when and where to apply given our understanding of the applicable context.&rdquo;
+#### **Claim 35:** Information is &ldquo;relevant data that we know how, when and where to apply given our understanding of the applicable context&rdquo;.
 
 In short, information is *relevant data*.
 
@@ -107,29 +107,31 @@ We have moved from *data* to *information* to *knowledge* to *understanding* in 
 
 What comes next? How do all these *understandings* we have discovered relate to one another?
 
-Attempting to answer this question is what gave rise to the entire field of Western philosophy.  In fact, the word *philosophy*, which literally means &ldquo;love of wisdom&rdquo;, was invented 2,600 years ago by the Greek mathematician, philosopher and religious mystic, Pythagoras, as the field of study dedicated to understanding how reality is put together.  A few years later, Parmenides, perhaps the most profound and challenging thinker of the Greek philosophers, came up with the idea of categorizing all that was understood about existence.  Today this is called *ontology*, which is hierarchical in nature and comes from the Greek &ldquo;the study of that which is.&rdquo;
+Attempting to answer this question is what gave rise to the entire field of Western philosophy.  In fact, the word *philosophy*, which literally means &ldquo;love of wisdom&rdquo;, was invented 2,600 years ago by the Greek mathematician, philosopher and religious mystic, Pythagoras, as the field of study dedicated to understanding how reality is put together.  A few years later, Parmenides, perhaps the most profound and challenging thinker of the Greek philosophers, came up with the idea of categorizing all that was understood about existence.  Today this is called *ontology*, which is hierarchical in nature and comes from the Greek &ldquo;the study of that which is&rdquo;.
 
 #### **Claim 37:** All information is hierarchical.
 
-Needless to say, there has been a lot of discussing, researching and testing over the past thousands of years on the best way to organize &ldquo;that which is.&rdquo;
+Needless to say, there has been a lot of discussing, researching and testing over the past thousands of years on the best way to organize &ldquo;that which is&rdquo;.
 
 ## Holarchies
 
-In 1972 Ervin Laszlo, philosopher, theorist and two-time Nobel Prize nominee, published &ldquo;Evolutionary Systems Theory.  Introduction to Systems Philosophy: Toward a New Paradigm of Contemporary Thought.&rdquo;[^47]In that book, he incorporates *Living Systems Theory* and the hierarchical structures of Mario Bunge, a giant in the field of semantics, ontology, epistemology, philosophy of science and ethics, and recipient of twenty-one honorary doctorates and four honorary professorships by universities from the Americas (North and South) and Europe.
+In 1972, Ervin Laszlo, philosopher, theorist and two-time Nobel Prize nominee, published &ldquo;Evolutionary Systems Theory.  Introduction to Systems Philosophy: Toward a New Paradigm of Contemporary Thought&rdquo;.[^47]In that book, he incorporates *Living Systems Theory* and the hierarchical structures of Mario Bunge, a giant in the field of semantics, ontology, epistemology, philosophy of science and ethics, and recipient of twenty-one honorary doctorates and four honorary professorships by universities from the Americas (North and South) and Europe.
 
 Laszlo&rsquo;s challenge was to provide a framework for understanding universal structures that span the scopes of subatomic physics, through biology, chemistry, organisms, and social systems to the cosmos.  Laszlo describes a hierarchical model of interconnected conceptual entities.  When one of these entities is acting as a *part* of a larger entity, it is called a *parton*, and when acting as a *whole* entity with its own parts, or *partons*, it is called a *holon*.
 
-<img src='../Images/033-embeddedholons.png' style='float:right;width:32%'/>The *holon* represents the *wholeness of its nature*, and the *parton* represents the integrated *part* of the greater *holon*.  The hierarchical ordering of *holon/partons* is called a *holarchy*.  An example of this is the biological cell mentioned previously.  The cell itself would be a *holon*.  The transcoder and other components necessary for the cell to function would be considered *partons*.  Likewise, the transcoder is also a *holon* with its component *partons*, and the cell itself is a *parton* to, say, an organ.  This makes the holarchy somewhat fractal in nature as the structure of the entire hierarchy is self-replicated in each of the holons.
+<img src='../Images/033-embeddedholons.png' style='float:right;width:32%'/>The *holon* represents the *wholeness of its nature*, and the *parton* represents an integrated *part* of the greater *holon*.  The hierarchical ordering of *holon/partons* is called a *holarchy*.  An example of this is the biological cell mentioned previously.  The cell itself would be a *holon*.  The transcoder and other components necessary for the cell to function would be considered *partons*.  Likewise, the transcoder is also a *holon* with its component *partons*, and the cell itself is a *parton* to, say, an organ.  This makes the holarchy somewhat fractal in nature as the structure of the entire hierarchy is self-replicated in each of the holons.
 
 #### **Claim 38:** The structure of information is fractal (self-similar and redundant)
 
-The holarchy is a map of all the concepts of archetypes we have collected and attempts to organize these concepts in a hierarchical fashion.  As each parton is a child of a holon it naturally inherits the scope of its parent.  It is these scopes that define the order.  Each holon has a unique scope, and this scope is what defines the spectrum of possibilities, the Bell curve of probability, for any particular holon.  For example, within the holon of *person,* you will only find *person* things and not *planet* things.
+The holarchy is meant to be a map of all the concepts of archetypes we have collected and attempts to organize these concepts in a hierarchical fashion.  As each parton is a child of a holon, it naturally inherits the scope of its parent.  It is these scopes that define the order.  Each holon has a unique scope, and this scope is what defines the spectrum of possibilities, the Bell curve of probability, for any particular holon.  For example, within the holon of *person,* you will only find *person* things and not *planet* things.
 
 <center><img src='../Images/029-holarchy.png' style='width:100%'/></center>
 
 The graphs above represent a very small subsection of the Grand Holarchy of Everything.  The chart on the left shows a larger picture of how partons and holons relate to one another.  The chart on the right shows one of the many paths that connects subatomic particles to the multiverse.
 
-With a few tweaks to the previous *Super-Duper Graph of Reality* Bell curve, making the right axis more logarithmic rather than linear, this model fits nicely on top of it.
+#### **Claim 39:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons.
+
+#### **Claim 40:** Holons, or archetypes, are interdependent on one another, as well as independent.  With a few tweaks to the previous *Super-Duper Graph of Reality* Bell curve, making the right axis more logarithmic rather than linear, this model fits nicely on top of it.
 
 <center><img src='../Images/030-supercurve2.png' style='width:100%'/></center>
 
@@ -147,11 +149,7 @@ For consistency, here is the human eye sensitivity chart as well with the new y-
 
 <center><img src='../Images/031-eyecurve2.png' style='width:100%'/></center>
 
-#### **Claim 39:** Each holon has its own set of parameters, laws, and context and each holon has the ability to spawn new holons.
-
-#### **Claim 40:** Holons, or archetypes, are interdependent on one another, as well as independent.
-
-Another excellent example of both a holarchy and its self-similar nature is that of the neurological structure of the brain&rsquo;s  memory processes along with the structure of language that evolved out of that structure.  This also shows examples of the various scopes through which instances are expressed.
+Another excellent example of both a holarchy and its self-similar nature is that of the neurological structure of the brain&rsquo;s processing ability along with the structure of language that evolved out of that structure.  This also shows examples of the various scopes through which instances are expressed.  The 1st column on the left is a hierarchical structure of a sentence. The 2nd column shows the speed at which each part of the hierarchy is processed by the brain. The 4th and last column shows what (proposed) part of the brain is contributing to the overall process, and the 3rd column shows the scope of size of that part of the brain.
 
 <center><img src='../Images/language.png' style='width:100%'/></center>
 
@@ -167,7 +165,7 @@ In Dawkins own words[^50] :
 
 <center><img src='../Images/032-holongrid.png' style='width:70%'/></center>
 
-This is relevant at this point to demonstrate how the concept of a meme can be incorporated into a holarchy.  The original version of the  chart above comes from a Velikovsky paper on video games and their potential to increase intelligence.[^51] The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch.  It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*.  The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object.  He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea.  In our case, we are defining *Ideas* (capital &ldquo;I&rdquo;), like forms, as the archetypal blueprint for many instances of ideas.  The idea of *&ldquo;Let&rsquo;s make a video game where people have to shoot each other&rdquo;* is an instance of the Idea *&ldquo;Individual or tribal competition and survival&rdquo;*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc.  The idea of *&ldquo;If I sin, I will burn in hell&rdquo;*, a very resilient and popular meme for thousands of years, is an instance of the Idea *&ldquo;We are judged harshly by our superiors for being self-serving&rdquo;*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
+This is relevant as is demonstrate how the concept of a meme is incorporated into a holarchy.  The original version of the  chart above comes from a Velikovsky paper on video games and their potential to increase intelligence.[^51] The part that is interesting is how Velikovsky puts the meme at the bottom of the cultural branch.  It is interesting because it defines a meme as a seventh-generation descendant component part, a particle, so to speak, of the *uber* concept of *culture*.  The meme here is analogous to what the electron is to the atom, or the atom to the molecule, or the molecule to the object.  He also puts *ideas* down there as well, which may be consistent with the way he is defining an idea.  In our case, we are defining *Ideas* (capital &ldquo;I&rdquo;), like forms, as the archetypal blueprint for many instances of ideas.  The idea of *&ldquo;Let&rsquo;s make a video game where people have to shoot each other&rdquo;* is an instance of the Idea *&ldquo;Individual or tribal competition and survival&rdquo;*, which also spawns such concepts as sports, war, capitalism, the idea of winning, etc.  The idea of *&ldquo;If I sin, I will burn in hell&rdquo;*, a very resilient and popular meme for thousands of years, is an instance of the Idea *&ldquo;We are judged harshly by our superiors for being self-serving&rdquo;*, which spawn such concepts as karma, judgment day, guilt, original sin, etc.
 
 The holarchy examples shown above are portrayed as 2-dimensional bifurcating trees, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.  Each holon has its own parameters, laws, context, etc., and each holon, therefore, has its own Bell curve that shows where it is best suited to &ldquo;work&rdquo;, such as the Bell curve of the human eye sensitivity, which would be one holon of &ldquo;human eye&rdquo;.
 
@@ -175,9 +173,9 @@ These Bell curves of probability are not shown, or even defined, in the holarchi
 
 What happens if we incorporate the idea of dualities into the holarchy?  Let&rsquo;s see, but first let&rsquo;s look at some important concepts behind *structure*.
 
-[^46]: Hossenfelder, Sabine. &ldquo;**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?&rdquo;** Backreaction, 1 Jan. 1970, backreaction. <https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html>
-[^47]: Laszlo, E., & Clark, J. W. (1973). **Introduction to systems philosophy: Toward a new paradigm of contemporary thought**. New York, NY: Harper Torchbooks. ISBN: 0061317624 (ISBN13: 9780061317620)
-[^48]: Levin, Samuel & Scott, Thomas & Cooper, Helen & West, Stuart. (2017). **Darwin&rsquo;s aliens.** International Journal of Astrobiology. 1-9. 10.1017/S1473550417000362.
-[^49]: Dawkins, C. R. (2016). **The selfish gene**. Oxford: Oxford University Press.
-[^50]: **Just for Hits - Richard Dawkins**. (2013, June 22). <https://youtu.be/GFn-ixX9edg>The first 4 minutes is an excellent overview of memes by Dawkins. The following 4 minutes is a sort of meme-ish music video which is a bit odd, but also a bit entertaining
-[^51]: Velikovsky, J. T. (1970, January 01). **Flow Theory, Evolution & Creativity: Or, Fun & Games ** <https://dl.acm.org/citation.cfm?id=2677770>
+[^46]: Hossenfelder, Sabine.  &ldquo;**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?&rdquo;** Backreaction, 1 Jan.  1970, backreaction.  <https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html>
+[^47]: Laszlo, E., & Clark, J.  W.  (1973).  **Introduction to systems philosophy: Toward a new paradigm of contemporary thought**.  New York, NY: Harper Torchbooks.  ISBN: 0061317624 (ISBN13: 9780061317620)
+[^48]: Levin, Samuel & Scott, Thomas & Cooper, Helen & West, Stuart.  (2017).  **Darwin&rsquo;s aliens.** International Journal of Astrobiology.  1-9.  10.1017/S1473550417000362.
+[^49]: Dawkins, C.  R.  (2016).  **The selfish gene**.  Oxford: Oxford University Press.
+[^50]: **Just for Hits - Richard Dawkins**.  (2013, June 22).  <https://youtu.be/GFn-ixX9edg>The first 4 minutes is an excellent overview of memes by Dawkins.  The following 4 minutes is a sort of meme-ish music video which is a bit odd, but also a bit entertaining
+[^51]: Velikovsky, J.  T.  (1970, January 01).  **Flow Theory, Evolution & Creativity: Or, Fun & Games ** <https://dl.acm.org/citation.cfm?id=2677770>
