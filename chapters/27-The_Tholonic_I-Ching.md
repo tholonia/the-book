@@ -6,7 +6,7 @@ It&rsquo;s been mentioned several times already that the basic principles of the
 
 One way to test this would be to find a model that has existed for many years, purports to explain the nature of reality and is expressed in a language compatible with, or translatable to, geometry or mathematics, which would be necessary to make valid comparisons with the thologram.
 
-Many religious, spiritual and mythology models claim to shed light on the mystery of reality, and even though we can find metaphorical parallels within the thologram, that is not sufficient to make a solid case. We need something more quantified.
+Many religious, spiritual and mythology models claim to shed light on the mystery of reality, and even though we can find parallels within the thologram, that is not sufficient to make a solid case. We need something more quantified.
 
 The closest Western models that we can find are science and its precursor, alchemy or astrology. However, we want to find a model that is outside the realm of Western science and thought.  We also prefer to find a model that is more ancient as the hypothesis here is that both ancient and modern models of reality have the same conceptual foundation.
 
@@ -149,11 +149,11 @@ There are not 6 lines in order to make 64 hexagrams, there are 64 hexagrams beca
 - The Babylonian creation myth, the Enuma Elis, where the one God created 6 gods, each in charge of the 6 different aspects of creation (where they spent 2 days creating everything and the rest of their days fighting with each other).
 - The original Greek Titans were 6 men (Oceanus, Coeus, Crius, Hyperion, Iapetus, and Cronus), and their sisters, the Titanides (Theia, Rhea, Themis, Mnemosyne, Phoebe, and Tethys). They were all the the children of the original 2 primordial gods, Uranus (primordial sky) and Gaia (primordial earth).
 - In the building blocks of creation (chemistry) we see 6 electrons in carbon, the foundation of life.
-- And, as we we'll show shorty, The N-source has a value of 6.
+- And, as we we'll show shorty, The N-source has a value of 6.<img src='../Images/planisphere-nineveh-2.png' style='float:right;width:30%'/>
 
-6 seems to be a very significant number and is firmly associated with the concept of creation.
+6 seems to be a very significant number and is firmly associated with the concept of creation.  The utility of the number 6 is probably why the Sumerians invented a base-6 system, which we still use today (360&deg;, 24 hours, 12 months), and with which they plotted the stars with surprising accuracy and calculated values in the trillions (of what, we don&lsquo;t know).
 
-Here is a chart that shows a more in-depth descriptions of the 6 steps from a tholonic and I Ching perspective. It is divided into two hexagrams, *lower* and *upper*. Pay attention to the similarity of the three concepts that each line in the trigram share with each other, as they are essentially mirror aspects of each other.
+Below is a chart that shows a more in-depth descriptions of the 6 steps from a tholonic and I Ching perspective. It is divided into two hexagrams, *lower* and *upper*. Pay attention to the similarity of the three concepts that each line in the trigram share with each other, as they are essentially mirror aspects of each other.
 
 *Note: It is both difficult and misleading to use one word to define an archetype that can have many different instances, nevertheless, we do exactly that, but remind the reader that these words are simply hints to a much larger significance.*
 
@@ -620,7 +620,7 @@ I have added the octal (base 8) value because it is far more clear.  Base-8, if 
 
 <center><img src='../Images/decoct.png' style='width:70%'/></center>
 
-The beauty of using octal numbers for the I-Ching is the number itself is telling you what trigrams it&rsquo;s made of.  For example hexagram 12 (001100) is octal **o**14 (we use &lsquo;o&rsquo; for octal numbers).  Hexagram 12 is composed of two trigrams; 001 and 100.  Converting from binary to octal, 001 = 1, and 100 = 4… so we simply put the two numbers next to each other to get o14. If we trued to do that with 12, or any number not based on 2, it would fail. No addition is needed to arrive at the correct octal value for 001100.  Today, if we were to do this with our base-10 number system we would get meaningless results, and be chided for engaging in some silly form of numerology or superstition, however, in the past when numbers and letters were often shared, and when using with base-60 (Babylonian, Sumerian) or base-8 (Native American, Proto-Indo-European) systems, simple rearranging of numbers can produce valid mathematical solutions.  In fact, that is exactly how computers, which use base-8 (or base-16, 32, 64, etc.), do math… by simply putting numbers next to each other to perform addition.
+The beauty of using octal numbers for the I-Ching is the number itself is telling you what trigrams it&rsquo;s made of.  For example hexagram 12 (001100) is octal **o**14 (we use &lsquo;o&rsquo; for octal numbers).  Hexagram 12 is composed of two trigrams; 001 and 100.  Converting from binary to octal, 001 = 1, and 100 = 4… so we simply put the two numbers next to each other to get o14. If we trued to do that with 12, or any number not based on 2, it would fail. No addition is needed to arrive at the correct octal value for 001100.  Today, if we were to do this with our base-10 number system we would get meaningless results, and be chided for engaging in some silly form of numerology or superstition, however, in the past when numbers and letters were often shared, and when using with base-6/60 (Babylonian, Sumerian) or base-8 (Native American, Proto-Indo-European) systems, simple rearranging of numbers can produce valid mathematical solutions.  In fact, that is exactly how computers, which use base-8 (or base-16, 32, 64, etc.), do math… by simply putting numbers next to each other to perform addition.
 
 Numbers are not as intuitive as images, so here are a couple of charts that clearly show the self-similarity trigram-ish and pattern of the sequence.  Both of these plots plot the series in each of the quadrants of the tholonic I-Ching which makes its binary and tholonically fractal nature clear.
 

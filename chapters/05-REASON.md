@@ -165,11 +165,17 @@ Beyond that, there are 172 different types of this one-in-40000 species in the j
 
 On the other hand, if one were to ask a shaman how these things were discovered, he would simply say, &ldquo;The plants told us&rdquo;. Other cultures who have similar stories might say their ancestors told them, or the crickets, or the bones of a sacred animal, or the cracks in the shell of a tortoise after it has been heated and then dropped into cold water and then compared to the position of the stars, as was the case with the origins of the Chinese I-Ching.
 
-For Western man, talking to plants, insects or bones in this manner is usually followed by pharmaceuticals prescribed by a psychiatrist.  For just about every other indigenous culture, including the indigenous culture that Western civilization grew from, they had some way to tap into this organic database of knowledge.
+## Ancient Mysteries
+
+This same reasoning, I believe, applies to so many of the ancient mysteries that are inexplicable within our current understanding, and not only cosmic mysteries, but technical as well. The fantastic details and specificity of the Babylonian creation story (the *Enuma Elish*), the Vedic scriptures, the Epic of Gilgamesh, and other compelling evidence from cultures around the world that speak of other intelligences at play, suggest that mankind had access to an intelligence (and/or an intelligence had access to man) beyond what we currently believe was possible.
+
+For Western man, talking to plants, insects, bones or aliens in this manner is usually followed by pharmaceuticals prescribed by a psychiatrist.  For just about every other indigenous culture, including the indigenous culture that Western civilization grew from, they had some way to tap into this organic database of knowledge, and perhaps more importantly, they accepted that such a thing was possible.
 
 Just as a cellular transcriptor has the intelligence necessary to manage its sustainability, which is then managed by the intelligence of a cell, and up the chain this continues all the way to a human being (which is just a stop along the journey, as we humans are part of a yet larger system), it is not unreasonable to presume there is an *uber*-intelligence that manages its components of humans.
 
 Our ancestors called this intelligence &ldquo;the voice of the gods&rdquo; and about 5,000 years ago we started to create the idea of an all-in-one-version of the gods.  This was a very practical idea and worked very well given the context and scope of our ancestor&rsquo;s world view.  It gave one name to all things unknown and satisfied their need for a sense of truth and order.  Once named it was left to humans to try and describe that truth and order.
+
+
 
 ## The Human Brain and Reason
 

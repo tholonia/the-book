@@ -21,7 +21,7 @@ Another term for *chaos* comes from cosmology, and that is the *primal void.*
 
 Modern cosmology&rsquo;s Big Bang theory is quite compatible with this idea that before there was anything, there was nothing but a primal void, a term often used by scientists themselves.  The primal void is a descriptive synonym for at least one state of chaos.
 
-The primal void has also been called the *gap between heaven and earth*, the *abyss*, *absolute-limitless nothing*, *ex nihilo*, and a number of other terms all trying to convey the idea of total and absolute nothingness, a concept that may well be impossible for the human mind to grasp.  This nothingness also includes (or rather, excludes) the concept of time, as there can be no time in a void of nothingness, at least according to Stephen Hawking.[^3]
+The primal void has also been called the *gap between heaven and earth*, the *abyss*, *absolute-limitless nothing*, *ex nihilo*, *primordial waters*, and a number of other terms all trying to convey the idea of a vast nothingness, a concept that may well be impossible for the mind to grasp.  This nothingness also includes (or rather, excludes) the concept of time, as there can be no time in a void of nothingness, at least according to Stephen Hawking.[^3]
 
 Everyone from scientists to mystics seems to agree that before there was something, there was nothing, and then, presto, somethingness appeared in the nothingness.
 

@@ -115,9 +115,21 @@ Henry Ziegland thought he had dodged fate.  In 1883, he broke off a relationship
 
 From one perspective you could see all these stories as extremely unlikely coincidences.  From the tholonic perspective, each of these paths and each of these profiles are some of the almost countless patterns that managed to attain enough stability to instantiate.
 
-## Life, Death, Afterlife
+## Life, Death, Afterlife, 
 
 Every creation, including tholons, goes through the cycles of instantiation, this being inception, gestation, emergence, propagation, culmination, and dispersion.  This is just one description that identifies six stages.  There can be many others.  When a tholon &ldquo;disperses,&rdquo; whether due to loss of energy, destruction, absorption, or any number of ways, its stable pattern of energy can come to an end.  What then survives and where does the energy go?  The energy goes to wherever it can go with the least resistance.  This might be the parent tholon but perhaps it could be a peer as well.  It could also stay right where it is if there are no immediately available paths of lesser resistance, not unlike a static charge that is held until is can be released.  The various possibilities could easily describe what we commonly called the *oversoul*, or reincarnation, ghosts, spirits of the dead, poltergeists, and various other types of disincarnates that are something like an *implicit instance*, or an instance that does not have the structure necessary to take form, like the ink dots in the glycerin example.
+
+## Aliens and UFOs
+
+As long as we talking about the afterlife we might as well address the subject of aliens and UFOs.  This will be very short, because if the tholonic understanding that the universe itself, and everything in it, are different expressions of intelligence, than asking "is there intelligent life in the universe?" would be like wondering if there is such a thing as water while swimming in the ocean. Aliens, UFOs, etc., are instances of archetypes, and their instantiations will wholly depend on the context and scope they exist in.  Here, context includes cultural beliefs and the abilities of the perceiver.  Is/was earth visited by aliens, and if so, what role have they played in our story?  From the tholonic perspective, asking such a question is valid if the answer brings us closer to a verifiably better understanding of reality.  The tholonic question is, what are the tholons that exist beyond our perception of reality? How can/will they be perceived and  how will/do they affect our reality? Are there other forms of awareness and intention that have evolved on any of the 40 billions exoplanets that can support life in our galaxy, or elsewhere for that matter, evolved to the point where they have a cosmic influence? The most reasonable answer is probably "probably".
+
+To repeat the previously quoted truth from the great Richard Feynman: 
+
+##### It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.
+
+The tholonic view is:
+
+##### It doesn't matter how unorthodox your theory is, it doesn't matter how crazy you are. If it agrees with experiment, it's right.
 
 ### Sadhguru explains
 
