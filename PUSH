@@ -7,7 +7,7 @@
 
 # import the 2nd ssh-key used fro github
 
-V=`head -1 version.txt`
+V=`head -1 inc/version.txt`
 export V
 
 eval `ssh-agent`

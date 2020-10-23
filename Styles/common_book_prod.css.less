@@ -1,7 +1,7 @@
-/*@page-size: 481.68pt 717.12pt;*/ 
-/*@page-size: 6.69in  9.61in;*/ 
+/*@page-size: 481.68pt 717.12pt;*/
+/*@page-size: 6.69in  9.61in;*/
 
-@page-size: 6.70in  9.62in; 
+@page-size: 6.70in  9.62in;
 
 @main-font:"Times New Roman",Times, serif;
 @h4-font:Tahoma,Verdana,Segoe,sans-serif;
@@ -15,6 +15,16 @@
 @widows:0;
 
 @h6-padding-bottom:0px;
+@default_font_size: 9pt;
+@default_line_height: 12pt;
+
+@h1_font_size: 18pt;
+@h2_font_size: 16pt;
+@h3_font_size: @default_font_size;
+@h4_font_size: @default_font_size;
+@h5_font_size: @default_font_size;
+@h6_font_size: 12pt;
+
 
 /* negative values just make it easier to edit - they effectively are 0 */
 /*@red1border: -1px solid red;
@@ -31,7 +41,7 @@
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA 3.5.8";
+            content: "THOLONIA 3.6.8";
 
             text-align:center;
             font-family: serif;
@@ -43,13 +53,13 @@
             border:@proof-borders;
 /*            height:.25in;
             line-height:.25in;*/
-            font-size: 10pt;
+            font-size: @default_font_size;
             content: counter(page);
             text-align:center;
             font-family: serif;
             color:gray;
             /*bottom: 0.25in;*/
-            
+
             /*margin-bottom:10pt;*/
             padding-bottom:0.25in;
         }
@@ -74,10 +84,10 @@ body {
     padding:@proof-padding;
     size: @page-size;
     font-family: @main-font;
-    font-size: 10pt;
+    font-size: @default_font_size;
     background: inherit;
     tab-size: 2;
-    line-height: 14pt;
+    line-height: @default_line_height;
     /* PRINCE-only tags */
     margin-inside: 0.635in !important;
     margin-outside: 0.32in !important;
@@ -87,7 +97,7 @@ p {
     font-family: @main-font;
     page-break-before: auto;
     text-align: justify;
-    line-height: 14pt;
+    line-height: @default_line_height;
     margin: @zero;
     padding-top: 8pt;
     padding-bottom: 8pt;
@@ -102,18 +112,21 @@ p {
 /* FONTS                                        */
 /************************************************/
 h1 {
-    font-size: 18pt;
+    font-size: @h1_font_size;
     text-align: center;
 }
 h2 {
-    font-size: 16pt;
+    font-size: @h2_font_size;
+}
+h3 {
+    font-size: @h3_font_size;
 }
 h4 {
     /* this is the CLAIM format */
     font-family: @h4-font !important;
     border: 1px solid lightgrey !important;
     background-color: #ddd !important;
-    font-size: 10pt !important;
+    font-size: @h4_font_size  !important;
     font-weight: 200 !important;
     padding-top: 3px;
     padding-bottom: 3px;
@@ -124,7 +137,7 @@ h4 {
 }
 h5 {
     /* this is the authour's quote format */
-    font-size: 10pt;
+    font-size: @h5_font_size;
     font-weight:100;
     font-style: italic;
     color:grey;
@@ -144,7 +157,7 @@ h6 {
     font-family: @h6-font !important;
     text-align: center !important;
     color: black;
-    font-size: 12pt;
+    font-size: @h6_font_size;
     border-left: 0px solid white;
     border-right: 0px solid white;
     border-top: 1px solid black !important;
@@ -162,9 +175,9 @@ blockquote {
     margin-top:@zero;
     margin-bottom:@zero;
 }
-blockquote p { 
-    font-style: italic; 
-    color: grey;  
+blockquote p {
+    font-style: italic;
+    color: grey;
     text-indent: @zero;
 }
 /************************************************/
@@ -189,7 +202,7 @@ ul ul{ /* Second Level */
     margin-left:@list-margin-left;
     margin-top: @list-vert-margins;
     margin-bottom: @list-vert-margins;
-} 
+}
 
 li {
     /*border:@grn1border;*/
@@ -247,9 +260,9 @@ html body nav#TOC ul li ul li ul {
 
 .footnotes ol li p {
     line-height: 11pt;
-    text-align: left;    
+    text-align: left;
     margin:0px;  /* for epub */
-    padding:0px; /* for epub */    
+    padding:0px; /* for epub */
 }
 
 /* we override these valued when we compile with EPUB setting */

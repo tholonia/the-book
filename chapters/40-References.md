@@ -209,6 +209,7 @@
 [^300]: Backster, Cleve & Karron, Db. (1968). Evidence of a Primary Perception In Plant Life. 10. 
 [^301]: http://marcelvogel.org/LabNotesMarcelVogel.pdf
 [^302]: **Structure of hydrogen-stuffed, quartz-like form of ice revealed.** (2017, January 04). Retrieved October 10, 2020, from https://gl.carnegiescience.edu/news/structure-hydrogen-stuffed-quartz-form-ice-revealed
-
-
+[^303]: Lee, H., & Kang, M. (2013). **Effect of the magnetized water supplementation on blood glucose, lymphocyte DNA damage, antioxidant status, and lipid profiles in STZ-induced rats**. *Nutrition Research and Practice,* *7*(1), 34. doi:10.4162/nrp.2013.7.1.34
+[^304]: Gerald Pollack. (n.d.). Retrieved October 19, 2020, from http://wiki.naturalphilosophy.org/index.php?title=Gerald_Pollack
+[^305]: https://www.3blue1brown.com/ ↩
 
