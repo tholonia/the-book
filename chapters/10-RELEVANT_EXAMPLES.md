@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 # 10: RELEVANT EXAMPLES
 
 ###### Everything that exists is a relevant example of an concept. Here are some to stimulate the imagination

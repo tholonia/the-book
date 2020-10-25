@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 # C - An Unexpected Pattern
 
 ###### What is this pattern and why does it exist?

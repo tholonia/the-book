@@ -41,7 +41,7 @@
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA 3.6.8";
+            content: "THOLONIA 3.9.2";
 
             text-align:center;
             font-family: serif;
@@ -293,3 +293,6 @@ html body nav#TOC ul li ul li ul {
 img {
     visibility:visible !important; /* override 'hidden' when images are part of unnumbered classes */
 }
+
+// <HR>is now pagebreak
+hr{opacity:0;page-break-after: always;}

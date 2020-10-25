@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 # 3: ORDER
 
 ###### On every scale of existence, order arises out of chaos and then returns to chaos.  Each cycle of existence can take millennia or nanoseconds.
@@ -44,7 +44,7 @@ Local laws may be local, but they can affect everything that is built upon them.
 
 On a more realistic level, consider a bridge made of bricks.  If the laws that bind molecules together change such that they have a lesser negative charge, then the bridge would melt on a warm day.  The (relatively) *universal* Newtonian laws did not change, only the *local* laws changed on the particle level.  
 
-It&rsquo;s logical that the laws of particle physics affect everything that exists because everything is made of particles, but that does not make the laws of particle physics *universal* in scope, rather, that which is made of particles is *dependent* on the laws that operate in the *local* particle scope, thereby making the side-effects of local laws farther reaching than the laws themselves.
+It&rsquo;s logical that the laws of particle physics affect everything that exists because everything is made of particles, but that does not make the laws of particle physics *universal* in scope, rather, that which is made of particles is *dependent* on the laws that operate in the *local* particle scope, thereby making the effects of local laws farther reaching than their domain.
 
 #### **Claim 9:** Local laws can alter everything that descends from, or depends on them.
 
@@ -66,7 +66,7 @@ In practical terms, this theory says that when something exists in the physical 
 
 It is these local and universal laws that cause form to *unfold,* to *explicate* itself, self-organize, form patterns and move in accordance with these laws.  By the same token, these laws will also *enfold* or *implicate* these forms, causing them to return to an unrecognizable state.  The laws of existence are constantly moving chaos to order and order to chaos.
 
-Here is another example that perhaps better displays the idea.  Below are four identical pages of perfectly random dots, but there are a few dots on each page that have been added.  Looking at any one page it would be impossible to detect any pattern.  As we merge the pages, the randomness gets denser and denser until a pattern of order emerges.
+Here is another example that perhaps better displays the idea.  Below are four identical pages of perfectly random dots wherein no pattern or order can be seen. As we merge the pages, the randomness gets denser and denser until a pattern of order emerges. 
 
 <center><img src='../Images/007-hidden-random.png' style='width:100%'/></center>
 

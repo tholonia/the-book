@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 # 4: THE LAWS
 
 ###### Energy creates movement, movement follows laws, laws create order, and order directs energy.  Each level of existence expresses the Universal laws to the best of its ability according to the local laws it operates under.
@@ -19,7 +19,7 @@ This is also how batteries work.  A charged battery has low entropy (high usable
 
 In the good ol&rsquo; days (1930s to 1960s) classical physics defined entropy as *disorder*, but this is not really accurate.  More accurately, entropy &ldquo;*provides insights into the notions of randomness, typicality and disorder*&rdquo; [^13].  For an excellent overview of the misconceptions of entropy, see &ldquo;*Entropy as Disorder: History of a Misconception*&rdquo;  [^14] A better way to think about entropy is that it is a measure of energy dispersion; the more entropy, the more equally energy is dispersed.  Another way to state this is to say that entropy is a measure of the *lack* of energy available for work.  This describes our dead battery, which still has all the electrons and their energy, but they are useless (from a battery&rsquo;s work perspective).  Because this dispersion is the result of energy always seeking balance, can we say that entropy is a measure of the state of balance?  As you&rsquo;ll see, the definition of entropy has been changed for every discipline that uses it.
 
-In the water example, if we have two identical bodies of water, one 100 feet above the other, we say that the upper body of water has lower entropy than the lower body of water, and the lower body of water has higher entropy than the upper body of water, but there is no difference between these two bodies of water when compared independently.  The difference only appears when compared to each other, because one is higher than the other.  We can say that both bodies are in a (slightly) higher state of chaos when they are not connected because they have more entropy because there is no movement of energy.  Once they are connected, and the water begins to flow, there is movement of energy, and order follows.
+In the water example, if we have two identical bodies of water, one 100 feet above the other, we say that the upper body of water has lower entropy than the lower body of water, and the lower body of water has higher entropy than the upper body of water, but there is no difference between these two bodies of water when compared independently.  The difference only appears when compared to each other, because one is higher than the other.  We can say that both bodies are in a (slightly) higher state of chaos when they are not connected because they have more entropy as there is no movement of energy.  Once they are connected, and the water begins to flow, there is movement of energy, and order follows.
 
 Because we will be talking about balance throughout this entire book, let&rsquo;s make it clear what we mean when we use the word.  Depending on context, the word *balance* can refer to one of two different meanings:
 
@@ -46,9 +46,27 @@ This is partly due to that fact there can be many conditions to consider, depend
 
 #### **Claim 11:** Everything is in a state of seeking and/or maintaining balance.
 
-We have a contradiction now.  If balance reduces available energy, and lack of energy increases disorder, then that suggests that balance equals disorder!  This makes no sense, as balance is essentially a definition of order.  The confusing part of this is how we define *disorder*.  Disorder is a vague and subjective concept, because order can take many forms in many contexts, and &ldquo;disorder&rdquo; often means &ldquo;no understood order&rdquo;.  Here we are defining disorder as simply the lack of available energy within a system.  And yes, this would imply that balance = disorder, or rather, one particular state of disorder.  In this case we are defining *balance* as a state where energy no longer needs to move and *disorder* as a state where no energy is available.
+We seem to have a contradiction now.  If balance reduces available energy, and lack of energy increases disorder, then that says disorder must increase with balance, which sounds very incorrect.
 
-#### **Claim 12:** Balance is a state of disorder.
+In that first moment the universe came into being, there was total energy and nothing was balanced. This is when the balancing act of reality began. At the end of the universe, there is no longer any need for the act of balancing because everything has become balanced. The universe started with a verb, and ends with a noun.  Wherever there is energy, there is some condition of balance, and we say that things are balanced when their net difference, is whatever way we are measuring, is 0.
+
+When we say something is *balanced*, what we really mean is that something has enough order to maintain a process of sustainability, which means there is a movement of energy, which means there is available energy, which means there is *balancing*, which means not all energy is *balanced*, for if it was, nothing would be moving.
+
+With this in mind, we would not say that *balance* is a state of *disorder*, but we could say *chaos* is a state of *balance*.  For simplicity's sake, think of the two states of chaos as the two states of balance, where low-entropy/high-energy is a state of balance where there is more energy that is *balancing* than is *balanced*, and high-entropy/low-energy is where more energy is *balanced* than is *balancing*.
+
+These are the three of the main concepts we will be returning to throughout this book.
+
+- **Chaos:** Degree order is present in any state.
+- **Order:** Inverse of entropy, which is a measure of disorder, which is a lack of pattern in form or movement of energy.
+- **Balance:** The act of balancing and/or state of balance.
+
+All of these have to do with energy.  Below is a conceptual graph of this idea (stress on the word *conceptual*… i.e. do not use this chart to plan your next time-travel adventure).
+
+
+
+<center><img src='../Images/balancemap.png' style='width:70%'/></center>
+
+#### **Claim 12:** Chaos is a state of balance.
 
 ## Inertia
 

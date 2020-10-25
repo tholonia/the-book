@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 # 11: PREDETERMINISM
 
 ###### Free will exists, but its options are limited

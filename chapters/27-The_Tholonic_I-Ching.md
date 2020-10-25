@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 # H - The Tholonic I-Ching
 ###### Examining the I-Ching from a Tholonic perspective. !!This section of very beta... much of it will probably change!!
 
@@ -23,7 +23,7 @@ Of these, the I-Ching is the best candidate for the following reasons&hellip;
 - Unlike the Hindu texts, and to a lesser degree the Kabbalah, the I-Ching is constantly evolving. What began as a primitive ritual of comparing tortoise shell cracks to the stars in the sky has evolved into a form of binary math that even great thinkers of today appreciate. The I-Ching&rsquo;s ability to adapt to and incorporate new perspectives is critical in this case.
 - It has found a home in every major culture in the world; Western, Jewish, Islamic, Asian and East Asian and its ideas have been incorporated into philosophy, religion, art, literature, science, technology and medicine and is studied at major universities (Oxford, Cambridge, Columbia, Stanford, etc.).
 
-So, let&rsquo;s deconstruct the I-Ching using the tholonic modal and see what we find.
+So, let&rsquo;s deconstruct the I-Ching using the tholonic model and see what we find.
 
 There are many, many books on the origins and philosophy of the I-Ching, so we are not going to get into that here.
 
@@ -421,7 +421,7 @@ In *Perspective 2*, rather than assign values to the rows, we assign them to the
 
 <center><img src='../Images/perspectives.png' style='width:100%'/></center>
 
-Both perspectives have patterns. The top-down binary modal of *Perspective 1*, similar to the I-Ching, shows the cardinal points (0, 1, 5, 7) as being composed of only primary elements (red and green only), and it shows the dynamic points (2, 3, 4, 6) as having a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. We also see that the opposing pairs and the negatives  (as in photo negatives) of each other and alternate mirroring one another and 
+Both perspectives have patterns. The top-down binary model of *Perspective 1*, similar to the I-Ching, shows the cardinal points (0, 1, 5, 7) as being composed of only primary elements (red and green only), and it shows the dynamic points (2, 3, 4, 6) as having a new composite element of yellow, which is what we get when a red and a green overlap each other. This supports the argument of which trigrams are static and which are dynamic. We also see that the opposing pairs and the negatives  (as in photo negatives) of each other and alternate mirroring one another and 
 
 The object-oriented *Perspective 2* uses the cyclical tholonic values as they are assigned to the tholonic trigrams. We definitely see patterns there, and no doubt they can shed new light on both the I-Ching and the thologram.
 

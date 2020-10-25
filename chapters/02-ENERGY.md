@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 # 2: ENERGY
 
 ###### Nothing exists without energy.  Everything exists because of the laws of energy.

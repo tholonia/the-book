@@ -1,4 +1,4 @@
-<div style='page-break-after: never; break-after: none;'></div>
+<div style='page-break-after: always; break-after: always;'></div>
 ###### Footnotes, references, links, comments, etc.
 [^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 [^2]: Gleick, J. (1998). **Making a New Science**.
@@ -212,4 +212,12 @@
 [^303]: Lee, H., & Kang, M. (2013). **Effect of the magnetized water supplementation on blood glucose, lymphocyte DNA damage, antioxidant status, and lipid profiles in STZ-induced rats**. *Nutrition Research and Practice,* *7*(1), 34. doi:10.4162/nrp.2013.7.1.34
 [^304]: Gerald Pollack. (n.d.). Retrieved October 19, 2020, from http://wiki.naturalphilosophy.org/index.php?title=Gerald_Pollack
 [^305]: https://www.3blue1brown.com/ ↩
+
+[^306]: There are many examples, such as the *Baghdad battery* and other evidence of electricity, the largest stone pillars in the world  of  Göbekli Tepe which we could not replicate today, knowledge of heavenly bodies, the construction of the pyramids, and more.  One of the more obscure and fascinating mysteries is that of **Min**, the masculine god of fertility and sexuality, who depicted as a man with an erection, but in that depiction where he appears to be ejaculating, there is a very clear diagram of not only what looks a sperm cell, especially given its placement a context.  According to our understanding of that time, it would have been quite impossible for the Egyptians to have microscopes that were at least 100x in power.  This carving is from 2500 B.C.E.
+
+<img src="..\Images\sperm.png" style="width:100%"/>
+
+[^307]: Radin, D., Hayssen, G., Emoto, M., & Kizu, T. (2006). Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation. *Explore,* *2*(5), 408-411. doi:10.1016/j.explore.2006.06.004
+
+
 

@@ -180,7 +180,6 @@ def md2html(chapter):
     vernum = get_version()
     cx = "pandoc"
     cx += f" --pdf-engine=xelatex"
-
     cx += f" --include-in-header=file:///home/jw/books/tholonia/Styles/common_book{STATE}_header.css"
     cx += f" --from=markdown+tex_math_dollars+tex_math_single_backslash"
     cx += f" --template=tholonia.html5"  # /usr/share/pandoc/data/templates/
@@ -189,6 +188,7 @@ def md2html(chapter):
     cx += f" --standalone"
     cx += f" --verbose"
     cx += f" --top-level-division=chapter"
+    # cx += f" --lua-filter={H}/inc/pagebreak.lua" #using HTML instead
     cx += f" --toc"
     cx += f" --webtex"  # current;y using local images so not nec
     cx += f" --metadata title='Tholonia'"
@@ -358,12 +358,18 @@ def cleanold():
 # ----------------------------------------------------------------------
 # -----------------------------------------------------------------------
 
-#STATE = "_prod"
-STATE = "_dev"
+STATE = "_prod"
+#STATE = "_dev"
+
+
 
 print(f"NEW VERSION: {update_ver()}")
 mkcss()
 rebuildmd()  # make new complete MD file
+
+
+#use this for testing
+# os.system(f"cp {H}/chapters/100.md  {H}/chapters/THOLONIA_THE_BOOK.md")
 
 #
 md2html("THOLONIA_THE_BOOK")
