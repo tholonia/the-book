@@ -17,7 +17,7 @@
 @h6-padding-bottom:0px;
 @default_font_size: 9pt;
 @default_line_height: 12pt;
-
+@toc_fone_size: 10pt;
 @h1_font_size: 18pt;
 @h2_font_size: 16pt;
 @h3_font_size: @default_font_size;
@@ -41,7 +41,7 @@
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA 3.9.2";
+            content: "THOLONIA 3.5.65";
 
             text-align:center;
             font-family: serif;
@@ -239,7 +239,7 @@ html body nav#TOC ul li ul li ul {
     text-decoration:  none;
     color: black;
     font-weight: bold;
-    font-size: 11pt;
+    font-size: @toc_fone_size;
     line-height:9pt;
 }
 
@@ -247,7 +247,7 @@ html body nav#TOC ul li ul li ul {
     text-decoration:  none;
     color: black;
     font-weight: 100;
-    font-size:11pt;
+    font-size:@toc_fone_size;
 }
 /************************************************/
 /* FOOTNOTES                                    */

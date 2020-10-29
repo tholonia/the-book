@@ -37,7 +37,7 @@ We have been making the case that ideas themselves are an expression of energy, 
 
 However, this intelligence is quite different from what we would call human intelligence because of its aggregate nature.  It&rsquo;s more of a recursively embedded network of countless decentralized nodes of intelligence.  It&rsquo;s the intelligence of the thologram as a whole rather than the human intelligence of one tholon alone.  A more graspable metaphor that applies to intelligence is that of a large tree.  Each part of that tree is an instance of the concept of &ldquo;tree&rdquo;; trunk, branch, stem, leaf, seed, etc.  There can be many instances of each contributing tholon, such as a leaf, but they are all part of &ldquo;tree&rdquo; and can only exist within the parent &ldquo;tree&rdquo; tholon.  You and I, and all things.  are but &ldquo;leaves&rdquo; or &ldquo;seeds&rdquo; or &ldquo;stems&rdquo;, or parts thereof, on this tree of universal intelligence, and like the leaf, we can not exist without it (even if we think we can).
 
-### Aggregates
+## Aggregates
 
 One of the attributes of a tholon, unlike its holarchic predecessor, is that the context and scope of a tholon is not only defined by the dualities of that tholon, but also by all the tholons above and below, as the children tholons are always contributing to the parent, and the parents are always defining the children.
 
@@ -55,7 +55,7 @@ All institutions of society are not simply autonomous social units isolated from
 
 This is equally true for the institution of modern science which is as much a product of interinstitutionality as any other single institution.  Far from the myth of a secular, objective and safe-guarded institution, modern science is itself an amalgamation of a whole host of non-scientific institutional factors such as the market, education, special interests, the state, politics, professions, culture, and more. 
 
-### Tholonic Intelligence
+## Tholonic Intelligence
 
 We have a concept of a *human* collective intelligence, but we define it as something that has emerged from human intelligence, as opposed to human intelligence being an instance of an existing collective intelligence.
 
@@ -81,7 +81,7 @@ Because we consider tholonic instances (*things* like trees, humans, and planets
 
 These archetypal intelligences, or collective minds, interact with one another according to the three fundamental relationships as already noted: Negotiation, Definition, and Contribution.
 
-### Cooperation
+## Cooperation
 
 While competition and cooperation are pillars of Darwinian evolution, the tholonic view is that Darwinian evolution is more inaccurate than accurate when it comes to how instances of life learn and evolve, and at the same time, it is more accurate than inaccurate in describing how tholons interact and evolve (but Darwinian evolution as a whole only represents a small contribution to the tholonic model).
 
@@ -99,7 +99,7 @@ This sounds quite similar to the improbabilities described in the tall-tales of 
 
 A better explanation is that the intelligences of the archetypes made this arrangement and once made ,was perceived by their instances, the birds and the humans, who effectively test-drove the idea to the best of their limited abilities.  We see these same type of arrangements in ants, spiders, beetles, monkeys, and countless other lifeforms, including planets if we consider their interdependence.
 
-### Competition
+## Competition
 
 The same applies to non-cooperative arrangements.  Take the example of *cymothoa exigua*, a tiny crustacean that attaches itself to the base of the fish&rsquo;s tongue and begins sucking the blood out of the fish&rsquo;s tongue.  Eventually, the tongue shrivels up and fall off, at which point the parasite attaches itself to the tongue muscles and actually becomes the fish&rsquo;s tongue, presumably getting first dibs of anything the fish plans to eat.
 
@@ -133,13 +133,29 @@ I would very much like to have someone explain to me how this process not only e
 
 The tholonic view of this is that the tholonic intelligence of both of these archetypes that are behind the amazingly sophisticated techniques, strategies, adaptation, planning, forethought, chemistry, etc.
 
-### Findhorn
+## Findhorn
 
 This idea of objective intelligences was also known among the founders of the miraculous Scottish community founded in 1962 called Findhorn.  The founders claim they managed to turn their arid desert-like terrain into a lush garden by communicating with the spirits (i.e.  tholonic intelligence) of the plants, and of the earth itself, who guided them on how to properly use the soil despite it being very poor quality.  Soon, they were producing 40-pound cabbages and stunning horticultural experts who came to see this miracle garden from around the world.
 
 They also claim they managed pest control, as they use no chemicals or pesticides, by forming cooperative relationships with the collective intelligences of each species; the deer, the bugs, the rabbits, etc.  Reportedly this worked very well with all the species except one.  The rat was not interested in any &ldquo;deal&rdquo; and stood firm in its &ldquo;it&rsquo;s either you or us&rdquo; position.  The last part is anecdotal, as it was told to me personally, but what is not anecdotal is Findhorn&rsquo;s phenomenal success in horticulture in an area considered impossible for what they have accomplished.
 
 There are countless examples of tholonic cooperation and competition, and some of them are even being studied.  The Canadian anthropologist Jeremy Narby does a great job of this (inadvertently) in his book *The Cosmic Serpent: DNA and the origins of knowledge*, which he wrote after living several years in the Amazon studying the shamanic knowledge of botanics.  His book explores the relationships and similarities between indigenous knowledge and our modern understanding of molecular biology, medicine, and DNA.  We won&rsquo;t get into his amazing discoveries here, other than to say that their understanding demonstrates some sort of access to knowledge far beyond what could reasonably be considered to have been passed down by folklore and legend.  It is well worth the read.
+
+## The Cambrian Explosion
+
+*This subject is a little out of place here, but no matter where it was placed it seemed out of place.  Because we are looking at tholonic intelligence, and this is specifically related to tholonic intelligence, it seemed to be somewhat applicable.*
+
+The Cambrian explosion is a good example of a world-changing reorganization of tholonic hierarchy and integration that took place over many millions of years 530 million years ago.  If you ask a historian what caused the Cambrian explosion, they will tell you it it was starbursts from the Milky Way, or genomic reorganization, or geochemical/environmental causes, such as photosynthesis which raised oxygen levels.  However, they will all agree that whatever the cause, there were many, many interlinked and codependent processes.  All these explanations are not really explanations, but rather descriptions; this happened, then that happened, then another thing happened causing more things to happen...  But why did it happen? In every answer to that question, the &ldquo;why&rdquo; is simply a description of the effects of some other cause, and when we don&rsquo;t know the cause, we hypothesize a cause that could explain the effects (which become the causes).  Many of these *theories of causes* turn out to be correct, as we would expect, considering that this reality is made *only* of effects, which serves as causes for more effects.
+
+From the tholonic perspective, there are three types of causes.
+
+- **The originating intention**.  This is the 0-dimensional single dot that expanded itself through awareness of itself.  Science sees this as the Big Bang.
+- **The cause of effects.** Effects that act as causes in a cascading chains of events.  These are actually children of the original cause or intention, but as that is beyond our comprehension, we can only understand what we perceive.
+- **The intention to cause**.  This is a cause that is initiated by the willful intention of an intelligence.  The easiest example of this is when we decide to do something, like turn in a light.  Currently, we understand that willful intention is only exercised by higher forms of life, but from the tholonic understanding, tholons themselves can exert willful intention if we accept the definition of &ldquo;will&rdquo; as *disposition* or *inclination*, as tholons have a natural disposition and inclination.
+
+The answer to &ldquo;Why was there a Cambrian explosion?&rdquo;, or any event for that matter, big or small, across all contexts, is that it was the most efficient and stable expression of energy at the time that was compatible with the intentions of all the contributing tholons.
+
+
 
 [^83]: https://www.youtube.com/watch?v=2_sgFETJzak
 [^84]: Seager, William, and Sean Allen-Hermanson. **&ldquo;Panpsychism.&rdquo;** Stanford Encyclopedia of Philosophy, Stanford University, 23 May 2001, <https://plato.stanford.edu/archives/win2012/entries/panpsychism>

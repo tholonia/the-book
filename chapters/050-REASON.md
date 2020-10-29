@@ -284,15 +284,19 @@ This seems to be the most popular theory and it comes with various finales (Big 
 
 Can you see the relationship between the Big Bang Theory and the harmonograph as a device that takes an initial push and then takes some time to create a two-dimensional design on a blank surface as that initial energy slowly diminishes? If one could imagine a 12-dimensional harmonograph with countless variables in each dimension, one might be able to imagine how it could easily &ldquo;draw&rdquo; a 3-dimensional universe.
 
+One clever twist to this theory is that Big Bangs occur *inside* black  holes, creature new universes, which have black holes, which create Big Bangs, creating an unending cycle of cascading and embedded realities: Big Bang &rarr; Universe &rarr; Black Holes &rarr; Big Bang&hellip; rinse and repeat.  This is called the BHBBT (Black Hole Big Bang Theory).
+
+<CENTER><img src='../Images/boom.png' style='width:100%'/></CENTER>
+
 ### Eternal Inflation
 
 This is also called a &ldquo;Level II Multiverse&rdquo; and states a) after the Big Bang the universe never stopped inflating, b) that this has been going on for an infinite amount of time and c) it continually creates new universes (multiverses) that also exist for infinite time.  It is not clear how something can have a beginning, can be created, and yet exist for infinite time as there can be no &ldquo;beginning&rdquo; to infinite time, but we&rsquo;re talking quantum theory stuff, so, I guess anything is possible in that world where time and space may mean something different then what we are used to, if they mean anything at all.  The paper Stephen Hawking was working on when he died claims this theory is for the birds, that there is only one universe, and this can be proven if we just get rid of the concept of time… so, even the rebuttal to this theory is inconceivable.
 
 ### Oscillating Universe
 
-Also called the &ldquo;cyclic model&rdquo; and involves an endless series of Big Bangs, followed by Big Crunches, and is explained by the collisions of &ldquo;membranes&rdquo; in a higher-dimensional space.
+Also called the &ldquo;cyclic model&rdquo; and involves an endless series of Big Bangs, followed by Big Crunches, and is explained by the collisions of *membranes* in a higher-dimensional space.  This is different from the BHBBT in that is the same universe that is expanding and crunching (like some sort of multidimensional cosmic combustion engine?).
 
-The question this model raises is, does the &ldquo;memory&rdquo; of the previous &ldquo;bangs&rdquo; survive each crunch? We address the idea of universal memory later, so we won&rsquo;t get into it here other than to ask if each new bang is a hard reset.
+The question this model raises, and the BHBBT model as well, is, does the &ldquo;memory&rdquo; of the previous &ldquo;bangs&rdquo; survive each crunch? We address the idea of universal memory later, so we won&rsquo;t get into it here other than to ask if each new bang is a hard reset.
 
 ### Holographic simulation hypothesis 
 
@@ -428,9 +432,7 @@ In humanity&rsquo;s quest to understand reality and its processes, either throug
 [^43]: Parvinen, Kalle, and Ulf Dieckmann.  "**Environmental Dimensionality**"".  *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008.  <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
 [^44]: **List of cycles**.  (2019, April 27).  <https://en.wikipedia.org/wiki/List_of_cycles>
 [^45]: **&ldquo;Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World&rdquo;** <https://grahamhancock.com/geographic-geometric-relationships-alisonj
-[^306]: There are many examples, such as the *Baghdad battery* and other evidence of electricity, the largest stone pillars in the world  of  Göbekli Tepe which we could not replicate today, knowledge of heavenly bodies, the construction of the pyramids, and more.  One of the more obscure and fascinating mysteries is that of **Min**, the masculine god of fertility and sexuality, who depicted as a man with an erection, but in that depiction where he appears to be ejaculating, there is a very clear diagram of not only what looks a sperm cell, especially given its placement a context.  According to our understanding of that time, it would have been quite impossible for the Egyptians to have microscopes that were at least 100x in power.  This carving is from 2500 B.C.E.
-
-<img src="/home/jw/books/tholonia/chapters/../Images/sperm.png" style="width:100%"/>
+[^306]: There are many examples, such as the *Baghdad battery* and other evidence of electricity, the largest stone pillars in the world  of  Göbekli Tepe which we could not replicate today, knowledge of heavenly bodies, the construction of the pyramids, and more.  One of the more obscure and fascinating mysteries is that of **Min**, the masculine god of fertility and sexuality, who depicted as a man with an erection, but in that depiction where he appears to be ejaculating, there is a very clear diagram of not only what looks a sperm cell, especially given its placement a context.  According to our understanding of that time, it would have been quite impossible for the Egyptians to have microscopes that were at least 100x in power.  This carving is from 2500 B.C.E. <img src="/home/jw/books/tholonia/chapters/../Images/sperm.png" style="width:100%"/>
 
 
 

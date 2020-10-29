@@ -1,5 +1,8 @@
 <div style='page-break-after: always; break-after: always;'></div>
-# G - Hidden Images
+<div style='page-break-after: always; break-after: always;'></div>
+
+# Appendix E - Hidden Images
+
 ###### Information encoded within information
 <center><img src='../Images/embedded-page.png' style='width:100%'/></center>
 

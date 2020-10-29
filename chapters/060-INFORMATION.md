@@ -5,7 +5,7 @@
 
 We see these same patterns in information as well.  How, then, do we define *information*?
 
-### Data
+## Data
 
 Before we can address the definition of *information*, we have to address the definition of *data*.  To begin to answer that, we can deduce that there is no data in the void of nothingness.  Data can only exist within the duality where energy oscillates within finite boundaries in accordance with specific laws of existence.  So, what is the difference between data and existence itself?  Data is the static byproduct of the movement of energy.
 
@@ -21,7 +21,7 @@ If we accept the premise that everything that exists does so within the laws of 
 
 What, then, is information? The classic and simplest definition is &ldquo;*data that we can use to understand something*&rdquo;, which is just another way of saying &ldquo;*Information is data that has meaning*&rdquo;.
 
-### Understanding
+## Understanding
 
 This raises the question *&ldquo;What is understanding?&rdquo;* Again, the traditional meaning is *&ldquo;the knowledge of why or how something happens or works&rdquo;.* This is pretty unsatisfactory, and quite arguably wrong.  At the risk of sounding Clintonesque here, debating what the definition of &ldquo;is&rdquo; is, the words *&ldquo;use&rdquo;* and *&ldquo;understand&rdquo;* are completely subjective and offer no real definition, and with the word &ldquo;work&rdquo; defined as simply *&ldquo;to function or operate according to design&rdquo;*, this entire definition is vague, as best.
 
@@ -41,7 +41,7 @@ Simply *knowing* the details of a situation is not the same as *understanding* t
 
 A better definition of understanding might be &ldquo;the knowledge of something sufficient enough to be able to make verifiably accurate statements regarding said thing&rdquo;.
 
-### Verification
+## Verification
 
 But this too falls short depending on what *verifiable* means.  For example, four people have to solve the following puzzle:
 

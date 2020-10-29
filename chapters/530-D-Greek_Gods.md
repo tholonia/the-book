@@ -1,9 +1,11 @@
 <div style='page-break-after: always; break-after: always;'></div>
-# F - Greek Gods
+<div style='page-break-after: always; break-after: always;'></div>
+
+# Appendix D - Greek Gods
 
 ###### You wouldn't want to bump into them in a dark alley
 
-According to Greek mythology, the world began with several primordial beings who begat more gods, who begat even more gods, and so on. What follows is a brief overview of that begetting and the cosmic drama that typically follows the begetting of gods.
+According to Greek mythology, the world began with several primordial beings who begat some gods, who then begat even more gods, and so on. What follows is a brief overview of that begetting and the cosmic drama that typically follows the begetting of gods.
 
 *(The following is a slightly modified transcript reprinted with permission from “The Life Guide” YouTube channel (*[*https://www.youtube.com/c/TheLifeGuide*](https://www.youtube.com/c/TheLifeGuide)*), entitled “Greek Gods Explained In 12 Minutes”.)*
 
@@ -29,7 +31,7 @@ In the story of **Theseus** and the **Minotaur**, **King Minos** rules over the 
 
 Past **Charon** lay **Cerberus**, the fabled three-headed dog who guards the gates of the underworld. Ultimately, the soul will reach the three judges of the underworld, who decide where it should go. They can choose **Elysium**, the Fields of **Asphodel**, or **Tartarus**. **Elysium** is akin to heaven, a peaceful place where the souls of heroes, demigods, and especially good mortals reside. The **Asphodel Meadows** is the place for ordinary folk who did not achieve anything notable in life, good or evil.
 
-**Tartarus** is very similar to Hell and contains not only the **Titans** but also criminals who upset the gods and who are tortured for eternity. **Hera**, sister and wife of **Zeus**, and queen of the Gods was the protector of marriage and women. She was deeply respected in Greek society. She was one of the most vengeful and spiteful gods, punishing women who lay with her husband and any subsequent children. When **Leto** was pregnant with **Apollo** and **Artemis**, Hera stopped her giving birth. She kept **Io**, another of **Zeus’s** mistresses, as a heifer and had her guarded by the hundred-eyed monster, **Argos**.
+**Tartarus** is very similar to Hell and contains not only the **Titans** but also criminals who upset the gods and who are tortured for eternity. **Hera**, sister and wife of **Zeus**, and queen of the Gods was the protector of marriage and women. She was deeply respected in Greek society. She was one of the most vengeful and spiteful gods, punishing women who lay with her husband and any subsequent children. When **Leto** was pregnant with **Apollo** and **Artemis**, Hera stopped her giving birth. She kept **Io**, another of **Zeus’s** mistresses, as a heifer, and had her guarded by the hundred-eyed monster, **Argos**.
 
 A famous tale of her jealous vengeance is the story of **Hercules**. **Hercules** was an illegitimate child of **Zeus**. **Hera** sent serpents to kill the future hero when he was just a child, but the demigod crushed the creatures with his bare hands. She later drove him to madness, making him kill his wife and children, the event that sent him on his 12 labors.
 

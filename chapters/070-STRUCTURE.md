@@ -342,7 +342,7 @@ From the tholonic perspective, this is a very incomplete description because it 
 
 <center><img src='../Images/051-firstdot.png' style='width:100%'/></center>
 
-*(Unfortunately, if you are reading this on a black and white eBook reader, these color patterns are meaningless. See Appendix &ldquo;About This Book&rdquo; to test the gray scale of the primary colors on your e-reader.)*
+*(Unfortunately, if you are reading this on a black and white eBook reader, these color patterns are meaningless. See Appendix A, &ldquo;About This Book&rdquo; to test the gray scale of the primary colors on your e-reader.)*
 
 We start with a 0-dimensional dot represented by a blue dot in the middle of nothing *(**Fig. c1**)*.  Because it is 0 dimensions and surrounded by nothing, it only exists as a concept.  It has no form, no dimensions, no properties other than that it is a *concept* of a point that exists.  But where does it exist? It can&rsquo;t be measured, seen, or interacted with in any way, so how can we say it even exists?  We can only say it exists because of the awareness of its existence.  The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the *idea* of an imaginary point in a void of nothingness.  Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.  This is our first duality, that of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance.
 
@@ -400,7 +400,7 @@ We now have a tetrahedron.
 
 We can easily demonstrate this by simply folding the three outer trigrams up until their three points meet.  The folding occurs naturally because it represents the most balanced and efficient interaction between a set of four unique dots (R, G, B, W), and as energy will always travel the path of least resistance, folding would naturally occur.
 
-*Note: This same concept is also explained in a mathematical manner in the chapter &ldquo;How Creation Works&rdquo; in Appendix F, &ldquo;Tholonia and the I-Ching&rdquo;.* 
+*Note: This same concept is also explained in a mathematical manner in the chapter &ldquo;How Creation Works&rdquo; in Appendix G, &ldquo;Tholonia and the I-Ching&rdquo;.* 
 
 ## Holons to Tholons
 
@@ -428,9 +428,7 @@ We can also visually represent the relationships in the following manner, which 
 
 <center><img src='../Images/055-holonrel2.png' style='width:80%'/></center>
 
-## Tholograms
-
-### Geometry II
+## The Thologram
 
 <img src='../Images/056-NDCpoints.png' style='float:right;width:40%'/>Let&rsquo;s take these three relationship attributes of **N**egotiates,  **D**efines, and **C**ontributes (which we&rsquo;ll shorten to just N, C, and C) and map them to the three points of a trigram.  One point to add here is that the word *negotiate* is synonymous with *achieving a balance*.  We could even replace the word *negotiate* with *balance* but *negotiate* implies a process rather than a state, plus, the word *balance* has a lot of baggage in today&rsquo;s culture that we&rsquo;d prefer not to inherit, so *negotiate* is a better word.
 
@@ -502,6 +500,12 @@ This trigram is the basic tholonic model that describes the movement of energy i
 
 We can speculate a number of things from this trigram, but the one detail that is important before moving on is that the initial 0-dimensional blue dot, or what we will call the N-point, is the originating point, and the only point that is able to replicate itself.  Why this is so will be explained shortly.  We will also refer to the blue-dot N-point as an N-state or an N-source, depending on how it is being viewed.
 
+
+
+
+
+
+
 ### House of Mirrors
 
 The tholographic claim is that within the trigram there is energy, and therefore movement, and therefore patterns and oscillations from which stable states will arise that are sustainable enough to form a new N-state that is capable of transferring energy across the scope defined by C and D.  Even though one particular state will exist at one specific point on the 1-dimensional spectrum/line between C and D, all possible states will cover the entire range between C and D.  We can generally guess where along the line various states will arise by applying a Bell curve to this line.
@@ -520,223 +524,11 @@ By these descriptions, we can describe a general process that defines creation a
 
 At the most abstract levels, this describes the Big Bang Theory, biological reproduction, the laws of physics, philosophy, and anything else that exists in any sort of duality. 
 
-### Inner, not Outer
+<div style="padding-left:20px; padding-right:20px;padding-top:10px;padding-bottom:10px;   border:1px solid black;  border-radius: 15px;text-align:center;">
+In the earlier version of this book, at this point we drilled deeper in the geometric reasoning that describes the construction of the self-similar tetrahedron, which is the model of the thologram itself.  This section also described how tholonic properties skip a generations, similar to genetics, its similarities and differences to the Sierpinski triangle and some molecular structures, and explains virtual tholons and why they have to exist.  All of that has been moved to <B>Appendix B, &ldquo;The Thologram&rdquo;</B> so as to make the flow of the main part of the book a bit smoother.  However, it is worth a browse, at least, even if you are not intereted in the details, as these concepts will be referred to later on.
+</div>
 
-<center><img src='../Images/flower-of-life-dots.png' style='width:60%'/></center>
 
-We have seen how the creation of a single trigram will automatically create additional trigrams as part of the same creative process.  This would imply that there is an infinitely expanding realm of trigrams, as shown in ***Fig. c9*** in the &ldquo;Geometry I&rdquo; chapter.  This pattern, when limited to 37 points, is often called the *flower of life*, as pictured above (*the added &bullet; - + symbols are there for the benefit of black and white ebook readers*).  The tholonic model sees it a little differently.  If we are claiming that the first instance of creation, that of the one dot becoming two, and the two becoming three, etc., even if we are just speaking metaphorically, then what we are also claiming is that this first trigram represents the very first polar duality created by the first non-polar duality of somethingness and nothingness.  This would then imply that every duality and trigram that follows must exist *within* the first trigram, not outside of it, because every succeeding duality can only be a subset of this first duality and certainly cannot exist outside the bounds of somethingness and/or nothingness.
-
-If we draw our expanding trigrams such that the children are always contained within the parent we see a very different pattern.
-
-<center><img src='../Images/061-tri-to-tho.png' style='width:100%'/></center>
-
-In this example diagram ***Fig. p1*** above, the outermost N, D, C points represent the first trigram.  You&rsquo;ll see in ***Fig. p2*** on the CD line of this parent trigram a new N-state was formed.  It too naturally bifurcates and expands in the same manner as its parent until it reaches its limits of the boundaries of the parent and in doing so creates three additional trigrams.
-
-You may also notice what looks like an inconsistency in the order of the letters.  In ***Fig. p1***, the parent trigram, the order of NDC is clockwise, but the same three points of the resulting inner trigram are counter-clockwise.  It&rsquo;s not actually a reordering, as the children trigrams represent completely new creations.  The original NDC is still there in the parent, but we are only looking at the children in ***Fig. p2***.  The reason the children have a different order is because the new generation was spawned by the new N-source between C and D, and as D is always the first to follow N, and always on the left of N (left, or *portside*, to be more accurate, is arbitrary, but we need to remain consistent).  This newly spawned D will appear on the opposite side of the parent&rsquo;s D.  The same applies to C.  Not coincidentally, the new top-most trigram has the exact same order of points as the parent.  The parent always creates a smaller replica of itself in each generation.  You&rsquo;ll also notice that each of the outer trigrams is a reversed copy of the one central trigram.
-
-We started with one trigram, created one more, resulting in 4 trigrams.  Each generation of self-similar creation increases the number of trigrams by 4.  Here is what the generations look like.
-
-<center><img src='../Images/062-4generations.png' style='width:100%'/></center>
-
-In the 1^st^ generation of a simple trigram, we see a few fundamental rules, such as:
-
--   All sides are of equal length
--   Every point is connected to every other point.
--   Two points define a line, three points define a trigram.  (seems super obvious now, but wait…)
--   The area of the trigram is known.  <img src="../Images/math/338.svg" style="vertical-align:middle;height:24pt"/>  
--   The radius of the incircle is exactly half the radius of the circumcircle.
--   The end-point where any two lines meet is always the middle of the line formed by the two adjacent points.
--   The total number of degrees of the angles equals half the total degrees of a circle.  This is especially significant later.
--   The 3^rd^ red dot is a product of the 1^st^ blue dot and the 2^nd^ green dot, and the next generation N-state blue dot is a product of the 2^nd^ green dot and the 3^rd^ red dot that form the CD spectrum or line.
-
-You&rsquo;re probably thinking &ldquo;What? Red and green don&rsquo;t make blue!&rdquo;  This is half true.  Red and green make yellow, and yellow, when blended with the parent blue, make magenta and cyan… and cyan and magenta make blue.  So, red and green parents do not make blue children, but they make blue grandchildren.  We see an instance of this in the way recessive genetic traits can be become dominant in every other generation (in the absence of an existing dominant trait), which is what we would expect tholonically as genetics are one of the better examples of an instance of tholonic fundamentals.
-
-This is worth a demonstration.  Here is that same process described above but with simple colors from the color wheel to show how the children interact with the parents.  These are the same colors we used above to represent the domains.  This is an important point, but because the process is the same for every generation, we are going to just use red, green and blue in our later examples to keep things simpler; i.e.  going forward we will only show the dominant colors of RGB and ignore the intermediary children of CMY.
-
-<center><img src='../Images/colortree-top.png' style='width:100%'/></center>
-
-In the first case  (***Fig. t1***)&hellip;
-
-- Blue spawns green
-- Green spawns red.
-- Green and red create a new yellow.
-- Yellow spawns a mixture of each of its component colors (red and green) with its parent color, blue, making cyan (created by blue and green) and magenta (created by blue and red).
-- Magenta and cyan create a new blue.
-- *Repeat*.
-
-In the next case of (***Fig. t2***)&hellip;
-
-This is the same process as the first, but the children are spawned internally, not externally.  Each new generation creates a new layer that sits on top of the parent layer and is a mirror of the parent (***Fig. t3***).  Eventually we end up with a grid that looks like the image on the right, which shows the smaller overlaid children on top of the larger, and opposite colored parent.
-
-Here is a zoomed-out image of this (crudely drawn) grid:
-
-<center><img src='../Images/colortree-bottom.png' style='width:100%'/></center>
-
-Compare the outward-expanding model to the inward-expanding model:
-
-<center><img src='../Images/comparison.png' style='width:100%'/></center>
-
-We also see a few other interesting details in ***Fig. p2***, such as, how the contribution of red divides the green (on the right side).  Can we say the same thing for how green is what divided the red, such as it appears on the left side? No, because there is an order to the points of *blue &rightarrow; green &rightarrow; red*.  Green existed *before* red, therefore the introduction of the 3^rd^ red point must divide the already existing 2^nd^ green point.  Likewise, the green&rsquo;s boundaries are defined and limited by the red (on the left side) using the same logic that the green came first and the red followed.
-
-In the world of mathematics, this internally expanding trigram is similar to something called a *Sierpinski Triangle*, which is also a self-similar triangle.  This is significant as the Sierpinski Triangle has many real-world applications, such as broadband antennas, musical composition, mathematics, chemistry and is a foundational pattern in nature.
-
-The difference between the thologram and the Sierpinski Triangle is in the latter there is the concept of two types of triangles, one that is capable of self-replication (the black triangles), and one that is not (the white triangles), which act like triangular *holes*, like this:
-
-<center><img src='../Images/063-serp.png' style='width:100%'/></center>
-
-In the thologram, we consider the triangle not as an object, but as the boundaries that constrain the movement of energy.  The fact that the center trigram is a reversal of the three outer trigrams is evidence of the significance of this inner trigram.  One way to think about the thologram is the boundaries are like one-way mirrors, reflecting the light (energy) within the triangle, but allowing the light from outside to enter.  This difference between the thologram and the Sierpinski Triangle is only conceptual because the math is essentially the same, but the thologram considers the negative or empty space just as valid as the filled space, just with different attributes, which we&rsquo;ll demonstrate.
-
-With each generation, we have more and more rules.  In just a few generations we see two dominant patterns begin to emerge from these rules.  The first one being the Fibonacci sequence, which emerges simply by the linear increase in generation count as well as the number of trigrams for each generation (1,4,16), which is always 4^gen^ (4 to the power of the generation number).
-
-<img src='../Images/064-hexagram.png' style='float:right;width:30%'/>Another dominant pattern is the hexagon, one of nature&rsquo;s most persistent and useful shapes, and can be seen in beehives, Saturn&rsquo;s north pole, dragonfly eyes, rocks, bubbles, snowflakes, organic chemistry, etc., but it is much more than just the most structurally sound of all shapes.  We are also shown how the N-sources converge to form the center of every hexagon.  From this, we get a much better idea as to the nature of 0-dimensional, non-existent N-sources, which are, unsurprisingly, at the center of order.  This is important because it gives us an insight into answering the question &ldquo;Where did the first N-source come from?&rdquo;  It is also the pattern that is fundamental to the *flower of life*, shown previously.
-
-The  *flower of life* design dates back to 1300 BC, with the oldest known instance carved on the temple walls of the ancient Egyptian temple &ldquo;Osireion&rdquo;. Again, we see the same concepts and patterns appear over and over again in Man&rsquo;s search for understanding using the power of reason.  We also see that every *Define* or *Contribute* point is naturally paired with its opposite.
-
-Another interesting observation are those little black dots in the middle of the lines.  Why are they important? Those black dots mark the center of a line that has the capability of creating new children (stable patterns), or new N-states that form new N-sources.  You&rsquo;ll notice that those lines only exist on the outer ring of the hexagon.
-
-<img src='../Images/065.n-sources.png' style='float:right;width:50%'/>As we saw earlier, the N-source (blue) is the progenitor of the subsequent D (green) and C (red) dots.  We also know that the N must always precede D and C.  However, D and C, having all the attributes of the N, can create a new version of N.  N and D cannot create a new N because it does not have the attributes of C (form), nor can N and C create a new N as it does not have the attributes of D (definition).  Only Ns, or N-states, can be created because N-states have no form or dimension, a prerequisite for creating something out of nothing.  An N-state is simply an idea or concept.  Cs and Ds are no longer simply concepts as they have dimension and therefore can not be created directly out of nothing.
-
-This is a very important detail because it means that even though archetypes can appear across the NC and ND spectrums, they cannot create children, so no N-state will ever appear across these spectrums.  However, the CD spectrum, which is the axis of *cooperation* or *conflict*, the opposing side to the point of *negotiation*, can create N-states*.* It may appear as though that would limit all the new N-states to only exist on one side of the trigrams, considering only one side of the trigram has the ability to create new N-sources.  This is not the case, because as the trigram self-replicates it naturally rotates 60&deg; with each iteration, allowing every side of the trigram to be able to generate new N-sources.  The graph above (***Fig. h1***) shows the lines connecting the N-sources and their respective N-states (the black dots).
-
-### Everything Begins with the Trigram
-
-Just as every element in the periodic table is formed from hydrogen, so too is every generation of the thologram formed from the trigram.
-
-A curious observation is if you take the simplest material version of the trigram (hydrogen, atomic number = 1) and the simplest material version of the hexagon (carbon, atomic number = 6), the two most fundamental forms in the thologram, and combine them (6+1=7) you happen to get hydrocarbons, the most fundamental building blocks of life (and a bunch of plastic stuff), as all life is hydrocarbon based.  Is it more reasonable to see this most basic structure of the thologram appearing in the most basic structures of life as a recurring pattern or to call it a coincidence?
-
-We can also apply the same associative reasoning to the thologram as a whole to show how its structure appears as a pattern of growth in nature.
-
-<center><img src='../Images/066-serp-growth.png' style='width:100%'/></center>
-
-Here we are using the Sierpinski triangle which does not show the &ldquo;negative space&rdquo; of the thologram but simply a blank space.  In the thologram, this blank space accounts for 25% of the tholon and is just as full of implicit patterns as the positive space is full of explicit patterns.  This suggests that we are only seeing 75% of a tholon&rsquo;s instance, the remaining 25% also being an integral part of the instance, but simply not visible.  More on this later.
-
-There is no question that natural processes of creation for nature follow these patterns, and with a little shift in perspective, for the natural process of creation for ideas as well when we apply this pattern to relationships rather than objects.
-
-### 2D to 3D
-
-<center><img src='../Images/067-2d-3d.png' style='width:100%'/></center>
-
-So far all we have described is 2D trigrams.  Where is the 3D tetrahedron? The 2D trigrams *are* the 3D tetrahedron, only flat.  What happens when we convert this 2D model to 3D?
-
-If we take the parent trigrams and fold it according to its four children, we get a tetrahedron.  This is the structure of a tholon.  Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state for all the properties involved.
-
-The mathematics of a equilateral triangle are fairly straight forward, but the math of a tetrahedron is quite fascinating in the way is supports the tholonic model.  Rather than detail that relationship, here is a small table that holds the formulas for calculating the XYZ coordinates of a tetrahedron (with the tip along the Z-axis and the base facing the XY plane).  I have left in seemingly useless data, like 0+0 and <img src="../Images/math/339.svg" style="vertical-align:middle;height:18pt"/> but adding them makes the patterns a little more obvious.  Some highlights worth pointing out is how the first point, which would equate to the blue dot, or N-state, references the direct value of 3 as a whole, while all of the other values reference only the inverse of the whole.  This is consistent with the idea that the N-state holds all the possibilities of the two children as well as the limits of the children.  We can also see how the 2^nd^ point, the green dot, adds value and the 3^rd^ point, the red dot, subtracts value.  This is significant later when we show how those attributes is what allows us to calculate the value of *pi* using the tholonic model.  Also notice how the only points that can generate new N-states exist between 1 and -1, but these N-states can only create children in the axis where there is a 0, and that is only on the 2D X axis.
-
-<center><img src='../Images/SQRT.png' style='width:100%'/></center>
-
-Below is a more complete, step-by-step description of this transition from beginning to end.
-
-<center><img src='../Images/068-dot2tholon.png' style='width:100%'/></center>
-
-Tholons model the movement of energy, and consider the existence of form as the consequence of that movement.  With that in mind, let&rsquo;s look at the tholonic explanation using the figures above.
-
-***Fig. a.*** We start with a simple trigram.  This defines the most fundamental structure of how instantiations of archetypes come to exist, and therefore the flow of energy and their resulting forms.
-
-***Fig a1***.  The movement of energy inside this trigram will cause a new trigram to form by the expansion of N-sources due to the flow of energy.  The most likely place for this new form is opposite the source of the energy and in the balanced center between the two limiting poles created by the source.  When it creates its two children they are naturally in reverse order.  We now have four trigrams with their points in their natural order and position.
-
-As was shown above, the arrangement of the colored points (N, D, & C) in each outer trigram are the exact reversed image of the center trigram.  One way to think about it is the original trigram (top-most) reflects and reverses itself and by doing so creates a new trigram (center), which also reflects and reverses itself in the two new trigrams (left and right).  In this way, the center trigram acts like a reverse reflection trigram, and the two new trigrams are a reversed reflection of a reversed reflection.  This will be an important point a little bit later.
-
-*Note: We are going to use colors (RGB) rather than types (NDC) because it is easier to explain using colors.  You can remember that N=blue, D=green, and C=red, but for the purpose of these descriptions it does not really matter.  When it does matter, we will return to NDC labels.*
-
-***Fig. a2***.  Because energy always follows the path of least resistance and always seeks order, this complete tholon will automatically become a self-sustaining structure (tetrahedron) when all the conditions are met as it would represent the most efficient form.  These conditions appear to require 4 types of points; BBB, RGB, RGR, and GRG.  Apparently, B points only integrate with themselves and with an R and G together, while the R and G can integrate with each other.
-
-This is the same phenomena that happens when a hydrogen atom and an oxygen atom meet; they naturally form a stable state (which also happens to form a trigram in the case of hydrogen and oxygen) that requires less energy than both of them require to maintain a separate existence.  This is another example of the reactions caused by the need to create balance.
-
-***Fig. a3***.  Each of these child trigrams goes through the exact same process as the parent, with slightly different parameters that are determined by the limitation of their parent.  We can now see 4 trigrams of 4 trigrams in their 2D form.
-
-***Fig. a4***.  This is a 4^th^ generation tholon map, and to get an idea how many sets of tetrahedrons it holds, the trigrams have been color-coded to make it easy to see.  The darker colors represent what will be the base of a tetrahedron, with the light shade of the same colors representing their sides.
-
-You&rsquo;ll notice that there are six sets of trigrams that are yellow (or a lighter shade of gray).  These are identified a little differently because when they form a tetrahedron they do so by going in the opposite direction because they are a reversed reflection image.
-
-***Fig. a5***.  If we go ahead and form the tetrahedrons we end up with a series of tetrahedrons connected at the corners, some pointing forward and some pointing away (the more faded ones).  You notice that every odd numbered row (rows 1,3,5,7) are all *forward* trigrams (trigrams with blue N-state parents), which we&rsquo;ll refer to as *real*, a term taken from the world of holography to indicate that the image is projecting in front of the film.  Likewise, all even-numbered rows (rows 2,4,6) are pointing in the opposite direction (trigrams with yellow N-state parents).  We&rsquo;ll call these *virtual* tholons, a term also taken from the world of holography, referring to an image that *virtually* exists behind the holographic plate.  For every pair of rows (1+2, 3+4, 5+6) there are an equal number of real and virtual tholons.
-
-This may look familiar to a mineral chemist, as this is the exact same structure as silicon dioxide crystal *tridymite*, which is a form of quartz, shown below with  two types of *tridymite* molecules. Other silica-based oxides also share a similar structure, which are mentioned later in this chapter when we look at how water also shares this structure.
-
-<center><img src='../Images/cristobalite.png' style='width:100%'/></center>
-
-
-
-Below are various 3D renderings of 4 tetrahedron in this structure.  While we used the same colors for N, D, and C in the previous diagrams for the balls, here we also used them for the connecting lines as the line colors are determined by the color of the ball, or point, that it emanates from.  However, this is mainly to show the relationships with the lines and balls, and not to suggest they have the same qualities.
-
-<center><img src='../Images/33d-tholons.png' style='width:100%'/></center>
-
-***Fig. b1***.  This is a side view of ***Fig. a5***, with the yellow (bottom) tholons being virtual, and the blue (top) tholons being real.  The black dots represent the peaks and are also shown in ***Fig. c1***, for clarity.  This is where we see the first instance of oscillation, with the tholons alternating in their movement away from and towards their originating plane, or between the virtual and real states.
-
-***Fig b2***.  But what is happening in ***Fig. b2***? Why are there more tholons stacked on top and on the bottom?
-
-If you managed to slug through this up to this point, congratulations! Here is where it (hopefully) gets interesting: Each of these new trigrams formed by the peaks of the previous children acts as the base for *larger* tholons! The process beginning with ***Fig. a1*** starts all over for not only each one of these trigrams but for every face of a tholon or trigram, including its children.
-
-If you look at ***Fig. c1***, which is the colorized front view of ***Fig. a5***, you&rsquo;ll notice that there are alternating sets of real and virtual tholons, and the peaks of these tholons (the black dots) naturally create new trigrams.
-
-<img src='../Images/069-tripeaks.png' style='float:right;width:30%'/>In 2^nd^ generation tholons, the peaks are always the 4^th^ dot type of RGB combined <img src='../Images/070-rgbdot2.png' style='width:0.23in'/>, or *white dot* <img src='../Images/053-whitedot.png' style='width:0.233in'/>, so how can a new tholon appear from three white dots? Doesn&rsquo;t it need three different unique colors to satisfy the conditions for a 4^th^ white dot to exist? In fact, that condition *is* satisfied.  If we make the RGB/white dots huge for demonstration purposes you can see how the colors line up to create three separate dots of three separate colors, but these 2^nd^ generation dots are composed of three pieces of three dots that are 1/3^rd^ each color.  They are like virtual RGB dots made from *white dots*.
-
-For clarity&rsquo;s sake, we are referring to each generation of tholon children as *generations,* while the tholons that are created from the peaks of these original tholons, and their children, we refer to as *iterations*.
-
-The only way to create three peaks of pure R, G, and B is to first create the opposite condition of three peaks of white dots, similar to the way a blue N-source creates a yellow child N-source, which then creates a blue N-source.  With each iteration this pattern reverses itself, so the 3^rd^ iteration will be like the 1^st^, with bases of RGB (but each generation rotated 60&deg;).  All the odd number iterations have RGB peaks, and all the even number iterations have white dot peaks.  Each iteration builds on the one before it, making larger and larger tholons, as you can see in ***Figs. b2, b3, b4***, which shows the progression of real and virtual tholons.[^69]
-
-Interestingly, the growth pattern of tholons is the inverse of a recursive Fibonacci sequence.  Inverse, because we are multiplying instead of dividing, recursive because we do that for each trigram, children of trigrams, children of children of trigrams, etc.
-
-***Fig. c1, c2, c3,*** and ***c4***. are orthographic views of the figures immediately above them.
-
-***Fig. d1, d2, d3***, and ***d4*** are isometric views of the figures immediately above them.
-
-***Fig. d1*** shows the first iteration of tetrahedrons. All form that follows (***Fig. d2, d3, d4***) is built upon these initial tetrahedrons.  This would (probably) be the domain of elements and subatomic particles.
-
-There are two details worth mentioning.  The first is, you&rsquo;ll notice that in the front view of ***Fig. c2*** you see what looks like four larger trigrams that are themselves made of smaller trigrams.  Each of those large trigrams is itself a tholon.  The center tholon is, as explained before, a virtual tholon, but within this large virtual tholon there exists smaller real tholons.  This is because just as real tholons can create virtual tholons, virtual tholons can create real tholons.  This is where it really starts to sound like a fun-house of mirrors because how can you have real tholons inside virtual tholons? The simple answer is, real tholons in a virtual tholon are real relative to that virtual tholon they are within.  These *virtual* real tholons are just as significant as the *real* real tholons because they function in the same manner as a real tholon, but virtually, which allows virtual tholons to be able to &ldquo;reflect&rdquo; back a real tholon.  But, because they are all sourced originally from a virtual tholon, they only have virtual significance.
-
-The second detail is, to make things more complicated, in the above diagrams we have colored all the real tholons yellow (light gray in B&W) and the virtual tholons blue (darker gray), but in fact, there are yellows within the blues and blues within the yellows.  These were left out for simplicity sake as they were not critically important to demonstrate our point and can&rsquo;t be properly illustrated.  The basic principle is the same however, in that there is an oscillating between real and virtual at each iteration.
-
-Now we can start to fold this into itself.  Each of the four sides that make up a tholon has their own domains of children as well, so this folding process happens at every generation (again, impossible to illustrate).
-
-***Fig. d4*** shows the small portion of a thologram we have built that we will now begin to fold.
-
-***Fig e1*** shows the beginning of the folding.
-
-***Fig. e2*** shows the completed folding, with all the real tholons now within the parent, and all the virtual tholons outside of the parent.  It&rsquo;s interesting how it naturally happens that only the virtual tholons extend past the boundaries of the thologram.
-
-It looks like we have broken the rules that no children can exist outside of their parent&rsquo;s limits because we have a lot of virtual tholons sticking way outside those limits.
-
-Remember when we were looking at the Sierpinski Fractal? One of the points made was that Sierpinski treated the empty space between the tetrahedrons as empty, wherein the tholonic model it is not empty, but rather negative space that is a reflection of the immediate parent.  Now remember that that this middle trigram is a reflection trigram.  In one sense it does not exist any more than your reflection in the mirror does not represent the existence of another you opposite and equally distant from the mirror, but it does exist in that the reflection is a perfect mirror-image representation of you, and this has significant value as mirrors obviously have a measurable effect on energy (light).  It is an illusion, but an illusion that effects reality.
-
-All the virtual tholons are tholons that were created out of this nothingness space! They are *reverse reflective* tholons only.  They do not exist, but they are very important.  The virtual tholons are like the *nothingness* complement to the real tholons within the parent through which *their* reflection creates two more real tholons.  This does not break the rules that nothing created within the parent can extend past its boundaries any more than looking at yourself in a mirror hanging on the wall does not put you on the other side of the wall, even though it appears that way.
-
-Look at ***Fig. a5*** again.  You&rsquo;ll notice that for every real tholon there is a virtual (reflection) tholon immediately below it.  It is because of these virtual reflections that we can generate another iteration of real tholons.
-
-***Fig. e3*** shows the ghosts of the virtual tholons, and ***Fig. e4*** shows only the real tholons folded into their parent tholon.
-
-To get a better perspective of the dynamism of this structure, look at ***Fig. f1*** below, which shows the lines of influence of each tholon (which is that of a sphere).
-
-If we go inside this very simple version of a thologram we see what looks like complete chaos (***Fig. f2***), but is, in fact, absolute stunningly perfect order and structure.
-
-<center><img src='../Images/071-thologram-spheres.png' style='width:100%'/></center>
-
-If we had used the simplest thologram possible in our example, using only 1^st^ generation folds, rather than the 3^rd^ generation folds above, it would look like the following:
-
-<center><img src='../Images/072-thologram-inside.png' style='width:100%'/></center>
-
-Another fascinating pattern expressed in the thologram is the value for *pi* (&pi;, 3.14159) can be determined by alternatively adding and subtracting the inverse of the total number of N-sources for all the real and virtual tholons for each generation (which produces a series of sequential odd numbers; 1,3,5,7,etc).  This was originally discovered by Leibniz and is appropriately called the *Leibniz formula for π*, as shown below.  Notice how here we also see the reversing back and forth with each generation, which is a function of the creative process as described above.
-
-<center><img src='../Images/leibnix-pi.png' style='width:40%'/></center>
-
-The one last point to consider is best explained in the following thought exercise: Imagine what you would see if you were a 2D person living in a 2D world and a 3D object passed through your 2D reality.  You would see a bunch of 2D slices of that object that changed over time.
-
-<center><img src='../Images/073-flatland.png' style='width:100%'/></center>
-
-Now imagine you are a 3D person living in a 3D world (which should be pretty easy to do) and a 4D object passes through.  You will see 3D &ldquo;slices&rdquo; of this 4D object over time as it passes through your 3D world.  For example, if a 4D ball passed through a 3D world it would first appear as a very tiny 3D ball, and then grow to a large ball, then shrink to a small ball before disappearing.
-
-In both 2D and 3D cases, you are not getting the whole picture, but in both cases what you are getting is completely true and valid for the scope of your 2D or 3D reality.
-
-If we were to remove the first-iteration of tetrahedrons/tholons from the model and only look at the iterations that represent the Newtonian material reality we live in, the thologram would look like a perfect tetrahedron, with none of those smaller protrusions that come from these first-iteration shapes.
-
-Like in the example of the 4D ball, a 4D thologram, being itself a tetrahedron, would first appear as a small tetrahedron.  How small?  Maybe 1.61&times;10^-35^, which is the (theoretically) smallest thing there is, and the size of those 3D quasicrystalline reality pixels?
-
-Why is this detail important?
-
-The 3D model of the thologram is a 3D slice of a 4 (or more) dimensional model.  What the larger multidimensional object that we see as a tetrahedron actually looks like we can&rsquo;t say, and probably can&rsquo;t know.  What would an 8D or 248D &ldquo;object&rdquo; appear as in this 3D world? It could appear as many, many different things.  Take a look at all the ways a simple self-similar 3D tetrahedral pyramid can appear in 2D orthographic projections.
-
-<center><img src='../Images/074-tetraisos.png' style='width:100%'/></center>
-
-Now imagine the same tetrahedral pyramid with trillions of iterations and many more dimensions! It would have the ability to define or describe every archetype of every form. If we are talking about the thologram, which is the same structure but which describes concepts rather than form, it could describe every idea that ever has, does, or will exist.  Its perspectives would effectively be infinite to us,.
 
 ## Archetypes
 
@@ -767,16 +559,6 @@ The 3D model of the thologram is a 3D slice of a 4 (or more) dimensional model. 
 <center><img src='../Images/074-tetraisos.png' style='width:100%'/></center>
 
 Now imagine the same tetrahedral pyramid with trillions of iterations and many more dimensions! It would have the ability to define or describe every archetype of everything,  every form, (every idea?) that ever has, does or will exist.  Its perspectives would effectively be infinite to us, but at its source, it is one thing.
-
-## Archetypes
-
-This is a good place to review the concept of archetypes.  The current understanding of an archetype is defined in the Oxford English Dictionary as:
-
-> The most typical or perfect example of a particular kind of person or thing
-
-When we speak of archetypes in the context of tholons we are using a more general, yet compatible definition that an archetype is a pattern that expressions diverge from or converge towards.  More specifically, an archetype in the tholonic view is:
-
-> The ideal expression of a set of constraints that can be tholonically expressed.
 
 <img src="../Images/leaves-abc-pre.png" style="float:right;width:35%"/>The images below are a good example of a how one archetype is expressed though different contexts.  The archetype is based on the simple model previously described and shown in the diagram on the right. We begin with a 0-dimension point.  This point moves into the 1-dimensional space, which creates a line. In figures below, we show this line as the (black) horizontal diameter of a circle.  The radius is 90 units, which is equal to the number of degrees that are required to describe a 2-dimensional plane. This 1-dimensional existence then moves beyond the 1-dimensional space and into the 2D space. That movement will be expressed in both dimensions, just as the 0D&rightarrow;1D was expressed in both directions of a 1D space (left and right, or positive and negative).  This means there will be a movement along the 1D X-axis, and an equivalent movement along the 2^nd^ dimension of the Y axis.  However, in this model, any movement shall always remain centered around the originating 0D point from which it started.  
 
@@ -832,7 +614,7 @@ For example, to identify the position (P) of one tholon at the 45^th^ generation
 
 But it&rsquo;s even a bit more involved because this dimension only points to one particular tholon within which is its own 3D space. In the thologram, we can&rsquo;t use a Cartesian coordinate system (i.e.  X, Y, Z) because that would require a coordinate system that extends past the boundaries of existence, and we know that there can be no metrics in nothingness.  We can only use a *quadray* coordinates (e.g.  A, B, C, D) which are based on a tetrahedron, to identify a point within the tholon.
 
-Does this mean that our 3D reality is embedded within a parent 3D reality? According to the thologram, yes, although I have no idea how this can be tested.  An analogy we have to the idea of a 3D reality within a 3D reality is VR (virtual reality), where we can create countless 3D worlds within our own 3D reality.  Another analogy is how a hologram can create a 3D space from a 2D surface, and there can be many 3D spaces on top of one another recorded in that same 2D surface.  These analogies are quite close to the theoretical reality that the our Big Bang was actually a singularity from matter from a parent universe collapsing into a black hole, creating a new child singularity (our Big Bang) i.e. entire universes within black holes, or, embedded universes.  This is called the Black Hole Big Bang Theory (BHBBT).
+Does this mean that our 3D reality is embedded within a parent 3D reality? According to the thologram, yes, although I have no idea how this can be tested.  An analogy we have to the idea of a 3D reality within a 3D reality is VR (virtual reality), where we can create countless 3D worlds within our own 3D reality.  Another analogy is how a hologram can create a 3D space from a 2D surface, and there can be many 3D spaces on top of one another recorded in that same 2D surface.  These analogies are quite close to the theoretical reality that the our Big Bang was actually a singularity from matter from a parent universe collapsing into a black hole, creating a new child singularity (our Big Bang) i.e. entire universes within black holes, or, embedded universes.     Yes, our entire universe may well be *inside* a black hole. This is called the Black Hole Big Bang Theory (BHBBT).
 
 ### Synergetics
 
@@ -972,7 +754,7 @@ Addition and subtraction are easy concepts to grasp.  We take some number of thi
 
 <center><img src='../Images/090-addition.png' style='width:80%'/></center>
 
-What about multiplication and division then? In this context we will describe as *the definition of one value by the units of another value*.  For example, in division, such as 3=<img src="../Images/math/340.svg" style="vertical-align:middle;height:18pt"/> we are stating that 3 is what we get when we measure an existing value of 12 by a unit of 4.  In multiplication, such as *12=3&times;4,* we are determining a new value of 12 by combining three of these units-of-4.  The 4, as the divisor or multiplier, is the *unit of measurement* and the 3 is the *number of units*.  Every kid knows what was just stated, but when we apply those same simple rules and concept to a non-math context, they become very significant.  (For highly speculative thoughts on the meaning of squares and square roots see Appendix E &ldquo;*Meaning of Squares and Square Roots*&rdquo;)
+What about multiplication and division then? In this context we will describe as *the definition of one value by the units of another value*.  For example, in division, such as 3=<img src="../Images/math/340.svg" style="vertical-align:middle;height:18pt"/> we are stating that 3 is what we get when we measure an existing value of 12 by a unit of 4.  In multiplication, such as *12=3&times;4,* we are determining a new value of 12 by combining three of these units-of-4.  The 4, as the divisor or multiplier, is the *unit of measurement* and the 3 is the *number of units*.  Every kid knows what was just stated, but when we apply those same simple rules and concept to a non-math context, they become very significant.  (For highly speculative thoughts on the meaning of squares and square roots see *Meaning of Squares and Square Roots* in Appendix C, &ldquo;Tholonic Math&rdquo;)
 
 As mentioned above, we would expect to see the same laws expressed in different ways across all the scopes that the laws apply to, so we would expect to see an example of Newton&rsquo;s 2^nd^ law in the tholonic realms of society, or planets, or organisms, and we do.  For comparison, we also show how the attributes of the tholon would appear using the same laws.  (Note: The lower case &ldquo;neg&ldquo; represents a new child N-state that results from the children of the parent &ldquo;NEG&rdquo;.)
 
@@ -1018,7 +800,7 @@ The chart (below) is a speculative idea about how the naturally occurring relati
 
 <center><img src='../Images/ohm-cats.png' style='width:100%'/></center>
 
-In any case, the twelve formulas of Newton&rsquo;s 2^nd^ show some very interesting relationships between ethics, laws, society, and &ldquo;power&rdquo;, and, in my humble opinion, a new perspective on the dynamics of culture and society that, if nothing else, raises some worthwhile questions.  As it applies here, it shows how the tholon can describe everything from atoms to culture.  Because the math involved in a tholon can be more than the reader might be interested in, some of this subject is covered more deeply in Appendix B, &ldquo;Tholonic Math&rdquo;.
+In any case, the twelve formulas of Newton&rsquo;s 2^nd^ show some very interesting relationships between ethics, laws, society, and &ldquo;power&rdquo;, and, in my humble opinion, a new perspective on the dynamics of culture and society that, if nothing else, raises some worthwhile questions.  As it applies here, it shows how the tholon can describe everything from atoms to culture.  Because the math involved in a tholon can be more than the reader might be interested in, some of this subject is covered more deeply in Appendix C, &ldquo;Tholonic Math&rdquo;.
 
 Because the 3+1 reality of our Cartesian world, plus time, also maps neatly into the tetrahedron, we can actually correlate radically different contexts, such as space-time,  psychology, and electricity, to name a few.
 
@@ -1036,7 +818,7 @@ What a thing can *Contribute* is measured by its *Definition*, but the degree to
 
 A thing&rsquo;s ability to find a stable and sustainable position within its environment and scope is determined by the degree to which it can contribute with its current resources.  A thing may have a *Definition* that gives it a lot of A and a little of B, but if its environment needs a lot of B and very little A, then it is B that the thing must *Contribute* to ensure its existence in that environment, or it needs to find another environment, or change its environment so that A is in more demand.
 
-Applying different values and concepts can result in new data.  We experiment with this a little, but given it is outside the main theme of this book, we have put that section in Appendix D, &ldquo;New data?&rdquo;
+Applying different values and concepts can result in new data.  We experiment with this a little, but given it is outside the main theme of this book, we have put that section under &ldquo;New data?&rdquo; in Appendix C, &ldquo;Tholonic Math&rdquo;
 
 ## And the point is?
 
@@ -1044,7 +826,7 @@ The point of all this is to show one way that the tholon can be used and viewed.
 
 <center><img src='../Images/093-DNA.png' style='width:70%'/></center>
 
-We showed examples of quarks and molecules, but in higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships.  *(DNA and how it is both tholonic and binary in nature is examined in Appendix I "The Tholonic I-Ching")*
+We showed examples of quarks and molecules, but in higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships.  *(DNA and how it is both tholonic and binary in nature is examined in Appendix "The Tholonic I-Ching")*
 
 DNA&rsquo;s relationship with tetrahedrons is particularly unique given the creation of tetrahedrally structured DNA, or TDN as it is referred to.  TDN is the cutting edge of DNA nanotechnology and has various applications such as drug delivery, inhibiting certain gene expressions, and of course, interfacing with bio-sensors.  These TDNs assemble themselves from scratch and offer greater strength and stability that the ol&rsquo; fashioned dual-strand DNA.  Given that there is little accessible information on TDNs there is not much more that can be said here, other then they look pretty awesome and will most likely be the origin of a new form of life powered by TDN-interfacing A.I. DNA-integrated quantum computers.
 
@@ -1133,6 +915,8 @@ There are various rationales for why this makes sense, but the most attractive a
 
 This beautiful formula is called *Euler's Identity* and is fundamental to the continuous exchange of energy that we perceive as time (where 0 equals the present moment), and a whole bunch of other basic ideas of reality.  So fundamental, in fact, that not only is it called the **God Formula**, it has been presented as empirical proof of the existence of god.  We are not that ambitious, pious, or learned, and simply call it a one archetypal instance of a tholon.
 
+Another interesting relationship here is how gravity, or at least how we experience gravity, is the result of warped time, and gravity is also strongly correlated with awareness, at least according to Roger Penrose and Stuart Hameroff (they use the term  *consciousness* rather than *awareness*).  This would place awareness/consciousness not only on the ***e*** axis of our tholon, but suggest that it is awareness/consciousness that represents the most (or at least a) stable pattern of energy.
+
 ## Calculus
 
 Calculus is another tetrahedral model that fits into the tholon nicely and could only be brought up at this point in the story.  Calculus is the study of continuous change (and therefore the study of reality) and has three main concepts that are quite compatible with the three main concepts of the tholon.
@@ -1212,7 +996,7 @@ What this shows is that we can discover less random, more ordered data. What is 
 
 While this may not set Wall Street on fire, for our purposes it is very interesting to see that the *balanced price*, which is derived from the market data, has a pretty clear and predictable pattern, and from data that arguably has only a loosely coupled relationship to each other i.e. the amount of assets traded and the range in which their prices were agreed upon. The yellow line is the actual price that took place (and the most random of the data), and the only obvious relationship is that *balanced price* appears to move somewhat contra to both the actual price and the trading volume.
 
-Approaching this tholonically, we'd say that the balanced price will always represent the optimum relationship between volume and price range, both of which are always changing.  However, the actual traded price rarely reflects that relationship.  Consequently, the other variables in play will naturally adjust because (hypothetically) all three variables of price, volume, and range are actually three perspectives of one thing, one instance, one tholon.  Below, the upper chart shows the actual price (blue line) and the balanced price (orange line). Both values have been adjusted to a moving average for the day and normalized to a scale of 0-1.  Each vertical line represents one day and the 24 hourly candlesticks of that day.  The first thing you can see is how the balanced price remains within a tight and consistent range, while to actual price wanders all over the place.  The middle chart shows the same two lines, but the balanced price vales are added on top of the actual price values. We would have to assume that sometimes the force of the balanced price affects the actual price (by effecting changes in the other variables), and sometimes the actual price affects the balanced price due to the forces of the other variables effect on those variables. The bottom charts shows the two line on the same scale. Most notably, the two lines appear to counteract each other, pulling and pushing the actual price as if it was acting as a force of *resistance*.  This is especially interesting as the differences between the two lines, as we can see in the middle chart, appear very minor.
+Approaching this tholonically, we'd say that the balanced price will always represent the optimum relationship between volume and price range, both of which are always changing.  However, the actual traded price rarely reflects that relationship.  Consequently, the other variables in play will naturally adjust because (hypothetically) all three variables of price, volume, and range are actually three perspectives of one thing, one instance, one tholon.  Below, the upper chart shows the actual price (blue line) and the balanced price (orange line). Both values have been adjusted to a moving average for the day and normalized to a scale of 0-1.  Each vertical line represents one day and the 24 hourly candlesticks of that day.  The first thing you can see is how the balanced price remains within a tight and consistent range, while to actual price wanders all over the place.  The middle chart shows the same two lines, but the balanced price vales are added on top of the actual price values. We would have to assume that sometimes the force of the balanced price affects the actual price (by effecting changes in the other variables), and sometimes the actual price affects the balanced price due to the forces of the other variables effect on those variables. The bottom charts shows the two line on the same scale. Most notably, the two lines appear to counteract each other, pulling and pushing the actual price as if it was acting as a force of *resistance*.  This is especially interesting as the differences between the two lines, as we can see in the middle chart, appear very minor.  
 
 <center><img src='../Images/balpri-close.png' style='width:100%'/></center>
 
@@ -1250,7 +1034,7 @@ The *silicate structures* of minerals are also quiet similar in that they are ma
 
 Radical ideas are often met with radical resistance.  Structured water is one of those ideas.
 
-Simply by adding some structure to simple tap water (see examples of how to make structured water in Appendix A) we can see measurable effects.
+Simply by adding some structure to simple tap water (see examples of how to make structured water in Appendix H, &ldquo;How to Make Structured Water&rdquo;) we can see measurable effects.
 
 In Ptok&rsquo;s Master&rsquo;s thesis mentioned above, the author examines various tests that grew different plants using tap water and structured water.
 
@@ -1258,7 +1042,7 @@ In Ptok&rsquo;s Master&rsquo;s thesis mentioned above, the author examines vario
 
 One of his findings was that using structured water increased alfalfa growth by 15.1%.  This may not sound like much, but in the U.S.  alone a 15% increase in alfalfa growth represents an additional 20,700,000 tons of alfalfa, which has a value of over 4 billion dollars.
 
-Similarly, some of Australia&rsquo;s largest produce farms have reported needing 25% less water to produce a superior product than with traditional water (more details in appendix).
+Similarly, some of Australia&rsquo;s largest produce farms have reported needing 25% less water to produce a superior product than with traditional water (more details in Appendix H).
 
 This is a perfect example of how the simple enhancement of order at the most fundamental level can have radical changes up the chain.  These dramatic results were achieved with only one change to one element in one application.
 

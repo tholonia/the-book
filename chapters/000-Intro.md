@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Sun 25 Oct 2020 12:48:07 AM -03 v3.9.2'
+status: 'Updated: Thu 29 Oct 2020 03:28:24 PM -03 v3.5.65'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.9.2
+version:  3.5.65
 lang: en-US
 
 coverpage: true
@@ -26,8 +26,9 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.9.2'
+pagetitle: 'THOLONIA 3.5.65'
 ---
+<div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
 
 # INTRODUCTION
@@ -47,5 +48,5 @@ The reason this book is open-sourced is to allow other&rsquo;s insights to be in
 
 **On a more mundane note…**
 
-Please read the Appendix I, &ldquo;About This Book&rdquo;, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find dis acting.
+Please read the Appendix A, &ldquo;About This Book&rdquo;, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find dis acting.
 

@@ -6,8 +6,6 @@ import sys
 import getopt
 import datetime
 
-argv = sys.argv[1:]
-
 now = datetime.datetime.now()
 timestamp = now.strftime('%Y-%m-%dT%H:%M:%S') + ('-%02d' % (now.microsecond / 10000))
 
@@ -18,7 +16,6 @@ L = "Latest"
 lb = "{"
 rb = "}"
 bs = "\\"
-
 
 def get_version():
     with open(f"{H}/inc/version.txt") as f:
@@ -45,29 +42,6 @@ def update_ver():
 
     os.system(cx)
     return [vernum_before, vernum_after]
-
-
-def showhelp():
-    print('''
-    publish.py -h -A -t -p
-
-    -h Help
-    -A All
-    -p PDF/MD only
-    -t test on 100.md
-    -D state DEV (default) files
-    -P state PROD
-    -c clean old files
-    -u update version
-    ''')
-
-
-try:
-    opts, args = getopt.getopt(argv, "hAptPDcuE",
-                               ["help", "all", "pdf", "test", "prod", "dev", "clean", "updatever", "epub"])
-except getopt.GetoptError:
-    showhelp()
-    sys.exit(2)
 
 
 
@@ -362,8 +336,18 @@ STATE = "_prod"
 #STATE = "_dev"
 
 
+argv = sys.argv[1:]
 
-print(f"NEW VERSION: {update_ver()}")
+try:
+    opts, args = getopt.getopt(argv, "n")
+
+except:
+    print("Error")
+
+for opt, arg in opts:
+    if opt in ['-n']:
+        print(f"NEW VERSION: {update_ver()}")
+
 mkcss()
 rebuildmd()  # make new complete MD file
 
