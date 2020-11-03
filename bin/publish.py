@@ -325,8 +325,8 @@ def mkpub():
 def cleanold():
     os.system(f"rm {H}/chapters/THOLONIA_THE_BOOK.html")
     os.system(f"rm {H}/chapters/THOLONIA_THE_BOOK.md")
-    os.system(f"rm {H}/chapters/*.pdf")
-    os.system(f"rm {H}/chapters/*.epub")
+    os.system(f"mv {H}/chapters/*.pdf {H}/chapters/.pdf")
+    os.system(f"mv {H}/chapters/*.epub {H}/chapters/.epub")
 
 
 # ----------------------------------------------------------------------

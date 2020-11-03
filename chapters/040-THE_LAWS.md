@@ -310,6 +310,8 @@ For purposes of this book, I am going to define a  *scope* or *order of creation
 
 #### **Claim 17:** Self-similarity exists due to the redundant nature of the laws which express themselves in accordance with the scale and scope of their context.
 
+<hr>
+
 [^13]: Lesne, A.  (2014).  **Shannon entropy: A rigorous notion at the crossroads between probability, information theory, dynamical systems and statistical physics**.  *Mathematical Structures in Computer Science,* *24*(3).  doi:10.1017/s0960129512000783
 [^14]: Styer, D.  (2019).  **Entropy as Disorder: History of a Misconception**.  *The Physics Teacher,* *57*(7), 454-458.  doi:10.1119/1.5126822
 [^15]: Lesne, Annick.  "**Shannon Entropy: A Rigorous Notion at the Crossroads between Probability, Information Theory, Dynamical Systems and Statistical Physics.**" *Mathematical Structures in Computer Science* 24, no.  3 (2014).  doi:10.1017/s0960129512000783.

@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Thu 29 Oct 2020 03:28:24 PM -03 v3.5.65'
+status: 'Updated: Fri 30 Oct 2020 01:49:17 AM -03 v3.5.67'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.5.65
+version:  3.5.67
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.5.65'
+pagetitle: 'THOLONIA 3.5.67'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -136,7 +136,7 @@ Oddly, none of these definitions of chaos even begin to touch on its most import
 
 ###### Nothing exists without energy.  Everything exists because of the laws of energy.
 
-The topic of energy will be reviewed many times further on, but at this stage it&rsquo;s only important to point out two types of energy; *kinetic* energy, which is the energy capable of causing change to a system as a result of movement, such as water passing through a turbine in a dam, and *potential* energy, which is the energy that is not moving but is available, such as the all the water in the dam that is not yet passing through the turbine.
+The topic of energy will be reviewed many times further on, but at this stage it&rsquo;s only important to point out two types of energy; *kinetic* energy, which is the energy capable of causing change to a system as a result of movement, such as water passing through a turbine in a dam, and *potential* energy, which is the energy that is not moving but is available, such as all the water in the dam that is not yet passing through the turbine.
 
 Where the primal energy came from that created our universe is still, and will probably remain, unanswered, at least by modern science.  Science, mythology, and religion each have their own stories and theories, and, not surprisingly, many of these theories are not that conceptually far apart from each other.  One thing we can say about the energy that created this universe (if we are to believe the first law of thermodynamics that states energy cannot be destroyed or created) is that it existed before the Universe was created.
 
@@ -177,9 +177,9 @@ Although today we tend to think of Plato&rsquo;s *Theory of Ideas* as an abstrac
 #### **Claim 7:** Every thing that exists is an instance of an archetype.  Archetypes of form and the laws of those archetypes are the same things.  What we call archetypes of form are the results of these laws.  What we see in our reality are the instantiations of those archetypes.
 
 [^7]: This idea, and much more, is discussed at length in a 89 volume edition of great works that question the nature of existence.  Glattfelder, James B.  Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**.  Cham: Springer International Publishing, 2019. Available online at <https://link.springer.com/bookseries/5342>
-  
 
- 
+
+
 
 <div style='page-break-after: always; break-after: always;'></div>
 # 3: ORDER
@@ -3644,13 +3644,13 @@ Within the tholons are numerous relationships.  The ones we have used in our exa
 
 This shows the four trigrams that make up a tholon, however, depending on the perspective of view of the tholon, the formulas will be different.  There are many ways to view this mapping, but this is perhaps the simplest.  Besides the basic twelve formulas, we also see that there trigram as two &ldquo;directions&rdquo;.  One direction (the inner circle) is the direction of the formula, but this only applies where division is involved because <img src="../Images/math/357.svg" alt="\frac{2}{3} \neq \frac{3}{2}" style="vertical-align: middle;height:6pt;"/> but <img src="../Images/math/300.svg" style="height:18pt"/> .  The other direction is an arrow that starts at the initiating value, as if it were a N-source, and points to the location of the child N-source, or the spectrum across its two children, as if it were the spectrum between *Definition* and *Contribution* (which effectively it is).  
 
-For example, using *P=I&times;R*, we can see how the mapping assigns *P* as the blue *N-source*,  *R* as the green dot of *Definition*, and *I* as the red dot *Contribution*.  This then creates a yellow (additive color of red and green) spectrum between *I* and *R*, which in the case of these formulas, is where the math functions of &times;, &div; &equals;, and √ exist.  This yellow spectrum is that of *Cooperation or Conflict*, so it makes sense that it would also be where we you find &times; and  &div;, and suggests that, in this case at least, cooperation is literally twice as efficient as division, given that the solution to the problem (what does the initial value equal) in multiplication-based trigram solutions are not limited to directions (bidirectional) and there are half as many needed. You will notice that only the locations that that are capable of creating a new child N-source, the yellow spectrums, of the 12 that exist, 6 are &equals;, and 6 are functions, and of those 6, 3 are &times;, 3 are &div; (we include square roots as a function of &times; because a square root is defined as a *factor of a number that, when multiplied by itself, gives the number*).  If we look at the yellow spectrum of only the trigrams where *V* is the blue N-source, as this is the archetype, we see that each of the 3 sets, or each side, always has a pair of one function and an single instance of another.  
+For example, using *P=I&times;R*, we can see how the mapping assigns *P* as the blue *N-source*,  *R* as the green dot of *Definition*, and *I* as the red dot *Contribution*.  This then creates a yellow (additive color of red and green) spectrum between *I* and *R*, which in the case of these formulas, is where the math functions of &times;, &div; &equals;, and √ exist.  This yellow spectrum is that of *Cooperation or Conflict*, so it makes sense that it would also be where we you find &times; and  &div;, and suggests that, in this case at least, cooperation is literally twice as efficient as division, given that the solution to the problem (what does the initial value equal) in multiplication-based trigram solutions are not limited to directions (bidirectional) and there are half as many needed. You will notice that only the locations that that are capable of creating a new child N-source, the yellow spectrums, of the 12 that exist, 6 are &equals;, and 6 are functions, and of those 6, 3 are &times;, 3 are &div; (we include square roots as a function of &times; because a square root is defined as a *factor of a number that, when multiplied by itself, gives the number*).  If we look at the yellow spectrum of only the trigrams where *V* is the blue N-source, as this is the archetype, we see that each of the 3 sets, or each side, always has a pair of one function and an single instance of another.
 
-<img src="../Images/eq-ti-ti.png" style="height:14pt"/>Side 1, Side of *Contribution* as multiplication  (where the last &times; is the square-root of a product of &times;).
+<img src="../Images/eq-ti-ti.png" style="height:14pt"/>  Side 1, Side of *Contribution* as multiplication  
 
-<img src="../Images/di-eq-di.png" style="height:14pt"/>Side 2: side of *Definition* as division.
+<img src="../Images/di-eq-di.png" style="height:14pt"/>  Side 2: side of *Definition* as division.
 
-<img src="../Images/di-eq-eq.png" style="height:14pt"/>Side 3: side of *Negotiation* as equalization. 
+<img src="../Images/di-eq-eq.png" style="height:14pt"/>  Side 3: side of *Negotiation* as equalization. 
 
 This beautifully shows how the primal attributes of *Negotiation*, *Definition*, and *Contribution* continue to reappear in every child and instance.  In this case, we can see N, D, and C attributes within each N, D, and C; **C**~NCC~, **D**~DND~, **N**~DNN~ . Notice how &times; and &div; never share a side, which we would expect to see given that they can only interact via &equals;.
 

@@ -910,5 +910,7 @@ Both of these models describe only the structure, the contexts of which is const
 
 With all that we have learned so far, let&rsquo;s attempt to decipher and translate the I-Ching.
 
+<hr>
+
 [^204]: Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
 [^205]: <https://www.quantamagazine.org/entanglement-made-simple-20160428>

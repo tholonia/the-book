@@ -18,5 +18,7 @@ To that end, here is a simple color wheel that will show you how your e-reader t
 
 If you are reading this on a e-book reader, the chances that it will look especially ugly are quite high.  This is because many e-book reader manufacturers take it upon themselves to deliberately eliminate the layout that the author has developed and replaced it with their own generic (and IMHO, hideous) one-size-fits-all format.  The only upside to this that I can imagine is for the manufacturer as it free them form having to deal with more complex layouts.  There are ways around this.  For example, on the Kobo e-book readers, if you put a file called ```kobo-extras.css``` in the root directory of the e-reader itself, and then import the ebook using the e-book software ```Calibre``` (and install the ```Calibre``` Kobo drivers), it will apply the correct style to the book on import (the file I used for my Kobo H20 can be downloaded from <https://github.com/tholonia/the-book/blob/master/Styles/kobo_extra.css>. More instructions at <http://www.mobileread.mobi/forums/showpost.php?p=2584056> for the Kobo.  Personally, I find this practice offensive to the author and the reader,  not to mention reinforcing the standards of banality. 
 
+<hr>
+
 [^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 

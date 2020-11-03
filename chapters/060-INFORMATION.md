@@ -180,6 +180,8 @@ These Bell curves of probability are not shown, or even defined, in the holarchi
 
 What happens if we incorporate the idea of dualities into the holarchy?  Let&rsquo;s see, but first let&rsquo;s look at some important concepts behind *structure*.
 
+<hr>
+
 [^46]: Hossenfelder, Sabine.  &ldquo;**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?&rdquo;** Backreaction, 1 Jan.  1970, backreaction.  <https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html>
 [^47]: Laszlo, E., & Clark, J.  W.  (1973).  **Introduction to systems philosophy: Toward a new paradigm of contemporary thought**.  New York, NY: Harper Torchbooks.  ISBN: 0061317624 (ISBN13: 9780061317620)
 [^48]: Levin, Samuel & Scott, Thomas & Cooper, Helen & West, Stuart.  (2017).  **Darwin&rsquo;s aliens.** International Journal of Astrobiology.  1-9.  10.1017/S1473550417000362.

@@ -71,6 +71,8 @@ Perhaps the most useful definition of chaos comes from the authors of &ldquo;*In
 
 Oddly, none of these definitions of chaos even begin to touch on its most important significance, and that is that chaos is the unknowable wild-card variable of unpredictability that exists across the entire spectrum of existence.  It is chaos that prevents the laws of creations from churning out identical copies of creation.  Chaos is what makes the future unknowable, and without chaos the difference between the past and the future would be slight.  Chaos is not the same as randomness.  Chaos is *deterministic*, meaning it adheres to rules, and has a pattern, but the effects over time makes it impossible to predict.  Randomness is *non-deterministic*, meaning it has no pattern or predictability.  Reality is born in chaos, not randomness.  At least that is the premise we start from because randomness can be explained as a product of chaos, but chaos cannot be explained as a product of randomness.  There is possibly one exception to this which we will consider much later in this book.
 
+<hr>
+
 [^2]: Gleick, J.  (1998).  **Making a New Science**.
 [^3]: &ldquo;**The Beginning of Time**.&rdquo; Stephen Hawking, <https://www.hawking.org.uk/the-beginning-of-time.html>.
 [^4]: For math nerds, here is an excellent vlog on **&ldquo;The Opposite of Infinity&rdquo;**: on <http://www.quora.com> &ldquo;How do you understand the difference between something infinitely small and something inexistant Are they distinguishable in real terms?

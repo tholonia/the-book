@@ -155,7 +155,7 @@ From the tholonic perspective, there are three types of causes.
 
 The answer to &ldquo;Why was there a Cambrian explosion?&rdquo;, or any event for that matter, big or small, across all contexts, is that it was the most efficient and stable expression of energy at the time that was compatible with the intentions of all the contributing tholons.
 
-
+<hr>
 
 [^83]: https://www.youtube.com/watch?v=2_sgFETJzak
 [^84]: Seager, William, and Sean Allen-Hermanson. **&ldquo;Panpsychism.&rdquo;** Stanford Encyclopedia of Philosophy, Stanford University, 23 May 2001, <https://plato.stanford.edu/archives/win2012/entries/panpsychism>

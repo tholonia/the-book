@@ -189,6 +189,8 @@ One could argue that these preferences are only a result of evolution as they co
 
 *Constructive collaboration* only needs a slight edge over *destructive resistance* to ensure existence and growth, similar to how the &ldquo;house&rdquo; only has a 0.5% edge at the Black Jack table. The human brain, cellular mechanics, and all life in general, is wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for an instance to express the intention of its tholonic archetype that has its source in the *primal intention*.
 
+<hr>
+
 [^178]: SCIENCE 313:49 7/7/2006
 [^179]: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
 [^180]: Grabbed from <https://www.oddee.com/item_82923.aspx>

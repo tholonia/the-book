@@ -3,7 +3,7 @@
 
 ###### Nothing exists without energy.  Everything exists because of the laws of energy.
 
-The topic of energy will be reviewed many times further on, but at this stage it&rsquo;s only important to point out two types of energy; *kinetic* energy, which is the energy capable of causing change to a system as a result of movement, such as water passing through a turbine in a dam, and *potential* energy, which is the energy that is not moving but is available, such as the all the water in the dam that is not yet passing through the turbine.
+The topic of energy will be reviewed many times further on, but at this stage it&rsquo;s only important to point out two types of energy; *kinetic* energy, which is the energy capable of causing change to a system as a result of movement, such as water passing through a turbine in a dam, and *potential* energy, which is the energy that is not moving but is available, such as all the water in the dam that is not yet passing through the turbine.
 
 Where the primal energy came from that created our universe is still, and will probably remain, unanswered, at least by modern science.  Science, mythology, and religion each have their own stories and theories, and, not surprisingly, many of these theories are not that conceptually far apart from each other.  One thing we can say about the energy that created this universe (if we are to believe the first law of thermodynamics that states energy cannot be destroyed or created) is that it existed before the Universe was created.
 
@@ -43,7 +43,8 @@ Although today we tend to think of Plato&rsquo;s *Theory of Ideas* as an abstrac
 
 #### **Claim 7:** Every thing that exists is an instance of an archetype.  Archetypes of form and the laws of those archetypes are the same things.  What we call archetypes of form are the results of these laws.  What we see in our reality are the instantiations of those archetypes.
 
-[^7]: This idea, and much more, is discussed at length in a 89 volume edition of great works that question the nature of existence.  Glattfelder, James B.  Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**.  Cham: Springer International Publishing, 2019. Available online at <https://link.springer.com/bookseries/5342>
-  
+<hr>
 
- 
+[^7]: This idea, and much more, is discussed at length in a 89 volume edition of great works that question the nature of existence.  Glattfelder, James B.  Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**.  Cham: Springer International Publishing, 2019. Available online at <https://link.springer.com/bookseries/5342>
+
+

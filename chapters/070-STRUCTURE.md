@@ -1002,6 +1002,66 @@ Approaching this tholonically, we'd say that the balanced price will always repr
 
 I have no doubt that serious research would yield interesting results. From the tholonic perceptive, knowing that perhaps the stock market, music, story telling, batteries, electrical circuits, and much more, all have a correlation is interesting, but suggesting they are all effects of a higher-order cause is much more interesting.
 
+## Social Sciences
+
+Previously, we used the example of Cognitive Behavioral Therapy as an example of a triplet of understanding.  We we can expand on that a bit by looking beyond psychology alone and more into the most fundamental way we perceive reality, which is via *belief* and *faith*, typically, this seen in the dichotomy of spirit and science.  Both of these are a search for the Truth, but because we can't ever know of an ultimate truth, if one even exists, the best we can attempt to achieve is an *understanding* of a contextual Truth.
+
+We previously defined *data*, *information*, *knowledge*, and *understanding* as the following:
+
+**Data** + *order* = ***information***
+**Information** + *context* = ***knowledge***
+**Knowledge** + *application* = ***understanding***
+
+If we removed the intermediate concepts and only use the one essential ingredient, Data, we can express this as:
+
+**Understanding** = (((*Data* + *order*) + *context*) + *application*)
+
+And what is data? tholonically, data is the chaos of existence (represented by the conceptual abstractions we have created).
+
+If we were to map these 6 concepts to a trigram it would look like the image on the right.
+
+<img src="../Images/understanding.png" style="float:right;width:50%"/>Let's review these concepts with the case of the farmer and the cow:
+
+**Data**: There is a farmer, a cow, a field, a bush, a large piece of paper, a neighbor. 
+
+*Order: How to these pieces of data relate to one another?*
+
+**Information**: The cow belongs to the farmer, the cow is not where the farmers expects it to be, the neighbor tells the farmer he saw the cow in his field.  The farmer believes he confirmed this information by seeing the cow in the field.
+
+*Context: What are the limitations and purpose of their interactions?*
+
+**Knowledge**: The the neighbor discovers the farmers did not see the cow, as it was hidden, but instead mistook the paper in the bushes as the cow.  Perhaps it was far way or the farmer forgot his glasses. 
+
+*Application: What actions will the farmer take based on what he believes?*
+
+**Understanding**:  The farmer goes to retrieve the cow, but upon approaching what he believed was the cow, he discovered it was a large piece of paper stuck in the bushes. He understands his beliefs were based on at falsehood, and that his efforts were in vain.
+
+In the above example, the farmer believes based on information.  He does not have faith that the cow is in the field, because he has had some validating input.  If he had no validating input, but still believed the caw was in the neighbors field, that would be an act of faith.
+
+So, we are going to slightly redefine the concepts of *belief* and *faith* as the following:
+
+**Belief**: *Theoretical knowledge*, i.e. knowledge that has some objective evidence, but has yet been tested.  This is how one understands their existence in relationship to other *instances* of existence.  It is almost synonymous with the phrase &ldquo;educated guess&rdquo;.  To say "I believe in the the value of hard work" is an example of this definition, as there is some objective evidence to support that belief.  In this sense, science is a belief systems, but one with rigorous testing and proofs.
+
+**Faith**: *Hypothetical understanding*, i.e. an understanding that does not need any validating objective evidence to exist. This is how one understands their existence in relationship to all of existence (which is typically understood as god or some form of &ldquo;spirit&rdquo;). An example of this might be "I have faith I am always where I am supposed to be". 
+
+A key point here is the *objective evidence*, for there can be plenty of subjective evidence that the person holds as valid, if not more  valid, than objective evidence.  We see this in cases of people who have had extreme and profound subjective experiences, such those who experience near death or out of body experiences.  From the tholonic view, both objective and subjective are equally valid, which means we have two types of understanding (and therefore, knowledge, information, and data) , subjective and objective.  
+
+Subjective understanding only applies to oneself, while objective understanding applies to all.  We call the later *science*, but what to we call the former?  Religion, faith, superstition, and such, would be types of subjective understanding, and just like science, something times they are incorrect, but unless we know what the rules are of subjective reality, how can we know evaluate them?  Th study of psychology is probably the closest thing was have to a formalized approach to understanding our subjective reality, but given that it is based on an objective perspective, it will never achieve understanding.  Psychology will believe it has an understanding, because it has information, but just like the farmer an the cow, it will fail to recover the &ldquo;cow&rdquo;, which here is a metaphor for the true subjective or &ldquo;inner&rdquo; model of reality, and it will (and has).  Not only will its stables be filled with scraps of paper, these scraps of paper will be presented as their prize  &ldquo;cows&rdquo;.
+
+<img src="../Images/faith-tri.png" style="float:right;width:50%"/>In its most reduced form, we really only have three concepts: 
+
+- All (unlimited scope and context)
+- All that could be (given the scope and context)
+- All that is (in that scope and context).  
+
+**Faith**, as we have defined it, exist in the domain of "All", and is therefore unlimited, from from facts, proof, or anything else.
+
+**Belief** exists in the domain of "All that could be", which is "All" in a limited context and scope.
+
+**Understanding** is simply "All that is", meaning,  not theoretical, hypothetical, possible, etc., but that, and only that which actually exists.
+
+
+
 ## Consciousness
 
 The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid out in it their paper &ldquo;*Objects of consciousness*&rdquo; [^77] can&rsquo;t be ignored.  What also can&rsquo;t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first draft of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.) 
@@ -1048,7 +1108,7 @@ This is a perfect example of how the simple enhancement of order at the most fun
 
 In the tholonic model, this example also applies to ideas, concepts, and intelligence;  small changes in one area can have radical consequences in the world of ideas, and of course, ideologies.
 
-
+<hr>
 
 [^52]: &ldquo;**Quantum Gravity Research**&rdquo;. Quantum Gravity Research, <https://www.quantumgravityresearch.org>.
 [^53]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.

@@ -412,6 +412,8 @@ You can easily see the relationship between the oscillations of the two poles to
 
 In humanity&rsquo;s quest to understand reality and its processes, either through religion, culture, economics, nature, alchemy or science, we keep bumping into the same universal constants and concepts.
 
+<hr>
+
 [^26]: Livio, M.  (n.d.).  **Why Math Works**.  <https://www.scientificamerican.com/article/why-math-works>
 [^27]: Britannica, T.  E.  (2019, April 08).  **Laws of thought**.  <https://www.britannica.com/topic/laws-of-thought>
 [^28]: **15** **Insane Things That Correlate With Each Other**.  (n.d.).  <http://www.tylervigen.com/spurious-correlations>
