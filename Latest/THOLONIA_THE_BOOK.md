@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Fri 30 Oct 2020 01:49:17 AM -03 v3.5.67'
+status: 'Updated: Tue 03 Nov 2020 03:23:37 PM -03 v3.5.75'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.5.67
+version:  3.5.75
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.5.67'
+pagetitle: 'THOLONIA 3.5.75'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -125,6 +125,8 @@ Perhaps the most useful definition of chaos comes from the authors of &ldquo;*In
 
 Oddly, none of these definitions of chaos even begin to touch on its most important significance, and that is that chaos is the unknowable wild-card variable of unpredictability that exists across the entire spectrum of existence.  It is chaos that prevents the laws of creations from churning out identical copies of creation.  Chaos is what makes the future unknowable, and without chaos the difference between the past and the future would be slight.  Chaos is not the same as randomness.  Chaos is *deterministic*, meaning it adheres to rules, and has a pattern, but the effects over time makes it impossible to predict.  Randomness is *non-deterministic*, meaning it has no pattern or predictability.  Reality is born in chaos, not randomness.  At least that is the premise we start from because randomness can be explained as a product of chaos, but chaos cannot be explained as a product of randomness.  There is possibly one exception to this which we will consider much later in this book.
 
+<hr>
+
 [^2]: Gleick, J.  (1998).  **Making a New Science**.
 [^3]: &ldquo;**The Beginning of Time**.&rdquo; Stephen Hawking, <https://www.hawking.org.uk/the-beginning-of-time.html>.
 [^4]: For math nerds, here is an excellent vlog on **&ldquo;The Opposite of Infinity&rdquo;**: on <http://www.quora.com> &ldquo;How do you understand the difference between something infinitely small and something inexistant Are they distinguishable in real terms?
@@ -175,6 +177,8 @@ Although today we tend to think of Plato&rsquo;s *Theory of Ideas* as an abstrac
 #### **Claim 6:** Theories and ideas are an archetype in their own right, but like forms, they have their own archetypes.
 
 #### **Claim 7:** Every thing that exists is an instance of an archetype.  Archetypes of form and the laws of those archetypes are the same things.  What we call archetypes of form are the results of these laws.  What we see in our reality are the instantiations of those archetypes.
+
+<hr>
 
 [^7]: This idea, and much more, is discussed at length in a 89 volume edition of great works that question the nature of existence.  Glattfelder, James B.  Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**.  Cham: Springer International Publishing, 2019. Available online at <https://link.springer.com/bookseries/5342>
 
@@ -255,7 +259,9 @@ Here is another example that perhaps better displays the idea.  Below are four i
 
 The circle is *implicit* in the random dots of each separate page, and *explicit* when the pages line up together in the proper manner.  In this example, the *local* pattern would be the random pattern on each page, which represent the scope, and the *universal* pattern would be the parts of the circle as it exists on every page.
 
-All of this addresses the relationship between instantiation and context, in that how something comes into existence and how it is expressed is dependent on the context and scope of where it is being expressed.  This concept is not only a technical or scientific one, but also a philosophical one that we can see in Buddhism as the principle of *Pratītyasamutpāda*, which means *dependent arising*, and which states that all phenomena (*dharma*) arise in dependence upon other phenomena (*dharmas*).  More than that, it also implies that the significance of something is defined by its environment.  An obvious example of this is; a tiger in a zoo is not the same as a tiger in the wild, as they have very different existences.  A less obvious example is: imagine a blue ball that has three object properties: it is made of wood, it is blue, it is round.  It has these same properties on a table or in the ocean *as an object*, but it interacts with its environment very differently.  This same blue ball has very different *interactive* properties depending on its environment, and these properties define the ball beyond it simply being an object, such as; it falls off the table, but it floats in the ocean, it does not move on the table, but is does move in the ocean, it will deteriorate faster and in a different manner in one case vs.  the other., etc., etc.
+All of this addresses the relationship between instantiation and context, in that how something comes into existence and how it is expressed is dependent on the context and scope of where it is being expressed.  This concept is not only a technical or scientific one, but also a philosophical one that we can see in Buddhism as the principle of *Pratītyasamutpāda*, which means *dependent arising*, and which states that all phenomena (*dharma*) arise in dependence upon other phenomena (*dharmas*).  More than that, it also implies that the significance of something is defined by its environment.  An obvious example of this is; a tiger in a zoo is not the same as a tiger in the wild, as they have very different existences.  A less obvious example is: imagine a blue ball that has three object properties: it is made of wood, it is blue, it is round.  It has these same properties on a table or in the ocean *as an object*, but it interacts with its environment very differently.  This same blue ball has very different *interactive* properties depending on its environment, and these properties define the ball beyond it simply being an object, such as; it falls off the table, but it floats in the ocean, it does not move on the table, but is does move in the ocean, it will deteriorate faster and in a different manner in one case vs.  the other, and so on.
+
+<hr>
 
 [^8]: <https://users.isy.liu.se/jalar/kurser/QF/assignments/LeggettGarg1985.pdf>
 [^9]: Boeyens JCA, Thackeray JF **Number theory and the unity of science**.  S Afr J Sci.  2014;110(11/12), Art.\#a0084, 2 pages.  <http://dx.doi.org/10.1590/sajs.2014/a0084>
@@ -574,6 +580,8 @@ You can read his paper[^25], but unless you know your way around multidimensiona
 For purposes of this book, I am going to define a  *scope* or *order of creation*, (or *level*, as Hans van Leunen would say), as that creative cycle from which an apparent order emerges out of a state of the apparent disorder defined by the limits of the duality it emerged from.  I say &ldquo;apparent&rdquo; because I don&rsquo;t want to suggest that there is disorder in a seed and order in the resulting flower.  Obviously, there is order in both, but the explicit order of a flower in bloom, at the peak of its expression, when it is ready to drop its own seeds, is far more apparent than the implicit order of a seed.  The flower is *explicit* when it is in bloom, and *implicit* in the seed, while the seed is *implicit* in the flower.  This also suggests that within the scope of the life-cycle of a flower, which begins with a seed and ends with compost, the flowering stage represents the most optimum expression of energy, or the most effective form that instance can realize.
 
 #### **Claim 17:** Self-similarity exists due to the redundant nature of the laws which express themselves in accordance with the scale and scope of their context.
+
+<hr>
 
 [^13]: Lesne, A.  (2014).  **Shannon entropy: A rigorous notion at the crossroads between probability, information theory, dynamical systems and statistical physics**.  *Mathematical Structures in Computer Science,* *24*(3).  doi:10.1017/s0960129512000783
 [^14]: Styer, D.  (2019).  **Entropy as Disorder: History of a Misconception**.  *The Physics Teacher,* *57*(7), 454-458.  doi:10.1119/1.5126822
@@ -1004,6 +1012,8 @@ You can easily see the relationship between the oscillations of the two poles to
 
 In humanity&rsquo;s quest to understand reality and its processes, either through religion, culture, economics, nature, alchemy or science, we keep bumping into the same universal constants and concepts.
 
+<hr>
+
 [^26]: Livio, M.  (n.d.).  **Why Math Works**.  <https://www.scientificamerican.com/article/why-math-works>
 [^27]: Britannica, T.  E.  (2019, April 08).  **Laws of thought**.  <https://www.britannica.com/topic/laws-of-thought>
 [^28]: **15** **Insane Things That Correlate With Each Other**.  (n.d.).  <http://www.tylervigen.com/spurious-correlations>
@@ -1211,6 +1221,8 @@ The holarchy examples shown above are portrayed as 2-dimensional bifurcating tre
 These Bell curves of probability are not shown, or even defined, in the holarchic model.  The reason for that is because the holarchic model does not have the explicit concept of a duality, though it implies them.  As a result, the holarchy cannot show how the Bell curve of a holon is made up of the integrated aggregate of the Bell curves of its partons within the context of the holon.  It does show the parameters of the holon are defined by its parent, but the ultimate parent of the holon is the Multiverse, which is, in our view, the &ldquo;bottom&rdquo; of the hierarchy, for reality, as we know it, requires there first exists subatomic particles.  In some way, this is like arguing which is the &ldquo;correct&rdquo; way to view the earth, north at the top, or south at the top, but it does play an important role a little later.
 
 What happens if we incorporate the idea of dualities into the holarchy?  Let&rsquo;s see, but first let&rsquo;s look at some important concepts behind *structure*.
+
+<hr>
 
 [^46]: Hossenfelder, Sabine.  &ldquo;**Dear Dr B: Does the LHC Collide Protons at Twice the Speed of Light?&rdquo;** Backreaction, 1 Jan.  1970, backreaction.  <https://blogspot.com/2019/04/dear-dr-b-does-lhc-collide-protons-at.html>
 [^47]: Laszlo, E., & Clark, J.  W.  (1973).  **Introduction to systems philosophy: Toward a new paradigm of contemporary thought**.  New York, NY: Harper Torchbooks.  ISBN: 0061317624 (ISBN13: 9780061317620)
@@ -2223,6 +2235,62 @@ Approaching this tholonically, we'd say that the balanced price will always repr
 
 I have no doubt that serious research would yield interesting results. From the tholonic perceptive, knowing that perhaps the stock market, music, story telling, batteries, electrical circuits, and much more, all have a correlation is interesting, but suggesting they are all effects of a higher-order cause is much more interesting.
 
+## Faith & Belief
+
+Previously, we used the example of Cognitive Behavioral Therapy as an example of a triplet of understanding as it might apply to psychology.  We can expand on that a bit by looking beyond psychology alone and more into not only the most fundamental way we perceive reality, but the very drivers of how our societis and culture are formed, these being *belief* and *faith*.  Typically, this seen in the dichotomy of spirit and science, but it gos far beyond that.  Both of these concepts attempt to model the Truth, but because we can't ever know of an ultimate truth, if one even exists, the best we can attempt to achieve is an *understanding* of a contextual Truth.
+
+We previously defined *data*, *information*, *knowledge*, and *understanding* as the following:
+
+**Data** + *order* = ***information***
+**Information** + *context* = ***knowledge***
+**Knowledge** + *application* = ***understanding***
+
+If we removed the intermediate concepts of *information* and *knowledge* and only use the one essential ingredient, *data*, we can express this as:
+
+**Understanding** = (((*Data* + *order*) + *context*) + *application*)
+
+And what is data? Tholonically, data is the chaos of existence (represented by the conceptual abstractions we have created).
+
+If we were to map these 6 concepts to a trigram it would look like the image on the right.
+
+<img src="../Images/understanding.png" style="float:right;width:50%"/>Let's review these concepts with the case of the farmer and the cow:
+
+**Data**: There is a farmer, a cow, a field, a bush, a large piece of paper, a neighbor. 
+
+*Order: How do these pieces of data relate to one another?*
+
+**Information**: The cow belongs to the farmer.  The cow is not where the farmers expects it to be.  The neighbor has seen the cow in his field.  
+
+*Context: What are the limitations and purpose of their interactions?*
+
+**Knowledge**: The farmer believes he confirmed this information by seeing the cow in the field.  The the neighbor believes the farmer did not see the cow, as it was hidden, but instead mistook the paper in the bushes as the cow.  
+
+*Application: What actions will the farmer take based on what he believes?*
+
+**Understanding**:  The farmer goes to retrieve the cow, but upon approaching what he believed was the cow, he discovered it was a large piece of paper stuck in the bushes. He understands his beliefs were based on a falsehood, and that his efforts to retrieve his cow were in vain.
+
+In the above example, the farmer acted on his belief *based* only on information, as he did not yet have *knowledge* or *understanding* of the situation.  He does not have *faith* that the cow is in the field, but he does *believe* the cow in in the field because he has had some validating input, giving him reason to believe.  If he had no validating input or information, no reason to believe the cow was in his neighbor's field, but still went to the field to retrieve his cow, that would be an act of *faith*.
+
+The concepts faith and belief are so similar to the concepts we need to define, it is more effective to slightly redefined them that to invent new words, so with the readers indulgence, here is their slight redefinition:
+
+**Belief**: *Hypothetical knowledge*, i.e. knowledge that has some objective evidence, some supporting information, but has yet been tested.  This is how one understands their existence in relationship to other *instances* of existence. i.e. the world at-large.  It is almost synonymous with the phrase &ldquo;educated guess&rdquo;.  To say "I believe in the the value of hard work" is another example of this definition of *belief*, as there is some objective evidence to support that belief.  In this sense, science is a belief systems, but one with rigorous testing and proofs.  This is how most people's belief system operates as the need to some sort of validating information is very strong.  This is a result of our tribalism, which is a string evolutionary program, and the also the source of guilt. 
+
+**Faith**: *Subjective understanding*, i.e. an understanding that does not need any, or very weak, validating objective evidence to exist. This is how one understands their existence in relationship to all of existence, which is typically understood as God, the Universe, or some form of &ldquo;Spirit&rdquo;. An example of this might be "I have faith I am always where I am supposed to be", which is absolutely un-provable. 
+
+A key point here is the *objective evidence*, for there can be plenty of subjective evidence that the person holds as valid, if not more  valid, than objective evidence.  We see this in cases of people who have had extreme and profound subjective experiences, such those who experience near death or out of body experiences.  
+
+Subjective understanding only applies to oneself, while objective understanding applies to all.  We call the later *science*, but what do we call the former?  The study of psychology is probably the closest thing was have to a modern western formalized approach to understanding our subjective reality, but given that it is based on an objective perspective, it will never achieve understanding.  However, there are many non-western approaches to understanding one's relationship to the existence, and they requite as much, if not far more, study, practice and commitment than any student of psychology.
+
+The tholonic view is that the objective and subjective are in inextricably bound together being as they are not only two poles of the primal awareness, but the first duality of awareness.  If one could understand that primal awareness, the duality and division of the subjective and objective would not longer exist, just as we understand how day and night, while appearing opposite, are both the result of a spinning earth. 
+
+In its most reduced form, we really only have three concepts (also shown in image, left, below): 
+
+- **All**.  This is the domain of **faith**, as we have defined it, for faith is unlimited, free from facts, context, proof, scope, rationality, time/space, measure, or anything else.
+- **All that *could* be**.  The is the domain of **belief**, as is limited to the possibilities that can exist in a given scope and context.
+- **All that actually is.**  This is the domain of **understanding**, and is defined by what actually exists, not theoretical, hypothetical, possible, etc., but that, and only that which actually exists, meaning that  which has managed to form a stable pattern that can instantiate itself  in the context and scope of its environment.
+
+<img src="../Images/faith-tholo.png" style="width:100%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understanding one way how humans on earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  While *faith* is the beginning of the path, the spectrum of creation exists between *all that is possible*, and *all that is*, or between *belief* and *understanding*.  Not surprisingly, as we can see in the image (right) above, not only is *faith* the beginning of the path, it is the seed for the next path.  Tholonically speaking, *faith* is the only path, and all the stuff that *could be* or *is* are side effects, or instances, of that traveling that path, making *all that is* an instance of *faith*.   Faith in *what* is a question left for the reader to answer.
+
 ## Consciousness
 
 The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid out in it their paper &ldquo;*Objects of consciousness*&rdquo; [^77] can&rsquo;t be ignored.  What also can&rsquo;t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first draft of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.) 
@@ -2269,7 +2337,7 @@ This is a perfect example of how the simple enhancement of order at the most fun
 
 In the tholonic model, this example also applies to ideas, concepts, and intelligence;  small changes in one area can have radical consequences in the world of ideas, and of course, ideologies.
 
-
+<hr>
 
 [^52]: &ldquo;**Quantum Gravity Research**&rdquo;. Quantum Gravity Research, <https://www.quantumgravityresearch.org>.
 [^53]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.
@@ -2466,7 +2534,7 @@ From the tholonic perspective, there are three types of causes.
 
 The answer to &ldquo;Why was there a Cambrian explosion?&rdquo;, or any event for that matter, big or small, across all contexts, is that it was the most efficient and stable expression of energy at the time that was compatible with the intentions of all the contributing tholons.
 
-
+<hr>
 
 [^83]: https://www.youtube.com/watch?v=2_sgFETJzak
 [^84]: Seager, William, and Sean Allen-Hermanson. **&ldquo;Panpsychism.&rdquo;** Stanford Encyclopedia of Philosophy, Stanford University, 23 May 2001, <https://plato.stanford.edu/archives/win2012/entries/panpsychism>
@@ -2906,11 +2974,19 @@ This is similar in concept to the way a piece of music is the combination of man
 
 The resulting waveform contains only and every frequency that was required for it to exist. Once we learned how to read that waveform using such concepts as the Fourier Transform we were able to discover all of its components. In the image above, &ldquo;Hidden Information&rdquo; is an example of an image made by the *history* of the sound and tells us much more than just the entire history of that sound and all of its ingredients.  (for more examples, see Appendix E, &ldquo;*Hidden Images*&rdquo;)
 
-Consider this idea in light of the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants.  In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^159] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit may go far beyond the human genome.  Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
+<img src="../Images/elvis.png" style="float:right;width:30%"/>Another example of this that demonstrates some very tholonic concepts is a photo-mosaic, which is an image that is made up of other images, such as this image of Elvis that is made up of many images of Elvis.  Now imaging an image made up of many images which are made up of many images, and so on, but instead of the patterns being that of an image, imagine the patterns as that of energy and awareness, with each image having its own intelligence and intention.  While almost any collection of images can be used to create any other type of image, this far less so the case when we are speaking of tholons, which are effectively living expressions of energy, intention, intelligence, and awareness.  There are many more dimensions and constraints, such as the law of entropy, so some tholons will be mire likely to form other tholons depending on the &ldquo;benefits&rdquo;,  such as conserving energy or enhancing adaptation, to both the defining and contributing tholons.
 
-In this case it would probably be more accurate to show Bell curves as Gaussian curves that show the distribution of Brownian movement.  Below are three examples of Brownian movement and a typical distribution curve of the values that define that movement.  This is the movement of such things as the stock market, the path traveled by an amoeba, the motion of pollen grains on still water, diffusion of calcium through bones, movement of &ldquo;holes&rdquo; of electrical charge in semiconductors, and, as we&rsquo;ll soon hypothesize, the paths of predeterminism.
+Just for fun, here is the human eye made only from images used in this book, and a bull skull in Death Valley made with blooming flowers.
+
+<center><img src="../Images/mosaic-eye.png" style="width:100%"/></center>
+
+In these cases where the resulting pattern is less of a balance between two poles and more of a collection of patterns to form a new pattern,  it would probably be more accurate to show Bell curves as Gaussian curves that show the distribution of Brownian movement.  Below are three examples of Brownian movement and a typical distribution curve of the values that define that movement.  This is the movement of such things as the stock market, the path traveled by an amoeba, the motion of pollen grains on still water, diffusion of calcium through bones, movement of &ldquo;holes&rdquo; of electrical charge in semiconductors, and, as we&rsquo;ll soon hypothesize, the paths of predeterminism.
 
 <center><img src='../Images/brownian.png' style='width:100%'/></center>
+
+Consider these ideas in light of the relatively recent discoveries that experiences and memories can be passed on *epigenetically* to descendants.  In one of the classic test cases, the descendants of mice that were trained to not like the smell of cherry blossoms also had an aversion to the scent of cherry blossoms.[^159] Epigenetics describes how DNA can be modified by non-genetic stimuli, like fear, love, environmental preferences, even dreams, and it shows how what we inherit may go far beyond the human genome.  Tholonically, the human genome is an instance of the human tholon, but the epigenetics that affects this instance are more like the influences on the scope of that tholon, or rather, where along that scope a stable pattern will emerge.
+
+<hr>
 
 [^89]: **&ldquo;The anthropic universe&rdquo;**. Science Show. 18 February 2006.
 [^90]: Folger, Tim. **&ldquo;Eminent Physicist John Wheeler Says He Has Only Enough Time Left to Work on One Idea: That Human Consciousness Shapes Not Only the Present but the Past as Well.&rdquo;** Discover Magazine, June 1, 2002. <http://discovermagazine.com/2002/jun/featuniverse#.UvxOUrTVdnA>.
@@ -3160,6 +3236,8 @@ Whether tulpas exist or not is left to the reader. The point is that the belief 
 
 On a related note, keep an eye on the research into what is essentially the collective consciousness of artificial intelligence, or *A.I. Swarms*, as they are called,[^175]^,^ [^176] and the early attempts to create artificial humans.[^177] Science and technology is attempting to create their own tulpas, and one day they may also prove to be “more troublesome and bold, escaping our control.”
 
+<hr>
+
 [^160]: Hagelin, John S., Rainforth, Maxwell V., Cavanaugh, Kenneth L. C., Alexander, Charles N., Shatkin, Susan F., Davies, John L., Hughes, Anne O., Ross, Emanuel, Orme-Johnson, David W., **Effects of Group Practice of the Transcendental Meditation Program on Preventing Violent Crime in Washington, D.C.: Results of the National Demonstration Project, June--July 1993,** Social Indicators Research,,8 June 01,1999 <https://doi.org/10.1023/A:1006978911496> Full report available at <http://www.istpp.org/crime_prevention>
 [^161]: &ldquo;**Reduced Violent Crime in Washington, DC.**&rdquo; Research Reduced Violent Crime in Washington DC Comments, <https://research.mum.edu/maharishi-effect/reduced-violent-crime-in-washington-dc>
 [^162]: Carey, Benedict. &ldquo;**Long-Awaited Medical Study Questions the Power of Prayer.**&rdquo; The New York Times, The New York Times, 31 Mar. 2006, <https://www.nytimes.com/2006/03/31/health/31pray.html>.
@@ -3371,6 +3449,8 @@ One could argue that these preferences are only a result of evolution as they co
 
 *Constructive collaboration* only needs a slight edge over *destructive resistance* to ensure existence and growth, similar to how the &ldquo;house&rdquo; only has a 0.5% edge at the Black Jack table. The human brain, cellular mechanics, and all life in general, is wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for an instance to express the intention of its tholonic archetype that has its source in the *primal intention*.
 
+<hr>
+
 [^178]: SCIENCE 313:49 7/7/2006
 [^179]: Lilly, J. M., Sykulski, A. M., Early, J. J., and Olhede, S. C.: **Fractional Brownian motion, the Matérn process, and stochastic modeling of turbulent dispersion**, Nonlin. Processes Geophys., 24, 481-514, <https://doi.org/10.5194/npg-24-481-2017>, 2017.
 [^180]: Grabbed from <https://www.oddee.com/item_82923.aspx>
@@ -3421,6 +3501,8 @@ To that end, here is a simple color wheel that will show you how your e-reader t
 ## e-book Hell
 
 If you are reading this on a e-book reader, the chances that it will look especially ugly are quite high.  This is because many e-book reader manufacturers take it upon themselves to deliberately eliminate the layout that the author has developed and replaced it with their own generic (and IMHO, hideous) one-size-fits-all format.  The only upside to this that I can imagine is for the manufacturer as it free them form having to deal with more complex layouts.  There are ways around this.  For example, on the Kobo e-book readers, if you put a file called ```kobo-extras.css``` in the root directory of the e-reader itself, and then import the ebook using the e-book software ```Calibre``` (and install the ```Calibre``` Kobo drivers), it will apply the correct style to the book on import (the file I used for my Kobo H20 can be downloaded from <https://github.com/tholonia/the-book/blob/master/Styles/kobo_extra.css>. More instructions at <http://www.mobileread.mobi/forums/showpost.php?p=2584056> for the Kobo.  Personally, I find this practice offensive to the author and the reader,  not to mention reinforcing the standards of banality. 
+
+<hr>
 
 [^1]: Johnson RL, Bui B, Schmitt LL. **Are two spaces better than one? The effect of spacing following periods and commas during reading**. *Atten Percept Psychophys*. 2018;80(6):1504-1511. doi:10.3758/s13414-018-1527-6
 
@@ -3802,7 +3884,7 @@ This is fantastically elegant in so many ways, and the recurring principle seems
 
 We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, &ldquo;An Unexpected Pattern&rdquo;):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0
 
-
+<hr>
 
 [^203]: Barton, George A. **On the Babylonian Origin of Plato&rsquo;s Nuptial Number: on an Old Babylonian Letter Addressed "to Lushtamar".**. New Haven: American Oriental Society, 1908. <https://www.jstor.org/stable/592627?seq=2#metadata_info_tab_contentst>
 
@@ -4096,6 +4178,10 @@ The following images were created by plotting each digit of the position of the 
 - ***Img. 3*** is something quite different.  Rather than using the position of the Sun, we used the recurring cross-summed patterns of the sequence of numbers when we increase counting by 1 through 9 (as shown in the number matrix above).  The image below, ***Img.  3a***, is that same sequence but with a much larger value so as to see its larger pattern.  Interestingly, we end up with three distinct groups; 2,5,8 (cross-sum=6), 1,4,7 (cross-sum=3), and 3,6 (cross-sum=9).  The number 9 is all alone by itself and is at the center.
 
 <center><img src='../Images/cstrees.png' style='width:100%'/></center>
+
+
+
+<hr>
 
 [^195]: These tests are: monobit frequency test, block frequency test, runs test, longest run ones10000, binary matrix rank test, spectzral test, nonoverlapping template matching test, overlapping template matching test, Maurers universal statistic test, linear complexity test, serial test, approximate entropy test, cumulative sums test, random excursions test, random excursions variant test, cumulative sums test reverse. These tests are provided by the National Institute of Standards and Technology as implemented by the program *testrandom.py* by Ilja Gerhardt, https://gerhardt.ch/random.php The numbers published here are the result of the program "ent", a a pseudo-random number sequence test program by John Walker of Fourmilab Switzerland, https://en.wikipedia.org/wiki/John_Walker_(programmer)
 [^196]: Data generated with the command "ent" with the following variables: Is Intel CPU; AESNI Supported in instruction set; Format=Hex model=pure size = 1000 kilobytes XOR mode off XOR range mode; off Output to file x Hardware Random Seeding on. Non deterministic mode;  Reseed c_max=511;  Using RdRand as nondeterministic source; Total Entropy = 0.000000; Per bit Entropy = 0.000000 %
@@ -5018,6 +5104,8 @@ Both of these models describe only the structure, the contexts of which is const
 
 With all that we have learned so far, let&rsquo;s attempt to decipher and translate the I-Ching.
 
+<hr>
+
 [^204]: Prochaska, J. O., & Velicer, W. F. (1997). The Transtheoretical Model of Health Behavior Change. American Journal of Health Promotion, 12(1), 38–48. https://doi.org/10.4278/0890-1171-12.1.38
 [^205]: <https://www.quantamagazine.org/entanglement-made-simple-20160428>
 
@@ -5065,6 +5153,8 @@ Tests with the MW have shown positive results, such as a rise in pH, oxygen cont
 Pursanova is a company that makes complete water processing system for residential, commercial and industrial applications.  Their products range from &dollar;20 to many thousands.  They have a number of case studies on their website (pursanova.com) which are astounding.
 
 *Disclaimer: I have no relationship with any of these companies and am not promoting any of their products.  I refer to them simply because my research seems to indicate they are legitimate products in an industry filled with wild and dubious claims.*
+
+<hr>
 
 
 [^191]: The use of magnetic water in agriculture to increase harvest and save up to 25% water. Live testimonials by biggest Australian farmers. <https://www.youtube.com/watch?v=YVL6tfGhr8M>

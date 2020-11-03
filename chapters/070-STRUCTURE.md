@@ -1002,9 +1002,9 @@ Approaching this tholonically, we'd say that the balanced price will always repr
 
 I have no doubt that serious research would yield interesting results. From the tholonic perceptive, knowing that perhaps the stock market, music, story telling, batteries, electrical circuits, and much more, all have a correlation is interesting, but suggesting they are all effects of a higher-order cause is much more interesting.
 
-## Social Sciences
+## Faith & Belief
 
-Previously, we used the example of Cognitive Behavioral Therapy as an example of a triplet of understanding.  We we can expand on that a bit by looking beyond psychology alone and more into the most fundamental way we perceive reality, which is via *belief* and *faith*, typically, this seen in the dichotomy of spirit and science.  Both of these are a search for the Truth, but because we can't ever know of an ultimate truth, if one even exists, the best we can attempt to achieve is an *understanding* of a contextual Truth.
+Previously, we used the example of Cognitive Behavioral Therapy as an example of a triplet of understanding as it might apply to psychology.  We can expand on that a bit by looking beyond psychology alone and more into not only the most fundamental way we perceive reality, but the very drivers of how our societis and culture are formed, these being *belief* and *faith*.  Typically, this seen in the dichotomy of spirit and science, but it gos far beyond that.  Both of these concepts attempt to model the Truth, but because we can't ever know of an ultimate truth, if one even exists, the best we can attempt to achieve is an *understanding* of a contextual Truth.
 
 We previously defined *data*, *information*, *knowledge*, and *understanding* as the following:
 
@@ -1012,11 +1012,11 @@ We previously defined *data*, *information*, *knowledge*, and *understanding* as
 **Information** + *context* = ***knowledge***
 **Knowledge** + *application* = ***understanding***
 
-If we removed the intermediate concepts and only use the one essential ingredient, Data, we can express this as:
+If we removed the intermediate concepts of *information* and *knowledge* and only use the one essential ingredient, *data*, we can express this as:
 
 **Understanding** = (((*Data* + *order*) + *context*) + *application*)
 
-And what is data? tholonically, data is the chaos of existence (represented by the conceptual abstractions we have created).
+And what is data? Tholonically, data is the chaos of existence (represented by the conceptual abstractions we have created).
 
 If we were to map these 6 concepts to a trigram it would look like the image on the right.
 
@@ -1024,43 +1024,39 @@ If we were to map these 6 concepts to a trigram it would look like the image on 
 
 **Data**: There is a farmer, a cow, a field, a bush, a large piece of paper, a neighbor. 
 
-*Order: How to these pieces of data relate to one another?*
+*Order: How do these pieces of data relate to one another?*
 
-**Information**: The cow belongs to the farmer, the cow is not where the farmers expects it to be, the neighbor tells the farmer he saw the cow in his field.  The farmer believes he confirmed this information by seeing the cow in the field.
+**Information**: The cow belongs to the farmer.  The cow is not where the farmers expects it to be.  The neighbor has seen the cow in his field.  
 
 *Context: What are the limitations and purpose of their interactions?*
 
-**Knowledge**: The the neighbor discovers the farmers did not see the cow, as it was hidden, but instead mistook the paper in the bushes as the cow.  Perhaps it was far way or the farmer forgot his glasses. 
+**Knowledge**: The farmer believes he confirmed this information by seeing the cow in the field.  The the neighbor believes the farmer did not see the cow, as it was hidden, but instead mistook the paper in the bushes as the cow.  
 
 *Application: What actions will the farmer take based on what he believes?*
 
-**Understanding**:  The farmer goes to retrieve the cow, but upon approaching what he believed was the cow, he discovered it was a large piece of paper stuck in the bushes. He understands his beliefs were based on at falsehood, and that his efforts were in vain.
+**Understanding**:  The farmer goes to retrieve the cow, but upon approaching what he believed was the cow, he discovered it was a large piece of paper stuck in the bushes. He understands his beliefs were based on a falsehood, and that his efforts to retrieve his cow were in vain.
 
-In the above example, the farmer believes based on information.  He does not have faith that the cow is in the field, because he has had some validating input.  If he had no validating input, but still believed the caw was in the neighbors field, that would be an act of faith.
+In the above example, the farmer acted on his belief *based* only on information, as he did not yet have *knowledge* or *understanding* of the situation.  He does not have *faith* that the cow is in the field, but he does *believe* the cow in in the field because he has had some validating input, giving him reason to believe.  If he had no validating input or information, no reason to believe the cow was in his neighbor's field, but still went to the field to retrieve his cow, that would be an act of *faith*.
 
-So, we are going to slightly redefine the concepts of *belief* and *faith* as the following:
+The concepts faith and belief are so similar to the concepts we need to define, it is more effective to slightly redefined them that to invent new words, so with the readers indulgence, here is their slight redefinition:
 
-**Belief**: *Theoretical knowledge*, i.e. knowledge that has some objective evidence, but has yet been tested.  This is how one understands their existence in relationship to other *instances* of existence.  It is almost synonymous with the phrase &ldquo;educated guess&rdquo;.  To say "I believe in the the value of hard work" is an example of this definition, as there is some objective evidence to support that belief.  In this sense, science is a belief systems, but one with rigorous testing and proofs.
+**Belief**: *Hypothetical knowledge*, i.e. knowledge that has some objective evidence, some supporting information, but has yet been tested.  This is how one understands their existence in relationship to other *instances* of existence. i.e. the world at-large.  It is almost synonymous with the phrase &ldquo;educated guess&rdquo;.  To say "I believe in the the value of hard work" is another example of this definition of *belief*, as there is some objective evidence to support that belief.  In this sense, science is a belief systems, but one with rigorous testing and proofs.  This is how most people's belief system operates as the need to some sort of validating information is very strong.  This is a result of our tribalism, which is a string evolutionary program, and the also the source of guilt. 
 
-**Faith**: *Hypothetical understanding*, i.e. an understanding that does not need any validating objective evidence to exist. This is how one understands their existence in relationship to all of existence (which is typically understood as god or some form of &ldquo;spirit&rdquo;). An example of this might be "I have faith I am always where I am supposed to be". 
+**Faith**: *Subjective understanding*, i.e. an understanding that does not need any, or very weak, validating objective evidence to exist. This is how one understands their existence in relationship to all of existence, which is typically understood as God, the Universe, or some form of &ldquo;Spirit&rdquo;. An example of this might be "I have faith I am always where I am supposed to be", which is absolutely un-provable. 
 
-A key point here is the *objective evidence*, for there can be plenty of subjective evidence that the person holds as valid, if not more  valid, than objective evidence.  We see this in cases of people who have had extreme and profound subjective experiences, such those who experience near death or out of body experiences.  From the tholonic view, both objective and subjective are equally valid, which means we have two types of understanding (and therefore, knowledge, information, and data) , subjective and objective.  
+A key point here is the *objective evidence*, for there can be plenty of subjective evidence that the person holds as valid, if not more  valid, than objective evidence.  We see this in cases of people who have had extreme and profound subjective experiences, such those who experience near death or out of body experiences.  
 
-Subjective understanding only applies to oneself, while objective understanding applies to all.  We call the later *science*, but what to we call the former?  Religion, faith, superstition, and such, would be types of subjective understanding, and just like science, something times they are incorrect, but unless we know what the rules are of subjective reality, how can we know evaluate them?  Th study of psychology is probably the closest thing was have to a formalized approach to understanding our subjective reality, but given that it is based on an objective perspective, it will never achieve understanding.  Psychology will believe it has an understanding, because it has information, but just like the farmer an the cow, it will fail to recover the &ldquo;cow&rdquo;, which here is a metaphor for the true subjective or &ldquo;inner&rdquo; model of reality, and it will (and has).  Not only will its stables be filled with scraps of paper, these scraps of paper will be presented as their prize  &ldquo;cows&rdquo;.
+Subjective understanding only applies to oneself, while objective understanding applies to all.  We call the later *science*, but what do we call the former?  The study of psychology is probably the closest thing was have to a modern western formalized approach to understanding our subjective reality, but given that it is based on an objective perspective, it will never achieve understanding.  However, there are many non-western approaches to understanding one's relationship to the existence, and they requite as much, if not far more, study, practice and commitment than any student of psychology.
 
-<img src="../Images/faith-tri.png" style="float:right;width:50%"/>In its most reduced form, we really only have three concepts: 
+The tholonic view is that the objective and subjective are in inextricably bound together being as they are not only two poles of the primal awareness, but the first duality of awareness.  If one could understand that primal awareness, the duality and division of the subjective and objective would not longer exist, just as we understand how day and night, while appearing opposite, are both the result of a spinning earth. 
 
-- All (unlimited scope and context)
-- All that could be (given the scope and context)
-- All that is (in that scope and context).  
+In its most reduced form, we really only have three concepts (also shown in image, left, below): 
 
-**Faith**, as we have defined it, exist in the domain of "All", and is therefore unlimited, from from facts, proof, or anything else.
+- **All**.  This is the domain of **faith**, as we have defined it, for faith is unlimited, free from facts, context, proof, scope, rationality, time/space, measure, or anything else.
+- **All that *could* be**.  The is the domain of **belief**, as is limited to the possibilities that can exist in a given scope and context.
+- **All that actually is.**  This is the domain of **understanding**, and is defined by what actually exists, not theoretical, hypothetical, possible, etc., but that, and only that which actually exists, meaning that  which has managed to form a stable pattern that can instantiate itself  in the context and scope of its environment.
 
-**Belief** exists in the domain of "All that could be", which is "All" in a limited context and scope.
-
-**Understanding** is simply "All that is", meaning,  not theoretical, hypothetical, possible, etc., but that, and only that which actually exists.
-
-
+<img src="../Images/faith-tholo.png" style="width:100%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understanding one way how humans on earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  While *faith* is the beginning of the path, the spectrum of creation exists between *all that is possible*, and *all that is*, or between *belief* and *understanding*.  Not surprisingly, as we can see in the image (right) above, not only is *faith* the beginning of the path, it is the seed for the next path.  Tholonically speaking, *faith* is the only path, and all the stuff that *could be* or *is* are side effects, or instances, of that traveling that path, making *all that is* an instance of *faith*.   Faith in *what* is a question left for the reader to answer.
 
 ## Consciousness
 
