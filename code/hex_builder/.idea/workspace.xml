@@ -19,7 +19,40 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="" />
+    <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Images/balancemap.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/balancemap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Images/titlepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/titlepage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/000-Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/000-Intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/010-CHAOS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/010-CHAOS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/020-ENERGY.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/020-ENERGY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/030-ORDER.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/030-ORDER.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/040-THE_LAWS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/040-THE_LAWS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/050-REASON.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/050-REASON.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/060-INFORMATION.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/060-INFORMATION.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/070-STRUCTURE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/070-STRUCTURE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/080-MIND.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/080-MIND.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/090-FIELDS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/090-FIELDS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/100-APPLICATION_OF_AWARENESS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/100-APPLICATION_OF_AWARENESS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/110-PREDETERMINISM.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/110-PREDETERMINISM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/500-APPENDIX.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/500-APPENDIX.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/510-A-About_This_Book.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/510-A-About_This_Book.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/515-B-The_Thologram.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/515-B-The_Thologram.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/550-F-An_Unexpected_Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/550-F-An_Unexpected_Pattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/560-G-The_Tholonic_I-Ching.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/560-G-The_Tholonic_I-Ching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/570-H-How_to_Make_Structured_Water.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/570-H-How_to_Make_Structured_Water.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/999-References.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/999-References.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/9999.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/9999.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ohmslaw-light.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../ohmslaw-light.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../inc/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../inc/version.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +78,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/moon_dat.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -54,7 +87,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tricircles">
+  <component name="RunManager" selected="Python.ln2">
     <configuration name="Lorentz-force-scipy" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="hex_builder" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -257,6 +290,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/increment_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ln2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hex_builder" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ln2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -672,9 +726,10 @@
       <item itemvalue="Python.timetest" />
       <item itemvalue="Python.vert" />
       <item itemvalue="Python.tricircles" />
+      <item itemvalue="Python.ln2" />
     </list>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -701,94 +756,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="854" y="184" key="#Inspections" timestamp="1594853334204">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="854" y="184" key="#Inspections/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1594853334204" />
-    <state x="733" y="1223" key="#Lorentz-force-scipy" timestamp="1593499931548">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="733" y="1223" key="#Lorentz-force-scipy/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593499931548" />
-    <state x="557" y="1211" key="#brownian" timestamp="1595537058032">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="557" y="1211" key="#brownian/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595537058032" />
-    <state x="560" y="1227" key="#chart_2" timestamp="1594839213461">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="560" y="1227" key="#chart_2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1594839213461" />
-    <state x="551" y="1237" key="#chart_dat" timestamp="1594838018360">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="551" y="1237" key="#chart_dat/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1594838018359" />
-    <state x="774" y="1214" key="#crossgen" timestamp="1594767614423">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="774" y="1214" key="#crossgen/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1594767614423" />
     <state x="677" y="1205" key="#crosssum" timestamp="1598109369781">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="677" y="1205" key="#crosssum/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1598109369781" />
-    <state x="733" y="1223" key="#helix" timestamp="1593498146611">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="733" y="1223" key="#helix/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593498146611" />
-    <state x="643" y="147" key="#hex_builder" timestamp="1592376427401">
+    <state x="493" y="164" key="#ln2" timestamp="1604591173073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="643" y="147" key="#hex_builder/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592376427400" />
-    <state x="727" y="1247" width="588" height="815" key="#hex_builder_lapse" timestamp="1592591783589">
-      <screen x="0" y="1128" width="1920" height="986" />
-    </state>
-    <state x="727" y="1247" width="588" height="815" key="#hex_builder_lapse/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592591783589" />
-    <state x="733" y="1214" key="#increment_test" timestamp="1593718769146">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="733" y="1214" key="#increment_test/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593718769146" />
-    <state x="840" y="1226" key="#loopmake" timestamp="1594503843978">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="840" y="1226" key="#loopmake/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1594503843978" />
-    <state x="724" y="1248" key="#moon" timestamp="1592972164954">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="724" y="1248" key="#moon/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1592972164954" />
-    <state x="725" y="1220" key="#moon_dat" timestamp="1593113691844">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="725" y="1220" key="#moon_dat/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593113691844" />
-    <state x="733" y="1214" key="#moon_dat_FF" timestamp="1593795623683">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="733" y="1214" key="#moon_dat_FF/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593795623683" />
-    <state x="733" y="1223" key="#moon_dat_p" timestamp="1593451019374">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="733" y="1223" key="#moon_dat_p/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593451019374" />
-    <state x="733" y="1223" key="#moon_dat_r" timestamp="1593454043193">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="733" y="1223" key="#moon_dat_r/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593454043193" />
-    <state x="725" y="1220" key="#moon_im" timestamp="1593106096858">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="725" y="1220" key="#moon_im/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593106096858" />
-    <state x="800" y="1214" key="#numtree" timestamp="1595003583076">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="800" y="1214" key="#numtree/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595003583076" />
-    <state x="724" y="1248" key="#planet_locations" timestamp="1592969051755">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="724" y="1248" key="#planet_locations/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1592969051755" />
-    <state x="733" y="1223" key="#relist" timestamp="1593449853120">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="733" y="1223" key="#relist/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593449853120" />
-    <state x="725" y="1220" key="#timetest" timestamp="1593131941841">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state x="725" y="1220" key="#timetest/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593131941841" />
+    <state x="493" y="164" key="#ln2/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604591173073" />
     <state x="677" y="1205" key="#tricircles" timestamp="1599008064675">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -796,52 +771,27 @@
     <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl" timestamp="1600528964361">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
-    <state x="279" y="118" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592370872275" />
     <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600528964361" />
-    <state x="279" y="1236" width="434" height="488" key="FileChooserDialogImpl/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592603524177" />
-    <state width="1523" height="249" key="GridCell.Tab.0.bottom" timestamp="1599101618498">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state width="1375" height="278" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
-    <state width="1381" height="246" key="GridCell.Tab.0.bottom/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
-    <state width="1523" height="249" key="GridCell.Tab.0.center" timestamp="1599101618498">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state width="1375" height="278" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
-    <state width="1381" height="246" key="GridCell.Tab.0.center/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
-    <state width="1523" height="249" key="GridCell.Tab.0.left" timestamp="1599101618497">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state width="1375" height="278" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618497" />
-    <state width="1381" height="246" key="GridCell.Tab.0.left/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
-    <state width="1523" height="249" key="GridCell.Tab.0.right" timestamp="1599101618498">
-      <screen x="0" y="1080" width="1920" height="1080" />
-    </state>
-    <state width="1375" height="278" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544719363" />
-    <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
-    <state width="1381" height="246" key="GridCell.Tab.0.right/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592597194213" />
-    <state x="791" y="131" width="992" height="732" key="SettingsEditor" timestamp="1595537167638">
+    <state width="1413" height="220" key="GridCell.Tab.0.bottom" timestamp="1604595185385">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="261" y="233" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592376597156" />
-    <state x="791" y="131" width="992" height="732" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595537167638" />
-    <state x="261" y="1341" width="997" height="734" key="SettingsEditor/0.1128.1920.986/0.0.1920.1080@0.1128.1920.986" timestamp="1592594189031" />
-    <state x="197" y="1208" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595018464990">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
+    <state width="1413" height="220" key="GridCell.Tab.0.bottom/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604595185385" />
+    <state width="1413" height="220" key="GridCell.Tab.0.center" timestamp="1604595185385">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="197" y="128" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1592544454305" />
-    <state x="197" y="1208" width="1200" height="818" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595018464990" />
-    <state x="415" y="1232" width="1214" height="790" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1593831811812">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
+    <state width="1413" height="220" key="GridCell.Tab.0.center/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604595185385" />
+    <state width="1413" height="220" key="GridCell.Tab.0.left" timestamp="1604595185384">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="415" y="1232" width="1214" height="790" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1593831811812" />
-    <state x="711" y="1326" width="672" height="743" key="search.everywhere.popup" timestamp="1595015524075">
-      <screen x="0" y="1080" width="1920" height="1080" />
+    <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618497" />
+    <state width="1413" height="220" key="GridCell.Tab.0.left/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604595185384" />
+    <state width="1413" height="220" key="GridCell.Tab.0.right" timestamp="1604595185385">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="711" y="1326" width="672" height="743" key="search.everywhere.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1595015524075" />
+    <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
+    <state width="1413" height="220" key="GridCell.Tab.0.right/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1604595185385" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
