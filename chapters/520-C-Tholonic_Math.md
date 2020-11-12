@@ -31,6 +31,10 @@ If we convert these three 2D tholon maps that make up the three sides of a 3D th
 
 Because we have overlapped the lines (and dropped the base), we can't apply the actual formulas.  They are shown simply to highlight a pattern of functionality.  The reader can come to their own conclusions.  
 
+As a comparison, here two versions of a square model of the same 12 formulas, but even here you can see tholonic patterns in both images (but maybe more so on the right image).
+
+<center><img src='../Images/tri-square.png' style='width:100%'/></center>
+
 ##  New Data?
 
 Applying Ohm’s Law to the tetrahedron shows some new relationships.  Readers who enjoy numbers will find this next (short) section interesting.

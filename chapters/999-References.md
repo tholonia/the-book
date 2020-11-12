@@ -223,3 +223,6 @@
 
 [^309]: **Freedom in the World** (2018), published by Freedom House, **Democracy Index** (2017), published by The Economist Intelligence Unit, **V-Dem Annual Democracy Report** (2018), published by the V-Dem Institute
 
+[^310]: Emily L. Doolittle, Bruno Gingras, Dominik M. Endres, and W. Tecumseh Fitch, PNAS November 18, 2014 111 (46) 16616-16621; first published November 3, 2014; https://doi.org/10.1073/pnas.1406023111.  Science article available at: https://www.sciencemag.org/news/2014/11/birds-found-using-human-musical-scales-first-time
+[^311]: Araya-Salas, M. (2012). Is birdsong music? Evaluating harmonic intervals in songs of a Neotropical songbird. *Animal Behaviour,* *84*(2), 309-313. doi:10.1016/j.anbehav.2012.04.038.  Seience article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
+
