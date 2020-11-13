@@ -36,7 +36,27 @@ Another universal law might be simple fractal math formulas, like *f(x)= x^2^-1*
 
 <center><img src='../Images/005-fracgened.png' style='width:100%'/></center>
 
-A good visual example of the results of a universal law, perhaps the first universal law, is the distribution of energy across the known universe.  This is known as *cosmic microwave background* radiation.  This is a form of energy that fills the universe and is considered the smoking-gun evidence of the Big Bang[^11].  This chart below shows the temperature of the universe, in Kelvin (from cold -3354 &micro;K to hot 3354 &micro;K).  Typically, this chart is shown more oval in shape, but it does not have to be.  Look familiar?
+Another universal law might be Benford’s Law, which is the pattern that describes the chances of what will be the first digit of a number that is naturally is naturally appears, such as lengths of rivers, populations, numbers printed on the first page of a newspaper.  This might sound odd, as simple logic would suggest that the chances of, say, the number 1 being the first digit would be 1 in 9, but that is not the case.  About 150 years ago it was discovered that the number 1 is the first digit 30% of the time, while the number 9 only about 5%!  In the two images below we can see this law in action when we plot the the populations of every county in the U.S. and then count the first digit of each of those populations.
+
+<center><img src='../Images/bensonslaw2.png' style='width:100%'/></center>
+
+
+
+The reason for this is because, while we may count in a linear fashion, 1,2,3,4… etc., nature distributes itself a logarithmic fashion.   For example, let’s say we have three naturally occurring scales; 0 to 10, 10 to 100, and 100 to 1000.  With each new scale we simply,y add a 0.  There are 10 numbers in the 1^st^ scale, 90 in the 2^nd^ scale, and 900 in the 3^rd^ scale, but as far as nature is concerned, each scale has a infinite number of divisions, so they are effectively the same from nature’s perspective.  This is how we discovered (or why we invented) logarithms; to replicate the *natural* way numbers work.  The image below shows these 2 scales.
+
+<center><img src='../Images/scalar.png' style='width:100%'/></center>
+
+Logarithms allow us to multiply simply by adding, for example, the log of 10 = 1, and the log of 100 = 2, so instead of multiplying 10&times;100 to get 1000, we can just add 1+2.  This gives us 3, and  because we are using the normal base 10 system, we convert these log values back to normal values with 10^3^, which is 1000. 
+
+Once upon a time, before the invention in digital calculators, and after its invention in 1859 by a French artillery officer, every engineer had a *slide rule*, which allowed them to do this multiplication-by-adding (and more) simply by sliding some rulers back and forth.
+
+<center><img src='../Images/sliderule.png' style='width:100%'/></center>
+
+How does this apply to 30% of all our numbers beginning with a 1?  Because the occurrence of any number as the 1^st^ digit is the log of the next number minus the log of the number.  So, the chances 1 will appear is *log(2)-log(1)=0.30*, or 30%, and the chances 9 will appear is *log(10)-log(9)=0.045*, or 4.5%.  
+
+The point here is not to get into math, but to show that nature’s concept of scale, or scope is *invariant*, meaning, nature treats all the scopes or scales, the same.
+
+A good visual example of the results of a universal law, perhaps the first universal law (if there was such as thing as “first”), is the distribution of energy across the known universe.  This is known as *cosmic microwave background* radiation.  This is a form of energy that fills the universe and is considered the smoking-gun evidence of the Big Bang[^11].  This chart below shows the temperature of the universe, in Kelvin (from cold -3354 &micro;K to hot 3354 &micro;K).  Typically, this chart is shown more oval in shape, but it does not have to be.  Look familiar?
 
 <img src='../Images/CMB.png' style='float:right;width:50%'/>Even though there are many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
