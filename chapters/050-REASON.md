@@ -51,7 +51,7 @@ Each of these fine folks can easily define and defend their worldview.  They are
 
 ### Labels and Names
 
-In all cases, before one can proclaim some thing’s existence, that thing has to be named and something about it must be known, or at least presumed.  We can’t say something exists if we have no idea what it is we are making that claim about.  We can see this readily in the way languages form ideas and labels which become the foundation of cultural understanding.
+In all cases, before one can proclaim some thing’s existence, that thing has to be named and something about it must be known, or at least presumed.  This claim is not only based in psychology, but neuroloigy as well.  We can’t say something exists if we have no idea what it is we are making that claim about.  We can see this readily in the way languages form ideas and labels which become the foundation of cultural understanding.
 
 I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone I know also knows of dogs.  But can I say *phlimquitz* exist, and when you ask me what a *phlimquitz* is, I say “I have no idea”? That would be quite unreasonable, but if I said *phlimquitz* explains the 99.97% correlation between “U.S. Spending on science, space and technology vs. Suicide by hanging, strangulation, and suffocation”, then I am claiming to understand something heretofore unknown and can go about defining and testing the *Phlimquitz Hypothesis*.
 
@@ -65,7 +65,7 @@ Here is that correlation, just for fun:[^28]
 
 This process of understanding is similar to recognizing a pattern in a series of random dots, as in the dancing-woman-in-the-dots example above (right).  In that image I can definitely see a person dancing, and I can easily prove it by connecting the dots.  I am not wrong, but neither is the person who sees an egg sandwich.
 
-However, any predictions either of us makes on where the next dot will land or in determining the properties and attributes of the dots, based on the understanding of our perceptions, will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.
+This ability to recignize patterns exuists in our neurology,  next dot will land or in determining the properties and attributes of the dots, based on the understanding of our perceptions, will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.
 
 Humans began grasping this concept of randomness about 3,000 years ago, but named it things like “fate”, “chance”, and “destiny”, and, being unpredictable, was usually associated with some sort of supernatural justice or punishment.  It wasn’t until the 16^th^ century that Italian mathematicians began to formalize the concept of what we call randomness, so it’s still quite a young concept.
 

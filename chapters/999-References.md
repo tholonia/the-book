@@ -226,3 +226,4 @@
 [^310]: Emily L. Doolittle, Bruno Gingras, Dominik M. Endres, and W. Tecumseh Fitch, PNAS November 18, 2014 111 (46) 16616-16621; first published November 3, 2014; https://doi.org/10.1073/pnas.1406023111.  Science article available at: https://www.sciencemag.org/news/2014/11/birds-found-using-human-musical-scales-first-time
 [^311]: Araya-Salas, M. (2012). Is birdsong music? Evaluating harmonic intervals in songs of a Neotropical songbird. *Animal Behaviour,* *84*(2), 309-313. doi:10.1016/j.anbehav.2012.04.038.  Seience article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
 
+[^312]: Rose GJ. **“The numerical abilities of anurans and their neural correlates: insights from neuroethological studies of acoustic communication.”** Philos Trans R Soc Lond B Biol Sci. 2017 Feb 19;373(1740):20160512. doi: 10.1098/rstb.2016.0512. PMID: 29292359; PMCID: PMC5784039.

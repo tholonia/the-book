@@ -44,3 +44,53 @@ Processing '/etc/joe/joerc'...
 Processing '/etc/joe/ftyperc'...
 Finished processing /etc/joe/ftyperc
 Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Mon Nov 16 23:22:51 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File 'i2.py'
+
+
+
+*** File '(Unnamed)'
+$rdquo;.
+&rdquo;,
+&rdquo;
+&rdquo
+Fig. 
+rm 
+rm 
+git add -f 
+\n git add -f 
+run1
+
+*** File '(Unnamed)'
+$rdquo
+$rd
+$rdquo
+Fig.  
+THOLONIA_THE_BOOK
+npm:  
+Intro
+\t
+\n
+Pdata-0sec_0.dat
+
+*** File '(Unnamed)'
+q
+q
+x
+/home/jw/.zshrc
+CDF
+CF
+cc
+cc
+cc
+cc
+i2.py
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

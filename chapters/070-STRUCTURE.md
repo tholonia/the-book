@@ -674,6 +674,8 @@ This is just a hypothetical demonstration, as there may be a much better tholoni
 
 Can we see this similar relationship with other compounds? Given that the basic archetypal shapes of molecules (shown above) can be represented within the thologram, perhaps this model can be applied to all compounds.  We claim this might be possible, as there is an almost infinite number of possible configurations in the thologram.  Instances of fundamental configurations, such as those that appear in the earlier stages of iterations and generations, like the Fibonacci sequence and the hexagram, would represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality (like water and methane) and could be easily discovered.
 
+The Fibonacci formula is especially tholonic.  For details, see “*Fibonacci Tholon*” in Appendix C, “*Tholonic Math*”.
+
 ### Quarks and Atoms
 
 Here is another example of how we might discover tholonic structures in subatomic particles.  Let’s look at a quark (which was originally named a *parton* by Richard Feynman to describe a hypothetical particle inside the nucleus of the atom).
@@ -926,7 +928,6 @@ Another interesting relationship here is how gravity, or at least how we experie
 And what do we subtract?  There are many possibilities, all of which produce very interesting results, but this is too much to get into here.  
 
 These functions that deal with infinities are based on calculus, which itself has a very strong tholonic pattern.
-
 
 ## Calculus
 

@@ -21,6 +21,10 @@ Millions of samples were recorded and reduced to one number per sample.  The inp
 
 Next, each single digit number (1-9) was assigned a color from the spectrum and then plotted such that each dot occupied one consecutive pixel on one line, and when that line was full, the plot advanced to the next line, just like a dot-matrix printer.  This was an extremely simple plot.  The below-left plot shows only one number being plotted at a time, and the below-right plot shows cumulative numbers.  The distribution of the numbers within the data set of 33,000,000 is shown in the bar chart.
 
+The data was also tested against Benford’s Law, which states that the first digit in a naturally occurring set of values will be distributed in a manner dependent on the log of that number.  We looked at three sets of data; the crossed-sums of the Sun, Moon, and combined, by counting the number of each digit 1 through 9 in a data set of 33,575,635 data samples.  While the numbers were similar in count, they were were not similar enough to suggest an even distribution as we would see in random numbers, and not in accordance with Benford’s Law.  To see the difference in these totals, we plotted the difference between the lowest and and highest counts (charts below) for each number 1-9.  As you can see, there is some very patterned behavior, especially in the first chart and even more so in the last charts which s, as the prime numbers are reduced .
+
+<center><img src='../Images/2cspos.png' style='width:100%'/></center>
+
 Much to our surprise, this resulting pattern matches that of a *Fresnel diffraction*.
 
 <center><img src='../Images/123456789comp.png' style='width:100%'/></center>

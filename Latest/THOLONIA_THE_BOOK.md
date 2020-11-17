@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Thu 12 Nov 2020 04:24:42 PM -03 v3.6.00'
+status: 'Updated: Tue 17 Nov 2020 12:30:38 AM -03 v3.6.19'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.00
+version:  3.6.19
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.00'
+pagetitle: 'THOLONIA 3.6.19'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -227,7 +227,27 @@ Another universal law might be simple fractal math formulas, like *f(x)= x^2^-1*
 
 <center><img src='../Images/005-fracgened.png' style='width:100%'/></center>
 
-A good visual example of the results of a universal law, perhaps the first universal law, is the distribution of energy across the known universe.  This is known as *cosmic microwave background* radiation.  This is a form of energy that fills the universe and is considered the smoking-gun evidence of the Big Bang[^11].  This chart below shows the temperature of the universe, in Kelvin (from cold -3354 &micro;K to hot 3354 &micro;K).  Typically, this chart is shown more oval in shape, but it does not have to be.  Look familiar?
+Another universal law might be Benford’s Law, which is the pattern that describes the chances of what will be the first digit of a number that is naturally is naturally appears, such as lengths of rivers, populations, numbers printed on the first page of a newspaper.  This might sound odd, as simple logic would suggest that the chances of, say, the number 1 being the first digit would be 1 in 9, but that is not the case.  About 150 years ago it was discovered that the number 1 is the first digit 30% of the time, while the number 9 only about 5%!  In the two images below we can see this law in action when we plot the the populations of every county in the U.S. and then count the first digit of each of those populations.
+
+<center><img src='../Images/bensonslaw2.png' style='width:100%'/></center>
+
+
+
+The reason for this is because, while we may count in a linear fashion, 1,2,3,4… etc., nature distributes itself a logarithmic fashion.   For example, let’s say we have three naturally occurring scales; 0 to 10, 10 to 100, and 100 to 1000.  With each new scale we simply,y add a 0.  There are 10 numbers in the 1^st^ scale, 90 in the 2^nd^ scale, and 900 in the 3^rd^ scale, but as far as nature is concerned, each scale has a infinite number of divisions, so they are effectively the same from nature’s perspective.  This is how we discovered (or why we invented) logarithms; to replicate the *natural* way numbers work.  The image below shows these 2 scales.
+
+<center><img src='../Images/scalar.png' style='width:100%'/></center>
+
+Logarithms allow us to multiply simply by adding, for example, the log of 10 = 1, and the log of 100 = 2, so instead of multiplying 10&times;100 to get 1000, we can just add 1+2.  This gives us 3, and  because we are using the normal base 10 system, we convert these log values back to normal values with 10^3^, which is 1000. 
+
+Once upon a time, before the invention in digital calculators, and after its invention in 1859 by a French artillery officer, every engineer had a *slide rule*, which allowed them to do this multiplication-by-adding (and more) simply by sliding some rulers back and forth.
+
+<center><img src='../Images/sliderule.png' style='width:100%'/></center>
+
+How does this apply to 30% of all our numbers beginning with a 1?  Because the occurrence of any number as the 1^st^ digit is the log of the next number minus the log of the number.  So, the chances 1 will appear is *log(2)-log(1)=0.30*, or 30%, and the chances 9 will appear is *log(10)-log(9)=0.045*, or 4.5%.  
+
+The point here is not to get into math, but to show that nature’s concept of scale, or scope is *invariant*, meaning, nature treats all the scopes or scales, the same.
+
+A good visual example of the results of a universal law, perhaps the first universal law (if there was such as thing as “first”), is the distribution of energy across the known universe.  This is known as *cosmic microwave background* radiation.  This is a form of energy that fills the universe and is considered the smoking-gun evidence of the Big Bang[^11].  This chart below shows the temperature of the universe, in Kelvin (from cold -3354 &micro;K to hot 3354 &micro;K).  Typically, this chart is shown more oval in shape, but it does not have to be.  Look familiar?
 
 <img src='../Images/CMB.png' style='float:right;width:50%'/>Even though there are many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
@@ -657,7 +677,7 @@ Each of these fine folks can easily define and defend their worldview.  They are
 
 ### Labels and Names
 
-In all cases, before one can proclaim some thing’s existence, that thing has to be named and something about it must be known, or at least presumed.  We can’t say something exists if we have no idea what it is we are making that claim about.  We can see this readily in the way languages form ideas and labels which become the foundation of cultural understanding.
+In all cases, before one can proclaim some thing’s existence, that thing has to be named and something about it must be known, or at least presumed.  This claim is not only based in psychology, but neuroloigy as well.  We can’t say something exists if we have no idea what it is we are making that claim about.  We can see this readily in the way languages form ideas and labels which become the foundation of cultural understanding.
 
 I can say my dog exists because I know *my* dog, I know *of* dogs, and everyone I know also knows of dogs.  But can I say *phlimquitz* exist, and when you ask me what a *phlimquitz* is, I say “I have no idea”? That would be quite unreasonable, but if I said *phlimquitz* explains the 99.97% correlation between “U.S. Spending on science, space and technology vs. Suicide by hanging, strangulation, and suffocation”, then I am claiming to understand something heretofore unknown and can go about defining and testing the *Phlimquitz Hypothesis*.
 
@@ -671,7 +691,7 @@ Here is that correlation, just for fun:[^28]
 
 This process of understanding is similar to recognizing a pattern in a series of random dots, as in the dancing-woman-in-the-dots example above (right).  In that image I can definitely see a person dancing, and I can easily prove it by connecting the dots.  I am not wrong, but neither is the person who sees an egg sandwich.
 
-However, any predictions either of us makes on where the next dot will land or in determining the properties and attributes of the dots, based on the understanding of our perceptions, will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.
+This ability to recignize patterns exuists in our neurology,  next dot will land or in determining the properties and attributes of the dots, based on the understanding of our perceptions, will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.
 
 Humans began grasping this concept of randomness about 3,000 years ago, but named it things like “fate”, “chance”, and “destiny”, and, being unpredictable, was usually associated with some sort of supernatural justice or punishment.  It wasn’t until the 16^th^ century that Italian mathematicians began to formalize the concept of what we call randomness, so it’s still quite a young concept.
 
@@ -1109,7 +1129,15 @@ Understanding is contextual and only relevant to the degree that it applies to t
 
 “2”=<img src="../Images/math/336.svg" style="vertical-align:middle;height:22pt"/> as this is the description of two waves interfering with each other.
 
-What happens if we take 1 particle traveling at *x* speed, and smash it headfirst into another particle traveling at *x* speed? You might think that the particles smash into each other at the speed of *2x*, but you’d be wrong if *x* was the speed of light, because, at the speed of light *1+1 = 1* in this case, at least according to the Theory of Relativity.[^46] More specifically, the product of the two opposing speeds when multiplied together can never *appear* to exceed *c^2^*, so here 1+1 could equal any of the infinite values between 1 and 2.  Reality, as we know it, depends on the context of not only what is happening, but all that has happened before, in whatever contexts the contributing events happened in, most of which we can only speculate about.  Our understanding of anything can only be relative to our context and is only valid within that context.  
+What happens if we take 1 particle traveling at *x* speed, and smash it headfirst into another particle traveling at *x* speed? You might think that the particles smash into each other at the speed of *2x*, but you’d be wrong if *x* was the speed of light, because, at the speed of light *1+1 = 1* in this case, at least according to the Theory of Relativity.[^46] More specifically, the product of the two opposing speeds when multiplied together can never *appear* to exceed *c^2^*, so here 1+1 could equal any of the infinite values between 1 and 2.  
+
+Our ability to count is shared by all other living creatures, the main difference being the concept and application of “counting”.  For example, fish can count in the sense that they can measure the relative size of a school of fish, so they have a concept of *greater then* and *less than*, at least.  This is a useful skill as the size of the school is directly related to their chances of survival.  Frogs can count as well as perform addition; a female frog (from one species)  measures potential mates by the number of croaks they can make in a row, so at some level she is calculating “Contestant #1 croaked 5 times, but contestant #2 croaked 6 times”, and because the males are competing, contestant #2 had to “count” the croaks of contestant #1, then add 1, and then count down his own 6 croaks [^312]. 
+
+In many animals there are *accumulator* or *counting* neurons whose job is to send out a signal every time something is *recognized*, and by *recognized* , we mean the information that can be processed by the rest of the brain, i.e, the neurological component of a concept.  A monkey will “count” the bananas in a tree, but it won’t “count” how many people in the plaza are wearing Gucci.  In some creatures, including humans and fruit flies, there exists the *timeless*, or *tim*, gene that is critical to the “counting” necessary for managing the inner circadian clock.  More sophisticated counting comes from networks of neurons collecting and sharing data. 
+
+Imagine how humans might count if/when our neurology is far more evolved and interconnected.  Will numbers seem quaint?   Will we one day be able to process information in an analog fashion rather than with discrete digits?  Nature is analog, and analog systems solve problems as fast as physics allow.  Perhaps one day numbers will no longer be necessary.
+
+Reality, as we know it, depends on the context of not only what is happening, but all that has happened before, in whatever contexts the contributing events happened in, most of which we can only speculate about.  Our understanding of anything can only be relative to our context and is only valid within that context.  
 
 So, let’s modify the meaning of understanding to the following claim:
 
@@ -1238,6 +1266,7 @@ What happens if we incorporate the idea of dualities into the holarchy?  Let’s
 [^49]: Dawkins, C.  R.  (2016).  **The selfish gene**.  Oxford: Oxford University Press.
 [^50]: **Just for Hits - Richard Dawkins**.  (2013, June 22).  <https://youtu.be/GFn-ixX9edg>The first 4 minutes is an excellent overview of memes by Dawkins.  The following 4 minutes is a sort of meme-ish music video which is a bit odd, but also a bit entertaining
 [^51]: Velikovsky, J.  T.  (1970, January 01).  **Flow Theory, Evolution & Creativity: Or, Fun & Games ** <https://dl.acm.org/citation.cfm?id=2677770>
+[^312]: Rose GJ. **“The numerical abilities of anurans and their neural correlates: insights from neuroethological studies of acoustic communication.”** Philos Trans R Soc Lond B Biol Sci. 2017 Feb 19;373(1740):20160512. doi: 10.1098/rstb.2016.0512. PMID: 29292359; PMCID: PMC5784039.
 
 <div style='page-break-after: always; break-after: always;'></div>
 # 7: STRUCTURE
@@ -1915,6 +1944,8 @@ This is just a hypothetical demonstration, as there may be a much better tholoni
 
 Can we see this similar relationship with other compounds? Given that the basic archetypal shapes of molecules (shown above) can be represented within the thologram, perhaps this model can be applied to all compounds.  We claim this might be possible, as there is an almost infinite number of possible configurations in the thologram.  Instances of fundamental configurations, such as those that appear in the earlier stages of iterations and generations, like the Fibonacci sequence and the hexagram, would represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality (like water and methane) and could be easily discovered.
 
+The Fibonacci formula is especially tholonic.  For details, see “*Fibonacci Tholon*” in Appendix C, “*Tholonic Math*”.
+
 ### Quarks and Atoms
 
 Here is another example of how we might discover tholonic structures in subatomic particles.  Let’s look at a quark (which was originally named a *parton* by Richard Feynman to describe a hypothetical particle inside the nucleus of the atom).
@@ -2131,6 +2162,8 @@ How can we validate this similarity? Let’s  look at the following:
 
 This *time constant* is then used to calculate *V* and *I* using the formulas *V(τ)=V~B~(I-e^-τ/RC^)* and *I(τ)=I~0~(e^-τ/RC^)*.  The point here is not to explain the math, but to show not only that *V* and *I* relate to each other via *R* and *C*, and by extension, *D* and *C*, but that they do so across a field that in the world of electronics is defined by ***e***, or 2.7182, the number of the *natural log*.  This is especially interesting when applying the properties of this RC field to that of the DC field of the tholon, because ***e*** is one of the most profound and fascinating numbers in nature! 
 
+*Historical note: Although the value of **e** was discovered by Bernoulli in 1618, The fist appearance of **e** as the symbol for this value was in an unpublished paper by Euler in 1728 on the explosive forces in cannons.*
+
 It is similar to *pi* in its significance, but where *pi* is the ratio between circumference and diameter shared by all circles, ***e*** is the base **rate of growth shared by all continually growing processes**.  It has also been called the **epidemy of universal growth**.  This growth can be anything; population, radioactive decay, interest calculations, even jagged or unpredictable systems that don’t grow smoothly.  Anything that has a continuous growth can be modeled with ***e***.  ***e*** is to growth what the radius is to the circle.
 
 ***e*** and the Natural Log, or *ln()*, are two sides to the same concept as ***e*** and the Natural Log are inverse, or opposite one another, so *ln(e)=1*.  ***e*** describes **growth**, and Natural Log describes **time**.  For example:
@@ -2138,7 +2171,9 @@ It is similar to *pi* in its significance, but where *pi* is the ratio between c
 - ***e^x​^*** is the amount we have after starting at 1.0 and growing continuously for *x* units of time, so ***e^x^*** lets us **plug in time and get growth**.
 - *ln(x)* (Natural Logarithm) is the time it will take to reach amount *x*, so *ln(x)* lets us **plug in growth and get the time** it would take.
 
-Considering that the tholon is a model of growth, it seems particularly applicable that ***e*** would define the field from which new N-states spawn new tholons.
+If you remember back in chapter 3, it was shown how logarithms were the natural way nature understands scale, or scope, and while *common logs* are based on 10, the *natural log*, ***e***, is so named because it is the only value where the inverse of *time* equals *growth*.
+
+Considering that the tholon is a model of growth, it seems particularly applicable that ***e*** would define the field from which new N-states spawn new tholons.  
 
 <img src='../Images/ipe.png' style='float:right;width:30%'/>There is one more significance to ***e*** that is purely tholonic and will no doubt annoy math purists, but is added here because of symmetry.  As was just shown, the spectrum between *Definition* and *Contribution* is, in this context, defined by the value of ***e***. Referring back to how it was described that 1 point creates 2 points and 2 points creates 3 points, when we created the 2^nd^ point we had a 1D line from *Negotiation* to *Definition*.  However, we also had a center and a radius, thereby defining a circle.  In this way, the first two points implies the relationship between a radius and a circle, which is *pi*,  so were we to assign values to that 1D line , *pi* would be one of them.  If we accept the above premise that the value of *N*=0, the value of *D*=+1 (not to be confused with its position of 1), and the value of *C*= -1,  this makes the field within which new *n*-states can form along the spectrum of -1 to +1.  What value could we then assign to the line connecting points *N* and *C*?  Being that it is a value of -1 at position 2, one reasonable candidate is what ever value when multiplied by itself = -1&hellip; in other words, ***i***, the square root of -1.  This has a poetic ring to it as well if we imagine that the path that returns to nothing can’t be a number. 
 
@@ -2148,9 +2183,7 @@ This would also make the 4^th^ point a complex number, which I can only guess wo
 
 <img src='../Images/i3.png' style='width:100%'/>
 
-
-
-This is in the context of ***i***, so we can imagine that there would be a different value for the 4th *dot* in the context of ***e*** and &pi;.  In the case of &pi;, were the length of the side equal to 1, **&pi;**r^0^, **&pi;**r^1^, **&pi;**r^2^, **&pi;**r^3^, all equal &pi;, and in the case of ***e***^0^, ***e***^1^, ***e***^2^, ***e***^3^, the results are simply the natural logs of 0,1,2,3.  So,we have 3 different contexts and their instantiating 4th *dot*; ***i***, where the the points cycle between 4 values but always equaling equals 0,  **&pi;**, where the points and the resulting *dot* never changes, and ***e***, where the points are the logarithmic values of their position (0,1,2,3).  
+This is in the context of ***i***, so we can imagine that there would be a different value for the 4th *dot* in the context of ***e*** and &pi;.  In the case of &pi;, were the length of the side equal to 1, <img src="../Images/math/373.svg" style=";height:12pt"/>, all equal &pi;, and in the case of ***e***^0^, ***e***^1^, ***e***^2^, ***e***^3^, the results are simply the natural logs of 0,1,2,3.  So,we have 3 different contexts and their instantiating 4th *dot*; ***i***, where the the points cycle between 4 values but always equaling equals 0,  **&pi;**, where the points and the resulting *dot* never changes, and ***e***, where the points are the logarithmic values of their position (0,1,2,3).  
 
 This beautiful formula is called *Euler's Identity* and is fundamental to the continuous exchange of energy that we perceive as time (where 0 equals the present moment), and a whole bunch of other basic ideas of reality.  So fundamental, in fact, that not only is it called the **God Formula**, it has been presented as empirical proof of the existence of god.  We are not that ambitious, pious, or learned, and simply call it a one archetypal instance of a tholon.
 
@@ -2165,7 +2198,6 @@ Another interesting relationship here is how gravity, or at least how we experie
 And what do we subtract?  There are many possibilities, all of which produce very interesting results, but this is too much to get into here.  
 
 These functions that deal with infinities are based on calculus, which itself has a very strong tholonic pattern.
-
 
 ## Calculus
 
@@ -3544,13 +3576,13 @@ For those readers who are sticklers about writing style conventions in the U.S.,
 
 <img src="../Images/colorwheelchart.png" style="float:right;width:50%;"/>My apologies for the sometimes crude layout of the book in general. Once-upon-a-time I was myself a young typographer back in the days when the job often included the re-melting of lead “pigs” that were used to set the type using the Linotype machines of the day. Today, that drudgery has been replaced with endlessly tweaking semi-compatible markup languages such as Markdown, LaTex, PDF, HTML, CSS, and JavaScript (I was much better at melting “pigs”).
 
-One of the challenges was how to get color images to appear meaningful in black and white e-book readers.  In some cases it was not possible, especially considering various readers use various schemes to deal with colors.  The sad and current state of e-book readers is that most do not support anything but the most basic formatting, and even *that* is often spotty, especially regarding blockquotes and lists, and even more so if the e-reader is older.  Using color is discouraged for e-book publishers, but that is not possible in this book. Feel free to download the color PDF from <https://tholonia.github.io/the-book/>.
+One of the challenges was how to get color images to appear meaningful in black and white e-book readers.  In some cases it was not possible, especially considering various e-book readers use various schemes to deal with colors.  
 
 To that end, here is a simple color wheel that will show you how your e-reader treats at least the six basic colors. The center shows the six shades of white to black.
 
-## e-book Hell
+The sad and current state of e-book readers is that most do not support anything but the most basic formatting, and even *that* is often spotty, especially regarding blockquotes and lists, and even more so if the e-reader is older.  Using color is discouraged for e-book publishers, but that is not possible in this book. Feel free to download the color PDF from <https://tholonia.github.io/the-book/>.
 
-If you are reading this on a e-book reader, the chances that it will look especially ugly are quite high.  This is because many e-book reader manufacturers take it upon themselves to deliberately eliminate the layout that the author has developed and replaced it with their own generic (and IMHO, hideous) one-size-fits-all format.  The only upside to this that I can imagine is for the manufacturer as it free them form having to deal with more complex layouts.  There are ways around this.  For example, on the Kobo e-book readers, if you put a file called ```kobo-extras.css``` in the root directory of the e-reader itself, and then import the ebook using the e-book software ```Calibre``` (and install the ```Calibre``` Kobo drivers), it will apply the correct style to the book on import (the file I used for my Kobo H20 can be downloaded from <https://github.com/tholonia/the-book/blob/master/Styles/kobo_extra.css>. More instructions at <http://www.mobileread.mobi/forums/showpost.php?p=2584056> for the Kobo.  Personally, I find this practice offensive to the author and the reader,  not to mention reinforcing the standards of banality. 
+If you are reading this on a e-book reader, the chances that it will look especially ugly are quite high.  This is because many e-book reader manufacturers take it upon themselves to deliberately eliminate the layout that the author has developed, and replaced it with their own generic (and IMHO, hideous) one-size-fits-all format.  The only upside to this that I can imagine is for the manufacturer as it frees them form having to deal with more complex layouts.  There are ways around this.  For example, on the Kobo e-book readers, if you put a file called ```kobo-extras.css``` in the root directory of the e-reader itself, and then import the ebook using the e-book software ```Calibre``` (and install the ```Calibre``` Kobo drivers), it will apply the correct style to the book on import (the file I used for my Kobo H20 can be downloaded from <https://github.com/tholonia/the-book/blob/master/Styles/kobo_extra.css>. More instructions at <http://www.mobileread.mobi/forums/showpost.php?p=2584056> for the Kobo.  Personally, I find this practice offensive to the author and the reader,  not to mention reinforcing the standards of banality. 
 
 <hr>
 
@@ -3565,7 +3597,11 @@ If you are reading this on a e-book reader, the chances that it will look especi
 
 ## Inner, not Outer
 
-<img src='../Images/flower-of-life-dots.png' style='float:right;width:30%'/>We have seen how the creation of a single trigram will automatically create additional trigrams as part of the same creative process.  This would imply that there is an infinitely expanding realm of trigrams, as shown in ***Fig. c9*** in the “Geometry I” chapter.  This pattern, when limited to 37 points, is often called the *flower of life*, as pictured above (*the added &bullet; - + symbols are there for the benefit of black and white ebook readers*).  The tholonic model sees it a little differently.  If we are claiming that the first instance of creation, that of the one dot becoming two, and the two becoming three, etc., even if we are just speaking metaphorically, then what we are also claiming is that this first trigram represents the very first polar duality created by the first non-polar duality of somethingness and nothingness.  This would then imply that every duality and trigram that follows must exist *within* the first trigram, not outside of it, because every succeeding duality can only be a subset of this first duality and certainly cannot exist outside the bounds of somethingness and/or nothingness.
+<img src='../Images/flower-of-life-dots.png' style='float:right;width:30%'/>We have seen how the creation of a single trigram will automatically create additional trigrams as part of the same creative process.  This would imply that there is an infinitely expanding realm of trigrams, as shown in ***Fig. c9*** in the “Geometry I” chapter.  This pattern, when limited to 37 points, is often called the *flower of life*, as pictured above (*the added &bullet; - + symbols are there for the benefit of black and white ebook readers*).  
+
+The  *flower of life* design dates back to 1300 BC, with the oldest known instance carved on the temple walls of the ancient Egyptian temple “Osireion”. Again, we see the same concepts and patterns appear over and over again in Man’s search for understanding using the power of reason.
+
+The tholonic model sees it a little differently.  If we are claiming that the first instance of creation, that of the one dot becoming two, and the two becoming three, etc., even if we are just speaking metaphorically, then what we are also claiming is that this first trigram represents the very first polar duality created by the first non-polar duality of somethingness and nothingness.  This would then imply that every duality and trigram that follows must exist *within* the first trigram, not outside of it, because every succeeding duality can only be a subset of this first duality and certainly cannot exist outside the bounds of somethingness and/or nothingness.
 
 If we draw our expanding trigrams such that the children are always contained within the parent we see a very different pattern.
 
@@ -3573,7 +3609,7 @@ If we draw our expanding trigrams such that the children are always contained wi
 
 In this example diagram ***Fig. p1*** above, the outermost N, D, C points represent the first trigram.  You’ll see in ***Fig. p2*** on the CD line of this parent trigram a new N-state was formed.  It too naturally bifurcates and expands in the same manner as its parent until it reaches its limits of the boundaries of the parent and in doing so creates three additional trigrams.
 
-You may also notice what looks like an inconsistency in the order of the letters.  In ***Fig. p1***, the parent trigram, the order of NDC is clockwise, but the same three points of the resulting inner trigram are counter-clockwise.  It’s not actually a reordering, as the children trigrams represent completely new creations.  The original NDC is still there in the parent, but we are only looking at the children in ***Fig. p2***.  The reason the children have a different order is because the new generation was spawned by the new N-source between C and D, and as D is always the first to follow N, and always on the left of N (left, or *portside*, to be more accurate, is arbitrary, but we need to remain consistent).  This newly spawned D will appear on the opposite side of the parent’s D.  The same applies to C.  Not coincidentally, the new top-most trigram has the exact same order of points as the parent.  The parent always creates a smaller replica of itself in each generation.  You’ll also notice that each of the outer trigrams is a reversed copy of the one central trigram.
+You may also notice what looks like an inconsistency in the order of the letters.  In ***Fig. p1***, the parent trigram, the order of NDC is clockwise, but the same three points of the resulting inner trigram are counter-clockwise.  It’s not actually a reordering, as the children trigrams represent completely new creations.  The original NDC is still there in the parent, but we are only looking at the children in ***Fig. p2***.  The reason the children have a different order is because the new generation was spawned by the new N-source between C and D, and as D is always the first to follow N, and always on the left of N (left, or *portside*, to be more accurate, is arbitrary, but we need to remain consistent).  This newly spawned D will appear on the opposite side of the parent’s D.  The same applies to C.  Not coincidentally, the new top-most trigram has the exact same order of points as the parent.  The parent always creates a smaller replica of itself in the topmost trigram in each generation.  You’ll also notice that each of the outer trigrams is a reversed copy of the one central trigram.
 
 We started with one trigram, created one more, resulting in 4 trigrams.  Each generation of self-similar creation increases the number of trigrams by 4.  Here is what the generations look like.
 
@@ -3592,7 +3628,7 @@ In the 1^st^ generation of a simple trigram, we see a few fundamental rules, suc
 
 You’re probably thinking “What? Red and green don’t make blue!”  This is half true.  Red and green make yellow, and yellow, when blended with the parent blue, make magenta and cyan… and cyan and magenta make blue.  So, red and green parents do not make blue children, but they make blue grandchildren.  We see an instance of this in the way recessive genetic traits can be become dominant in every other generation (in the absence of an existing dominant trait), which is what we would expect tholonically as genetics are one of the better examples of an instance of tholonic fundamentals.
 
-This is worth a demonstration.  Here is that same process described above but with simple colors from the color wheel to show how the children interact with the parents.  These are the same colors we used above to represent the domains.  This is an important point, but because the process is the same for every generation, we are going to just use red, green and blue in our later examples to keep things simpler; i.e.  going forward we will only show the dominant colors of RGB and ignore the intermediary children of CMY.
+This is an important point, so it’s worth a demonstration. but going forward we will only show the dominant colors of RGB and ignore the intermediary children of CMY.  We have specifically chosen the RGB/CMY color model because, where the RGB colors are *additive*, and  CMY colors are *subtractive*. 
 
 <center><img src='../Images/colortree-top.png' style='width:100%'/></center>
 
@@ -3607,7 +3643,7 @@ In the first case  (***Fig. t1***)&hellip;
 
 In the next case of (***Fig. t2***)&hellip;
 
-This is the same process as the first, but the children are spawned internally, not externally.  Each new generation creates a new layer that sits on top of the parent layer and is a mirror of the parent (***Fig. t3***).  Eventually we end up with a grid that looks like the image on the right, which shows the smaller overlaid children on top of the larger, and opposite colored parent.
+This internally expanding process is the same as the externally expanding, but contained within.  Each new generation creates a new layer that sits on top of the parent layer and is a mirror of the parent (***Fig. t3***).  Eventually we end up with a grid that looks like the image on the right, which shows the smaller overlaid children on top of the larger, and opposite colored parent.
 
 Here is a zoomed-out image of this (crudely drawn) grid:
 
@@ -3617,7 +3653,7 @@ Compare the outward-expanding model to the inward-expanding model:
 
 <center><img src='../Images/comparison.png' style='width:100%'/></center>
 
-We also see a few other interesting details in ***Fig. p2***, such as, how the contribution of red divides the green (on the right side).  Can we say the same thing for how green is what divided the red, such as it appears on the left side? No, because there is an order to the points of *blue &rightarrow; green &rightarrow; red*.  Green existed *before* red, therefore the introduction of the 3^rd^ red point must divide the already existing 2^nd^ green point.  Likewise, the green’s boundaries are defined and limited by the red (on the left side) using the same logic that the green came first and the red followed.
+We also see a few other interesting details in ***Fig. p2***, such as, how the contribution of red divides the green (on the right side) <img src="../Images/right-div.png" style="height:14pt"/>.  Can we say the same thing for how green is what divides the red <img src="../Images/left-div.png" style="height:14pt"/>, such as it appears on the left side? No, because there is an order to the points of *blue &rightarrow; green &rightarrow; red*.  Green existed *before* red, therefore the introduction of the 3^rd^ red point must divide the already existing 2^nd^ green point.  Likewise, the green’s boundaries are defined and limited by the red (on the left side) using the same logic that the green came first and the red followed.
 
 In the world of mathematics, this internally expanding trigram is similar to something called a *Sierpinski Triangle*, which is also a self-similar triangle.  This is significant as the Sierpinski Triangle has many real-world applications, such as broadband antennas, musical composition, mathematics, chemistry and is a foundational pattern in nature.
 
@@ -3627,17 +3663,13 @@ The difference between the thologram and the Sierpinski Triangle is in the latte
 
 In the thologram, we consider the triangle not as an object, but as the boundaries that constrain the movement of energy.  The fact that the center trigram is a reversal of the three outer trigrams is evidence of the significance of this inner trigram.  One way to think about the thologram is the boundaries are like one-way mirrors, reflecting the light (energy) within the triangle, but allowing the light from outside to enter.  This difference between the thologram and the Sierpinski Triangle is only conceptual because the math is essentially the same, but the thologram considers the negative or empty space just as valid as the filled space, just with different attributes, which we’ll demonstrate.
 
-With each generation, we have more and more rules.  In just a few generations we see two dominant patterns begin to emerge from these rules.  The first one being the Fibonacci sequence, which emerges simply by the linear increase in generation count as well as the number of trigrams for each generation (1,4,16), which is always 4^gen^ (4 to the power of the generation number).
-
-<img src="/home/jw/books/tholonia/Images/064-hexagram.png" style='float:right;width:30%'/>Another dominant pattern is the hexagon, one of nature’s most persistent and useful shapes, and can be seen in beehives, Saturn’s north pole, dragonfly eyes, rocks, bubbles, snowflakes, organic chemistry, etc., but it is much more than just the most structurally sound of all shapes.  We are also shown how the N-sources converge to form the center of every hexagon.  From this, we get a much better idea as to the nature of 0-dimensional, non-existent N-sources, which are, unsurprisingly, at the center of order.  This is important because it gives us an insight into answering the question “Where did the first N-source come from?”  It is also the pattern that is fundamental to the *flower of life*, shown previously.
-
-The  *flower of life* design dates back to 1300 BC, with the oldest known instance carved on the temple walls of the ancient Egyptian temple “Osireion”. Again, we see the same concepts and patterns appear over and over again in Man’s search for understanding using the power of reason.  We also see that every *Define* or *Contribute* point is naturally paired with its opposite.
+<img src="/home/jw/books/tholonia/Images/064-hexagram.png" style='float:right;width:30%'/>With each generation, we have more and more patterns, such as Fibonacci and harmonic series, but perhaps the most dominant pattern is the hexagon.  This is one of nature’s most persistent and useful shapes and can be seen in beehives, Saturn’s north pole, dragonfly eyes, rocks, bubbles, snowflakes, organic chemistry, etc., as well as being the most structurally sound of all shapes.  In this pattern we can see how the N-sources converge to form the center of every hexagon, and how the opposite colors always form pairs on the outer edge.  From this, we get a much better idea as to the nature of 0-dimensional, non-existent N-sources, which are, unsurprisingly, at the center of order.  This is important because it gives us an insight into answering the question “Where did the first N-source come from?”  
 
 Another interesting observation are those little black dots in the middle of the lines.  Why are they important? Those black dots mark the center of a line that has the capability of creating new children (stable patterns), or new N-states that form new N-sources.  You’ll notice that those lines only exist on the outer ring of the hexagon.
 
-<img src="/home/jw/books/tholonia/Images/065.n-sources.png" style='float:right;width:50%'/>As we saw earlier, the N-source (blue) is the progenitor of the subsequent D (green) and C (red) dots.  We also know that the N must always precede D and C.  However, D and C, having all the attributes of the N, can create a new version of N.  N and D cannot create a new N because it does not have the attributes of C (form), nor can N and C create a new N as it does not have the attributes of D (definition).  Only Ns, or N-states, can be created because N-states have no form or dimension, a prerequisite for creating something out of nothing.  An N-state is simply an idea or concept.  Cs and Ds are no longer simply concepts as they have dimension and therefore can not be created directly out of nothing.
+<img src="/home/jw/books/tholonia/Images/065.n-sources.png" style='float:right;width:50%'/>As we saw earlier, the N-source (blue) is the progenitor of the subsequent D (green) and C (red) dots and therefore must always precede D and C.  However, D and C, having all the attributes of the N, can create a new child version of N.  N and D cannot create a new N because it does not have the attributes of C (form), nor can N and C create a new N as it does not have the attributes of D (definition).  Only Ns, or N-states, can be created because N-states have no form or dimension, a prerequisite for creating something out of nothing.  An N-state is simply an idea or concept.  Cs and Ds are no longer simply a concept of existence as they have dimension and form.
 
-This is a very important detail because it means that even though archetypes can appear across the NC and ND spectrums, they cannot create children, so no N-state will ever appear across these spectrums.  However, the CD spectrum, which is the axis of *cooperation* or *conflict*, the opposing side to the point of *negotiation*, can create N-states*.* It may appear as though that would limit all the new N-states to only exist on one side of the trigrams, considering only one side of the trigram has the ability to create new N-sources.  This is not the case, because as the trigram self-replicates it naturally rotates 60&deg; with each iteration, allowing every side of the trigram to be able to generate new N-sources.  The graph above (***Fig. h1***) shows the lines connecting the N-sources and their respective N-states (the black dots).
+This is a very important detail because it means that even though archetypes can appear across the NC and ND spectrums, they cannot create children, so no N-state will ever appear across these spectrums.  However, the CD spectrum, which is the axis of *cooperation* or *conflict* and the opposing side to the point of *negotiation*, can create N-states.  As the trigram self-replicates, it naturally rotates 60&deg; with each iteration, allowing every side of the trigram to be able to generate new N-sources.  The graph above (***Fig. h1***) shows the lines connecting the N-sources and their respective N-states (the black dots).
 
 ### Everything Begins with the Trigram
 
@@ -3651,7 +3683,7 @@ We can also apply the same associative reasoning to the thologram as a whole to 
 
 Here we are using the Sierpinski triangle which does not show the “negative space” of the thologram but simply a blank space.  In the thologram, this blank space accounts for 25% of the tholon and is just as full of implicit patterns as the positive space is full of explicit patterns.  This suggests that we are only seeing 75% of a tholon’s instance, the remaining 25% also being an integral part of the instance, but simply not visible.  More on this later.
 
-There is no question that natural processes of creation for nature follow these patterns, and with a little shift in perspective, for the natural process of creation for ideas as well when we apply this pattern to relationships rather than objects.
+There is no question that natural processes of creation follow these patterns, and with a little shift in perspective, we can apply these natural processes to ideas and  relationships.
 
 ### 2D to 3D
 
@@ -3661,7 +3693,7 @@ So far all we have described is 2D trigrams.  Where is the 3D tetrahedron? The 2
 
 If we take the parent trigrams and fold it according to its four children, we get a tetrahedron.  This is the structure of a tholon.  Tholonic structures naturally occur because they are more efficient as a 3D object than a 2D map, and they are the most stable and complete state for all the properties involved.
 
-The mathematics of a equilateral triangle are fairly straight forward, but the math of a tetrahedron is quite fascinating in the way is supports the tholonic model.  Rather than detail that relationship, here is a small table that holds the formulas for calculating the XYZ coordinates of a tetrahedron (with the tip along the Z-axis and the base facing the XY plane).  I have left in seemingly useless data, like 0+0 and <img src="/home/jw/books/tholonia/Images/math/339.svg" style="vertical-align:middle;height:18pt"/> but adding them makes the patterns a little more obvious.  Some highlights worth pointing out is how the first point, which would equate to the blue dot, or N-state, references the direct value of 3 as a whole, while all of the other values reference only the inverse of the whole.  This is consistent with the idea that the N-state holds all the possibilities of the two children as well as the limits of the children.  We can also see how the 2^nd^ point, the green dot, adds value and the 3^rd^ point, the red dot, subtracts value.  This is significant later when we show how those attributes is what allows us to calculate the value of *pi* using the tholonic model.  Also notice how the only points that can generate new N-states exist between 1 and -1, but these N-states can only create children in the axis where there is a 0, and that is only on the 2D X axis.
+The mathematics of a equilateral triangles are fairly straight forward, but the math of a tetrahedron is quite fascinating in the way is supports the tholonic model.  Rather than detail that relationship, here is a small table that holds the formulas for calculating the XYZ coordinates of a tetrahedron (with the tip along the Z-axis and the base facing the XY plane).  I have left in seemingly useless data, like 0+0 and <img src="/home/jw/books/tholonia/Images/math/339.svg" style="vertical-align:middle;height:18pt"/> but adding them makes the patterns a little more obvious.  Some highlights worth pointing out is how the first point, which would equate to the blue dot, or N-state, references the direct value of 3 as a whole, while all of the other values reference only the inverse of the whole.  This is consistent with the idea that the N-state holds all the possibilities of the two children as well as the limits of the children.  We can also see how the 2^nd^ point, the green dot, adds value and the 3^rd^ point, the red dot, subtracts value.  This is significant later when we show how those attributes is what allows us to calculate the value of *pi* using the tholonic model.  Also notice how the only points that can generate new N-states exist between 1 and -1, but these N-states can only create children in the axis where there is a 0, and that is only on the 2D X axis.
 
 <center><img src='../Images/SQRT.png' style='width:100%'/></center>
 
@@ -3675,13 +3707,13 @@ Tholons model the movement of energy, and consider the existence of form as the 
 
 ***Fig a1***.  The movement of energy inside this trigram will cause a new trigram to form by the expansion of N-sources due to the flow of energy.  The most likely place for this new form is opposite the source of the energy and in the balanced center between the two limiting poles created by the source.  When it creates its two children they are naturally in reverse order.  We now have four trigrams with their points in their natural order and position.
 
-As was shown above, the arrangement of the colored points (N, D, & C) in each outer trigram are the exact reversed image of the center trigram.  One way to think about it is the original trigram (top-most) reflects and reverses itself and by doing so creates a new trigram (center), which also reflects and reverses itself in the two new trigrams (left and right).  In this way, the center trigram acts like a reverse reflection trigram, and the two new trigrams are a reversed reflection of a reversed reflection.  This will be an important point a little bit later.
+As was shown above, the arrangement of the colored points (N, D, & C) in each outer trigram are the exact reverse image of the center trigram.  One way to think about it is the original trigram (top-most) reflects and reverses itself and by doing so creates a new trigram (center), which also reflects and reverses itself in the two new trigrams (left and right).  In this way, the center trigram acts like a reverse reflection trigram, and the two new trigrams are a reversed reflection of a reversed reflection.  This will be an important point a little bit later.
 
 *Note: We are going to use colors (RGB) rather than types (NDC) because it is easier to explain using colors.  You can remember that N=blue, D=green, and C=red, but for the purpose of these descriptions it does not really matter.  When it does matter, we will return to NDC labels.*
 
 ***Fig. a2***.  Because energy always follows the path of least resistance and always seeks order, this complete tholon will automatically become a self-sustaining structure (tetrahedron) when all the conditions are met as it would represent the most efficient form.  These conditions appear to require 4 types of points; BBB, RGB, RGR, and GRG.  Apparently, B points only integrate with themselves and with an R and G together, while the R and G can integrate with each other.
 
-This is the same phenomena that happens when a hydrogen atom and an oxygen atom meet; they naturally form a stable state (which also happens to form a trigram in the case of hydrogen and oxygen) that requires less energy than both of them require to maintain a separate existence.  This is another example of the reactions caused by the need to create balance.
+This is the same phenomena that happens when any two things that are different *and* can form a relationship interact with each other, such as a hydrogen atom and an oxygen atom meet; they naturally form a stable state that requires less energy, or conserves energy, than both of them require to maintain a separate existence.  This is another example of the reactions caused by the need to create balance.
 
 ***Fig. a3***.  Each of these child trigrams goes through the exact same process as the parent, with slightly different parameters that are determined by the limitation of their parent.  We can now see 4 trigrams of 4 trigrams in their 2D form.
 
@@ -3689,15 +3721,15 @@ This is the same phenomena that happens when a hydrogen atom and an oxygen atom 
 
 You’ll notice that there are six sets of trigrams that are yellow (or a lighter shade of gray).  These are identified a little differently because when they form a tetrahedron they do so by going in the opposite direction because they are a reversed reflection image.
 
-***Fig. a5***.  If we go ahead and form the tetrahedrons we end up with a series of tetrahedrons connected at the corners, some pointing forward and some pointing away (the more faded ones).  You notice that every odd numbered row (rows 1,3,5,7) are all *forward* trigrams (trigrams with blue N-state parents), which we’ll refer to as *real*, a term taken from the world of holography to indicate that the image is projecting in front of the film.  Likewise, all even-numbered rows (rows 2,4,6) are pointing in the opposite direction (trigrams with yellow N-state parents).  We’ll call these *virtual* tholons, a term also taken from the world of holography, referring to an image that *virtually* exists behind the holographic plate.  For every pair of rows (1+2, 3+4, 5+6) there are an equal number of real and virtual tholons.
+***Fig. a5***.  If we go ahead and form the tetrahedrons, we end up with a series of tetrahedrons connected at the corners, some pointing forward and some pointing away (the more faded ones).  You’ll notice that every odd numbered row (rows 1,3,5,7) are all *forward* trigrams (trigrams with blue N-state parents), which we’ll refer to as *real*, a term taken from the world of holography to indicate that the image is projecting in front of the film.  Likewise, all even-numbered rows (rows 2,4,6) are pointing in the opposite direction (trigrams with yellow N-state parents).  We’ll call these *virtual* tholons, a term also taken from the world of holography, referring to an image that *virtually* exists behind the holographic plate.  For every pair of rows (1+2, 3+4, 5+6) there are an equal number of real and virtual tholons.
 
-This may look familiar to a mineral chemist, as this is the exact same structure as silicon dioxide crystal *tridymite*, which is a form of quartz, shown below with  two types of *tridymite* molecules. Other silica-based oxides also share a similar structure, which are mentioned later in this chapter when we look at how water also shares this structure.
+This may look familiar to a mineral chemist, as this is the exact same structure as silicon dioxide crystal *tridymite* (shown below), which is a form of quartz. Other silica-based oxides also share a similar structure, which are mentioned later in this chapter when we look at how water also shares this structure.
 
 <center><img src='../Images/cristobalite.png' style='width:100%'/></center>
 
 
 
-Below are various 3D renderings of 4 tetrahedron in this structure.  While we used the same colors for N, D, and C in the previous diagrams for the balls, here we also used them for the connecting lines as the line colors are determined by the color of the ball, or point, that it emanates from.  However, this is mainly to show the relationships with the lines and balls, and not to suggest they have the same qualities.
+Below are various 3D renderings of 4 tetrahedron in this structure.  While we used the same colors for N, D, and C as we used in the previous diagrams for the balls, here we also used them for the connecting lines.  However, this is mainly to show the relationships with the lines and balls, and not to suggest they have the same qualities.
 
 <center><img src='../Images/33d-tholons.png' style='width:100%'/></center>
 
@@ -3705,7 +3737,7 @@ Below are various 3D renderings of 4 tetrahedron in this structure.  While we us
 
 ***Fig b2***.  But what is happening in ***Fig. b2***? Why are there more tholons stacked on top and on the bottom?
 
-If you managed to slug through this up to this point, congratulations! Here is where it (hopefully) gets interesting: Each of these new trigrams formed by the peaks of the previous children acts as the base for *larger* tholons! The process beginning with ***Fig. a1*** starts all over for not only each one of these trigrams but for every face of a tholon or trigram, including its children.
+If you managed to slug through up to this point, congratulations! Here is where it (hopefully) gets interesting: Each of these new trigrams formed by the peaks of the previous children acts as the base for *larger* tholons! The process beginning with ***Fig. a1*** starts all over for not only each one of these trigrams but for every face of a tholon or trigram, including its children.
 
 If you look at ***Fig. c1***, which is the colorized front view of ***Fig. a5***, you’ll notice that there are alternating sets of real and virtual tholons, and the peaks of these tholons (the black dots) naturally create new trigrams.
 
@@ -3713,7 +3745,7 @@ If you look at ***Fig. c1***, which is the colorized front view of ***Fig. a5***
 
 For clarity’s sake, we are referring to each generation of tholon children as *generations,* while the tholons that are created from the peaks of these original tholons, and their children, we refer to as *iterations*.
 
-The only way to create three peaks of pure R, G, and B is to first create the opposite condition of three peaks of white dots, similar to the way a blue N-source creates a yellow child N-source, which then creates a blue N-source.  With each iteration this pattern reverses itself, so the 3^rd^ iteration will be like the 1^st^, with bases of RGB (but each generation rotated 60&deg;).  All the odd number iterations have RGB peaks, and all the even number iterations have white dot peaks.  Each iteration builds on the one before it, making larger and larger tholons, as you can see in ***Figs. b2, b3, b4***, which shows the progression of real and virtual tholons.[^69]
+The only way to create three peaks of pure R, G, and B is to first create the opposite condition of three peaks of white dots, similar to the way a blue N-source creates a yellow child N-source, which then creates a blue N-source.  With each iteration, this pattern reverses itself, so the 3^rd^ iteration will be like the 1^st^, with bases of RGB (but each generation rotated 60&deg;).  All the odd number iterations have RGB peaks, and all the even number iterations have white dot peaks.  Each iteration builds on the one before it, making larger and larger tholons, as you can see in ***Figs. b2, b3, b4***, which shows the progression of real and virtual tholons.[^69]
 
 Interestingly, the growth pattern of tholons is the inverse of a recursive Fibonacci sequence.  Inverse, because we are multiplying instead of dividing, recursive because we do that for each trigram, children of trigrams, children of children of trigrams, etc.
 
@@ -3737,7 +3769,7 @@ Now we can start to fold this into itself.  Each of the four sides that make up 
 
 It looks like we have broken the rules that no children can exist outside of their parent’s limits because we have a lot of virtual tholons sticking way outside those limits.
 
-Remember when we were looking at the Sierpinski Fractal? One of the points made was that Sierpinski treated the empty space between the tetrahedrons as empty, wherein the tholonic model it is not empty, but rather negative space that is a reflection of the immediate parent.  Now remember that that this middle trigram is a reflection trigram.  In one sense it does not exist any more than your reflection in the mirror does not represent the existence of another you opposite and equally distant from the mirror, but it does exist in that the reflection is a perfect mirror-image representation of you, and this has significant value as mirrors obviously have a measurable effect on energy (light).  It is an illusion, but an illusion that effects reality.
+Remember when we were looking at the Sierpinski Fractal? One of the points made was that Sierpinski treated the space between the black trigrams as empty, wherein the tholonic model it is not empty, but rather negative space that is a reflection of the immediate parent.  Now remember that this middle trigram is a reflection trigram.  In one sense it does not exist any more than your reflection in the mirror does not represent the existence of another you opposite and equally distant from the mirror, but it does exist in that the reflection is a perfect mirror-image representation of you, and this has significant value as mirrors obviously have a measurable effect on energy (light).  It is an illusion, but an illusion that effects reality.
 
 All the virtual tholons are tholons that were created out of this nothingness space! They are *reverse reflective* tholons only.  They do not exist, but they are very important.  The virtual tholons are like the *nothingness* complement to the real tholons within the parent through which *their* reflection creates two more real tholons.  This does not break the rules that nothing created within the parent can extend past its boundaries any more than looking at yourself in a mirror hanging on the wall does not put you on the other side of the wall, even though it appears that way.
 
@@ -3751,9 +3783,9 @@ If we go inside this very simple version of a thologram we see what looks like c
 
 <center><img src='../Images/071-thologram-spheres.png' style='width:100%'/></center>
 
-If we had used the simplest thologram possible in our example, using only 1^st^ generation folds, rather than the 3^rd^ generation folds above, it would look like the following:
+If we had used the simplest thologram possible in our example, using only 1^st^ generation folds, rather than the 3^rd^ generation folds above, it would look like the two left images below:
 
-<center><img src='../Images/072-thologram-inside.png' style='width:100%'/></center>
+<center><img src='../Images/finaltholo.png' style='width:100%'/></center>
 
 Another fascinating pattern expressed in the thologram is the value for *pi* (&pi;, 3.14159) can be determined by alternatively adding and subtracting the inverse of the total number of N-sources for all the real and virtual tholons for each generation (which produces a series of sequential odd numbers; 1,3,5,7,etc).  This was originally discovered by Leibniz and is appropriately called the *Leibniz formula for π*, as shown below.  Notice how here we also see the reversing back and forth with each generation, which is a function of the creative process as described above.
 
@@ -3774,9 +3806,11 @@ Within the tholons are numerous relationships.  The ones we have used in our exa
 
 <center><img src='../Images/111-color-merged-3a.png' style='width:100%'/></center>
 
-This shows the four trigrams that make up a tholon, however, depending on the perspective of view of the tholon, the formulas will be different.  There are many ways to view this mapping, but this is perhaps the simplest.  Besides the basic twelve formulas, we also see that there trigram as two “directions”.  One direction (the inner circle) is the direction of the formula, but this only applies where division is involved because <img src="../Images/math/357.svg" alt="\frac{2}{3} \neq \frac{3}{2}" style="vertical-align: middle;height:6pt;"/> but <img src="../Images/math/300.svg" style="height:18pt"/> .  The other direction is an arrow that starts at the initiating value, as if it were a N-source, and points to the location of the child N-source, or the spectrum across its two children, as if it were the spectrum between *Definition* and *Contribution* (which effectively it is).  
+This shows the four trigrams that make up a tholon, however, depending on the perspective of view of the tholon, the formulas will be different.  There are many ways to view this mapping, but this is perhaps the simplest.  Besides the basic twelve formulas, we also see that the trigrams have two “directions”.  One direction (the inner circle) is the direction of the formula, but this only applies where division is involved because <img src="../Images/math/357.svg" alt="\frac{2}{3} \neq \frac{3}{2}" style="vertical-align: middle;height:6pt;"/> but <img src="../Images/math/300.svg" style="height:18pt"/> .  The other direction is an arrow that starts at the initiating value, as if it were a N-source, and points to the location of the child N-source, or the spectrum across its two children, as if it were the spectrum between *Definition* and *Contribution* (which effectively it is).  
 
-For example, using *P=I&times;R*, we can see how the mapping assigns *P* as the blue *N-source*,  *R* as the green dot of *Definition*, and *I* as the red dot *Contribution*.  This then creates a yellow (additive color of red and green) spectrum between *I* and *R*, which in the case of these formulas, is where the math functions of &times;, &div; &equals;, and √ exist.  This yellow spectrum is that of *Cooperation or Conflict*, so it makes sense that it would also be where we you find &times; and  &div;, and suggests that, in this case at least, cooperation is literally twice as efficient as division, given that the solution to the problem (what does the initial value equal) in multiplication-based trigram solutions are not limited to directions (bidirectional) and there are half as many needed. You will notice that only the locations that that are capable of creating a new child N-source, the yellow spectrums, of the 12 that exist, 6 are &equals;, and 6 are functions, and of those 6, 3 are &times;, 3 are &div; (we include square roots as a function of &times; because a square root is defined as a *factor of a number that, when multiplied by itself, gives the number*).  If we look at the yellow spectrum of only the trigrams where *V* is the blue N-source, as this is the archetype, we see that each of the 3 sets, or each side, always has a pair of one function and an single instance of another.
+For example, using *P=I&times;R*, we can see how the mapping assigns *P* as the blue *N-source*,  *R* as the green dot of *Definition*, and *I* as the red dot *Contribution*.  This then creates a yellow (additive color of red and green) spectrum between *I* and *R*, which in the case of these formulas, is where the math functions of &times;, &div; &equals;, and √ exist.  This yellow spectrum is that of *Cooperation or Conflict*, so it makes sense that it would also be where we you find &times; and  &div;, and suggests that, in this case at least, cooperation is literally twice as efficient as division, given that the relationships in multiplication-based trigram functions in both directions. 
+
+You will notice that only the locations that are capable of creating a new child N-source, the yellow spectrums, of the 12 that exist, 6 are &equals;, and 6 are functions, and of those 6, 3 are &times;, 3 are &div; (we include square roots as a function of &times; because a square root is defined as a *factor of a number that, when multiplied by itself, gives the number*).  If we look at the yellow spectrum of only the trigrams where *V* is the blue N-source, as this is the archetype, we see that each of the 3 sets, or each side, always has a pair of one function and a single instance of another.
 
 <img src="../Images/eq-ti-ti.png" style="height:14pt"/>  Side 1, Side of *Contribution* as multiplication  
 
@@ -3784,17 +3818,17 @@ For example, using *P=I&times;R*, we can see how the mapping assigns *P* as the 
 
 <img src="../Images/di-eq-eq.png" style="height:14pt"/>  Side 3: side of *Negotiation* as equalization. 
 
-This beautifully shows how the primal attributes of *Negotiation*, *Definition*, and *Contribution* continue to reappear in every child and instance.  In this case, we can see N, D, and C attributes within each N, D, and C; **C**~NCC~, **D**~DND~, **N**~DNN~ . Notice how &times; and &div; never share a side, which we would expect to see given that they can only interact via &equals;.
+This beautifully shows how the primal attributes of *Negotiation*, *Definition*, and *Contribution* continue to reappear in every child and instance.  In this case, we can see N, D, and C attributes within each N, D, and C as **C**~NCC~, **D**~DND~, **N**~DNN~. Notice how &times; and &div; never share a side, which we would expect to see given that they can only interact via &equals;.
 
-Looking at all the function of a side, we see that we have 3 multiplications and 6 divides, which makes sense when you consider that multiplication works the same in both directions, so we need twice as many divisions to represent the results of multiplication.
+Looking at all the functions of a side, we see that we have 3 multiplications and 6 divides, which makes sense when you consider that multiplication works the same in both directions, so we need twice as many divisions to represent with division what multiplication can represent with 3.
 
-If we convert these three 2D tholon maps that make up the three sides of a 3D tholon into child tholons, we get the following three 3D tholons when viewing the from the “top” (so we are not seeing the base).  In this case, rather that show the three trigrams separately, they have been joined together and the overlapping colors only show the color they both have in common, so instead of seeing two side of magenta and cyan, there is only one side of blue as magenta is blue and red, and yellow is blue and green.
+If we convert these three 2D tholon maps that make up the three sides of a 3D tholon into child tholons, we get the following three 3D tholons when viewing the from the “top” (so we are not seeing the base).  In this case, rather than show the three trigrams separately, they have been joined together and the overlapping colors only show the color they both have in common, so instead of seeing two sides of magenta and cyan, there is only one side of blue as magenta is blue and red, and yellow is blue and green.
 
 <center><img src='../Images/111-color-merged-tip.png' style='width:100%'/></center>
 
 Because we have overlapped the lines (and dropped the base), we can't apply the actual formulas.  They are shown simply to highlight a pattern of functionality.  The reader can come to their own conclusions.  
 
-As a comparison, here two versions of a square model of the same 12 formulas, but even here you can see tholonic patterns in both images (but maybe more so on the right image).
+As a comparison, here are two versions of a square model of the same 12 formulas, but even here you can see tholonic patterns in both images (but maybe more so on the right image).
 
 <center><img src='../Images/tri-square.png' style='width:100%'/></center>
 
@@ -3802,7 +3836,7 @@ As a comparison, here two versions of a square model of the same 12 formulas, bu
 
 Applying Ohm’s Law to the tetrahedron shows some new relationships.  Readers who enjoy numbers will find this next (short) section interesting.
 
-So, we can satisfy all twelve formulas of Ohm’s Law as they appear on a tetrahedron, but we can also find some new data now which may appear as useless, or may be meaningful if we know how to use it.  *“There is no useless data, only data we have yet to understand how to use*”  or *Claim 33: All data is valid.*
+We can satisfy all twelve formulas of Ohm’s Law as they appear on a tetrahedron, but we can also find some new data now which may appear as useless, or may be meaningful if we know how to use it.  *“There is no useless data, only data we have yet to understand how to use*”  or *Claim 33: All data is valid.*
 
 <center><img src='../Images/092-two2Dmaps.png' style='width:100%'/></center>
 
@@ -3830,11 +3864,11 @@ So, why not start counting with 2 rather than 6? Because we assume that the chil
 
 For these, and other reasons, we can not start counting with the number 1, but need to start with the first number that represents a *product* of 1, or, a number that acts like a normal number in a practical sense.
 
-There are some interesting relationships and values blow.  I can’t tell you what they mean or represent, but it would be irrational to assume they have no significance without knowing anything more about them.  Everything that leads up to these new values is quite reasonable and provable.  It is just a matter of discovering where these new values and formulas apply.  To explain these new values here would border on sadistic given what the reader has had to suffer through already, and as it qualifies as a book unto itself I will spare the reader.  However, there are just a couple I would like to share.
+There are some interesting relationships and values below.  I can’t tell you what they mean or represent, but it would be irrational to assume they have no significance without knowing anything more about them.  Everything that leads up to these new values is quite reasonable and provable.  It is just a matter of discovering where these new values and formulas apply.  To explain these new values here would border on sadistic given what the reader has had to suffer through already, and as it qualifies as a book unto itself I will spare the reader.  However, there are just a couple I would like to share.
 
-If we look at *current* (I, red, 2) “dividing” *resistance* (R, green, 3), on the right <img src="/home/jw/books/tholonia/Images/right-div.png" style='width:30px'/>, and apply the function of division associated with the 6-2 vector, or side, we have 3^2^&div;2, which is simply 4.5 (which we’ll call *R~i~*).  On the left we have *resistance* (*R*) *constrained* by *current* (*I*) <img src="/home/jw/books/tholonia/Images/left-div.png" style='width:30px'/>, which is 2^2^&div;3, which is 1.33333 (which we’ll call *I~r~*).  Neither number *seems* particularly significant, but if we multiply these numbers together, which we would because they are connected via the “base” of the trigram, the 3-2 vector, which has the property of multiplication we get *R~i~&times;I~r~*=6, which is the value for *V*.  This proves that Ohm’s Law has not been broken.  Using this same reasoning we can apply this to the three 6s, but as they are on a vector of multiplication, we would say 6^3^, which yields 216 (which we’ll call *V~3~*).
+If we look at *current* (*I*, red, 2) “dividing” *resistance* (*R*, green, 3), on the right <img src="/home/jw/books/tholonia/Images/right-div.png" style='width:30px'/>, and apply the function of division associated with the 6-2 vector, or side, we have 3^2^&div;2, which is simply 4.5 (which we’ll call *R~i~*).  On the left we have *resistance* (*R*) *constrained* by *current* (*I*) <img src="/home/jw/books/tholonia/Images/left-div.png" style='width:30px'/>, which is 2^2^&div;3, which is 1.33333 (which we’ll call *I~r~*).  Neither number *seems* particularly significant, but if we multiply these numbers together, which we would because they are connected via the “base” of the trigram, the 3-2 vector, which has the property of multiplication we get *R~i~&times;I~r~*=6, which is the value for *V*.  This proves that Ohm’s Law has not been broken.  Using this same reasoning we can apply this to the three 6s, but as they are on a vector of multiplication, we would say 6^3^, which yields 216 (which we’ll call *V~3~*).
 
-In any case, we have new properties of *R~i~, I~r~, V~3~*, all of which only emerging when the the complete tholon is defined.  We can now say *R~i~&times;I~r~=V*.  This means we can also say <img src="/home/jw/books/tholonia/Images/math/320.svg" alt="\frac{V}{R_{i}} =I_{r}" style="vertical-align: middle;height:18pt;"/>  and <img src="/home/jw/books/tholonia/Images/math/321.svg" alt="\frac{V}{I_{r}} =R_{i}" style="vertical-align: middle;height:18pt;"/>, all in accordance to Ohms Law.  We can also calculate a new value for *P* as *V&times;I~r~=P*, but this gives us the value 8, which is a different value from *P*=12, so we will call this *P~1~*.  Let’s test these values by applying the other formulas and see if we get the correct results.  We can apply the formula *I~r~^2^&times;R~i~=P~1~* where we’d expect *P~1~* to equal 8, and it does. <img src="/home/jw/books/tholonia/Images/math/322.svg" alt="\frac{P_{1}}{I_{r}} =V" style="vertical-align: middle;height:18pt;"/> and also gives the correct answer of 6.
+In any case, we have new properties of *R~i~, I~r~, V~3~*, all of which only emerging when the the complete tholon is defined.  We can now say *R~i~&times;I~r~=V*.  This means we can also say <img src="/home/jw/books/tholonia/Images/math/320.svg" alt="\frac{V}{R_{i}} =I_{r}" style="vertical-align: middle;height:18pt;"/>  and <img src="/home/jw/books/tholonia/Images/math/321.svg" alt="\frac{V}{I_{r}} =R_{i}" style="vertical-align: middle;height:18pt;"/>, all in accordance to Ohms Law.  We can also calculate a new value for *P* as *V&times;I~r~=P*, but this gives us the value 8, which is a different value from *P*=12, so we will call this *P~1~*.  Let’s test these values by applying the other formulas and see if we get the correct results.  We can apply the formula *I~r~^2^&times;R~i~=P~1~* where we’d expect *P~1~* to equal 8, and it does. <img src="/home/jw/books/tholonia/Images/math/322.svg" alt="\frac{P_{1}}{I_{r}} =V" style="vertical-align: middle;height:18pt;"/>.
 
 We have exposed at least four new values within the tholon map; *R~i~, I~r~, V~3~*, and *P~1~* (being 4.5, 1.333, 216, and 8 when *I=2*, *R=3*, *V=6*, and *P=12*).  Now all we have to do is find out what they mean and where they are applied in the real world.
 
@@ -3854,7 +3888,7 @@ Later in history, this pedigree number fell slightly into infamy when John the A
 
 > Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man *(ed: or “humanities number”)*, and that number is 666 .  **\~John, Revelations 13:18 (NIV)**
 
-Because 216 = 6&times;6&times;6, it gained a dubious reputation by association with the Beast of Armageddon and started popping up in some strange places, thanks to humanities generally suspicious nature and love of doom.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and not “Six hundred threescore and six”, as it appears in the most popular King James Bible.  However, the odd coincidence that John’s number of man (666), which needed to be calculated, has a strong relationship with Socrates’ “number of the human creature” (216), which also needed to be calculated, is curious… even more curious is why these old timer’s preferred to shroud their message in incomprehensible riddles rather than just tell us the damn number! Ug… philosophers.  Regardless, 216’s clout in the religious and mystical tin-foil-hat brigades still holds up today.  Just do an Internet search for “216” to see for yourself.  Coincidentally, 216 &times; 10 happens to be the years the procession of the equinox moves through each of the 12 constellations.
+Because 216 = 6&times;6&times;6, it gained a dubious reputation by association with the Beast of Armageddon and started popping up in some strange places, thanks to humanities generally suspicious nature and love of doom.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and “Six hundred threescore and six” in the most popular King James Bible.  However, the odd coincidence that John’s number of man (666), which needed to be calculated, has a strong relationship with Socrates’ “number of the human creature” (216), which also needed to be calculated, is curious… even more curious is why these old timer’s preferred to shroud their message in incomprehensible riddles rather than just tell us the damn number! Ug… philosophers.  Regardless, 216’s clout in the religious and mystical tin-foil-hat brigades still holds up today.  Just do an Internet search for “216” to see for yourself.  Coincidentally, 216 &times; 10 happens to be the years the procession of the equinox moves through each of the 12 constellations.
 
 The above example is based on only 1 of the 3 sides of a 1st generation tholon, and there are countless generations!
 
@@ -3866,9 +3900,9 @@ What is the significance of a square or square root?  We know what it means math
 
 <img src="/home/jw/books/tholonia/Images/papersize.png" style='float:right;width:40%'/>If you measure the long end of any A or B series piece of paper, such as the standard A4 size of paper, and divide that length by the short edge, you get the square root of 2.  This is not a coincidence, but rather the very clever work of the Germans in 1922.  The reason for this is so that a piece of paper of the dimensions <img src="/home/jw/books/tholonia/Images/math/323.svg" alt="\frac{height}{width} =\sqrt{2}" style="vertical-align: middle;height:14pt;"/>, when folded in half (along the long edge), will remain <img src="/home/jw/books/tholonia/Images/math/323.svg" alt="\frac{height}{width} =\sqrt{2}" style="vertical-align: middle;height:14pt;"/>.  So, no matter how many times you evenly fold it in two, it will always remain the same relative size.  This can only occur when the ratio is <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/>, making <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> a very self-similar or fractal concept.
 
-2 is especially unique in the way it is the only number where 2^2^ = 2&times;2 = 2+2 = 4.  No other number has the same value when squared, added or multiplied (except 0).  Tholonically, 1 point is nothing but a concept that has no dimension or form, but 2 points is the first instance of a duality and dimension, making it the most fundamental number of creation, or the transition form concept to form, so we would expect to see some property of self-similarity given that self-similarity, is a fundamental property of existence.  Perhaps that is why the number 2 is not only the first prime number, but the only even prime number as well.  It may also be the only number that inspired a murder (allegedly).  We already told the story of Hippasus, but what wasn't told was that along with his other crimes, he broke the sacred belief that all numbers must be expressible as fractions by proving that <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> was an irrational number.  His discovery was declared “Fake News” and he was promptly dumped at sea (or abandoned on a deserted island).
+2 is especially unique in the way it is the only number where 2^2^ = 2&times;2 = 2+2 = 4.  No other number has the same value when squared, added or multiplied (except 0).  Tholonically, 1 point is nothing but a concept that has no dimension or form, but 2 points is the first instance of a duality and dimension, making it the most fundamental number of creation, or the transition from concept to form, so we would expect to see some property of self-similarity given that self-similarity is a fundamental property of existence.  Perhaps that is why the number 2 is not only the first prime number, but the only even prime number as well.  It may also be the only number that inspired a murder (allegedly).  We already told the story of Hippasus, but what wasn't told was that along with his other mathematical crimes, he broke the sacred belief that all numbers must be expressible as fractions by proving that <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> was an irrational number.  His discovery was declared “Fake News” and he was promptly dumped at sea (or abandoned on a deserted island).
 
-In chapter 4: Laws, we showed how <img src="../Images/math/301.svg" alt="\frac1-\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}" style="vertical-align: middle;height:18pt;"/>, but if we use all numbers rather that just prime numbers, we get a very different answer that adds to the significance of the number 2:
+In chapter 4: Laws, we showed how <img src="../Images/math/301.svg" alt="\frac1-\frac{1}{3} +\frac{1}{5} \ -\frac{1}{7} +\frac{1}{9} -\frac{1}{11} +...=\frac{\pi }{4}" style="vertical-align: middle;height:18pt;"/>, but if we use all numbers rather than just prime numbers, we get a very different answer that adds to the significance of the number 2:
 
  <img src="../Images/math/365.svg" style="vertical-align: middle;height:22pt;"/> = 0.69314718056
 
@@ -3878,9 +3912,9 @@ In other words, the sum of 1 divided by all odd numbers (which is &infin;) minus
 
 <center><img src='../Images/ratios.png' style='width:80%'/></center>
 
-*(Technically, the first pattern in this series is <img src="/home/jw/books/tholonia/Images/math/325.svg" alt="\frac{0+\sqrt{{2}^2}}{2}" style="vertical-align: middle;height:24pt;"/>=1, but as it is not a series, just the number 1, it is not included, but is also based on 2.)*
+*(Technically, the first pattern in this series is <img src="/home/jw/books/tholonia/Images/math/325.svg" alt="\frac{0+\sqrt{{2}^2}}{2}" style="vertical-align: middle;height:18pt;"/>=1, but as it is not a series, just the number 1, it is not included, but is also based on 2.)*
 
-The Golden Ratio is often credited for Silver Ratio accomplishments, such as the spiral of the Milky Way, facial proportions, architecture (especially in Japan), bird flight patterns, and more.  Notice how the Silver Ratio is the only ratio that can be determined by only using the number 2 (plus the number 1, which isn't a “normal” number).
+The Golden Ratio is often credited for Silver Ratio accomplishments, such as the spiral of the Milky Way, facial proportions, architecture (especially in Japan), bird flight patterns, and more.  Notice how the Silver Ratio is the only ratio that can be determined by only using the number 2 (plus the number 1, which isn't a “normal” number, and can also be defined as 2&div;2).
 
 Here are some thoughts as to how squares and square roots might apply to non-math contexts.
 
@@ -3895,7 +3929,7 @@ This is effectively the same distinction between *quantitative* and *qualitative
 
 This is metaphorically equivalent to something using its own properties to evaluate its own existence, not unlike the first dot that became aware of itself through the second dot, creating the two states of objective and subjective.  Remember, this is referring to the non-math contexts, so none of these claims have any mathematical relevance (probably).
 
-This is a good place to bring the reader back to an earlier section that looked at the relationship between gravity and consciousness.  In that section we showed how the gravitational field *g* was a product of *G&times;M~1~&times;M~2~*, where (and these definitions are verbatim from the research paper.)
+This is a good place to bring the reader back to an earlier section that looked at the relationship between gravity and consciousness, and, hopefully, the reason why will be clear.  In that section we showed how the gravitational field *g* was a product of *G&times;M~1~&times;M~2~*, where (and these definitions are verbatim from the research paper.)
 
 > G = universal gravitational constant.
 > M~1~ = mass of the observing physical system (the observer).
@@ -3909,11 +3943,11 @@ Can we say that when something is squared, it is the objective measure of a subj
 
 Although we won’t get into it here, in the tholonic view, trigrams, or synergetics, is a model of energy archetypes, but the cube is a model of instances.  For the record, a cube can be defined by five or more tetrahedrons (one regular and four irregular).
 
-It seems almost silly to state something as obvious as the number 2 is fundamental to the reality of *space* as we must have 2 dimensions to have the concept of space, but regardless of its obvious simplicity, that archetype of 2 is taken for granted as it is one of the most profound concepts to exist, perhaps even more than 1 where manifest reality is concerned.
+It seems almost silly to state something as obvious as the number 2 is fundamental to the reality of *space* as we must have 2 dimensions to have the concept of space, but regardless of its obvious simplicity, the archetype of 2 is taken for granted as it is one of the most profound concepts to exist, perhaps even more than 1 where manifest reality is concerned.
 
 From the ancient Greeks to modern philosophers, geometry and math has been fundamental in describing and understanding the world not just from a technical perspective, but even a moral, ethical, legal and social perspective.  What follows is similar in that it uses math and geometry to support a philosophical premise.  It needs to be stressed, again, that this exploration is not intended to shed new light on math or geometry, but rather, uses math and geometry as guideposts of reason.  With that said, here is another view of the extra-mathematical significance of the number 2.
 
-Tholonically, 2 is the result when 1 recognizes itself, or reflects itself.  If <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> = 1.414 than that is saying that is it 1.414, not 1, that brings 2 into existence, but we also claim that 1+1 created 2.  We have two true statements that are different in means but have the same ends:
+Tholonically, 2 is the result when 1 recognizes itself, or reflects itself.  If <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> = 1.414 than that is saying that it is 1.414, not 1, that brings 2 into existence, but we also claim that 1+1 created 2.  We have two true statements that are different in means but have the same ends:
 
 - *1+1=2*
 - Something that has a *qualitative* or *subjective*  value of 1.414  that is measured by its *quantitative* or *objective* value of 1.414 is also 2.
@@ -3934,7 +3968,7 @@ So far, this falls more on the supportive side of the claim that 0.414 is the va
 
 What if we test this magic number of 0.414 on the number 3? Would be get something equally interesting? let’s see.
 
-<img src="/home/jw/books/tholonia/Images/math/330.svg" alt="\frac{3}{0.414}" style="vertical-align: middle;height:18pt;"/> = *7.242*, and this number also happens to be *2.414 &times; 3*, or *1+<img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/>&times; 3*.  Again, the Silver Ratio appears, but this time as a multiple of 3.  So far, so good, but there’s more, because this number is also the ratio of the two sides of a right triangle when when that triangle is 67.5&deg;.  67.5&deg; is 22.5&deg; short of 90&deg; and because 22.5&deg; is <img src="/home/jw/books/tholonia/Images/math/329.svg" alt="\frac{1}{4}" style="vertical-align: middle;height:18pt;"/> of 90&deg;, it is also 
+<img src="/home/jw/books/tholonia/Images/math/330.svg" alt="\frac{3}{0.414}" style="vertical-align: middle;height:18pt;"/> = *7.242*, and this number also happens to be *2.414 &times; 3*, or *1+<img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/>&times; 3*.  Again, the Silver Ratio appears, but this time as a multiple of 3.  So far, so good, but there’s more, because this number is also the ratio of the two sides of a right triangle when that triangle is 67.5&deg;.  67.5&deg; is 22.5&deg; short of 90&deg; and because 22.5&deg; is <img src="/home/jw/books/tholonia/Images/math/329.svg" alt="\frac{1}{4}" style="vertical-align: middle;height:18pt;"/> of 90&deg;, it is also 
 
 <img src="/home/jw/books/tholonia/Images/math/355.svg" style="vertical-align: middle;height:24pt;"/> of a circle.  
 
@@ -3943,6 +3977,44 @@ What if we test this magic number of 0.414 on the number 3? Would be get somethi
 This is fantastically elegant in so many ways, and the recurring principle seems to be the Silver Ratio, which is based in 2.  
 
 We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0
+
+## Fibonacci Tholon
+
+The Fibonacci formula and its resulting sequence and ratio is especially tholonic, as we’ll show here.
+
+The normal Fibonacci formula is *Fn=Fn-1+Fn-2*, where *Fn* is a value in the sequence of the Fibonacci sequence.  So, is we start with the first two values of *F~0~=0* and *F~1~=1*, then *F~2~=F~2-1~+F~2-2~*, or *F~2~=F~1~+F~0~*, which is *1=1+0*.  Repeating this generates the Fibonacci sequence of 0, 1, 1, 2, 3, 5, 8, 13 ,2 1, 34, 55, 89, 144, 233, etc…
+
+If we lay out these formulas to expose the pattern of the formula, as shown in the lower left images, we see that each statement is composed of 3 numbers that not only have a very clear pattern but are easily mapped to the tholonic trigram.  Why it is a tholonic trigram? Because it begins with 0, the N-state, and the two children are opposite each other, +&phi; and -&phi;, and when added together equal the parent, 0.  We show this by performing the same math in the upper left image, but subtracting instead of adding.  More relevant is how when we start with the same 0 and 1, but alternate the subtracting and adding of the same Fibonacci sequence, as we would, given how the tholons alternate with each generation and iteration, we get the image on the right.  Here, we start with the 0, but the two children alternate between -1 and +1.  However, only the red, *Contributing* element represents an impossible function, divide by 0.  From the tholonic view, given that 0 represents not only the 0-dimensional point of awareness and intention, but the source and totality of all reality, then clearly, nothing that exists, conceptually or otherwise,  can be divided by it.  The closest we can come to this concept is something divided by infinity, which then equals 0, and therefore equals the source and totality of existence.  
+
+<center><img src="../Images/phitri.png" style="width:100%"/></center>
+
+This is also tholonically compatible because applying the alternating Fibonacci formula results in a trigram that allows the tholon to be equated to the *God Formula*, as explained in Chapter 7 “*Structure*”.
+
+<center><img src='../Images/ipe.png' style='width:30%'/></center>
+
+The Fibonacci sequence also supports another tholonic concept, that of the two types of dualities.  If you remember back in chapter 2, “Energy”, it was stated:
+
+> there are at least two different types of duality.  The first being the duality of *somethingness* and *nothingness*, 1 and 0, and the second being two states of *somethingness*.  Typically, when the term 
+
+Before we can begin calculating the sequence, we needs two values in order to calculate the 3^rd^.  These two values are 0 and 1, and neither of them have any parent; they are simply declared as such.  The remaining numbers of the sequence are the resulting products of these two declared values.   
+
+<center><img src='../Images/fib-parts.png' style='width:50%'/></center>
+
+The number 1 can be replaced with any number or fraction, and while it will produce a very different sequence, it will still produce the ratio of &phi;.  1 is just the simplest representation of *something*, and given that anything other than 0, or *nothing*, is *something*, we can say that &phi; represents the relationship between *nothing* and *everything* (or *any something*).
+
+&phi; also represents the relationship between all things as well, because no matter what number we begin with, the ratio remains &phi;.
+
+This is this is the pattern that resolves the two poles of 0 and 1, which exists within the limits of 1 and 2:
+
+<center><img src='../Images/phiplot.png' style='width:100%'/></center>
+
+
+
+However, tholonically, the pattern *might* also look something like this:
+
+<center><img src='../Images/phiplot2.png' style='width:100%'/></center>
+
+
 
 <hr>
 
@@ -4067,6 +4139,10 @@ Millions of samples were recorded and reduced to one number per sample.  The inp
 <center><img src='../Images/rng.png' style='width:100%'/></center>
 
 Next, each single digit number (1-9) was assigned a color from the spectrum and then plotted such that each dot occupied one consecutive pixel on one line, and when that line was full, the plot advanced to the next line, just like a dot-matrix printer.  This was an extremely simple plot.  The below-left plot shows only one number being plotted at a time, and the below-right plot shows cumulative numbers.  The distribution of the numbers within the data set of 33,000,000 is shown in the bar chart.
+
+The data was also tested against Benford’s Law, which states that the first digit in a naturally occurring set of values will be distributed in a manner dependent on the log of that number.  We looked at three sets of data; the crossed-sums of the Sun, Moon, and combined, by counting the number of each digit 1 through 9 in a data set of 33,575,635 data samples.  While the numbers were similar in count, they were were not similar enough to suggest an even distribution as we would see in random numbers, and not in accordance with Benford’s Law.  To see the difference in these totals, we plotted the difference between the lowest and and highest counts (charts below) for each number 1-9.  As you can see, there is some very patterned behavior, especially in the first chart and even more so in the last charts which s, as the prime numbers are reduced .
+
+<center><img src='../Images/2cspos.png' style='width:100%'/></center>
 
 Much to our surprise, this resulting pattern matches that of a *Fresnel diffraction*.
 
