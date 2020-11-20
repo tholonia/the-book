@@ -228,4 +228,7 @@
 
 [^312]: Rose GJ. **“The numerical abilities of anurans and their neural correlates: insights from neuroethological studies of acoustic communication.”** Philos Trans R Soc Lond B Biol Sci. 2017 Feb 19;373(1740):20160512. doi: 10.1098/rstb.2016.0512. PMID: 29292359; PMCID: PMC5784039.
 [^313]: Gregson, R. A. (2006). *Informative Psychometric Filters*. ANU E Press. Chapter 6 “Tribonacci and Long Memory”.  Available at http://press-files.anu.edu.au/downloads/press/p128921/pdf/ch0626.pdf
+[^314]: http://watermanpolyhedron.com/130constants.htm
+
+[^315]: “**All the physical constants as the factor of 2 times 3 times pi**.”, http://watermanpolyhedron.com/130constants.htm
 

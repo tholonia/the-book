@@ -131,3 +131,4 @@ Images/publish
 Styles/common_book_prod.css
 Styles/common_book_prod_header.css
 *.mobi
+chapters/.epub

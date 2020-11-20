@@ -47,4 +47,3 @@ Although today we tend to think of Plato’s *Theory of Ideas* as an abstraction
 
 [^7]: This idea, and much more, is discussed at length in a 89 volume edition of great works that question the nature of existence.  Glattfelder, James B.  Information, **Consciousness, Reality: How a New Understanding of the Universe Can Help Answer Age-Old Questions of Existence**.  Cham: Springer International Publishing, 2019. Available online at <https://link.springer.com/bookseries/5342>
 
-
