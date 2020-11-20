@@ -33,7 +33,7 @@ So far, we have:
 -   Logic
 -   Planning
 
-We have been making the case that ideas themselves are an expression of energy, and as they clearly incorporate, and are even defined by, all the properties of intelligence listed, it’s reasonable to conclude that ideas themselves emerge from a form of intelligence, and from a tholonic perspective, even have their own intelligence.
+We have been making the case that ideas themselves are an expression of energy, and as they clearly incorporate, and are even defined by, all the properties of intelligence listed, it’s reasonable to conclude that ideas themselves emerge from a form of intelligence, and from a tholonic perspective, even have their own intelligence.  This is fundamental in understanding how tholonic archetypes can act as autonomous agents in the self-reproducing structure of reality, the thologram.
 
 However, this intelligence is quite different from what we would call human intelligence because of its aggregate nature.  It’s more of a recursively embedded network of countless decentralized nodes of intelligence.  It’s the intelligence of the thologram as a whole rather than the human intelligence of one tholon alone.  A more graspable metaphor that applies to intelligence is that of a large tree.  Each part of that tree is an instance of the concept of “tree”; trunk, branch, stem, leaf, seed, etc.  There can be many instances of each contributing tholon, such as a leaf, but they are all part of “tree” and can only exist within the parent “tree” tholon.  You and I, and all things.  are but “leaves” or “seeds” or “stems”, or parts thereof, on this tree of universal intelligence, and like the leaf, we can not exist without it (even if we think we can).
 

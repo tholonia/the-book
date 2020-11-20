@@ -234,7 +234,8 @@ def pub_pdf():
     cx = f'''\
     cp {H}/Latest/THOLONIA_THE_BOOK.pdf {H}/archive/THOLONIA_THE_BOOK-{timestamp}.pdf
     cp {H}/chapters/THOLONIA_THE_BOOK.pdf {H}/Latest
-    ln -fs {H}/{L}/THOLONIA_THE_BOOK.pdf {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.pdf
+
+    cp {H}/{L}/THOLONIA_THE_BOOK.pdf {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.pdf
 
     '''
     print(cx)
@@ -246,7 +247,8 @@ def pub_epub():
     print("PUBLISHING EPUB\n-----------------------------------------\n")
     cx = f'''\
     cp {H}/chapters/THOLONIA_THE_BOOK.epub {H}/Latest
-    ln -fs {H}/{L}/THOLONIA_THE_BOOK.epub {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.epub
+
+    cp {H}/{L}/THOLONIA_THE_BOOK.epub {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.epub
 
     '''
     print(cx)
@@ -260,7 +262,8 @@ def pub_md():
     cx = f'''\
     cp {H}/Latest/THOLONIA_THE_BOOK.md {H}/archive/THOLONIA_THE_BOOK-{timestamp}.md
     cp {H}/chapters/THOLONIA_THE_BOOK.md {H}/Latest
-    ln -fs {H}/{L}/THOLONIA_THE_BOOK.md {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.md
+    
+    cp {H}/{L}/THOLONIA_THE_BOOK.md {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.md
     '''
     print(cx)
     res = os.system(cx)
@@ -274,7 +277,8 @@ def pub_html():
     cp {H}/Latest/THOLONIA_THE_BOOK.html {H}/archive/THOLONIA_THE_BOOK-{timestamp}.html
     cp {H}/chapters/__temp.html {H}/Latest/THOLONIA_THE_BOOK.html
     mv {H}/chapters/__temp.html {H}/chapters/THOLONIA_THE_BOOK.html
-    ln -fs {H}/{L}/THOLONIA_THE_BOOK.html {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.html
+    
+    cp {H}/{L}/THOLONIA_THE_BOOK.html {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.html
     '''
     print(cx)
     res = os.system(cx)
@@ -297,7 +301,7 @@ def pub_zip():
     cp {HOME}/tmp/THOLONIA_THE_BOOK.html.zip {H}/{L}
     cd {H}
 
-    ln -fs {H}/{L}/THOLONIA_THE_BOOK.html.zip {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.html.zip
+    cp {H}/{L}/THOLONIA_THE_BOOK.html.zip {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.html.zip
     '''
     print(cx)
     res = os.system(cx)

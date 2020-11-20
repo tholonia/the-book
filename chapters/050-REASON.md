@@ -270,6 +270,8 @@ This idea is essentially the same one that was put forth 250 years ago by the ma
 Applying this idea to society also suggests that the most sustainable practice for the world at large can be summed up in a phrase that is attributed to international banks, John Lennon and Yoko Ono, Buckminster Fuller and more[^40] &hellip; “Think globally, act locally”.  This is easily practiced by spending your money at local businesses rather than Walmart or Amazon, or simply, to quote Mother Theresa when asked “What can we do to promote world peace?”, “Go home and love your family.”
 
 
+
+
 #### **Claim 25:** There is an order to creative processes, and creations themselves are a product of order.
 
 ## Applied Reason

@@ -219,6 +219,14 @@ However, tholonically, the pattern *might* also look something like this:
 
 <center><img src='../Images/phiplot2.png' style='width:100%'/></center>
 
+As we are dealing with a trigram, perhaps the *tribonacci sequence* would be more appropriate.  The tribonacci sequence is just like the Fibonacci sequence, but instead of adding the previous two values, it adds the previous 3 values, so&hellip;0, 1, 2, 3, 6, 11 20, 37, 68, etc., and it arrives at the ratio of 1.83928675521416.  We won’t explore that here, but it worth noting that after the original duality of 01, the next numbers are those of the tholonic trigram, 2, 3, 6.  It also has the curious relationship with the number 2 as ***η + 1/η^3^ = 2***  (where *η* is the a number in the sequence).
+
+This ratio is not really used for much, however, Robert A. M. Gregson, Emeritus professor in Australia, uses this sequence to test what he calls a “new sort of thermodynamics”, which he describes in chapter 6, “Tribonacci and Long Memory”, in his book “Informative Psychometric Filters”.  He begins with a description that sounds uncommonly tholonic:
+
+> Systems that move from edge-of-chaos into a sort of saturated stability as their complexity increases are considered to be a basis for a new sort of thermodynamics where entropy is not always increasing, but the complexity of both a biological system and its connected potential environment are increasing together. 
+
+ For the mathematically curious, using 4 values (*quadonacci*?), rather that 3, the ratio is 1.928, and using 5 (*quintonacci*?), the ratio is 1.966.
+
 
 
 <hr>

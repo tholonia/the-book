@@ -227,3 +227,5 @@
 [^311]: Araya-Salas, M. (2012). Is birdsong music? Evaluating harmonic intervals in songs of a Neotropical songbird. *Animal Behaviour,* *84*(2), 309-313. doi:10.1016/j.anbehav.2012.04.038.  Seience article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
 
 [^312]: Rose GJ. **“The numerical abilities of anurans and their neural correlates: insights from neuroethological studies of acoustic communication.”** Philos Trans R Soc Lond B Biol Sci. 2017 Feb 19;373(1740):20160512. doi: 10.1098/rstb.2016.0512. PMID: 29292359; PMCID: PMC5784039.
+[^313]: Gregson, R. A. (2006). *Informative Psychometric Filters*. ANU E Press. Chapter 6 “Tribonacci and Long Memory”.  Available at http://press-files.anu.edu.au/downloads/press/p128921/pdf/ch0626.pdf
+

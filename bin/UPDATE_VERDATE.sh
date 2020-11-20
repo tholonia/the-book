@@ -37,6 +37,9 @@ perl -pi -e 's/current version:.*/current version: $ENV{'DRV'}/' ${H}/docs/_layo
 #update CSS for the page header
 perl -pi -e 's/content: \"THOLONIA.*/content: \"THOLONIA $ENV{'VV'}\";/' ${H}/Styles/common_book_*.less
 
+#update file name version
+#rm ${H}/Latest/LATEST_VERSION_*
+#touch ${H}/Latest/LATEST_VERSION_${V}
 
 
 
