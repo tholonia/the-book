@@ -18,7 +18,7 @@ An example of a *local* law might be the *Standard Model* of particle physics th
 
 Science calls the scope of our everyday Newtonian reality *Macrorealism*[^8] or *Local Realism*, and the subatomic scope is called *Quantum Mechanics*.  Understanding how different laws operate in different scopes is an area of intense research and has led to such landmark experiments like:
 
-- **Bell’s inequalities**: The math that enables the distinction between two different views of reality, typically the relativistic view vs.  the quantum view.
+- **Bell’s inequalities**: The math that enables the distinction between two different views of reality, typically the relativistic view vs. the quantum view.
 - **Einstein-Podolsky-Rosen paradox**: The speculation that every particle in the universe knows the state of every other particle in the universe at all time, and that no two particles in the universe have the same state.
 - **Leggett-Garg inequality**: The claim that in the quantum world something can be in two states at the same time, which is impossible for the macroscopic world.
 

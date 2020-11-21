@@ -93,6 +93,8 @@ Later in history, this pedigree number fell slightly into infamy when John the A
 
 > Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man *(ed: or “humanities number”)*, and that number is 666 .  **\~John, Revelations 13:18 (NIV)**
 
+Mathematicians even classify any prime number that contains the sequence 666 as Belphegor’s Primes, named after one of the seven princes of Hell (who helps people make discoveries and seduces them in to thinking they will be become rich as a result).
+
 Because 216 = 6&times;6&times;6, it gained a dubious reputation by association with the Beast of Armageddon and started popping up in some strange places, thanks to humanities generally suspicious nature and love of doom.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and “Six hundred threescore and six” in the most popular King James Bible.  However, the odd coincidence that John’s number of man (666), which needed to be calculated, has a strong relationship with Socrates’ “number of the human creature” (216), which also needed to be calculated, is curious… even more curious is why these old timer’s preferred to shroud their message in incomprehensible riddles rather than just tell us the damn number! Ug… philosophers.  Regardless, 216’s clout in the religious and mystical tin-foil-hat brigades still holds up today.  Just do an Internet search for “216” to see for yourself.  Coincidentally, 216 &times; 10 happens to be the years the procession of the equinox moves through each of the 12 constellations.
 
 The above example is based on only 1 of the 3 sides of a 1st generation tholon, and there are countless generations!
@@ -127,7 +129,7 @@ When we square something, the units-of-measure and the unit-count are the same. 
 
 Why is it subjective? Because when we say *a&times;b*, we are saying we are counting *b a* times.  It says nothing about what *b* is, only that whatever it is, there are *a* of them (of course, this works in reverse as well).  Without knowing what *b* is, the result is meaningless.  How do we know what *b* is? We simply assign a meaning to it.  We say *b=apples* or *b=volts*, or whatever.  The value of *a* is objective because regardless of what the units are, there are *a* of them.  The meaning of *b* is subjective in that it requires a contextual value, a personal decision, to make that assignment.  It may not be subjective in the sense that there really are 2 apples, which is objectively testable, but the assignment of those apples to the abstract concept of a unit is. *(Again, let me stress that in actual math these concepts don’t apply, or of they do, in ways yet unclear. We are simply applying the rules of logic to a non-mathematical context, which was the de rigueur of the inventors/discoverers of math and geometry once-upon-a-time.)*
 
-This is effectively the same distinction between *quantitative* and *qualitative*:
+This is effectively the same distinction between *quantitative* and *qualitative*.  Here are those definitions again:
 
 - **Quantitative** data can be counted, measured, and expressed using numbers.
 - **Qualitative** data is descriptive and conceptual.  Qualitative data can be categorized based on traits and characteristics.

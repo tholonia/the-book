@@ -20,22 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Images/finaltholo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/finaltholo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Images/titlepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/titlepage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chapters/000-Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/000-Intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/050-REASON.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/050-REASON.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/060-INFORMATION.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/060-INFORMATION.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/070-STRUCTURE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/070-STRUCTURE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/510-A-About_This_Book.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/510-A-About_This_Book.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/515-B-The_Thologram.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/515-B-The_Thologram.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/030-ORDER.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/030-ORDER.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/040-THE_LAWS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/040-THE_LAWS.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/550-F-An_Unexpected_Pattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/550-F-An_Unexpected_Pattern.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/999-References.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/999-References.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DEADJOE" beforeDir="false" afterPath="$PROJECT_DIR$/../DEADJOE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chapters/9999.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/9999.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" afterDir="false" />
@@ -744,6 +736,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="347" y="1303" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605911889030">
+      <screen x="1" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="347" y="1303" key="#com.intellij.execution.impl.EditConfigurationsDialog/1.1080.1920.1080/0.0.1920.1080@1.1080.1920.1080" timestamp="1605911889030" />
     <state x="677" y="1205" key="#crosssum" timestamp="1598109369781">
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
@@ -784,6 +780,10 @@
     <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
     <state width="1413" height="220" key="GridCell.Tab.0.right/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605580940592" />
     <state width="1413" height="220" key="GridCell.Tab.0.right/1.1080.1920.1080/0.0.1920.1080@1.1080.1920.1080" timestamp="1605582977383" />
+    <state x="390" y="1280" key="SettingsEditor" timestamp="1605912915928">
+      <screen x="1" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="390" y="1280" key="SettingsEditor/1.1080.1920.1080/0.0.1920.1080@1.1080.1920.1080" timestamp="1605912915928" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

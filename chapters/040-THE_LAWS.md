@@ -254,6 +254,23 @@ What we understand as resistance, current, volts, and power today, the alchemist
 
 #### **Claim 15:** Instances of laws are limited, defined and understood according to their context.
 
+## Quality of Numbers
+
+Related to these concepts of reasoning is how we look at numbers.  Typically, a number is a quantitative value; we have 6 apples, \$1,000 dollars, etc, yet having 6 apples says nothing about the apples themselves.  This lack of qualitative meaning in numbers is at the core of the ongoing debate in the world statistical analysis.  Imagine the differences in approach and perspective between a quantitative understanding of over population vs. the qualitative understanding.
+
+For clarity, here is how we understand the concepts of *quantitative* and *qualitative*:
+
+- **Quantitative** data can be counted, measured, and expressed using numbers.
+- **Qualitative** data is descriptive and conceptual.  Qualitative data can be categorized based on traits and characteristics.
+
+Lay persons tend not to think of numbers as having qualitative properties.  How would you describe the number 1?  Most people would not say “It’s that number which when multiplied by anything has no effect”, or “It’s its own square root”.  When you see the number 7, how often do you think “I wonder why its inverse is an infinite recurring pattern of all the numbers not divisible by 3, yet add up to 3^3^&times;3?”  (1/7=0.142857 142857 142857 142857 ad *infinitum*).  In ancient times, numbers were far more qualitative; Greeks considered 3 the number of man, 2 of woman, and among the Pythagoreans, 9 was too sacred a number to even be uttered.  Of course, most qualitative values of numbers will be cultural, which doesn’t mean they are invalid, but are only valid within that context, such as how Plato and Socrates, both eugenicists, believed in the qualitative values of numbers when it came to breeding.  Plato even went to so far as to suggest that people should only be allowed to listen to certain music based on its harmonics.
+
+However, numbers have a universal, or objective, qualitative value regardless of culture or beliefs.  The Oxford English Dictionary actually defines the word “unity” as “*The abstract quantity representing the singularity of any single entity, regarded as the basis of all whole numbers; the number one.*”  
+
+Take the number 2, for example.  It is the first pair, and it can be said that “2 represents the result of two separate things joining to create a new separate thing, the first union”, or “It allows us to define an area, which requires 2 dimensions”.  We can say 3 represents the most stable shape, as the simplest shape that can be created requires 3 sides, or the most stable form is a tripod.  From these qualitative properties we can speculate on the qualitative properties they contribute to the values they can create such as 4, 5, 6, 7, etc.
+
+Further on, when we explore relationships that can be expressed in numbers or geometry, we will often consider their qualitative significance, because to ignore it would be to ignore an entire dimension or perspective of understanding.
+
 ## Redundancy
 
 The oscillation constant also gives us a glimpse into another basic, yet profound property of creation and reality, and that is its self-similar redundancy.  *Self-similar redundancy* (a term that is itself redundant) is how one property or law manifests itself across different orders of scale in the most effective manner given the context, state, and scope of that order.
