@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Sat 21 Nov 2020 01:05:39 PM -03 v3.6.39'
+status: 'Updated: Sun 22 Nov 2020 03:45:02 PM -03 v3.6.42'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.39
+version:  3.6.42
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.39'
+pagetitle: 'THOLONIA 3.6.42'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -3544,7 +3544,9 @@ There is another understanding as well which can be understood using the same po
 
 One could argue that these preferences are only a result of evolution as they contributed to survival, but that would only support the argument that this was the original intention.  In reality, we tend to see both sides working together, as in the very parasitic relationship between the predatory wasp and the slower cockroaches, but as we also see in that example, that it is ultimately a benefit to the cockroach gene pool and tholonic intelligence.  Think of it as Nature's *tough love*.  The same goes for any synergetic system, from rabbits and coyotes to political systems.  
 
-*Constructive collaboration* only needs a slight edge over *destructive resistance* to ensure existence and growth, similar to how the “house” only has a 0.5% edge at the Black Jack table. The human brain, cellular mechanics, and all life in general, is wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for an instance to express the intention of its tholonic archetype that has its source in the *primal intention*.
+*Constructive collaboration* only needs a slight edge over *destructive resistance* to ensure that reality will be more constructive that destructive, even if it at times destruction is winning.  This is similar to how the casino’s “house” only needs a 0.5% edge at the Black Jack table to transfer the players money into their coffers.  The house does not care about the individual winners or losers because they know that they have that 0.5% advantage, which is all they need to survive, and even thrive.  Our highly unscientific, unprovable, irrelevantly small sampling in the “Bless or Curse” experiment suggests that *constructive collaboration* has a house edge of about 2.5%, at least among the sample group for that moment in time.
+
+The human brain, cellular mechanics, and all life in general, is wired to be both competitive[^182] and cooperative[^183] at the same time, which implies that this is (so far) the most effective manner for an instance to express the intention of its tholonic archetype that has its source in the *primal intention*.
 
 <hr>
 
