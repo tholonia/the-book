@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Fri 20 Nov 2020 12:16:44 AM -03 v3.6.32'
+status: 'Updated: Sat 21 Nov 2020 01:05:39 PM -03 v3.6.39'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.32
+version:  3.6.39
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.32'
+pagetitle: 'THOLONIA 3.6.39'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -208,7 +208,7 @@ An example of a *local* law might be the *Standard Model* of particle physics th
 
 Science calls the scope of our everyday Newtonian reality *Macrorealism*[^8] or *Local Realism*, and the subatomic scope is called *Quantum Mechanics*.  Understanding how different laws operate in different scopes is an area of intense research and has led to such landmark experiments like:
 
-- **Bell’s inequalities**: The math that enables the distinction between two different views of reality, typically the relativistic view vs.  the quantum view.
+- **Bell’s inequalities**: The math that enables the distinction between two different views of reality, typically the relativistic view vs. the quantum view.
 - **Einstein-Podolsky-Rosen paradox**: The speculation that every particle in the universe knows the state of every other particle in the universe at all time, and that no two particles in the universe have the same state.
 - **Leggett-Garg inequality**: The claim that in the quantum world something can be in two states at the same time, which is impossible for the macroscopic world.
 
@@ -547,6 +547,23 @@ What we understand as resistance, current, volts, and power today, the alchemist
 <center><img src='../Images/115-elements.png' style='width:100%'/></center>
 
 #### **Claim 15:** Instances of laws are limited, defined and understood according to their context.
+
+## Quality of Numbers
+
+Related to these concepts of reasoning is how we look at numbers.  Typically, a number is a quantitative value; we have 6 apples, \$1,000 dollars, etc, yet having 6 apples says nothing about the apples themselves.  This lack of qualitative meaning in numbers is at the core of the ongoing debate in the world statistical analysis.  Imagine the differences in approach and perspective between a quantitative understanding of over population vs. the qualitative understanding.
+
+For clarity, here is how we understand the concepts of *quantitative* and *qualitative*:
+
+- **Quantitative** data can be counted, measured, and expressed using numbers.
+- **Qualitative** data is descriptive and conceptual.  Qualitative data can be categorized based on traits and characteristics.
+
+Lay persons tend not to think of numbers as having qualitative properties.  How would you describe the number 1?  Most people would not say “It’s that number which when multiplied by anything has no effect”, or “It’s its own square root”.  When you see the number 7, how often do you think “I wonder why its inverse is an infinite recurring pattern of all the numbers not divisible by 3, yet add up to 3^3^&times;3?”  (1/7=0.142857 142857 142857 142857 ad *infinitum*).  In ancient times, numbers were far more qualitative; Greeks considered 3 the number of man, 2 of woman, and among the Pythagoreans, 9 was too sacred a number to even be uttered.  Of course, most qualitative values of numbers will be cultural, which doesn’t mean they are invalid, but are only valid within that context, such as how Plato and Socrates, both eugenicists, believed in the qualitative values of numbers when it came to breeding.  Plato even went to so far as to suggest that people should only be allowed to listen to certain music based on its harmonics.
+
+However, numbers have a universal, or objective, qualitative value regardless of culture or beliefs.  The Oxford English Dictionary actually defines the word “unity” as “*The abstract quantity representing the singularity of any single entity, regarded as the basis of all whole numbers; the number one.*”  
+
+Take the number 2, for example.  It is the first pair, and it can be said that “2 represents the result of two separate things joining to create a new separate thing, the first union”, or “It allows us to define an area, which requires 2 dimensions”.  We can say 3 represents the most stable shape, as the simplest shape that can be created requires 3 sides, or the most stable form is a tripod.  From these qualitative properties we can speculate on the qualitative properties they contribute to the values they can create such as 4, 5, 6, 7, etc.
+
+Further on, when we explore relationships that can be expressed in numbers or geometry, we will often consider their qualitative significance, because to ignore it would be to ignore an entire dimension or perspective of understanding.
 
 ## Redundancy
 
@@ -3889,6 +3906,8 @@ Later in history, this pedigree number fell slightly into infamy when John the A
 
 > Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man *(ed: or “humanities number”)*, and that number is 666 .  **\~John, Revelations 13:18 (NIV)**
 
+Mathematicians even classify any prime number that contains the sequence 666 as Belphegor’s Primes, named after one of the seven princes of Hell (who helps people make discoveries and seduces them in to thinking they will be become rich as a result).
+
 Because 216 = 6&times;6&times;6, it gained a dubious reputation by association with the Beast of Armageddon and started popping up in some strange places, thanks to humanities generally suspicious nature and love of doom.  Fans of the arcane ignore the most likely suggestion that John may have been telling to reader to *add* the numbers together, because in the original Greek it was penned as 600+60+6, and “Six hundred threescore and six” in the most popular King James Bible.  However, the odd coincidence that John’s number of man (666), which needed to be calculated, has a strong relationship with Socrates’ “number of the human creature” (216), which also needed to be calculated, is curious… even more curious is why these old timer’s preferred to shroud their message in incomprehensible riddles rather than just tell us the damn number! Ug… philosophers.  Regardless, 216’s clout in the religious and mystical tin-foil-hat brigades still holds up today.  Just do an Internet search for “216” to see for yourself.  Coincidentally, 216 &times; 10 happens to be the years the procession of the equinox moves through each of the 12 constellations.
 
 The above example is based on only 1 of the 3 sides of a 1st generation tholon, and there are countless generations!
@@ -3923,7 +3942,7 @@ When we square something, the units-of-measure and the unit-count are the same. 
 
 Why is it subjective? Because when we say *a&times;b*, we are saying we are counting *b a* times.  It says nothing about what *b* is, only that whatever it is, there are *a* of them (of course, this works in reverse as well).  Without knowing what *b* is, the result is meaningless.  How do we know what *b* is? We simply assign a meaning to it.  We say *b=apples* or *b=volts*, or whatever.  The value of *a* is objective because regardless of what the units are, there are *a* of them.  The meaning of *b* is subjective in that it requires a contextual value, a personal decision, to make that assignment.  It may not be subjective in the sense that there really are 2 apples, which is objectively testable, but the assignment of those apples to the abstract concept of a unit is. *(Again, let me stress that in actual math these concepts don’t apply, or of they do, in ways yet unclear. We are simply applying the rules of logic to a non-mathematical context, which was the de rigueur of the inventors/discoverers of math and geometry once-upon-a-time.)*
 
-This is effectively the same distinction between *quantitative* and *qualitative*:
+This is effectively the same distinction between *quantitative* and *qualitative*.  Here are those definitions again:
 
 - **Quantitative** data can be counted, measured, and expressed using numbers.
 - **Qualitative** data is descriptive and conceptual.  Qualitative data can be categorized based on traits and characteristics.
@@ -4262,11 +4281,8 @@ All of this may have nothing to do with unraveling the mystery of the Fresnel pa
 
 - ***α*** and ***β*** are in the same *PP* as the prime numbers, and the remaining two variables are products of these two numbers.  In this specific case, for the pi-based formulas to work, the value of 2 must be in the *PP* of 2.  (See *Squares and Square Roots* chapter in Appendix C, “Tholonic Math”, for more about the miracle of the number 2)
 
-- From a tholonic perspective, 2&pi; represents a complete tholon (a *real* and *virtual* tholon together).  If we replace &pi; with 2&pi;, and ***α*** with <img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> (which is what &zeta;(2) converges to), then  ***β***  = <img src="../Images/math/312.svg" alt="\sqrt{3.81971863420549}" style="vertical-align: middle;height:10pt;"/>. This *radicand* (the number under the square root symbol) are the revolutions per day in one radian/hour (1 radian/hour = 3.819718634205 revolution/day).  You may have never heard of these units of measurement, but they are used in both subatomic and planetary sciences.  One full turn is 2π radians.  A Hour Angle is 1/24^th^ of a full turn, or &pi;/12 radians.  Like the neutron g-factor, the Hour Angle is a unit that measures angular velocity and rotational frequency.
+  We also see that ***γ*** equals <img src="../Images/math/313.svg" alt="\sqrt{10.3354255600999}" style="vertical-align: middle;height:10pt;"/>, which is the volume of a four-sided pyramid with a base length and height of &pi; (because &pi;^3^/3 = 10.3354255600999).
 
-  *Note: I have also seen[^314] this number as being the neutron g-factor, “a dimensionless quantity that characterizes the magnetic moment and angular momentum of an atom, a particle or nucleus”.  However, the more common number for neutron g-factor is−3.82608545, at least according to National Institute of Standards and Technology (NIST).*  
-
-- We also see that ***γ*** equals <img src="../Images/math/313.svg" alt="\sqrt{10.3354255600999}" style="vertical-align: middle;height:10pt;"/>, which is the volume of a four-sided pyramid with a base length and height of &pi; (because &pi;^3^/3 = 10.3354255600999).
 
 ## The Cornu Spiral
 
@@ -4345,7 +4361,7 @@ The following images were created by plotting each digit of the position of the 
 [^200]: Snehal Shekatkar, **The sum of the r'th roots of first n natural numbers and new formula for factorial**, 2012, arXiv:1204.0877v2 [math.NT], https://arxiv.org/abs/1204.0877v2
 [^201]: Saad-Cook, J., Ross, C., Holt, N., & Turrell, J. (1988). **Touching the Sky: Artworks using Natural Phenomena, Earth, Sky and Connections to Astronomy**. *Leonardo* *21*(2), 123-134. [https://www.muse.jhu.edu/article/600628](https://muse.jhu.edu/article/600628). Charles Ross, the creator, describes: "1972. I had placed this simple lens set-up on the roof so the sun would burn a path across a wooden plank as the day progressed. The idea was to collect a portrait of the weather each day. As the work progressed, I noticed that the burn’s curvature was changing with the seasons. We took photos of the burns and placed them end to end following their curvature to see what a year’s worth looked like. The sum of days generated a double spiral figure. At first, it did not make any sense-this primitive lens set-up was producing a complex spiral shape. A few of the astronomers I showed it to said, "Well, it must be coming from somewhere, but we have no idea what it is". Most of the scientists insisted that there had to be some anomaly in the set-up and that the shape had nothing to do with astronomy -just some weirdness in the lens. In reality, it made no difference at all if the lens faced one way or the other as long as it faced generally toward south. The elements of the spiral are in sunlight itself; it was an archetypal image falling from the sky. I finally contacted Kenneth Franklin at the Hayden Planetarium. He directed me to the Naval Observatory, where LeRoy Doggett, an astronomer with the Nautical Almanac office…". Authors note: This Sun Spiral was pieces together manually from many separate samples, and should not be seen as an accurate representation of the suns paths, but only an approximation.
 [^202]: Nishiyama, Yutaka. "**A Study of Odd- and Even-Number Cultures.**" *Bulletin of Science, Technology & Society* 26, no. 6 (2006): 479-84. doi:10.1177/0270467606295408.
-[^314]: http://watermanpolyhedron.com/130constants.htm
+
 
 
 
