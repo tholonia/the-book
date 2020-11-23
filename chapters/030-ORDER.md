@@ -86,7 +86,7 @@ In practical terms, this theory says that when something exists in the physical 
 
 It is these local and universal laws that cause form to *unfold,* to *explicate* itself, self-organize, form patterns and move in accordance with these laws.  By the same token, these laws will also *enfold* or *implicate* these forms, causing them to return to an unrecognizable state.  The laws of existence are constantly moving chaos to order and order to chaos.
 
-Here is another example that perhaps better displays the idea.  Below are four identical pages of perfectly random dots wherein no pattern or order can be seen. As we merge the pages, the randomness gets denser and denser until a pattern of order emerges. 
+Here is another example that perhaps better displays the idea.  Below are four pages that started out as identical.  To each page was added some random dots, but *within* a narrow region of a circular line, however, none of those dots stood out from the page original random dots and were in no way identifiable as *special* dots. As we merge the pages, the randomness gets denser and denser until a all four pages are perfectly aligned and those extra random dots can easily been seen as a circular line.
 
 <center><img src='../Images/007-hidden-random.png' style='width:100%'/></center>
 

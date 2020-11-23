@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Sun 22 Nov 2020 03:45:02 PM -03 v3.6.42'
+status: 'Updated: Sun 22 Nov 2020 06:26:14 PM -03 v3.6.44'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.42
+version:  3.6.44
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.42'
+pagetitle: 'THOLONIA 3.6.44'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -4313,7 +4313,21 @@ In one way, it is like the cross-summed numbers are similar to photons in that i
 
 It seems useful to say something more about cross-summed numbers.
 
-Cross-summing two unrelated numbers like a carnival numerologist will generate seemingly meaningless data, at least with respect to the quantitative significance of that data, but it will have plenty of information about how each number relates to the others, regardless of the source of the data, as long as that source is not perfectly random.
+Cross-summing two unrelated numbers like a carnival numerologist will generate seemingly meaningless data, at least with respect to the quantitative significance of that data, but it will have plenty of information about how each number relates to the others, regardless of the source of the data.  Even with perfectly random numbers, as cross-sum that is divisible by 3 means the entire number is divisible by 3, and if divisible by 9 then than entire number is divisible by 9.  We all know that if the last digit of a number is 2, then that number is divisible by 2, but it is also true if the cross-sum of the last 2 digits of a number equals 4, then that number is divisible by 4. Testing for divisible by 8 uses cross-sums, but is a bit more complicated.  You join the 2 leftmost numbers and multiply by 2, then add the rightmost number, for example, if a number ends in 464, such as 7464, then 2&times;(**46**)+**4**=96=12&times;8.  Now we know that 7464 is also a multiple of 8, which is the case; 8&times;933=7464.  10 is obvious, but 11 is very interesting.  
+
+If we have the number 5025669, to test for divisibility by 11 we reverse the number, giving us 9665205.  We then do a *alternating* cross-sum like so:  9-6+6-5+2-0+5=11, so 5025669 is divisible by 11 (5025669&div;11=456879).  This is interesting because 11 cross-sums to 2, as as the number of places user to test for divisibility of powers of 2 act as the exponent of 2 (2^0^=1, 2^1^=2, 2^2^=4, 2^3^=8), we can form a relationship between binary expansion and oscillations (-+-+-+-+-+).
+
+Divisibility by 7 is also interesting because it is uses recursive cross-sums.  let’s test 371.  We take the rightmost digit and multiply it by 2, then subtract that vale from the remaining digits:
+
+37 − (2×1) = 35
+
+The we do that again on the answer:
+
+3 − (2 × 5) = −7; 
+
+In all these examples, the cross-summing told us something about the *quality* of the number (what it’s divisible by), regardless of the *quantity* of the number.  Cross-summing is a form os qualitative math.
+
+If we have patterns of non-random number, we can use cross-summing to learn of some quality of that pattern.
 
 For example, if we create a list of number that increases by 8, as in 8, 16, 24, 32, 40, 48, 56, 64, 72, etc., and then cross-sum them, as follows:
 

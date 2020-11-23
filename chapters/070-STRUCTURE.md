@@ -542,11 +542,13 @@ In the earlier version of this book, at this point we drilled deeper in the geom
 
 ## Archetypes
 
-This is a good place to review the concept of archetypes.  The current understanding of an archetype is defined in the Oxford English Dictionary as:
+This is a good place to review the concept of archetypes.  To review, the current understanding of an archetype is defined in the Oxford English Dictionary as:
 
-> The most typical or perfect example of a particular kind of person or thing
+> The most typical or perfect example of a particular kind of person or thing.
 
-When we speak of archetypes in the context of tholons we are using a more general, yet compatible definition that an archetype is **a pattern that expressions diverge from and/or converge towards**. 
+When we speak of archetypes in the context of tholons we are using a more general, yet compatible definition that an archetype is:
+
+> A pattern that expressions diverge from and/or converge towards.
 
 The one last point to consider is best explained in the following thought exercise: Imagine what you would see if you were a 2D person living in a 2D world and a 3D object passed through your 2D reality.  You would see a bunch of 2D slices of that object that changed over time.
 
@@ -1076,7 +1078,7 @@ In its most reduced form, we really only have three concepts (also shown in imag
 - **All that *could* be**.  The is the domain of **belief**, as is limited to the possibilities that can exist in a given scope and context.
 - **All that actually is.**  This is the domain of **understanding**, and is defined by what actually exists, not theoretical, hypothetical, possible, etc., but that, and only that which actually exists, meaning that which has managed to form a stable pattern that can instantiate itself  in the context and scope of its environment. This is Stockdale’s “*facts of your current reality*”.
 
-<img src="../Images/faith-tholo.png" style="width:100%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  
+<img src="../Images/faith-tholo.png" style="width:100%"/><img src="../Images/youknow.png" style="float:right;width:35%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  One of my personal favorite examples of this concept is illustrated in (slightly altered) well-known concepts (right). 
 
 While *faith* is the beginning of the path, the spectrum of creation exists between *all that is possible*, and *all that is*, or between *belief* and *understanding*.  Not surprisingly, as we can see in the image (right) above, not only is *faith* where the path begins, but where it leads to as well.  Tholonically speaking, *faith* is the only path, and all the stuff that *could be* or *is* are side effects, instances, or consequences of traveling that path, making *all that is* ultimately an instance of *faith*.   Faith in *what* is a question left for the reader to answer.
 
