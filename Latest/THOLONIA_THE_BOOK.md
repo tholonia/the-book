@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Sun 22 Nov 2020 06:26:14 PM -03 v3.6.44'
+status: 'Updated: Sun 22 Nov 2020 11:08:36 PM -03 v3.6.49'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.44
+version:  3.6.49
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.44'
+pagetitle: 'THOLONIA 3.6.49'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -48,7 +48,7 @@ The reason this book is open-sourced is to allow other’s insights to be integr
 
 **On a more mundane note…**
 
-Please read the Appendix A, “About This Book”, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find distracting.
+Please read the Appendix A, “About This Book”,  to understand why it uses an unconventional style of punctuation and spacing.  Also, ***especially*** if you are reading this on a eBook reader, as it addresses some technical issues that the reader may find distracting.
 
 
 
@@ -85,7 +85,7 @@ How “big” was this nothingness? Is there a limit to nothingness? If there is
 
 Zero is a concept we will return to many times, so let's lay some foundation first. Zero was first recorded in Mesopotamia around 3 B.C., followed by its appearance in Mayan Mesoamerica circa 4 A.D., India in the 5^th^ century, Cambodia in the 7^th^ century, and China and the Islamic countries in the 8^th^ century.  The concept of zero didn’t reach Western Europe until the 12^th^ century, and even then, was not fully accepted as a legitimate number concept for hundreds of years.
 
-One of the conceptual challenges of zero is that *0^0^ = 1*.  In addition, this single number represents the antithesis of all other numbers.  The other conceptual problem is that zero can also represent the sum of all numbers! See for yourself.  Just start adding all numbers together and don’t stop until you get to infinity&hellip; *(1+(-1))+(2+(-2))+(3+(-3))+...=0+0+0+...= 0)*.  I am not being hyperbolic here in any way, as this is an ongoing debate in both mathematics and philosophy, and many will claim that, in fact, *0=&infin;*.  In a way, this is an senseless statement because 0 is a number but &infin; is a concept, so they can't ever be equal.  However, 0 is both a concept *and* a number.  Of course, all numbers are concepts, but 0 is really (at least) two concepts in one; it represents the concept of a value or placeholder, as in "I have 0 dollars" or how it can transform 10 into 100 simply by existing, but 0, and only 0, also happens to be the *concept of nothing*.  This later concept is the one that took almost 2000 years to be accepted. So, when we say 0=&infin;, we are really saying that the sum of &infin; balances out to 0.  When we say 0=<img src="../Images/math/353.svg" style="height:14pt"/>, mathematically what we *really* are saying is that when we reach &infin; its inverse will be 0, which we can only approach and never actually reach.  When we are speaking conceptually, it's simply stating "the opposite of everything is nothing".  
+One of the conceptual challenges of zero is that *0^0^ = 1*.  In addition, this single number represents the antithesis of all other numbers.  The other conceptual problem is that zero can also represent the sum of all numbers! See for yourself.  Just start adding all numbers together and don’t stop until you get to infinity&hellip; *(1+(-1))+(2+(-2))+(3+(-3))+...=0+0+0+...= 0)*.  I am not being hyperbolic here in any way, as this is an ongoing debate in both mathematics and philosophy, and many will claim that, in fact, *0=&infin;*.  In a way, this is an senseless statement because 0 is a number but &infin; is a concept, so they can't ever be equal.  However, 0 is both a concept *and* a number.  Think of zero as have a *quantitative* value of 0, and a *qualitative* value of *nothingness*. Of course, all numbers are concepts, but 0 is really (at least) two concepts in one; it represents the concept of a value or placeholder, as in "I have 0 dollars" or how it can transform 10 into 100 simply by existing, but 0, and only 0, also happens to be the *concept of nothing*.  This later concept is the one that took almost 2000 years to be accepted. So, when we say 0=&infin;, we are really saying that the sum of &infin; balances out to 0.  When we say 0=<img src="../Images/math/353.svg" style="height:14pt"/>, mathematically what we *really* are saying is that when we reach &infin; its inverse will be 0, which we can only approach and never actually reach.  When we are speaking conceptually, it's simply stating "the opposite of everything is nothing".  
 
 It was Newton's contemplation of <img src="../Images/math/359.svg" style="height:18pt"/>that lead to his invention of calculus, and while we are taught that equations with 0 or &infin; are problematic and best to stay away from, calculus can prove that <img src="../Images/math/360.svg" style="height:20pt"/> all equal <img src="../Images/math/361.svg" style="height:18pt"/> which actually equals <img src="../Images/math/362.svg" style="height:18pt"/>.  Not only can 0 = &infin;, it can equal any number.  In math, this is called an *indeterminate* answer, meaning it has no single, fixed value that can be determined.  This is why <img src="../Images/math/361.svg" style="height:18pt"/> can equal any number, hence, <img src="../Images/math/361.svg" style="height:18pt"/> = &infin; is a true statement, but not the *only* true statement (in contrast, <img src="../Images/math/363.svg" style="height:18pt"/>has no possible valid value, hence, it is called *undefined*).  Additionally, using the *Riemann Rearrangement Series*, we can prove that &infin;-&infin; can equal &pi;, 123, 67.1829, or literally any number we want!  This is achieved by simply changing the order of how we add or subtract an infinite number of values.  This is important to keep in mind because we typically think 1+2 = 2+1, but when dealing with an infinite amount of numbers, *order* is what defines the answer.
 
@@ -127,6 +127,8 @@ Perhaps the most useful definition of chaos comes from the authors of “*Introd
 
 #### **Claim 3:** Chaos as a measure of order.
 
+
+
 Oddly, none of these definitions of chaos even begin to touch on its most important significance, and that is that chaos is the unknowable wild-card variable of unpredictability that exists across the entire spectrum of existence.  It is chaos that prevents the laws of creation from churning out identical copies of creation.  Chaos is what makes the future unknowable, and without chaos the difference between the past and the future would be slight.  Chaos is not the same as randomness.  Chaos is *deterministic*, meaning it adheres to rules, and has a pattern, but the effects over time makes it impossible to predict.  Randomness is *non-deterministic*, meaning it has no pattern or predictability.  Reality is born in chaos, not randomness.  At least that is the premise we start from because chaos can be explained as a product of randomness, but randomness can't be explained as a product of chaos.  There is possibly one exception to this which we will consider much later in this book.
 
 <hr>
@@ -148,7 +150,9 @@ Where the primal energy came from that created our universe is still, and will p
 
 For our purpose, at least at this moment, the details of these theories or stories don’t matter.  What does matter is the general idea that once energy was introduced into the chaos of the void, something happened.  That “something” was some sort of movement, as that is the undebatable nature of energy; it’s always moving.  This energy moved in accordance with certain laws.  We call these laws the Laws of Physics and the Laws of Nature.
 
-The question then becomes, did these laws exist before creation? Did they exist in the chaotic primal void of nothingness? Well, the reasonable answer is yes&hellip; and no.  “No”, they did not exist in the primal void because these laws only apply where time and space exist, neither of which existed prior to the introduction of energy.  “Yes”, in that these laws must have existed “in theory” &hellip; e.g.  the relation of a circle’s circumference to its radius existed as the constant *pi* (&pi;), or the relationship between a circle and a square is an infinite regression, but as there were no circles or squares it was not measurable&hellip; there was no *instance* of *pi* (&pi;), but there was, for lack of a better word, an archetype of those relationships.
+The question then becomes, did these laws exist before creation? Did they exist in the chaotic primal void of nothingness? Well, the reasonable answer is yes&hellip; and no.  “No”, they did not exist in the primal void because these laws only apply where time and space exist, neither of which existed prior to the introduction of energy.  “Yes”, in that these laws must have existed “in theory” &hellip; e.g.  the relation of a circle’s circumference to its radius existed as the constant *pi* (&pi;), or the relationship between a circle and a square is an infinite regression, but as there were no circles or squares it was not measurable&hellip; there was no *instance* of *pi* (&pi;), but there was, for lack of a better word, an *archetype* of those relationships.  In this context, we are using the traditional and current definition of the word as per the Oxford English Dictionary:
+
+> The most typical or perfect example of a particular kind of person or thing
 
 The only place where the potential for anything to exist, including concepts, ideas, or archetypes, is in a place where anything *can* exist; a place where somethingness coexists with nothingness.  0 (which may also equal &infin;) can exist, and &infin; (which may also equal 0) can exist, but unless they commingle there will never be numbers.  When they do mix numbers appear, and with them, laws.  “But!” you may be thinking, “If archetypes can only exist in a duality, and there was not yet a duality before the Big Bang, how could the archetypes have existed?”  That is a very good question, because it would almost appear as though the nothingness from which our duality was formed within must itself have existed within another duality wherein existed these unmanifest archetypes.  This implies that the nothingness from which our existence sprang from was not actually nothingness in it truest sense, but rather a “sea” of uninstantiated possibilities, not unlike the quantum idea that there are an infinite number of “waves”, or *wave functions*, representing an number of potential instances, but until one of those waves *collapses* into form, there is no “thing”.
 
@@ -168,7 +172,7 @@ The laws of a form and the form itself are not separate things; they are the sam
 
 How do we know that the laws were not derived from the form, rather than the form being derived from the law? This is addressed in more depth further on, but the evidence is that the same laws exist across many forms.  One specific archetype, like that of a cube or a sphere, can have many instances, but a cube or a square cannot have many archetypes.  This puts the laws of form “higher” in the unfolding process of its creation, as the law must exist before the formation or instantiation of the law.  This is additionally supported by the idea that the laws themselves are an expression of energy, the ordering force behind all existence, and therefore a prerequisite to form, be it archetypal or material.
 
-#### **Claim 4:** Levels of order begin with energy, which has laws regarding how it interacts with itself, which form archetypes, which have material instances.
+#### **Claim 4:** Levels of order begin with energy, which has laws regarding how it interacts with itself, which form patterns (archetypes), which create things (have material instances).
 
 You may be asking “OK, but what if Plato and the gang were wrong?”, but this is not a relevant question because that question assumes that we have access to, or can even grasp, the “ultimate truth”, if one even exists.  Our theories of reality are predictive models based on our understanding and abilities that are valid for the reality we are able to observe.
 
@@ -178,7 +182,7 @@ So, even if Plato is “wrong”, which at some level, at some point, in some re
 
 Although today we tend to think of Plato’s *Theory of Ideas* as an abstraction, Plato was quite clear that this realm was as real as the realm we exist in every day, the difference being, in the material realm we can never know the true form or idea due to the limitations of material reality.   In Plato’s *Allegory of the Cave,* he describes this reality as limited due to the fact that it is no more than a mere shadow and echo of the true reality (of ideas).  
 
-#### **Claim 6:** Theories and ideas are an archetype in their own right, but like forms, they have their own archetypes.
+#### **Claim 6:** Theories and ideas *are* an archetype in their own right, but like forms, they also *have* their own archetypes.
 
 #### **Claim 7:** Every thing that exists is an instance of an archetype.  Archetypes of form and the laws of those archetypes are the same things.  What we call archetypes of form are the results of these laws.  What we see in our reality are the instantiations of those archetypes.
 
@@ -276,7 +280,7 @@ In practical terms, this theory says that when something exists in the physical 
 
 It is these local and universal laws that cause form to *unfold,* to *explicate* itself, self-organize, form patterns and move in accordance with these laws.  By the same token, these laws will also *enfold* or *implicate* these forms, causing them to return to an unrecognizable state.  The laws of existence are constantly moving chaos to order and order to chaos.
 
-Here is another example that perhaps better displays the idea.  Below are four identical pages of perfectly random dots wherein no pattern or order can be seen. As we merge the pages, the randomness gets denser and denser until a pattern of order emerges. 
+Here is another example that perhaps better displays the idea.  Below are four pages that started out as identical.  To each page was added some random dots, but *within* a narrow region of a circular line, however, none of those dots stood out from the page original random dots and were in no way identifiable as *special* dots. As we merge the pages, the randomness gets denser and denser until a all four pages are perfectly aligned and those extra random dots can easily been seen as a circular line.
 
 <center><img src='../Images/007-hidden-random.png' style='width:100%'/></center>
 
@@ -1830,11 +1834,13 @@ In the earlier version of this book, at this point we drilled deeper in the geom
 
 ## Archetypes
 
-This is a good place to review the concept of archetypes.  The current understanding of an archetype is defined in the Oxford English Dictionary as:
+This is a good place to review the concept of archetypes.  To review, the current understanding of an archetype is defined in the Oxford English Dictionary as:
 
-> The most typical or perfect example of a particular kind of person or thing
+> The most typical or perfect example of a particular kind of person or thing.
 
-When we speak of archetypes in the context of tholons we are using a more general, yet compatible definition that an archetype is **a pattern that expressions diverge from and/or converge towards**. 
+When we speak of archetypes in the context of tholons we are using a more general, yet compatible definition that an archetype is:
+
+> A pattern that expressions diverge from and/or converge towards.
 
 The one last point to consider is best explained in the following thought exercise: Imagine what you would see if you were a 2D person living in a 2D world and a 3D object passed through your 2D reality.  You would see a bunch of 2D slices of that object that changed over time.
 
@@ -2364,7 +2370,7 @@ In its most reduced form, we really only have three concepts (also shown in imag
 - **All that *could* be**.  The is the domain of **belief**, as is limited to the possibilities that can exist in a given scope and context.
 - **All that actually is.**  This is the domain of **understanding**, and is defined by what actually exists, not theoretical, hypothetical, possible, etc., but that, and only that which actually exists, meaning that which has managed to form a stable pattern that can instantiate itself  in the context and scope of its environment. This is Stockdale’s “*facts of your current reality*”.
 
-<img src="../Images/faith-tholo.png" style="width:100%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  
+<img src="../Images/faith-tholo.png" style="width:100%"/><img src="../Images/youknow.png" style="float:right;width:35%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  One of my personal favorite examples of this concept is illustrated in (slightly altered) well-known concepts (right). 
 
 While *faith* is the beginning of the path, the spectrum of creation exists between *all that is possible*, and *all that is*, or between *belief* and *understanding*.  Not surprisingly, as we can see in the image (right) above, not only is *faith* where the path begins, but where it leads to as well.  Tholonically speaking, *faith* is the only path, and all the stuff that *could be* or *is* are side effects, instances, or consequences of traveling that path, making *all that is* ultimately an instance of *faith*.   Faith in *what* is a question left for the reader to answer.
 

@@ -183,7 +183,17 @@ What if we test this magic number of 0.414 on the number 3? Would be get somethi
 
 This is fantastically elegant in so many ways, and the recurring principle seems to be the Silver Ratio, which is based in 2.  
 
-We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0
+For simplicity, let’s assign *0.414* to a variable **Λ**, *upper case lambda*.
+
+We could also then look for the qualities of *creativity* within the original *source* with 1&div;**Λ**, which shows us that **Λ** is the inverse of *Silver Ratio*, or *2.414*.   It also shows us a number of other interesting relationship especially when we map these values to the tholon.  IN the image below-right, green lines represent *division*, and red lines represent *multiplication*, in accordance with how we mapped Newton’s 2^nd^ Law to the tholon.
+
+
+
+<center><img src="../Images/lambda-tri-1.png" style="width:100%"/></center>
+
+We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
+
+This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *quantitative* value in that it appears to have no significance as a value in the physical.  It does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to only be of significance within the tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 
 ## Fibonacci Tholon
 

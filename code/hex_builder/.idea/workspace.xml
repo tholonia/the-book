@@ -20,14 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Images/titlepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/titlepage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chapters/000-Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/000-Intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/030-ORDER.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/030-ORDER.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/040-THE_LAWS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/040-THE_LAWS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/9999.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/9999.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" afterDir="false" />
@@ -756,28 +754,32 @@
       <screen x="0" y="1080" width="1920" height="1080" />
     </state>
     <state x="279" y="1198" width="440" height="486" key="FileChooserDialogImpl/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600528964361" />
-    <state width="1413" height="220" key="GridCell.Tab.0.bottom" timestamp="1605582977383">
-      <screen x="1" y="1080" width="1920" height="1080" />
+    <state width="1413" height="220" key="GridCell.Tab.0.bottom" timestamp="1606147414875">
+      <screen x="1" y="0" width="1920" height="1080" />
     </state>
     <state width="1523" height="249" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
+    <state width="1413" height="220" key="GridCell.Tab.0.bottom/0.1080.1920.1080/1.0.1920.1080@1.0.1920.1080" timestamp="1606147414875" />
     <state width="1413" height="220" key="GridCell.Tab.0.bottom/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605580940593" />
     <state width="1413" height="220" key="GridCell.Tab.0.bottom/1.1080.1920.1080/0.0.1920.1080@1.1080.1920.1080" timestamp="1605582977383" />
-    <state width="1413" height="220" key="GridCell.Tab.0.center" timestamp="1605582977382">
-      <screen x="1" y="1080" width="1920" height="1080" />
+    <state width="1413" height="220" key="GridCell.Tab.0.center" timestamp="1606147414875">
+      <screen x="1" y="0" width="1920" height="1080" />
     </state>
     <state width="1523" height="249" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
+    <state width="1413" height="220" key="GridCell.Tab.0.center/0.1080.1920.1080/1.0.1920.1080@1.0.1920.1080" timestamp="1606147414875" />
     <state width="1413" height="220" key="GridCell.Tab.0.center/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605580940592" />
     <state width="1413" height="220" key="GridCell.Tab.0.center/1.1080.1920.1080/0.0.1920.1080@1.1080.1920.1080" timestamp="1605582977382" />
-    <state width="1413" height="220" key="GridCell.Tab.0.left" timestamp="1605582977381">
-      <screen x="1" y="1080" width="1920" height="1080" />
+    <state width="1413" height="220" key="GridCell.Tab.0.left" timestamp="1606147414875">
+      <screen x="1" y="0" width="1920" height="1080" />
     </state>
     <state width="1523" height="249" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618497" />
+    <state width="1413" height="220" key="GridCell.Tab.0.left/0.1080.1920.1080/1.0.1920.1080@1.0.1920.1080" timestamp="1606147414875" />
     <state width="1413" height="220" key="GridCell.Tab.0.left/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605580940592" />
     <state width="1413" height="220" key="GridCell.Tab.0.left/1.1080.1920.1080/0.0.1920.1080@1.1080.1920.1080" timestamp="1605582977381" />
-    <state width="1413" height="220" key="GridCell.Tab.0.right" timestamp="1605582977383">
-      <screen x="1" y="1080" width="1920" height="1080" />
+    <state width="1413" height="220" key="GridCell.Tab.0.right" timestamp="1606147414875">
+      <screen x="1" y="0" width="1920" height="1080" />
     </state>
     <state width="1523" height="249" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1599101618498" />
+    <state width="1413" height="220" key="GridCell.Tab.0.right/0.1080.1920.1080/1.0.1920.1080@1.0.1920.1080" timestamp="1606147414875" />
     <state width="1413" height="220" key="GridCell.Tab.0.right/1.1080.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1605580940592" />
     <state width="1413" height="220" key="GridCell.Tab.0.right/1.1080.1920.1080/0.0.1920.1080@1.1080.1920.1080" timestamp="1605582977383" />
     <state x="390" y="1280" key="SettingsEditor" timestamp="1605912915928">
