@@ -193,11 +193,17 @@ We could also then look for the qualities of *creativity* within the original *s
 
 We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
 
-This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that cal fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
+This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
 
 <center><img src="../Images/tvoids.png" style="width:50%"/></center>
 
-**Λ** appears to have any real significance as a *quantitative* value in the physical sciences as it does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
+Another interesting point about 0.414 is that if we calculate the *axis of symmetry* between the values 1, 2, and 3, using the standard quadratic equation of *ax^2^+bx+c=0*, we get the two values of <img src="../Images/math/378.svg" style="vertical-align: middle;height:7pt;"/> and <img src="../Images/math/379.svg" style="vertical-align: middle;height:7pt;"/>, or <img src="../Images/math/380.svg" style="vertical-align: middle;height:10pt;"/> and  <img src="../Images/math/381.svg" style="vertical-align: middle;height:10pt;"/>.  Notice how these two results match the two values in the above tetrahedron where **1** connects to **&Lambda;**, the difference being the addition of ***i***.
+
+Just to show how these same patterns keep appearing, the *axis of symmetry* for the values in the tetrahedron above 1, √2, and 2, is: 
+
+<img src="../Images/math/377.svg" style="vertical-align: middle;height:120pt;"/>
+
+**Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 
 ## Fibonacci Tholon
 
@@ -205,7 +211,7 @@ The Fibonacci formula and its resulting sequence and ratio is especially tholoni
 
 The normal Fibonacci formula is *Fn=Fn-1+Fn-2*, where *Fn* is a value in the sequence of the Fibonacci sequence.  So, is we start with the first two values of *F~0~=0* and *F~1~=1*, then *F~2~=F~2-1~+F~2-2~*, or *F~2~=F~1~+F~0~*, which is *1=1+0*.  Repeating this generates the Fibonacci sequence of 0, 1, 1, 2, 3, 5, 8, 13 ,2 1, 34, 55, 89, 144, 233, etc…
 
-If we lay out these formulas to expose the pattern of the formula, as shown in the lower left images, we see that each statement is composed of 3 numbers that not only have a very clear pattern but are easily mapped to the tholonic trigram.  Why it is a tholonic trigram? Because it begins with 0, the N-state, and the two children are opposite each other, +&phi; and -&phi;, and when added together equal the parent, 0.  We show this by performing the same math in the upper left image, but subtracting instead of adding.  More relevant is how when we start with the same 0 and 1, but alternate the subtracting and adding of the same Fibonacci sequence, as we would, given how the tholons alternate with each generation and iteration, we get the image on the right.  Here, we start with the 0, but the two children alternate between -1 and +1.  However, only the red, *Contributing* element represents an impossible function, divide by 0.  From the tholonic view, given that 0 represents not only the 0-dimensional point of awareness and intention, but the source and totality of all reality, then clearly, nothing that exists, conceptually or otherwise,  can be divided by it.  The closest we can come to this concept is something divided by infinity, which then equals 0, and therefore equals the source and totality of existence.  
+If we lay out these formulas to expose the pattern of the formula, as shown in the lower left images, we see that each statement is composed of 3 numbers that not only have a very clear pattern but are easily mapped to the tholonic trigram.  Why it is a tholonic trigram? Because it begins with 0, the N-state, and the two children are opposite each other, +&Phi; and -&Phi;, and when added together equal the parent, 0.  We show this by performing the same math in the upper left image, but subtracting instead of adding.  More relevant is how when we start with the same 0 and 1, but alternate the subtracting and adding of the same Fibonacci sequence, as we would, given how the tholons alternate with each generation and iteration, we get the image on the right.  Here, we start with the 0, but the two children alternate between -1 and +1.  However, only the red, *Contributing* element represents an impossible function, divide by 0.  From the tholonic view, given that 0 represents not only the 0-dimensional point of awareness and intention, but the source and totality of all reality, then clearly, nothing that exists, conceptually or otherwise,  can be divided by it.  The closest we can come to this concept is something divided by infinity, which then equals 0, and therefore equals the source and totality of existence.  
 
 <center><img src="../Images/phitri.png" style="width:100%"/></center>
 
@@ -221,9 +227,9 @@ Before we can begin calculating the sequence, we needs two values in order to ca
 
 <center><img src='../Images/fib-parts.png' style='width:50%'/></center>
 
-The number 1 can be replaced with any number or fraction, and while it will produce a very different sequence, it will still produce the ratio of &phi;.  1 is just the simplest representation of *something*, and given that anything other than 0, or *nothing*, is *something*, we can say that &phi; represents the relationship between *nothing* and *everything* (or *any something*).
+The number 1 can be replaced with any number or fraction, and while it will produce a very different sequence, it will still produce the ratio of &Phi;.  1 is just the simplest representation of *something*, and given that anything other than 0, or *nothing*, is *something*, we can say that &Phi; represents the relationship between *nothing* and *everything* (or *any something*).
 
-&phi; also represents the relationship between all things as well, because no matter what number we begin with, the ratio remains &phi;.
+&Phi; also represents the relationship between all things as well, because no matter what number we begin with, the ratio remains &Phi;.
 
 This is this is the pattern that resolves the two poles of 0 and 1, which exists within the limits of 1 and 2:
 

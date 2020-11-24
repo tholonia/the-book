@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Mon 23 Nov 2020 06:01:48 PM -03 v3.6.53'
+status: 'Updated: Tue 24 Nov 2020 01:49:50 PM -03 v3.6.60'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.53
+version:  3.6.60
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.53'
+pagetitle: 'THOLONIA 3.6.60'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -412,7 +412,7 @@ By the same token, everything that we can see, hear and touch can be described a
 
 ## Ohm’s Law
 
-Ratios like *e*, &phi; and &pi; are at the foundation of many patterns that define reality, and while any two instances of these ratios may not have a direct connection, they do share the fact that they are a product of that ratio.  We don’t say a basketball is the same as a planet, but we do say they are both round, and anything we can say about roundness applies to both.  This may sound childishly simple, but when this is applied to the 2nd Law of Thermodynamics and, for example Ohm’s  Law (which will be explained shortly), we see some fascinating patterns and relationships.
+Ratios like *e*, &Phi; and &pi; are at the foundation of many patterns that define reality, and while any two instances of these ratios may not have a direct connection, they do share the fact that they are a product of that ratio.  We don’t say a basketball is the same as a planet, but we do say they are both round, and anything we can say about roundness applies to both.  This may sound childishly simple, but when this is applied to the 2nd Law of Thermodynamics and, for example Ohm’s  Law (which will be explained shortly), we see some fascinating patterns and relationships.
 
 Dismissive physicists and engineers will say that these relationships and patterns are meaningless.  They are partially correct in the same way elephants have nothing to do with turtles, even though both evolved from the same ancestor, but understanding the biology of turtles will still help one in understanding the biology of an elephant, or any other living creature.  The 2nd Law of Thermodynamics is a pattern that works on linear systems, and Ohm’s law is one instance of that pattern in the context of conductive materials.  We can apply that pattern to different contexts to see how such a pattern might instantiate under different conditions.  It may be that there are few or even no instances of that pattern for a context, or it may be that we have yet to see how that pattern instantiates, but this does not invalidate the comparison.  In the case of Ohm’s  Law, its math is perfectly applicable well outside of conductive systems that are still linear, such as *gas laws* and *fluid flow*, but our exploration will take us far beyond these accepted frontiers. 
 
@@ -4014,7 +4014,11 @@ We could also then look for the qualities of *creativity* within the original *s
 
 We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
 
-This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the “formula” of *creative = created - creator*.   As well, **Λ** appears to have no significance as a *quantitative* value in the physical sciences as it does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to only be of significance within the tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
+This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that cal fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
+
+<center><img src="../Images/tvoids.png" style="width:50%"/></center>
+
+**Λ** appears to have any real significance as a *quantitative* value in the physical sciences as it does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 
 ## Fibonacci Tholon
 
@@ -4022,7 +4026,7 @@ The Fibonacci formula and its resulting sequence and ratio is especially tholoni
 
 The normal Fibonacci formula is *Fn=Fn-1+Fn-2*, where *Fn* is a value in the sequence of the Fibonacci sequence.  So, is we start with the first two values of *F~0~=0* and *F~1~=1*, then *F~2~=F~2-1~+F~2-2~*, or *F~2~=F~1~+F~0~*, which is *1=1+0*.  Repeating this generates the Fibonacci sequence of 0, 1, 1, 2, 3, 5, 8, 13 ,2 1, 34, 55, 89, 144, 233, etc…
 
-If we lay out these formulas to expose the pattern of the formula, as shown in the lower left images, we see that each statement is composed of 3 numbers that not only have a very clear pattern but are easily mapped to the tholonic trigram.  Why it is a tholonic trigram? Because it begins with 0, the N-state, and the two children are opposite each other, +&phi; and -&phi;, and when added together equal the parent, 0.  We show this by performing the same math in the upper left image, but subtracting instead of adding.  More relevant is how when we start with the same 0 and 1, but alternate the subtracting and adding of the same Fibonacci sequence, as we would, given how the tholons alternate with each generation and iteration, we get the image on the right.  Here, we start with the 0, but the two children alternate between -1 and +1.  However, only the red, *Contributing* element represents an impossible function, divide by 0.  From the tholonic view, given that 0 represents not only the 0-dimensional point of awareness and intention, but the source and totality of all reality, then clearly, nothing that exists, conceptually or otherwise,  can be divided by it.  The closest we can come to this concept is something divided by infinity, which then equals 0, and therefore equals the source and totality of existence.  
+If we lay out these formulas to expose the pattern of the formula, as shown in the lower left images, we see that each statement is composed of 3 numbers that not only have a very clear pattern but are easily mapped to the tholonic trigram.  Why it is a tholonic trigram? Because it begins with 0, the N-state, and the two children are opposite each other, +&Phi; and -&Phi;, and when added together equal the parent, 0.  We show this by performing the same math in the upper left image, but subtracting instead of adding.  More relevant is how when we start with the same 0 and 1, but alternate the subtracting and adding of the same Fibonacci sequence, as we would, given how the tholons alternate with each generation and iteration, we get the image on the right.  Here, we start with the 0, but the two children alternate between -1 and +1.  However, only the red, *Contributing* element represents an impossible function, divide by 0.  From the tholonic view, given that 0 represents not only the 0-dimensional point of awareness and intention, but the source and totality of all reality, then clearly, nothing that exists, conceptually or otherwise,  can be divided by it.  The closest we can come to this concept is something divided by infinity, which then equals 0, and therefore equals the source and totality of existence.  
 
 <center><img src="../Images/phitri.png" style="width:100%"/></center>
 
@@ -4038,9 +4042,9 @@ Before we can begin calculating the sequence, we needs two values in order to ca
 
 <center><img src='../Images/fib-parts.png' style='width:50%'/></center>
 
-The number 1 can be replaced with any number or fraction, and while it will produce a very different sequence, it will still produce the ratio of &phi;.  1 is just the simplest representation of *something*, and given that anything other than 0, or *nothing*, is *something*, we can say that &phi; represents the relationship between *nothing* and *everything* (or *any something*).
+The number 1 can be replaced with any number or fraction, and while it will produce a very different sequence, it will still produce the ratio of &Phi;.  1 is just the simplest representation of *something*, and given that anything other than 0, or *nothing*, is *something*, we can say that &Phi; represents the relationship between *nothing* and *everything* (or *any something*).
 
-&phi; also represents the relationship between all things as well, because no matter what number we begin with, the ratio remains &phi;.
+&Phi; also represents the relationship between all things as well, because no matter what number we begin with, the ratio remains &Phi;.
 
 This is this is the pattern that resolves the two poles of 0 and 1, which exists within the limits of 1 and 2:
 
