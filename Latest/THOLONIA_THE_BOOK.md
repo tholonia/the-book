@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Sun 22 Nov 2020 11:08:36 PM -03 v3.6.49'
+status: 'Updated: Mon 23 Nov 2020 06:01:48 PM -03 v3.6.53'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.49
+version:  3.6.53
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.49'
+pagetitle: 'THOLONIA 3.6.53'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -4004,7 +4004,17 @@ What if we test this magic number of 0.414 on the number 3? Would be get somethi
 
 This is fantastically elegant in so many ways, and the recurring principle seems to be the Silver Ratio, which is based in 2.  
 
-We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0
+For simplicity, let’s assign *0.414* to a variable **Λ**, *upper case lambda*.
+
+We could also then look for the qualities of *creativity* within the original *source* with 1&div;**Λ**, which shows us that **Λ** is the inverse of *Silver Ratio*, or *2.414*.   It also shows us a number of other interesting relationship especially when we map these values to the tholon.  IN the image below-right, green lines represent *division*, and red lines represent *multiplication*, in accordance with how we mapped Newton’s 2^nd^ Law to the tholon.
+
+
+
+<center><img src="../Images/lambda-tri-1.png" style="width:100%"/></center>
+
+We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
+
+This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the “formula” of *creative = created - creator*.   As well, **Λ** appears to have no significance as a *quantitative* value in the physical sciences as it does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to only be of significance within the tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 
 ## Fibonacci Tholon
 

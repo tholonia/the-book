@@ -193,7 +193,11 @@ We could also then look for the qualities of *creativity* within the original *s
 
 We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
 
-This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *quantitative* value in that it appears to have no significance as a value in the physical.  It does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to only be of significance within the tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
+This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that cal fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
+
+<center><img src="../Images/tvoids.png" style="width:50%"/></center>
+
+**Λ** appears to have any real significance as a *quantitative* value in the physical sciences as it does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 
 ## Fibonacci Tholon
 
