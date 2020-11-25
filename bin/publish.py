@@ -1,7 +1,7 @@
 #!/usr/sbin/python
 
 '''
-the CSS files to edit are 
+the CSS files to edit are
 
 ../Styles/common_book_dev.css.less
 ../Styles/common_book_prod.css.less
@@ -229,8 +229,10 @@ def pub_prep():
     print("PUBLISHING PREP\n-----------------------------------------\n")
     cx = f'''\
     rm -rf {HOME}/tmp >{H}/log 2>&1 #empty tmp fir used to make zip
-    find {H}/{L} -type l -exec rm {lb}{rb} {bs};  #remove all linked versions
+    rm  {H}/{L}/*   #remove all in Latest
 '''
+#    find {H}/{L} -type l -exec rm {lb}{rb} {bs};  #remove all linked versions
+
     print(cx)
     res = os.system(cx)
     print(res)
@@ -241,11 +243,8 @@ def pub_pdf():
     #    {H}/bin/DELIMG.sh {H}/chapters/THOLONIA_THE_BOOK.pdf
     print("PUBLISHING PDF\n-----------------------------------------\n")
     cx = f'''\
-    cp {H}/Latest/THOLONIA_THE_BOOK.pdf {H}/archive/THOLONIA_THE_BOOK-{timestamp}.pdf
     cp {H}/chapters/THOLONIA_THE_BOOK.pdf {H}/Latest
-
     cp {H}/{L}/THOLONIA_THE_BOOK.pdf {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.pdf
-
     '''
     print(cx)
     res = os.system(cx)
@@ -256,9 +255,7 @@ def pub_epub():
     print("PUBLISHING EPUB\n-----------------------------------------\n")
     cx = f'''\
     cp {H}/chapters/THOLONIA_THE_BOOK.epub {H}/Latest
-
     cp {H}/{L}/THOLONIA_THE_BOOK.epub {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.epub
-
     '''
     print(cx)
     res = os.system(cx)
@@ -269,9 +266,7 @@ def pub_md():
     vernum = get_version()
     print("PUBLISHING MD\n-----------------------------------------\n")
     cx = f'''\
-    cp {H}/Latest/THOLONIA_THE_BOOK.md {H}/archive/THOLONIA_THE_BOOK-{timestamp}.md
     cp {H}/chapters/THOLONIA_THE_BOOK.md {H}/Latest
-    
     cp {H}/{L}/THOLONIA_THE_BOOK.md {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.md
     '''
     print(cx)
@@ -283,10 +278,8 @@ def pub_html():
     print("PUBLISHING HTML\n-----------------------------------------\n")
     vernum = get_version()
     cx = f'''\
-    cp {H}/Latest/THOLONIA_THE_BOOK.html {H}/archive/THOLONIA_THE_BOOK-{timestamp}.html
     cp {H}/chapters/__temp.html {H}/Latest/THOLONIA_THE_BOOK.html
     mv {H}/chapters/__temp.html {H}/chapters/THOLONIA_THE_BOOK.html
-    
     cp {H}/{L}/THOLONIA_THE_BOOK.html {H}/{L}/THOLONIA_THE_BOOK_v{vernum}.html
     '''
     print(cx)
@@ -298,7 +291,6 @@ def pub_zip():
     print("MAKE/PUBLISHING ZIP\n-----------------------------------------\n")
     vernum = get_version()
     cx = f'''\
-    cp {H}/Latest/THOLONIA_THE_BOOK.html.zip {H}/archive/THOLONIA_THE_BOOK-{timestamp}.html.zip
 
     rm -rf {HOME}/tmp
     mkdir -p {HOME}/tmp/Images
@@ -306,7 +298,7 @@ def pub_zip():
     cp {H}/Images/*.png {HOME}/tmp/Images
     cd {HOME}/tmp
     perl -pi -e 's/...Images/Images/gmi' {HOME}/tmp/THOLONIA_THE_BOOK.html
-    zip --quiet -r THOLONIA_THE_BOOK.html.zip * 
+    zip --quiet -r THOLONIA_THE_BOOK.html.zip *
     cp {HOME}/tmp/THOLONIA_THE_BOOK.html.zip {H}/{L}
     cd {H}
 
@@ -369,11 +361,12 @@ rebuildmd()  # make new complete MD file
 # os.system(f"cp {H}/chapters/100.md  {H}/chapters/THOLONIA_THE_BOOK.md")
 
 #
+
+pub_prep()
 md2html("THOLONIA_THE_BOOK")
 html2pdf("THOLONIA_THE_BOOK")
 md2epub("THOLONIA_THE_BOOK")
 
-pub_prep()
 pub_epub()
 pub_pdf()
 pub_md()

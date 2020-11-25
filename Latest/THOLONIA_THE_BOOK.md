@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Wed 25 Nov 2020 03:53:48 PM -03 v3.6.74'
+status: 'Updated: Wed 25 Nov 2020 04:01:48 PM -03 v3.6.75'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.74
+version:  3.6.75
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.74'
+pagetitle: 'THOLONIA 3.6.75'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -75,7 +75,7 @@ Another term for *chaos* comes from cosmology, and that is the *primal void.*
 
 Modern cosmology’s Big Bang theory is quite compatible with this idea that before there was anything, there was nothing but a primal void, a term often used by scientists themselves.  The primal void is a descriptive synonym for at least one state of chaos.
 
-The primal void has also been called the *gap between heaven and earth*, the *abyss*, *absolute-limitless nothing*, *ex nihilo*, *primordial waters*, and a number of other terms all trying to convey the idea of a vast nothingness, a concept that may well be impossible for the mind to grasp.  This nothingness also includes (or rather, excludes) the concept of time, as there can be no time in a void of nothingness, at least according to Stephen Hawking.[^3]
+The primal void has also been called the *gap between heaven and Earth., the *abyss*, *absolute-limitless nothing*, *ex nihilo*, *primordial waters*, and a number of other terms all trying to convey the idea of a vast nothingness, a concept that may well be impossible for the mind to grasp.  This nothingness also includes (or rather, excludes) the concept of time, as there can be no time in a void of nothingness, at least according to Stephen Hawking.[^3]
 
 Everyone from scientists to mystics seem to agree that before there was something, there was nothing, and then, presto, somethingness appeared in the nothingness.
 
@@ -3916,7 +3916,7 @@ Plato elaborated on this in his “Republic”:
 
 The above has been interpreted to mean 6^3^, which Plato alludes to elsewhere, as 6 (considered the number of marriage back then) is the product of female (2) and male (3), and 2^3^ &times; 3^3^ = 216.  While 216 is the most accepted answer, great thinkers spanning over 2,000 years, such as Aristotle, Proclus, Marsilio Ficino, Gerolamo Cardano, Eduard Zeller, Friedrich Schleiermacher, Paul Tannery, Friedrich Hultsch, and more, have all tried to decipher Plato’s enigmatic text.  216’s fame may even go back as far as Pythagoras, as it is the sum of cubes of the *Pythagorean triple* (3,4,5, hence 3^3^ + 4^3^ + 5^3^), or even Ancient Babylon.[^203]
 
-Later in history, this pedigree number fell slightly into infamy when John the Apostle declared in Revelations that 666 was the number of the Beast (the beast that comes out of the sea, not the one that comes out of the abyss of the earth), but also the number of man.  216 might have escaped scot free if John had not specifically said that the number 666 was to be *calculated* (or *counted* depending on translation) to learn its true number.
+Later in history, this pedigree number fell slightly into infamy when John the Apostle declared in Revelations that 666 was the number of the Beast (the beast that comes out of the sea, not the one that comes out of the abyss of the Earth., but also the number of man.  216 might have escaped scot free if John had not specifically said that the number 666 was to be *calculated* (or *counted* depending on translation) to learn its true number.
 
 > Here is a call for wisdom: Let the one who has insight calculate the number of the beast, for it is the number of a man *(ed: or “humanities number”)*, and that number is 666 .  **\~John, Revelations 13:18 (NIV)**
 
@@ -4101,9 +4101,9 @@ According to Greek mythology, the world began with several primordial beings who
 
 *(The following is a slightly modified transcript reprinted with permission from “The Life Guide” YouTube channel (*[*https://www.youtube.com/c/TheLifeGuide*](https://www.youtube.com/c/TheLifeGuide)*), entitled “Greek Gods Explained In 12 Minutes”.)*
 
-First came **Chaos**. Then **Gaia**, earth. And finally, **Eros**, love. From **Gaia** then came **Uranus**, heaven, who together created the **Titans**.
+First came **Chaos**. Then **Gaia**, Earth. And finally, **Eros**, love. From **Gaia** then came **Uranus**, heaven, who together created the **Titans**.
 
-**Uranus** disliked his children and locked them deep within the earth. **Gaia**, sick of having her children imprisoned, made a great sickle that she gave to her son **Cronus**. **Cronus** hid until Uranus came to lie with his mother, then leaped out and sliced off his father’s genitals, which fell into the sea. **Cronus** proceeded to release his fellow **Titans** from prison, and thus the age of the **Titans** began.
+**Uranus** disliked his children and locked them deep within the Earth. **Gaia**, sick of having her children imprisoned, made a great sickle that she gave to her son **Cronus**. **Cronus** hid until Uranus came to lie with his mother, then leaped out and sliced off his father’s genitals, which fell into the sea. **Cronus** proceeded to release his fellow **Titans** from prison, and thus the age of the **Titans** began.
 
 **Cronus** married the **Titan** **Rhea**, who gave birth to most of the major gods. **Cronus**, scared by a prophecy that his children would take his power, imprisoned them as soon as they were born, swallowing them whole. **Rhea** pleaded to **Gaia** for help, who took pity and hid **Zeus** after he was born on Mount Ida in Crete. When **Cronus** came to eat his son, **Rhea** fed him a stone instead, tricking the **Titan**.
 
@@ -4115,7 +4115,7 @@ The **Titans**, defeated, were thrown into **Tartarus**, a prison deep within th
 
 **Zeus** was also infamous for his many affairs with other goddesses from which **Athena**, **Hermes**, **Apollo**, **Artemis**, and **Persephone** came. He also engaged in many affairs with mortal women, where he created the god **Dionysus** and many heroes like **Perseus** and **Hercules**, most of whom experienced the wrath of the jealous **Hera**.
 
-**Poseidon**, one of the most powerful gods, ruled the sea, created earthquakes, and was the god of horses, much prized in ancient society. He had a palace on Mount Olympus, but an even more magnificent one under the sea where he spent most of his time. Sailors would have to pray to **Poseidon** and offer sufficient sacrifice, otherwise risking a painful death at sea. It was very unwise to cross **Poseidon** as he held a grudge and could deal out very harsh punishments.
+**Poseidon**, one of the most powerful gods, ruled the sea, created Earth.uakes, and was the god of horses, much prized in ancient society. He had a palace on Mount Olympus, but an even more magnificent one under the sea where he spent most of his time. Sailors would have to pray to **Poseidon** and offer sufficient sacrifice, otherwise risking a painful death at sea. It was very unwise to cross **Poseidon** as he held a grudge and could deal out very harsh punishments.
 
 In the story of **Theseus** and the **Minotaur**, **King Minos** rules over the island Crete. Every year he sacrificed his best bull to **Poseidon**. One year, he withheld his favorite bull, a huge white animal. **Poseidon** noticed, but instead of punishing **Minos** directly, he decided to target his wife. He made her fall in love with the bull, which eventually led to the birth of the half-man half-bull creature called the **Minotaur**.
 
@@ -4129,7 +4129,7 @@ A famous tale of her jealous vengeance is the story of **Hercules**. **Hercules*
 
 **Athena**, goddess of wisdom and war, the child of **Zeus** and **Metis**, was not born in a conventional way. **Zeus** received an omen that their children would take the throne from him and so swallowed **Metis** while she was pregnant. After this, **Zeus** began to get a terrible headache. He asked a fellow immortal, thought to be **Hephaestus**, to split his head open with an ax. **Athena** was then born from his forehead, jumping out in full battle gear while letting out a war cry.
 
-**Athena** had an affinity for heroics, coming to the aid of heroes like **Perseus** and **Hercules**. Her favorite was **Odysseus**, who she worked hard to keep safe so he could return to his homeland. **Athena** was highly revered in Athens, which was named after her. She competed with **Poseidon** for the city, both of whom attempted to give it the best gift. **Poseidon** struck the ground with his trident, making a stream of water rise up. **Athena** kicked the earth and caused the first olive tree to emerge. The gods deemed **Athena** victorious, and the city took her name. **Athena** was also one of the sacred virgin goddesses, and so in her honor, the temple built on the Acropolis in Athens was named the **Parthenon**, which comes from **Parthenos**, meaning “the virgin”.
+**Athena** had an affinity for heroics, coming to the aid of heroes like **Perseus** and **Hercules**. Her favorite was **Odysseus**, who she worked hard to keep safe so he could return to his homeland. **Athena** was highly revered in Athens, which was named after her. She competed with **Poseidon** for the city, both of whom attempted to give it the best gift. **Poseidon** struck the ground with his trident, making a stream of water rise up. **Athena** kicked the Earth.and caused the first olive tree to emerge. The gods deemed **Athena** victorious, and the city took her name. **Athena** was also one of the sacred virgin goddesses, and so in her honor, the temple built on the Acropolis in Athens was named the **Parthenon**, which comes from **Parthenos**, meaning “the virgin”.
 
 **Ares** was the bloodthirsty and cruel god of war. Neither god nor mortal particularly liked **Ares**. The warfare he represents is not honorable nor heroic, but rather the primal rage and bloodshed of the battlefield. **Ares** had a relationship with the goddess **Aphrodite** who was married to the god **Hephaestus**. The two would sleep together whenever her husband was away. When **Hephaestus** found out, he made an invisible net and hung it over his bed and told his wife he was going away. He hid, and as soon as **Ares** and **Aphrodite** got into bed together, they were trapped in the net and unable to move. **Hephaestus** called upon all the gods, inviting them to see the two naked immortals trapped in the net. Laughter burst out everywhere, and it was only due to the intervention of **Poseidon** that they were released.
 
