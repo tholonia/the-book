@@ -115,6 +115,8 @@ In chapter 4: Laws, we showed how <img src="../Images/math/301.svg" alt="\frac1-
 
 In other words, the sum of 1 divided by all odd numbers (which is &infin;) minus the sum of 1 divided by all even numbers (which is &infin;) equals the natural Log of 2.
 
+We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “*An Unexpected Pattern*”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
+
 <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> is also the basis of the less famous ratio called the Silver Ratio, which is similar to the Golden Ratio. Both of these, and more, are members of what is called the *Metallic Ratios*; gold, silver, bronze, copper, etc.  While the Golden Ratio’s mean is between 1 and 2 (1.618), the Silver Ratio’s mean is between 2 and 3 (2.414), the Bronze Ratio between 3 and 4, and so on.  Here are the first three of the Metallic Ratios:
 
 <center><img src='../Images/ratios.png' style='width:80%'/></center>
@@ -191,7 +193,11 @@ We could also then look for the qualities of *creativity* within the original *s
 
 <center><img src="../Images/lambda-tri-1.png" style="width:100%"/></center>
 
-We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
+The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern , because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, but here we see how it relates to &pi;: 
+
+<img src="/home/jw/books/tholonia/Images/math/382.svg" style="vertical-align: middle;height:24pt;"/>
+
+Even so, if we multiply all the vales of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, *P&times;R*=1, and *V&div;I* = 2.828, the two values that represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is a order that is similar, but not exactly the same, as Newton's 2nd.
 
 This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
 
@@ -201,7 +207,7 @@ Another interesting point about 0.414 is that if we calculate the *axis of symme
 
 Just to show how these same patterns keep appearing, the *axis of symmetry* for the values in the tetrahedron above 1, √2, and 2, is: 
 
-<img src="../Images/math/377.svg" style="vertical-align: middle;height:120pt;"/>
+<img src="../Images/math/377.svg" style="vertical-align: middle;height:140pt;"/>
 
 **Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 

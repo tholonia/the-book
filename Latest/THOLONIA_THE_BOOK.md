@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Tue 24 Nov 2020 01:49:50 PM -03 v3.6.60'
+status: 'Updated: Tue 24 Nov 2020 05:27:32 PM -03 v3.6.65'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.60
+version:  3.6.65
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.60'
+pagetitle: 'THOLONIA 3.6.65'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -4014,11 +4014,17 @@ We could also then look for the qualities of *creativity* within the original *s
 
 We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
 
-This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that cal fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
+This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
 
 <center><img src="../Images/tvoids.png" style="width:50%"/></center>
 
-**Λ** appears to have any real significance as a *quantitative* value in the physical sciences as it does not appear in any constants, and while it is the inverse of the Silver Ratio, it itself does not appear to be a ratio that we see in the world.  **Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
+Another interesting point about 0.414 is that if we calculate the *axis of symmetry* between the values 1, 2, and 3, using the standard quadratic equation of *ax^2^+bx+c=0*, we get the two values of <img src="../Images/math/378.svg" style="vertical-align: middle;height:7pt;"/> and <img src="../Images/math/379.svg" style="vertical-align: middle;height:7pt;"/>, or <img src="../Images/math/380.svg" style="vertical-align: middle;height:10pt;"/> and  <img src="../Images/math/381.svg" style="vertical-align: middle;height:10pt;"/>.  Notice how these two results match the two values in the above tetrahedron where **1** connects to **&Lambda;**, the difference being the addition of ***i***.
+
+Just to show how these same patterns keep appearing, the *axis of symmetry* for the values in the tetrahedron above 1, √2, and 2, is: 
+
+<img src="../Images/math/377.svg" style="vertical-align: middle;height:120pt;"/>
+
+**Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 
 ## Fibonacci Tholon
 
