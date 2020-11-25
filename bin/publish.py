@@ -1,5 +1,14 @@
 #!/usr/sbin/python
 
+'''
+the CSS files to edit are 
+
+../Styles/common_book_dev.css.less
+../Styles/common_book_prod.css.less
+'''
+
+
+
 import publish_lib as pl
 import os
 import sys

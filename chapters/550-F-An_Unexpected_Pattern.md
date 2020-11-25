@@ -154,7 +154,7 @@ So, by saying the following…
 - The Cornu Spiral describes the diffraction pattern.
 - The RZF describes a Cornu spiral.
 - The RZF is a normalized version of the the Zipf Function.
-- The light of the sun hitting earth creates a Cornu-ish spiral over the course of a year.
+- The light of the sun hitting Earth creates a Cornu-ish spiral over the course of a year.
 
 … we can relate our mystery pattern to quite a few other patterns, including Newton’s 2^nd^, but the most dominant have to do with the nature of light.
 

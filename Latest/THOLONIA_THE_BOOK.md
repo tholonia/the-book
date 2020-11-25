@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Tue 24 Nov 2020 05:27:32 PM -03 v3.6.65'
+status: 'Updated: Tue 24 Nov 2020 11:59:18 PM -03 v3.6.67'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.65
+version:  3.6.67
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.65'
+pagetitle: 'THOLONIA 3.6.67'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -3936,6 +3936,8 @@ In chapter 4: Laws, we showed how <img src="../Images/math/301.svg" alt="\frac1-
 
 In other words, the sum of 1 divided by all odd numbers (which is &infin;) minus the sum of 1 divided by all even numbers (which is &infin;) equals the natural Log of 2.
 
+We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “*An Unexpected Pattern*”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
+
 <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> is also the basis of the less famous ratio called the Silver Ratio, which is similar to the Golden Ratio. Both of these, and more, are members of what is called the *Metallic Ratios*; gold, silver, bronze, copper, etc.  While the Golden Ratio’s mean is between 1 and 2 (1.618), the Silver Ratio’s mean is between 2 and 3 (2.414), the Bronze Ratio between 3 and 4, and so on.  Here are the first three of the Metallic Ratios:
 
 <center><img src='../Images/ratios.png' style='width:80%'/></center>
@@ -4012,7 +4014,11 @@ We could also then look for the qualities of *creativity* within the original *s
 
 <center><img src="../Images/lambda-tri-1.png" style="width:100%"/></center>
 
-We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “An Unexpected Pattern”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
+The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern , because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, but here we see how it relates to &pi;: 
+
+<img src="/home/jw/books/tholonia/Images/math/382.svg" style="vertical-align: middle;height:24pt;"/>
+
+Even so, if we multiply all the vales of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, *P&times;R*=1, and *V&div;I* = 2.828, the two values that represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is a order that is similar, but not exactly the same, as Newton's 2nd.
 
 This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
 
@@ -4022,7 +4028,7 @@ Another interesting point about 0.414 is that if we calculate the *axis of symme
 
 Just to show how these same patterns keep appearing, the *axis of symmetry* for the values in the tetrahedron above 1, √2, and 2, is: 
 
-<img src="../Images/math/377.svg" style="vertical-align: middle;height:120pt;"/>
+<img src="../Images/math/377.svg" style="vertical-align: middle;height:140pt;"/>
 
 **Λ** seems to be of quite significance within the tetrahedral and tholonic relationships.  This is similar in the way cross-summed values (See Appendix F, “*An Unexpected Pattern*”) show relationships between numbers. 
 

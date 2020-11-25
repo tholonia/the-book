@@ -192,7 +192,7 @@ We can calculate the *eV* value from the wavelength using a simple formula <img 
 
 <center><img src='../Images/rays-universe.png' style='width:100%'/></center>
 
-Energy waves, such as infrared, visible light, and ultraviolet, are fundamental to life exactly because of the manner in which they can transfer energy that is most efficient for the more complex instances of creation.  This is probably because life evolved on a planet that was exposed to those frequencies by the sun.  Any form of life, as we know it, is damaged by higher forms of radiation, such as X-rays and gamma rays, so unless some form of life unknown to us has managed to evolve in high-energy gamma-ray or low-energy microwave environments, we can guess that life in our corner of the Universe will exist in generally the same spectrum that life on planet earth exists.  It makes perfect sense that the most likely spectrum of energy that can produce life is the spectrum that life actually exists in.  The tholonic view, however, is that life is the result of all the preceding patterns that have proven to be the most sustainable, thereby making life itself the most probable result of the Universe&hellip; so far. 
+Energy waves, such as infrared, visible light, and ultraviolet, are fundamental to life exactly because of the manner in which they can transfer energy that is most efficient for the more complex instances of creation.  This is probably because life evolved on a planet that was exposed to those frequencies by the sun.  Any form of life, as we know it, is damaged by higher forms of radiation, such as X-rays and gamma rays, so unless some form of life unknown to us has managed to evolve in high-energy gamma-ray or low-energy microwave environments, we can guess that life in our corner of the Universe will exist in generally the same spectrum that life on planet Earth exists.  It makes perfect sense that the most likely spectrum of energy that can produce life is the spectrum that life actually exists in.  The tholonic view, however, is that life is the result of all the preceding patterns that have proven to be the most sustainable, thereby making life itself the most probable result of the Universe&hellip; so far. 
 
 I know hard-core scientists will balk at the idea that life should be the standard by which we measure anything, but this would be the case if the Universe was itself intelligent, which we address later.  
 
@@ -296,7 +296,7 @@ There are many matching patterns between cells and the universe, and it is a sub
 -   Mitochondria vs. stars.
 -   Vacuoles vs. galaxies.
 -   Nuclear holes vs. asteroids.
--   Vesicles vs. the earth itself.
+-   Vesicles vs. Earth itself.
 -   Lysosomes vs. dark energy.
 -   Endoplasmic Reticulum vs. wormholes.
 -   Cell membrane vs. edge of the universe.

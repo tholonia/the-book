@@ -193,11 +193,11 @@ We could also then look for the qualities of *creativity* within the original *s
 
 <center><img src="../Images/lambda-tri-1.png" style="width:100%"/></center>
 
-The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern , because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, but here we see how it relates to &pi;: 
+The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern, because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, and in one case (<img src="/home/jw/books/tholonia/Images/math/383.svg" style="vertical-align: middle;height:8pt;"/>) we see how it relates to &pi;: 
 
 <img src="/home/jw/books/tholonia/Images/math/382.svg" style="vertical-align: middle;height:24pt;"/>
 
-Even so, if we multiply all the vales of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, *P&times;R*=1, and *V&div;I* = 2.828, the two values that represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is a order that is similar, but not exactly the same, as Newton's 2nd.
+Additionally, if we multiply all the values of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, the formula for *volts* produces <img src="/home/jw/books/tholonia/Images/math/307.svg" style="vertical-align: middle;height:14pt;"/>=1, and the formula for *resistance* produces <img src="/home/jw/books/tholonia/Images/math/384.svg" style="vertical-align: middle;height:14pt;"/>= 2.828.  These two values represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is a order that is similar, but not exactly the same, as Newton's 2nd.
 
 This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
 

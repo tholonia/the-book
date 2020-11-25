@@ -166,7 +166,7 @@ Perhaps what we call some forms of telepathy or ESP are simply quite natural con
 
 #### **Claim 56:** Transcendental or extrasensory forms of communication exist.
 
-Telepathy or otherwise, it’s a safe bet to say that some form of transcendental or extrasensory form of communication exists, and this might be a way to access tholonic data.  It’s the specifics of it that seem to be elusive.  Proving such a thing is similar to asking me to prove that Australia exists.  I know many people from Australia, I can find Australia on a map, I know of Australian politics and history, but all of that is anecdotal as I have never been to Australia and if you asked me to prove Australia’s existence by the strictest scientific standards, I could not do without actually going to Australia.  All I could say is I have a lot of evidence from trustworthy sources, as opposed to, say, proving that the earth is not flat even though I have never filmed earth from space. 
+Telepathy or otherwise, it’s a safe bet to say that some form of transcendental or extrasensory form of communication exists, and this might be a way to access tholonic data.  It’s the specifics of it that seem to be elusive.  Proving such a thing is similar to asking me to prove that Australia exists.  I know many people from Australia, I can find Australia on a map, I know of Australian politics and history, but all of that is anecdotal as I have never been to Australia and if you asked me to prove Australia’s existence by the strictest scientific standards, I could not do without actually going to Australia.  All I could say is I have a lot of evidence from trustworthy sources, as opposed to, say, proving that Earth is not flat even though I have never filmed Earth from space. 
 
 Dawkins suggests that memes are the non-genetic manner in which information is passed on.  He also strongly disagrees with Sheldrake’s morphic field hypothesis.  Unfortunately for Dawkins, memes cannot explain test results that morphic fields can.  To add insult to injury, morphic field theory not only has room for memes but can explain one way that memes can spread, so, Sheldrake: 1, Dawkins: 0.
 
@@ -271,7 +271,7 @@ Let’s  look at another one of Newton’s formulas that describes the gravitati
 
 - ***gvolts (h) is equivalent to volts:*** With the above 3 values we are left with the correlation of the gravitational equivalent to *volts*. We are calling them *gvolts*, for lack of a better term.  This is determined by <img src="../Images/math/371.svg"  style="vertical-align: middle;height:20pt;"/>, or <img src="../Images/math/174.svg" alt="h=\frac{g}{S}}" style="vertical-align: middle;height:14pt;"/>
 
-We can confirm these correlations by plugging in actual values for gravity calculations into all 12 formulas of Newton’s 2^nd^, and in every case the values are correct.  In our case, we calculated the force of gravitational attraction between the earth and a 70-kg person standing at sea level, which is 686 newtons (in case anyone wants to test it themselves): 
+We can confirm these correlations by plugging in actual values for gravity calculations into all 12 formulas of Newton’s 2^nd^, and in every case the values are correct.  In our case, we calculated the force of gravitational attraction between Earth and a 70-kg person standing at sea level, which is 686 newtons (in case anyone wants to test it themselves): 
 
 <img src="../Images/math/370.svg" alt="F=\frac{P}{I^{2}}}" style="vertical-align: middle;height:24pt;"/>
 
