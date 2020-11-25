@@ -4,35 +4,6 @@ import array as arr
 limit_fr = 0
 limit_to = 100
 
-OLD_chapters_prod = [
-    '00-Intro',
-    '01-CHAOS',
-    '02-ENERGY',
-    '03-ORDER',
-    '04-THE_LAWS',
-    '05-REASON',
-    '06-INFORMATION',
-    '07-STRUCTURE',
-    '08-MIND',
-    '09-FIELDS',
-    '10-RELEVANT_EXAMPLES',
-    '11-PREDETERMINISM',
-#    '12-THE_NEW_MYTHOLOGY',                    removed
-    '13-PART-II',
-    '14-WAY_OF_CHANGE',
-    '19-APPENDIX',
-    '20-How_to_Make_Structured_Water',
-    '21-Tholonic_Math',
-    '22-An_Unexpected_Pattern',
-#    '23-New_Data',				combined
-#    '24-Meaning_of_Squares_and_Square_Roots',  combined
-    '25-Greek_Gods',	
-    '26-Hidden_Images',
-    '27-The_Tholonic_I-Ching',
-    '28-About_This_Book'
-]
-# '40-References'
-
 
 chapters_prod = [
     '000-Intro',
@@ -43,12 +14,13 @@ chapters_prod = [
     '050-REASON',
     '060-INFORMATION',
     '070-STRUCTURE',
-    '080-MIND',
-    '090-FIELDS',
-    '100-APPLICATION_OF_AWARENESS',
-    '110-PREDETERMINISM',
-    '120-PART-II',
-    '130-WAY_OF_CHANGE',
+    '080-INSTANCES',
+    '090-MIND',
+    '100-FIELDS',
+    '110-APPLICATION_OF_AWARENESS',
+    '120-PREDETERMINISM',
+    '130-PART-II',
+    '140-WAY_OF_CHANGE',
     '500-APPENDIX',
     '510-A-About_This_Book',
     '515-B-The_Thologram',
@@ -114,4 +86,3 @@ def delpage():
     cmd = f"{pre} {pages} {final}"
     print(cmd)
     os.system(cmd)
-

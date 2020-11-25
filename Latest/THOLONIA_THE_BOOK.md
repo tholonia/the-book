@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Tue 24 Nov 2020 11:59:18 PM -03 v3.6.67'
+status: 'Updated: Wed 25 Nov 2020 03:53:48 PM -03 v3.6.74'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.67
+version:  3.6.74
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.67'
+pagetitle: 'THOLONIA 3.6.74'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -254,7 +254,7 @@ A good visual example of the results of a universal law, perhaps the first unive
 
 <img src='../Images/CMB.png' style='float:right;width:50%'/>Even though there are many, many more classes of laws, for this writing we are only going to use these two general scopes of laws, the *local* and the *universal*, because no matter what laws may exist, they will fall into one of these two scopes (or children of these scopes).
 
-Local laws may be local, but they can affect everything that is built upon them.  Everything is made of atoms, and atoms are the size they are because of *Planck’s constant*, which is the relationship between the mass and the frequency of the particles that make up an atom.  If that constant were to change, the entire universe would be radically different, if it even existed at all.  If Planck’s constant was to increase by only 2.5%, the size of the earth, it's spin, gravity, and the density of the atmosphere would all increase.  If it was 2.5% less, the earth would shrink by 20%, its rotation would increase, gravity would lesson, and much of the atmosphere would disappear.  If Planck's constant changed from 6.2618&times;10^-34^ to 6.2618&times;10^-20^, the radius of an atom would go from being microscopically small to being to 100 times the distance to the nearest star!
+Local laws may be local, but they can affect everything that is built upon them.  Everything is made of atoms, and atoms are the size they are because of *Planck’s constant*, which is the relationship between the mass and the frequency of the particles that make up an atom.  If that constant were to change, the entire universe would be radically different, if it even existed at all.  If Planck’s constant was to increase by only 2.5%, the size of Earth, it's spin, gravity, and the density of the atmosphere would all increase.  If it was 2.5% less, Earth would shrink by 20%, its rotation would increase, gravity would lesson, and much of the atmosphere would disappear.  If Planck's constant changed from 6.2618&times;10^-34^ to 6.2618&times;10^-20^, the radius of an atom would go from being microscopically small to being to 100 times the distance to the nearest star!
 
 On a more realistic level, consider a bridge made of bricks.  If the laws that bind molecules together change such that they have a lesser negative charge, then the bridge would melt on a warm day.  The (relatively) *universal* Newtonian laws did not change, only the *local* laws changed on the particle level.  
 
@@ -490,7 +490,7 @@ We can calculate the *eV* value from the wavelength using a simple formula <img 
 
 <center><img src='../Images/rays-universe.png' style='width:100%'/></center>
 
-Energy waves, such as infrared, visible light, and ultraviolet, are fundamental to life exactly because of the manner in which they can transfer energy that is most efficient for the more complex instances of creation.  This is probably because life evolved on a planet that was exposed to those frequencies by the sun.  Any form of life, as we know it, is damaged by higher forms of radiation, such as X-rays and gamma rays, so unless some form of life unknown to us has managed to evolve in high-energy gamma-ray or low-energy microwave environments, we can guess that life in our corner of the Universe will exist in generally the same spectrum that life on planet earth exists.  It makes perfect sense that the most likely spectrum of energy that can produce life is the spectrum that life actually exists in.  The tholonic view, however, is that life is the result of all the preceding patterns that have proven to be the most sustainable, thereby making life itself the most probable result of the Universe&hellip; so far. 
+Energy waves, such as infrared, visible light, and ultraviolet, are fundamental to life exactly because of the manner in which they can transfer energy that is most efficient for the more complex instances of creation.  This is probably because life evolved on a planet that was exposed to those frequencies by the sun.  Any form of life, as we know it, is damaged by higher forms of radiation, such as X-rays and gamma rays, so unless some form of life unknown to us has managed to evolve in high-energy gamma-ray or low-energy microwave environments, we can guess that life in our corner of the Universe will exist in generally the same spectrum that life on planet Earth exists.  It makes perfect sense that the most likely spectrum of energy that can produce life is the spectrum that life actually exists in.  The tholonic view, however, is that life is the result of all the preceding patterns that have proven to be the most sustainable, thereby making life itself the most probable result of the Universe&hellip; so far. 
 
 I know hard-core scientists will balk at the idea that life should be the standard by which we measure anything, but this would be the case if the Universe was itself intelligent, which we address later.  
 
@@ -594,7 +594,7 @@ There are many matching patterns between cells and the universe, and it is a sub
 -   Mitochondria vs. stars.
 -   Vacuoles vs. galaxies.
 -   Nuclear holes vs. asteroids.
--   Vesicles vs. the earth itself.
+-   Vesicles vs. Earth itself.
 -   Lysosomes vs. dark energy.
 -   Endoplasmic Reticulum vs. wormholes.
 -   Cell membrane vs. edge of the universe.
@@ -996,7 +996,7 @@ For example, the human eye sensitivity chart below shows that a particular shade
 
 The oscillations between two states, be they the two states of chaos, or order and disorder, or any two points that are different yet can form an interaction, is the most basic form of energetic expression in all the orders of creation.  This is one area where metaphysics, spirituality, and science all happily converge: everything exists in a duality of some sort, or at least that is how we can describe everything.
 
-Were this duality to no longer exist in a state of imbalance or difference, the cycles of creations would also cease.  How, then, is a stable state of imbalance always maintained? Remember the example of the two lakes, one higher than the other? Once all the water has moved to the lower lake the water just sits there, doing nothing, and that is the end of the cycle unless somehow the water gets moved back into the higher lake.  Nature does this quite effectively by using another imbalance in another system that causes water to evaporate due to heat, heat that was created by the process of clouds of hydrogen atoms joining together (fusion) to create new elements and transmitting that energy to earth via oscillating energy.  These evaporated molecules join together in the sky and eventually fall back to earth and find their way, via entropy, to rivers and lakes, thereby ensuring the cycle of energy-seeking-balance remains operating.  Difference must be maintained for energy to work, and what we call nature is the balancing of countless balancing processes that are themselves the result of balancing processes, etc., all the way down (or up) to the first process of balance/imbalance (which we’ll detail later).
+Were this duality to no longer exist in a state of imbalance or difference, the cycles of creations would also cease.  How, then, is a stable state of imbalance always maintained? Remember the example of the two lakes, one higher than the other? Once all the water has moved to the lower lake the water just sits there, doing nothing, and that is the end of the cycle unless somehow the water gets moved back into the higher lake.  Nature does this quite effectively by using another imbalance in another system that causes water to evaporate due to heat, heat that was created by the process of clouds of hydrogen atoms joining together (fusion) to create new elements and transmitting that energy to Earth via oscillating energy.  These evaporated molecules join together in the sky and eventually fall back to earth and find their way, via entropy, to rivers and lakes, thereby ensuring the cycle of energy-seeking-balance remains operating.  Difference must be maintained for energy to work, and what we call nature is the balancing of countless balancing processes that are themselves the result of balancing processes, etc., all the way down (or up) to the first process of balance/imbalance (which we’ll detail later).
 
 ## Waves
 
@@ -1016,7 +1016,7 @@ Another example might be the interdependent cycles of cohabiting rabbits and coy
 
 ### Not Just a Cycle
 
-It may be that there is more to waves than just a simple periodic cycle, at least in the way it interacts with its environment.  For example, when we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represent incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research[^45] into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude.  Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree.  It’s almost as if the inhabitants of earth unconsciously knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.
+It may be that there is more to waves than just a simple periodic cycle, at least in the way it interacts with its environment.  For example, when we take a wavelength that is the circumference of the world and map it across the equator, we find what seems like an inordinate number of cultural artifacts that represent incredible advances for the time, stretching over 7,000 years.  More then that, there has been a lot of speculation and research[^45] into why the Great Pyramid and Macchupicchu, or the Nazca Lines and Easter Island, fall within this same line (in image below) to within less than one tenth of one degree of latitude.  Some of the other locations, such as Perseopolis, Mohenjo Daro, Petra, Ur, and the temples at Angkor Wat, fall within one degree.  It’s almost as if the inhabitants of Earth unconsciously knew something, and what they knew had something to do with a wavelength the size of the planet they lived on.
 
 <center><img src='../Images/world-sine.png' style='width:100%'/></center>
 
@@ -1026,7 +1026,7 @@ The two most common classes of waves are electromagnetic (subatomic particles) a
 
 Yes, for all you physicists and electrical/mechanical engineers that might be reading this with extreme incredulity, the differences between electromagnetic (EM) and mechanical (M) waves are many.  We would expect energy to express its movement quite differently when operating under the laws of subatomic particles than that of matter, but even so, there will be many analogous parallels between the two.
 
-To put their contexts and scopes in perspective, consider that an electron is 100 million times smaller than an atom, and 20 trillion times smaller than a chromosome, let alone the sizes we are talking about for typical M-wave medium, like things you can hold in your hand.  Compare that to the Milky Way galaxy, which is 167,256,410 times the size of our solar system, and the earth is only 1/38000 the size of that.  The difference between an electron and a beach ball is about the same difference between a beach ball and the entire galaxy.  With that in mind, consider that the ratio of the actual universe compared to the observable universe is equivalent to an atom compared to the observable universe.  It’s easy to imagine how a fundamental law might be expressed differently at these different scales.
+To put their contexts and scopes in perspective, consider that an electron is 100 million times smaller than an atom, and 20 trillion times smaller than a chromosome, let alone the sizes we are talking about for typical M-wave medium, like things you can hold in your hand.  Compare that to the Milky Way galaxy, which is 167,256,410 times the size of our solar system, and Earth is only 1/38000 the size of that.  The difference between an electron and a beach ball is about the same difference between a beach ball and the entire galaxy.  With that in mind, consider that the ratio of the actual universe compared to the observable universe is equivalent to an atom compared to the observable universe.  It’s easy to imagine how a fundamental law might be expressed differently at these different scales.
 
 <center><img src='../Images/025-beachball.png' style='width:100%'/></center>
 
@@ -1240,7 +1240,7 @@ With a few tweaks to the previous *Super-Duper Graph of Reality* Bell curve, mak
 
 Some readers may be thinking “Hey, wait a minute” those aren’t the same axis! What kind of Gaussian goofiness is going on here?” Well, that is partly true.  The first Super-Duper Graph of Reality chart shows the probability (x-axis) of where order (y-axis) will be more likely to emerge across the entire spectrum of existence while this one is limited to the spectrum of human perception.
 
-*Sidenote: This Super-Duper graph is also a bit out of alignment if we consider that the general size of living things on planet earth is pretty much in the middle of the scale between an atom and the size of our sun, which supports the same idea that the most optimum form of expression will exist in the most balanced state between opposing poles if we consider the sun as a major contributing factor in defining the scope of our earthly reality.  As this graph is based on concepts rather then size, we only see a general relationship with size.  Still, given the quark has a size of about 10^-18^m, and a supercluster is around 10^+18^m, our conceptual map is not too far off from the an actual size map.*
+*Sidenote: This Super-Duper graph is also a bit out of alignment if we consider that the general size of living things on planet Earth is pretty much in the middle of the scale between an atom and the size of our sun, which supports the same idea that the most optimum form of expression will exist in the most balanced state between opposing poles if we consider the sun as a major contributing factor in defining the scope of our earthly reality.  As this graph is based on concepts rather then size, we only see a general relationship with size.  Still, given the quark has a size of about 10^-18^m, and a supercluster is around 10^+18^m, our conceptual map is not too far off from the an actual size map.*
 
 If we assume that our perceptions of reality are fairly compatible with reality as it actually exists, then, as probability would have it, we humans happen to be in the part of the spectrum where one would most expect to find life popping up, so, congratulations to us, we’re where we are supposed to be&hellip; probably.
 
@@ -1276,7 +1276,7 @@ This is relevant as is demonstrates how the concept of a meme is incorporated in
 
 The holarchy examples shown above are portrayed as 2-dimensional bifurcating trees, but this model hides a lot of information, for if we zoomed in, we would see that within each holon is a collection of holons that share an idea, purpose, function, etc.  Each holon has its own parameters, laws, context, etc., and each holon, therefore, has its own Bell curve that shows where it is best suited to “work”, such as the Bell curve of the human eye sensitivity, which would be one holon of “human eye”.
 
-These Bell curves of probability are not shown, or even defined, in the holarchic model.  The reason for that is because the holarchic model does not have the explicit concept of a duality, though it implies them.  As a result, the holarchy cannot show how the Bell curve of a holon is made up of the integrated aggregate of the Bell curves of its partons within the context of the holon.  It does show the parameters of the holon are defined by its parent, but the ultimate parent of the holarchy is the Multiverse, which is, in our view, the “bottom” of the hierarchy of reality as we know it as, and the “seed” of of the *tree of reality* begins with the first and smallest particle.  In some way, this is like arguing which is the “correct” way to view the earth, north at the top, or south at the top, but it does play an important role a little later.
+These Bell curves of probability are not shown, or even defined, in the holarchic model.  The reason for that is because the holarchic model does not have the explicit concept of a duality, though it implies them.  As a result, the holarchy cannot show how the Bell curve of a holon is made up of the integrated aggregate of the Bell curves of its partons within the context of the holon.  It does show the parameters of the holon are defined by its parent, but the ultimate parent of the holarchy is the Multiverse, which is, in our view, the “bottom” of the hierarchy of reality as we know it as, and the “seed” of of the *tree of reality* begins with the first and smallest particle.  In some way, this is like arguing which is the “correct” way to view Earth, north at the top, or south at the top, but it does play an important role a little later.
 
 What happens if we incorporate the idea of dualities into the holarchy?  Let’s see, but first let’s look at some important concepts behind *structure*.
 
@@ -1293,7 +1293,7 @@ What happens if we incorporate the idea of dualities into the holarchy?  Let’s
 <div style='page-break-after: always; break-after: always;'></div>
 # 7: STRUCTURE
 
-###### Knowledge and information, like form, has a structure which follows the same rules as form.
+###### Knowledge and information, like form, have structures that follow the same rules as form.
 
 Everything up until now was to introduce some of the main concepts that we will be returning to and depending on as we move forward an into the main ideas that lead from the ultimate simplicity of a duality to more complex structures that describe the reality we actually live in.
 
@@ -1309,13 +1309,13 @@ The location of a thing relates a thing to its environment.  When we say somethi
 
 When we say a nail is two inches long, we are referring to the difference between the position of the head of the nail, and the position of the tip of the nail, for one axis only.  We have no idea what the universally absolute coordinate system is, but we assume it is the same for everything in our reality.
 
-An object actually has many, many dimensions, it’s just that the only ones that matter to us are the three we use, because all the other dimensions remain the same (enough) for all things that are in the same system (planet earth, for example).
+An object actually has many, many dimensions, it’s just that the only ones that matter to us are the three we use, because all the other dimensions remain the same (enough) for all things that are in the same system (planet Earth, for example).
 
 Imagine that the speed of light was 55 miles per hour.  If you were to stand on the side of a highway, all the cars would look extremely squished, like a few millimeters in length, but the car’s mass would also be much larger.  On top of that, time *inside* those cars would be much slower.  Space-time measurements would be very strange if we had to deal with two different space-time contexts.  Because everything we deal with exists in the same space-time context, if I need a part for my car delivered tomorrow that is 1"x2"x3", when I order it I am confident it will be 1"x2"x3" and arrive within 24 hours because I assume that whoever I ordered that part from lives in the same reality and context as me and is not an alien-owned intergalactic warehouse in the 4^th^ dimension traveling close to the speed of light through a worm hole.
 
 The classic explanation of a dimension goes something like *“If something has only one dimension you only need one number to know its exact location”.* In the case of 1-dimension, like in the number line below, if there was a dot on number 6, the dot has a dimension of 6.
 
-<img src='../Images/035-numnberline.png' style='float:right;width:50%'/>This is true when, and only when, the position of the measurer and the thing being measured share the same context, as the value of 6 is only relative to that context.  If we wanted to give the absolute position of the dot, we would need to include the coordinates of where in the universe that dot exists, which would require the coordinates of who-knows-how-many larger contexts it was in when it was measured; where on the planet, in the solar system, in the galaxy, in the multiverse, and all of those with the dimension of time, as they are all moving, and even then it would only be relative to the Universe as we know it.  So, even a simple 1-dimensional dot can have a lot of dimensions when measured from a different context.  Consider that when you realize that in every second of your life you travel at least 627 km/s across various dimensions and scopes if you account for the movement of the earth, sun, Milky Way, etc. 
+<img src='../Images/035-numnberline.png' style='float:right;width:50%'/>This is true when, and only when, the position of the measurer and the thing being measured share the same context, as the value of 6 is only relative to that context.  If we wanted to give the absolute position of the dot, we would need to include the coordinates of where in the universe that dot exists, which would require the coordinates of who-knows-how-many larger contexts it was in when it was measured; where on the planet, in the solar system, in the galaxy, in the multiverse, and all of those with the dimension of time, as they are all moving, and even then it would only be relative to the Universe as we know it.  So, even a simple 1-dimensional dot can have a lot of dimensions when measured from a different context.  Consider that when you realize that in every second of your life you travel at least 627 km/s across various dimensions and scopes if you account for the movement of the Earth, Sun, Milky Way, etc. 
 
 The *instance* of a thing has nothing to do with its environment and only relates to the thing itself, which we describe using 3 dimensions.   
 
@@ -1375,7 +1375,7 @@ As you can see, the whole space-time part of the E8 lattice is just a small part
 
 A significant aspect of *Emergence Theory* (for us) is their claim that:
 
-> “all of reality is made of information.  What is information? Information is meaning conveyed by symbols.  Languages and codes are groups of such symbols that convey meaning.  The various possible arrangements of these symbols are governed by rules.[^55]
+> &hellip;all of reality is made of information.  What is information? Information is meaning conveyed by symbols.  Languages and codes are groups of such symbols that convey meaning.  The various possible arrangements of these symbols are governed by rules.[^55]
 
 Here are a couple of beautiful images of the countless faces of the magic E8 crystal to ponder.[^56]
 
@@ -1828,11 +1828,36 @@ At the most abstract levels, this describes the Big Bang Theory, biological repr
 In the earlier version of this book, at this point we drilled deeper in the geometric reasoning that describes the construction of the self-similar tetrahedron, which is the model of the thologram itself.  This section also described how tholonic properties skip a generation, similar to genetics, its similarities and differences to the Sierpinski triangle and some molecular structures, and explains virtual tholons and why they have to exist.  All of that has been moved to <B>Appendix B, “The Thologram”</B> so as to make the flow of the main part of the book a bit smoother.  However, it is worth a browse, at least, even if you are not interested in the details, as these concepts will be referred to later on.  For those who to not want go there now, here is the image of the final constructed thologram.
     <center><img src="../Images/finaltholo.png" style=width:80%"/></center>
 </div>
+<hr>
+
+[^52]: “**Quantum Gravity Research**”. Quantum Gravity Research, <https://www.quantumgravityresearch.org>.
+[^53]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.
+[^54]: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. <http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf>
+[^55]: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). <http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain>
+[^56]: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! <http://theoryofeverything.org/theToE/tags/e8>
+[^57]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
+[^58]: **Gottfried Wilhelm Leibniz**. (n.d.). <http://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz>**, Leibniz and the I Ching**. (n.d.). <http://www.wikiwand.com/en/Binary_number#/Leibniz_and_the_I_Ching>
+[^59]: **Gottfried Leibniz**. (n.d.). Retrieved from <http://history-computer.com/Dreamers/Leibniz.html>
+[^60]: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from <https://ethology.eu/how-wolves-change-rivers>
+[^61]: Grzegorz Rozenberg and Arto Salomaa. **The mathematical theory of L systems** (Academic Press, New York, 1980). ISBN 0-12-597140-0
+[^62]: In that it applies the syntactic features of natural languages. This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996. This book is also available online. The relevant chapter is http://algorithmicbotany.org/papers/abop/abop-ch1.pdf. This site in general is an excellent resource for algorithms of nature.
+[^63]: Quijada, John. **A Grammar of the Ithkuil Language**. John Quijada, 2011.
+[^64]: Speaks, Jeff. **“Theories of Meaning”**. Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,<https://plato.stanford.edu/entries/meaning>
+[^65]: Example of a “person” as defined by the semantic web: <http://xmlns.com/foaf/spec/#term_Person>
+[^66]: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. <https://www.lod-cloud.net>
+[^67]: Wang, Y., & Kosinski, M. (in press). **“Deep neural networks are more accurate than humans at detecting sexual orientation from facial images”**. Journal of Personality and Social Psychology; Newspaper article on this research: Levin, Sam. **“New AI Can Work out Whether You’re Gay or Straight from a Photograph”.** The Guardian, Guardian News and Media, 7 Sept. 2017, <http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph>
+[^68]: “**Reciprocal Theory**” RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
+[^69]: As a relevant aside, this reversing effect has a material analog called the *Janibekov effect,*(among other names). It is well established in the field of mechanics and is most easily observed in space where there is no gravity. On observing it for the first time one would think the impossible is happening, but in fact, it is a basic law of energy that we rarely get to see here on Earth because of gravity. Imagine an asymmetrical rigid body, like a wing-nut or a or handle, rotating around one of its axis, then suddenly, it flips 180&deg;, and continues to rotate around the same axis, but in a reverse position. After a few moments, it flips again, and continues flipping back and forth indefinitely. It does this because the lowest energy state, which is the state that all matter seeks, requires the maximum amount of inertia, and the maximum amount of inertia will always be where the most mass is. Given that the object is asymmetrical, the amount of mass for each axis will change, causing the object to change position. A quick search for “Janibekov effect” will yield many fascinating videos on this phenomena. This phenomena is worth mentioning because it is a perfect example of how energy operates in form, and, presumably, in the archetypes of form as well, which, at least tholonically, are asymmetrical tholons.
+[^75]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
 
 
 
+<div style='page-break-after: always; break-after: always;'></div>
+# 8: INSTANCES
 
-## Archetypes
+###### Examples of how tholonic archetypes instantiate 
+
+### Archetypes
 
 This is a good place to review the concept of archetypes.  To review, the current understanding of an archetype is defined in the Oxford English Dictionary as:
 
@@ -1870,7 +1895,7 @@ In ***Fig. 1***, the outline of the progression is shown, as well as the outline
 
 
 
-What is interesting about this shape is how it so perfectly describes the archetypal shape of many things, from leaves, fruits, and seeds to number theory, fractals and even the human brain and pineal gland.  The reason this is interesting is because we have described a very simple model that we would expect to see in nature, and because this model can make successful predictions we can say there is a valid hypothesis.  Perhaps this same reasoning is why the ancient Sumerians thought the earth was egg shaped, and not perfectly round, as the Greeks imagined (if fact, earth is an oblate spheroid).
+What is interesting about this shape is how it so perfectly describes the archetypal shape of many things, from leaves, fruits, and seeds to number theory, fractals and even the human brain and pineal gland.  The reason this is interesting is because we have described a very simple model that we would expect to see in nature, and because this model can make successful predictions we can say there is a valid hypothesis.  Perhaps this same reasoning is why the ancient Sumerians thought Earth was egg shaped, and not perfectly round, as the Greeks imagined (if fact, Earth is an oblate spheroid).
 
 Some details worth noting:
 
@@ -1892,7 +1917,7 @@ The archetype of a circle, for example, is the ideal expression of the rule “t
 
 Tholonic instances are easier to understand when we look at isolated archetypes.  It is easy to understand a square block is an expression of a archetypal cube, but what of a melting snowball?  At what point does it stop being an expression of a sphere?  From the tholonic perspective, never.  The snowball came into existence as a result of many tholons (weather, terrain, gravity, etc.) cooperating and competing, exerting forces and limits in such a way that a snowball could form.  The snowball changes form as these tholonic forces change due to waxing or waning circumstances that tend to reinforce some forces and diminish others.  Each of these tholonic forces is an archetype because each tholon *is* an archetype.  As these archetypal forces change, interact, negotiate, compete, the resulting form will always be the most efficient expression of the state of those forces.  In other words, everything that exists is as perfect an expression of its archetypes that is possible, but everything that exists is made up of many, many branches of tholons or archetypes, so what we see is an amalgamation of countless archetypes that have managed to create a stable instance.  
 
-The melted snowball is still an expression of a perfect sphere, but just a very diluted or weak expression given the strength of the other forces that have turned it into a puddle.  One way to think about this is to imagine each archetype as having a field of influence (which they do, as we'll explain later) similar to the way each planet has a gravitational field, or how each electron has a electron field that stretches to the edge of the universe.  Right now you are primarily under the influence of the earth's gravitational field, but you are also under the influence of Jupiter's gravitational field, but it is too weak to have any observable effect.  If you were to move closer to Jupiter, its effect would become more apparent.  Our snowball-turned-puddle is just far away from the “field” of the archetype of a sphere and much closer to the “field” of the archetype of puddle.
+The melted snowball is still an expression of a perfect sphere, but just a very diluted or weak expression given the strength of the other forces that have turned it into a puddle.  One way to think about this is to imagine each archetype as having a field of influence (which they do, as we'll explain later) similar to the way each planet has a gravitational field, or how each electron has a electron field that stretches to the edge of the universe.  Right now you are primarily under the influence of Earth's gravitational field, but you are also under the influence of Jupiter's gravitational field, but it is too weak to have any observable effect.  If you were to move closer to Jupiter, its effect would become more apparent.  Our snowball-turned-puddle is just far away from the “field” of the archetype of a sphere and much closer to the “field” of the archetype of puddle.
 
 Some of these amalgamations of archetypes will become archetypes and parents of archetypes themselves.  Perhaps the only pure, unamalgamated archetypes that exist are the concepts of *something* and *nothing*.
 
@@ -1947,7 +1972,7 @@ The actual first instance of matter in the Newtonian sense (vs. the quantum sens
 <center><img src='../Images/084-azotosome.png' style='width:100%'/> </center>
 
 
-Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structure that all life depends on.  Another early structure that is tetrahedral as a molecule alone is methane, one of the first organic molecules and not just a building block of life on earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* above, and one we might discover on the Saturn moon of Titan.
+Water is a particularly good substance for exploring tholonic structures because it is one of the first, if not *the* first, tetrahedral structure that all life depends on.  Another early structure that is tetrahedral as a molecule alone is methane, one of the first organic molecules and not just a building block of life on Earth, but quite possibly the basis for an entirely different form of life, as pictured in the *Azotosome* above, and one we might discover on the Saturn moon of Titan.
 
 We saw that in the first generation of a tholon we have 4 trigrams, 3 of which are descending, or downward-pointing trigrams, and 1 is ascending, or upward-pointing trigram (“up” and “down” have only relative meaning here as it simply refers to the way the trigrams were drawn).  If we have two tholons then we have a total of 8 trigrams made up of 6 descending and 2 ascending trigrams.
 
@@ -2104,7 +2129,7 @@ A thing’s ability to find a stable and sustainable position within its environ
 
 Applying different values and concepts can result in new data.  We experiment with this a little, but given it is outside the main theme of this book, we have put that section under “New data?” in Appendix C, “Tholonic Math”
 
-## And the point is?
+### And the point is?
 
 The point of all this is to show one way that the tholon can be used and viewed.  There are many new ways of looking at energy in all its forms when viewed tholonically.
 
@@ -2261,7 +2286,7 @@ Perhaps there is a way to apply calculus to non-mathematical systems, like psych
 
 Economics is one of the best instances of tholonic processes. As we've mentioned, economics is as organic and natural an archetype as is any life form, and some are beginning to understand that.  To quote from the Santa Fe Institute's "Economic complexity: A different way to look at the economy." [^76]
 
-> Complexity economics asks how individual behaviors in a situation might *react to* the pattern they together create, and how that pattern would alter itself as a result, causing the agents to react anew.[^76]
+> Complexity economics asks how individual behaviors in a situation might *react to* the pattern they together create, and how that pattern would alter itself as a result, causing the agents to react anew.
 
 This is a very tholonic concept, but for now, let's just look at how the thologram and the stock market overlap. 
 
@@ -2362,7 +2387,7 @@ Subjective understanding only applies to oneself, while objective understanding 
 
 Faith and belief can be contradictory.  For example, one might have faith they will be delivered from their hell, but when getting your legs broken while chained to the floor in a North Vietnamese prison, one could easily believe they will not survive.
 
-The tholonic view is that the objective and subjective are inextricably bound together being as they are not only two poles of the primal awareness, but the first duality of awareness.  If one could understand that primal awareness, the duality and division of the subjective and objective would no longer exist, just as we understand how day and night, while appearing opposite, are both the result of a spinning earth. 
+The tholonic view is that the objective and subjective are inextricably bound together being as they are not only two poles of the primal awareness, but the first duality of awareness.  If one could understand that primal awareness, the duality and division of the subjective and objective would no longer exist, just as we understand how day and night, while appearing opposite, are both the result of a spinning Earth. 
 
 In its most reduced form, we really only have three concepts (also shown in image, left, below): 
 
@@ -2370,7 +2395,7 @@ In its most reduced form, we really only have three concepts (also shown in imag
 - **All that *could* be**.  The is the domain of **belief**, as is limited to the possibilities that can exist in a given scope and context.
 - **All that actually is.**  This is the domain of **understanding**, and is defined by what actually exists, not theoretical, hypothetical, possible, etc., but that, and only that which actually exists, meaning that which has managed to form a stable pattern that can instantiate itself  in the context and scope of its environment. This is Stockdale’s “*facts of your current reality*”.
 
-<img src="../Images/faith-tholo.png" style="width:100%"/><img src="../Images/youknow.png" style="float:right;width:35%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  One of my personal favorite examples of this concept is illustrated in (slightly altered) well-known concepts (right). 
+<img src="../Images/faith-tholo.png" style="width:100%"/><img src="../Images/youknow.png" style="float:right;width:35%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on Earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  One of my personal favorite examples of this concept is illustrated in (slightly altered) well-known concepts (right). 
 
 While *faith* is the beginning of the path, the spectrum of creation exists between *all that is possible*, and *all that is*, or between *belief* and *understanding*.  Not surprisingly, as we can see in the image (right) above, not only is *faith* where the path begins, but where it leads to as well.  Tholonically speaking, *faith* is the only path, and all the stuff that *could be* or *is* are side effects, instances, or consequences of traveling that path, making *all that is* ultimately an instance of *faith*.   Faith in *what* is a question left for the reader to answer.
 
@@ -2424,29 +2449,10 @@ In the tholonic model, this example also applies to ideas, concepts, and intelli
 
 <hr>
 
-[^52]: “**Quantum Gravity Research**”. Quantum Gravity Research, <https://www.quantumgravityresearch.org>.
-[^53]: "**Emergence Theory Overview.**" Quantum Gravity Research. Accessed August 07, 2020. https://quantumgravityresearch.org/lay-person-overview.
-[^54]: Smith, F. D. (n.d.). **E8 Root Vectors from 8D to 3D** - Valdosta, Georgia. <http://www.valdostamuseum.com/hamsmith/E8to4Dand3D.pdf>
-[^55]: What **is Reality? Emergence Theory Tries to Explain**. (2017, March 11). <http://www.deepstuff.org/what-is-reality-emergence-theory-tries-to-explain>
-[^56]: Jgmoxness. (n.d.). **Visualizing a Theory of Everything**! <http://theoryofeverything.org/theToE/tags/e8>
-[^57]: Amazing description of how the E8 crystal can be defined as tetrahedrals. <https://quantumgravityresearch.org/portfolio/a-deep-link-between-3d-and-8d>
-[^58]: **Gottfried Wilhelm Leibniz**. (n.d.). <http://www.wikiwand.com/en/Gottfried_Wilhelm_Leibniz>**, Leibniz and the I Ching**. (n.d.). <http://www.wikiwand.com/en/Binary_number#/Leibniz_and_the_I_Ching>
-[^59]: **Gottfried Leibniz**. (n.d.). Retrieved from <http://history-computer.com/Dreamers/Leibniz.html>
-[^60]: Abrantes, R. (2018, November 19). **How Wolves Change Rivers** \| Ethology Institute \| Read and Watch Now. Retrieved from <https://ethology.eu/how-wolves-change-rivers>
-[^61]: Grzegorz Rozenberg and Arto Salomaa. **The mathematical theory of L systems** (Academic Press, New York, 1980). ISBN 0-12-597140-0
-[^62]: In that it applies the syntactic features of natural languages. This is mentioned in the book: Prusinkiewicz, Przemyslaw, et al. **The Algorithmic Beauty of Plants**. Springer, 1996. This book is also available online. The relevant chapter is http://algorithmicbotany.org/papers/abop/abop-ch1.pdf. This site in general is an excellent resource for algorithms of nature.
-[^63]: Quijada, John. **A Grammar of the Ithkuil Language**. John Quijada, 2011.
-[^64]: Speaks, Jeff. **“Theories of Meaning”**. Stanford Encyclopedia of Philosophy, Stanford University, 27 June 2019,<https://plato.stanford.edu/entries/meaning>
-[^65]: Example of a “person” as defined by the semantic web: <http://xmlns.com/foaf/spec/#term_Person>
-[^66]: McCrae, J. P. (n.d.). **The Linked Open Data Cloud**. <https://www.lod-cloud.net>
-[^67]: Wang, Y., & Kosinski, M. (in press). **“Deep neural networks are more accurate than humans at detecting sexual orientation from facial images”**. Journal of Personality and Social Psychology; Newspaper article on this research: Levin, Sam. **“New AI Can Work out Whether You’re Gay or Straight from a Photograph”.** The Guardian, Guardian News and Media, 7 Sept. 2017, <http://www.theguardian.com/technology/2017/sep/07/new-artificial-intelligence-can-tell-whether-youre-gay-or-straight-from-a-photograph>
-[^68]: “**Reciprocal Theory**” RationalWiki, <https://rationalwiki.org/wiki/Reciprocal_Theory>.
-[^69]: As a relevant aside, this reversing effect has a material analog called the *Janibekov effect,*(among other names). It is well established in the field of mechanics and is most easily observed in space where there is no gravity. On observing it for the first time one would think the impossible is happening, but in fact, it is a basic law of energy that we rarely get to see here on Earth because of gravity. Imagine an asymmetrical rigid body, like a wing-nut or a or handle, rotating around one of its axis, then suddenly, it flips 180&deg;, and continues to rotate around the same axis, but in a reverse position. After a few moments, it flips again, and continues flipping back and forth indefinitely. It does this because the lowest energy state, which is the state that all matter seeks, requires the maximum amount of inertia, and the maximum amount of inertia will always be where the most mass is. Given that the object is asymmetrical, the amount of mass for each axis will change, causing the object to change position. A quick search for “Janibekov effect” will yield many fascinating videos on this phenomena. This phenomena is worth mentioning because it is a perfect example of how energy operates in form, and, presumably, in the archetypes of form as well, which, at least tholonically, are asymmetrical tholons.
 [^70]: Fuller, R. Buckminster, and E. J. Applewhite. ***Synergetics. Explorations in the Geometry of Thinking***. Macmillan, 1975.The entire book can be found online at <http://synergetics.info>
 [^71]: References to the above come from <http://synergetics.info/s02/p0000.html>
 [^73]: Siegel, Ethan. “**Ask Ethan: Can Free Quarks Exist Outside Of A Bound-State Particle?**” Forbes. Forbes Magazine, August 3, 2019. <https://www.forbes.com/sites/startswithabang/2019/08/03/ask-ethan-can-free-quarks-exist-outside-of-a-bound-state-particle>
 [^74]: Steingart, Dan. “**The Unfortunate Tetrahedron**.” Medium. the unfortunate tetrahedron, May 30, 2017. https://medium.com/the-unfortunate-tetrahedron/the-unfortunate-tetrahedron-ce1e44d0b961.
-[^75]: Adam Smith, "An Inquiry into the Nature and Causes of the Wealth of Nations", 1776, London
 [^76]: Institute, Santa Fe. "**Economic Complexity: A Different Way to Look at the Economy.**" Medium. November 03, 2014. Accessed August 02, 2020. https://medium.com/sfi-30-foundations-frontiers/economic-complexity-a-different-way-to-look-at-the-economy-eae5fa2341cd.
 [^77]: Hoffman DD, Prakash C. **Objects of consciousness.** Front Psychol. 2014;5 577. doi:10.3389/fpsyg.2014.00577. PMID: 24987382; PMCID: PMC4060643.
 [^78]: <http://hexagonalwater.com>
@@ -2457,13 +2463,13 @@ In the tholonic model, this example also applies to ideas, concepts, and intelli
 [^301]: http://marcelvogel.org/LabNotesMarcelVogel.pdf
 [^302]: **Structure of hydrogen-stuffed, quartz-like form of ice revealed.** (2017, January 04). Retrieved October 10, 2020, from https://gl.carnegiescience.edu/news/structure-hydrogen-stuffed-quartz-form-ice-revealed
 [^303]: Lee, H., & Kang, M. (2013). **Effect of the magnetized water supplementation on blood glucose, lymphocyte DNA damage, antioxidant status, and lipid profiles in STZ-induced rats**. *Nutrition Research and Practice,* *7*(1), 34. doi:10.4162/nrp.2013.7.1.34
-[^304]: Gerald Pollack. (n.d.). Retrieved October 19, 2020, from http://wiki.naturalphilosophy.org/index.php?title=Gerald_Pollack
+=[^304]: Gerald Pollack. (n.d.). Retrieved October 19, 2020, from http://wiki.naturalphilosophy.org/index.php?title=Gerald_Pollack
 
 [^308]: McGovern, Jim; "What Have Spacetime, Shape and Symmetry to Do with Thermodynamics? ", ECOS 2007, Proceedings of the 20th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems, Ed. Alberto Mirandola, Ozer Arnas, Andrea Lazzaretto, pp. 349-356, June 25-28, 2007, Padova, Italy, arXiv:0710.1242, Available at: https://arxiv.org/pdf/0710.1242.pdf
 [^309]: **Freedom in the World** (2018), published by Freedom House, **Democracy Index** (2017), published by The Economist Intelligence Unit, **V-Dem Annual Democracy Report** (2018), published by the V-Dem Institute
 
 <div style='page-break-after: always; break-after: always;'></div>
-# 8: MIND
+# 9: MIND
 
 ###### The machine of creation is not limited or defined by man
 
@@ -2599,7 +2605,7 @@ The tholonic view of this is that it is the tholonic intelligence of both of the
 
 ## Findhorn
 
-This idea of objective intelligences was also known among the founders of the miraculous Scottish community founded in 1962 called Findhorn.  The founders claim they managed to turn their arid desert-like terrain into a lush garden by communicating with the spirits (i.e.  tholonic intelligence) of the plants, and of the earth itself, who guided them on how to properly use the soil despite it being very poor quality.  Soon, they were producing 40-pound cabbages and stunning horticultural experts who came to see this miracle garden from around the world.
+This idea of objective intelligences was also known among the founders of the miraculous Scottish community founded in 1962 called Findhorn.  The founders claim they managed to turn their arid desert-like terrain into a lush garden by communicating with the spirits (i.e.  tholonic intelligence) of the plants, and of Earth itself, who guided them on how to properly use the soil despite it being very poor quality.  Soon, they were producing 40-pound cabbages and stunning horticultural experts who came to see this miracle garden from around the world.
 
 They also claim they managed pest control, as they use no chemicals or pesticides, by forming cooperative relationships with the collective intelligences of each species; the deer, the bugs, the rabbits, etc.  Reportedly this worked very well with all the species except one.  The rat was not interested in any “deal” and stood firm in its “it’s either you or us” position.  The last part is anecdotal, as it was told to me personally, but what is not anecdotal is Findhorn’s phenomenal success in horticulture in an area considered impossible for what they have accomplished.
 
@@ -2629,7 +2635,7 @@ The answer to “Why was there a Cambrian explosion?”, or any event for that m
 [^88]: Milius, Susan. “**How Roaches Fight off Wasps That Turn Their Victims into Zombies.**” Science News, 14 Nov. 2018, <https://www.sciencenews.org/article/how-roaches-fight-wasps-turn-their-victims-zombies>
 
 <div style='page-break-after: always; break-after: always;'></div>
-# 9: FIELDS
+# 10: FIELDS
 
 ###### Fields are forces of influence; electrical, conceptual, unknown, or otherwise
 
@@ -2796,7 +2802,7 @@ Perhaps what we call some forms of telepathy or ESP are simply quite natural con
 
 #### **Claim 56:** Transcendental or extrasensory forms of communication exist.
 
-Telepathy or otherwise, it’s a safe bet to say that some form of transcendental or extrasensory form of communication exists, and this might be a way to access tholonic data.  It’s the specifics of it that seem to be elusive.  Proving such a thing is similar to asking me to prove that Australia exists.  I know many people from Australia, I can find Australia on a map, I know of Australian politics and history, but all of that is anecdotal as I have never been to Australia and if you asked me to prove Australia’s existence by the strictest scientific standards, I could not do without actually going to Australia.  All I could say is I have a lot of evidence from trustworthy sources, as opposed to, say, proving that the earth is not flat even though I have never filmed earth from space. 
+Telepathy or otherwise, it’s a safe bet to say that some form of transcendental or extrasensory form of communication exists, and this might be a way to access tholonic data.  It’s the specifics of it that seem to be elusive.  Proving such a thing is similar to asking me to prove that Australia exists.  I know many people from Australia, I can find Australia on a map, I know of Australian politics and history, but all of that is anecdotal as I have never been to Australia and if you asked me to prove Australia’s existence by the strictest scientific standards, I could not do without actually going to Australia.  All I could say is I have a lot of evidence from trustworthy sources, as opposed to, say, proving that Earth is not flat even though I have never filmed Earth from space. 
 
 Dawkins suggests that memes are the non-genetic manner in which information is passed on.  He also strongly disagrees with Sheldrake’s morphic field hypothesis.  Unfortunately for Dawkins, memes cannot explain test results that morphic fields can.  To add insult to injury, morphic field theory not only has room for memes but can explain one way that memes can spread, so, Sheldrake: 1, Dawkins: 0.
 
@@ -2901,7 +2907,7 @@ Let’s  look at another one of Newton’s formulas that describes the gravitati
 
 - ***gvolts (h) is equivalent to volts:*** With the above 3 values we are left with the correlation of the gravitational equivalent to *volts*. We are calling them *gvolts*, for lack of a better term.  This is determined by <img src="../Images/math/371.svg"  style="vertical-align: middle;height:20pt;"/>, or <img src="../Images/math/174.svg" alt="h=\frac{g}{S}}" style="vertical-align: middle;height:14pt;"/>
 
-We can confirm these correlations by plugging in actual values for gravity calculations into all 12 formulas of Newton’s 2^nd^, and in every case the values are correct.  In our case, we calculated the force of gravitational attraction between the earth and a 70-kg person standing at sea level, which is 686 newtons (in case anyone wants to test it themselves): 
+We can confirm these correlations by plugging in actual values for gravity calculations into all 12 formulas of Newton’s 2^nd^, and in every case the values are correct.  In our case, we calculated the force of gravitational attraction between Earth and a 70-kg person standing at sea level, which is 686 newtons (in case anyone wants to test it themselves): 
 
 <img src="../Images/math/370.svg" alt="F=\frac{P}{I^{2}}}" style="vertical-align: middle;height:24pt;"/>
 
@@ -3163,7 +3169,7 @@ Consider these ideas in light of the relatively recent discoveries that experien
 
 
 <div style='page-break-after: always; break-after: always;'></div>
-# 10: APPLICATION OF AWARENESS
+# 11: APPLICATION OF AWARENESS
 
 ###### Experiments in Awareness
 
@@ -3358,7 +3364,7 @@ On a related note, keep an eye on the research into what is essentially the coll
 [^300]: Backster, Cleve & Karron, Db. (1968). Evidence of a Primary Perception In Plant Life. 10. 
 
 <div style='page-break-after: always; break-after: always;'></div>
-# 11: PREDETERMINISM
+# 12: PREDETERMINISM
 
 ###### Free will exists, but its options are limited
 
@@ -3394,7 +3400,7 @@ In 2012, *Science Magazine* published a article citing a report from *Journal of
 
 The tholonic position is simply that some patterns are more stable and efficient than others, such as the harmonic series, so we would expect to see it in music, bird songs, fungal growth, orbits, and countless other contexts.
 
-Even in the world of bacterial meandering, we see a pattern.  Not surprisingly, it is the inverse of a Bell curve, in that a group of bacteria released at the same time starts out relatively coherent and eventually disperses to incoherence.  It’s almost (or exactly) as if the instances of creations that can emerge from a tholon’s Bell curve are the balancing factor, much like the way a positive charge will automatically create a pairing with a negative charge, or how the amount of rain that falls is equivalent to the amount of water that evaporated from the earth, a states of order creates state of chaos, which creates new states of order.
+Even in the world of bacterial meandering, we see a pattern.  Not surprisingly, it is the inverse of a Bell curve, in that a group of bacteria released at the same time starts out relatively coherent and eventually disperses to incoherence.  It’s almost (or exactly) as if the instances of creations that can emerge from a tholon’s Bell curve are the balancing factor, much like the way a positive charge will automatically create a pairing with a negative charge, or how the amount of rain that falls is equivalent to the amount of water that evaporated from the earth, as states of order create states of chaos, which create new states of order.
 
 #### **Claim 58:** Archetypes tend toward order, while the instances tend toward chaos.
 
@@ -3486,7 +3492,7 @@ Every creation, including tholons, goes through the cycles of instantiation, thi
 
 ## Aliens and UFOs
 
-As long as we’re talking about the afterlife we might as well address the subject of aliens and UFOs.  This will be very short, because if the tholonic understanding that the universe itself, and everything in it, are different expressions of intelligence, than asking "is there intelligent life in the universe?" would be like wondering if there is such a thing as water while swimming in the ocean. Aliens, UFOs, etc., are instances of archetypes, and their instantiations will wholly depend on the context and scope they are perceived in.  Here, context includes cultural beliefs and the abilities of the perceiver.  Is/was earth visited by aliens, and if so, what role have they played in our story?  From the tholonic perspective, asking such a question is valid if the answer brings us closer to a verifiably better understanding of reality.  The tholonic question is, what are the tholons that exist beyond our perception of reality? How can/will they be perceived and  how will/do they affect our reality? Are there other forms of awareness and intention that have evolved on any of the 40 billion exoplanets that can support life in our galaxy, or elsewhere for that matter, evolved to the point where they have a cosmic influence? The most reasonable answer is probably "probably".
+As long as we’re talking about the afterlife we might as well address the subject of aliens and UFOs.  This will be very short, because if the tholonic understanding that the universe itself, and everything in it, are different expressions of intelligence, than asking "is there intelligent life in the universe?" would be like wondering if there is such a thing as water while swimming in the ocean. Aliens, UFOs, etc., are instances of archetypes, and their instantiations will wholly depend on the context and scope they are perceived in.  Here, context includes cultural beliefs and the abilities of the perceiver.  Is/was Earth visited by aliens, and if so, what role have they played in our story?  From the tholonic perspective, asking such a question is valid if the answer brings us closer to a verifiably better understanding of reality.  The tholonic question is, what are the tholons that exist beyond our perception of reality? How can/will they be perceived and  how will/do they affect our reality? Are there other forms of awareness and intention that have evolved on any of the 40 billion exoplanets that can support life in our galaxy, or elsewhere for that matter, evolved to the point where they have a cosmic influence? The most reasonable answer is probably "probably".
 
 The tholonic view is (to rephrase Richard Feynman): 
 
@@ -4014,11 +4020,11 @@ We could also then look for the qualities of *creativity* within the original *s
 
 <center><img src="../Images/lambda-tri-1.png" style="width:100%"/></center>
 
-The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern , because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, but here we see how it relates to &pi;: 
+The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern, because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, and in one case (<img src="/home/jw/books/tholonia/Images/math/383.svg" style="vertical-align: middle;height:8pt;"/>) we see how it relates to &pi;: 
 
 <img src="/home/jw/books/tholonia/Images/math/382.svg" style="vertical-align: middle;height:24pt;"/>
 
-Even so, if we multiply all the vales of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, *P&times;R*=1, and *V&div;I* = 2.828, the two values that represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is a order that is similar, but not exactly the same, as Newton's 2nd.
+Additionally, if we multiply all the values of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, the formula for *volts* produces <img src="/home/jw/books/tholonia/Images/math/307.svg" style="vertical-align: middle;height:14pt;"/>=1, and the formula for *resistance* produces <img src="/home/jw/books/tholonia/Images/math/384.svg" style="vertical-align: middle;height:14pt;"/>= 2.828.  These two values represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is a order that is similar, but not exactly the same, as Newton's 2nd.
 
 This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
 
@@ -4335,7 +4341,7 @@ So, by saying the following…
 - The Cornu Spiral describes the diffraction pattern.
 - The RZF describes a Cornu spiral.
 - The RZF is a normalized version of the the Zipf Function.
-- The light of the sun hitting earth creates a Cornu-ish spiral over the course of a year.
+- The light of the sun hitting Earth creates a Cornu-ish spiral over the course of a year.
 
 … we can relate our mystery pattern to quite a few other patterns, including Newton’s 2^nd^, but the most dominant have to do with the nature of light.
 
@@ -4706,7 +4712,7 @@ The following are some of the observations (super nerdy):
 
 - The sum of any trigram and the side opposite that trigram always equal 63, the maximum number possible. This was exciting to discover as it supports the tholonic claim that the effect of any point can be seen on the side opposite that point.
 - The math pattern of the tholon also works if we replace multiplication with addition, for example, 14 + 21 = 35, or  *<u>DC</u>* + *<u>CN</u>* + *<u>ND</u>*.
-- What about the middle trigram?  It does not have any one value to pair with, but if the sides equal 70, then the value of the trigram must be -7 for the sum to equal 63.  This not only supports the tholonic idea that the center trigram is the opposite, reflected and virtual, but also suggests that the scale or context is *octal*, meaning it is based only on the numbers 0-7 only (63 also happens to be 77 in octal\).  Additionally, the value of 7 also appears when we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the *white dot* of the tetrahedron, and it is also exactly opposite the center trigram of **Standstill** (56, inverse of 7).  This math validated the tholonic claim that the *white point* is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  **Peace**, <img src='../Images/bc/hexagramB07.png' style='width:30px'/> is defined as “heaven on earth” in the text. If we define *heaven* as the place of perfect archetypes and *earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earth) formation of a purely abstract and archetypal (heaven) idea.
+- What about the middle trigram?  It does not have any one value to pair with, but if the sides equal 70, then the value of the trigram must be -7 for the sum to equal 63.  This not only supports the tholonic idea that the center trigram is the opposite, reflected and virtual, but also suggests that the scale or context is *octal*, meaning it is based only on the numbers 0-7 only (63 also happens to be 77 in octal\).  Additionally, the value of 7 also appears when we sum the three points of the parents trigrams, which are 1, 2 and 4, (2^0^, 2^1^, 2^2^). These are the points that create the *white dot* of the tetrahedron, and it is also exactly opposite the center trigram of **Standstill** (56, inverse of 7).  This math validated the tholonic claim that the *white point* is created by the sum of the red, green and blue dot. Just as an interesting aside, it is the white dot, with its value of 7, that creates a 3D form out of this 2D map, and the hexagram that is binary value of 7,  **Peace**, <img src='../Images/bc/hexagramB07.png' style='width:30px'/> is defined as “heaven on earth” in the text. If we define *heaven* as the place of perfect archetypes and *Earth* as the place of form, then this hexagram perfectly describes the concept of the tetrahedron being the first physical (earthly) formation of a purely abstract and archetypal (heaven) idea.
 
 We have a number of other patterns, for example (and for those who enjoy numbers):
 
