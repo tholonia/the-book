@@ -3,3 +3,4 @@ def iteration(N,h,s,p):
     print(n*4)
     iteration(n,h,s+h**2,p+h*2)
 iteration(1,2,3,5)
+

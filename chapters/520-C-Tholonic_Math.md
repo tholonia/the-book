@@ -193,6 +193,10 @@ We could also then look for the qualities of *creativity* within the original *s
 
 <center><img src="../Images/lambda-tri-1.png" style="width:100%"/></center>
 
+Here is the 2D map for this above image to make the relationships more obvious, for example, how the lower-left trigram has the values &Lambda;, +1, +2, +3; how lower left and lower right are naturally inverted, and when combined, equals the baseline of the top trigram which also has the values of *Silver Ratio* +&Lambda;, +1, &times;2, or how the central trigram is <img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>&times;1,   <img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>&times;2,  <img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>&times;<img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>, which naturally match the 3 corner values.
+
+<center><img src="../Images/tt-1.png" style="width:100%"/></center>
+
 The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern, because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, and in one case (<img src="/home/jw/books/tholonia/Images/math/383.svg" style="vertical-align: middle;height:8pt;"/>) we see how it relates to &pi;: 
 
 <img src="/home/jw/books/tholonia/Images/math/382.svg" style="vertical-align: middle;height:24pt;"/>

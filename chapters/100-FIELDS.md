@@ -369,7 +369,7 @@ From the tholonic perspective, if the claim is “energy alone can’t be observ
 
 > “Consciousness [ed: or awareness from the tholonic perspective] is part of our universe, so any physical theory which makes no proper place for it falls fundamentally short of providing a genuine description of the world.”[^156]  **\~Roger Penrose.  “The most important physicist to work in relativity theory except for Einstein”.**
 
-Tholonic fields exist in the realm of thought, ideas, and concepts, so any experiments that might be run probably need to be thought-based in nature.  Is there any evidence that thoughts can directly alter our material reality? If the answer is yes, that might support the idea that altering archetypes in the realm of ideas has a measurable effect on the instance of those archetypes, i.e.  reality as we know it.  Chapter 10, “Relevant Examples”, looks at some of these experiments.
+Tholonic fields exist in the realm of thought, ideas, and concepts, so any experiments that might be run probably need to be thought-based in nature.  Is there any evidence that thoughts can directly alter our material reality? If the answer is yes, that might support the idea that altering archetypes in the realm of ideas has a measurable effect on the instance of those archetypes, i.e.  reality as we know it.  Chapter 11, “*Application of Awareness*”, looks at some of these experiments.
 
 ## Reality
 
@@ -377,7 +377,7 @@ What about the possibility that reality itself, the world around us, matter, eve
 
 This idea is based on the idea of Quantum Darwinism[^157] that states that of all the probable states that can exist, the ones that survive do so because of support from their environment.  In turn, these states that survive transfer information to the environment, altering its context, shifting the curve in its favor, and thereby improving the probabilities of future similar states.
 
-As the energy interacts with the environment around it, the range of probabilities for the many attributes of an energy particle begins to decohere, or disappear, leaving only the attributes that are most compatible with the environment, which then interacts with the environment to make the environment more compatible with the attributes.  Notice the compatibility of Quantum Darwinism with the descriptions of the social equations in the chapter “The Meaning of Math”?
+As the energy interacts with the environment around it, the range of probabilities for the many attributes of an energy particle begins to decohere, or disappear, leaving only the attributes that are most compatible with the environment, which then interacts with the environment to make the environment more compatible with the attributes.  Notice the compatibility of Quantum Darwinism with the descriptions of the social equations in the section “The Meaning of Math” in chapter 8, “*Instances*”?
 
 Reality, as we know it, is the consequence of this processes of *decohering* the less successful possibilities of a particle’s superposition.  In the end, one set of attributes dominates, and that is what we see in the reality that surrounds us.  In other words, reality itself is the living record of what worked and works.
 

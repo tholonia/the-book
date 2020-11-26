@@ -335,7 +335,9 @@ def iteration(N,h,s,p):
 iteration(1,2,3,5) # <= first four values of the fibonacci sequence 
 ```
 
-We can also calculate the value for Phi (φ, 1.618) and the Fibonacci sequence using a similar process. There are many, many relationships, patterns, values and functions in this simple trigram, but for many of them it is hard to say which of their products are *data* and which are *information*.
+We can also calculate the value for Phi (φ, 1.618) and the Fibonacci sequence using a similar process, and if we use the values of 2^0^, 2^1^, 2^2^, 2^3^, we get the resulting values of 3.
+
+ There are many, many relationships, patterns, values and functions in this simple trigram, but for many of them it is hard to say which of their products are *data* and which are *information*.
 
 ## Reconstruction
 
@@ -689,7 +691,7 @@ However, several other validating patterns emerged that were pretty astounding.
 
 <center><img src='../Images/tetrahex-hex-triplet-3.png' style='width:100%'/></center>
 
-Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or 6&times;6&times;6 (see  *New Data* chapter in Appendix C, “Tholonic Math”).
+Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or 6&times;6&times;6 (see *New Data* chapter in Appendix C, “Tholonic Math”).
 
 Notice how each of the four triangular sections (in ***Fig. h3a***, and by implication, ***Fig.h3***) have values that exist within each triangle as either red-framed *moving* or green-framed *transitional* values, i.e. hexagrams 36, *Keeping Still* <img src='../Images/bc/hexagramB36.png' style='width:30px'/>, 27, *Joyous* <img src='../Images/bc/hexagramB27.png' style='width:30px'/>, 21, *After Completion* <img src='../Images/bc/hexagramB21.png' style='width:30px'/>, and 42, *Before Completion* <img src='../Images/bc/hexagramB42.png' style='width:30px'/> .
 

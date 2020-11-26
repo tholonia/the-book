@@ -5,7 +5,7 @@
 
 ## Inner, not Outer
 
-<img src='../Images/flower-of-life-dots.png' style='float:right;width:30%'/>We have seen how the creation of a single trigram will automatically create additional trigrams as part of the same creative process.  This would imply that there is an infinitely expanding realm of trigrams, as shown in ***Fig. c9*** in the “Geometry I” chapter.  This pattern, when limited to 37 points, is often called the *flower of life*, as pictured above (*the added &bullet; - + symbols are there for the benefit of black and white ebook readers*).  
+<img src='../Images/flower-of-life-dots.png' style='float:right;width:30%'/>We have seen how the creation of a single trigram will automatically create additional trigrams as part of the same creative process.  This would imply that there is an infinitely expanding realm of trigrams, as shown in ***Fig. c9*** in the “Geometry I” section of chapter 7, “*Structure*”.  This pattern, when limited to 37 points, is often called the *flower of life*, as pictured above (*the added &bullet; - + symbols are there for the benefit of black and white ebook readers*).  
 
 The  *flower of life* design dates back to 1300 BC, with the oldest known instance carved on the temple walls of the ancient Egyptian temple “Osireion”. Again, we see the same concepts and patterns appear over and over again in Man’s search for understanding using the power of reason.
 

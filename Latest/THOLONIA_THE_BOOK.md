@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Wed 25 Nov 2020 04:01:48 PM -03 v3.6.75'
+status: 'Updated: Wed 25 Nov 2020 06:28:18 PM -03 v3.6.79'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.75
+version:  3.6.79
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.75'
+pagetitle: 'THOLONIA 3.6.79'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -1084,7 +1084,7 @@ In humanity’s quest to understand reality and its processes, either through re
 [^43]: Parvinen, Kalle, and Ulf Dieckmann.  "**Environmental Dimensionality**"".  *Journal of Theoretical Biology*, 2018, doi: 10.1016/j.jtbi.2018.03.008.  <https://www.ncbi.nlm.nih.gov/pubmed/29551543>
 [^44]: **List of cycles**.  (2019, April 27).  <https://en.wikipedia.org/wiki/List_of_cycles>
 [^45]: **“Exploring Geographic and Geometric Relationships Along a Line of Ancient Sites Around the World”** <https://grahamhancock.com/geographic-geometric-relationships-alisonj
-[^306]: There are many examples, such as the *Baghdad battery* and other evidence of electricity, the largest stone pillars in the world  of  Göbekli Tepe which we could not replicate today, knowledge of heavenly bodies, the construction of the pyramids, and more.  One of the more obscure and fascinating mysteries is that of **Min**, the masculine god of fertility and sexuality, who depicted as a man with an erection, but in that depiction where he appears to be ejaculating, there is a very clear diagram of not only what looks a sperm cell, especially given its placement a context.  According to our understanding of that time, it would have been quite impossible for the Egyptians to have microscopes that were at least 100x in power.  This carving is from 2500 B.C.E. <img src="/home/jw/books/tholonia/chapters/../Images/sperm.png" style="width:100%"/>
+[^306]: There are many examples, such as the *Baghdad battery* and other evidence of electricity, the largest stone pillars in the world  of  Göbekli Tepe which we could not replicate today, knowledge of heavenly bodies, the construction of the pyramids, and more.  One of the more obscure and fascinating mysteries is that of **Min**, the masculine god of fertility and sexuality, who depicted as a man with an erection, but in that depiction where he appears to be ejaculating, there is a very clear diagram of not only what looks a sperm cell, especially given its placement a context.  According to our understanding of that time, it would have been quite impossible for the Egyptians to have microscopes that were at least 100x in power.  This carving is from 2500 B.C.E. <img src="../Images/sperm.png" style="width:100%"/>
 
 
 
@@ -1583,7 +1583,7 @@ We can see this trinity of concepts in any structured system.  Here are some exa
 
 ## Music
 
-The relationship of music to trigrams is so profound that it deserves a book unto itself, and many have been written, so I will only share that entire theories of music are modeled on the trigram, such as the *Tonnetz* (German for *tone-network*) model, which is a conceptual lattice diagram representing tonal space first described by Swiss mathematician, physicist, astronomer, geographer, logician and engineer, and one of the greatest thinkers of modern history, Leonhard Euler, in 1739.  Modern music theorists take it a step further; that of a 2-dimensional map of trigrams mapped to a spinning torus… wow!  *Note: This model of music is also referenced in the chapter “Predeterminism”.*
+The relationship of music to trigrams is so profound that it deserves a book unto itself, and many have been written, so I will only share that entire theories of music are modeled on the trigram, such as the *Tonnetz* (German for *tone-network*) model, which is a conceptual lattice diagram representing tonal space first described by Swiss mathematician, physicist, astronomer, geographer, logician and engineer, and one of the greatest thinkers of modern history, Leonhard Euler, in 1739.  Modern music theorists take it a step further; that of a 2-dimensional map of trigrams mapped to a spinning torus… wow!  *Note: This model of music is also referenced in chapter 12, “Predeterminism”.*
 
 <center><img src='../Images/tonnetz.png' style='width:100%'/></center>
 
@@ -3005,7 +3005,7 @@ From the tholonic perspective, if the claim is “energy alone can’t be observ
 
 > “Consciousness [ed: or awareness from the tholonic perspective] is part of our universe, so any physical theory which makes no proper place for it falls fundamentally short of providing a genuine description of the world.”[^156]  **\~Roger Penrose.  “The most important physicist to work in relativity theory except for Einstein”.**
 
-Tholonic fields exist in the realm of thought, ideas, and concepts, so any experiments that might be run probably need to be thought-based in nature.  Is there any evidence that thoughts can directly alter our material reality? If the answer is yes, that might support the idea that altering archetypes in the realm of ideas has a measurable effect on the instance of those archetypes, i.e.  reality as we know it.  Chapter 10, “Relevant Examples”, looks at some of these experiments.
+Tholonic fields exist in the realm of thought, ideas, and concepts, so any experiments that might be run probably need to be thought-based in nature.  Is there any evidence that thoughts can directly alter our material reality? If the answer is yes, that might support the idea that altering archetypes in the realm of ideas has a measurable effect on the instance of those archetypes, i.e.  reality as we know it.  Chapter 11, “*Application of Awareness*”, looks at some of these experiments.
 
 ## Reality
 
@@ -3013,7 +3013,7 @@ What about the possibility that reality itself, the world around us, matter, eve
 
 This idea is based on the idea of Quantum Darwinism[^157] that states that of all the probable states that can exist, the ones that survive do so because of support from their environment.  In turn, these states that survive transfer information to the environment, altering its context, shifting the curve in its favor, and thereby improving the probabilities of future similar states.
 
-As the energy interacts with the environment around it, the range of probabilities for the many attributes of an energy particle begins to decohere, or disappear, leaving only the attributes that are most compatible with the environment, which then interacts with the environment to make the environment more compatible with the attributes.  Notice the compatibility of Quantum Darwinism with the descriptions of the social equations in the chapter “The Meaning of Math”?
+As the energy interacts with the environment around it, the range of probabilities for the many attributes of an energy particle begins to decohere, or disappear, leaving only the attributes that are most compatible with the environment, which then interacts with the environment to make the environment more compatible with the attributes.  Notice the compatibility of Quantum Darwinism with the descriptions of the social equations in the section “The Meaning of Math” in chapter 8, “*Instances*”?
 
 Reality, as we know it, is the consequence of this processes of *decohering* the less successful possibilities of a particle’s superposition.  In the end, one set of attributes dominates, and that is what we see in the reality that surrounds us.  In other words, reality itself is the living record of what worked and works.
 
@@ -3629,7 +3629,7 @@ If you are reading this on a e-book reader, the chances that it will look especi
 
 ## Inner, not Outer
 
-<img src='../Images/flower-of-life-dots.png' style='float:right;width:30%'/>We have seen how the creation of a single trigram will automatically create additional trigrams as part of the same creative process.  This would imply that there is an infinitely expanding realm of trigrams, as shown in ***Fig. c9*** in the “Geometry I” chapter.  This pattern, when limited to 37 points, is often called the *flower of life*, as pictured above (*the added &bullet; - + symbols are there for the benefit of black and white ebook readers*).  
+<img src='../Images/flower-of-life-dots.png' style='float:right;width:30%'/>We have seen how the creation of a single trigram will automatically create additional trigrams as part of the same creative process.  This would imply that there is an infinitely expanding realm of trigrams, as shown in ***Fig. c9*** in the “Geometry I” section of chapter 7, “*Structure*”.  This pattern, when limited to 37 points, is often called the *flower of life*, as pictured above (*the added &bullet; - + symbols are there for the benefit of black and white ebook readers*).  
 
 The  *flower of life* design dates back to 1300 BC, with the oldest known instance carved on the temple walls of the ancient Egyptian temple “Osireion”. Again, we see the same concepts and patterns appear over and over again in Man’s search for understanding using the power of reason.
 
@@ -5110,7 +5110,7 @@ However, several other validating patterns emerged that were pretty astounding.
 
 <center><img src='../Images/tetrahex-hex-triplet-3.png' style='width:100%'/></center>
 
-Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or 6&times;6&times;6 (see  *New Data* chapter in Appendix C, “Tholonic Math”).
+Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or 6&times;6&times;6 (see *New Data* chapter in Appendix C, “Tholonic Math”).
 
 Notice how each of the four triangular sections (in ***Fig. h3a***, and by implication, ***Fig.h3***) have values that exist within each triangle as either red-framed *moving* or green-framed *transitional* values, i.e. hexagrams 36, *Keeping Still* <img src='../Images/bc/hexagramB36.png' style='width:30px'/>, 27, *Joyous* <img src='../Images/bc/hexagramB27.png' style='width:30px'/>, 21, *After Completion* <img src='../Images/bc/hexagramB21.png' style='width:30px'/>, and 42, *Before Completion* <img src='../Images/bc/hexagramB42.png' style='width:30px'/> .
 
