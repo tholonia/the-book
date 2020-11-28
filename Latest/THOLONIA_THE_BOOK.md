@@ -9,11 +9,11 @@ ISBN-13: 978-1703984903
 rights: 'Copyright ©2020 Duncan Stroud CC BY-NC-SA 4.0'
 rights-desc: 'This book is an open sourced book.  This means that anyone can contribute changes or updates.  Instructions and more information at <https://tholonia.github.io/the-book> (or contact the author at duncan.stroud@gmail.com).  This book and its on-line version are distributed under the terms of the Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license, with the additional proviso that the right to publish it on paper for sale or other for-profit use is reserved to Duncan Stroud and authorized agents thereof.  A reference copy of this license may be found at <https://creativecommons.org/licenses/by-nc-sa/4.0/>.  The above terms include the following: Attribution - you must give appropriate credit, provide a link to the license, and indicate if changes were made.  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  Noncommercial - You may not use the material for commercial purposes.  Share Alike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.  No additional restrictions - you may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  Notices - You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.  No warranties are given.  The license may not give you all of the permissions necessary for your intended use.  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.'
 
-status: 'Updated: Thu 26 Nov 2020 07:12:00 PM -03 v3.6.84'
+status: 'Updated: Fri 27 Nov 2020 06:51:57 PM -03 v3.6.88'
 publisher: 'Welkin Wall Publishing'
 toc: true
 toc-title: 'Table of Contents'
-version:  3.6.84
+version:  3.6.88
 lang: en-US
 
 coverpage: true
@@ -26,7 +26,7 @@ logo_image: '![logo](../Images/titlepage.png)'
 # THE FOLLOWING ARE NOT USED
 
 titlegraphic: /home/jw/books/tholonia/Images/titlepage.png
-pagetitle: 'THOLONIA 3.6.84'
+pagetitle: 'THOLONIA 3.6.88'
 ---
 <div style='page-break-after: always; break-after: always;'></div>
 <img src="../Images/titlepage.png" style="width:100%"/>
@@ -4022,13 +4022,13 @@ We could also then look for the qualities of *creativity* within the original *s
 
 Here is the 2D map for this above image to make the relationships more obvious, for example, how the lower-left trigram has the values &Lambda;, +1, +2, +3; how lower left and lower right are naturally inverted, and when combined, equals the baseline of the top trigram which also has the values of *Silver Ratio* +&Lambda;, +1, &times;2, or how the central trigram is <img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>&times;1,   <img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>&times;2,  <img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>&times;<img src="/home/jw/books/tholonia/Images/math/324.svg" style="vertical-align: middle;height:10pt;"/>, which naturally match the 3 corner values.
 
-<center><img src="../Images/tt-1.png" style="width:100%"/></center>
+<center><img src="../Images/tt-up-dn.png" style="width:100%"/></center>
 
 The arrangement of these values on the tetrahedron do not conform to Newton’s 2^nd^, however, they seem to have a similar pattern, because if we apply the formulas of Ohm’s Law to these values, we get some very interesting values, all of which are the result of the numbers 1 and 2 only, and in one case (<img src="/home/jw/books/tholonia/Images/math/383.svg" style="vertical-align: middle;height:8pt;"/>) we see how it relates to &pi;: 
 
 <img src="/home/jw/books/tholonia/Images/math/382.svg" style="vertical-align: middle;height:24pt;"/>
 
-Additionally, if we multiply all the values of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, the formula for *volts* produces <img src="/home/jw/books/tholonia/Images/math/307.svg" style="vertical-align: middle;height:14pt;"/>=1, and the formula for *resistance* produces <img src="/home/jw/books/tholonia/Images/math/384.svg" style="vertical-align: middle;height:14pt;"/>= 2.828.  These two values represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is a order that is similar, but not exactly the same, as Newton's 2nd.
+Additionally, if we multiply all the values of each type (the equivalent to *V*, *I*, *R* and *P*), we get the a total value for each group where *R=1*/8, *P=8*, *I=2.230*, and *V=6.309*.  With these values, the formula for *volts* produces <img src="/home/jw/books/tholonia/Images/math/307.svg" style="vertical-align: middle;height:14pt;"/>=1, and the formula for *resistance* produces <img src="/home/jw/books/tholonia/Images/math/384.svg" style="vertical-align: middle;height:14pt;"/>= 2.828.  These two values represent the N-source (1), and the N-child’s spectrum (2.828), so, clearly, there is an order, as can be seen in the upper-right image that shows the formulas, but not exactly the same as Newton's 2nd.  For example, the value for that vector which is the spectrum of instantiation between D and C has a value of the *Silver Ratio* (2.414)+*procreation Value* (0.414), but if we replace the values with the *Newtonian* values of 6, 2, and 3, that same vector has the value of 6, and as we pointed out, 6 is the value of the initial creation, given it must be the value of the N-state.  In once case, the value is arrived at by adding *Silver Ratio+Creation value*, and in the other, it is arrived at by multiplying a *duality* (2) by the *creation value* of 3, if we accept “from 3 come all things”.  *Qualitatively*, these are the same expressions with two different contexts and scopes.
 
 This value of **Λ** (lambda, 0.414) *might* be a good example of a tholonic *qualitative* value in that it was derived by the qualitative “formula” of *creative = created - creator*.   As we would expect, this number appears in nature, specifically, it is the ratio of the radius of a sphere that can fit in the empty space of a tetrahedron (*tetrahedral void*) created by 4 spheres.  This may sound very obscure, but it is quite critical in the way atoms pack themselves together.
 
