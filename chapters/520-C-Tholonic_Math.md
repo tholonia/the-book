@@ -49,9 +49,9 @@ Previously (and in the left-most image above) we saw how the contribution of red
 
 In the right-most image above we have the 2D tetrahedron map with only *V*, *I*, and *R* values mapped to each trigram, along with the functions (&div;, &times;) that apply to the values as defined by Ohm’s Law.   The gray functions are associated with the inner trigrams, and the black functions are associated with the outer trigram.  For example, Ohm’s Law states that <img src="/home/jw/books/tholonia/Images/math/316.svg" alt="\frac{V}{R} =I" style="vertical-align: middle;height:14pt;"/>, so in the image above, all lines that connect *V* to *R* are assigned the &div; function.  The same goes for <img src="/home/jw/books/tholonia/Images/math/317.svg" alt="\frac{V}{R} =I" style="vertical-align: middle;height:14pt;"/> and *I&times;R=V*.  Note how only N-sources have the functions of &times;.
 
-<center><img src='../Images/ohm-numbers.png' style='width:60%'/></center>
+<center><img src='../Images/ohm-numbers.png' style='width:100%'/></center>
 
-Let’s apply values to these points to make it clearer.  Above is a tholon map where *I=2*, *R=3*, *V=6* (and the implied *P=12*).  These numbers satisfy the formulas of Ohm’s law as you can see by the added gray functions (i.e.  <img src="/home/jw/books/tholonia/Images/math/318.svg" alt="\frac{6}{2}=3" style="vertical-align: middle;height:14pt;"/>, etc).  These are not arbitrary numbers.  They are the smallest numbers that represent the properties of each point, mathematically speaking.  Why do we not start with the number 1 then?  Because the properties of 1 are the antithesis of creation.  1 represents perfect unity and balance, whereas every number greater that 1 represents separation and imbalance.  For example, if we applied the values of 1 to *I* and *R*, then the values of *V* and *P* will also equal 1.  The number 1 is unlike every other number, and even Euclid excluded the number 1 in his *The Fundamental Theorem of Arithmetic*, which states:
+Let’s apply values to these points to make it clearer.  Above is a tholon map where *R=2*, *I=3*, *V=6* (and the implied *P=12*).  These numbers satisfy the formulas of Ohm’s law as you can see by the added gray functions (i.e.  <img src="/home/jw/books/tholonia/Images/math/318.svg" alt="\frac{6}{2}=3" style="vertical-align: middle;height:14pt;"/>, etc).  These are not arbitrary numbers.  They are the smallest numbers that represent the properties of each point, mathematically speaking.  Why do we not start with the number 1 then?  Because the properties of 1 are the antithesis of creation.  1 represents perfect unity and balance, whereas every number greater that 1 represents separation and imbalance.  For example, if we applied the values of 1 to *I* and *R*, then the values of *V* and *P* will also equal 1.  The number 1 is unlike every other number, and even Euclid excluded the number 1 in his *The Fundamental Theorem of Arithmetic*, which states:
 
 > Every positive integer **greater than one** can be written uniquely as a product of primes, with the prime factors in the product written in order of nondecreasing size.  **\~ Euclid, 4th century B.C.**
 
@@ -65,7 +65,7 @@ The number 1 is a very lonely number as it stands in a class all by itself:
 
 In fact, from the philosophical perspective of the Neoplatonists, the number 1 is not even considered a number in the traditional sense, but rather the *source* of all numbers.
 
-So, why not start counting with 2 rather than 6? Because we assume that the children of N, when recombined, must equal N.
+So, why not start counting with 2 rather than 6? Because we assume that the children of N, when recombined, must equal N.  We can test this numbers by applying the formulas of Newton’s 2^nd^ and see that the bases of the trigrams apply *multiplication*, and the sides apply *division*, and consequently create perfect inverted replicas of themselves in the children.
 
 For these, and other reasons, we can not start counting with the number 1, but need to start with the first number that represents a *product* of 1, or, a number that acts like a normal number in a practical sense.
 

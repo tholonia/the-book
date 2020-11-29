@@ -155,7 +155,7 @@ This pattern that is created by the flow of energy across a field of potential c
 
 <center><img src='../Images/lightning-3.png' style='width:100%'/></center>
 
-In contrast to the above patterns, we have those created by modern man, which are more like crystalline structures.  Perhaps this represents the stage that conscious intelligence is at, the *crystallizing* stage, which for the Universe was four billion years ago.
+In contrast to the above patterns, we have those created by modern man, which are more like crystalline structures.  Perhaps this represents the stage that conscious intelligence is at, the *crystallizing* stage, which for the Universe, was four billion years ago.
 
 <center><img src='../Images/citychip-2.png' style='width:100%'/></center>
 
