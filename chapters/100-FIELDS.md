@@ -29,7 +29,7 @@ Let’s look at a classical field for a moment.  A magnetic field is caused by t
 
 The greater the energy (as current), that is traveling through a medium, the greater the magnetic field it creates.  This magnetic field is a form of energy, so just as the movement of electricity can form a magnetic field, so too can a magnetic field form electricity.  No energy is being created, just changed from one form to another form.  This transformation, specifically in the case of electricity and magnetism, is called induction.  As the word implies, induction is the “ability to persuade or influence (someone or something) to do something.”  Thus, every field can induce anything in its proximity to change in some way and to some degree.
 
-Applying this to the thologram, at the “top” we have a very simple field, that which exists between the first two poles which were created by the primal dot.  Every child field is induced by its parent (and ancestors), and the parent is induced by the child (and all descendants).  The thologram is one large field of ever-embedded fields all inducing one another, all of which are expressions of the primal awareness, all of which are interacting with, and dependent on, one another.
+Applying this to the thologram, at the “top” we have a very simple field, which exists between the first two poles created by the primal dot.  Every child field is induced by its parent (and ancestors), and the parent is induced by the child (and all descendants).  The thologram is one large field of ever-embedded fields all inducing one another, all of which are expressions of the primal awareness, all of which are interacting with, and dependent on, one another.
 
 There are many legends, stories and theories, ancient and modern, attesting to the power of awareness.  We won’t get into them here other than to say that if reality and awareness are intertwined, then it would be reasonable to expect that just as reality has an effect on awareness, awareness can have an effect on reality, especially as awareness is an integral part of reality and not simply an effect of evolutionary causes.  This is easier to accept when speaking of human awareness, but how does this associative relationship manifest in other instances, such as plants, rocks, planets and elements, all of which are some expression of the primal awareness to begin with?
 
@@ -39,7 +39,7 @@ As late as the 1950s, some scientists and most people in general thought that pl
 
 Sadly, some of the old guard is a tough bunch that is doing their best to keep us from making progress, not unlike the 9^th^-century Archdiocese.  Take the long-time editor of *Nature* magazine, Jim Maddox, who stated, regarding Rupert Sheldrake’s book on morphic fields:
 
-> “[his book] is the best candidate for burning there has been for many years.  Sheldrake’s is not a scientific theory.  Sheldrake is putting forward magic instead of science, and that can be condemned, in exactly the language that the Pope used to condemn Galileo, and for the same reasons: it is heresy.”[^93]
+> [his book] is the best candidate for burning there has been for many years.  Sheldrake’s is not a scientific theory.  Sheldrake is putting forward magic instead of science, and that can be condemned, in exactly the language that the Pope used to condemn Galileo, and for the same reasons: it is heresy.[^93]
 
 Yes, he actually cited Pope Paul V’s condemnation of Galileo as a defense on the grounds that *heresy* is the real crime.  This sounds eerily similar to “swarming with worms of heretical perversity.”
 
@@ -53,7 +53,7 @@ Sheldrake’s Morphic Field Theory, which he described in his 1981 book, *A New 
 
 Morphic fields described  (in 50 words):
 
-> “located invisibly in and around organisms, and may account for such hitherto unexplainable phenomena as the regeneration of severed limbs by worms and salamanders, phantom limbs, the holographic properties of memory, telepathy, and the increasing ease with which new skills are learned as greater quantities of a population acquire them.[^95]  **\~Rupert Sheldrake**
+> &hellip;located invisibly in and around organisms, and may account for such hitherto unexplainable phenomena as the regeneration of severed limbs by worms and salamanders, phantom limbs, the holographic properties of memory, telepathy, and the increasing ease with which new skills are learned as greater quantities of a population acquire them.[^95]  **\~Rupert Sheldrake**
 
 A more complete description is:
 
@@ -75,7 +75,7 @@ Because of their ability to transmit data across time and space, MFs have been c
 
 A lot more research is needed in the area of MF and MR, but this is slow in coming given the oppressive dogma of modern science.[^102] Others have been working on similar ideas, such as theoretical physicist Lee Smolin, with his idea of the *principle of precedence*[^103], which states that the history of measuring a particular quantum event will determine (or affect) the future measurements of that same event when it is measured.  Unfortunately, unlike the world of physics, biology has become more dogmatic in the 20^th^ century.
 
-One small detail, but hugely significant, is that morphic fields originate outside of space-time.  They exist in the realm of thought, or awareness, or consciousness (or all three).  Information, as we currently understand it, cannot travel faster than the speed of light (however, there is some evidence might suggest otherwise), but does this apply to awareness? According to the tholon model, no, it does not, because reality and the Universe *is* awarenss, and awareness is a 0D dot. There has been some research on awareness[^104], but it’s scant, and the results are far from clear-cut.
+One small detail, but hugely significant, is that morphic fields originate outside of space-time.  They exist in the realm of thought, or awareness, or consciousness (or all three).  Information, as we currently understand it, cannot travel faster than the speed of light (however, there is some evidence that suggests otherwise), but does this apply to awareness? According to the tholon model, no, it does not, because reality and the Universe *is* awarenss, and awareness is a 0D dot. There has been some research on awareness[^104], but it’s scant, and the results are far from clear-cut.
 
 Many people believe that one’s awareness can, with practice, travel outside of the body, and outside of this physical reality.  This is typically called *Out of Body Experiences* (OOBE), or *Astral Projection*.  Mainstream science is not a fan of this idea.  *Scientific American* suggests that OOBEs are caused by inner ear problems[^105].  This view, although not surprising, is disconcerting considering that some real research on OOBEs has shown remarkable evidence.
 
