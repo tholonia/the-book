@@ -65,7 +65,7 @@ Here is that correlation, just for fun:[^28]
 
 This process of understanding is similar to recognizing a pattern in a series of random dots, as in the dancing-woman-in-the-dots example above (right).  In that image I can definitely see a person dancing, and I can easily prove it by connecting the dots.  I am not wrong, but neither is the person who sees an egg sandwich.
 
-This ability to recignize patterns exuists in our neurology,  next dot will land or in determining the properties and attributes of the dots, based on the understanding of our perceptions, will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.
+This ability to recognize patterns exists in our neurology,  next dot will land or in determining the properties and attributes of the dots, based on the understanding of our perceptions, will most likely fail.  Through trial and error, testing, and proofs, we will finally discover that these dots represent no specific pattern.  Once we recognize the concept of randomness, we can name it, define it, and study it.
 
 Humans began grasping this concept of randomness about 3,000 years ago, but named it things like “fate”, “chance”, and “destiny”, and, being unpredictable, was usually associated with some sort of supernatural justice or punishment.  It wasn’t until the 16^th^ century that Italian mathematicians began to formalize the concept of what we call randomness, so it’s still quite a young concept.
 
@@ -93,7 +93,7 @@ Anything that exists can only sustain its existence if it exist within the const
 
 This raises an interesting question: if (high-entropy) chaos is the ultimate state of the Universe, a state where everything is inert, motionless and dead, then it must also be the most sustainable state as it will never change once arrived at.  Oddly, this appears to be true, but this is also an example of the two kinds of *balance*.  The dead state is the state of *balance* (noun) that has no movement, which is the opposite of the action of *balance* (verb), which is a dynamic and interactive process of energy and movement.
 
-All the movement of energy that exists at every level of reality is the result of energy traveling the path of least resistance as it seeks balance.  We see examples of this everywhere, but one of the more dramatric examples is when  hydrochloric acid is mixed with sodium hydroxide.  After an extremely violent readjustment phase that releases a lot of energy (heat), it settles down to very stable, lower energy-demanding products of water and table salt.
+All the movement of energy that exists at every level of reality is the result of energy traveling the path of least resistance as it seeks balance.  We see examples of this everywhere, but one of the more dramatic examples is when  hydrochloric acid is mixed with sodium hydroxide.  After an extremely violent readjustment phase that releases a lot of energy (heat), it settles down to very stable, lower energy-demanding products of water and table salt.
 
 The Universe, starting with the extremely violent Big Bang and ending (according to at least one popular theory) as a bunch of inert matter, the cosmic equivalent of water and table salt, is essentially the readjustment phase of different states of imbalance coming to terms with one another.  Reality is the reaction of this adjustment, and like the chemical reaction just mentioned, will ultimately balance out and just sit there, doing nothing.
 
@@ -101,7 +101,7 @@ The ultimate destination of sustainability, on the cosmic scale, is death.  In o
 
 #### **Claim 20:** Sustainability is a gauge of existence, and therefore life itself, at every level of reality.
 
-Pions exist for about 26 nanoseconds, while the most massive black hole known, approximately 66 billion times larger than our sun, would require 6x10^99^ years to evaporate.  Does this mean that black holes are more “valid”, more “true” than pions? No, because the pion’s existence, short as it is, is inevitable, otherwise the forces that caused it into existance it would not have done so, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10^99^ years is actually longer than the life span of the Universe).  By this logic, we can say that both pions and black holes are equally true and valid, but one’s truth is sustainable for a bit longer.
+Pions exist for about 26 nanoseconds, while the most massive black hole known, approximately 66 billion times larger than our sun, would require 6x10^99^ years to evaporate.  Does this mean that black holes are more “valid”, more “true” than pions? No, because the pion’s existence, short as it is, is inevitable, otherwise the forces that caused it into existence it would not have done so, but the validity of a pion, essentially the truth of its explicit existence, is only valid for 26 nanoseconds while the validity of a black hole is forever (as 6x10^99^ years is actually longer than the life span of the Universe).  By this logic, we can say that both pions and black holes are equally true and valid, but one’s truth is sustainable for a bit longer.
 
 #### **Claim 21:** Something exists because its expression of energy patterns adheres to an order that must be maintained to continue existing.
 
@@ -164,6 +164,8 @@ Beyond that, there are 172 different types of this one-in-40000 species in the j
 > Wanadi: “OK!”
 
 On the other hand, if one were to ask a shaman how these things were discovered, he would simply say, “The plants told us”. Other cultures who have similar stories might say their ancestors told them, or the crickets, or the bones of a sacred animal, or the cracks in the shell of a tortoise after it has been heated and then dropped into cold water and then compared to the position of the stars, as was the case with the origins of the Chinese I-Ching.
+
+
 
 ## Ancient Mysteries
 

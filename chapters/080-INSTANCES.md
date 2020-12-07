@@ -480,6 +480,10 @@ Approaching this tholonically, we'd say that the balanced price will always repr
 
 I have no doubt that serious research would yield interesting results. From the tholonic perceptive, knowing that perhaps the stock market, music, story telling, batteries, electrical circuits, and much more, all have a correlation is interesting, but suggesting they are all effects of a higher-order cause is much more interesting.
 
+Here is what all four calculated values looks like compared to the actual historic prices.
+
+<center><img src='../Images/t-trade.png' style='width:100%'/></center>
+
 ## Faith & Belief
 
 Previously, we used the example of Cognitive Behavioral Therapy as an example of a triplet of understanding as it might apply to psychology.  We can expand on that a bit by looking beyond psychology alone and more into not only the most fundamental way we perceive reality, but the very drivers of how our societies and culture are formed, these being *belief* and *faith*.  Typically, this is seen in the dichotomy of spirit and science, but it goes far beyond that.  Both of these concepts attempt to model the Truth, but because we can't ever know of an ultimate truth, if one even exists, the best we can attempt to achieve is an *understanding* of a contextual Truth.
