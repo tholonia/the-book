@@ -1,5 +1,7 @@
 <div style='page-break-after: always; break-after: always;'></div>
-# Appendix A - About This Book
+
+# Appendix A: About This Book
+
 ###### Technical information the reader may want to know
 
 ## Writing Style

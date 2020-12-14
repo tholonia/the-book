@@ -1,7 +1,6 @@
 <div style='page-break-after: always; break-after: always;'></div>
-<div style='page-break-after: always; break-after: always;'></div>
 
-# Appendix H - Structured Water
+# Appendix H: How To Make Structured Water
 
 ###### How to make it and who is using it
 

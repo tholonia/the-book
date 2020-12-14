@@ -1,9 +1,9 @@
 <div style='page-break-after: always; break-after: always;'></div>
-<div style='page-break-after: always; break-after: always;'></div>
 
-# Appendix E - Hidden Images
+# Appendix E: Hidden Images
 
 ###### Information encoded within information
+
 <center><img src='../Images/embedded-page.png' style='width:100%'/></center>
 
 *Credits, left to right, top to bottom.*
@@ -28,7 +28,6 @@
 
 **Compass** by *Disasterpeace* (FEZ Soundtrack). Image via Black Coffee Spirit
 
-**Look** by *Venetian Snares*. Image via Jarmo Niinisal 
+**Look** by *Venetian Snares*. Image via Jarmo Niinisal
 
 *Complete images and more at https://twistedsifter.com/2013/01/hidden-images-embedded-into-songs-spectrographs/*
-

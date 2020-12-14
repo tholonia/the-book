@@ -44,7 +44,7 @@
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA 3.7.18";
+            content: "THOLONIA 3.7.29";
 
             text-align:center;
             font-family: serif;
@@ -299,3 +299,18 @@ img {
 
 // <HR>is now pagebreak
 hr{opacity:0;page-break-after: always;}
+
+/* hide the anchor HTML */
+a[name]:empty + .md-raw-inline {
+  display:none;
+}
+a[name]:empty {
+  text-decoration: none;
+}
+a[name]:empty:before {
+ content:"⚓";
+}
+/* show the anchor HTML when cursor is inside */
+.md-expand .md-raw-inline {
+    display: inline !important;
+}

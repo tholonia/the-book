@@ -1,7 +1,6 @@
 <div style='page-break-after: always; break-after: always;'></div>
-<div style='page-break-after: always; break-after: always;'></div>
 
-# Appendix D - Greek Gods
+# Appendix D: Greek Gods
 
 ###### You wouldn't want to bump into them in a dark alley
 

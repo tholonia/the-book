@@ -88,3 +88,19 @@ a.md-toc-inner { font-size: 14pt !important; color: black !important; }
 .footnote-ref { text-decoration: none; font-size: 8pt;}
 .footnotes { font-size: 8pt;}
 .typora-export .footnote-line, .typora-export li {white-space:pre-wrap;}
+
+
+/* hide the anchor HTML */
+a[name]:empty + .md-raw-inline {
+  display:none;
+}
+a[name]:empty {
+  text-decoration: none;
+}
+a[name]:empty:before {
+ content:"⚓";
+}
+/* show the anchor HTML when cursor is inside */
+.md-expand .md-raw-inline {
+    display: inline !important;
+}

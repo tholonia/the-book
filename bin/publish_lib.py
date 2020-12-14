@@ -30,7 +30,7 @@ chapters_prod = [
     '550-F-An_Unexpected_Pattern',
     '560-G-The_Tholonic_I-Ching',
     '570-H-How_to_Make_Structured_Water',
-    '580-I-market_Data',
+    '580-I-Market_Data',
 ]
 
 

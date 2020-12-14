@@ -352,7 +352,7 @@ From the tholonic perspective, this is a very incomplete description because it 
 
 <center><img src='../Images/051-firstdot.png' style='width:100%'/></center>
 
-*(Unfortunately, if you are reading this on a black and white eBook reader, these color patterns are meaningless. See Appendix A, “About This Book” to test the gray scale of the primary colors on your e-reader.)*
+*(Unfortunately, if you are reading this on a black and white eBook reader, these color patterns are meaningless. See  [Appendix A, “About This Book”](#Appendix-A:-About-This-Book) to test the gray scale of the primary colors on your e-reader.)*
 
 We start with a 0-dimensional dot represented by a blue dot in the middle of nothing *(**Fig. c1**)*.  Because it is 0 dimensions and surrounded by nothing, it only exists as a concept.  It has no form, no dimensions, no properties other than that it is a *concept* of a point that exists.  But where does it exist? It can’t be measured, seen, or interacted with in any way, so how can we say it even exists?  We can only say it exists because of the awareness of its existence.  The only difference between a void of nothingness and a void of nothingness with an imaginary point in it is the *idea* of an imaginary point in a void of nothingness.  Without the awareness of its existence, the void of nothingness would simply remain a void of nothingness.  This is our first duality, that of *nothingness* and the concept of *somethingness*, and also the first condition of imbalance.
 
@@ -412,7 +412,7 @@ We now have a tetrahedron.
 
 We can easily demonstrate this by simply folding the three outer trigrams up until their three points meet.  The folding occurs naturally because it represents the most balanced and efficient interaction between a set of four unique dots (R, G, B, W), and as energy will always travel the path of least resistance, folding would naturally occur.
 
-*Note: This same concept is also explained in a mathematical manner in the chapter “How Creation Works” in Appendix G, “Tholonia and the I-Ching”.* 
+*Note: This same concept is also explained in a mathematical manner in the chapter “How Creation Works” in  [Appendix G, “The Tholonic I-Ching”](#Appendix-G:-The-Tholonic-I-Ching).* 
 
 ## Holons to Tholons
 

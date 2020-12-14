@@ -1,7 +1,6 @@
 <div style='page-break-after: always; break-after: always;'></div>
-<div style='page-break-after: always; break-after: always;'></div>
 
-# Appendix C - Tholonic Math
+# Appendix C: Tholonic Math
 
 ###### The archetypes of Form follows function
 
@@ -115,7 +114,7 @@ In chapter 4: Laws, we showed how <img src="../Images/math/301.svg" alt="\frac1-
 
 In other words, the sum of 1 divided by all odd numbers (which is &infin;) minus the sum of 1 divided by all even numbers (which is &infin;) equals the natural Log of 2.
 
-We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in Appendix F, “*An Unexpected Pattern*”):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
+We also see the significance of 2 in the Riemann Zeta Function (which we explain and look at in [Appendix F, “*An Unexpected Pattern*”](#Appendix-F:-An-Unexpected-Pattern)):  ζ(2)=<img src="../Images/math/311.svg" alt="\frac{\pi ^{2}}{6}" style="vertical-align: middle;height:18pt;"/> and ζ(2^-1^)=0, or ζ(<img src="../Images/math/309.svg" alt="\frac{1}{2}" style="vertical-align: middle;height:14pt;"/>) = 0.
 
 <img src="/home/jw/books/tholonia/Images/math/324.svg" alt="\sqrt{2}" style="vertical-align: middle;height:10pt;"/> is also the basis of the less famous ratio called the Silver Ratio, which is similar to the Golden Ratio. Both of these, and more, are members of what is called the *Metallic Ratios*; gold, silver, bronze, copper, etc.  While the Golden Ratio’s mean is between 1 and 2 (1.618), the Silver Ratio’s mean is between 2 and 3 (2.414), the Bronze Ratio between 3 and 4, and so on.  Here are the first three of the Metallic Ratios:
 

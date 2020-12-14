@@ -354,6 +354,8 @@ for opt, arg in opts:
         print(f"NEW VERSION: {update_ver()}")
 
 mkcss()
+
+
 rebuildmd()  # make new complete MD file
 
 
@@ -361,6 +363,8 @@ rebuildmd()  # make new complete MD file
 # os.system(f"cp {H}/chapters/100.md  {H}/chapters/THOLONIA_THE_BOOK.md")
 
 #
+
+
 
 pub_prep()
 md2html("THOLONIA_THE_BOOK")

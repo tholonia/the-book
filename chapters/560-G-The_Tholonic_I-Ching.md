@@ -1,7 +1,6 @@
 <div style='page-break-after: always; break-after: always;'></div>
-<div style='page-break-after: always; break-after: always;'></div>
 
-# Appendix G - The Tholonic I-Ching
+# Appendix G: The Tholonic I-Ching
 
 ###### Examining the I-Ching from a Tholonic perspective. !!This section of very beta... much of it will probably change!!
 
@@ -318,7 +317,7 @@ The tholonic model states that the *green dot* (*Definition*) is what creates li
 
 We start by assigning N=1. As D and C are part of, or children of N, we then calculate D as <img src="../Images/math/331.svg" alt="\frac{1}{c}" style="vertical-align: middle;height:18pt;"/> and C as <img src="../Images/math/332.svg" alt="\frac{1}{d}" style="vertical-align: middle;height:18pt;"/>. To create a new instance of N we start with the original N, subtract D, and add C.  So,  N~1~=N~0~ - <img src="../Images/math/333.svg" alt="\frac{1}{d}+\frac{1}{c}" style="vertical-align: middle;height:18pt;"/>, or  N~1~=1 - <img src="../Images/math/334.svg" alt="\frac{1}{5}+\frac{1}{2}" style="vertical-align: middle;height:18pt;"/>= 0.78539822525372. We repeat this process again, but we increment *d* and *c* by  *n^2^*. After doing this a million or so times, we get the number 0.7853982294712. Multiply this number by *n^2^* (which is 4) and you get &pi;.
 
-This graph below diagrams the process (and shows the results already multiplied by 4). Notice how this is exactly the same model that was proposed for transforming a holon from the holarchic model, to a tholon. Included are the formulas that show how to do the calculations with nothing but the existing I-Ching values and using the mathematical relationships of the tholon (see *Appendix C, “Tholonic Math”*)
+This graph below diagrams the process (and shows the results already multiplied by 4). Notice how this is exactly the same model that was proposed for transforming a holon from the holarchic model, to a tholon. Included are the formulas that show how to do the calculations with nothing but the existing I-Ching values and using the mathematical relationships of the tholon (see [Appendix C, “Tholonic Math”](#Appendix-C:-Tholonic-Math_) )
 
 <center><img src='../Images/pi-holons2.png' style='width:100%'/> </center>
 
@@ -691,7 +690,7 @@ However, several other validating patterns emerged that were pretty astounding.
 
 <center><img src='../Images/tetrahex-hex-triplet-3.png' style='width:100%'/></center>
 
-Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or 6&times;6&times;6 (see *New Data* chapter in Appendix C, “Tholonic Math”).
+Notice that every value can be defined by a formula that only uses the first 4  prime numbers, or is itself a prime number!  It was also a nice surprise that the sum of all values in the central tholonic trigram was 216, or 6&times;6&times;6 (see *New Data* chapter in [Appendix C, “Tholonic Math”](#Appendix-C:-Tholonic-Math) ).
 
 Notice how each of the four triangular sections (in ***Fig. h3a***, and by implication, ***Fig.h3***) have values that exist within each triangle as either red-framed *moving* or green-framed *transitional* values, i.e. hexagrams 36, *Keeping Still* <img src='../Images/bc/hexagramB36.png' style='width:30px'/>, 27, *Joyous* <img src='../Images/bc/hexagramB27.png' style='width:30px'/>, 21, *After Completion* <img src='../Images/bc/hexagramB21.png' style='width:30px'/>, and 42, *Before Completion* <img src='../Images/bc/hexagramB42.png' style='width:30px'/> .
 

@@ -1,7 +1,6 @@
 <div style='page-break-after: always; break-after: always;'></div>
-<div style='page-break-after: always; break-after: always;'></div>
 
-# Appendix I - Market Data
+# Appendix I: Market Data
 
 ###### Applying Newton’s 2^nd^ Law to the Market (very beta)
 

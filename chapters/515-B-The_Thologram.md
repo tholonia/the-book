@@ -1,5 +1,6 @@
 <div style='page-break-after: always; break-after: always;'></div>
-# Appendix B - Tholonic Structure
+
+# Appendix B: Tholonic Structure
 
 ###### How the tholonic structure is defined
 

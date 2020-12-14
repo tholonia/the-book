@@ -1,8 +1,7 @@
-
 <div style='page-break-after: always; break-after: always;'></div>
 # 8: INSTANCES
 
-###### Examples of how tholonic archetypes instantiate 
+###### Examples of how tholonic archetypes instantiate
 
 ### Archetypes
 
@@ -48,7 +47,7 @@ Some details worth noting:
 
 - Every shape begins (emerges, evolves, or grows) from a point of 0-dimensional nothingness into a 1-dimensional space, and from there into a higher dimensional space.
 - Each expression in a dimensional space will utilize all available dimensions; i.e. if given the nature and scope of an instance that it will move *N* units, then in a 1-dimensional space it will move *N* units in one dimension. In a 2 dimensional space it will move *N* units in 2 dimensions, etc. In our example, our line is moved 5 units. In the 1-dimensional space that was 5 units of 1D measure, and in the 2-dimensional space, it rotates 5&deg;.
-- The point of origin (0D point) remains the center point around which something instantiates, but its virtual location in the lines delineates a boundary that has significance. 
+- The point of origin (0D point) remains the center point around which something instantiates, but its virtual location in the lines delineates a boundary that has significance.
 
 <img src="../Images/heartsilp.png" style="float:right;width:25%"/>*The silphion plant is also a similar shape, similar to the strawberry, but with an interesting historical and cultural footnote as its shape is the origin of our traditional heart symbol.   As well as being known to cure many ailments, it was a natural contraceptive, and so was associated with love and passion. Not only was the plant worth its weight in silver, the Romans kept 1,500 kilos of it in the treasury as a hedge. Coins were minted with the image of the silphion seed, which had the same shape. Sadly, that particular variety was farmed into extinction, with the last known stalk given to Emperor Nero, as the legend goes.*
 
@@ -112,7 +111,7 @@ OK, that’s enough geometry.  Let’s look at some chemistry.
 
 ### Water
 
-We mentioned above that the first instance of matter would be tetrahedral, at least conceptually, but we also stated that form, being an instantiation of the laws of form, would follow that model, meaning we should expect to see tetrahedral structures as one of the building blocks of reality.  And guess what? We do! 
+We mentioned above that the first instance of matter would be tetrahedral, at least conceptually, but we also stated that form, being an instantiation of the laws of form, would follow that model, meaning we should expect to see tetrahedral structures as one of the building blocks of reality.  And guess what? We do!
 
 The actual first instance of matter in the Newtonian sense (vs. the quantum sense) are the elements, but no element has a tetrahedral structure when it is isolated.  It is the bonds *between* elements that create the tetrahedral structure.  In the tholonic model, the individual elements exist at the first level of the thologram, which are the first tholons created by the folding of the 2D “map” and are shown as the numerous and small tetrahedrons upon which ever-larger tetrahedral structures emerge from.  That means we will not see actual tetrahedrons on this level, but we will see the same tholonic properties, such as form seeking the most stable state.  We don't see tetrahedral forms in 3D structures until the first iteration that emerges.  A single *H~2~O* molecule is not a tetrahedron in form, it is a trigram.  Water, however, is tetrahedral.
 
@@ -140,7 +139,7 @@ This is just a hypothetical demonstration, as there may be a much better tholoni
 
 Can we see this similar relationship with other compounds? Given that the basic archetypal shapes of molecules (shown above) can be represented within the thologram, perhaps this model can be applied to all compounds.  We claim this might be possible, as there is an almost infinite number of possible configurations in the thologram.  Instances of fundamental configurations, such as those that appear in the earlier stages of iterations and generations, like the Fibonacci sequence and the hexagram, would represent extremely stable patterns, and therefore we would expect to see them play a very fundamental part in our reality (like water and methane) and could be easily discovered.
 
-The Fibonacci formula is especially tholonic.  For details, see “*Fibonacci Tholon*” in Appendix C, “*Tholonic Math*”.
+The Fibonacci formula is especially tholonic.  For details, see “*Fibonacci Tholon*” in [Appendix C, “*Tholonic Math*”](#Appendix-C:-Tholonic-Math).
 
 ### Quarks and Atoms
 
@@ -162,13 +161,13 @@ We need to very briefly address one item before continuing.  Within the first th
 
 Only one of those patterns is self-similar, and that is the pattern caused by the lines that can support an N-state, which is the line that represents the spectrum between the two poles (of red C and green D) of an individual tholon, or the matrix of N-states that exists between the two opposite grids.  This will be very significant in a few paragraphs.
 
-If we looked at the 2D thologram map which shows these complete double-tholons, we get what is shown in ***Fig. q2***.  (For those who read Appendix B, you’ll notice this is identical to ***Fig. h1*** that shows the lines of succession from N-sources to N-states across all three directions).  This would suggest that if our quark model is in the ball park, then quarks are an early instance of N-states.  Given that there are 6 N-states to a complete tholon, that would suggest there might be 6 classes of quarks, and is it just so happens, there are, but they are called “flavors”, and they are: *up, down, strange, charm, bottom*, and *top*.
+If we looked at the 2D thologram map which shows these complete double-tholons, we get what is shown in ***Fig. q2***.  (For those who read [Appendix B, "The Thologram"](#Appendix-B:-The-Thologram), you’ll notice this is identical to ***Fig. h1*** that shows the lines of succession from N-sources to N-states across all three directions).  This would suggest that if our quark model is in the ball park, then quarks are an early instance of N-states.  Given that there are 6 N-states to a complete tholon, that would suggest there might be 6 classes of quarks, and is it just so happens, there are, but they are called “flavors”, and they are: *up, down, strange, charm, bottom*, and *top*.
 
 Neutrons *do* exist, which seems to go against the tholonic idea that the virtual tholons don’t create anything, but remember, this thologram is a model of energy and relationships, not of form, so what we would expect to see is some *thing* that has zero energy&hellip; like a neutron. In fact, the neutron does have a charge even more powerful that the proton, but it is a charge made up up both positive and negative, thereby balancing it out to 0.  And what holds all these subatomic particles together? The *strong nuclear force* (mainly), which (perhaps) is the tholonic equivalent of six integrated N-sources at the center of every hexagram.
 
 This would seem counter-intuitive as the *strong nuclear force* (SNF), which got its name because it is the strongest force in the universe (10^39^ times more powerful than gravity), would not allow similar energies to couple, but rather repel, as we know positive repels positive and negative repels negative.  However, the SNF has a “weird” quality such that it only repels like forces *after* they are separated.  When these forces are close to one another, the SNF pulls them together! Physicists call them weirdness *asymptotic freedom* (and sounds eerily similar to a dynfunctional romantic relationship).
 
-This “weirdness” seems similar to how a magnet that breaks in two can't be put back together as the two parts repel each other when the break is perpendicular to the poles, as shown below. Anyone who has worked with rare-earth magnets has learned from painful experience that when these two opposing halves get close enough, they violently flip so as to be able to connect. The specific mechanics of magnetism and the SNF may not be identical, but they seem to have a similar effect but in different scopes. 
+This “weirdness” seems similar to how a magnet that breaks in two can't be put back together as the two parts repel each other when the break is perpendicular to the poles, as shown below. Anyone who has worked with rare-earth magnets has learned from painful experience that when these two opposing halves get close enough, they violently flip so as to be able to connect. The specific mechanics of magnetism and the SNF may not be identical, but they seem to have a similar effect but in different scopes.
 
 <center><img src='../Images/magnets.png' style='width:75%'/></center>
 
@@ -214,7 +213,7 @@ Addition and subtraction are easy concepts to grasp.  We take some number of thi
 
 <center><img src='../Images/090-addition.png' style='width:80%'/></center>
 
-What about multiplication and division then? In this context we will describe division as *the definition of one value by the units of another value*.  For example, in division, such as 3=<img src="../Images/math/340.svg" style="vertical-align:middle;height:18pt"/> we are stating that 3 is what we get when we measure an existing value of 12 by a unit of 4.  In multiplication, such as *12=3&times;4,* we are determining a new value of 12 by combining 3 of these units-of-4.  The 4, as the divisor or multiplier, is the *unit of measurement* and the 3 is the *number of units*.  Every kid knows what was just stated, but when we apply those same simple rules and concept to a non-math context, they become very significant.  (For highly speculative thoughts on the meaning of squares and square roots see *Meaning of Squares and Square Roots* in Appendix C, “Tholonic Math”)
+What about multiplication and division then? In this context we will describe division as *the definition of one value by the units of another value*.  For example, in division, such as 3=<img src="../Images/math/340.svg" style="vertical-align:middle;height:18pt"/> we are stating that 3 is what we get when we measure an existing value of 12 by a unit of 4.  In multiplication, such as *12=3&times;4,* we are determining a new value of 12 by combining 3 of these units-of-4.  The 4, as the divisor or multiplier, is the *unit of measurement* and the 3 is the *number of units*.  Every kid knows what was just stated, but when we apply those same simple rules and concept to a non-math context, they become very significant.  (For highly speculative thoughts on the meaning of squares and square roots see *Meaning of Squares and Square Roots* in [Appendix C, “Tholonic Math”](#Appendic-C:-Tholonic-Math))
 
 As mentioned above, we would expect to see the same laws expressed in different ways across all the scopes that the laws apply to, so we would expect to see an example of Newton’s 2^nd^ law in the tholonic realms of society, or planets, or organisms, and we do.  For comparison, we also show how the attributes of the tholon would appear using the same laws.  *(Note: In the image below, the lower case “neg“ represents a new child N-state that results from the children of the parent “NEG”.)*
 
@@ -222,9 +221,9 @@ As mentioned above, we would expect to see the same laws expressed in different 
 
 For example, if we claim that a **society** is based on its **ethics** and we also posit that **ethics** are to be measured by **laws**, we can say ***society=ethics&div;laws***, and likewise, ***ethics=laws&times; society***.  If we measure the **power** of a **society** by its ability to function or “**work**”, and the measure of a **society** by its **sustainability**, then, according to these formulas, a **society** with a lot of **laws** and very little **ethics** will **work** less and be less **sustainable**.  On the other hand, a **society** that has a lot of **ethics** and very few **laws** will be far more **sustainable** and produce even more **work**.
 
-Here, we interpret “laws” as *limiting factors* with regard to its members.  The 1^st^ amendment of the U.S. Constitution guaranteeing the right to free speech is a law, but it is a limitation on a limitation, in that it prevents the State from limiting one’s free speech.  Laws as limiting factors would be laws that block or prevent members of society, and equates to degrees of freedom.  For context, as example of a society with a lot of limiting laws and very little ethics would be North Korea or Syria.  An example of a society with few limiting laws and high ethics would be Norway or Sweden.  *Note: These ranking are according to institutions that rank countries* [^309]. 
+Here, we interpret “laws” as *limiting factors* with regard to its members.  The 1^st^ amendment of the U.S. Constitution guaranteeing the right to free speech is a law, but it is a limitation on a limitation, in that it prevents the State from limiting one’s free speech.  Laws as limiting factors would be laws that block or prevent members of society, and equates to degrees of freedom.  For context, as example of a society with a lot of limiting laws and very little ethics would be North Korea or Syria.  An example of a society with few limiting laws and high ethics would be Norway or Sweden.  *Note: These ranking are according to institutions that rank countries* [^309].
 
-How can we say this? 
+How can we say this?
 
 If we claim that individuals interacting with each other represents a *force*, then we might say this interaction correlates with *current*.  If *ethics* represents the arena in which individuals operate, then we could correlate *ethics* with *voltage*.  *Laws*, which define and limit the members, would then reasonably be correlated to *resistance*.  
 
@@ -256,7 +255,7 @@ This can apply to any properly defined trigram.  For example, if we applied this
 
 I am not claiming that the values I have assigned for these examples are accurate.  I suspect it would take quite a bit of discussion and research to find the best values.  The point of this is to suggest that with the correct values, these equations would produce meaningful results. Still, someone who acts out of emotions with very little thought is bound to have a less sustainable lifestyle that one who tempers their emotions with thought, so these may not be too far off.
 
-In any case, the twelve formulas of Newton’s 2^nd^ show some potentially interesting relationships when applied to other contexts and may offer a new perspective on the dynamics of culture and society that, if nothing else, raises some worthwhile questions.  As it applies here, it shows how the tholon can describe everything from atoms to culture, as long as we know what data to apply.  Because the math involved in a tholon can be more than the reader might be interested in, more of this subject is covered in Appendix B, “Tholonic Math”.
+In any case, the twelve formulas of Newton’s 2^nd^ show some potentially interesting relationships when applied to other contexts and may offer a new perspective on the dynamics of culture and society that, if nothing else, raises some worthwhile questions.  As it applies here, it shows how the tholon can describe everything from atoms to culture, as long as we know what data to apply.  Because the math involved in a tholon can be more than the reader might be interested in, more of this subject is covered in [Appendix C, “Tholonic Math”](#Appendix-C:-Tholonic-Math).
 
 Because our 4D (3D+time) reality maps neatly into the 4D tetrahedron, especially when using the synergetic 4D quadray coordinate system based on the tetrahedron, we may be able to correlate radically different contexts, such as space-time,  psychology, and electricity, to name a few.
 
@@ -274,7 +273,7 @@ What a thing can *Contribute* is measured by its *Definition*, but the degree to
 
 A thing’s ability to find a stable and sustainable position within its environment and scope is determined by the degree to which it can contribute with its current resources.  A thing may have a *Definition* that gives it a lot of A and a little of B, but if its environment needs a lot of B and very little A, then it is B that the thing must *Contribute* to ensure its existence in that environment, or it needs to find another environment, or change its environment so that A is in more demand.
 
-Applying different values and concepts can result in new data.  We experiment with this a little, but given it is outside the main theme of this book, we have put that section under “New data?” in Appendix C, “Tholonic Math”
+Applying different values and concepts can result in new data.  We experiment with this a little, but given it is outside the main theme of this book, we have put that section under “New data?” in [Appendix C, “Tholonic Math”](#Appendix-C:-Tholonic-math)
 
 ### And the point is?
 
@@ -282,7 +281,7 @@ The point of all this is to show one way that the tholon can be used and viewed.
 
 <center><img src='../Images/093-DNA.png' style='width:70%'/></center>
 
-We showed examples of quarks and molecules, but in higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships.  *(DNA and how it is both tholonic and binary in nature is examined in Appendix "The Tholonic I-Ching")*
+We showed examples of quarks and molecules, but in higher orders, such as DNA, we also see some striking similarities as well, and with a bit of investigation, we can probably find some stunning relationships.  *(DNA and how it is both tholonic and binary in nature is examined in [Appendix G, "The Tholonic I-Ching"](#Appendix-G:-The-Tholonic-I-Ching))*
 
 DNA’s relationship with tetrahedrons is particularly unique given the creation of tetrahedrally structured DNA, or TDN as it is referred to.  TDN is the cutting edge of DNA nanotechnology and has various applications such as drug delivery, inhibiting certain gene expressions, and of course, interfacing with bio-sensors.  These TDNs assemble themselves from scratch and offer greater strength and stability that the ol’ fashioned dual-strand DNA.  Given that there is little accessible information on TDNs there is not much more that can be said here, other then they look pretty awesome and will most likely be the origin of a new form of life powered by TDN-interfacing A.I. DNA-integrated quantum computers.
 
@@ -346,7 +345,7 @@ How can we validate this similarity? Let’s  look at the following:
   -  The D (green) and C (red) alternate in direction and pair up, and in doing so create a new child *n*-state (yellow).
   -  There is no square that has a piece of N (blue). It is either all N (blue), all *n* (yellow), or DC*n* (red-green-yellow).
   -  Every quadrant that is not exclusively an N-state contains all the the other attributes (red, green, yellow) which alternate only along the path of the *lineage* (parent&rarr;child).
-  -  Each circle in the row is alternately flipped on both the N*n* (blue-yellow) axis of parent-child N-states and the across DC (red-green) axis. 
+  -  Each circle in the row is alternately flipped on both the N*n* (blue-yellow) axis of parent-child N-states and the across DC (red-green) axis.
   -  The direction of the overlaps are the same as the path of the lineage in the tholon.
   -  The overlapping values are a product of 3 &times; 0, 1, 2, and in an order that creates a continuous oscillation <img src='../Images/036.png' style='height:25px'/>. In addition, when these numbers are used as binary exponents (which we show why later) they all add up to 81: 2^3^ + 2^6^ + 2^3^ + 2^0^ = 8 + 63 + 8 + 1 = **81** = 9^2^ = 3^4^ = (3^2^)^2^ etc... We would expect to see a lot of 3-based numbers if this relates to the thologram.
 
@@ -356,7 +355,7 @@ How can we validate this similarity? Let’s  look at the following:
 
 <center><img src='../Images/rcgraphs.png' style='width:80%'/></center>
 
-This *time constant* is then used to calculate *V* and *I* using the formulas *V(τ)=V~B~(I-e^-τ/RC^)* and *I(τ)=I~0~(e^-τ/RC^)*.  The point here is not to explain the math, but to show not only that *V* and *I* relate to each other via *R* and *C*, and by extension, *D* and *C*, but that they do so across a field that in the world of electronics is defined by ***e***, or 2.7182, the number of the *natural log*.  This is especially interesting when applying the properties of this RC field to that of the DC field of the tholon, because ***e*** is one of the most profound and fascinating numbers in nature! 
+This *time constant* is then used to calculate *V* and *I* using the formulas *V(τ)=V~B~(I-e^-τ/RC^)* and *I(τ)=I~0~(e^-τ/RC^)*.  The point here is not to explain the math, but to show not only that *V* and *I* relate to each other via *R* and *C*, and by extension, *D* and *C*, but that they do so across a field that in the world of electronics is defined by ***e***, or 2.7182, the number of the *natural log*.  This is especially interesting when applying the properties of this RC field to that of the DC field of the tholon, because ***e*** is one of the most profound and fascinating numbers in nature!
 
 *Historical note: Although the value of **e** was discovered by Bernoulli in 1618, The fist appearance of **e** as the symbol for this value was in an unpublished paper by Euler in 1728 on the explosive forces in cannons.*
 
@@ -371,7 +370,7 @@ If you remember back in chapter 3, it was shown how logarithms were the natural 
 
 Considering that the tholon is a model of growth, it seems particularly applicable that ***e*** would define the field from which new N-states spawn new tholons.  
 
-<img src='../Images/ipe.png' style='float:right;width:30%'/>There is one more significance to ***e*** that is purely tholonic and will no doubt annoy math purists, but is added here because of symmetry.  As was just shown, the spectrum between *Definition* and *Contribution* is, in this context, defined by the value of ***e***. Referring back to how it was described that 1 point creates 2 points and 2 points creates 3 points, when we created the 2^nd^ point we had a 1D line from *Negotiation* to *Definition*.  However, we also had a center and a radius, thereby defining a circle.  In this way, the first two points implies the relationship between a radius and a circle, which is *pi*,  so were we to assign values to that 1D line , *pi* would be one of them.  If we accept the above premise that the value of *N*=0, the value of *D*=+1 (not to be confused with its position of 1), and the value of *C*= -1,  this makes the field within which new *n*-states can form along the spectrum of -1 to +1.  What value could we then assign to the line connecting points *N* and *C*?  Being that it is a value of -1 at position 2, one reasonable candidate is what ever value when multiplied by itself = -1&hellip; in other words, ***i***, the square root of -1.  This has a poetic ring to it as well if we imagine that the path that returns to nothing can’t be a number. 
+<img src='../Images/ipe.png' style='float:right;width:30%'/>There is one more significance to ***e*** that is purely tholonic and will no doubt annoy math purists, but is added here because of symmetry.  As was just shown, the spectrum between *Definition* and *Contribution* is, in this context, defined by the value of ***e***. Referring back to how it was described that 1 point creates 2 points and 2 points creates 3 points, when we created the 2^nd^ point we had a 1D line from *Negotiation* to *Definition*.  However, we also had a center and a radius, thereby defining a circle.  In this way, the first two points implies the relationship between a radius and a circle, which is *pi*,  so were we to assign values to that 1D line , *pi* would be one of them.  If we accept the above premise that the value of *N*=0, the value of *D*=+1 (not to be confused with its position of 1), and the value of *C*= -1,  this makes the field within which new *n*-states can form along the spectrum of -1 to +1.  What value could we then assign to the line connecting points *N* and *C*?  Being that it is a value of -1 at position 2, one reasonable candidate is what ever value when multiplied by itself = -1&hellip; in other words, ***i***, the square root of -1.  This has a poetic ring to it as well if we imagine that the path that returns to nothing can’t be a number.
 
 There are various rationales for why this makes sense, but the most attractive argument is because if this tholonic trigram represents the three values of ***e***, *&pi;*, and ***i***, we can construct what has been called the most elegant formula in math,  *<img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/>+1=0*.  This is also tholonically elegant because just as the two children of N, -1 and +1, together equal N (0), it is the two children  of N, as <img src="../Images/math/345.svg" style="vertical-align:middle;height:12pt"/> and +1, that also equal its parent N.  This formula integrates all the points and lines of the tholonic trigram into a beautiful concept.  In addition, as ***e*** represents time and *pi* represents space, we have the two dimensions of time and space, plus the mysterious, inexpressible value of ***i*** and the introduction of a *complex* dimension of numbers (complex numbers).
 
@@ -413,7 +412,7 @@ Calculus is another tetrahedral model that fits into the tholon nicely and could
 
   …which means our results (the derivative of *n*) will approach its limits (exactness) as the difference in our measurements (*Δx*) approaches its limit (0).
 
-**<img src='../Images/calculus-tri.png' style='float:right;width:45%'/>Integration** 
+**<img src='../Images/calculus-tri.png' style='float:right;width:45%'/>Integration**
 
 - **Uses the derivatives to calculate the area.**  The *Contribution* point of a tholon adds another dimension, so now we have 2-dimensionality (described by two 1D measurements).  In order to measure changes we need to look at a series of 2D points (which are made up of a series of 1D points, the *Derivatives*).  The less separation (*Δx*), where *x* can be time, space, some numerical variable, etc.)  between these points, the more accurate the results.  The smaller *Δx*, the more points (*n*) we have.  The sum of these points is expressed as the inverse notation of above:
 
@@ -435,7 +434,7 @@ Economics is one of the best instances of tholonic processes. As we've mentioned
 
 > Complexity economics asks how individual behaviors in a situation might *react to* the pattern they together create, and how that pattern would alter itself as a result, causing the agents to react anew.
 
-This is a very tholonic concept, but for now, let's just look at how the thologram and the stock market overlap. 
+This is a very tholonic concept, but for now, let's just look at how the thologram and the stock market overlap.
 
 The stock market is an aggregate of numerous values that are determined by the two constantly opposing forces of buying and selling.  While there may be many influential factors that drive those forces, the authoritative value in any one moment of time is a clear and indisputable *negotiated* number that has been agreed upon.  These opposing forces are illustrated in the chart below, where it shows the *depth* of each force and the ever-moving point where they cooperatively meet.  The X-axis is money, and the Y-axes is volume.
 
@@ -484,6 +483,8 @@ Here is what all four calculated values looks like compared to the actual histor
 
 <center><img src='../Images/t-trade.png' style='width:100%'/></center>
 
+More on this in [Appendix I, “#Appendix-I:-Market-Data”](#Appendix-I:-Market-Data).
+
 ## Faith & Belief
 
 Previously, we used the example of Cognitive Behavioral Therapy as an example of a triplet of understanding as it might apply to psychology.  We can expand on that a bit by looking beyond psychology alone and more into not only the most fundamental way we perceive reality, but the very drivers of how our societies and culture are formed, these being *belief* and *faith*.  Typically, this is seen in the dichotomy of spirit and science, but it goes far beyond that.  Both of these concepts attempt to model the Truth, but because we can't ever know of an ultimate truth, if one even exists, the best we can attempt to achieve is an *understanding* of a contextual Truth.
@@ -504,7 +505,7 @@ If we were to map these 6 concepts to a trigram it would look like the image on 
 
 <img src="../Images/understanding.png" style="float:right;width:50%"/>Let's review these concepts with the case of the farmer and the cow:
 
-**Data**: There is a farmer, a cow, a field, a bush, a large piece of paper, a neighbor. 
+**Data**: There is a farmer, a cow, a field, a bush, a large piece of paper, a neighbor.
 
 *Order: How do these pieces of data relate to one another?*
 
@@ -528,9 +529,9 @@ Here, faith in an absolute, unreasonable, irrational commitment to the understan
 
 so with the readers indulgence, here are the definitions we will use:
 
-**Faith**: *Subjective understanding*, i.e. an understanding that does not need any, or very weak, validating objective evidence to exist. This is how one understands their existence in relationship to all of existence, which is typically understood as God, the Universe, or some form of “Spirit”. An example of this might be "I have faith I am always where I am supposed to be", which is absolutely un-provable. 
+**Faith**: *Subjective understanding*, i.e. an understanding that does not need any, or very weak, validating objective evidence to exist. This is how one understands their existence in relationship to all of existence, which is typically understood as God, the Universe, or some form of “Spirit”. An example of this might be "I have faith I am always where I am supposed to be", which is absolutely un-provable.
 
-**Belief**: *Hypothetical knowledge*, i.e. knowledge that has some objective evidence, some supporting information, but has yet been tested.  In a way, *belief* is like *faith* but with some supporting evidence. This is how one understands their existence in relationship to other *instances* of existence. i.e. the world at-large.  It is almost synonymous with the phrase “educated guess”.  To say "I believe in the value of hard work" is another example of this definition of *belief*, as there is some objective evidence to support that belief.  In this sense, science is a belief systems, but one with rigorous testing and proofs.  This is how most people's belief system operates as the need for some sort of validating information is very strong.  This is a result of our tribalism, which is a string evolutionary program, and the also the source of guilt. 
+**Belief**: *Hypothetical knowledge*, i.e. knowledge that has some objective evidence, some supporting information, but has yet been tested.  In a way, *belief* is like *faith* but with some supporting evidence. This is how one understands their existence in relationship to other *instances* of existence. i.e. the world at-large.  It is almost synonymous with the phrase “educated guess”.  To say "I believe in the value of hard work" is another example of this definition of *belief*, as there is some objective evidence to support that belief.  In this sense, science is a belief systems, but one with rigorous testing and proofs.  This is how most people's belief system operates as the need for some sort of validating information is very strong.  This is a result of our tribalism, which is a string evolutionary program, and the also the source of guilt.
 
 A key point here is the *objective evidence*, for there can be plenty of subjective evidence that the person holds as valid, if not more valid, than objective evidence.  We see this in cases of people who have had extreme and profound subjective experiences, such those who experience near death or out of body experiences.  
 
@@ -538,23 +539,23 @@ Subjective understanding only applies to oneself, while objective understanding 
 
 Faith and belief can be contradictory.  For example, one might have faith they will be delivered from their hell, but when getting your legs broken while chained to the floor in a North Vietnamese prison, one could easily believe they will not survive.
 
-The tholonic view is that the objective and subjective are inextricably bound together being as they are not only two poles of the primal awareness, but the first duality of awareness.  If one could understand that primal awareness, the duality and division of the subjective and objective would no longer exist, just as we understand how day and night, while appearing opposite, are both the result of a spinning Earth. 
+The tholonic view is that the objective and subjective are inextricably bound together being as they are not only two poles of the primal awareness, but the first duality of awareness.  If one could understand that primal awareness, the duality and division of the subjective and objective would no longer exist, just as we understand how day and night, while appearing opposite, are both the result of a spinning Earth.
 
-In its most reduced form, we really only have three concepts (also shown in image, left, below): 
+In its most reduced form, we really only have three concepts (also shown in image, left, below):
 
 - **All**.  This is the domain of **faith**, as we have defined it, for faith is unlimited, free from facts, context, proof, scope, rationality, time/space, measure, or anything else.  This is Stockdale’s “*faith that you can’t afford to loose*”.
 - **All that *could* be**.  The is the domain of **belief**, as is limited to the possibilities that can exist in a given scope and context.
 - **All that actually is.**  This is the domain of **understanding**, and is defined by what actually exists, not theoretical, hypothetical, possible, etc., but that, and only that which actually exists, meaning that which has managed to form a stable pattern that can instantiate itself  in the context and scope of its environment. This is Stockdale’s “*facts of your current reality*”.
 
-<img src="../Images/faith-tholo.png" style="width:100%"/><img src="../Images/youknow.png" style="float:right;width:35%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on Earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  One of my personal favorite examples of this concept is illustrated in (slightly altered) well-known concepts (right). 
+<img src="../Images/faith-tholo.png" style="width:100%"/><img src="../Images/youknow.png" style="float:right;width:35%"/>"I have faith I can fly" will not end well if I do not limit my faith according to the context and scope of being a human that lives on a planet with gravity.  Considering these limitations, I can say "I believe I can fly", and working within my scope and context I can imagine an airplane.  When I finish successfully building my airplane, I can say "I understand one way how humans on Earth can fly".  This progression begins with faith, is honed by belief, and results in understanding.  It also describes the entire history of Man's journey of progress, and perhaps the journey of all things that are a form of intelligence.  One of my personal favorite examples of this concept is illustrated in (slightly altered) well-known concepts (right).
 
 While *faith* is the beginning of the path, the spectrum of creation exists between *all that is possible*, and *all that is*, or between *belief* and *understanding*.  Not surprisingly, as we can see in the image (right) above, not only is *faith* where the path begins, but where it leads to as well.  Tholonically speaking, *faith* is the only path, and all the stuff that *could be* or *is* are side effects, instances, or consequences of traveling that path, making *all that is* ultimately an instance of *faith*.   Faith in *what* is a question left for the reader to answer.
 
-<img src="../Images/schrodingerE.png" style="float:right;width:50%"/>Although worthy of a chapter, or even a book, we’d like to just briefly show how similar this model is to *Schrödinger Equation*, which is the 1926 equation of  Erwin Schrödinger that laid the foundation of quantum mechanics.  This equation is the quantum version of Newton’s laws, and “simply” says *potential energy + kinetic energy = total energy*.  At this point, the reader should easily see how this fits into the tholonic model, but we are sharing this here because of the remarkable parallels of **all** to *total energy*, **all that is possible** to *potential energy*, and **all that is** to *kinetic energy*, which neatly equates **faith** to *total energy*, **belief** to *potential energy*, and **understanding** to *kinetic energy*.  It’s also interesting to see that this revolutionary formula that has changed the way we understand reality is the simplest of all patterns, 2+1=3, that even a 6-year-old can grasp, but in a different context and scope. 
+<img src="../Images/schrodingerE.png" style="float:right;width:50%"/>Although worthy of a chapter, or even a book, we’d like to just briefly show how similar this model is to *Schrödinger Equation*, which is the 1926 equation of  Erwin Schrödinger that laid the foundation of quantum mechanics.  This equation is the quantum version of Newton’s laws, and “simply” says *potential energy + kinetic energy = total energy*.  At this point, the reader should easily see how this fits into the tholonic model, but we are sharing this here because of the remarkable parallels of **all** to *total energy*, **all that is possible** to *potential energy*, and **all that is** to *kinetic energy*, which neatly equates **faith** to *total energy*, **belief** to *potential energy*, and **understanding** to *kinetic energy*.  It’s also interesting to see that this revolutionary formula that has changed the way we understand reality is the simplest of all patterns, 2+1=3, that even a 6-year-old can grasp, but in a different context and scope.
 
 ## Consciousness
 
-The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid out in their paper “*Objects of consciousness*” [^77] can’t be ignored.  What also can’t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first draft of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.) 
+The highly respected and published team of Donald David Hoffman (cognitive psychologist, author, and Professor in the Department of Cognitive Sciences at the University of California, Irvine) and Chetan Prakash (PhD Mathematical Physics, Cornell University) developed the idea of a *conscious agent*, which is a dynamic process of consciousness and argue that it is the interaction between various agents that produce measurable phenomena such as the position, momentum, and energy of objects.  They further argue that these objects have no objective, absolute or even preexisting properties and only exist in relation to consciousness via these *conscious agents.* This is a radical claim, but their arguments and evidence as laid out in their paper “*Objects of consciousness*” [^77] can’t be ignored.  What also can’t be ignored is the striking similarity between the two models, as shown below.  (This was also especially striking for me as I learned of this long after the first draft of this book.  Of course, they do a far better job of explaining their idea technically, mathematically, and psychologically.)
 
 <center><img src='../Images/cagents-tholon.png' style='width:90%'/></center>
 
@@ -584,7 +585,7 @@ The *silicate structures* of minerals are also quiet similar in that they are ma
 
 Radical ideas are often met with radical resistance.  Structured water is one of those ideas.
 
-Simply by adding some structure to simple tap water (see examples of how to make structured water in Appendix H, “How to Make Structured Water”) we can see measurable effects.
+Simply by adding some structure to simple tap water (see examples of how to make structured water in [Appendix H, “How to Make Structured Water”](#Appendix-H:-How-To-Make-Structured-Water)) we can see measurable effects.
 
 In Ptok’s Master’s thesis mentioned above, the author examines various tests that grew different plants using tap water and structured water.
 
@@ -592,7 +593,7 @@ In Ptok’s Master’s thesis mentioned above, the author examines various tests
 
 One of his findings was that using structured water increased alfalfa growth by 15.1%.  This may not sound like much, but in the U.S. alone a 15% increase in alfalfa growth represents an additional 20,700,000 tons of alfalfa, which has a value of over 4 billion dollars.
 
-Similarly, some of Australia’s largest produce farms have reported needing 25% less water to produce a superior product than with traditional water (more details in Appendix H).
+Similarly, some of Australia’s largest produce farms have reported needing 25% less water to produce a superior product than with traditional water (more details in [Appendix H,”How To Make Structured Water”](#Appendix-H:-How-To-Make-Structured-Water)).
 
 This is a perfect example of how the simple enhancement of order at the most fundamental level can have radical changes up the chain.  These dramatic results were achieved with only one change to one element in one application.
 
