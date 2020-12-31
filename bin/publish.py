@@ -7,8 +7,6 @@ the CSS files to edit are
 ../Styles/common_book_prod.css.less
 '''
 
-
-
 import publish_lib as pl
 import os
 import sys
@@ -25,6 +23,7 @@ L = "Latest"
 lb = "{"
 rb = "}"
 bs = "\\"
+
 
 def get_version():
     with open(f"{H}/inc/version.txt") as f:
@@ -51,7 +50,6 @@ def update_ver():
 
     os.system(cx)
     return [vernum_before, vernum_after]
-
 
 
 # ----------------------------------------------------------------------------------
@@ -231,7 +229,7 @@ def pub_prep():
     rm -rf {HOME}/tmp >{H}/log 2>&1 #empty tmp fir used to make zip
     rm  {H}/{L}/*   #remove all in Latest
 '''
-#    find {H}/{L} -type l -exec rm {lb}{rb} {bs};  #remove all linked versions
+    #    find {H}/{L} -type l -exec rm {lb}{rb} {bs};  #remove all linked versions
 
     print(cx)
     res = os.system(cx)
@@ -249,6 +247,7 @@ def pub_pdf():
     print(cx)
     res = os.system(cx)
     print(res)
+
 
 def pub_epub():
     vernum = get_version()
@@ -326,7 +325,6 @@ def mkpub():
     pub_zip()
 
 
-
 def cleanold():
     os.system(f"rm {H}/chapters/THOLONIA_THE_BOOK.html")
     os.system(f"rm {H}/chapters/THOLONIA_THE_BOOK.md")
@@ -337,8 +335,8 @@ def cleanold():
 # ----------------------------------------------------------------------
 # -----------------------------------------------------------------------
 
-STATE = "_prod"
-#STATE = "_dev"
+# STATE = "_prod"
+STATE = "_dev"
 
 
 argv = sys.argv[1:]
@@ -355,15 +353,12 @@ for opt, arg in opts:
 
 mkcss()
 
-
 rebuildmd()  # make new complete MD file
 
-
-#use this for testing
+# use this for testing
 # os.system(f"cp {H}/chapters/100.md  {H}/chapters/THOLONIA_THE_BOOK.md")
 
 #
-
 
 
 pub_prep()

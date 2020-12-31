@@ -38,7 +38,7 @@
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA 3.7.29";
+            content: "THOLONIA 3.7.33";
 
             text-align:center;
             font-family: serif;
@@ -65,10 +65,10 @@
 @page {
     // border:@proof-borders;
     size: @page-size;
-    margin-top: 26.5mm+0.3in;
-    margin-bottom: 26.4mm+0.4in;
-    margin-left: 20mm;
-    margin-right: 20mm;
+    margin-top: 26.5mm+0.3in;   /* for DEV only */
+    margin-bottom: 26.4mm+0.4in;  /* for DEV only */
+    margin-left: 20mm;  /* for DEV only */
+    margin-right: 20mm;  /* for DEV only */
     padding: @zero;
     /*height: auto;*/
     /*bottom: 264mm;
@@ -85,6 +85,7 @@ body {
     background: inherit;
     tab-size: 2;
 	line-height: @default_line_height;
+	max-width: 165.1mm+40mm  !important; /*DEV*/
     /* PRINCE-only tags */
     margin-inside: 0.635in !important;
     margin-outside: 0.32in !important;
@@ -141,7 +142,7 @@ h5 {
     text-align: right !important;
     position:relative !important;
     right:0 !important;
-    margin-left: 1em;
+    margin-left: 6.4mm;
     /* THIS IS TO ADJUST THE AUTHORS ATTRIBUTION */
     margin-top: @zero;
     margin-bottom: 13px !important;
@@ -151,6 +152,7 @@ h5 {
 }
 h6 {
     /* this is the sub-headimg */
+    font-style:normal;
     font-family: @h6-font !important;
     text-align: center !important;
     color: black;
@@ -168,7 +170,7 @@ h6 {
 /************************************************/
 /* this is only meant to adjust the author's attribution block */
 blockquote {
-    margin-left: 1em;
+    margin-left: 6.4mm;
     display: block;
     margin-top:@zero;
     margin-bottom:@zero;
@@ -267,7 +269,7 @@ html body nav#TOC ul li ul li ul {
 
 
 @footnote-ref-vertical-align: bottom;
-@footnote-ref-font-size: inherit;
+@footnote-ref-font-size: 8pt;
 @footnote-ref-text-decoration: none;
 @footnote-ref-font-style: normal;
 @footnote-ref-font-weight: 100;
@@ -312,3 +314,6 @@ a[name]:empty:before {
 .md-expand .md-raw-inline {
     display: inline !important;
 }
+
+/* no underline for links */
+a { text-decoration: none; }

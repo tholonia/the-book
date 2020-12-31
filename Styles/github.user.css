@@ -104,3 +104,6 @@ a[name]:empty:before {
 .md-expand .md-raw-inline {
     display: inline !important;
 }
+
+/* no underline for links */
+a { text-decoration: none; }

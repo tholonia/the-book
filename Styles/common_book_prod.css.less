@@ -2,7 +2,7 @@
 /*@page-size: 6.69in  9.61in;*/
 
 /* Amazon complanes the page is too wide.  Made smaller, but only app;lies to "prod" CSS, not "dev"*/
-@page-size: 6.70in  9.62in;
+@page-size: 6.70in  9.62in; /* 175mm x 244.094mm */
 /* this create even more probnlem with border overlapping :/ */
 /*@page-size: 6.70in  9.61in;*/
 
@@ -44,7 +44,7 @@
     @page {
         border:@proof-borders;
 /*        @top-left {
-            content: "THOLONIA 3.7.29";
+            content: "THOLONIA 3.7.32";
 
             text-align:center;
             font-family: serif;
@@ -91,6 +91,7 @@ body {
     background: inherit;
     tab-size: 2;
     line-height: @default_line_height;
+    max-width: 165.1mm  !important; /* 39em = 624px*/
     /* PRINCE-only tags */
     margin-inside: 0.635in !important;
     margin-outside: 0.32in !important;
@@ -147,7 +148,7 @@ h5 {
     text-align: right !important;
     position:relative !important;
     right:0 !important;
-    margin-left: 1em;
+    margin-left: 6.4mm; /* .25 inch */
     /* THIS IS TO ADJUST THE AUTHORS ATTRIBUTION */
     margin-top: @zero;
     margin-bottom: 13px !important;
@@ -157,6 +158,7 @@ h5 {
 }
 h6 {
     /* this is the sub-headimg */
+    font-style:normal;
     font-family: @h6-font !important;
     text-align: center !important;
     color: black;
@@ -173,7 +175,7 @@ h6 {
 /************************************************/
 /* this is only meant to adjust the author's attribution block */
 blockquote {
-    margin-left: 1em;
+    margin-left: 6.4mm; /* .25 inch */
     display: block;
     margin-top:@zero;
     margin-bottom:@zero;
@@ -270,7 +272,7 @@ html body nav#TOC ul li ul li ul {
 
 /* we override these valued when we compile with EPUB setting */
 @footnote-ref-vertical-align: bottom;
-@footnote-ref-font-size: inherit;
+@footnote-ref-font-size: 8pt;
 @footnote-ref-text-decoration: none;
 @footnote-ref-font-style: normal;
 @footnote-ref-font-weight: 100;
@@ -314,3 +316,6 @@ a[name]:empty:before {
 .md-expand .md-raw-inline {
     display: inline !important;
 }
+
+/* no underline for links */
+a { text-decoration: none; }
