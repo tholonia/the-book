@@ -53,7 +53,7 @@ While every tholon is unique, that is not the case for it's instances. There is 
 
 ### Laura Buxton
 
-<img src='../Images/buxtons.png' style='float:right;width:40%'/>In June of 2001, a 10-year-old girl named Laura Buxton released a balloon with her name and address on it, which floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both had guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person.[^181] On the right is a picture of the two Laura Buxtons, who are still friends today.
+<img src='../Images/buxtons.png' style='float:right;width:40%'/>In June of 2001, a 10-year-old girl named Laura Buxton released a balloon with her name and address on it.  That balloon floated 140 miles and landed in the back yard of a house where also lived a 10 year old girl named Laura Buxton.  On the day of the meeting, the two girls wore essentially the same outfit — a pink sweater and jeans.  The girls were the same height, which was unusual because they were both tall for their age.  They both had brown hair and wore it in the same style.  They both had three-year-old black Labrador Retrievers at home, as well as gray pet rabbits.  They both had guinea pigs, which were the same color and even had the same orange markings on their hindquarters.  It was almost as though these two Laura Buxtons were the same person.[^181] On the right is a picture of the two Laura Buxtons, who are still friends today.
 
 *Here there are two instances of the same tholon (which may be one among many) in slight different contexts.  What is fascinating about this is that if it was tholonically predetermined that a red balloon was to carry an address, then both instances, both girls, would have to experience it, which was the case when it was sent by one, and received by another.*
 
@@ -120,6 +120,14 @@ Henry Ziegland thought he had dodged fate.  In 1883, he broke off a relationship
 *The pattern here is the bullet and the intention behind it.  Intentions alone can be their own pattern.  Here, it appears as though the archetype of the intention and the instance of the bullet formed a relationship with its own intention.*
 
 From one perspective you could see all these stories as extremely unlikely coincidences.  From the tholonic perspective, each of these paths and each of these profiles are some of the almost countless patterns that managed to attain enough stability to instantiate.
+
+## Realistically Speaking
+
+These accounts represent some of the more extreme and rare instances of “coincidences” that are neat and clear.  In most cases they tend to be far more comical, confusing, and messy, like so much of life.  A more practical example that we can probably relate to is the following account that a reader shared after reading the above.
+
+> This personal anecdote seems related to this chapter: I had a "Jessie" thing in my earlier life—many of them accumulated. Only part of that was—I was married to Jessie (whose boss's name was Jessie), and had an affair with a man named Jessie. The lover was born in the town of Nelson. He had a wife named Lynn. He had a son named Alexander and a daughter named Anna (Anastasia). My best male friend (who later became my 2nd husband) was named Nelson. His wife's name was Jessie and his girlfriend's name was Lynn. My middle name was Lynn. When I was expecting my 2nd child, (not knowing the names of Jessie 2^nd^ children) I thought I might name a boy Alexander or a daughter Anastasia (Stacy). I always thought this was weird and I didn't understand it. You've helped me understand it. (These are the things you don't put in fiction because they're TOO weird and fiction is supposed to make sense).
+
+
 
 ## Life, Death, Afterlife, 
 
