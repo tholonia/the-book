@@ -610,7 +610,7 @@ Here are the explanations of the transitional or dynamic interactions.
 
 <img src='../Images/bc/trigram-b06.png' style='width:60px'/> 6
 
-*Release* represents accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. It is the initial outward movement that leads to expression. Instances of this are **lightening**, **Big Bang**, **inspiration**.
+*Release* represents accumulated energy that seeks balance, and in the process of balancing itself, dissipates itself and its recipient. It is the initial outward movement that leads to expression. Instances of this are **lightning**, **Big Bang**, **inspiration**.
 
 The trigram shows the symbol of yin energy re-entering the solid yang. The new yin line comes in at the lowest position of beginning, birth, idea.  The yang is still dominant as the middle line is still yang, so the transition is yang in nature.
 
