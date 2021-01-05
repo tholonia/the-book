@@ -66,8 +66,12 @@ If we multiply them, we get V, as V=I&times;R, and if we look at the difference 
 
 The R band appears to be consistently predictive of the closing price, and I suspect that if we understood more about the other lines, we could build a pretty decent market indicator.
 
-This model seems to work better for shorter windows, like 15 minutes,  that large windows, like 24 hours.
+This model seems to work better for shorter windows, like 15 minutes, than larger windows, like 24 hours.
 
 As a test, considering we are looking at this tholonically, below is a chart where the black line is the value that is (V&div;R) &times; (V&div;I), which we’re call the *adjusted indicator*.  This curve is similar to the P curve, but different enough to make a pattern more obvious.
 
 <center><img src='../Images/adjpricecomp.png' style='width:100%'/></center>
+
+For those who analyze the market, here is this model (applied to the Tradingview platform) applied to stocks, commodities, foreign exchange and crypto:
+
+<center><img src='../Images/th-stocks.png' style='width:100%'/></center>
