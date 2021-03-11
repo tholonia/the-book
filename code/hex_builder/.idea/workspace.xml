@@ -20,26 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1373fd7-ab73-4a14-a4bd-e8f1d6b4f61f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Images/bc/Thumbs.db:encryptable" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Images/titlepage.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Images/titlepage.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Latest/THOLONIA_THE_BOOK.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_dev.css.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../Styles/common_book_prod.css.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../chapters/000-Intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/000-Intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/050-REASON.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/050-REASON.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/070-STRUCTURE.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/070-STRUCTURE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/080-MIND.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/090-FIELDS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/100-APPLICATION_OF_AWARENESS.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/100-FIELDS.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/100-FIELDS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/110-PREDETERMINISM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/120-PART-II.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/130-WAY_OF_CHANGE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/515-B-The_Thologram.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/515-B-The_Thologram.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/520-C-Tholonic_Math.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../chapters/560-G-The_Tholonic_I-Ching.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../chapters/560-G-The_Tholonic_I-Ching.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pi.py" beforeDir="false" afterPath="$PROJECT_DIR$/pi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../docs/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../docs/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../inc/metadata_epub.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../inc/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../inc/version.txt" afterDir="false" />
@@ -720,7 +707,6 @@
       <item itemvalue="Python.hex_builder" />
       <item itemvalue="Python.hex_builder_lapse" />
       <item itemvalue="Python.increment_test" />
-      <item itemvalue="Python.pi" />
       <item itemvalue="Python.loopmake" />
       <item itemvalue="Python.moon" />
       <item itemvalue="Python.moon_dat" />
@@ -729,6 +715,8 @@
       <item itemvalue="Python.moon_dat_r" />
       <item itemvalue="Python.moon_im" />
       <item itemvalue="Python.numtree" />
+      <item itemvalue="Python.pi2" />
+      <item itemvalue="Python.pi" />
       <item itemvalue="Python.planet_locations" />
       <item itemvalue="Python.relist" />
       <item itemvalue="Python.tetra2" />
@@ -739,7 +727,6 @@
       <item itemvalue="Python.timetest" />
       <item itemvalue="Python.tricircles" />
       <item itemvalue="Python.vert" />
-      <item itemvalue="Python.pi2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />

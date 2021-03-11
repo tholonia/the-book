@@ -165,9 +165,35 @@ Beyond that, there are 172 different types of this one-in-40000 species in the j
 
 On the other hand, if one were to ask a shaman how these things were discovered, he would simply say, “The plants told us”. Other cultures who have similar stories might say their ancestors told them, or the crickets, or the bones of a sacred animal, or the cracks in the shell of a tortoise after it has been heated and then dropped into cold water and then compared to the position of the stars, as was the case with the origins of the Chinese I-Ching.
 
-
-
 ## Ancient Mysteries
+
+There's another example, and one that has greater implications than simply refuting the idea that life is the result of trillions of simultaneous fortunate coincidences.  This is shared because it appears to be another example where the theory of an *uber* intelligence gives more answers than the current mainstream scientific theory that boils down to essentially "Just lucky, I guess?", but unfortunately, my limited knowledge of the subject permits me to only raise the question.
+
+Consider the human's 23 pairs of chromosomes versus the 24 pairs of our primate ancestors.  How it is that higher primates can have one extra pair of chromosomes than their more “evolved” descendants? Because 4.5 million years ago, the 2^nd^ and 3^rd^ chromosomes of some primate fused together in such a way to create created one chromosome pair that did the job of two.  
+
+I say “evolved” in quotes because it may seem intuitive to think that the more chromosomes a species has, the more “evolved” they are, but were that case, the Hermit Crab, with 254 chromosome pairs, would be the pinnacle of evolution on this planet.
+
+We are not concerned with the significance of 23 vs. 24 chromosome pairs but with the unlikeliness of fusion being the result of a random mutation.
+
+So, our 2nd chromosome does the same thing as the 2nd and 3rd chromosomes of our ancestors.
+
+Mainstream science refers to this chromosomal abnormality as a *Robertsonian translocation*.  This *translocation* happens in about 1 out of every 1000 babies and is usually associated with genetic disorders and syndromes.  This type of genetic mutation is different from a mutation in the DNA itself or even in the genes that the DNA form.  This mutation exists in the highest structure of genetics, the chromosome, which is why chromosomal mutations are usually fatal, and those that are not fatal tend to manifest as Down syndrome, leukemia, and other less-than-ideal side-effects.  As genetic mutations go, a chromosomal mutation that results in an evolutionary leap is as likely as surviving a fall from 30,00 feet and landing on the winning lottery ticket in downtown Shangri-La.
+
+Still, *Robertsonian translocation* does a terrible job of explaining the minus-one chromosome that resulted in humans.   Typically, a *Robertsonian translocation* is when a part of one chromosome breaks off and gets attached to some part of another chromosome, but our 2nd chromosome is not simply a broken part of one chromosome attached to another; rather, it is a perfectly functioning set of merged chromosomes.
+
+To suggest that this fusion was a *Robertsonian translocation*, we'd first have to accept that there was one primate that had this genetic abnormality who was lucky enough to mate with another primate that had this exact same abnormality (because 23-pair and 24-pair primates cannot reproduce), and that these two primates, and only these two primates, were responsible for the entire human race, that is unless we also accept that somewhere else on the planet there was another pair of primates with the exact same mutation that mated. Of course, for this mutation to continue, the children of these two identically mutated monkeys would have to only reproduce with their siblings... forever.
+
+But let's suspend reason for a moment and pretend that happened and that humans are, in fact, the results of 4.5 million years of mutated inbreeding.
+
+Telomeres are a section of DNA that cap the ends of our chromosomes, similar to typing a know at the end of a string to keep it from fraying.
+
+Centromeres are segments of DNA located in-between the telomeres, usually near the middle of a chromosome (hence, the name), and they are critical to successful cell division.
+
+So, telomeres are at the tips of a chromosome, and centromeres are in the center, normally.  In the case of the human's fused 2nd chromosome, there are four telomeres, one at each end, and two in the center, which we'd expect if we fused to complete chromosomes together.  Imagine taking two pencils, both sharpened at both ends,  and putting them end to end; you'd have two tips, one at each and, and two tips connected in the center. There are also two centromeres, one at each center of each pencil. So now we have a chromosome that has the 'stopping' telomeres in the center as well as two "growing' centromeres.  This should spell DNA disaster, but it doesn't!  Why, because, by the miracle of impossible luck, one of the two centromeres and both central inner telomeres happen to be deactivated.
+
+There actually exists a lively debate between geneticists regarding the origins of the human 2nd chromosome and the reasons why/how it proved to be an evolutionary advantage, and therefore why it was able to spread among the gene pool.  Outside of the mainstream arguments, there is also the hypothesis that our 2^nd^ chromosome was intentionally engineered by a visiting race that also had 23 chromosomes, and by making a 23-pair ape, these visitors were able to add some of their own genetic traits to the new hybrid they just created.
+
+The question we ask here is not what is "true" or not, but which model provides a better understanding, i.e., which theory has better test-results and predictions, regardless whether it was aliens, natural radiation, or the ingestion of genetically altering edibles.
 
 This same reasoning, I believe, applies to so many of the ancient mysteries that are inexplicable within our current understanding, and not only cosmic mysteries, but technical as well[^306]. The fantastic details and specificity of the Babylonian creation story (the *Enuma Elish*), the Vedic scriptures, the Epic of Gilgamesh, and other compelling evidence from cultures around the world that speak of other intelligences at play, suggest that mankind had access to an intelligence (and/or an intelligence had access to man) beyond what we currently believe was possible.
 
