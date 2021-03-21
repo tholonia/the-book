@@ -224,11 +224,21 @@
 [^309]: **Freedom in the World** (2018), published by Freedom House, **Democracy Index** (2017), published by The Economist Intelligence Unit, **V-Dem Annual Democracy Report** (2018), published by the V-Dem Institute
 
 [^310]: Emily L. Doolittle, Bruno Gingras, Dominik M. Endres, and W. Tecumseh Fitch, PNAS November 18, 2014 111 (46) 16616-16621; first published November 3, 2014; https://doi.org/10.1073/pnas.1406023111.  Science article available at: https://www.sciencemag.org/news/2014/11/birds-found-using-human-musical-scales-first-time
+
 [^311]: Araya-Salas, M. (2012). Is birdsong music? Evaluating harmonic intervals in songs of a Neotropical songbird. *Animal Behaviour,* *84*(2), 309-313. doi:10.1016/j.anbehav.2012.04.038.  Seience article available at https://www.sciencemag.org/news/2012/08/birdsong-not-music-after-all
 
 [^312]: Rose GJ. **“The numerical abilities of anurans and their neural correlates: insights from neuroethological studies of acoustic communication.”** Philos Trans R Soc Lond B Biol Sci. 2017 Feb 19;373(1740):20160512. doi: 10.1098/rstb.2016.0512. PMID: 29292359; PMCID: PMC5784039.
+
 [^313]: Gregson, R. A. (2006). *Informative Psychometric Filters*. ANU E Press. Chapter 6 “Tribonacci and Long Memory”.  Available at http://press-files.anu.edu.au/downloads/press/p128921/pdf/ch0626.pdf
+
 [^314]: http://watermanpolyhedron.com/130constants.htm
 
 [^315]: “**All the physical constants as the factor of 2 times 3 times pi**.”, http://watermanpolyhedron.com/130constants.htm
 
+[^316]: Kurzweil, **"Tracking the acceleration of intelligence."** (n.d.). Retrieved March 21, 2021, from https://www.kurzweilai.net/cnn-ray-kurzweil-humans-will-be-hybrids-by-2030
+
+[^317]: Kurzweil, R., &amp; Miles, K. (October 2015). **"Nanobots In Our Brains Will Make Us Godlike"**. New Perspectives Quarterly, 32(4), 24-29.
+
+[^318]: Saniotis A, Henneberg M, Sawalma AR. **"Integration of Nanobots Into Neural Circuits As a Future Therapy for Treating Neurodegenerative Disorders"**. Front Neurosci. 2018;12:153. Published 2018 Mar 21. doi:10.3389/fnins.2018.00153
+
+[^319]: Martins, N. R., Angelica, A., Chakravarthy, K., Svidinenko, Y., Boehm, F. J., Opris, I., . . . Freitas, R. A. (2019). **“Human Brain/Cloud Interface”**. *Frontiers in Neuroscience,* *13*. doi:10.3389/fnins.2019.00112

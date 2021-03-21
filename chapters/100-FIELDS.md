@@ -141,6 +141,9 @@ Not exactly.  Not only is there a mountain of evidence to support its existence[
 - Many research projects developing telepathic processes and products.[^114]^,^ [^115]^,^ [^116]
 - U.S. military (DARPA) developing telepathy-based weapons.[^117]
 - Elon Musk, Facebook, and others all developing telepathy-based tools.[^118]^,^ [^119]^,^ [^120]^,^ [^121]
+- Google’s *neuroprosthetics* (brain augmentation nanobots[^319]^,^ [^318]) that will, according to their director of engineering, Ray Kurzweil, not only result in human hybrids by 2030[^316], but will “make us godlike”[^317] (we are assuming these godlike powers include telepathy, ESP, and more).
+
+While it’s true that a lot of research and development in the area of telepathy is based on technology-induced telepathy, such as “neural clouds” which will be indistinguishable from current data-clouds, it is still driven by the idea of telepathy.  In other words, we have the understanding and belief that telepathy is a real phenomena that can be improved upon.
 
 Sheldrake himself has a lot to say supporting the existence of some sort of telepathy in the documentary “*Scientific Evidence of Telepathy: Documentary.”*[^122]
 
@@ -528,5 +531,9 @@ Consider these ideas in light of the relatively recent discoveries that experien
 [^157]: Dr. Wojciech Zurek of the Los Alamos National Laboratory explains the concept of quantum Darwinism in an interview at the Institute for Quantum Computing that you can see on YouTube at <https://www.youtube.com/watch?v=27zMdaBgt6g>
 [^158]: “**How Large Is an Atom of Music? A Tour through Today's Spectral Music and Software at UCSD.**” *Rhizome.org*, 27 Apr. 2011, classic.rhizome.org/editorial/2011/apr/27/how-large-atom-music-tour-through-todays-spectral-/.
 [^159]: Dias, Brian & Ressler, Kerry. (2013). **Parental olfactory experience influences behavior and neural structure in subsequent generations**. Nature neuroscience. 17. 10.1038/nn.3594. www.researchgate.net/publication/259109859. See also articles: <https://www.bbc.com/news/health-25156510> and <http://www.telegraph.co.uk/news/science/science-news> article **"Phobias may be memories passed down in genes from ancestors"**
-[^307]: Radin, D., Hayssen, G., Emoto, M., & Kizu, T. (2006). Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation. *Explore,* *2*(5), 408-411. doi:10.1016/j.explore.2006.06.004
+[^307]: Radin,D.,Hayssen,G.,Emoto,M.,&Kizu,T. (2006). **Double-Blind Test of the Effects of Distant Intention on Water Crystal Formation**. Explore,2(5), 408-411. doi:10.1016/j.explore.2006.06.004
+[^316]: Kurzweil, **"Tracking the acceleration of intelligence."** (n.d.). Retrieved March 21, 2021, from https://www.kurzweilai.net/cnn-ray-kurzweil-humans-will-be-hybrids-by-2030
+[^317]: Kurzweil, R., &amp; Miles, K. (October 2015). **"Nanobots In Our Brains Will Make Us Godlike"**. New Perspectives Quarterly, 32(4), 24-29.
+[^318]: Saniotis A, Henneberg M, Sawalma AR. **"Integration of Nanobots Into Neural Circuits As a Future Therapy for Treating Neurodegenerative Disorders"**. Front Neurosci. 2018;12:153. Published 2018 Mar 21. doi:10.3389/fnins.2018.00153
+[^319]: Martins, N. R., Angelica, A., Chakravarthy, K., Svidinenko, Y., Boehm, F. J., Opris, I., . . . Freitas, R. A. (2019). **“Human Brain/Cloud Interface”**. *Frontiers in Neuroscience,* *13*. doi:10.3389/fnins.2019.00112
 
