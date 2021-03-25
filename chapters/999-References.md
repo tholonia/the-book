@@ -242,3 +242,17 @@
 [^318]: Saniotis A, Henneberg M, Sawalma AR. **"Integration of Nanobots Into Neural Circuits As a Future Therapy for Treating Neurodegenerative Disorders"**. Front Neurosci. 2018;12:153. Published 2018 Mar 21. doi:10.3389/fnins.2018.00153
 
 [^319]: Martins, N. R., Angelica, A., Chakravarthy, K., Svidinenko, Y., Boehm, F. J., Opris, I., . . . Freitas, R. A. (2019). **“Human Brain/Cloud Interface”**. *Frontiers in Neuroscience,* *13*. doi:10.3389/fnins.2019.00112
+
+[^320]: Interestingly, there is a relatively unknown young man, Matias De Stefano,  who was born in 1987 in a small town outside of Buenos Aries, Argentina, where he still lives, and who claims that not only was he born with full memory of his existence prior to being born, but that his "job" in this pre-incarnate reality was that of an "information specialist" or "librarian" of sorts, collecting, managing and disseminating information from all realities and dimensions.  He claims he has returned to earth to finish a mission he began thousands of years ago but failed to complete.
+
+Whether one believes his claims or not, it is hard not to be impressed with his detailed, clear, rational, and somewhat technical explanation regarding the structure and nature of reality.  He is mentioned here because, coincidentally, he explains:
+
+*"The 8th dimension is where you can see everything from one spot. The 8th dimension has the information of everything,  of every second over millions of years, from every perspective of the universe."*
+
+(For what it's worth, he also says each dimension has its own form of technology, and the 9th dimension is a black hole, *"The place and time where there is no place or time"*, and the last dimension that exists in the physical reality)
+
+Theosophists and anthroposophists call this 8 dimensional reality the *Akashic Records*, which is described as a compendium of all universal events, thoughts, words, emotions, and intentions ever to have occurred in the past, present, or future.
+
+Here we have a Magic Crystal that is hypothesized as the source of all creation, past, and future and also happens to also be 8 dimensions.  This is mentioned not to lend or remove any validity to these various models of reality but to show how similar conceptual patterns are expressed via different philosophies and perspectives; scientific, mathematical, metaphysical, or mystical.
+
+I also mention him here because his explanation of reality is entirely compatible with the Tholonic model, albeit less technically detailed but more complex, so for those more "spiritually" aligned, his perspective may be valuable.
