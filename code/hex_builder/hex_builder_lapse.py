@@ -183,11 +183,11 @@ argv = sys.argv[1:]
 # pprint(argv)
 
 try:
-    opts, args = getopt.getopt(argv, "hl:e:d:i:f:t:", ["length=", "deviation=", "increment=", "fromangle=", "toangle="])
+    opts, args = getopt.getopt(argv, "hl:e:d:i:f:t:s:", ["help", "length=", "deviation=", "increment=", "fromangle=", "toangle=","subdir="])
 except getopt.GetoptError:
     print('test.py -h -l <length> -e <length variation> -d <deviation> -i <increment> -f <from angle> -t <to angle>')
     sys.exit(2)
-
+sub = "eps"
 for opt, arg in opts:
     # print(opt,arg);
     if opt == '-h':
@@ -195,7 +195,7 @@ for opt, arg in opts:
         sys.exit()
     if opt in ("-l", "--length"):
         L = int(arg)
-    if opt in ("-e", "--lengthvariation"):
+    if opt in ("-e", "--deviation"):
         _L = float(arg)
     if opt in ("-i", "--increment"):
         _P = arg
@@ -203,6 +203,11 @@ for opt, arg in opts:
         lo = arg
     if opt in ("-t", "--toangle"):
         hi = arg
+    if opt in ("-s", "--subdir"):
+        sub = arg
+
+cmd = f"./hex_builder_lapse.py   -l {L} -e {_L} -f {lo} -t {hi}"
+print(cmd)
 
 # print('Length (L) :',L)
 # print('Increment (_P) :',_P)
@@ -210,20 +215,20 @@ for opt, arg in opts:
 # print('To (hi) :',hi)
 
 count = 5  # coiunt+1 = number of generations
-angle = 60  # angle of separation
-sz = 14  # size of arrowhead
-Lorg = 25  # default length of line
-ps = 0  # point size
-cpi = 0  # thickness of line
-W = [5,4,3,2,1,0]  # W = [39,30,22,14,3]# W = [2,2,2,2,2,2]# W = [1,1,1,1,1,1]
+angle = 60  #5 # angle of separation
+sz    = 14  # size of arrowhead
+Lorg  = 25  # default length of line
+ps    = 0  # point size
+cpi   = 0  # thickness of line
+W     = [5,4,3,2,1,0]  # W = [39,30,22,14,3]# W = [2,2,2,2,2,2]# W = [1,1,1,1,1,1]
 
 poss = []
-cc = 0
-pi = 0
+cc   = 0
+pi   = 0
 
 screen = Screen()
-screen.setup(500,500)
-
+screen.setup(1200,1200)
+screen.tracer(0)
 t = Turtle()
 
 t.color(255, 255, 255)
@@ -232,13 +237,12 @@ t.setx(0)
 t.sety(0)
 # t.right(90)
 
-
 t.forward(L)
 t, color("white")
 pos = t.position()  # store pos
-x = pos[0]
-y = pos[1]
-t.speed(9)
+x   = pos[0]
+y   = pos[1]
+t.speed(0)
 
 poss = []
 
@@ -262,7 +266,6 @@ clr = [
     , "#cb7d98"
     , "#ca4c25"
     , "#d4db37"
-
 ]
 
 # ----------------------------------------------------
@@ -271,33 +274,35 @@ clr = [
 # FIRST
 # change_color(t)
 # t.color("pink")
-bifur(t, x, y, 0, "white");
+bifur(t, x, y, 0, "white")
 # print("FIRST: ")
 # print(cc,len(poss))
 # pprint(poss)
-pi = pi + 1
 
-die = 0;
+pi  = pi + 1
+die = 0
 
 for p in range(count):
-
     t.color(clr[p % len(clr)])
     t.pensize(W[p % len(W)])
 
     cpi = 0
     for i in range(len(poss)):
 
-        L = random_deviate(L, _L)  # get new length
+        #L = random_deviate(L, _L)  # get new length
 
         # -----------------------------------------------------------------------------------------------------
         # these randomly alter the deviation of each pair by a percentage relative to their natural position
         # -----------------------------------------------------------------------------------------------------
-        angle = random_deviate(angle, _P)
+        angle = random_deviate(angle, int(_P))
 
         # -----------------------------------------------------------------------------------------------------
         # these chooses thh angle randomly between two absolutes
         # -----------------------------------------------------------------------------------------------------
-
+        # hi, lo = 60, 60  # young plant
+        # hi, lo = 0, 16 # young plant
+        # hi, lo = 0, 60  # bush
+        # hi, lo = 0, 360  # chaos
         angle = deviate(angle, hi, lo)
 
         # print(angle, L)
@@ -305,7 +310,7 @@ for p in range(count):
         u = i
         if poss[u][3] == p:
             if p <= count:
-                bifur(t, poss[u][0], poss[u][1], poss[u][2], clr[p % len(clr)]);
+                bifur(t, poss[u][0], poss[u][1], poss[u][2], clr[p % len(clr)])
     # print("--------------------------ROUND: ", p, ": ", cpi)
     pi = pi + 1
     cpi = cpi + 2
@@ -316,12 +321,27 @@ t.color("white")
 
 ts = t.getscreen()
 ang = "{:02d}".format(int(angle))
-ts.getcanvas().postscript(file=f"eps/hex-{ang}.eps")
-cmd = f"epstopdf eps/hex-{ang}.eps"
+
+os.system(f"mkdir {sub}")
+
+ts.getcanvas().postscript(file=f"{sub}/hex-{ang}.eps")
+cmd = f"epstopdf {sub}/hex-{ang}.eps"
 print(cmd)
 os.system(cmd)
 
-cmd = f"convert -rotate -90 -density 300 -trim eps/hex-{ang}.pdf -quality 100 eps/hex-{ang}.png "
+cmd = f"convert -rotate -90 -density 300 {sub}/hex-{ang}.pdf -quality 100 {sub}/hex-{ang}.gif "
+print(cmd)
+os.system(cmd)
+
+# cmd = f"convert -rotate -90 -density 300 {sub}/hex-{ang}.pdf -quality 100 {sub}/hex-{ang}.jpg "
+# print(cmd)
+# os.system(cmd)
+#
+# cmd = f"convert -rotate -90 -density 300 {sub}/hex-{ang}.pdf -quality 100 {sub}/hex-{ang}.png "
+# print(cmd)
+# os.system(cmd)
+
+cmd = f"rm {sub}/hex-{ang}.eps {sub}/hex-{ang}.pdf "
 print(cmd)
 os.system(cmd)
 

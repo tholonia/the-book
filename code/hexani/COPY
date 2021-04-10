@@ -1,0 +1,41 @@
+#!/bin/bash
+
+if [ $# -eq 0 ]; then
+    echo "$0 <from_name> <from_num> <to_name> <to_num>"
+    echo "   ex: $0 CACTUS 01 CACTUS 22"
+    exit 1
+fi
+
+
+
+
+FROM="$1_$2"
+TO="$3_$4"
+
+echo "COPYING: [${FROM}] -> [${TO}]"
+
+mkdir ${TO}
+
+cp ${FROM}/build* ${TO}/
+
+echo "#!/bin/bash" > ${TO}/build.sh
+echo "status=pending" >> ${TO}/build.sh
+echo "rating=TBD" >> ${TO}/build.sh
+echo "name=\"${3}\"" >> ${TO}/build.sh
+echo "series=\"${4}\"" >> ${TO}/build.sh
+echo " " >> ${TO}/build.sh
+echo "source \"/home/jw/books/tholonia/code/hexani/build_incl_1.sh\"" >> ${TO}/build.sh
+echo "source \"/home/jw/books/tholonia/code/hexani/\${name}_\${series}/build.dat.sh\"" >> ${TO}/build.sh
+echo "source \"/home/jw/books/tholonia/code/hexani/build_incl_2.sh\"" >> ${TO}/build.sh
+echo "" > ${TO}/description.txt
+
+
+
+perl -p -e 's/status=finished/status=pending/gmi'  ${TO}/build.dat.sh
+perl -p -e 's/status=running/status=pending/gmi'  ${TO}/build.dat.sh
+perl -p -e 's/status=TBD/status=pending/gmi'  ${TO}/build.dat.sh
+
+joe ${TO}/build.dat.sh ${TO}/description.txt
+
+echo "joe ${TO}/build.dat.sh ${TO}/description.txt"
+

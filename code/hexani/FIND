@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [ $# -eq 0 ]; then
+    echo "$0 <string>"
+    echo "   ex: $0 usecolor"
+    echo "(search limited to files < 3K"
+    exit 1
+fi
+
+#find -type f |grep $1|grep build.dat.sh|awk '{print "grep usecolor /dev/null "$$2}'|sh|sort
+
+
+find  -not -name "*.gif" -not -name "*.mp4" -type f -size -3k -exec grep $1 /dev/null {} \; 
