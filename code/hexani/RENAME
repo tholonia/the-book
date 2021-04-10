@@ -1,0 +1,43 @@
+#!/bin/python
+
+import os, sys, getopt, random
+
+argv = sys.argv[1:]
+oldname=""
+oldnum=""
+newname=""
+newnum=""
+
+
+
+try:
+    opts, args = getopt.getopt(argv, "n:N:s:S:",["oldname=","newname=","oldnum=","newnum="])
+    if len(opts) == 0:
+        print("RENAME -n <old_name> -s <old_num> -N <new_name> -S <new_num>")
+        print("    ex; RENAME -n CACTUS -s 09 -N KAKTUZ -S 01")
+        sys.exit()
+except getopt.GetoptError as err:
+    print(err)
+    sys.exit(2)
+for opt, arg in opts:
+    if opt in ("-n", "--oldname"):
+        oldname=arg
+    if opt in ("-N", "--newname"):
+        newname=arg
+    if opt in ("-s", "--oldnum"):
+        oldnum=arg
+    if opt in ("-S", "--newnum"):
+        newnum=arg
+
+
+
+cmd = f"mv {oldname}_{oldnum} {newname}_{newnum}"
+print(cmd)
+#os.system(cmd)
+
+fromstr = f"{oldname}_{oldnum}"
+tostr = f"{newname}_{newnum}"
+cmd = f"perl -pi -e 's/{oldname}_{oldnum}/{newname}_{newnum}/gmi' {newname}_{newnum}/build.sh "
+print(cmd)
+#os.system(cmd)
+
