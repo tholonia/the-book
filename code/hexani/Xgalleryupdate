@@ -1,0 +1,6 @@
+#!/bin/bash
+rm ./GALLERY/*
+find -name "zthumbnail_*_FAST.jpg" | awk -F"/" '{print "cp "$0" ./GALLERY/"$3".jpg " }'|sh
+
+
+

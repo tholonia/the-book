@@ -1,3 +1,20 @@
+
+rm RUN XRUN ; ln -fs /home/jw/books/tholonia/code/hexani/RUN ./ && ln -fs /home/jw/books/tholonia/code/hexani/XRUN ./
+
+ln -fs /home/jw/books/tholonia/code/hexani/UPDATE
+
+ln -fs /home/jw/books/tholonia/code/hexani/TOMLUPDATE 
+
+ps |grep -v ps | grep -v zsh|awk '{print "kill -9 "$1}'|sh
+
+
+BUGS...
+
+flowercolor chanhe seems to be affesting stems.  see, ex: TXM_1 
+spectrums have choppy restarts. 
+
+
+
 UTILS:
 
 colorData.py - build new color arrays and store them in ./colordata

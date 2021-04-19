@@ -235,6 +235,8 @@ def getColors():
         colors = {
             'random': [rndClr(), rndClr(), rndClr(), rndClr(), rndClr(), rndClr()],
             'denimbamboo': ["#3a5065", "#e7d5ad","#3a5065", "#e7d5ad","#3a5065", "#e7d5ad"],
+            'blues': ["#0900bc", "#0030ef", "#421cef", "#6666ff", "#5489ef", "#89acff"],
+            'yellows': ["#ffba00", "#ffbf00", "#ffd800", "#ffdf00", "#ffff00", "#fff77d"],
             'greens': ["#68bb59", "#acdf87", "#4c9a2a", "#76ba1b", "#a4de02", "#1e5631"],
             'browns': ["#33190b", "#672400", "#a14415", "#a95815", "#c69552", "#d7b17e"],
             'darkgrays': ["#000000", "#111111", "#222222", "#333333", "#444444", "#555555"],
@@ -274,6 +276,18 @@ spec = {'pi': [],
         'prog_C': [],
         'prog_C_fast': [],
         'prog_C_medium': [],
+        'aura_red':[],
+
+        "denimbamboo":[],
+       "greens":[],
+       "browns":[],
+       "yellows":[],
+       "blues":[],
+       "darkgrays":[],
+       "lightgrays":[],
+       "default":[],
+       "medical_gray":[],
+       "medical_gray_3":[],
         }
 
 
@@ -295,9 +309,22 @@ def getSpectrums():
         spec['prog_C'].append(progClr10(ANGLE))
         spec['prog_C_fast'].append(progClr10(ANGLE, "fast"))
         spec['prog_C_medium'].append(progClr10(ANGLE, "medium"))
-        np.save(f"colordata/spectrums", spec)
+
+    spec['denimbamboo']= ["#3a5065", "#e7d5ad","#3a5065", "#e7d5ad","#3a5065", "#e7d5ad"]
+    spec['greens']= ["#68bb59", "#acdf87", "#4c9a2a", "#76ba1b", "#a4de02", "#1e5631"]
+    spec['browns']= ["#33190b", "#672400", "#a14415", "#a95815", "#c69552", "#d7b17e"]
+    spec['yellows']= ["#ffba00", "#ffbf00", "#ffd800", "#ffdf00", "#ffff00", "#fff77d"]
+    spec['blues']= ["#0900bc", "#0030ef", "#421cef", "#6666ff", "#5489ef", "#89acff"]
+    spec['darkgrays']= ["#000000", "#111111", "#222222", "#333333", "#444444", "#555555"]
+    spec['lightgrays']= ["#ffffff", "#eeeeee", "#dddddd", "#cccccc", "#bbbbbb", "#aaaaaa"]
+    spec['default']= ["#5a3313", "#a86f3b", "#7d8558", "#cecc06", "#cb7d98", "#ca4c25", "#d4db37"]
+    spec['medical_gray']= ["#567097", "#6291d8", "#aed4c4", "#6ed0eb"]
+    spec['medical_gray_3']= ["#567097", "#6291d8", "#6ed0eb"]
+    spec['aura_red']= ["#F51720", "#FA26A0", "#F8D210", "#2FF3E0"]
+
     print(spec)
 
+    np.save(f"colordata/spectrums", spec)
 
 cmd = "rm colordata/*"
 os.system(cmd)

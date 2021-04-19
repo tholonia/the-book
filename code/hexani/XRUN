@@ -1,0 +1,9 @@
+#!/bin/bash
+./RUN &
+
+echo "" > nohup.out
+xterm -e zsh -c 'tail -f nohup.out' &
+
+WAIT
+ps |grep -v ps | grep -v zsh|awk '{print "kill -9 "$1}'|sh
+

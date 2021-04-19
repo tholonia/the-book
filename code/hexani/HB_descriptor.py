@@ -4,140 +4,68 @@ import os,sys,getopt, time, datetime, subprocess
 import os.path
 from os import path
 
+import toml
+sys.path.insert(1, '/home/jw/books/tholonia/code/hexani/')
+import lapselib as ll
+thisprog = os.path.basename(__file__)
+ll.banner(thisprog)
 
-def makeArgs(myargs):
-    longargs = []
-    for k in myargs.keys():
-        longargs.append(k)
+# -- load config data ------------
+cwd = os.getcwd()
 
-    shortargs = ""
-    for k in myargs.values():
-        shortargs = shortargs +  k
+# try:
+#     opts, args = getopt.getopt(argv, "d:", ["dir="])
+# except getopt.GetoptError as err:
+#     sys.exit(2)
+# for opt, arg in opts:
+#     if opt in ("-d", "--dir"):
+#         dir = arg
+#         tmp = dir.split("_")
+#         name = tmp[0]
+#         series = tmp[1]
 
-    sargs = ""
-    shortargsAry = []
-    for a in  myargs.values():
-        a = a.replace(":","")
-        a = f"-{a}"
-        shortargsAry.append(a)
-        sargs = sargs +  a
+wpath = f"{cwd}"
 
-    largs = []
-    for a in  myargs.keys():
-        a = a.replace("=","")
-        a = f"--{a}"
-        largs.append(a)
+C = toml.load(f"{wpath}/build.toml")
+WD = C['def']['root']
+# -- end load -----------------------
 
-    comp = {}
-    for i in range(0,len(largs)):
-        # print(largs[i])
-        # print(shortargsAry[i])
-        comp[largs[i]] = shortargsAry[i]
-    # print(comp)
-    # print(sargs)
-    # print(largs)
-    #
-    return longargs,shortargs, comp
+angDev	        = C['args']['angDev']
+lenDev	        = C['args']['lenDev']
+usecolor	    = C['args']['usecolor'][0]
+use_alt_color	= C['args']['usecolor'][1]
+ncount	        = C['args']['ncount']
+name		    = C['def']['name']
+length	        = C['args']['length']
+angle	        = C['args']['angle']
+style	        = C['args']['style']
+flowersize	    = C['args']['flowersize']
+desklock	    = C['def']['desklock']
+outline	        = C['args']['outline'][0]
+growflower	    = C['args']['growflower']
+series	        = C['def']['series']
+syncpoints	    = C['args']['syncpoints']
+cores	        = C['args']['cores']
+randclr	        = C['args']['randclr']
 
-argv = sys.argv[1:]
+start = C['args']['SES'][0]
+end = C['args']['SES'][1]
+step = C['args']['SES'][2]
 
-angDev      = "1:1"
-lenDev      = "0:0"
-usecolor    = "medical_gray"
-use_alt_color = usecolor
-ncount      = 6
-name        = "MISSING"
-SES         =[0,361,1]
-length      = 60
-angle       = 27
-style       = 0
-flowersize  = 15
-locked      = 1
-outline     = "no"
-growflower  = 0
-series      ="MISSING"
-syncpoints  = 0
-cores       = 1
-randclr     = 0
+lengthr = C['args']['length'][0][0]
+lrsub = int(C['args']['length'][0][1])
+lrfun = C['args']['length'][0][2]
+# lAry = tmp[1].split(",")
+lengthl = C['args']['length'][1][0]
+llsub = int(C['args']['length'][1][1])
+llfun = C['args']['length'][1][2]
+
+ldets = C['args']['angDev'][0] #lenDev.split(":")
+adets = C['args']['angDev'][1] #angDev.split(":")
 
 
-myargs = {
-         "angDev="	        :"-a",
-         "lenDev="	        :"-l",
-         "usecolor="	    :"-c",
-         "use_alt_color="	:"-z",
-         "ncount="	        :"-n",
-         "name="		    :"-N",
-         "SES="		        :"-t",
-         "length="	        :"-L",
-         "angle="	        :"-A",
-         "style="	        :"-S",
-         "flowersize="	    :"-F",
-         "desklock="	    :"-D",
-         "outline="	        :"-o",
-         "growflower="	    :"-g",
-         "series="	        :"-s",
-         "syncpoints="	    :"-w",
-         "cores="	        :"-C",
-         "randclr="	        :"-r",
-
-}
-
-longargs, shortargs, comp = makeArgs(myargs)
-
-try:
-    opts, args = getopt.getopt(argv, shortargs, longargs)
-except getopt.GetoptError as err:
-    print("--------------------------------------------------")
-    print(f"HB_frames.py: {err}")
-    print("--------------------------------------------------")
-    sys.exit(2)
-for opt, arg in opts:
-    if opt in (comp['--angDev'], "--angDev"):
-        angDev = arg
-    if opt in (comp['--lenDev'], "--lenDev"):
-        lenDev = arg
-    if opt in (comp['--usecolor'], "--usecolor"):
-        usecolor = arg
-    if opt in (comp['--use_alt_color'], "--use_alt_color"):
-        use_alt_color = arg
-    if opt in (comp['--ncount'], "--ncount"):
-        ncount = int(arg)
-    if opt in (comp['--name'], "--name"):
-        name = arg
-    if opt in (comp['--SES'], "--SES"):
-        _SES = arg.split(',')
-        SES[0] = int(_SES[0])
-        SES[1] = int(_SES[1])
-        SES[2] = int(_SES[2])
-    if opt in (comp['--length'], "--length"):
-        length = arg
-    if opt in (comp['--angle'], "--angle"):
-        angle = arg
-    if opt in (comp['--style'], "--style"):
-        style = arg
-    if opt in (comp['--flowersize'], "--flowersize"):
-        flowersize = arg
-    if opt in (comp['--desklock'], "--desklock"):
-        locked = int(arg)
-    if opt in (comp['--outline'], "--outline"):
-        outline = arg
-    if opt in (comp['--growflower'], "--growflower"):
-        growflower = int(arg)
-    if opt in (comp['--series'], "--series"):
-        series = arg
-    if opt in (comp['--syncpoints'], "--syncpoints"):
-        syncpoints = int(arg)
-    if opt in (comp['--cores'], "--cores"):
-        cores = int(arg)
-    if opt in (comp['--randclr'], "--randclr"):
-        randclr = int(arg)
-
-ldets = lenDev.split(":")
-adets = angDev.split(":")
-
-ares = "(random)" if adets[1] == 1 else "(fixed)"
-lres = "(random)" if ldets[1] == 1 else "(fixed)"
+ares = "(random)" if C['args']['angDev'][1] == 1 else "(fixed)"
+lres = "(random)" if C['args']['lenDev'][1] == 1 else "(fixed)"
 rclr = "Yes" if randclr == 1 else "No"
 
 
@@ -152,19 +80,15 @@ desc = desc + f"Alt Color Palette: {use_alt_color}\n"
 desc = desc + f"Random pallete colors: {rclr}\n"
 
 desc = desc + f"Line style: Style {style}\n"
-desc = desc + f"Line length: {length}px\n"
-desc = desc + f"Length deviation: { int( float(ldets[0])*100 ) }% {lres}\n"
+desc = desc + f"Line (left) length: {lengthl}px\n"
+desc = desc + f"Line (right) length: {lengthr}px\n"
+desc = desc + f"Length deviation: { C['args']['lenDev'][1] * 100 }% {lres}\n"
 
 desc = desc + f"Cores: {cores}\n"
 desc = desc + f"Resolution: 3020px x 2691px\n"
 desc = desc + f"Outline: {outline}\n"
-desc = desc + f"From {SES[0]} deg. To {SES[1]}, Stepped by: {SES[2]} deg.\n"
-desc = desc + f"Angular deviation: { int( float(adets[0])*100 ) }% {ares}\n"
-
-start = SES[0]
-end = SES[1]
-step = SES[2]
-
+desc = desc + f"From {start} deg. To {end}, Stepped by: {step} deg.\n"
+desc = desc + f"Angular deviation: { C['args']['angDev'][1] * 100 }% {ares}\n"
 
 descriptions = {
             'random': "randomly chosen",
@@ -191,12 +115,12 @@ descriptions = {
             'prog_C_fast': "determined by 3 (fast) sine waves seperated by harmonics of the SQRT(2)",
             'prog_C_medium':"determined by 3 (medium) sine waves seperated by harmonics of the SQRT(2)",
 }
-dline = "(i.e, the lines do not exist at all, only the arrowheads... in this version)" if (int(length) == 0) else ""
+dline = "(i.e, 0 length means only the arrowhead exist)" if ((int(lengthl) == 0) or (int(lengthr) == 0)) else ""
 
 
 
 
-predescfile= f"/home/jw/books/tholonia/code/hexani/{name}_{series}/predescription.txt"
+predescfile= f"{WD}/predescription.txt"
 pre = ""
 if path.exists(predescfile):
     with open(predescfile, 'r') as file:
@@ -216,41 +140,39 @@ md = md + f"'{name}', series {series}, image 4 (overlaid images, white backgroun
 md = md + f"\n"
 md = md + f"Details\n"
 md = md + f"------------ \n"
-md = md + f"This animated GIF (or video) is made up of {int(SES[1])-1} images, each separated by 1 "
-md = md + f"degree (with a deviation of { int( float(adets[0])*100 ) }%).  Each image is 3020px x 2691px, and shows {ncount} "
-md = md + f"levels of bifurcation of lines {length}px each {dline}, which can change by { int( float(ldets[0])*100 ) }%.  Each "
+md = md + f"This animated GIF (or video) is made up of {end-1} images, each separated by {step} "
+md = md + f"degree (with a deviation of { adets*100 }%).  Each image is 3020px x 2691px, and shows {ncount} "
+md = md + f"levels of bifurcation of lines that are {lengthr}px long for the right, and {lengthl}px long for the left {dline}, which can change by { ldets*100 }%.  Each "
 md = md + f"line is terminated with an arrowhead in the 'starboard' side of the line, "
 md = md + f"thus indicating the line's direction.  The arrowheads are {flowersize}px long, and "
 md = md + f"given that they are geometrically created relative to the line, they will be "
-md = md + f"different shapes at different degrees.  They are perfect arrowheads at 60 "
-md = md + f"degrees.  The {ncount} generations of lines are drawn with the line "
-md = md + f"widths of {style}, and the colors are {descriptions[usecolor]}. \n"
+md = md + f"different shapes at different degrees.  They are perfect and accurate arrowheads at 60 "
+md = md + f"degrees.  The colors, widths, angels, and lengths and determined  algorithmically. \n"
 md = md + f"\n"
 md = md + f"The Background \n"
 md = md + f"----------------- \n"
-md = md + f"This video is made from an animated GIF that is based on quaternary math and "
+md = md + f"This animated GIF is based on quaternary math and "
 md = md + f"synergetic geometry as described in the book 'Tholonia: The mechanics of existential "
 md = md + f"awareness.', by Duncan Stroud. Briefly, this image is the result of a single line that splits "
-md = md + f"itself into two lines, six times.  The variables are the colors, the amount "
-md = md + f"of unpredictability allowed, the length and thickness of the lines, the "
-md = md + f"artifact at the end of each line, and a few other small details. \n"
+md = md + f"itself into two lines, {ncount} times.  The variables and the colors, line widths and lengths, and angles, and the amount "
+md = md + f"of unpredictability allowed. \n"
 md = md + f"\n"
 md = md + f"This animation (and many more) was specifically created to be used as a "
 md = md + f"'brain hacking' tool.  Simply watching it (over time, of course) will cause "
 md = md + f"the brain to form new pattern recognition abilities, new neural connections, "
-md = md + f"and as a result, new perspectives of reality. \n"
+md = md + f"and as a result, new physiologically based cognitive abilities. \n"
 md = md + f"\n"
-md = md + f"Each frame is paused for 600 milliseconds as this the amount of time it "
+md = md + f"Each frame is paused for 600 milliseconds (in the original GIF animation) as this the amount of time it "
 md = md + f"takes the brain to instantiate a concept, such as thoughts to words, "
 md = md + f"intention to movement, etc.  Each image is one degree apart deliberately to "
 md = md + f"allow the brain the register a fixed image rather than see a continuously "
 md = md + f"moving image. "
 md = md + f"\n"
 
-filename = f"/home/jw/books/tholonia/code/hexani/{name}_{series}/DESCRIPTION.txt"
-print("---------------------------------------------")
-print(f"{filename}")
-print("---------------------------------------------")
+filename = f"{WD}/DESCRIPTION.txt"
+# print(">>>>>>>>",flush=True)
+# print(f"{filename}",flush=True)
+# print("<<<<<<<<",flush=True)
 f = open(filename, "w")
 f.write(md)
 f.close()

@@ -1,0 +1,68 @@
+[def]
+repo            = "/home/jw/books/tholonia/code/hexani/"
+root            = "/home/jw/books/tholonia/code/hexani/NEWDIR"
+name            = "NEWNAME"
+series          = "NEWSERIES"
+PSN             = NEWPSN
+delay           = 60
+status          = "pending"
+compression     = ""                   # -O1, -O2, -O3 ... -O2 being the most practicle
+background      = [false,true]         # 1st = state for "build.py, 2nd for HB_frames.py
+desklock        = 1                     # 1 = hide the turtle screen
+update          = true                 # use new version (loads new code, 'false' uses old/local version)
+zoomframenum        = "select"
+NODELETE        = false
+DESCRIPTOR_ONLY = false
+RUNGIFONLY      = false
+
+# ----------------------------------------------------------------------------------------
+[args]
+ncount          = 6
+SES             = [0, 361, 1]
+angle           = 60                    # is 'angles necessary?
+
+length          = [ ["40","0","NULL"],["40","0","NULL"] ]
+#length         = [ ["40","1","osc_aLL_big"],["20","0","osc_aLL_small"] ]
+
+                                        # "stop_at_60":    length size will grow until 60, thenj stay there
+                                        # "osc_aLL_big":   oscillate the lengths between 60px and 100px every 60 dergees
+                                        # "osc_aLL_small": oscillate the lengths between 20px and 60px every 60 dergees
+
+
+
+                                        # <length(R)>,<adjust(R)>,<function(R)>:<length(L)>,<adjust(L)>,<function(L)>
+                                        # ex: "0,1,osc_btn_20_and_80:0,1,osc_btn_20_and_80"
+                                        # starts as zero, increases by 1, called the function 'osc_btn_20_and_80'
+hardangle       = [0,0]                 # adjust the R/L angles by this number of degrees ex: [12,-6]
+lenDev          = [0.0,0.0]
+angDev          = [0.0,0.0]             # <pct>:<random> <0.0|1.0>:<0.0|1.0> ... has to be type float
+floDev          = true                  # follows "lenDev"
+
+                                        # <pct> is percent, but as decimal, 0.3 = 30%.
+                                        # <random> 1=only use HIGHEST value, 0=randomely chosese btn LOWEST and HIGHEST
+syncpoints      = 0                     # 0 = off (only valid if there is angular or length randomness)
+
+usecolor        = ["blues","yellows"]             # stem color, leave color
+#usecolor        = ["default","prog_C_fast"]      # stem color, leave color
+
+
+outline         = ["0","0"]      # <no", or <color name> | <color code> | "reverse"
+                                        # pensize can be optionally defined as ...  black:4, if using codes, '#A467ED:3', it MUST be quote
+                                        # options are: "complementary", "contrast", "reverse"
+
+stempalette     = 0                     # us the first entry of 'usecolor' for stems
+flowerpalette   = 1                     # and the 2nd entry for flowers
+
+style           = [9,8,7,6,5,4,3]
+flowersize      = 24                    # remember to adjust 'length'... length + flowersize <= 70
+
+growflower      = 0                     # 0 = off/NO, 1 = on/YES
+
+cores           = 1                     # 1 or 2
+randclr         = false                 # selects random colors within palette (mainly used for short palettes, like "greens")
+show_right     = true
+show_left     = true
+
+dot             = [0,0]                 # [0,0] = off, [<color>,<sizestr>], ["red","20"], ["#fe6352","20"]
+#dot = ["red","level_x_2"] # not working
+#dot = ["red","10"]

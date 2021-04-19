@@ -56,6 +56,19 @@ t.speed(9)
 spectrums = np.load(f"colordata/spectrums.npy", allow_pickle=True)
 # pprint(spectrums['progres])
 
+slist2=[
+    "denimbamboo",
+    "yellows",
+    "blues",
+    "greens",
+    "browns",
+    "darkgrays",
+    "lightgrays",
+    "default",
+    "medical_gray",
+    "medical_gray_3",
+    "aura_red",
+    ]
 slist=[
     "prog_A",
     "prog_B",
@@ -71,9 +84,38 @@ slist=[
     "progressive3",
     "progressive4",
 ]
+
+
+for s in slist2:
+    colors = spectrums.item().get(s)
+    print(s)
+    print(colors)
+    for j in range(0,3):
+        for i in range(0,len(colors)): #361):
+            t.color(colors[i])
+            print(i)
+            t.penup()
+            t.forward(40)
+            t.pendown()
+            t.dot(50)
+    t.penup()
+    # t.sety(ypos-50)
+    t.pendown()
+    t.color("black")
+    t.write(s)
+    t.penup()
+
+    ypos = ypos - 100
+    t.penup()
+    t.sety(ypos)
+    t.setx(xpos)
+    t.pendown()
+
 for s in slist:
     colors = spectrums.item().get(s)
-    for i in range(0,361):
+    print(s)
+    print(colors)
+    for i in range(0,len(colors)): #361):
         t.color(colors[i])
         print(i)
         t.forward(4)
