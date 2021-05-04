@@ -1,8 +1,0 @@
-cp /home/jw/books/tholonia/code/hexani/HB_descriptor.py ./_HB_descriptor.py
-cp /home/jw/books/tholonia/code/hexani/HB_frames.py     ./_HB_frames.py
-cp /home/jw/books/tholonia/code/hexani/HB_lapse.py      ./_HB_lapse.py
-cp /home/jw/books/tholonia/code/hexani/HB_pub.py        ./_HB_pub.py
-cp /home/jw/books/tholonia/code/hexani/HB_rungif.py     ./_HB_rungif.py
-cp /home/jw/books/tholonia/code/hexani/HB_speedup.py    ./_HB_speedup.py
-cp /home/jw/books/tholonia/code/hexani/HB_zoomin.py    ./_HB_zoomin.py
-
